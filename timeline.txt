@@ -378,7 +378,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-07%206A2BEBB1-CA00-46B1-A222-D626F6F0A2E8.txt
-Summary: 
+Summary: The transcript contains the lyrics to Bobby McFerrin's 1988 song "Don't Worry, Be Happy" with no substantive discussion or conversation taking place. The document appears to be a music transcription rather than a meeting or dialogue transcript, offering no actionable business or decision-making information.
 
 UUID: EFD27C90-4F7A-47F3-8ADA-D0FABC7DE571
 Type: VOICE UPDATE
@@ -387,7 +387,7 @@ Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-08%20EFD27C90-4F7A-47F3-8ADA-D0FABC7DE571.txt
-Summary: 
+Summary: The speakers are developing a cryptocurrency app called FJB (standing for both "Fuck Joe Biden" and "Freedom, Jobs, and Business") scheduled for March release that will enable merchants to accept payments and serve as a multi-currency wallet with FJB as the primary token. The project donated 25 million tokens to support the Canadian trucker convoy protests after GoFundMe blocked their fundraising, positioning FJB as "the main coin of the right" with promotion from Steve Bannon's War Room podcast and other conservative media figures.
 
 UUID: 4F85A53E-E11D-4C8A-9BC5-9BA06D5FA916
 Type: VOICE UPDATE
@@ -396,7 +396,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-21%204F85A53E-E11D-4C8A-9BC5-9BA06D5FA916.txt
-Summary: 
+Summary: The speaker previewed beta screenshots of the FJB cryptocurrency app, announcing a revised launch date of March 16th instead of March 7th to ensure proper testing and security through their custom token bridge that will allow instant purchases using credit/debit cards or bank accounts. The app will simplify the buying process from potentially days to approximately two minutes by automatically routing USD through BUSD and PancakeSwap on the Binance Smart Chain, while the team, including Trump administration officials Boris Epstein and Steve Bannon, prepares for a major marketing campaign to make the FJB app a "household name."
 
 ~~~~~~~~~~~~~~
 2022 MARCH
@@ -409,7 +409,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-04%20C6EA4C9D-AB5D-49A8-B9F8-103893E61FEF.txt
-Summary: 
+Summary: The speaker reflects on FJB's evolution since its October 22nd launch, expressing excitement about the upcoming app release on March 16th while acknowledging they've been quieter recently due to personal matters. They emphasize the strength of the leadership team including Bannon, Boris, and Finman who worked with President Trump, noting these calculated individuals are several steps ahead in their strategy and wouldn't launch without everything properly prepared.
 
 UUID: F9CF9862-8BF3-4A1D-86A4-8C64B5871088
 Type: VOICE UPDATE
@@ -418,7 +418,7 @@ Speakers: Grant Tragni, D0nni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-08%20F9CF9862-8BF3-4A1D-86A4-8C64B5871088.txt
-Summary: 
+Summary: The speaker announces "Shill Week" starting March 9th, exactly one week before the FJB app launch on March 16th, with community member Donnie organizing a prize pool of 1.65 million FJB tokens for whoever promotes the coin most aggressively across social media platforms. The speaker reflects emotionally on the journey since October, recalling early days when they slept only 55 minutes at a time to monitor Discord and Telegram, and promises to do a pizza-eating challenge before the app launches as a throwback for original community members.
 
 UUID: CDDADCA4-D34D-401C-9E54-5322B1A9103D
 Type: VOICE UPDATE
@@ -427,7 +427,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-16%20CDDADCA4-D34D-401C-9E54-5322B1A9103D.txt
-Summary: 
+Summary: The FJB app launch scheduled for March 16th was delayed due to ongoing testing of the off-ramp/selling functionality and complications from one developer being in Kiev, Ukraine during the war, though the team assured delays would be minimal. Despite missing the deadline, the speaker emphasized the team's commitment with endorsers like Boris, Bannon, Bernie Carrick and Ryan still actively involved, while web traffic remained extremely high with people constantly refreshing the website in anticipation.
 
 UUID: 115D9B59-41D3-440D-99EB-2ED95CF3FAE9
 Type: VOICE UPDATE
@@ -436,7 +436,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-29%20115D9B59-41D3-440D-99EB-2ED95CF3FAE9.txt
-Summary: 
+Summary: The speaker apologizes for lacking transparency and promises renewed "day one energy" while confirming the FJB app will launch "within the week" (next seven days) despite ongoing bug fixes, with one developer working from war-torn Kiev, Ukraine. The team rejected an $850,000 listing fee from KuCoin exchange to instead build an American-made app that will serve as a bridge to bring Trump's 74 million voters into crypto through an all-in-one marketplace featuring NFTs, conservative retailers like MyPillow, and a 1% burn mechanism on app purchases.
 
 ~~~~~~~~~~~~~~
 2022 APRIL
@@ -449,7 +449,7 @@ Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-04-18%20A1D13409-81F4-4F82-A354-E82B81BDB203.txt
-Summary: 
+Summary: The app launch attracted 4,500 new users with projections of tens of thousands by day's end before a third-party API provider shut down the cash-to-crypto conversion service after their compliance team raised concerns about Steve Bannon's involvement with the project. The development team estimates it will take one week to rebuild the API functionality in-house to prevent future deplatforming, with all user funds remaining safe and accessible through alternative withdrawal methods.
 
 ~~~~~~~~~~~~~~
 2022 MAY
@@ -462,7 +462,7 @@ Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-05-09%2067968051-F9C5-4C9A-A1C5-A033C5FF7BF7.txt
-Summary: 
+Summary: The app relaunch is targeted for later this week with the marketing campaign beginning next week, requiring only one non-technical component to complete before deployment across web, iOS App Store, and Google Play Store platforms. Eric Finman predicts FJB coin will perform well during what he anticipates will be continued market downturns under Biden's economic policies, positioning the cryptocurrency as a hedge against inflation similar to how Bitcoin originally functioned for libertarian investors during the 2008 financial crisis.
 
 UUID: 59B3D4DA-0527-4851-8C87-7B54C6872A1E
 Type: VOICE UPDATE
@@ -471,7 +471,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-05-11%2059B3D4DA-0527-4851-8C87-7B54C6872A1E.txt
-Summary: 
+Summary: [INCOMPLETE]
 
 ~~~~~~~~~~~~~~
 2022 JUNE
@@ -484,7 +484,7 @@ Speakers: Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-06-01%206968AC72-BACE-4793-9FAA-BC8FB81AEAC9.txt
-Summary: 
+Summary: The Android app is now live on Google Play Store and the iOS app is in TestFlight awaiting Apple's final approval, with Transact API recently approved to enable easier cryptocurrency buying and selling functionality. Marketing campaign launch is scheduled for before July 4th, targeting tens of millions of conservative voters through interviews and influencer networks, with a one to two week beta testing period planned after iOS approval to ensure the platform can scale properly.
 
 ~~~~~~~~~~~~~~
 2022 JULY
@@ -501,7 +501,7 @@ Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-08-19%20FEB01E25-B443-4E7A-A6B5-CD3B9C89AC52.txt
-Summary: 
+Summary: USD to FJB coin Transact integration is now complete, enabling direct and easy purchasing of FJB cryptocurrency without the conversion barriers that previously existed. The platform has been updated with a simplified three-card user interface system displaying USD/USDC, other cryptocurrencies, and FJB coin separately, making transactions more intuitive for users across desktop, iOS, and Android platforms.
 
 UUID: 08389890-8D4F-4226-A81A-2383A5A2E85E
 Type: VOICE UPDATE
@@ -510,7 +510,7 @@ Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-08-25%2008389890-8D4F-4226-A81A-2383A5A2E85E.txt
-Summary: 
+Summary: Eric Finman announced he will be promoting the Freedom Jobs and Business crypto wallet app during his America's Future PAC midterms tour starting in September, which has already received 50,000 RSVPs across three events. The development team is adding major cryptocurrencies including Bitcoin, Dogecoin, Ethereum, and BNB to the wallet platform to create a comprehensive one-stop solution for cryptocurrency transactions that can compete with established platforms like Coinbase.
 
 ~~~~~~~~~~~~~~
 2022 OCTOBER
@@ -527,7 +527,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-11-06%20BC024F8E-B7E2-4A90-9288-CB27740DF402.txt
-Summary: 
+Summary: The speaker emphasizes that building the coin project requires patience and persistent effort rather than expecting overnight success, noting they remain passionate about the project because they share Boris and Steve's vision of it becoming a top 50 cryptocurrency. They mention having a scheduled call about the coin immediately after the Discord voice chat and reference a recent successful rally, expressing excitement about upcoming developments in the week ahead.
 
 ~~~~~~~~~~~~~~
 2022 DECEMBER
@@ -544,7 +544,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-01-05%20B8AFAACA-CDB7-4489-934F-935807871DBA.txt
-Summary: 
+Summary: Testing instructions for PPY will be released over the weekend with a 5,000 PPY per buy limit ($2 worth), allowing community members to test through wallets like TrustWallet and MetaMask before full trading is enabled with 24-hour notice. The anti-bot system will tax traders who sell within a customizable timeframe after buying (potentially 12-24 hours), with double the standard 8% tax rate to prevent sandwich bot attacks that previously affected FJB holders.
 
 ~~~~~~~~~~~~~~
 2023 FEBRUARY
@@ -589,7 +589,7 @@ Speakers:
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-10-27%20E7EF7585-0D14-4C70-B125-1AD3064694F2.txt
-Summary: 
+Summary: The development team completed their audit review but is waiting for the original developer to approve recommended changes before implementation, with expectations for resolution within the next week. The team is preparing for their first public event on October 28th with merchandise and gift cards containing Patriot Pay coins, followed by a major event scheduled for December with TPUSA where press passes have been secured.
 
 UUID: D37AECBE-DA0B-44B2-9097-4D87E2A4881F
 Type: VOICE UPDATE
@@ -598,7 +598,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-10-31%20D37AECBE-DA0B-44B2-9097-4D87E2A4881F.txt
-Summary: 
+Summary: Major breakthroughs were achieved on both the app and task development, with the app developers estimating completion of failed transaction fixes and bug resolution within 48 hours and all work potentially finished by week's end. The development and audit review teams are expected to complete their work by the end of the week, with Velo rejoining as a holder and providing significant assistance to the project.
 
 ~~~~~~~~~~~~~~
 2023 NOVEMBER
@@ -610,7 +610,7 @@ Date: 2023-11-04
 Speakers: 
 Audio File: 
 Transcript: transcripts/2023-11-04%20757907A4-36C0-412B-BC25-AA8EC368E67A.txt
-Summary: 
+Summary: The failed transaction issues in the app have been fixed but not yet deployed, with developers working on correcting gas estimation problems between user wallets and the operator wallet to prevent future transaction failures. Nine developers are currently active across multiple projects with an additional three development teams being evaluated for upcoming work, and the task reveal remains on track for November independent of the app's readiness.
 
 UUID: 18E993BD-78A0-4C13-BC6F-27537290D76C
 Type: VOICE UPDATE
@@ -619,7 +619,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-11-07%2018E993BD-78A0-4C13-BC6F-27537290D76C.txt
-Summary: 
+Summary: Failed transactions in the app have been fixed but not yet deployed as developers are completing additional bug fixes to avoid user frustration, with two current projects working on app improvements before rollout. The task development is complete on the technical side and awaiting external factors, with launch still expected in November according to current confidence levels.
 
 UUID: 7D460EC8-3211-47C2-A350-47A2E6619C3E
 Type: VOICE UPDATE
@@ -628,7 +628,7 @@ Speakers:
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-10%207D460EC8-3211-47C2-A350-47A2E6619C3E.txt
-Summary: 
+Summary: The development team is on track to complete current app functions by Monday or Tuesday, with the next phase expected to take 1.5-2 weeks, potentially achieving app readiness for community testing by Thanksgiving. The main developer is finalizing the task package for third-party processing, which could take 1-10 days once submitted, with task reveal not dependent on app completion but TPUSA event participation requiring a fully functional app.
 
 UUID: 9EDAEB03-00F7-4FA8-A86E-E101A091D0EE
 Type: VOICE UPDATE
@@ -637,7 +637,7 @@ Speakers:
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-14%209EDAEB03-00F7-4FA8-A86E-E101A091D0EE.txt
-Summary: 
+Summary: Phase two of app development will be completed tonight with deployment for community testing possible by end of week, while phase three (the most complicated portion) is estimated to take 1.5-2 weeks and should be completed around Thanksgiving. The task materials are being finalized by the main developer for submission to third party this week, with task reveal still on track for November and not dependent on app completion.
 
 UUID: 23E86CC4-DD45-4BDA-A38C-978422FDC88D
 Type: VOICE UPDATE
@@ -646,7 +646,7 @@ Speakers:
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-18%2023E86CC4-DD45-4BDA-A38C-978422FDC88D.txt
-Summary: 
+Summary: The project's app deployment for testing is expected this week with API issues being resolved, while users must immediately transfer their coins off LBank and XT exchanges as both are delisting the cryptocurrency due to low volume. The team expects to complete phase 4 development by Monday ahead of the Thanksgiving deadline, positioning them to potentially secure a booth at TPUSA's December 16-19 event which has over 15,000 registered attendees.
 
 UUID: 8BB7B96D-2E53-4291-92A3-37F48D68AD12
 Type: VOICE UPDATE
@@ -655,7 +655,7 @@ Speakers:
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-11-21%208BB7B96D-2E53-4291-92A3-37F48D68AD12.txt
-Summary: 
+Summary: The team is testing a new simplified login system that allows users to access wallets using just their seed phrase, eliminating previous complex VEST authentication issues that caused login failures for many users. Users must immediately remove their coins from LBank and XT exchanges which are delisting the cryptocurrency, and the task reveal remains scheduled for November despite ongoing development challenges.
 
 UUID: 21FD6A40-00DA-42D3-A698-081B7847D821
 Type: VOICE UPDATE
@@ -664,7 +664,7 @@ Speakers:
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-25%2021FD6A40-00DA-42D3-A698-081B7847D821.txt
-Summary: 
+Summary: The app's login issues have been resolved allowing users to recover accounts using just their seed phrase, and all transactions should now be successful with off-ramp to bank accounts taking less than five minutes. The task reveal remains scheduled for November with confirmation expected by the end of the weekend, though the team's confidence in being ready for TPUSA in December has decreased due to the need to integrate the task into the app first.
 
 UUID: B40665DC-B2CC-451B-AAAE-55AEAB39A191
 Type: VOICE UPDATE
@@ -673,7 +673,7 @@ Speakers:
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-11-29%20B40665DC-B2CC-451B-AAAE-55AEAB39A191.txt
-Summary: 
+Summary: The team is waiting on a third-party vendor who requested two more days to complete their portion of the task, with testing potentially available by month-end despite uncertainty about meeting the December 5th deadline for TPUSA. Over 2,000 wallets containing hundreds of millions of coins remain on XT and LBank exchanges which are delisting the cryptocurrency, with some individual wallets holding over $10,000 worth that will be lost if not transferred immediately.
 
 ~~~~~~~~~~~~~~
 2023 DECEMBER
@@ -686,7 +686,7 @@ Speakers:
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-12-01%20CE4A4CF4-4199-4CB1-BB03-B32EA6790639.txt
-Summary: 
+Summary: Major technical developments were completed this morning with the announcement video being finalized for testing to begin, potentially on Tuesday following their regular Tuesday-Friday schedule. The app's white screen issues were fixed in a push two hours before the call, while a new development team began work to complete the app integration within three to four days for potential TPUSA attendance.
 
 UUID: 06C14CAD-D48D-4E97-A2F3-A790C6057F19
 Type: VOICE UPDATE
@@ -695,7 +695,7 @@ Speakers:
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-12-05%2006C14CAD-D48D-4E97-A2F3-A790C6057F19.txt
-Summary: 
+Summary: Third party vendors have reached the 24-hour notice threshold where they only need 24 hours to complete their remaining work once given permission to proceed. Security professionals discovered two vulnerabilities in the app including one from November 2022, which the team is addressing before going live, making TPUSA attendance with the app unlikely though going live this week remains possible.
 
 UUID: 73357664-332F-4982-AF6C-044AFAC4CD20
 Type: VOICE UPDATE
@@ -704,7 +704,7 @@ Speakers:
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-12-18%2073357664-332F-4982-AF6C-044AFAC4CD20.txt
-Summary: 
+Summary: The team is rebranding from FJB to PatriotPay (PPY) on the Polygon chain with a 1:1 token fork, waiting for ChangeNow integration and app store name changes before going live this week. The new contract includes advanced features like LP sync and political donation capabilities, with the team deciding between burning tokens versus funding liquidity to balance holder value with marketing needs for growth.
 
 UUID: EC1F670E-3AEC-4306-A4D7-B7A41A59C913
 Type: VOICE UPDATE
@@ -713,7 +713,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-12-22%20EC1F670E-3AEC-4306-A4D7-B7A41A59C913.txt
-Summary: 
+Summary: The team expects to complete liquidity pool pairing and begin internal testing of the PPY (Patriot Pay) contract within 24-48 hours, followed by community testing with transactions limited to 8,000 PPY before full trading is enabled with 24-hour advance notice. The airdrop snapshot has been taken for FJB holders who had coins in DEX wallets, while those with coins still on centralized exchanges LBANK and XT are advised to sell their FJB and wait to buy PPY since their exchange wallets were not included in the snapshot.
 
 UUID: 1337C8F2-7A4A-44F6-A3F4-FFD75D0DF290
 Type: VOICE UPDATE
@@ -722,7 +722,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-12-27%201337C8F2-7A4A-44F6-A3F4-FFD75D0DF290.txt
-Summary: 
+Summary: The team is awaiting completion of an API component from their advisor to begin internal testing of the PPY contract, which is expected to take 2-3 days followed by community testing before airdrops can occur and trading is enabled. Testing has been delayed for three days due to an app-related deliverable from Velo who has gone missing, forcing the team to proceed with their advisor handling the implementation instead.
 
 UUID: 066FE4E6-57C5-4240-A9D8-CB7E3B01416F
 Type: VOICE UPDATE
@@ -731,7 +731,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-12-29%20066FE4E6-57C5-4240-A9D8-CB7E3B01416F.txt
-Summary: 
+Summary: The team completed development of a new smart wallet agent contract and sent it to developers for app integration, which is expected to be done within 24 hours, after which internal testing will begin for 2-3 days followed by community testing before airdrops can occur. Testing and airdrops are now unlikely to happen in 2023 given it's December 29th, with the first week of January being more realistic assuming testing goes smoothly.
 
 ~~~~~~~~~~~~~~
 2024 JANUARY
