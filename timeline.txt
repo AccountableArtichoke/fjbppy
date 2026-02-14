@@ -1,4 +1,5 @@
 contact fjbvoicetranscripts@proton.me with updates/suggestions
+contact fjbvoicetranscripts@proton.me with to full copy of audio files and/or transcripts
 
 `TIMELINE`
 
@@ -1182,7 +1183,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-04%20C667CA2A-8092-4CDA-86D2-29C3852CD9A8.txt
-Summary: 
+Summary: The classified marketplace section is scheduled for completion by Monday, allowing users to list their own items for sale with admin approval required, featuring wallet-to-wallet messaging capabilities for buyer-seller communication. Marketing initiatives include an influencer campaign starting with 80,000 followers before scaling to 500,000 followers, complemented by email campaigns and text messages to Republican voters, though initial responses reveal significant educational gaps about cryptocurrency among conservative audiences.
 
 UUID: 9ECB8512-4F20-4EBB-B4A1-B92E9F3DACD3
 Type: VOICE UPDATE
@@ -1191,7 +1192,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-16%209ECB8512-4F20-4EBB-B4A1-B92E9F3DACD3.txt
-Summary: 
+Summary: The app's user base has more than tripled since social media marketing began, prompting plans for targeted email campaigns to convert signups into buyers while the development team completes security fixes for the classified marketplace section that requires admin approval for edited posts. Coffee and dog treat products from vendors, including a Shark Tank-featured business, are expected to launch in the marketplace by the end of July, with the classified section allowing peer-to-peer sales using PPY tokens through the Expert Wallet system.
 
 UUID: 0CB6610D-F780-435D-9414-1AE13784C8ED
 Type: VOICE UPDATE
@@ -1200,7 +1201,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-19%200CB6610D-F780-435D-9414-1AE13784C8ED.txt
-Summary: 
+Summary: The app's classified section is now live allowing users to list items for sale with manual shipping coordination, while the development team continues working on automated security features and addressing a critical bug where wallet addresses don't auto-populate during Matic purchases, causing new users to enter incorrect addresses. Coffee and dog treat products remain on schedule for launch before the end of July pending receipt of labels, with several new businesses reaching out for marketplace listings following recent social media advertising campaigns.
 
 UUID: C45AE75B-EC9B-4072-AE98-CF4EC9D7AC76
 Type: VOICE UPDATE
@@ -1209,7 +1210,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-23%20C45AE75B-EC9B-4072-AE98-CF4EC9D7AC76.txt
-Summary: 
+Summary: The development team is implementing an escrow smart contract system for the marketplace that will hold buyer payments until delivery confirmation via tracking numbers, protecting users from potential fraud while administrators retain manual release capabilities for dispute resolution. The company is scheduled to launch coffee and dog treat products by the end of July pending receipt of items from suppliers, including products from a business featured on Shark Tank, with all suppliers ready to begin fulfillment immediately upon receipt.
 
 UUID: 43A5A410-3CFD-4AF2-947C-85D07ECFFB6B
 Type: VOICE UPDATE
@@ -1218,7 +1219,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-26%2043A5A410-3CFD-4AF2-947C-85D07ECFFB6B.txt
-Summary: 
+Summary: The development team is actively working on critical bug fixes including transaction failures when users attempt purchases over change limits and a wallet address entry issue with onRamper that forces manual entry and disrupts the user flow, particularly impacting first-time crypto users. The company has more than tripled its user base since beginning influencer marketing campaigns, though management recognizes a fundamental disconnect where their target audience of non-crypto users struggles to grasp basic cryptocurrency concepts, necessitating even more simplified educational content than originally planned.
 
 UUID: 5B53E25F-6EBA-412C-970B-4451A1054E04
 Type: VOICE UPDATE
@@ -1227,7 +1228,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-30%205B53E25F-6EBA-412C-970B-4451A1054E04.txt
-Summary: 
+Summary: The development team is testing the escrow function for marketplace transactions after making security modifications to protect user privacy, with all current marketplace listings temporarily removed for the implementation. The direct listing integration contract has been fully approved and signed, with implementation expected well within Q3, while Conservative Barbie and Conservative Ant will resume social media marketing in August pending the resolution of the OnRamper wallet address auto-populate bug that's causing users to manually enter addresses and potentially input incorrect information.
 
 ~~~~~~~~~~~~~~
 2024 AUGUST
@@ -1240,7 +1241,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-02%2043FD8E75-5270-467B-9558-51C567E13DEB.txt
-Summary: 
+Summary: The escrow function for marketplace transactions has been completed and deployed, protecting buyers and sellers by holding funds until delivery confirmation, while the direct on-ramp integration agreement has been signed with implementation expected much sooner than originally planned. Development continues smoothly with the team addressing the OnRamper wallet address auto-populate bug as the highest priority before launching marketing campaigns including TV network ads during rallies, email lists reaching several million people, and podcast advertising once testing is complete.
 
 UUID: CAEAA076-3491-4369-9355-D7B43BFEFF10
 Type: VOICE UPDATE
@@ -1249,7 +1250,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-06%20CAEAA076-3491-4369-9355-D7B43BFEFF10.txt
-Summary: 
+Summary: The OnRamper wallet address auto-populate bug has been identified as a timing issue and the fix should be completed by Thursday, clearing the way for August marketing campaigns across email lists reaching several million people, news networks at Trump rallies, and podcasts. A critical user error was discovered where sending MATIC to Smart Wallet PPY addresses instead of Expert Wallet MATIC addresses causes funds to appear on blockchain but not in the wallet, prompting the development team to prioritize a recovery solution sooner than originally planned.
 
 UUID: 9F5E718B-4C84-419D-9460-4C2B74F08FF7
 Type: VOICE UPDATE
@@ -1258,7 +1259,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-09%209F5E718B-4C84-419D-9460-4C2B74F08FF7.txt
-Summary: 
+Summary: The OnRamper wallet address auto-populate bug fix has been completed and is in final testing before deployment, while the development team is integrating a DEX (QuickSwap) into the app this week to provide backup swapping options when ChangeNow experiences issues. The team is implementing native coin support in smart wallet mode to recover funds sent to wrong addresses, and direct on-ramp integration allowing USD to PPY purchases without first buying MATIC is nearing completion, enabling August marketing campaigns if testing goes smoothly.
 
 UUID: 36F8944E-4ABA-4183-945C-AD3552045EE7
 Type: VOICE UPDATE
@@ -1267,7 +1268,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-13%2036F8944E-4ABA-4183-945C-AD3552045EE7.txt
-Summary: 
+Summary: The OnRamper wallet address bug has been narrowed down to occurring in one specific instance and should be fixed within 24 hours, while the development team has deployed initial Patriot Perks functionality to the front end for testing. The direct on-ramp payment will be completed this week, and the team expects to launch email marketing campaigns to several hundred thousand recipients this month, potentially securing advertising during a rally at month's end if testing goes well.
 
 UUID: CA079BF2-55EC-4C4C-86CE-B8BC4AF3A9C0
 Type: VOICE UPDATE
@@ -1276,7 +1277,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-16%20CA079BF2-55EC-4C4C-86CE-B8BC4AF3A9C0.txt
-Summary: 
+Summary: The OnRamper wallet address auto-populate bug that was causing new users to send funds to incorrect addresses has been fixed, though the team needs users to test and confirm the fix is working properly before launching marketing campaigns. The development team has completed fixes for all reported bugs, finished the gift card functionality pending network testing, and is actively working on adding a recovery function for users who send funds to wrong wallet addresses, with an estimated completion timeframe of early next week before email and podcast marketing can begin in August.
 
 UUID: E8FCFD5C-92A6-4795-BBD6-6039295A6277
 Type: VOICE UPDATE
@@ -1285,11 +1286,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-27%20E8FCFD5C-92A6-4795-BBD6-6039295A6277.txt
-Summary: 
-
-~~~~~~~~~~~~~~
-2024 SEPTEMBER
-~~~~~~~~~~~~~~
+Summary: Marketing is scheduled for August 29th at a Trump rally with graphics and scripts approved, though the company is still waiting on final confirmation and payment details from the advertising firm. The direct on-ramp payment will be made this week with integration expected within a month, while two developers are urgently working to recover funds mistakenly sent to wrong addresses in the smart wallet, with a definitive answer on recovery possibility expected tonight.
 
 UUID: 2397E815-C41B-42E7-8661-E956158615FB
 Type: VOICE UPDATE
@@ -1298,7 +1295,11 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-30%202397E815-C41B-42E7-8661-E956158615FB.txt
-Summary: 
+Summary: The company confirmed two advertising slots at Candace Owens events in the second half of September while their planned Trump rally advertisements were cancelled due to sold-out slots, with the direct on-ramp integration payment completed and on track for September launch. Development continues on an automated PPY buying feature with planned discounts for users who schedule recurring purchases as part of their Patriot Perks program, while the Polygon network transition is scheduled for September 4th requiring no user action.
+
+~~~~~~~~~~~~~~
+2024 SEPTEMBER
+~~~~~~~~~~~~~~
 
 UUID: 86A5699D-2613-418A-AD2E-F5E256462D93
 Type: VOICE UPDATE
@@ -1307,7 +1308,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-03%2086A5699D-2613-418A-AD2E-F5E256462D93.txt
-Summary: 
+Summary: The direct on-ramp integration remains on track for September completion with marketing campaigns including two confirmed Candace Owens event advertisements in late September and potential additional placement in early September pending confirmation. The company is implementing an automated PPY buying feature allowing users to schedule recurring purchases with planned discounts for users who utilize this function as part of their Patriot Perks program.
 
 UUID: E67B0812-2B7C-4181-80D2-4FB8CDC88C8B
 Type: VOICE UPDATE
@@ -1316,7 +1317,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-06%20E67B0812-2B7C-4181-80D2-4FB8CDC88C8B.txt
-Summary: 
+Summary: The company completed their direct on/off-ramp integration ahead of the end-of-month deadline and is finalizing app integration details including fee structures with their partner ChangeNow. Marketing efforts are intensifying with confirmed video advertisements at two Candace Owens events in late September (invoice just received), plus a rally advertisement scheduled for the following day with all contracts signed and payments completed.
 
 UUID: 34DD6CE5-04B6-446F-8FE2-F01B583ED7A8
 Type: VOICE UPDATE
@@ -1325,7 +1326,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-11%2034DD6CE5-04B6-446F-8FE2-F01B583ED7A8.txt
-Summary: 
+Summary: A marketing campaign from a weekend rally brought in approximately 200 new app signups with several purchases, though it revealed a critical bug affecting only new users that developers fixed immediately. The company has paid for two Candace Owens events scheduled for the second half of October, with additional marketing including Rumble ads and major email campaigns planned throughout September to drive user acquisition and PPY purchases.
 
 UUID: 4FD7A271-1CEB-484A-8757-55DB73028147
 Type: VOICE UPDATE
@@ -1334,7 +1335,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-20%204FD7A271-1CEB-484A-8757-55DB73028147.txt
-Summary: 
+Summary: The company is launching its first educational videos this weekend focused on basic DeFi concepts to differentiate the platform and attract new users, though progress on the direct on-ramp integration remains stalled pending resolution of a third-party API issue. The marketplace is experiencing purchase bugs that developers cannot replicate, requiring additional user data to diagnose, while the auto PPY buying feature remains under development with no completion date specified.
 
 UUID: 4EF6AAE4-12EA-4430-B7D0-B0EA56A45F4E
 Type: VOICE UPDATE
@@ -1343,7 +1344,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-27%204EF6AAE4-12EA-4430-B7D0-B0EA56A45F4E.txt
-Summary: 
+Summary: The company spent well into six figures on marketing over the past six weeks but failed to achieve expected ROI, with many app signups but minimal actual purchases, prompting a pivot to focus on SEO improvements before investing in larger advertising campaigns. The development team is actively working on security infrastructure for file uploads to support both the classifieds marketplace and education video features, with completion expected soon to enable full functionality of these revenue-generating components.
 
 ~~~~~~~~~~~~~~
 2024 OCTOBER
@@ -1356,7 +1357,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-01%2024B8B8FD-244E-455D-941F-4191CC8B63E0.txt
-Summary: 
+Summary: Users are being asked to test a new $1 marketplace item by purchasing it up to 10 times, with full reimbursement by end of week, while the direct on-ramp feature completion with OnRamper is expected this week pending developer testing. The platform will be featured at Candace Owens events in the second half of October as part of their marketing push, alongside ongoing SEO work and educational video releases on YouTube and Rumble.
 
 UUID: 79A9DBDF-E78A-4E16-A0EB-99D642B45929
 Type: VOICE UPDATE
@@ -1365,7 +1366,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-04%2079A9DBDF-E78A-4E16-A0EB-99D642B45929.txt
-Summary: 
+Summary: A major third-party partner is integrating a feature that will allow users to access other crypto platforms directly within Patriot Pay's app, with testing scheduled for end of year and launch planned for Q1-Q2 of next year. Users are being asked to test the marketplace by purchasing a $1 test item up to 10 times to identify any bugs, with issues potentially linked to Polygon network problems rather than the app itself.
 
 UUID: 51CE8ED3-3A97-4680-8587-CE0FD0FC2184
 Type: VOICE UPDATE
@@ -1374,7 +1375,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-15%2051CE8ED3-3A97-4680-8587-CE0FD0FC2184.txt
-Summary: 
+Summary: Educational videos for iPhone users in Safari are being fixed with third-party developers and should be resolved within the week. Patriot Pay will have promotional presence at TPUSA events with Candace Owens on October 22nd and 23rd at University of Florida and Texas A&M campuses.
 
 UUID: 3CC13739-6855-4821-B60C-1E743099585F
 Type: VOICE UPDATE
@@ -1383,7 +1384,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-22%203CC13739-6855-4821-B60C-1E743099585F.txt
-Summary: 
+Summary: Patriot Pay advertisements ran at Ohio State, Penn State, and UNC events featuring Vivek Ramaswamy and Charlie Kirk as speakers, with another ad scheduled for Michigan, resulting in increased app user numbers. By the end of October, the platform expects to complete adding remaining products and finish direct on-ramp integration pending third-party cooperation.
 
 ~~~~~~~~~~~~~~
 2024 NOVEMBER
@@ -1396,7 +1397,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-11-12%20BE8CC30F-C92E-4A12-89C2-7A182335576C.txt
-Summary: 
+Summary: The platform is experiencing issues with direct on-ramping and Change Now functionality, both awaiting fixes from third-party providers. The Trump election victory is expected to significantly benefit Patriot Pay, particularly in resolving legal matters related to both FJB and Patriot Pay operations.
 
 UUID: 62DE3CE2-0338-42E9-8D04-78B201A11B05
 Type: VOICE UPDATE
@@ -1405,7 +1406,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-11-22%2062DE3CE2-0338-42E9-8D04-78B201A11B05.txt
-Summary: 
+Summary: The speaker received final approval from Boris and is waiting for Steve's response, with an expected update by December 3rd. Multiple holders from the FJB token are contacting about accessing their PPY tokens, requiring their old seed phrases to access funds in the previous app.
 
 ~~~~~~~~~~~~~~
 2024 DECEMBER
@@ -1418,7 +1419,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-12-10%20BD0E6DBC-CD62-45B8-8905-A7BD135EC140.txt
-Summary: 
+Summary: The speaker is waiting for an update from Maureen and Steve and has not responded to any direct messages to avoid creating information asymmetry among PPY token holders. Any current buying or selling of PPY tokens is happening without insider information as no updates beyond public announcements have been shared with anyone.
 
 UUID: 879A7764-8F73-46DE-AC88-EDDB742DBA1E
 Type: VOICE UPDATE
@@ -1427,7 +1428,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-12-27%20879A7764-8F73-46DE-AC88-EDDB742DBA1E.txt
-Summary: 
+Summary: The meeting with Maureen to schedule Patriot Pay promotion to the War Room audience was postponed due to her illness after AmFest and is being rescheduled for either the weekend or early the following week. The speaker is transitioning customer service responsibilities to another person to handle direct messages and support requests.
 
 ~~~~~~~~~~~~~~
 2025 JANUARY
@@ -1440,7 +1441,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2025-01-31%2050CA4D79-D6AB-49F3-AE99-8A680299F6CE.txt
-Summary: 
+Summary: The marketing campaign with War Room will include two weekly mentions on their Telegram channel and social media for the first four weeks, then add one weekly mention on the War Room show by Steve from week five onward. The start date for this marketing schedule is pending confirmation from Mo, who has been traveling extensively, with all other app-related updates dependent on receiving this date.
 
 ~~~~~~~~~~~~~~
 2025 FEBRUARY
@@ -1536,7 +1537,7 @@ UUID: 5548AAF5-7CCB-4F4D-B768-FAC1591090D5
 Type: Publication
 Date: 2026-02-13
 Source: https://www.reuters.com/legal/government/bannon-epshtyn-hit-with-investor-class-action-over-patriot-pay-cryptocurrency-2026-02-13/
-WebArchive: https://archive.is/aqdDZ
+WebArchive: [INCOMPLETE]
 LocalArchive: publications/2026-02-13%205548AAF5-7CCB-4F4D-B768-FAC1591090D5
 Publisher: Reuters
 Author: Mike Scarcella
