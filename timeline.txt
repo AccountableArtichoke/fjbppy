@@ -62,7 +62,7 @@ Summary: The FJB cryptocurrency project experienced a coordinated sell-off that 
 
 Type: VOICE UPDATE
 Title: 2021-11-20 (1 of 2)
-Speakers: Greant Tragni
+Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: https://mega.nz/file/UF9URR7A#n4QmYweL7vkhSclyDyt8oOl_Qw_Vvr-VKHqiHS1fJWQ
