@@ -12,7 +12,7 @@ Date: 2021-11-15
 Speakers: Grant Tragni, Ryan Fournier
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/0NUCFLYT#FMbkyd-YaqhUUkmXvQdnHd4BVD-REQPJNDurKs9xsjc
+Transcript: 
 Summary: Ryan Fournier, founder of Students for Trump with over 400,000 Instagram followers and personal connections to the Trump family, has joined the FJB cryptocurrency project as a key team member and committed to leveraging his political network to promote the coin to prominent influencers. The three-week-old cryptocurrency has accumulated over 5,300 holders and raised $30,000 for veteran charities including Tunnels to Towers and Wounded Warrior Project, with an active Discord community of over 1,000 daily participants out of 3,700 total members.
 
 UUID: 3F8A1B2C-4D5E-6F7A-8B9C-0D1E2F3A4B5C
@@ -21,7 +21,7 @@ Date: 2021-11-17
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/Ydk3Ga6T#k7rsB3NFJCtTZjE7IKRGaM9mLEeuexlc9zgUXb7pdYQ
+Transcript: 
 Summary: The FJB cryptocurrency project has secured listings on ProBit exchange scheduled for 1am Eastern Friday and is in final negotiations with WhiteBit exchange, while also having submitted applications to major exchanges including KuCoin, BitMart, and Gate.io. The project has grown to 6,216 holders in 26 days with the development team working on securing media publications and major influencer partnerships that are expected to be announced within seven days.
 
 UUID: B41B0003-A9BF-48E5-BF76-D83D40B81C42
@@ -30,7 +30,7 @@ Date: 2021-11-18
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/ZYcn0RSS#ln9RBOagLmx1LdOTl04UZZ6-FIP1N01ktErqtAh4HLY
+Transcript: 
 Summary: The FJB cryptocurrency project has donated $50,000 to charities within its first month, including a $20,000 donation to Helicopters for Heroes, a veterans organization that helps with PTSD and rehabilitation programs. The project leadership has scheduled a call with Newsmax for potential media coverage at 4 PM and is expecting the ProBit exchange listing to go live at 1 AM Eastern, approximately 13 hours from the time of the call.
 
 UUID: 4D1751A0-4821-40BB-AA64-5642E4AA7496
@@ -39,7 +39,7 @@ Date: 2021-11-18
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/8I8GiYwA#EV9SLROxasukHKbMXuq7NPZ-UducYpRS-7qYKDBVEJY
+Transcript: 
 Summary: The FJB cryptocurrency project secured media coverage from The Post Millennial with an article expected that night or the following morning, following a Zoom call with Newsmax and the reporter's appearance on Dinesh D'Souza's podcast which received one million views. The project has grown to approximately 6,300 holders with 4,000 Discord members (700 constantly active) and 2,000 Telegram members, while expanding marketing efforts into NFT communities and international markets with ProBit exchange listing scheduled for 1 AM Friday.
 
 UUID: 75A5C35C-AEEF-4DA0-B864-1CFA47F2E85D
@@ -48,43 +48,43 @@ Date: 2021-11-19
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/FEcxzQzR#5i7JkBYjTqQaqGcQQJrZMiu89ynMPxr3LWFm_dHy7Ps
+Transcript: 
 Summary: The FJB cryptocurrency project experienced a coordinated sell-off that the leadership attributed to multiple wallets planning a dump, causing a significant price dip despite maintaining 6,299 holders. The project's ProBit exchange listing was delayed due to technical issues with their developers being off on Friday, while The Post Millennial article publication was delayed due to Kyle Rittenhouse verdict coverage taking priority.
 
 UUID: 14816370-95CD-409A-B16C-41CC7CC9540D
 Type: VOICE UPDATE
-Date: 2021-11-20 (1 of 2)
+Date: 2021-11-20-1
 Speakers: Greant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/UF9URR7A#n4QmYweL7vkhSclyDyt8oOl_Qw_Vvr-VKHqiHS1fJWQ
+Transcript: 
 Summary: The FJB cryptocurrency project received media coverage from The Post Millennial highlighting their $50,000 in charitable donations over 28 days, while the leadership was in discussions with lawyers about undisclosed "huge news" pending finalization. The ProBit exchange listing remained delayed with ongoing communication issues, while WhiteBit exchange with 2 million active traders provided a preliminary listing date of Thursday (Thanksgiving), and the project maintained 6,300+ holders grown entirely through organic growth without purchased followers.
 
 UUID: 14A9AA5F-D596-4D64-93A9-1E72197738FF
 Type: VOICE UPDATE
-Date: 2021-11-20 (2 of 2)
+Date: 2021-11-20-2
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/BQ8kAQ5S#9emRNU7ljFOCsl2Gui61enGB5wRjjku-lOitNCsqnjQ
+Transcript: 
 Summary: The FJB cryptocurrency project leader announced a weekly community member recognition program where he would donate $500 of his personal money to a charity chosen by the selected member, with the first $500 going to Breast Cancer Portrait charity chosen by community member Turok. Despite experiencing another "bloody Saturday" price drop typical of weekend trading patterns, the project maintained focus on StockTwits trending campaigns to reach 7,000 holders, with leadership expressing confidence in undisclosed upcoming news while acknowledging swing traders taking weekend profits.
 
 UUID: 5496FB92-1925-443A-A936-E04C54452805
 Type: VOICE UPDATE
-Date: 2021-11-21 (1 of 2)
+Date: 2021-11-21-1
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/tBt1mIxB#Jqp3eMNeFaa5W99Q0UynsNLzR6PW56qJgIJfx-XWxqI
+Transcript: 
 Summary: The FJB cryptocurrency project reached its 30-day milestone having donated $50,000 to charities, with leadership confirming ProBit exchange listing expected Monday or Tuesday and WhiteBit (2 million US traders) targeted for Thursday/Thanksgiving, while also announcing new meetings scheduled with BitMart and Bittrex exchanges for Monday. The project maintained nearly 7,000 holders with leadership emphasizing the long-term nature of the "Let's Go Brandon" movement tied to political cycles through 2024, positioning it as more than a meme but a sustained political movement that would outlast the current administration.
 
 UUID: CF69DCDD-26E8-4479-A37D-8D1A97AD74B4
 Type: VOICE UPDATE
-Date: 2021-11-21 (2 of 2)
+Date: 2021-11-21-2
 Speakers: Grant Tragni
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/lYcXhTAZ#Zq4V5wvmq28ohAnfZ-3zuHt4bDIVpagJymdOPFwkiP4
+Transcript: 
 Summary: The FJB cryptocurrency project reached 6,400 holders after 30 days without being listed on any major exchanges, with Ryan Fournier disclosing he personally owns 5,000 tokens and plans to purchase another 5,000. The project secured sponsorship of a Turning Point USA conference party on December 19th in Arizona with an estimated 1,500-2,000 attendees, where Bryson Gray will perform and major conservative influencers will be present, with QR codes and branding throughout the event.
 
 UUID: 6DE8B58E-33B9-4686-87F4-0DBDB8DA4063
@@ -93,7 +93,7 @@ Date: 2021-11-22
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/hRF3FQ5I#F9C4h1RqwPTu7TR8tAS9UbvXLxCFtbOxntLkKTnuuBE
+Transcript: 
 Summary: The FJB cryptocurrency project planned to donate $15,000 directly to families affected by the Wisconsin tragedy while launching a major marketing campaign including CoinZilla ads across 10 sites and confirmed Gateway Pundit article publication for the following day. The project continued experiencing delays with ProBit and WhiteBit exchange listings despite paid expedited service, while conducting meetings with BitMart and Bittrex exchanges and preparing for sponsorship of both the Grand Young Party event on December 19th and Turning Point USA conference featuring Ted Cruz, Candace Owens, and Charlie Kirk.
 
 UUID: B007BB2C-A7EB-4A74-B084-08E6EA6DFFD2
@@ -102,7 +102,7 @@ Date: 2021-11-23
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/MJNVmLKA#QX9Hzg4kCzPaxErAgYiSng3oudUCSf6AGv5MkiDWvaU
+Transcript: 
 Summary: The FJB cryptocurrency project's major undisclosed news deal remained in final negotiations while the team secured confirmed publication from Gateway Pundit and scheduled a Breitbart interview, with CoinZilla ads across 10 sites still pending launch despite payment. The project planned a Twitter AMA with Ryan Fournier for Wednesday evening before Thanksgiving and continued pursuing a $15,000 donation for Wisconsin tragedy victims while expressing skepticism about GoFundMe platforms due to concerns about funds reaching intended recipients.
 
 UUID: AB7F1B54-46B1-4370-9C84-17F5A7DD49FC
@@ -111,7 +111,7 @@ Date: 2021-11-24
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/MIkmxSTB#CXzm5ZEjeg9vqMonK3hokwXN7z0MwMSoXhSyJoMrlAU
+Transcript: 
 Summary: The FJB cryptocurrency project leadership expressed extreme confidence in pending major news while confirming Gateway Pundit and Breitbart publications were secured, with the team coordinating a Twitter AMA with Ryan Fournier for early evening targeting 5:30-7PM. The project continued experiencing delays with ProBit and WhiteBit exchanges despite ongoing negotiations with additional exchanges, while leadership emphasized the next seven days through Thanksgiving would be "tremendous" for the project's growth trajectory.
 
 UUID: ADD9FFF1-300C-4AF3-A2C3-A1C772BC2F10
@@ -120,7 +120,7 @@ Date: 2021-11-28
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/BNVXgRyb#XVN7zlMTF0pLkThH4-H-qB7UtEXzCO1uxfYkAo-Sveo
+Transcript: 
 Summary: The FJB cryptocurrency project confirmed XT exchange listing for Monday (a US trading platform with 3 million users and $100 billion daily trading volume) alongside a Gateway Pundit article publication scheduled for the same day, while WhiteBit exchange was targeted for Tuesday the 30th. The project leadership, who scheduled LASIK surgery for Thursday, coordinated a major social media campaign targeting journalists including Ian Haworth of the Daily Caller and continued negotiations for paid TikTok promotions to coincide with the exchange listings.
 
 UUID: FAFC7B4E-7D20-46FD-A261-7A42D39B06F0
@@ -129,7 +129,7 @@ Date: 2021-11-30
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/oYsxXabR#VLvVjATDZCtpRrGjdypv7z7mkPB4U_lT9KVb_AknQnI
+Transcript: 
 Summary: The FJB cryptocurrency project leader delivered an impassioned speech on day 38, revealing the project had grown from 1,000 holders on November 4th to nearly 7,000 holders by November 30th while maintaining $50,000 in charitable donations. The leader promised that by the end of the week, major news would validate his vision that FJB would be one of the few "life-changing" cryptocurrencies among the 10,000 existing coins, positioning it as a historical movement that would be studied in textbooks by 2050.
 
 ~~~~~~~~~~~~~~
@@ -142,7 +142,7 @@ Date: 2021-12-04
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/xZlDwAxa#GKO9YfSV5vZQdwrnvZkrRUGlcBtgoJKjX1N5VQx0jvI
+Transcript: 
 Summary: The FJB cryptocurrency project experienced a significant price drop alongside broader crypto market declines on day 41 (December 4th), with leadership attributing the selloff to $2.6 billion in 401k liquidations affecting all cryptocurrencies including Bitcoin and Ethereum. The leadership confirmed WhiteBit exchange listing for Monday while emphasizing that the pending major news would be strategically released when market conditions improved, comparing FJB's potential trajectory to Dogecoin's rise from $0.0032 in December 2020 to over $0.70 in 2021.
 
 UUID: 5ED7084C-52D0-4EAF-B546-157E46802AF3
@@ -151,7 +151,7 @@ Date: 2021-12-08
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/RIlAXRTJ#GhZA8GALHy57l-Pt_J-tOQpcHNrHtPcS3e7NxFiX8k8
+Transcript: 
 Summary: The FJB cryptocurrency project distributed 800,000 tokens ($200,000 each) to four community members for their contributions including public sticker campaigns and social media management, while confirming WhiteBit exchange listing was fully paid and signed. The leadership indicated major news would be rolled out within seven days, describing it as bigger than the Tim Pool mention, with Breitbart and Gateway Pundit publications pending as part of a coordinated media strategy that would "all make sense" when revealed.
 
 UUID: 7E23A915-6E76-42CC-B4BC-B41EEA1905C4
@@ -160,7 +160,7 @@ Date: 2021-12-13
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/QF9znBZC#VyVf3tWqXUc0O3lkykuEyFKeVqsLkpiQDX2LB5PSa5A
+Transcript: 
 Summary: The FJB cryptocurrency project confirmed their signed deal was complete with announcements pending within days, while the team worked on KuCoin exchange listing negotiations through contact "Mei Lang Wang" and struggled with technical issues on XT.com where $5,000 in Bitcoin remained stuck. The project launched their new website at FJBcoin.org with updated red, white, and blue branding, while leadership distributed hints about the upcoming news through images and emphasized that the rollout required significant backend preparation and funding to execute properly.
 
 UUID: 363FD851-3D76-4C17-8F0F-F6704381C4A5
@@ -169,7 +169,7 @@ Date: 2021-12-15
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/ZZVglJRZ#q34HRnferFFZmiAlYmDE1QtlIphoWDzhC5wtTFZmxLw
+Transcript: 
 Summary: The FJB cryptocurrency project launched an NFT auction created by community member Nonarchist with proceeds going to St. Jude's Children's Hospital, running until December 22nd at noon Eastern, while distributing 1 million tokens nightly including 250,000 each for Omegle promotional campaigns. The leadership reported continued work on KuCoin exchange listing through legal review processes and expressed frustration that the major news announcement remained delayed due to compliance issues despite being "two steps forward, one step back" for weeks.
 
 UUID: C5DB218A-3638-4317-83E6-FC27E1961582
@@ -178,7 +178,7 @@ Date: 2021-12-17
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/9RcQQZwR#5ReInv-j1tmFbMl-tR082sg1Pgu27TgUqr-inpcxlZk
+Transcript: 
 Summary: The Discord voice transcript from December 17, 2021 documents a cryptocurrency project leader announcing a $5,600 donation to Semper Fi charity which was matched to total $11,200, marking day 56 of their project with cumulative charitable donations reaching approximately $58,000. The speaker discusses ongoing community engagement, confirms their continued involvement despite ownership changes, and maintains enthusiasm for the "Let's Go Brandon Coin" cryptocurrency project while addressing holder concerns about project legitimacy.
 
 UUID: BB9BE200-AA8E-46BB-875E-C51B818AE18E
@@ -187,7 +187,7 @@ Date: 2021-12-19
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: https://mega.nz/file/5RFARLaS#Oa3jAdjjcbkT9HtbbA0D9bWSVuTbR88PItS4Lj3eiIw
+Transcript: 
 Summary: The Discord voice transcript from December 19, 2021 reveals the former president of the Let's Go Brandon cryptocurrency project confirming he sold ownership on December 2nd but remains actively involved as a community liaison and spokesperson, while emphasizing that major news from unnamed "big name" public figures is imminent before Christmas. The speaker distributed one million FJB tokens to community members during the session and defended the project's 58-day timeline against criticism, comparing it to Bitcoin's 30% decline and noting that Dogecoin took years to achieve success.
 
 ~~~~~~~~~~~~~~
@@ -200,7 +200,7 @@ Date: 2022-01-06
 Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/9UsWlR6a#elSPK-_i8uPJMXirTSkyvbyD09i4cLndDhbTTcV4t6M
+Transcript: 
 Summary: 
 
 UUID: 8B720706-6219-4A3E-8CCE-7B54495A0932
@@ -209,7 +209,7 @@ Date: 2022-01-18
 Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/VVdTBZ4S#IXo_RydzgJ5o28lgaH7f9y1qxLPIy7xHPxUOR1z6gwg
+Transcript: 
 Summary: 
 
 UUID: B92DFBC6-99D8-4F63-8161-0319D909E23C
@@ -218,7 +218,7 @@ Date: 2022-01-20
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/pRlwwJzC#VGzUlDN7vHGSwVdW3JHZoAcaDPBKGyXu2fb0VMm9XIo
+Transcript: 
 Summary: 
 
 UUID: B564F5E9-6F3B-434E-866C-190EFBE573D7
@@ -227,7 +227,7 @@ Date: 2022-01-23
 Speakers: Grant Tragni, Erik Finman, Ryan Fournier
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/YI112ZCQ#CPV9gK4XdOVp3dHeU9Hq-dm9IXyxCZwLBlZGJOdClxs
+Transcript: 
 Summary: 
 
 UUID: F17CFB67-E36C-4A4C-9348-746371EE3C07
@@ -236,7 +236,7 @@ Date: 2022-01-23
 Speakers: Grant Tragni
 Platform: Telegram
 Audio File: 
-Transcript: https://mega.nz/file/5ckjSChK#7JXgLN0pywmwU8iiBT_yxy3D7kOgLJQ3Q5lwcHe4Ydw
+Transcript: 
 Summary: 
 
 UUID: 93343A01-6A7C-4F9F-A827-57C3ACE8A1EB
@@ -245,7 +245,7 @@ Date: 2022-01-27
 Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/dFFjzZAJ#qr0irKwVh4Gjub91hFc6oex3T5iQNigIbIFEfVJ6ek8
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -258,7 +258,7 @@ Date: 2022-02-02
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/1RNFFBhI#PEkLcHfyaBM7PqqC6FHUfdGlBr0TkRsZj6twDDq3NTY
+Transcript: 
 Summary: 
 
 UUID: 9B5F65D1-E589-4ADB-9F7B-89BE9FD5F1C2
@@ -267,7 +267,7 @@ Date: 2022-02-07
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/dZ9DHJ4D#FDaZzfL2WAs_2CvUzjsES_NcAnawNlYZb095yj2LzhI
+Transcript: 
 Summary: 
 
 UUID: 6A2BEBB1-CA00-46B1-A222-D626F6F0A2E8
@@ -276,7 +276,7 @@ Date: 2022-02-07
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/pFciFRbZ#2LBBZy7ZPLlKhDWOc2tFX3nc55BWVKQKkIUt7sDOFZY
+Transcript: 
 Summary: 
 
 UUID: EFD27C90-4F7A-47F3-8ADA-D0FABC7DE571
@@ -285,7 +285,7 @@ Date: 2022-02-08
 Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/wR1GFLxK#ePUC0k7v9PRLhqK_qNETFDU3IqV0PmvskrUwDb_-nE4
+Transcript: 
 Summary: 
 
 UUID: 4F85A53E-E11D-4C8A-9BC5-9BA06D5FA916
@@ -294,7 +294,7 @@ Date: 2022-02-21
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/YRcjyCwa#e2p5MV4bnnVwgG66RyXtbgN1JUWv_zTi_y_c8I7vJcE
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -307,7 +307,7 @@ Date: 2022-03-04
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/hMtCmTRD#0NgN2y5hsemwV2CH5_CB3may7qLUMGmo4eqofI0_JLY
+Transcript: 
 Summary: 
 
 UUID: F9CF9862-8BF3-4A1D-86A4-8C64B5871088
@@ -316,7 +316,7 @@ Date: 2022-03-08
 Speakers: Grant Tragni, D0nni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/JdlRSB7J#cRrc4HJrU-MqsOhnSwVN_PzwUNJPZm_uivVaSiyqCcI
+Transcript: 
 Summary: 
 
 UUID: CDDADCA4-D34D-401C-9E54-5322B1A9103D
@@ -325,7 +325,7 @@ Date: 2022-03-16
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/IFEUXbbC#nZ0jHEGK6y9IgnX8Yvu91PQDfne-ZtDn4I_kM76_HQc
+Transcript: 
 Summary: 
 
 UUID: 115D9B59-41D3-440D-99EB-2ED95CF3FAE9
@@ -334,7 +334,7 @@ Date: 2022-03-29
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/BddFCZCD#oNE-m7h5hfH0Lg0flB_i8bimHRg_rQJ0T7rtcKMtBfc
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -347,7 +347,7 @@ Date: 2022-04-18
 Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/cUkRkAaR#m7KChQzOx3vLyoNXCSJz9XyRjtsTWUqBeLztjcaFKA8
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -360,7 +360,7 @@ Date: 2022-05-09
 Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/EANXxKKT#fKoRTxV8_BBRK1F7BEmS3a8fcNS5qPPnkBuA31lCL5Y
+Transcript: 
 Summary: 
 
 UUID: 59B3D4DA-0527-4851-8C87-7B54C6872A1E
@@ -369,7 +369,7 @@ Date: 2022-05-11
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/UIMw1CgQ#I4Vh_AihLC0sIhNpl-UXB29nLze3kyYI676hIb3K-Mo
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -382,7 +382,7 @@ Date: 2022-06-01
 Speakers: Erik Finman
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/kc9VFaCY#m-x-RRKQTusUteDJmDQrHhriGhEmzJGlAsoaPQfa1Rg
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -399,7 +399,7 @@ Date: 2022-08-19
 Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/gMsSDLrB#L544BqLij7vzQmU2VEhKg4Y9j4SCeTR7UMtt78ljkeI
+Transcript: 
 Summary: 
 
 UUID: 08389890-8D4F-4226-A81A-2383A5A2E85E
@@ -408,7 +408,7 @@ Date: 2022-08-25
 Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/oV1wHZKa#p64IkcNpNpd5S-XsC87J561fIN-mv3mise-jnWWBYHM
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -425,7 +425,7 @@ Date: 2022-11-06
 Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/gMkwBCTR#bFQvSg2kt8tVFYVDgrKQ1ZJtX-s6v4IRHmPbDdIZahg
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -442,7 +442,7 @@ Date: 2023-01-05
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/AF0xESpA#O66xJbsLrqJnzGQG6eA8S9Sy1s-K1y2ej1ajCwYxe2g
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -487,7 +487,7 @@ Date: 2023-10-27
 Speakers: 
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/YF8U0Syb#IgLuR3c7S0qE_LJ-wANzDpxSw80HIXlwDWEITNKO4oM
+Transcript: 
 Summary: 
 
 UUID: D37AECBE-DA0B-44B2-9097-4D87E2A4881F
@@ -496,7 +496,7 @@ Date: 2023-10-31
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/lckw3Kob#Zoaq-091-J3LAy1YHtvsQ7Hhs1p3U5sP54C1qd26ZDE
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -508,7 +508,7 @@ Type: VOICE UPDATE
 Date: 2023-11-04
 Speakers: 
 Audio File: 
-Transcript: https://mega.nz/file/QFVjzIQY#HyJgT2Qt5pjfB8bzI39dzb2s-3AJkC_xFxRDm1gXBg4
+Transcript: 
 Summary: 
 
 UUID: 18E993BD-78A0-4C13-BC6F-27537290D76C
@@ -517,7 +517,7 @@ Date: 2023-11-07
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/sQ1T2bIa#l1-vp1vi97zxUXQ81JDe9Nemq1dShYiK-BPML_PcGfY
+Transcript: 
 Summary: 
 
 UUID: 7D460EC8-3211-47C2-A350-47A2E6619C3E
@@ -526,7 +526,7 @@ Date: 2023-11-10
 Speakers: 
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/ZZ81lKrY#nFwojD8719uzM0tyVVemmKgw46-uoNBzYTURWmkAQEM
+Transcript: 
 Summary: 
 
 UUID: 9EDAEB03-00F7-4FA8-A86E-E101A091D0EE
@@ -535,7 +535,7 @@ Date: 2023-11-14
 Speakers: 
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/pJ8lyDaA#8gU7zkfX0wA7f-Vbhc1uiuebyFZZ43GcOexzEUrdnZk
+Transcript: 
 Summary: 
 
 UUID: 23E86CC4-DD45-4BDA-A38C-978422FDC88D
@@ -544,7 +544,7 @@ Date: 2023-11-18
 Speakers: 
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/EZMmhTiT#vp8UBTsOzAl6zUA8ESY51d55k6Z8BQD8Wmo8Q8Ze0os
+Transcript: 
 Summary: 
 
 UUID: 8BB7B96D-2E53-4291-92A3-37F48D68AD12
@@ -553,7 +553,7 @@ Date: 2023-11-21
 Speakers: 
 Platform: Telegram
 Audio File: 
-Transcript: https://mega.nz/file/kJV3DIqL#ad7uBi-1nNEh5RplxfkBo_GfElfD3hyIxoh43GlbI_U
+Transcript: 
 Summary: 
 
 UUID: 21FD6A40-00DA-42D3-A698-081B7847D821
@@ -562,7 +562,7 @@ Date: 2023-11-25
 Speakers: 
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/ER1GQbTa#UxDrCaEtc7EX-TJGd9yXV3uZs3nOBNQmzswwdnRGCyc
+Transcript: 
 Summary: 
 
 UUID: B40665DC-B2CC-451B-AAAE-55AEAB39A191
@@ -571,7 +571,7 @@ Date: 2023-11-29
 Speakers: 
 Platform: Telegram
 Audio File: 
-Transcript: https://mega.nz/file/dQtAiY7J#JJQO_VYwRqU02bwLsaja1QOL743_g3ui_I99zIv6Yf8
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -584,7 +584,7 @@ Date: 2023-12-01
 Speakers: 
 Platform: Discord
 Audio File: 
-Transcript: https://mega.nz/file/NM9z3S6A#m0MDwyLvTO13ezdozDJNldW30mBRYN_WehWJquMt5l0
+Transcript: 
 Summary: 
 
 UUID: 06C14CAD-D48D-4E97-A2F3-A790C6057F19
@@ -593,7 +593,7 @@ Date: 2023-12-05
 Speakers: 
 Platform: Telegram
 Audio File: 
-Transcript: https://mega.nz/file/5UFVHI5a#lvGQyn8yJBDCp_bUyLUSF16ruevMz5U3u4UWbsRPjuc
+Transcript: 
 Summary: 
 
 UUID: 73357664-332F-4982-AF6C-044AFAC4CD20
@@ -602,7 +602,7 @@ Date: 2023-12-18
 Speakers: 
 Platform: Telegram
 Audio File: 
-Transcript: https://mega.nz/file/4QNmgDjR#oekklyJ9TMrHKmoqItu40vcXW8NkVbjpCeRHyr4DIZo
+Transcript: 
 Summary: 
 
 UUID: EC1F670E-3AEC-4306-A4D7-B7A41A59C913
@@ -611,7 +611,7 @@ Date: 2023-12-22
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/AFl0FDyJ#GMqhBO-GCJEpP9fcvxPvnT25JqijytC8kyOiiTIF-zM
+Transcript: 
 Summary: 
 
 UUID: 1337C8F2-7A4A-44F6-A3F4-FFD75D0DF290
@@ -620,7 +620,7 @@ Date: 2023-12-27
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/pQ1zQTZK#HcgCQw6ptrpL1WrlLHmy34kLBPcQs7d4N8H9_tQqztk
+Transcript: 
 Summary: 
 
 UUID: 066FE4E6-57C5-4240-A9D8-CB7E3B01416F
@@ -629,7 +629,7 @@ Date: 2023-12-29
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/1Msy0aYK#-Xf658vkdyvM61LnEBijlN7sB9-5-njGJRI7i_0757A
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -642,7 +642,7 @@ Date: 2024-01-02
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/VIsX3DhB#tvw2wGg6OgJghlIIIv6ogxRlMDmHp9hSIUSkUprNTjc
+Transcript: 
 Summary: 
 
 UUID: AF6E369F-3AB8-47E4-8243-D9D7EA8CCB57
@@ -651,7 +651,7 @@ Date: 2024-01-09
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/Mc8EEIaK#5egTJhQ1aDpJlcMY484ST8iN_PxtgTFZBC836QkctD0
+Transcript: 
 Summary: 
 
 UUID: 3AF0682B-F9E3-4E7A-B899-C22F6F9ACC36
@@ -660,7 +660,7 @@ Date: 2024-01-19
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/YAkWiAZA#zzfjAWZPBPcoeSuHCOzb7JApg2FgJ0uSkh7nUCtaSyE
+Transcript: 
 Summary: 
 
 UUID: 6B22A0D1-F5F9-4F05-8B6C-C926B09078D1
@@ -669,7 +669,7 @@ Date: 2024-01-23
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/VFM2FShA#sM5UaLZdB0dyMfJA-Cc3JKVXjMc0uhRxsjE_9C9GHZA
+Transcript: 
 Summary: 
 
 UUID: 9A327FF4-B4B3-4353-B65A-E2BFC838BF69
@@ -678,7 +678,7 @@ Date: 2024-01-30
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/0M8DCJTA#75F_G5syEJQP9WW8ReZDG8W_11aF0SFS2ozFuP36GE0
+Transcript: 
 Summary: 
 
 UUID: 86FB7A12-54DD-4FE1-9C2F-90D02A6A2420
@@ -687,7 +687,7 @@ Date: 2024-02-02
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/kRlHUa6C#H6DmrERinlh8tZFMBI3a-KLyM6bjOwn3ndPKE2a11SI
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -700,7 +700,7 @@ Date: 2024-02-05
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/IQclzBhL#ODnMKBgoveEBBl1vGNqFtS4qajlLUxlXrDXlC_kVVds
+Transcript: 
 Summary: 
 
 UUID: 2CBE7FF6-74AF-4E53-B1A6-5E1673BE1CE1
@@ -709,7 +709,7 @@ Date: 2024-02-09
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/MZ9zwbQY#59BisxvTtSthFjdiTCxjjl3vLTRSuVQi-dSgW4Z814c
+Transcript: 
 Summary: 
 
 UUID: F3E5E23D-53E8-4505-8D41-C9487BA36AA2
@@ -718,7 +718,7 @@ Date: 2024-02-13
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/ABVVDZpQ#CRRRsKE-FrqC3nZRiZGPvbczi4dcvtVrJxgLBANsksA
+Transcript: 
 Summary: 
 
 UUID: 6536A998-E43B-40B4-89A3-D22709BB41C3
@@ -727,7 +727,7 @@ Date: 2024-02-16
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/BBVmVA5D#-KogbTIXIsm1_nzTskQDFEwI-SUv3oOFduhoa6LmOIs
+Transcript: 
 Summary: 
 
 UUID: 05539927-A905-4D4F-948D-8482B7AC144E
@@ -736,7 +736,7 @@ Date: 2024-02-20
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/4YVlwJAS#mlIkhqApXq3CUSycV7VExoVEu5eptPVxaSmAmbmJVGw
+Transcript: 
 Summary: 
 
 UUID: 0D697691-94C1-4FFE-9997-B2E3B6C2F7FC
@@ -745,7 +745,7 @@ Date: 2024-02-27
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/IMMXmSQb#EcVX6_Ti4YbUh5Zxi4HBJT22YZ3_ge9JFN5mZ7TmFSE
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -758,7 +758,7 @@ Date: 2024-03-01
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/gM83VIQJ#fjJ0ETzkQixPjOQ2qpd0Ie4Sd_LFqLRasrMIEt4xGP4
+Transcript: 
 Summary: 
 
 UUID: F1954122-CAD8-4C28-B99F-4057755A4A1F
@@ -767,7 +767,7 @@ Date: 2024-03-05
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/QVcByCKR#Zmpw2klKoIsHpAx63auvLMQHJWXzAaRGFkAwDHTkOpk
+Transcript: 
 Summary: 
 
 UUID: 86D6FC09-8978-4980-A82B-D7A517A19A2E
@@ -776,7 +776,7 @@ Date: 2024-03-08
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/JF1RSCzK#H9FGRLowTbSQNizJ218Hxdg-nnhj9fz1B2vO-AJjynY
+Transcript: 
 Summary: 
 
 UUID: 9F193AC4-E84E-4FBD-B11E-968DF0BCFABE
@@ -785,7 +785,7 @@ Date: 2024-03-12
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/8R0WyRbJ#wafygbTBrfbze3osCdPaX42s9F7p0ORRuJkyXWZ2gaY
+Transcript: 
 Summary: 
 
 UUID: BE30C484-2E41-4A17-9EBD-EE1BAE65AB8D
@@ -794,7 +794,7 @@ Date: 2024-03-15
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/tccVzaDS#kUEc9dWgQ-zxiyXWIDySokIWv-lDzJxp9ydDdkCIv98
+Transcript: 
 Summary: 
 
 UUID: 3E9AC28B-A4BA-4896-ADC8-3E7528DA1112
@@ -803,7 +803,7 @@ Date: 2024-03-19
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/0J0FyC7A#cSrJe9wTlurtwlhnxxuixmUG9xSR-sg0JI51gFxMG6E
+Transcript: 
 Summary: 
 
 UUID: FE000719-E768-47F1-A545-20C0E8D0AAD2
@@ -812,7 +812,7 @@ Date: 2024-03-26
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/ldcw2TKJ#bqnhkn-r7LrUnWHkdhg_tMYxjxvTBizXVRdG0vHXFXg
+Transcript: 
 Summary: 
 
 UUID: 4A283810-9E31-4520-BAF4-B826064E3281
@@ -821,7 +821,7 @@ Date: 2024-03-29
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/YQM3XRqI#EZfwA0yLC-V09hiwSKcrTEA6Pd1xrqtWzpqsVbYANgo
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -834,7 +834,7 @@ Date: 2024-04-02
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/cFU21RLR#7QWj5F1A4Fa3IdnEgPLrMWGeZCkY550Qt8482UaWu2M
+Transcript: 
 Summary: 
 
 UUID: 60AAD3C6-5DCB-4347-B614-EFC313A0AA1C
@@ -843,7 +843,7 @@ Date: 2024-04-05
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/YBURkDxY#E_7G_-5BWz7gows5hKm6BvsyNMj_IEL2Z5JymghU_20
+Transcript: 
 Summary: 
 
 UUID: 7634DD5E-C461-47D3-A7D3-BB2A15B03EE0
@@ -852,7 +852,7 @@ Date: 2024-04-09
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/cU1UnCbI#liZsot2hK5poZsGfUjVo2xd5_Mf9g9FFLm4onPPDkec
+Transcript: 
 Summary: 
 
 UUID: E574BFD1-C2F2-4252-A18B-253208D8BF1B
@@ -861,7 +861,7 @@ Date: 2024-04-12
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/lVdQADpS#EdOy_SwTjsKFcV2ajC5-p1znu7Y5UUmuTg2ejJJXuKA
+Transcript: 
 Summary: 
 
 UUID: 1DDCC2BC-B733-46F0-9F35-3CF709D55060
@@ -870,25 +870,25 @@ Date: 2024-04-16
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/QQcHgBib#gRj8XZIy0pUNjT_hR6ezfEs3dD0wvggyc6uaKUqcTxk
+Transcript: 
 Summary: 
 
 UUID: 29BE78BA-FDF7-4461-8369-936723F2C9FD
 Type: VOICE UPDATE
-Date: 2024-04-19 (1 of 2)
+Date: 2024-04-19-1
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/AUNFmZhT#MiviKByd1gs83ThaSBGQLZnUqJ09JOIJvt7jxUuuIUw
+Transcript: 
 Summary: 
 
 UUID: A20174E0-9C14-4E5D-A790-83FF16123B17
 Type: VOICE UPDATE
-Date: 2024-04-19 (2 of 2)
+Date: 2024-04-19-2
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/QBEwBT7Y#pDczUEHicm4FJl_yJ3eDvsLXKHGYVzyEzOte_YxJLzA
+Transcript: 
 Summary: 
 
 UUID: 2867E0E6-8E55-4826-B91A-AEDC1F55FDDF
@@ -897,7 +897,7 @@ Date: 2024-04-23
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/FIknwD6A#uk3oVNrRqLSRmJJZ1r9T1JGgEXdB2Se9z31CaJXb27o
+Transcript: 
 Summary: 
 
 UUID: 2180039B-4B34-44C8-86FB-E3A09209BF5B
@@ -906,7 +906,7 @@ Date: 2024-04-26
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/QAcSBRiA#KSrubVNEcqvBx3Ovc4tH64eCFmhvJwYPNIWZfANNNuY
+Transcript: 
 Summary: 
 
 UUID: F963793C-4BB7-47B4-BF95-5AF03686F452
@@ -915,7 +915,7 @@ Date: 2024-04-30
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/gNch2JTS#YXXvwcz84rba3Pv774HOj_dQwNd1Zy5cQM1EzmyOmeE
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -928,7 +928,7 @@ Date: 2024-05-03
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/IJMXQYZD#BxQOPzz95Lm9KwjNRu8RDwOJUdGi-yJ90O43WaYPDXk
+Transcript: 
 Summary: 
 
 UUID: 4080CABB-9A1D-4A2F-8EC4-49F7A7964966
@@ -937,7 +937,7 @@ Date: 2024-05-07
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/Yccw3Taa#uqJJIvQYdlSTomNqxemkBLOFIrih789Bco1mCi0uGpw
+Transcript: 
 Summary: 
 
 UUID: D45BBBDE-B743-4645-A959-7D77788BF07C
@@ -946,7 +946,7 @@ Date: 2024-05-10
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/RAlmXRrT#ilJCYvaPNinKwpk3wnmVZ2Vct_-7d-fZMSFZkuUTu5Q
+Transcript: 
 Summary: 
 
 UUID: 2B5A2241-0C14-488D-B30B-3CB14E9EDA01
@@ -955,7 +955,7 @@ Date: 2024-05-14
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/UNMHwKBA#mvsX17Jsvol0VG1H2dbn3DRKOGSGIVlncTOecTMWHA4
+Transcript: 
 Summary: 
 
 UUID: 9A47420D-6091-4F63-972D-AAA5DBABC63C
@@ -964,7 +964,7 @@ Date: 2024-05-17
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/pF0mzZCL#Q861uLK2ggtC1pe8lHxhyNg3qOdQzhvwQ9RLhsedJ-Y
+Transcript: 
 Summary: 
 
 UUID: 6BEE01E0-D770-485B-A5DC-F00A59702AA7
@@ -973,7 +973,7 @@ Date: 2024-05-21
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/4A8CEYxT#A6J5HVSXfYBrNFaSDmzZldYb_LdabQb6jZLlpbHYtps
+Transcript: 
 Summary: 
 
 UUID: 24428FB9-6DA4-4349-90C8-BB77DEDBA3AB
@@ -982,7 +982,7 @@ Date: 2024-05-24
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/9BVRRYDC#tyBPM2pgpjE9w5PVdr_W8TA8f2BMNZEWYAuShQjj5a4
+Transcript: 
 Summary: 
 
 UUID: 3E4253B6-C28E-44A8-96E2-281D90C9A302
@@ -991,7 +991,7 @@ Date: 2024-05-28
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/tUEXjRYS#soXMXUIawyuep2GKScDCzKcQneLr4qRWmxN868-d2y4
+Transcript: 
 Summary: 
 
 UUID: 0096A8AB-28B6-4E3E-9A96-03D0C423274E
@@ -1000,7 +1000,7 @@ Date: 2024-05-31
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/NF1UiQAZ#JKtR8KXO6-E2Pz6IsnFvTlri_8XfMMzm8ErGrwdXkKg
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1013,7 +1013,7 @@ Date: 2024-06-04
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/8QEBWAQa#30BXcaMbirWhC9yrz9Z3_ScBZXZaRBtNPxaTMbC36QU
+Transcript: 
 Summary: 
 
 UUID: 82DAD92B-C173-4047-A622-8FD4D42ED30A
@@ -1022,7 +1022,7 @@ Date: 2024-06-08
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/pV9z3Iwb#C1DGg-X24L646qCeQqBPTh9OSR1idxAoV_rA3uHuSOA
+Transcript: 
 Summary: 
 
 UUID: 28424EDE-578C-4C4F-8BC8-08D13389ABA4
@@ -1031,7 +1031,7 @@ Date: 2024-06-11
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/5R0iDDAb#psydbLHsGOl4LDOxch7HBci38MoQHJsPr6duiG8xsyk
+Transcript: 
 Summary: 
 
 UUID: 7067D74F-9EB8-4DE3-B6D5-18838DDDB75C
@@ -1040,7 +1040,7 @@ Date: 2024-06-14
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/cN8imLzI#ZYBcPq8BB9HzHPOWwe-2IQ6UKt7Q9CElgb4G4d_hgac
+Transcript: 
 Summary: 
 
 UUID: 39199C15-B037-459B-9BAA-500EB8FD947D
@@ -1049,7 +1049,7 @@ Date: 2024-06-18
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/EIkSkQhD#c9VNzKYbYeyJwwCBlkp1NXDdhOJ_qJY5H0L5gyFxkuI
+Transcript: 
 Summary: 
 
 UUID: 95C75E61-2B0B-4078-8A1A-E18E5F23C727
@@ -1058,7 +1058,7 @@ Date: 2024-06-21
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/YcdmHYyQ#j1MCATPXVppuhOZv5d2Ly1vUihJRyJ4N4aaumTdvQMs
+Transcript: 
 Summary: 
 
 UUID: 320FA4F8-D271-4555-9876-78834E8C47C8
@@ -1067,7 +1067,7 @@ Date: 2024-06-28
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/1MMT3SiD#ftu6SPUIq7s4a9SPL0GiZWRpmXUlsvSsiFx5u-zviO0
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1080,7 +1080,7 @@ Date: 2024-07-04
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/gNdjUSqT#GPLjviYFBcj5mesmuOHn9raH7wOib9-SCW_toMu5NW0
+Transcript: 
 Summary: 
 
 UUID: 9ECB8512-4F20-4EBB-B4A1-B92E9F3DACD3
@@ -1089,7 +1089,7 @@ Date: 2024-07-16
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/kBl0hJhA#YPhQELfFHBPCRU5V7a5_jbYPzGOWzHmvlRH9kj-3NMI
+Transcript: 
 Summary: 
 
 UUID: 0CB6610D-F780-435D-9414-1AE13784C8ED
@@ -1098,7 +1098,7 @@ Date: 2024-07-19
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/4Q1hzSSQ#qZG6MbKuqlTHLAwrnjL7olUuZOdBLJtsG6f0oCg3P9o
+Transcript: 
 Summary: 
 
 UUID: C45AE75B-EC9B-4072-AE98-CF4EC9D7AC76
@@ -1107,7 +1107,7 @@ Date: 2024-07-23
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/hE02lLBI#bd2NFK4VBsGge9NrhNvfxXr6JHvdf5x7wglHySTnIaQ
+Transcript: 
 Summary: 
 
 UUID: 43A5A410-3CFD-4AF2-947C-85D07ECFFB6B
@@ -1116,7 +1116,7 @@ Date: 2024-07-26
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/hZlVWDoS#4X-sMrGAOqJotJUujZvCRTwDgdq9V0B-fAfR95NIQqk
+Transcript: 
 Summary: 
 
 UUID: 5B53E25F-6EBA-412C-970B-4451A1054E04
@@ -1125,7 +1125,7 @@ Date: 2024-07-30
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/ddVXgBIQ#GT0GdrCnH--gssUwtsaOEdMrbPLg09dQT-MoN8A8Gxw
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1138,7 +1138,7 @@ Date: 2024-08-02
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/EcsmCSJQ#Hg4vpPvFRBnKCGXLiemdsEoWNjvUDdS4AmTac-P1fEk
+Transcript: 
 Summary: 
 
 UUID: CAEAA076-3491-4369-9355-D7B43BFEFF10
@@ -1147,7 +1147,7 @@ Date: 2024-08-06
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/QQUnxSgT#Mju167wElpHJ3a9XJZ2JbAAZV--TIWwO8xW6MRn6gU0
+Transcript: 
 Summary: 
 
 UUID: 9F5E718B-4C84-419D-9460-4C2B74F08FF7
@@ -1156,7 +1156,7 @@ Date: 2024-08-09
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/ddlUBKqa#3z-kfRRabwpPYHCrK33A_LeFdVHAp5Fyv4QVfn1TOZ8
+Transcript: 
 Summary: 
 
 UUID: 36F8944E-4ABA-4183-945C-AD3552045EE7
@@ -1165,7 +1165,7 @@ Date: 2024-08-13
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/lRkVGb7b#-873y82sal0MuA_7FBI0Ap6xYkd3dM_7z9fMqIGlha0
+Transcript: 
 Summary: 
 
 UUID: CA079BF2-55EC-4C4C-86CE-B8BC4AF3A9C0
@@ -1174,7 +1174,7 @@ Date: 2024-08-16
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/xMUBQQyb#AJWqr-C7KE9mamJUVQbz7DKogpeehZq5tfY7kmDjXwQ
+Transcript: 
 Summary: 
 
 UUID: E8FCFD5C-92A6-4795-BBD6-6039295A6277
@@ -1183,7 +1183,7 @@ Date: 2024-08-27
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/hAdz1YwB#6YHz5c29H2mFftEG_Avv9tnUseloFhYJZsJ4YoMa3pM
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1196,7 +1196,7 @@ Date: 2024-08-30
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/dYcjiaKI#USrpteQ8y_mOqYuXJqWoiyIlHZIis9yDF3GefLp7QLQ
+Transcript: 
 Summary: 
 
 UUID: 86A5699D-2613-418A-AD2E-F5E256462D93
@@ -1205,7 +1205,7 @@ Date: 2024-09-03
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/UVFzUBpB#h_tH8FIbefEJBpebTOLcQToPHS7jfXA5fvHX6jUWwhk
+Transcript: 
 Summary: 
 
 UUID: E67B0812-2B7C-4181-80D2-4FB8CDC88C8B
@@ -1214,7 +1214,7 @@ Date: 2024-09-06
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/VR9EjRZZ#nAfawsyZeEGl5qfnkTKVcRZVCVKFEHhOgQImXKWcAhY
+Transcript: 
 Summary: 
 
 UUID: 34DD6CE5-04B6-446F-8FE2-F01B583ED7A8
@@ -1223,7 +1223,7 @@ Date: 2024-09-11
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/cB0jADxK#V_8kjxcOaNB21qCx-q7mpER7af9MrngF9oGUQHwu2a0
+Transcript: 
 Summary: 
 
 UUID: 4FD7A271-1CEB-484A-8757-55DB73028147
@@ -1232,7 +1232,7 @@ Date: 2024-09-20
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/UEEFTJza#KuQ9kFqvapnk0GVHi1MEswe3Va2eRa0EkkUdhekh3MY
+Transcript: 
 Summary: 
 
 UUID: 4EF6AAE4-12EA-4430-B7D0-B0EA56A45F4E
@@ -1241,7 +1241,7 @@ Date: 2024-09-27
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/xMUUDAoA#nFoO79NlMX2lXo_xrd5s6e1WOWpfJIB831yEONDwHM0
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1254,7 +1254,7 @@ Date: 2024-10-01
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/xdNRkDBY#bE5-1alex0JOQeQEo9UK2X6ljRlY7FYwZlxXUlr9JK0
+Transcript: 
 Summary: 
 
 UUID: 79A9DBDF-E78A-4E16-A0EB-99D642B45929
@@ -1263,7 +1263,7 @@ Date: 2024-10-04
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/kYE0mByB#H8GHjGgo8iKVnHU8pIrRexGLr-Tdh2MdBmsfVM0SZs4
+Transcript: 
 Summary: 
 
 UUID: 51CE8ED3-3A97-4680-8587-CE0FD0FC2184
@@ -1272,7 +1272,7 @@ Date: 2024-10-15
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/VIl0yLjb#pitVL4BZoQskSJ7mw0ctiN7drg5-9skTEJltVz9fWPk
+Transcript: 
 Summary: 
 
 UUID: 3CC13739-6855-4821-B60C-1E743099585F
@@ -1281,7 +1281,7 @@ Date: 2024-10-22
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/MIV23ZoZ#nQGAWlUMUPllZwPoNJkBJ1s66LM9PJhV93RV6Hyc5gI
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1294,7 +1294,7 @@ Date: 2024-11-12
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/lEU0TDIC#5q-YImXTc4Yt02FxzYxNyQhN-CX94iq-_aJ3bQ9bn2E
+Transcript: 
 Summary: 
 
 UUID: 62DE3CE2-0338-42E9-8D04-78B201A11B05
@@ -1303,7 +1303,7 @@ Date: 2024-11-22
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/hBdy3AxJ#LMYMlvf3db4k_biQ_fvqZpLB4qb6bhQYuVSGo_jE7JE
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1316,7 +1316,7 @@ Date: 2024-12-10
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/JAkDWTYR#xRmcc1g1TVPKDqIG0B0qj9SAw39fbrPsrCArrRYLSJY
+Transcript: 
 Summary: 
 
 UUID: 879A7764-8F73-46DE-AC88-EDDB742DBA1E
@@ -1325,7 +1325,7 @@ Date: 2024-12-27
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/5UlxmKIb#hljfns2uInnPUk50agPmywP3hBPby2xT5mhKEPjBxqo
+Transcript: 
 Summary: 
 
 ~~~~~~~~~~~~~~
@@ -1338,5 +1338,5 @@ Date: 2025-01-31
 Speakers: 
 Platform: 
 Audio File: 
-Transcript: https://mega.nz/file/cdVwwD6K#f56emy_bPKaPHhuI2bOEkByRIEb2V68HhJqEOe8NfrM
+Transcript: 
 Summary: 
