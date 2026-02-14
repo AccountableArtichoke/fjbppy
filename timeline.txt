@@ -3,7 +3,7 @@ contact fjbvoicetranscripts@proton.me with updates/suggestions
 `TIMELINE`
 
 ~~~~~~~~~~~~~~
-NOVEMBER 2021
+2021 NOVEMBER
 ~~~~~~~~~~~~~~
 
 UUID: 59D6D3B3-D57E-486F-B725-FA9DE4061FD9
@@ -133,7 +133,7 @@ Transcript: https://mega.nz/file/oYsxXabR#VLvVjATDZCtpRrGjdypv7z7mkPB4U_lT9KVb_A
 Summary: The FJB cryptocurrency project leader delivered an impassioned speech on day 38, revealing the project had grown from 1,000 holders on November 4th to nearly 7,000 holders by November 30th while maintaining $50,000 in charitable donations. The leader promised that by the end of the week, major news would validate his vision that FJB would be one of the few "life-changing" cryptocurrencies among the 10,000 existing coins, positioning it as a historical movement that would be studied in textbooks by 2050.
 
 ~~~~~~~~~~~~~~
-DECEMBER 2021
+2021 DECEMBER
 ~~~~~~~~~~~~~~
 
 UUID: EC1C3737-9FFC-4858-A8E5-9628D82677C7
@@ -191,7 +191,7 @@ Transcript: https://mega.nz/file/5RFARLaS#Oa3jAdjjcbkT9HtbbA0D9bWSVuTbR88PItS4Lj
 Summary: The Discord voice transcript from December 19, 2021 reveals the former president of the Let's Go Brandon cryptocurrency project confirming he sold ownership on December 2nd but remains actively involved as a community liaison and spokesperson, while emphasizing that major news from unnamed "big name" public figures is imminent before Christmas. The speaker distributed one million FJB tokens to community members during the session and defended the project's 58-day timeline against criticism, comparing it to Bitcoin's 30% decline and noting that Dogecoin took years to achieve success.
 
 ~~~~~~~~~~~~~~
-JANUARY 2022
+2022 JANUARY
 ~~~~~~~~~~~~~~
 
 UUID: 45629FB3-091D-40F3-974E-CFC45AB13FDC
@@ -249,7 +249,7 @@ Transcript: https://mega.nz/file/dFFjzZAJ#qr0irKwVh4Gjub91hFc6oex3T5iQNigIbIFEfV
 Summary: 
 
 ~~~~~~~~~~~~~~
-FEBRUARY 2022
+2022 FEBRUARY
 ~~~~~~~~~~~~~~
 
 UUID: 34A76104-CFE9-485D-81F7-709EB19FCA44
@@ -298,7 +298,7 @@ Transcript: https://mega.nz/file/YRcjyCwa#e2p5MV4bnnVwgG66RyXtbgN1JUWv_zTi_y_c8I
 Summary: 
 
 ~~~~~~~~~~~~~~
-MARCH 2022
+2022 MARCH
 ~~~~~~~~~~~~~~
 
 UUID: C6EA4C9D-AB5D-49A8-B9F8-103893E61FEF
@@ -338,7 +338,7 @@ Transcript: https://mega.nz/file/BddFCZCD#oNE-m7h5hfH0Lg0flB_i8bimHRg_rQJ0T7rtcK
 Summary: 
 
 ~~~~~~~~~~~~~~
-APRIL 2022
+2022 APRIL
 ~~~~~~~~~~~~~~
 
 UUID: A1D13409-81F4-4F82-A354-E82B81BDB203
@@ -351,7 +351,7 @@ Transcript: https://mega.nz/file/cUkRkAaR#m7KChQzOx3vLyoNXCSJz9XyRjtsTWUqBeLztjc
 Summary: 
 
 ~~~~~~~~~~~~~~
-MAY 2022
+2022 MAY
 ~~~~~~~~~~~~~~
 
 UUID: 67968051-F9C5-4C9A-A1C5-A033C5FF7BF7
@@ -373,7 +373,7 @@ Transcript: https://mega.nz/file/UIMw1CgQ#I4Vh_AihLC0sIhNpl-UXB29nLze3kyYI676hIb
 Summary: 
 
 ~~~~~~~~~~~~~~
-JUNE 2022
+2022 JUNE
 ~~~~~~~~~~~~~~
 
 UUID: 6968AC72-BACE-4793-9FAA-BC8FB81AEAC9
@@ -386,11 +386,11 @@ Transcript: https://mega.nz/file/kc9VFaCY#m-x-RRKQTusUteDJmDQrHhriGhEmzJGlAsoaPQ
 Summary: 
 
 ~~~~~~~~~~~~~~
-JULY 2022
+2022 JULY
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-AUGUST 2022
+2022 AUGUST
 ~~~~~~~~~~~~~~
 
 UUID: FEB01E25-B443-4E7A-A6B5-CD3B9C89AC52
@@ -412,11 +412,11 @@ Transcript: https://mega.nz/file/oV1wHZKa#p64IkcNpNpd5S-XsC87J561fIN-mv3mise-jnW
 Summary: 
 
 ~~~~~~~~~~~~~~
-OCTOBER 2022
+2022 OCTOBER
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-NOVEMBER 2022
+2022 NOVEMBER
 ~~~~~~~~~~~~~~
 
 UUID: BC024F8E-B7E2-4A90-9288-CB27740DF402
@@ -429,11 +429,11 @@ Transcript: https://mega.nz/file/gMkwBCTR#bFQvSg2kt8tVFYVDgrKQ1ZJtX-s6v4IRHmPbDd
 Summary: 
 
 ~~~~~~~~~~~~~~
-DECEMBER 2022
+2022 DECEMBER
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-JANUARY 2023
+2023 JANUARY
 ~~~~~~~~~~~~~~
 
 UUID: B8AFAACA-CDB7-4489-934F-935807871DBA
@@ -446,39 +446,39 @@ Transcript: https://mega.nz/file/AF0xESpA#O66xJbsLrqJnzGQG6eA8S9Sy1s-K1y2ej1ajCw
 Summary: 
 
 ~~~~~~~~~~~~~~
-FEBRUARY 2023
+2023 FEBRUARY
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-MARCH 2023
+2023 MARCH
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-APRIL 2023
+2023 APRIL
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-MAY 2023
+2023 MAY
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-JUNE 2023
+2023 JUNE
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-JULY 2023
+2023 JULY
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-AUGUST 2023
+2023 AUGUST
 ~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
-SEPTEMBER 2023
-~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~
-OCTOBER 2023
+2023 SEPTEMBER
+~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~
+2023 OCTOBER
 ~~~~~~~~~~~~~~~
 
 UUID: E7EF7585-0D14-4C70-B125-1AD3064694F2
@@ -500,7 +500,7 @@ Transcript: https://mega.nz/file/lckw3Kob#Zoaq-091-J3LAy1YHtvsQ7Hhs1p3U5sP54C1qd
 Summary: 
 
 ~~~~~~~~~~~~~~
-NOVEMBER 2023
+2023 NOVEMBER
 ~~~~~~~~~~~~~~
 
 UUID: 757907A4-36C0-412B-BC25-AA8EC368E67A
@@ -575,7 +575,7 @@ Transcript: https://mega.nz/file/dQtAiY7J#JJQO_VYwRqU02bwLsaja1QOL743_g3ui_I99zI
 Summary: 
 
 ~~~~~~~~~~~~~~
-DECEMBER 2023
+2023 DECEMBER
 ~~~~~~~~~~~~~~
 
 UUID: CE4A4CF4-4199-4CB1-BB03-B32EA6790639
@@ -633,7 +633,7 @@ Transcript: https://mega.nz/file/1Msy0aYK#-Xf658vkdyvM61LnEBijlN7sB9-5-njGJRI7i_
 Summary: 
 
 ~~~~~~~~~~~~~~
-JANUARY 2024
+2024 JANUARY
 ~~~~~~~~~~~~~~
 
 UUID: 62024F37-B3F3-4637-B898-6705D209E95E
@@ -691,7 +691,7 @@ Transcript: https://mega.nz/file/kRlHUa6C#H6DmrERinlh8tZFMBI3a-KLyM6bjOwn3ndPKE2
 Summary: 
 
 ~~~~~~~~~~~~~~
-FEBRUARY 2024
+2024 FEBRUARY
 ~~~~~~~~~~~~~~
 
 UUID: 62FD33C7-D414-4568-9903-DA80B104060D
@@ -749,7 +749,7 @@ Transcript: https://mega.nz/file/IMMXmSQb#EcVX6_Ti4YbUh5Zxi4HBJT22YZ3_ge9JFN5mZ7
 Summary: 
 
 ~~~~~~~~~~~~~~
-MARCH 2024
+2024 MARCH
 ~~~~~~~~~~~~~~
 
 UUID: 94B41CCF-5A5B-4A55-95EA-189152BF9E48
@@ -825,7 +825,7 @@ Transcript: https://mega.nz/file/YQM3XRqI#EZfwA0yLC-V09hiwSKcrTEA6Pd1xrqtWzpqsVb
 Summary: 
 
 ~~~~~~~~~~~~~~
-APRIL 2024
+2024 APRIL
 ~~~~~~~~~~~~~~
 
 UUID: 596F7B68-7B86-4C97-93B3-9F85E973C50D
@@ -919,7 +919,7 @@ Transcript: https://mega.nz/file/gNch2JTS#YXXvwcz84rba3Pv774HOj_dQwNd1Zy5cQM1Ezm
 Summary: 
 
 ~~~~~~~~~~~~~~
-MAY 2024
+2024 MAY
 ~~~~~~~~~~~~~~
 
 UUID: 2573F1BC-1FCC-4AF1-8CA7-F2A3C4E1DD8E
@@ -1004,7 +1004,7 @@ Transcript: https://mega.nz/file/NF1UiQAZ#JKtR8KXO6-E2Pz6IsnFvTlri_8XfMMzm8ErGrw
 Summary: 
 
 ~~~~~~~~~~~~~~
-JUNE 2024
+2024 JUNE
 ~~~~~~~~~~~~~~
 
 UUID: 47245CB7-C744-40FD-B521-6D72169A3CAD
@@ -1071,7 +1071,7 @@ Transcript: https://mega.nz/file/1MMT3SiD#ftu6SPUIq7s4a9SPL0GiZWRpmXUlsvSsiFx5u-
 Summary: 
 
 ~~~~~~~~~~~~~~
-JULY 2024
+2024 JULY
 ~~~~~~~~~~~~~~
 
 UUID: C667CA2A-8092-4CDA-86D2-29C3852CD9A8
@@ -1129,7 +1129,7 @@ Transcript: https://mega.nz/file/ddVXgBIQ#GT0GdrCnH--gssUwtsaOEdMrbPLg09dQT-MoN8
 Summary: 
 
 ~~~~~~~~~~~~~~
-AUGUST 2024
+2024 AUGUST
 ~~~~~~~~~~~~~~
 
 UUID: 43FD8E75-5270-467B-9558-51C567E13DEB
@@ -1187,7 +1187,7 @@ Transcript: https://mega.nz/file/hAdz1YwB#6YHz5c29H2mFftEG_Avv9tnUseloFhYJZsJ4Yo
 Summary: 
 
 ~~~~~~~~~~~~~~
-SEPTEMBER 2024
+2024 SEPTEMBER
 ~~~~~~~~~~~~~~
 
 UUID: 2397E815-C41B-42E7-8661-E956158615FB
@@ -1245,7 +1245,7 @@ Transcript: https://mega.nz/file/xMUUDAoA#nFoO79NlMX2lXo_xrd5s6e1WOWpfJIB831yEON
 Summary: 
 
 ~~~~~~~~~~~~~~
-OCTOBER 2024
+2024 OCTOBER
 ~~~~~~~~~~~~~~
 
 UUID: 24B8B8FD-244E-455D-941F-4191CC8B63E0
@@ -1285,7 +1285,7 @@ Transcript: https://mega.nz/file/MIV23ZoZ#nQGAWlUMUPllZwPoNJkBJ1s66LM9PJhV93RV6H
 Summary: 
 
 ~~~~~~~~~~~~~~
-NOVEMBER 2024
+2024 NOVEMBER
 ~~~~~~~~~~~~~~
 
 UUID: BE8CC30F-C92E-4A12-89C2-7A182335576C
@@ -1307,7 +1307,7 @@ Transcript: https://mega.nz/file/hBdy3AxJ#LMYMlvf3db4k_biQ_fvqZpLB4qb6bhQYuVSGo_
 Summary: 
 
 ~~~~~~~~~~~~~~
-DECEMBER 2024
+2024 DECEMBER
 ~~~~~~~~~~~~~~
 
 UUID: BD0E6DBC-CD62-45B8-8905-A7BD135EC140
@@ -1329,7 +1329,7 @@ Transcript: https://mega.nz/file/5UlxmKIb#hljfns2uInnPUk50agPmywP3hBPby2xT5mhKEP
 Summary: 
 
 ~~~~~~~~~~~~~~
-JANUARY 2025
+2025 JANUARY
 ~~~~~~~~~~~~~~
 
 UUID: 50CA4D79-D6AB-49F3-AE99-8A680299F6CE
