@@ -1,0 +1,3944 @@
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 1 of 106
+UNITED STATES DISTRICT COURT
+DISTRICT OF COLUMBIA
+ANDREW BARR, on behalf of himself and
+all others similarly situated,
+Plaintiff,
+v.
+STEPHEN K. BANNON, BORIS
+EPSHTEYN, SARAH ABDUL a/k/a Sarah
+Abdul Razzaq a/k/a Sarah Abdulrazzi a/k/a
+Sarah Abdul Williams a/k/a Sarah Abdul
+Elliott, GRANT TRAGNI, LET’S GO
+BRANDON COIN LLC, PATRIOT PAY
+LLC, WARROOM LLC, 354 NOD HILL
+LLC, and TWINDS LLC,
+Case No. 1:26-cv-00452
+JURY TRIAL DEMANDED
+Defendants.
+
+CLASS ACTION COMPLAINT
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 2 of 106
+TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+PARTIES ........................................................................................................................................ 4
+I.
+
+NAMED PLAINTIFF ......................................................................................................... 4
+II.
+
+DEFENDANTS .................................................................................................................. 4
+JURISDICTION AND VENUE ..................................................................................................... 6
+I.
+
+SUBJECT-MATTER JURISDICTION .............................................................................. 6
+II.
+
+PERSONAL JURISDICTION ............................................................................................ 6
+III.
+
+VENUE ............................................................................................................................... 7
+GENERAL ALLEGATIONS ......................................................................................................... 8
+I.
+
+II.
+
+FJB’S ORIGINS AS A “MEME” COIN AND DEFENDANTS’ UNDISCLOSED
+ACQUISITION OF IT ........................................................................................................ 8
+A.
+
+Creation of Let’s Go Brandon Coin and Initial Structure ....................................... 8
+B.
+
+The Founders Secretly Transferred Control of $FJB to Bannon and Epshteyn
+Through an Undisclosed Sale Agreement Funded by Investor Fees .................... 10
+DEFENDANTS RE-LAUNCH FJB AS A UTILITY TOKEN PERSONALLY BACKED
+BY BANNON AND EPSHTEYN .................................................................................... 13
+A.
+
+Bannon Publicly Promotes $FJB While Concealing His Ownership and the
+Investor-Funded Nature of His Involvement ........................................................ 13
+B.
+
+Bannon and Epshteyn Announce a “Partnership” with FJB and Promote It as a
+Means of Avoiding Political and Financial Persecution ....................................... 15
+C.
+
+Defendants Continued to Present Themselves as “Partners” to FJB, When Really
+They Owned and Controlled It ............................................................................. 17
+D.
+
+Bannon and Epshteyn Stress Their Personal Commitment to FJB’s Success and
+Promote It as an Inflation-Resistant, Alternative Store of Value ......................... 20
+E.
+
+$FJB Is Rebranded and Promoted as a “Safe,” “Decentralized” “Alternative” to the
+Dollar and a “Utility Token” with “Real-World Applications”............................ 22
+F.
+
+Despite Being Billed as “Decentralized” and a Pathway to “Independence,”
+Defendants Built in a Backdoor to Let Them Freeze Investors’ Wallets ............. 24
+i
+Case 1:26-cv-00452
+III.
+
+IV.
+
+Document 1
+Filed 02/12/26
+Page 3 of 106
+DEFENDANTS BARELY MARKET $FJB BUT ASSURE INVESTORS THEY
+REMAIN COMMITTED TO ITS SUCCESS .................................................................. 25
+A.
+
+Erik Finman Makes His First and Last Appearance for $FJB in April 2022 ....... 25
+B.
+
+Defendants Put Out a Press Release Announcing $FJB’s “First Phase” in August
+2022....................................................................................................................... 27
+FUNDS IN THE “MARKETING” AND “CHARITY” WALLETS GO “MISSING” OR
+ARE WASTED IN UNDISCLOSED RELATED-PARTY TRANSACTIONS .............. 28
+A.
+
+Defendants Reassure Investors They Are Working on $FJB “24/7” .................... 28
+B.
+
+Defendants Barely Donated to Charity and Spent the “Marketing” Fee on SelfInterested Transactions that Did Not Actually Go to Promoting the Token......... 29
+C.
+
+Defendants Could Not Account for Even the Minimal Amounts Purportedly Spent
+on Charity.............................................................................................................. 33
+D.
+
+Funds in the “Marketing” and “Charity” Wallets Went “Missing” and Were Never
+Accounted for by Defendants ............................................................................... 35
+V.
+
+BANNON AND EPSHTEYN SEEMINGLY ABANDON $FJB WITHOUT NOTICE,
+ONLY TO RETURN TO THE PROJECT AFTER INVESTOR BACKLASH .............. 38
+VI.
+
+DEFENDANTS FREEZE INVESTORS’ WALLETS AND RE-BRAND (AGAIN) TO
+PATRIOT PAY................................................................................................................. 39
+VII.
+
+A.
+
+Defendants Freeze Investors’ Wallets and Re-Brand to Patriot Pay .................... 39
+B.
+
+The “New” Website Repeated the Same False and Misleading Statements as the
+Old Website .......................................................................................................... 44
+C.
+
+Defendants (Again) Barely Promote $PPY and, When They Did, Repeated the
+Same Misleading and False Statements as $FJB Promotions............................... 46
+DEFENDANTS STRING INVESTORS ALONG UNTIL THE VERY END, WHEN
+THEY PULLED THE RUG ON THE PROJECT ............................................................ 52
+A.
+
+Defendants Again Paint a Rosy Picture of $PPY’s Future ................................... 52
+B.
+
+Defendant Abruptly and Permanently Freeze Investors’ Wallets and Abandon
+$PPY with False Promises of Refunds ................................................................. 53
+VIII.
+
+ABDUL ORGANIZES TAX-FREE, OVER-THE-COUNTER SALES OF $FJB/$PPY
+FOR SELECT INVESTORS ............................................................................................ 55
+IX.
+
+THE TOKEN’S PRICE AND TRADING VOLUME ROSE AND FELL IN DIRECT
+RESPONSE TO DEFENDANTS’ PROMOTIONAL CONDUCT ................................. 59
+ii
+Case 1:26-cv-00452
+X.
+
+Document 1
+Filed 02/12/26
+Page 4 of 106
+A.
+
+Immediate Price and Volume Reaction to Defendants’ Initial Promotions .......... 60
+B.
+
+Continued Promotional Statements Drove Short-Term Price Support ................. 60
+C.
+
+Prolonged Silence and Broken Promises Caused Sustained Price Decline .......... 61
+D.
+
+Whipsawing Statements and False Reassurances Exacerbated Losses ................ 61
+E.
+
+Rebrand to Patriot Pay Repeated the Same Cycle of Inflation and Collapse ....... 62
+DEFENDANTS’ CONCEALMENT ................................................................................ 62
+CLASS ALLEGATIONS ............................................................................................................. 64
+I.
+
+NUMEROSITY ................................................................................................................ 64
+II.
+
+TYPICALITY ................................................................................................................... 65
+III.
+
+ADEQUACY .................................................................................................................... 65
+IV.
+
+COMMONALITY AND PREDOMINANCE.................................................................. 65
+V.
+
+SUPERIORITY ................................................................................................................ 66
+VI.
+
+CLASS ACTION IS APPROPRIATE ............................................................................. 66
+D.C. LAW APPLIES TO THE ENTIRE CLASS ........................................................................ 66
+$FJB/$PPY TOKENS ARE SECURITIES SUBJECT TO THE SECURITIES LAWS ............. 68
+I.
+
+INVESTMENT OF MONEY ........................................................................................... 68
+II.
+
+COMMON ENTERPRISE ............................................................................................... 68
+III.
+
+IV.
+
+A.
+
+Horizontal Commonality ...................................................................................... 68
+B.
+
+Vertical Commonality ........................................................................................... 69
+REASONABLE EXPECTATION OF PROFITS ............................................................ 69
+A.
+
+Dollar Collapse Messaging ................................................................................... 69
+B.
+
+Promotion as Inflation-Resistant Store of Value .................................................. 69
+C.
+
+Marketing and Development Promises ................................................................. 70
+D.
+
+Price Reactions to Promotion................................................................................ 70
+PROFITS DERIVED FROM THE EFFORTS OF OTHERS .......................................... 70
+iii
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 5 of 106
+A.
+
+Centralized Control ............................................................................................... 70
+B.
+
+Marketing and Influence ....................................................................................... 70
+C.
+
+Operational Development ..................................................................................... 71
+D.
+
+Insider Advantages................................................................................................ 71
+LOSS CAUSATION..................................................................................................................... 71
+I.
+
+ARTIFICIAL
+INFLATION
+INTRODUCED
+THROUGH
+DEFENDANTS’
+PROMOTIONAL CONDUCT ......................................................................................... 71
+II.
+
+PARTIAL CORRECTIVE DISCLOSURES REVEALED THE TOKEN’S TRUE RISK
+PROFILE .......................................................................................................................... 72
+III.
+
+FEBRUARY 13–14, 2023: CLASSIC CORRECTIVE DISCLOSURE AND PRICE
+COLLAPSE ...................................................................................................................... 73
+IV.
+
+WALLET FREEZES AND REBRAND UNDERMINED CLAIMS OF
+“DECENTRALIZATION” ............................................................................................... 73
+V.
+
+FEBRUARY 12, 2025: TRADING DISABLED AND COLLAPSE OF REMAINING
+PRICE SUPPORT............................................................................................................. 74
+VI.
+
+CAUSAL CONNECTION BETWEEN MISCONDUCT AND LOSS............................ 74
+OVERVIEW OF FRAUD AND NON-FRAUD CLAIMS .......................................................... 75
+I.
+
+NON-FRAUD-BASED SECURITIES AND STATE LAW CLAIMS............................ 76
+II.
+
+FRAUD-BASED SECURITIES AND STATE LAW CLAIMS (PLED IN THE
+ALTERNATIVE) ............................................................................................................. 77
+A.
+
+Defendants Knew They Controlled the Token While Representing Themselves as
+Mere “Partners” .................................................................................................... 78
+B.
+
+Defendants Structured the Acquisition to Be Funded by Investor Fees ............... 78
+C.
+
+Defendants Knew the Token Was Not Decentralized .......................................... 79
+D.
+
+Defendants Repeatedly Reassured Investors While Concealing Material Facts .. 79
+E.
+
+Defendants Had Clear Motive and Opportunity ................................................... 80
+F.
+
+The Abrupt Shutdown Supports Conscious Misconduct ...................................... 80
+G.
+
+At Minimum, Defendants Acted With Severe Recklessness ................................ 81
+iv
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 6 of 106
+CAUSES OF ACTION ................................................................................................................. 81
+PRAYER FOR RELIEF ............................................................................................................... 99
+DEMAND FOR JURY TRIAL .................................................................................................. 100
+v
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 7 of 106
+Plaintiff Andrew Barr (“Plaintiff”), individually and on behalf of all others similarly
+situated (the “Class”), brings this class action lawsuit against Defendants Stephen Bannon, Boris
+Epshteyn, Sarah Abdul, Grant Tragni (collectively, the “Executive Defendants”), Let’s Go
+Brandon Coin, LLC, Patriot Pay, LLC, Warroom LLC, 354 Nod Hill LLC, and TWinds LLC (the
+“Entity Defendants,” and together with the Executive Defendants, “Defendants”). Plaintiff’s
+allegations are based on personal knowledge as to himself and his own acts, and upon information
+and belief as to all other matters, based on the investigation conducted by and through Plaintiff’s
+undersigned counsel, which included, without limitation: review and analysis of press releases,
+news articles, websites, state corporate filings, and other publicly available information concerning
+Defendants and the cryptocurrency known as Let’s Go Brandon Coin, and later Patriot Pay.
+INTRODUCTION
+1.
+
+This action arises from the unregistered offer and sale of a cryptocurrency to retail
+investors by Defendants Steve Bannon and Boris Epshteyn, who leveraged their prominence,
+credibility, and loyal following to market a digital token as a stable, secure, and functional
+alternative to traditional currency—while concealing material facts about the token’s true risks,
+governance, and economics.
+2.
+
+From late 2021 through early 2025, Defendants promoted a digital token initially
+branded as Let’s Go Brandon Coin (“FJB” or “$FJB”) and later rebranded as Patriot Pay (“PPY”
+or “$PPY”) (the “Token”) as a serious financial project with real-world utility, charitable purpose,
+and resilience against inflation, debanking, and financial censorship. Defendants repeatedly
+emphasized that the Token was not a meme coin or speculative novelty, but a decentralized
+payment ecosystem that would protect users from economic instability and institutional control.
+
+1
+Case 1:26-cv-00452
+3.
+
+Document 1
+Filed 02/12/26
+Page 8 of 106
+Defendants deliberately targeted a politically aligned and deeply loyal audience—
+individuals who trusted Defendants’ judgment, motives, and commitment to shared values—and
+encouraged them to invest in the Token as a means of participating in a broader movement.
+Defendants’ conduct was particularly insidious because it exploited that trust to induce purchases
+of an unregistered, highly speculative asset under the guise of financial independence and
+community membership.
+4.
+
+Central to Defendants’ pitch was the representation—explicit and implicit—that
+Bannon and Epshteyn had entered into a strategic partnership with the project’s founders and
+would lend their support and influence to help the Token succeed. Defendants repeatedly framed
+their role as that of partners or advocates, rather than as controlling insiders.
+5.
+
+In reality, Defendants owned and controlled the project. Through a private,
+undisclosed transaction, Defendants acquired governance and administrative control of the Token
+without paying any purchase price, while investors—through embedded transaction fees—
+effectively financed Defendants’ acquisition. Defendants did not disclose that purchasers of the
+Token were, in substance, funding the very transaction that placed Defendants in control.
+6.
+
+Defendants further failed to disclose that the Token was centrally controlled; that
+insiders retained authority over the Token’s smart contract and wallets; that Defendants could and
+did freeze investor wallets; that select purchasers were offered over-the-counter (“OTC”) sales
+outside public markets; and that transaction-based “marketing” and “charity” fees were not used
+exclusively—or transparently—for the purposes investors were led to believe.
+7.
+
+Defendants also misrepresented the Token as decentralized, “uncancellable,” and
+immune from the types of account freezes and restrictions imposed by traditional financial
+institutions. In reality, Defendants retained—and exercised—centralized authority to restrict
+2
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 9 of 106
+trading, manage supply, and control liquidity, while exempting insider wallets from those same
+constraints.
+8.
+
+Throughout the Class Period, Defendants promoted the Token as a safer alternative
+to fiat currency, invoking economic collapse, inflation, and financial crisis to create urgency and
+induce purchases. Defendants warned that the existing financial system was “hurtling towards”
+catastrophe and represented that participation in the Token was necessary to preserve value,
+transact freely, and maintain economic sovereignty.
+9.
+
+At the same time, Defendants failed to build any functioning payment ecosystem,
+failed to deliver the promised utility, and devoted minimal and declining effort to promoting or
+developing the project—despite repeatedly reassuring investors that they remained committed and
+would double down.
+10.
+
+When investors raised concerns about missing funds, liquidity, and price collapse,
+Defendants responded with reassurances and delay, including statements that “investigation is
+ongoing” and “[i]t’s definitely not getting brushed under the rug,” while continuing to conceal
+material information about insider control, fee usage, and preferential sales practices.
+11.
+
+In February 2025, Defendants abruptly disabled trading of the Token, announced
+the project’s closure, and promised a liquidity distribution that never occurred—leaving investors
+holding illiquid tokens after years of reliance on Defendants’ misleading statements.
+12.
+
+Registration would have required Defendants to disclose ownership, insider
+compensation, fee arrangements, wallet control, conflicts of interest, and risk factors—information
+Defendants instead concealed while continuing to solicit retail investors.
+13.
+
+Having used their prominence and credibility to induce loyal followers to purchase
+an unregistered and misleadingly marketed digital asset—while concealing its true governance,
+3
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 10 of 106
+risks, and economics—Defendants can no longer evade accountability. The securities laws exist
+precisely to prevent influential insiders from exploiting trust, obscuring material facts, and shifting
+risk onto retail investors without transparency or registration.
+
+This action seeks to make
+Defendants answer for their conduct, restore what was taken from investors, and deter the misuse
+of public platforms and personal influence.
+PARTIES
+I.
+
+NAMED PLAINTIFF
+14.
+
+Plaintiff Andrew Barr is an individual residing in Missouri. Mr. Barr invested in
+$FJB/$PPY Tokens during the Class Period (as defined herein) and suffered a net loss of
+approximately $58,730.98 on those investments, as set forth in detail in his accompanying
+certification.
+II.
+
+DEFENDANTS
+15.
+
+Defendant Stephen (Steve) K. Bannon (“Bannon”) is an individual residing in
+Washington, D.C. In February 2025, he pleaded guilty in the Supreme Court of New York, New
+York County, to scheming to defraud donors to a non-profit—a felony.
+16.
+
+Defendant Boris Epshteyn (“Epshteyn”) is an individual residing in Washington,
+D.C. In April 2024, he was indicted in Arizona on nine counts related to election interference,
+including fraud and forgery—felonies. The case is pending trial.
+17.
+
+Defendant Sarah Abdul (“Abdul”) is an individual who, on information and belief,
+resides in Arizona. Abdul has operated under a number of aliases, including Sarah Abdul Razzaq,
+Sarah Abdulrazzi, Sarah Abdul Williams, and Sarah Abdul Elliott. Abdul acted as an agent of the
+Company and the Executive Defendants, with authority to speak to investors, manage wallets,
+coordinate sales, and implement operational decisions. She represented herself to investors as the
+“sole proprietor” of Patriot Pay LLC.
+4
+Case 1:26-cv-00452
+18.
+
+Document 1
+Filed 02/12/26
+Page 11 of 106
+Defendant Grant Tragni (“Tragni”) is an individual who, on information and belief,
+resides in North Carolina. He created the $FJB Token, and continued to be involved with its
+management and operation after its sale to Bannon’s and Epshteyn’s LLCs, 354 Nod Hill and
+TWinds.
+19.
+
+Defendant Let’s Go Brandon Coin LLC is or was a limited liability company
+organized under the laws of Delaware. It was the issuing and controlling entity for the $FJB
+Token. Bannon and Epshteyn owned, controlled, and operated Let’s Go Brandon Coin LLC out
+of their Washington, D.C., homes.
+20.
+
+Defendant Patriot Pay LLC is or was a limited liability company organized under
+the laws of Delaware. It was the issuing and controlling entity for the $PPY Token. Bannon and
+Epshteyn owned, controlled, and operated Patriot Pay LLC out of their Washington, D.C., homes.
+On information and belief, Patriot Pay LLC is the successor-in-interest to Let’s Go Brandon Coin
+LLC. Accordingly, they are referred herein collectively as the “Company.”
+21.
+
+Defendant Warroom LLC (“War Room”) is a media company organized under the
+laws of Wyoming, with its principal place of business in Washington, D.C. Bannon owns,
+controls, and operates War Room, and produces and broadcasts its podcast episodes out of his
+Washington, D.C., home.
+22.
+
+Defendant 354 Nod Hill LLC (“354 Nod Hill”) is a limited liability company
+organized under the laws of Delaware. Bannon owns, controls, and operates 354 Nod Hill out of
+his Washington, D.C., home. On information and belief, Bannon controlled and operated the
+Company through 354 Nod Hill.
+23.
+
+Defendant TWinds LLC (“TWinds”) is a limited liability company organized under
+the laws of Delaware. Epshteyn owns, controls, and operates TWinds out of his Washington, D.C.,
+5
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 12 of 106
+home. On information and belief, Epshteyn controlled and operated the Company through
+TWinds.
+JURISDICTION AND VENUE
+I.
+
+SUBJECT-MATTER JURISDICTION
+24.
+
+This Court has subject-matter jurisdiction over this action under 28 U.S.C. § 1331
+because Plaintiff asserts claims under Sections 5, 12(a)(1), and 15 of the Securities Act of 1933,
+15 U.S.C. §§ 77e, 77l(a)(1), 77o, and under Sections 10(b) and 20 of the Securities Exchange Act
+of 1934, 15 U.S.C. §§ 78j(b), 78t. In addition, this Court has subject-matter jurisdiction over the
+Securities Act claims under Section 22 of that Act, 15 U.S.C. § 77v. This Court has subject-matter
+jurisdiction over the Exchange Act claims under Section 27 of that Act, 15 U.S.C. § 78aa(a), which
+provides that federal courts have exclusive jurisdiction over violations of the Exchange Act.
+25.
+
+This Court also has subject-matter jurisdiction over this dispute in the alternative
+pursuant to 28 U.S.C. § 1332(d)(2) because: (1) there are 100 or more (named or unnamed) class
+members; (2) there is an aggregate amount in controversy exceeding $5,000,000, exclusive of
+interest or costs; and (3) there is minimal diversity because at least one plaintiff and defendant are
+citizens of different states.
+26.
+
+This Court has supplemental subject-matter jurisdiction over the state-law claims
+asserted in this action under 28 U.S.C. § 1367(a).
+II.
+
+PERSONAL JURISDICTION
+27.
+
+Defendants Let’s Go Brandon Coin LLC, Patriot Pay LLC, 354 Nod Hill, and
+TWinds are subject to this Court’s general personal jurisdiction because, at all relevant times, they
+maintained their principal place of business in Washington, D.C., and because they conceived,
+authorized, and directed from within this District the conduct giving rise to Plaintiff’s claims,
+including the offer and sale of the $FJB/$PPY Tokens.
+6
+Case 1:26-cv-00452
+28.
+
+Document 1
+Filed 02/12/26
+Page 13 of 106
+Defendants Bannon and Epshteyn are subject to this Court’s general personal
+jurisdiction because they reside in Washington, D.C.
+29.
+
+Defendants Abdul and Tragni are subject to this Court’s specific personal
+jurisdiction because, as managing agents for Let’s Go Brandon Coin LLC and/or Patriot Pay LLC,
+they directed, controlled, and substantially participated in the LLCs’ operations centered in
+Washington, D.C., including decisions regarding Token issuance, promotion, and distribution.
+30.
+
+In addition, this Court has specific personal jurisdiction over all Defendants
+because they purposefully availed themselves of the privilege of conducting activities in
+Washington, D.C., in connection with the offer and sale of unregistered securities alleged herein,
+and with the related fraud and other misconduct also alleged herein.
+
+Defendants further
+purposefully availed themselves of this District by using podcasts, websites, social media, and
+digital wallets operated from Washington, D.C., to offer and sell securities nationwide.
+31.
+
+This Court also has specific personal jurisdiction over Defendants pursuant to D.C.
+
+Code §§ 13-423(a)(1) and (a)(3) because Defendants transacted business in the District of
+Columbia and caused tortious injury in the District by offering and selling unregistered securities
+to District residents, and Plaintiff’s claims arise directly from that conduct.
+III.
+
+VENUE
+32.
+
+Venue lies in this District under 15 U.S.C. § 77v(a) because one or more Defendants
+is found or transacts business in this District and because offers and sales at issue in this action
+took place in this District.
+33.
+
+Venue is also proper in this District pursuant to 28 U.S.C. § 1391(b)(2) because a
+substantial part of the events or omissions giving rise to the claims occurred in this District,
+including the conception, authorization, and dissemination of promotional messaging through the
+War Room platform; the direction and coordination of Token promotion and investor
+7
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 14 of 106
+communications; and the management of wallets, transaction-fee routing, and over-the-counter
+sales. Defendants’ conduct was purposefully directed to consumers and investors in the District
+of Columbia, and Defendants knew or reasonably should have known that their acts would cause
+harm in this District.
+GENERAL ALLEGATIONS
+I.
+
+FJB’S ORIGINS AS A “MEME” COIN AND DEFENDANTS’ UNDISCLOSED
+ACQUISITION OF IT
+A.
+
+Creation of Let’s Go Brandon Coin and Initial Structure
+34.
+
+Let’s Go Brandon Coin (FJB) was created in or about October 2021 by Grant
+Tragni, Nicholas Smith, and Caleb Benedict (collectively, the “Founders”), who organized,
+operated, and promoted the project through Let’s Go Brandon Coin LLC.
+35.
+
+At inception, FJB was branded and marketed using overtly political messaging,
+including the name “Let’s Go Brandon,” a phrase widely understood to be a euphemism for the
+profane political slogan, “Fuck Joe Biden.” The Token’s ticker symbol—“FJB”—was initially
+promoted in connection with that slogan.
+36.
+
+As the project developed, promoters began referring to FJB as standing for
+“Freedom. Jobs. Business.”—a backronym intended to present the Token in a more professional
+and legitimate light to try to appeal to a broader array of investors, despite its origins as a “meme”
+coin.
+37.
+
+From the outset, the Founders structured FJB to include transaction fees embedded
+in the Token’s smart contract, including fees designated for marketing and charity. As represented
+to investors, each Token transaction triggered an automatic fee, a portion of which was routed to
+wallets designated for those purposes.
+
+8
+Case 1:26-cv-00452
+38.
+
+Document 1
+Filed 02/12/26
+Page 15 of 106
+From the outset, the Founders structured FJB to include transaction-based fees
+embedded in the Token’s smart contract. Specifically, each transaction in FJB charged an eight
+percent (8%) transaction fee (sometimes referred to as a “tax”), comprised of a three percent (3%)
+“marketing fee” and a five percent (5%) “charitable donation.”
+This transaction fee was
+significantly higher than what other cryptocurrencies charged, and it was emphasized as a defining
+feature of the Token’s economics and community.
+39.
+
+The 3% marketing fee was routed to a dedicated “marketing wallet,” where it was
+purportedly to be reinvested to promote the Token, grow adoption, and increase the Token’s value.
+The 5% donation fee was routed to a dedicated “charity wallet,” from which donations were
+purportedly to be made to charities supporting veterans and first responders.
+40.
+
+The Founders controlled and administered the Token’s smart contract on the
+Binance Smart Chain (BEP-20) blockchain, as well as the associated treasury, marketing, and
+charity wallets. The Founders also controlled the Token’s branding and messaging and directed
+the Token’s promotion and sale to the public through the project’s website (FJBCoin.org), social
+media, and online communities.
+41.
+
+Defendant Grant Tragni was the original lead developer of the Token and its smart
+contract, and he retained technical authority over the Token’s code, including features governing
+transaction fees, wallet permissions, and other operational parameters.
+42.
+
+Although Defendants later characterized FJB as decentralized and community-
+driven, control during this early period remained centralized in the hands of the Founders. With
+that power, the Founders exercised unilateral authority over key aspects of the Token’s operation,
+including smart-contract administration, fee allocation, wallet control, and governance decisions.
+
+9
+Case 1:26-cv-00452
+43.
+
+Document 1
+Filed 02/12/26
+Page 16 of 106
+During this period, FJB was offered and sold to retail purchasers nationwide
+without any registration statement filed with the Securities and Exchange Commission; without
+audited financial statements; and without meaningful disclosures concerning governance, conflicts
+of interest, insider compensation, or the risks associated with the Token.
+44.
+
+These early structural features—including centralized control of the smart contract
+and wallets, the unusually high embedded transaction tax, reliance on promoter-driven marketing,
+and the absence of regulatory disclosures—established FJB as a project whose value depended on
+the managerial and entrepreneurial efforts of insiders.
+45.
+
+As described below, these same features were later concealed, reframed, or
+affirmatively misrepresented when Defendants Steve Bannon and Boris Epshteyn acquired control
+of the project and began promoting the Token to a significantly larger and more trusting retail
+audience.
+46.
+
+Defendants’ later statements describing the Token as decentralized, self-governing,
+and insulated from insider control were misleading in light of FJB’s original structure, which
+vested control over the smart contract, fee routing, treasury wallets, and branding in a small group
+of insiders who never meaningfully relinquished that control.
+47.
+
+Defendants’ statements touting the marketing and charity taxes as investor-
+benefiting features were misleading to the extent Defendants failed to disclose who controlled the
+marketing and charity wallets, how those wallets were actually used, and whether fees collected
+under those labels were in fact used for marketing and charitable donations as represented.
+B.
+
+The Founders Secretly Transferred Control of $FJB to Bannon and Epshteyn
+Through an Undisclosed Sale Agreement Funded by Investor Fees
+48.
+
+In or about December 2021, the Founders entered into a written agreement
+transferring Let’s Go Brandon Coin LLC and two billion (2.0 billion) $FJB Tokens to 354 Nod
+10
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 17 of 106
+Hill LLC and TWinds LLC, which are owned and controlled by Steve Bannon and Boris Epshteyn
+respectively. Bannon and Epshteyn assumed “full legal” “ownership of the Coin,” “control,
+administration, and governance of the Coin,” and “[c]ontrol of the LLC [and] smart contract
+private keys.” On information and belief, Bannon and Epshteyn evenly split the Tokens between
+them, with each taking 1 billion Tokens.
+49.
+
+As Tragni privately acknowledged, Defendants, through Epshteyn, acquired and
+retained control of the bank account associated with FJB’s Coinbase account:
+50.
+
+Critically, Bannon and Epshteyn did not pay cash or other consideration to acquire
+$FJB. Instead, the agreement structured the transaction so that Defendants’ acquisition would be
+11
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 18 of 106
+financed through ongoing transaction fees paid by retail investors, rather than through capital
+contributions by Defendants themselves.
+51.
+
+Specifically, the agreement provided that the Token’s embedded 3% “marketing
+fee”—collected from every transaction—would be paid to the Founders for a defined period
+following the transfer of control.
+52.
+
+The agreement further stated that the Founders would receive these marketing-fee
+payments without any obligation to perform marketing services, regardless of whether Defendants
+modified, terminated, or failed to carry out any marketing efforts.
+53.
+
+As a result, the so-called “marketing fee” was not, in fact, tied to marketing activity,
+performance, or expenditures. Instead, it functioned as a mechanism to compensate the Founders
+for transferring control of the Token to Bannon and Epshteyn—using funds generated from retail
+investor transactions.
+54.
+
+The agreement also provided that the 2 billion Tokens transferred to Defendants or
+their affiliates would be whitelisted or otherwise exempted from transaction fees, allowing
+Defendants to transact without paying the same fees imposed on retail investors.
+55.
+
+None of these terms were disclosed to investors.
+
+56.
+
+At no time did Defendants disclose that retail investors were, in effect, financing
+Defendants’ acquisition and control of the project through transaction fees that were purportedly
+earmarked for marketing and growth.
+57.
+
+Instead, Defendants publicly characterized their involvement as a “strategic
+partnership” or collaborative effort, creating the misleading impression that Bannon and Epshteyn
+were contributing value, capital, and effort to the project on the same terms as other participants.
+
+12
+Case 1:26-cv-00452
+58.
+
+Document 1
+Filed 02/12/26
+Page 19 of 106
+In reality, the agreement ensured that Defendants assumed total control of FJB with
+minimal financial risk, while retail investors bore the economic burden of funding the acquisition
+through transaction fees extracted from their trades.
+59.
+
+The existence and terms of this agreement were material to investors because they
+revealed that:
+a.
+
+Defendants’ incentives were misaligned with those of retail investors;
+b.
+
+marketing fees were not being used for marketing as represented;
+c.
+
+Defendants were not required to provide ongoing promotional or
+operational support; and
+d.
+
+the Token’s economics were structured to benefit insiders regardless of
+project success.
+60.
+
+Defendants’ failure to disclose the agreement rendered their statements about
+marketing, partnership, alignment of interests, and long-term commitment materially false and
+misleading when made.
+61.
+
+This undisclosed transfer of control marked a fundamental shift in the Token’s
+governance and risk profile and set the stage for the subsequent misrepresentations, omissions, and
+investor harm described below.
+II.
+
+DEFENDANTS RE-LAUNCH FJB AS A UTILITY TOKEN PERSONALLY
+BACKED BY BANNON AND EPSHTEYN
+A.
+
+Bannon Publicly Promotes $FJB While Concealing His Ownership and the
+Investor-Funded Nature of His Involvement
+62.
+
+After the transfer of ownership and control to Bannon and Epshteyn, Tragni
+continued to be heavily involved with the management and operation of the Token.
+63.
+
+Around that same time in late 2021, and no later than January 2022, the other
+Defendants brought on Sarah Abdul as a senior administrator, spokesperson, and operational
+13
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 20 of 106
+representative for the FJB project, communicating directly with investors and participating in
+decisions regarding marketing, vendors, remediation efforts, and project governance.
+64.
+
+In December 2021, shortly after Defendants Bannon and Epshteyn acquired control
+of FJB pursuant to a private, undisclosed agreement, Bannon began publicly promoting the Token
+while failing to disclose his ownership interest or control.
+65.
+
+On December 7, 2021, Bannon appeared on The Culture War podcast hosted by
+Tim Pool to discuss the Token. In response to the podcast host’s skepticism that FJB was yet
+another “scam crypto,” Bannon emphasized how he “think[s]” a portion of FJB’s transaction fee
+“goes to veterans,” presenting himself as a neutral observer. Bannon then added that he “think[s]
+things like FJB … have to be looked at” and “you owe it to yourself to look at your own digital
+sovereignty, your own data sovereignty, your own ability to participate in not just cryptocurrencies
+but other stores of value,” because the government “destroyed the U.S. Dollar” with its “printing
+machine up in Capitol Hill” and spending “$7 trillion.”
+66.
+
+At no point during that appearance did Bannon disclose that he had already acquired
+ownership and control of $FJB, that he stood to profit directly from increased trading volume, or
+that retail investors were funding his acquisition through transaction-based “marketing” fees
+embedded in the Token’s smart contract.
+67.
+
+Instead, Bannon spoke as if he were an outside commentator or advocate, rather
+than a controlling insider. This omission was material because reasonable investors would have
+viewed his statements differently had they known he was promoting a Token he owned, controlled,
+and economically benefited from.
+
+14
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 21 of 106
+B.
+
+Bannon and Epshteyn Announce a “Partnership” with FJB and Promote It as
+a Means of Avoiding Political and Financial Persecution
+68.
+
+Approximately two weeks later, on December 23, 2021, Epshteyn made a guest
+appearance on Bannon’s War Room podcast, during which the pair jointly announced their
+involvement with FJB.
+69.
+
+Bannon pitched FJB Coin as a means of avoiding political and financial persecution
+by President Biden and a Democrat-led federal government. Through FJB, Bannon stated,
+investors would “very quickly have non-reliance on their financial system,” such that “[t]hey’re
+not going to be able to disappear you like the Chinese Communist Party, like the Bolsheviks, like
+the Nazis” who “try to … get rid of the good people.” Instead, investors would “have platforms
+and institutions that are going to have your back.” Through $FJB, he said, investors would “very
+quickly have non-reliance on their financial system” and “total and complete independence.”
+70.
+
+Bannon also emphasized that “over $50,000, $60,000 now” had been donated to
+veterans and first responders, and that he and Epshteyn were going “to add to the charities that
+some of the fees go to,” including supporting “the political prisoners of January 6th.”
+71.
+
+Epshteyn added that purchasing FJB Coin was joining a “movement” led by true
+patriots who “love America,” that he and Bannon were going to “build” a “community specifically
+for holders of these tokens” through “media, parts of shows, videos, et cetera,” and that “exciting
+information” was coming down the pipe such that investors will want to “make sure you’re a
+member of that community.”
+72.
+
+The Token was advertised on the podcast alongside War Room branding, with the
+two logos appearing side by side:
+15
+Case 1:26-cv-00452
+73.
+
+Document 1
+Filed 02/12/26
+Page 22 of 106
+In that same or another appearance on War Room on or around December 23, 2021,
+Epshteyn named the Wounded Warrior Project, Tunnels To Towers, Semper Fi, and Patriot
+Freedom Project as donation targets to be paid from the FJB charity wallet.
+74.
+
+Defendants’ December 23, 2021 statements created the impression that purchasing
+and holding $FJB would allow investors to achieve meaningful financial independence from banks
+and traditional institutions; that $FJB was a decentralized, censorship-resistant means of avoiding
+political retaliation such as “de-banking,” “disappearing,” or being cut off from the financial
+system; and that Defendants were building a parallel financial infrastructure that could not be
+controlled by centralized actors.
+75.
+
+This was false and misleading because $FJB was not decentralized in any
+meaningful sense: control over the Token’s smart contract, fee routing, and key wallets remained
+centralized in the hands of insiders, and Defendants and their agents retained the practical ability
+to control liquidity, dictate the Token’s operational parameters, and—ultimately—disable trading.
+Investors therefore did not obtain protection from political persecution or financial exclusion;
+instead, their ability to access liquidity and realize value depended on Defendants’ discretionary
+control and continued cooperation.
+
+16
+Case 1:26-cv-00452
+76.
+
+Document 1
+Filed 02/12/26
+Page 23 of 106
+Further, because FJB utilized a mobile app on the Apple and Google App Stores, it
+relied on Apple and Google for approvals in order to function, which is contrary to Defendants’
+purported development of a resilient parallel economy.
+C.
+
+Defendants Continued to Present Themselves as “Partners” to FJB, When
+Really They Owned and Controlled It
+77.
+
+On December 23, 2021, Epshteyn promoted the Token through his Twitter account
+as “the way to protect yourself and not be cancelled,” “[w]ith Biden crashing the dollar.” The
+tweet painted Bannon’s and Epshteyn’s involvement with FJB as a “strategic partnership,” when
+in fact Bannon and Epshteyn wholly owned and controlled the Token’s smart contract and tax
+wallets.
+
+78.
+
+The Token was repeatedly promoted as affiliated with and backed by War Room.
+
+For example, on December 24, 2021, Epshteyn posted the following on his Twitter account:
+17
+Case 1:26-cv-00452
+79.
+
+Document 1
+Filed 02/12/26
+Page 24 of 106
+Epshteyn repeated the misleading depiction of his and Bannon’s role in a tweet he
+posted on December 25, 2021:
+80.
+
+That tweet linked to an article on conservative news site Gateway Pundit, dated
+December 25, 2021, which was one of many press releases Defendants put out. The press kit
+18
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 25 of 106
+Defendants sent out included the following promotional image, announcing a “Strategic
+Partnership” between Bannon, Epshteyn, and War Room on the one hand, and FJB on the other.
+It also highlighted Bannon’s and Epshteyn’s ties to President Trump, experience, and credentials,
+including that Bannon is a Harvard Business School graduate who worked as an investment banker
+at Goldman Sachs and Epshteyn is a graduate of Georgetown Law School.
+
+81.
+
+Bannon and Epshteyn repeatedly tied their personal brands to FJB’s. For example,
+on December 30, 2021, Epshteyn posted the following on his Instagram account—an image of
+19
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 26 of 106
+Bannon and Epshteyn flanking a cartoon bald eagle with the text “$FJB” prominently displayed
+in the center:
+D.
+
+Bannon and Epshteyn Stress Their Personal Commitment to FJB’s Success
+and Promote It as an Inflation-Resistant, Alternative Store of Value
+82.
+
+On January 6, 2022, in a promotional video posted to FJB’s official YouTube
+channel, Bannon publicly endorsed FJB as a serious, functional digital currency and alternative
+financial system, expressly tying the Token to his own experience and credibility as an investor
+and business executive. Bannon stated that he had been “very involved in digital currencies,” that
+he had “spent many years investing in companies” in the digital currency space, and that he
+believed it was “the right time to get involved in a digital currency” because Americans were being
+“forc[ed] … into alternative currencies” for transactions and as “alternative stores of value.”
+83.
+
+In the video, Bannon further represented that he and Epshteyn were actively
+building FJB as a usable currency, stating that “Boris and I, 24 hours a day, are talking to people
+about using this currency as a means of transaction,” that they were in discussions with “major
+people” and “all types of verticals,” and that FJB would be “used for transactions,” offer
+“discounts,” and be supported by “market makers, exchanges,” and a “robust, liquid, deep capital
+20
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 27 of 106
+market.” Bannon also represented that Defendants were “commit[ted]” to “putting our shoulder
+to the wheel,” bringing in “smart, tough people,” and committing their ongoing efforts to ensure
+that FJB would be “a currency we can count on” with real “value” and “use[].” He promised
+investors that Defendants are “bringing every ounce” to the project of “[a]ll the skills I’ve learned
+throughout my life—as a Naval officer, at Harvard Business School, at Goldman Sachs, all my
+years as an entrepreneur and investor, and now in … media or politics.”
+84.
+
+In the video, Bannon repeatedly invoked imminent economic collapse to induce
+purchases of FJB, warning that the United States was “hurtling towards an economic financial
+crisis” due to what he described as an “out-of-control regime” and a corrupt network spanning
+Wall Street, central banks, and global financial institutions. Bannon asserted that since the 2008
+financial crisis, elites had “forced fiat currency into the system” through zero and negative interest
+rates and quantitative easing, creating artificial asset bubbles while shifting the economic burden
+onto ordinary Americans. That is why, Bannon said, FJB was “absolutely essential … [f]or the
+survival of sovereignty and the patriot movement.”
+85.
+
+These statements conveyed that traditional financial systems were on the brink of
+failure and that immediate participation in alternative currencies like FJB was necessary to protect
+wealth, transact outside the system, and preserve economic sovereignty. Defendants did not
+disclose that FJB lacked any functioning payment infrastructure, liquidity support, or safeguards
+that would allow it to serve as a viable alternative during a financial crisis, nor that the Token’s
+value depended overwhelmingly on continued promotion and insider effort rather than on any
+intrinsic economic resilience.
+86.
+
+On January 10, 2022, Epshteyn posted a video of himself and Bannon on Rumble
+in which they described FJB Coin as a “new economy—an economy that cannot be deflated, an
+21
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 28 of 106
+economy that cannot be copied, an economy that is unique.” They promised that there is “a lot of
+new information coming” and “a lot of developments coming” that are “very exciting.” They
+directed the audience to FJBCoin.org to learn more.
+87.
+
+Defendants’ economic doomsaying created the impression that $FJB would
+function as a safer alternative to fiat currency during periods of inflation and monetary instability;
+that it could serve as a stable store of value to protect ordinary Americans’ savings from the alleged
+destruction of the U.S. dollar; and that it possessed the liquidity, infrastructure, and durability
+necessary to serve as a reliable medium of exchange in the event of financial crisis.
+88.
+
+This was false and misleading because $FJB lacked independent utility, meaningful
+adoption, or intrinsic economic safeguards, and its price and liquidity were overwhelmingly
+dependent on speculative trading and Defendants’ continued promotion and management.
+Defendants also failed to disclose that insiders maintained centralized control over key wallets and
+liquidity and could restrict or disable trading—risks fundamentally inconsistent with Defendants’
+portrayal of $FJB as a stable refuge from fiat-currency decline.
+E.
+
+$FJB Is Rebranded and Promoted as a “Safe,” “Decentralized” “Alternative”
+to the Dollar and a “Utility Token” with “Real-World Applications”
+89.
+
+In or about early 2022, Defendants disseminated, including through FJBCoin.org,
+an official “FJB App Whitepaper,” which described a new iteration of FJB—denoted as “V2”—
+as a “safe, decentralised crypto wallet and payment app,” where investors “can safely store their
+digital assets.” The whitepaper represented that the project would enable the Token to function as
+“an alternative or a near-replacement to fiat currencies,” “traditional banking,” and “centralized
+institutions,” users of which run the risk of being “de-banked.” The whitepaper promised that
+“[t]he FJB wallet will not only promote individual wealth, it will also ensure individual freedom
+at various levels such as economic, social, political, and otherwise.”
+22
+Case 1:26-cv-00452
+90.
+
+Document 1
+Filed 02/12/26
+Page 29 of 106
+The whitepaper repeatedly described FJB as a “utility token” that would support
+“real-world applications” such as peer-to-peer payments, retailer payments, a payment gateway,
+and a fully developed wallet ecosystem, and included detailed architectural diagrams, mockups,
+and a multi-quarter roadmap. The whitepaper assured that “[t]he FJB wallet will ensure that all
+these features are implemented.”
+91.
+
+The whitepaper further represented that FJB “is designed with a deflationary
+burning mechanism whereby 1% of FJB Wallet surcharges will be used to repurchase FJB from
+the available supply of the Pancake Swap liquidity pool to be permanently burnt … until only 5%
+of the total FJB available supply is left” and “the available supply reaches its desired levels.”
+92.
+
+These representations conveyed to reasonable investors that Defendants were
+actively developing, funding, and executing a functional payment ecosystem, that the Token’s
+value would be driven by Defendants’ ongoing managerial and technical efforts, and that the
+Token would be a safer alternative to fiat currencies like the U.S. Dollar.
+93.
+
+In reality, Defendants failed to build or deploy the promised ecosystem, failed to
+devote meaningful resources to development, failed to implement the functionality described in
+the whitepaper, and failed to adequately disclose the risks associated with investing in a new,
+unproven cryptocurrency.
+94.
+
+The whitepaper also identified Defendants Steve Bannon and Boris Epshteyn as
+key team members and advisors, highlighting their ties to President Trump, experience, and
+credentials, including that Bannon is a Harvard Business School graduate who worked as an
+investment banker at Goldman Sachs and Epshteyn is a graduate of Georgetown Law School.
+
+23
+Case 1:26-cv-00452
+95.
+
+Document 1
+Filed 02/12/26
+Page 30 of 106
+Erik Finman was also listed as a key team member and advisor, and touted as “the
+youngest Bitcoin millionaire.” Finman was seen as a crypto whiz kid who could lend further
+credibility to the project.
+96.
+
+Defendants
+intended
+for,
+and
+investors
+reasonably
+understood,
+these
+representations to signal that Bannon and Epshteyn were actively overseeing the project and would
+use their influence, resources, and platforms to promote and develop the Token.
+97.
+
+In truth, Defendants failed to meaningfully promote or develop the project, while
+continuing to reassure investors that the project would be revived or expanded.
+98.
+
+These omissions rendered the whitepaper’s statements materially false and
+misleading.
+F.
+
+Despite Being Billed as “Decentralized” and a Pathway to “Independence,”
+Defendants Built in a Backdoor to Let Them Freeze Investors’ Wallets
+99.
+
+When promoting $FJB as “decentralized,” Defendants failed to disclose that its
+smart contract allowed its operators to manually lock an investor’s Token balance—something
+that has been described by experts as an “unusual practice” for a cryptocurrency.
+100.
+
+If the manual lock were activated, Defendants could restrict or freeze Token
+transfers by one or more wallet addresses, including by imposing a global or wallet-specific freeze
+that prevented affected investors from selling their Tokens. At the same time, the smart contract
+permitted Defendants and other privileged-status wallets to retain the ability to transfer Tokens
+and to transact without fees, creating a system in which insiders could continue to sell or move
+Tokens while ordinary investors faced transfer restrictions.
+101.
+
+For example, if $FJB’s price were to begin to drop, Defendants could freeze
+investors’ wallets to prevent further decline while at the same time liquidating their holdings. By
+the time locked investors regained access, their Tokens would be worth significantly less.
+
+24
+Case 1:26-cv-00452
+102.
+
+Document 1
+Filed 02/12/26
+Page 31 of 106
+While locks are sometimes written into cryptocurrency codes as an “anti-whale”
+feature to mitigate against the influence of big investors, the locks typically come in the form of
+triggers that automatically apply to holders trying to carry out large transactions. With $FJB,
+Defendants had the power to manually pick and choose whose wallets to lock and when, for any
+reason or for no reason at all.
+103.
+
+This was no mere hypothetical possibility, but something Defendants frequently
+did throughout the Class Period, arbitrarily and without notice to investors.
+III.
+
+DEFENDANTS BARELY MARKET $FJB BUT ASSURE INVESTORS THEY
+REMAIN COMMITTED TO ITS SUCCESS
+A.
+
+Erik Finman Makes His First and Last Appearance for $FJB in April 2022
+104.
+
+Despite their promise of “exciting” developments to be revealed soon and their
+commitment to work on the project “24 hours a day,” Defendants largely fell silent for
+approximately eight months after FJB’s re-launch.
+105.
+
+A rare exception was a single appearance Erik Finman made on War Room on April
+18, 2022, to promote the new FJB Coin App alongside Bannon. On the podcast, Finman and
+Bannon both describe Finman as a “Senior Strategic Advisor” to FJB who helped build the app.
+106.
+
+Finman stated that “the goal of FJB Coin is to get crypto and this un-cancelable
+financial system” in the hands of “as many conservatives and patriots as possible.” He notes that
+he designed it so even his “parents and grandparents” could use it.
+107.
+
+Bannon jumped in to note that whereas gold functions simply as a store of value
+but not a means of transactions, crypto functions as “an alternative store of value and transactions.”
+Finman similarly noted that FJB has “an actual utility to it,” as you can “send it to friends” and
+“merchants and small businesses can accept it.”
+25
+Case 1:26-cv-00452
+108.
+
+Document 1
+Filed 02/12/26
+Page 32 of 106
+Finman, with Bannon expressing agreement, explained that FJB was a response to
+“the fall of the dollar empire” caused by President Biden’s “using the techniques that they used on
+Iran on the American people,” namely “sanctions” targeting conservatives like MyPillow CEO
+Mike Lindell and Lieutenant General Michael Flynn so they “can’t have a bank account.” FJB,
+Finman said, is a means “to get free from it.”
+109.
+
+Directing a message to “the American people,” Bannon warns “you’re having a
+rolling devaluation on your net worth if you hold dollars” because of the government’s deficit
+spending, which is “just going to crush the dollar even more.” That is why listeners “need to find
+out about crypto” and “you owe it to yourself” to learn about FJB.
+110.
+
+That same day, Epshteyn put out the following tweet describing FJB as a “safe,
+secure, and easy to use financial alternative” to the “[b]anks and payment processors” that “don’t
+care about you or your values”:
+26
+Case 1:26-cv-00452
+111.
+
+Document 1
+Filed 02/12/26
+Page 33 of 106
+Despite being initially trumpeted as a “key” team member and advisor for $FJB,
+this would be Finman’s first and only public appearance on behalf of the Token.
+B.
+
+Defendants Put Out a Press Release Announcing $FJB’s “First Phase” in
+August 2022
+112.
+
+On August 2, 2022, after months of inactivity, Defendants sent some conservative
+news sites and social media influencers—including Chuck Callesto, Infowars, The Post Millennial,
+and CharlieKirk.com—a press release announcing the “first phase” of a “parallel financial system”
+and “New Financial System for Conservatives” in the form of FJB. The press release linked to
+FJB’s new website, FreedomJobsBusiness.org.
+
+27
+Case 1:26-cv-00452
+113.
+
+Document 1
+Filed 02/12/26
+Page 34 of 106
+The release pitched the Token as backed by Bannon and Finman, and part of a “full-
+court press to make a new financial system.” The Token was characterized in the release as “a
+real conservative alternative to coinbase”—a major cryptocurrency exchange with over 100
+million users.
+114.
+
+The press release also painted the Token as “essential” for “conservatives … being
+banned from payment processors and traditional financial services,” and a means of securing
+freedom of speech for “good, honest Americans,” “far too many” of whom have been “silenced
+for fear of losing access to the traditional financial system.”
+115.
+
+Defendants’ statements in the press release were false and misleading because they
+materially overstated the risk that conservatives, as a class, were being banned from payment
+processors or traditional financial services based solely on political views.
+116.
+
+By framing isolated incidents as proof of an imminent, systemic threat, Defendants
+created a false sense of urgency designed to override ordinary investor caution and to position the
+Token as a necessary safeguard rather than a speculative crypto asset.
+IV.
+
+FUNDS IN THE “MARKETING” AND “CHARITY” WALLETS GO “MISSING”
+OR ARE WASTED IN UNDISCLOSED RELATED-PARTY TRANSACTIONS
+A.
+
+Defendants Reassure Investors They Are Working on $FJB “24/7”
+117.
+
+At some point, Defendants created an official Telegram community for $FJB
+investors, which was in addition to a Discord group for investors formed around the time $FJB
+was created. Beginning in the summer of 2022, Abdul and Tragni would host weekly “status calls”
+in the $FJB Telegram group, which Defendants treated like investor updates. Abdul and Tragni
+would not use their real names in their Discord and Telegram communications but instead went
+by anonymized usernames to conceal their true identities from investors.
+
+28
+Case 1:26-cv-00452
+118.
+
+Document 1
+Filed 02/12/26
+Page 35 of 106
+During the status calls that summer, $FJB investors began expressing concerns
+about the Token’s declining value caused by a lack of promotion by Defendants, as well as the
+lack of transparency over donations to veterans that were supposed to be made from the Token’s
+charity wallet. For weeks, investors pled with Abdul and Tragni for Bannon to promote the Token
+on War Room, where it could reach a wider audience. In response, investors were told that Bannon
+and Epshteyn were busy with the 2022 midterms.
+119.
+
+On September 17, 2022, Bannon and Epshteyn for the first time joined one of the
+status calls to reassure investors and make additional pledges about the future of the coin.
+Epshteyn boasted that the coin is “expanding to Europe” and Bannon reassured buyers that “it’s
+going to be a MAGA coin.” Bannon added, “I’m available 24/7 on this,” and “I’m working on
+this all the time.”
+120.
+
+Despite conveying that concrete steps toward European exchange listings or
+operations were already underway, no such expansion was occurring at the time and $FJB was
+never listed on a European crypto exchange.
+B.
+
+Defendants Barely Donated to Charity and Spent the “Marketing” Fee on SelfInterested Transactions that Did Not Actually Go to Promoting the Token
+121.
+
+On October 20, 2022, Tragni (who went by the username “Sammy Paradise”)
+privately shared with the Token’s operators a breakdown of how Defendants were allegedly
+spending the 8% tax on each $FJB transaction, 3% of which was earmarked for “marketing” and
+5% for “charity.” He revealed that since Bannon and Epshteyn acquired the Token, Defendants
+only spent an additional $15,000 on charity—despite millions of dollars’ worth of transactions
+having taken place by that time. In other words, significantly less than 5% of each transaction was
+being spent on donations. Further, the total transaction-fee spend was significantly less than 8%
+of $FJB sales up to that point.
+
+29
+Case 1:26-cv-00452
+122.
+
+Document 1
+Filed 02/12/26
+Page 36 of 106
+Among the various expenditures Tragni listed, $120,000 ($10,000 per month) was
+spent paying the vendor VFT Solutions. This was for “supposedly SEO” services, according to
+Abdul. Defendants did not disclose to investors that VFT Solutions was not selected for the quality
+of its services, but because it was led by Epshteyn’s friends, to whom he may have owed money.
+As Abdul (who went by the username “sundevil28”) admitted, VFT Solutions did nothing other
+than send some Google analytics “one time.”
+30
+Case 1:26-cv-00452
+123.
+
+Document 1
+Filed 02/12/26
+Page 37 of 106
+As Tragni privately acknowledged, Defendants understood that Epshteyn
+financially benefited from the related-party transactions with VFT Solutions.
+
+In addition,
+Epshteyn was separately collecting $10,000 a month in “consulting fees” for making appearances
+on behalf of $FJB—something that was never disclosed to investors.
+
+31
+Case 1:26-cv-00452
+124.
+
+Document 1
+Filed 02/12/26
+Page 38 of 106
+Both Abdul and Tragni privately recognized that Bannon and Epshteyn had grossly
+mismanaged investor funds, leaving “no funds for the coin”:
+125.
+
+As a result of Defendants’ mishandling of investor funds, $FJB representatives told
+investors during status calls that the project was in debt and was making back-payments to its
+developer and to cover other overhead.
+126.
+
+Chase Bailey (“Bailey”), who was responsible for updating $FJB’s code (and who
+went by the username “Speshled”) confirmed that Epshteyn had pilfered over $100,000 tax funds
+under the guise of paying a vendor:
+32
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 39 of 106
+C.
+
+Defendants Could Not Account for Even the Minimal Amounts Purportedly
+Spent on Charity
+127.
+
+When asked how exactly the alleged $15,000 was spent on charity, Abdul and
+Tragni could only cite a $500 donation to St. Jude Children's Research Hospital, and an unknown
+amount to an unnamed organization purportedly supporting 9/11 first responders. When asked for
+proof of even those donations, Defendants did not provide any.
+128.
+
+Even the public blockchain does not provide clarity, as any donations were not
+made directly from charity wallets, but were first transferred to intermediary wallets that are
+difficult to track. For example, some of $FJB’s charity-wallet funds went to an intermediary wallet
+that sends money to another wallet that makes high-risk investments in obscure crypto tokens.
+129.
+
+Although one wallet appeared to be designated for donation to the Wounded
+Warrior Project, the non-profit confirmed that it never received any donation from $FJB after
+November 2021 (i.e., after Bannon and Epshteyn took over).
+130.
+
+As investors increasingly questioned the use of funds flowing from the Token’s
+“charity” wallet—particularly after substantial transaction-based fees had been collected under
+Defendants’ ownership—Defendants were pressured to produce proof of charitable donations. In
+response, Defendants shared what was initially a cropped image of a donation confirmation email,
+presented as evidence that charitable contributions were being made consistent with the Token’s
+publicly advertised 5% charity tax.
+
+33
+Case 1:26-cv-00452
+131.
+
+Document 1
+Filed 02/12/26
+Page 40 of 106
+When the uncropped version was later obtained, it revealed that the referenced
+donation was in the amount of just $100.00, and was made to The Folded Flag Foundation on
+November 4, 2021—i.e., before the transfer of ownership and control of the project to Defendants.
+Further, the donation was made by Defendant Tragni from personal funds rather than from the
+Token’s charity wallet, as Defendants’ “advisor” Erik Finman (who went by “FIN” in the FJB
+Discord channel) revealed on September 27, 2022:
+34
+Case 1:26-cv-00452
+132.
+
+Document 1
+Filed 02/12/26
+Page 41 of 106
+The presentation of a cropped image of a $100 pre-acquisition donation as
+purported proof of post-acquisition charity-wallet activity—omitting both the nominal amount and
+the pre-transfer date—underscores the lack of transparency and supports a strong inference that
+Defendants knowingly sought to create a misleading impression regarding the use of transactionbased “charity” taxes.
+D.
+
+Funds in the “Marketing” and “Charity” Wallets Went “Missing” and Were
+Never Accounted for by Defendants
+133.
+
+Also in October 2022, Abdul revealed on a status call that an unknown amount of
+money in the marketing and charity wallets had gone “missing.”
+134.
+
+Defendants were in control of the wallets holding the transaction fees.
+
+135.
+
+When pressed by investors to account for the missing funds, Abdul declined to
+provide any more information, citing an “internal investigation” and “legal action.”
+136.
+
+On or about November 11, 2022, Abdul privately disclosed to Bailey that
+Defendants apparently conducted an “audit” and found that the VFT Solutions self-dealing by
+Epshteyn was “drops in the bucket” compared to the total amount of malfeasance that occurred,
+describing “what we’ve found” as “unbelievable” and “worse than i ever imagined.” The findings
+of this “audit” were never disclosed to investors but were known only to insiders.
+
+35
+Case 1:26-cv-00452
+Document 1
+36
+Filed 02/12/26
+Page 42 of 106
+Case 1:26-cv-00452
+137.
+
+Document 1
+Filed 02/12/26
+Page 43 of 106
+“We,” here, meant the FJB Advisory Council—a select group of insiders
+Defendants selected from the broader community to advise on the project. These insiders were
+given the opportunity to trade on material, non-public information gleaned from Defendants in
+advance of disclosure to investors—if there was any disclosure at all.
+138.
+
+During a status call on November 29, 2022, in response to investor backlash about
+the missing funds, Abdul assured investors that “[t]here is an ongoing investigation with an entire
+team working on this,” “[i]t’s definitely not getting brushed under the rug,” and investors would
+be notified once “legal proceedings toward regaining missing funds commenced.” Investors were
+threatened that if they “accuse anybody” or even “reach out to anybody,” in the meantime, it could
+constitute “defamation.”
+139.
+
+During another status call on December 7, 2022, Abdul was coy with investors
+about the missing funds but confirmed that they were misappropriated: “We are not claiming the
+money has been stolen. We’re saying the funds are missing. They did not go to the purpose they
+were intended for, and that’s as far as we’ll speak on.”
+140.
+
+On August 16, 2023, Abdul revealed that “time is running out” to recover the
+approximately $2.7 million in “missing” transaction fees:
+37
+Case 1:26-cv-00452
+141.
+
+Document 1
+Filed 02/12/26
+Page 44 of 106
+Defendants never disclosed the results of Epshteyn’s purported work to recover the
+misappropriated funds. An estimated $2.7 million in transaction fees remains unaccounted for.
+On information and belief, Defendants directly or indirectly misappropriated the funds to their
+own personal benefit.
+142.
+
+Defendants’ representations concerning both the “charity” and “marketing”
+transaction fees were false and misleading because Defendants failed to disclose that funds routed
+to wallets labeled and promoted as charitable or marketing-related were not necessarily used for
+those stated purposes, but were instead used, at least in part, for insider-directed Token sales and
+other project uses unrelated to charity or promotion.
+143.
+
+These misrepresentations and omissions were material because reasonable
+investors would have considered it important to know whether amounts represented as charitable
+contributions would in fact be donated to qualified charitable organizations. By misleading
+investors into believing that a portion of each transaction constituted a charitable contribution,
+Defendants deprived investors of the ability to accurately assess the nature of their transactions
+and, to the extent investors believed they were making charitable contributions, exposed them to
+the risk that such payments would not qualify for a charitable tax deduction.
+V.
+
+BANNON AND EPSHTEYN SEEMINGLY ABANDON $FJB WITHOUT NOTICE,
+ONLY TO RETURN TO THE PROJECT AFTER INVESTOR BACKLASH
+144.
+
+On February 13, 2023, after months of silence, Abdul announced to the $FJB
+Discord community that “Epshteyn and Bannon have [] decided to transfer and assign the rights
+and obligations of $FJB, Let’s Go Brandon Coin,” adding that she had sold some of her own
+Tokens to “have some funds readily available.”
+38
+Case 1:26-cv-00452
+145.
+
+Document 1
+Filed 02/12/26
+Page 45 of 106
+On February 14, 2023, in response to investors’ furor over Bannon’s and
+Epshteyn’s seeming abandonment of the Token, War Room’s CFO Grace Chong posted on
+GETTR that the pair “haven’t sold” and continue to “back it 100%.”
+146.
+
+On February 15, 2023, in an episode of War Room, Bannon reassured investors that
+he and Epshteyn remain “huge supporters of the $FJB project and the community” and have “not
+only never sold a coin,” but “only bought coins.”
+147.
+
+On February 17, 2023, Abdul, in an about-face, told investors that she, Bannon, and
+Epshteyn “remained committed to the coin and organization, and look forward to the future.”
+148.
+
+Despite these reassurances, Defendants largely went silent again in the months that
+followed.
+VI.
+
+DEFENDANTS FREEZE INVESTORS’ WALLETS AND RE-BRAND (AGAIN)
+TO PATRIOT PAY
+A.
+
+Defendants Freeze Investors’ Wallets and Re-Brand to Patriot Pay
+149.
+
+In December 2023, Defendants activated the code’s backdoor locking mechanism
+to freeze everyone’s wallets except their own.
+
+39
+Case 1:26-cv-00452
+150.
+
+Document 1
+Filed 02/12/26
+Page 46 of 106
+Defendants announced that they had decided to rebrand “Freedom. Jobs. Business.”
+($FJB) to Patriot Pay ($PPY), and would be making edits to (“forking”) the code so that it was
+now on the Polygon (Matic) blockchain network instead of Binance. On information and belief,
+Defendants were forced to fork the code because Abdul accidentally, permanently froze the FJB
+contract, locking Defendants out of their ability to centrally control the Token.
+151.
+
+In connection with the fork from $FJB to $PPY, Defendants further entrenched
+centralized control by deploying the Token through a proxy smart-contract architecture. Under
+this structure, a static read-only proxy contract merely references a separate, amendable
+implementation contract that Defendants could modify after deployment. This design permitted
+Defendants to change core Token functionality—including transfer restrictions, fee mechanics,
+and control permissions—without redeploying the Token or obtaining holder consent.
+152.
+
+Defendants did not disclose this architecture to investors. By using a proxy
+contract, Defendants effectively removed the immutability and transparency safeguards that
+investors reasonably expect from blockchain-based assets, while simultaneously promoting $PPY
+as decentralized, secure, and resistant to insider control. The proxy structure gave Defendants
+ongoing unilateral authority to alter the Token’s behavior and rules, materially contradicting
+Defendants’ representations regarding decentralization and financial autonomy and exposing
+investors to undisclosed risks of arbitrary modification and control.
+153.
+
+In February 2024, after two months during which investors had no access to the
+Tokens in their wallets, the fork was completed and the lock lifted. “Freedom. Jobs. Business.”
+became Patriot Pay; $FJB became $PPY; and FJBCoin.org became PatriotPay.org.
+154.
+
+Defendants updated $FJB’s social media pages to match the new branding, which
+now billed the Token as “by Steve Bannon & Boris Epshteyn,” using their name and likeness:
+40
+Case 1:26-cv-00452
+155.
+
+Document 1
+Filed 02/12/26
+Page 47 of 106
+The “Freedom. Jobs. Business.” (now Patriot Pay) app was also updated to reflect
+the new branding, although the app itself remained largely unchanged in terms of substance:
+41
+Case 1:26-cv-00452
+156.
+
+Document 1
+Filed 02/12/26
+Page 48 of 106
+$PPY advertisements continued to tie the brand personally to Steve Bannon and
+Boris Epshteyn, and to War Room, such as this one on February 23, 2024:
+157.
+
+As of the time of filing of this Complaint, Bannon’s GETTR profile continues to
+list $FJB/$PPY’s website alongside War Room’s:
+42
+Case 1:26-cv-00452
+158.
+
+Document 1
+Filed 02/12/26
+Page 49 of 106
+In connection with the rebranding of $FJB as “Patriot Pay,” Defendants failed to
+conduct a trademark clearance for the new name. Defendants applied to register “Patriot Pay” as
+a trademark, but the application was rejected by the U.S. Patent and Trademark Office due to the
+existence of a prior, conflicting trademark. Defendants did not appeal the Office Action, seek an
+alternative mark, or otherwise remedy the defect.
+159.
+
+Defendants did not disclose to investors that the “Patriot Pay” name was subject to
+an unresolved trademark conflict, that their application had been rejected, or that they had
+abandoned efforts to secure trademark protection for the brand under which they were actively
+soliciting investment. This omission was material because Defendants were simultaneously
+promoting the rebrand as a professional, stable, and long-term financial ecosystem, while
+43
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 50 of 106
+concealing that the project’s core branding faced unresolved legal risk and that Defendants had
+failed to exercise basic diligence in executing the rebrand.
+B.
+
+The “New” Website Repeated the Same False and Misleading Statements as
+the Old Website
+160.
+
+Following the rebrand from “Freedom. Jobs. Business.” ($FJB) to Patriot Pay
+($PPY), Defendants launched and maintained a new website, PatriotPay.org, which repeated—
+and in several respects escalated—the same false and misleading representations previously made
+about $FJB.
+161.
+
+PatriotPay.org promoted $PPY as a “secure,” “decentralized,” and “uncancellable”
+financial alternative to traditional banking, repeatedly assuring users that Patriot Pay placed
+“control back in YOUR hands—no banks, no middlemen, no freezing of your account.”
+162.
+
+The website expressly claimed that Patriot Pay was “more secure than the bank you
+trust,” and that, unlike traditional financial institutions, Patriot Pay users could not have their
+accounts frozen or access restricted by any centralized authority.
+163.
+
+These representations were materially false and misleading. As Defendants knew,
+$PPY was not decentralized in any meaningful sense. Defendants retained centralized control over
+the Token’s smart contract and wallets and had already exercised their authority to freeze
+investors’ wallets arbitrarily and without notice, while exempting their own wallets from those
+restrictions.
+164.
+
+PatriotPay.org further represented that $PPY was a functional “utility token” with
+real-world applications, including the ability to “buy, sell, and donate with confidence,” to “use
+your money freely,” and to support “causes you believe in.”
+44
+Case 1:26-cv-00452
+165.
+
+Document 1
+Filed 02/12/26
+Page 51 of 106
+The website reassured prospective purchasers that “crypto like Patriot Pay is safe,”
+that users’ “money is protected and easy to access,” and that Patriot Pay provided “security,
+control, and privacy.”
+166.
+
+These representations conveyed that $PPY functioned as a usable payment system
+and reliable store of value, suitable even for unsophisticated users. In reality, $PPY lacked any
+functioning payment infrastructure, merchant adoption, or operational safeguards, and its value
+depended almost entirely on continued promotion by Defendants.
+167.
+
+PatriotPay.org also emphasized charitable giving, representing that transaction fees
+would be used to support charitable causes and encouraging users to donate through the Patriot
+Pay ecosystem.
+168.
+
+Defendants failed to disclose that wallets labeled or described as “charity” wallets
+were under insider control, were used for token sales, and did not consistently fund charitable
+donations in the amounts represented. Defendants further failed to disclose that charity-wallet
+funds were routed through intermediary wallets and, in some cases, used for purposes unrelated to
+charity.
+169.
+
+PatriotPay.org omitted any disclosure that Defendants conducted over-the-counter
+(“OTC”) sales of $PPY from insider-controlled wallets, including tax and charity wallets, at
+negotiated prices for select purchasers, while publicly representing that trading occurred through
+open, decentralized markets.
+170.
+
+PatriotPay.org likewise failed to disclose that the Token’s embedded “marketing
+fee” did not solely fund marketing, but instead had historically been diverted pursuant to
+undisclosed arrangements and insider-controlled spending decisions, including payments to
+related-party vendors.
+
+45
+Case 1:26-cv-00452
+171.
+
+Document 1
+Filed 02/12/26
+Page 52 of 106
+By continuing to promote $PPY as decentralized, secure, and immune from
+freezing or insider manipulation—while omitting Defendants’ centralized control, OTC sales
+practices, and misuse of fee wallets—PatriotPay.org presented a materially misleading picture of
+the Token’s risk profile, governance, and economics.
+C.
+
+Defendants (Again) Barely Promote $PPY and, When They Did, Repeated the
+Same Misleading and False Statements as $FJB Promotions
+172.
+
+After an initial spate of advertising activity following the re-brand, it again petered
+out. This again led investors to openly question Defendants’ commitment to the Token, and again
+prompted a response from Defendants reiterating that they were still committed to the Token’s
+success. For example, on April 20, 2024, Abdul posted the following on $PPY’s Telegram
+channel:
+173.
+
+On June 27, 2024, Defendants posted a promotional video on Patriot Pay’s
+Instagram page featuring various videos of Bannon stating he was “working on tokens for the
+populist movement on a worldwide basis,” there was a need to use “cryptocurrency to fight against
+being debanked and controlling our own money where they can’t print 6 thousand, billion, trillion
+46
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+dollars,” and declaring “this is why I support Patriot Pay.”
+Page 53 of 106
+During the video, the words
+“DONATE” and “UNCANCELLABLE” flashed across the screen.
+174.
+
+The caption of the post declared that “[t]he dollar will continue depreciating,” and
+included the call to action, “It’s time you take control!” It described Patriot Pay as “secure” and
+that lets users “support … causes you believe in, and take control of your finances!”
+175.
+
+There was another spate of promotions that took place in September and October
+2024, before the promotions again abruptly ended.
+176.
+
+On September 7, 2024, a broadcaster on the Right Side Broadcasting Network
+(RSBN) did an ad-read for Patriot Pay with an overlay image describing it as “Decentralized” and
+“Steve Bannon’s Movement” alongside an image of Bannon:
+47
+Case 1:26-cv-00452
+177.
+
+Document 1
+Filed 02/12/26
+Page 54 of 106
+The broadcast featuring the ad was uploaded to YouTube, where it has accumulated
+nearly 500,000 views.
+178.
+
+On September 13, 2024, Patriot Pay’s Instagram page reposted a post by
+conservative influencer Anthony Raimondi (who goes by “Conservative Ant”), in which he
+described Patriot Pay as “so easy that my grandma . . . can do it” and “a great way to do donations.”
+Raimondi has over 1 million followers on Instagram.
+179.
+
+On September 27, 2024, Patriot Pay’s Instagram page made a promotional post
+addressing individuals who were “[u]nsure about digital currency.” The post, which exclusively
+featured $PPY, claimed that “It’s more secure than the bank you trust,” and “That’s why President
+Trump and many patriots are turning to crypto.” The post explained that “Decentralized currency
+like Patriot Pay puts control back in YOUR hands—no banks, no middlemen, no freezing of your
+account.” “With the dollar losing value,” the post said, “it’s time to reclaim your financial
+freedom” by buying $PPY.
+
+48
+Case 1:26-cv-00452
+180.
+
+Document 1
+Filed 02/12/26
+Page 55 of 106
+The post also included an ad describing cryptocurrency as “just digital money,
+instead of paper cash” that you can use to “buy stuff with” or “donate to causes you believe in.”
+The ad reassured viewers: “Don’t worry, it’s safe.” That is because, “with apps like Patriot Pay,
+your money is protected and easy to access.”
+181.
+
+On October 4, 2024, the same Patriot Pay account made a similar promotional post
+addressing the question, “Is crypto safe?” The post answered: “Absolutely!” It claimed that
+“crypto is more secure than traditional banking,” because “[u]nlike centralized banks,
+decentralized currencies protect your assets by spreading out control, meaning no single entity,
+like a bank or government, can freeze or track your funds.” Again, the post exclusively featured
+$PPY, adding that “[w]ith the Patriot Pay App, you can buy, sell, and donate with confidence,
+knowing your financial freedom is safe.”
+49
+Case 1:26-cv-00452
+182.
+
+Document 1
+Filed 02/12/26
+Page 56 of 106
+The post also featured an ad making similar claims in the context of “busting
+myths” about crypto. The ad rejected the idea that “crypto isn’t safe,” claiming that “digital
+currencies like Patriot Pay” are “incredibly secure.” The ad also rejected as “myth” the notion that
+“banks are more secure than digital currency,” claiming that “actually, it’s the opposite.” Banks
+are “easier to hack,” it said, whereas with crypto, “you have full control of your funds.” “Don’t
+let this stop you from joining the future of money,” the ad claimed, adding that “with Patriot Pay,
+you get security, control, and privacy.” The ad ends with: “It’s so easy, even your grandma can
+do it,” revealing that Defendants were targeting lay, retail investors who were not sophisticated.
+183.
+
+Defendants’ social-media posts and advertisements were false and misleading
+because they portrayed $PPY as simple, safe, decentralized, and more secure than traditional
+50
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 57 of 106
+banking, and as a means of maintaining control over one’s money free from freezing, tracking, or
+insider interference, when in reality $PPY lacked those characteristics.
+184.
+
+Contrary to Defendants’ claims, $PPY was not decentralized: Defendants and their
+agents retained centralized control over the Token’s smart contract, transaction-fee routing,
+associated wallets, and trading functionality, and possessed the ability to restrict transactions,
+control liquidity, and disable trading altogether.
+185.
+
+Defendants also failed to disclose that every transaction was subject to substantial
+fees routed to insider-controlled “marketing” and “charity” wallets, that these wallets were not
+independently governed, and that funds were not necessarily used for marketing or donations as
+implied.
+186.
+
+Nor was $PPY “more secure than the bank you trust,” “protected,” or a stable
+alternative to a depreciating dollar; it was a highly volatile speculative asset whose value depended
+largely on Defendants’ continued promotion and discretionary actions. By presenting $PPY as
+safe, easy, suitable for unsophisticated users, and immune from centralized control—while
+omitting these risks—Defendants materially misled reasonable investors, particularly lay retail
+purchasers, about the nature of the Token, the risks of loss, and Defendants’ control over their
+funds.
+187.
+
+These misrepresentations and omissions were material because a reasonable
+investor deciding whether to purchase $PPY as a secure means of transacting, donating, or
+preserving value would have considered it important to know that the Token was centrally
+controlled, fee-laden, subject to insider discretion, and incapable of providing the financial
+security, autonomy, or stability Defendants promised.
+
+51
+Case 1:26-cv-00452
+VII.
+
+Document 1
+Filed 02/12/26
+Page 58 of 106
+DEFENDANTS STRING INVESTORS ALONG UNTIL THE VERY END, WHEN
+THEY PULLED THE RUG ON THE PROJECT
+A.
+
+Defendants Again Paint a Rosy Picture of $PPY’s Future
+188.
+
+On December 3, 2024, Abdul updated investors on Telegram that Bannon and
+Epshteyn were “finalizing everything” necessary to begin regular promotions of $PPY on War
+Room and that “everything’s going better than I expected”:
+189.
+
+During what would be the final investor status call on January 31, 2025, Abdul
+announced that $PPY would have weekly “marketing scheduled with War Room.” During “weeks
+1 to 2 we will do 2 mentions a week in the War Room Telegram channel, then weeks 3 and 4 we
+will add 2 mentions a week on the War Room social media accounts as well, then on week 5 and
+onward we will begin to have Steve Bannon promote $PPY on his show once a week from there
+on out.”
+190.
+
+None of that came to fruition. Abdul’s assurance that the marketing would
+commence on a defined timetable implied that arrangements with War Room had already been
+finalized and secured. On information and belief, no such finalized arrangements existed.
+
+52
+Case 1:26-cv-00452
+191.
+
+Document 1
+Filed 02/12/26
+Page 59 of 106
+Defendants’ repeated promises that Bannon and Epshteyn would promote $PPY to
+a wider audience through War Room were material. A reasonable investor would have found it
+important to know whether the main promoters of the Token, whose value they purposefully tied
+to their own personal brands and promotional efforts, would continue to market the Token and the
+extent to which they would do so.
+B.
+
+Defendant Abruptly and Permanently Freeze Investors’ Wallets and Abandon
+$PPY with False Promises of Refunds
+192.
+
+On February 12, 2025, Abdul, out of the blue, announced the “closure” of $PPY
+and that its trading has been “disabled”:
+53
+Case 1:26-cv-00452
+193.
+
+Document 1
+Filed 02/12/26
+Page 60 of 106
+She alluded to “significant challenges” she faced “in securing the necessary
+resources and support to continue operations,” and felt “let down by the lack of support” from
+Bannon and Epshteyn.
+194.
+
+Abdul promised investors on behalf of Defendants that “[w]e will be distributing
+the liquidity pool (LP) equally among all holders (with Matic), ensuring that everyone receives
+their rightful share.” She added that “everything will be completed within the next 7 days.”
+195.
+
+Defendants unequivocally represented that the liquidity pool would be distributed
+within seven days, without qualification or contingency, despite lacking any operational plan to
+execute such a distribution.
+196.
+
+On February 14, 2025, after receiving enormous backlash from investors, Abdul
+reassured them that Defendants were “working on a solution” for them:
+197.
+
+The $PPY liquidity pool was never distributed to investors, and their wallets remain
+permanently locked. Investors have not heard from Defendants since Abdul’s promise of a
+forthcoming “solution” on February 14, 2025, leaving them no choice but to seek recourse from
+this Court.
+
+54
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 61 of 106
+VIII. ABDUL ORGANIZES TAX-FREE, OVER-THE-COUNTER
+$FJB/$PPY FOR SELECT INVESTORS
+198.
+
+SALES
+OF
+On or about December 15, 2022, an administrator in the official $FJB/$PPY
+Discord revealed that Abdul was supportive of the idea of offering over-the-counter sales to “OG”
+(“original gangster”) members of the group (i.e., those who have been there since the start of $FJB)
+directly out of the $FJB tax wallets.
+
+199.
+
+Abdul was not only supportive of the idea, but soon thereafter made over-the-
+counter sales herself. As one member of the Discord confirmed, he bought $FJB from Abdul over
+the counter on December 31, 2022:
+55
+Case 1:26-cv-00452
+200.
+
+Document 1
+Filed 02/12/26
+Page 62 of 106
+Another administrator of the Discord confirmed that Abdul had been making over-
+the-counter sales, potentially from “multiple wallets”:
+201.
+
+On February 28, 2024, she told another member of the Discord to refer his friend
+to her “if your friend is looking to buy,” as she’d “like to empty the tax wallets before they buy,”
+which “gives them a cheaper price and helps us too”:
+56
+Case 1:26-cv-00452
+202.
+
+Document 1
+Filed 02/12/26
+Page 63 of 106
+Abdul’s statement reflects coordination of insider-controlled Token supply and the
+timing of sales to facilitate off-market or preferential transactions. By proposing to “empty the tax
+wallets” before a contemplated purchase, Abdul indicated that insiders would first sell tokens
+under their control to affect market pricing, after which a favored purchaser could acquire Tokens
+at a reduced price, benefitting both the purchaser and the project’s insiders. Defendants did not
+disclose the existence of such preferential sales practices or the role of insiders in managing token
+supply and pricing.
+
+57
+Case 1:26-cv-00452
+203.
+
+Document 1
+Filed 02/12/26
+Page 64 of 106
+Indeed, as another member of the Discord revealed, Abdul had been selling directly
+from the charity wallets “for a while,” as a sale from the tax wallets “doesn’t dump on the price”
+of the Token.
+
+204.
+
+This admission reflects that Defendants actively managed the timing and manner
+of token sales from insider-controlled wallets to minimize price impact, rather than allowing
+market forces to operate transparently. Defendants did not disclose to investors that wallets
+represented as charitable were being used in this manner or that insiders exercised such control
+over supply and price dynamics.
+205.
+
+Defendants’ conduct and statements were false and misleading because, while
+representing $FJB/$PPY as fairly traded, decentralized, and governed by transparent market
+58
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 65 of 106
+forces, Defendants failed to disclose that insiders—including Abdul—were conducting
+undisclosed over-the-counter sales directly from insider-controlled marketing and charity wallets,
+coordinating the timing and source of those sales to influence price and liquidity. Defendants also
+failed to disclose that wallets labeled as “charity” and “marketing” were used as sources of token
+supply for insider sales, or that insiders actively managed token distribution to avoid price impact,
+confer preferential pricing on favored purchasers, and benefit themselves and the project.
+206.
+
+These omissions were material because a reasonable investor would have
+considered it important to know that insiders were selling tokens off-market, selectively draining
+tax and charity wallets, and manipulating the timing and manner of token sales to manage price
+and liquidity. Had investors known that purportedly charitable or marketing-designated wallets
+were being used to facilitate insider and preferential sales, and that token pricing did not reflect
+transparent market forces, they would have viewed the Token as riskier, less fair, and less suitable
+for investment, and would not have purchased $FJB/$PPY at the prices they did, or at all.
+IX.
+
+THE TOKEN’S PRICE AND TRADING VOLUME ROSE AND FELL IN DIRECT
+RESPONSE TO DEFENDANTS’ PROMOTIONAL CONDUCT
+207.
+
+From the outset, Defendants Bannon’s and Epshteyn’s own words made clear that
+the value of $FJB/$PPY was tied not to decentralized adoption or independent utility, but to their
+personal involvement, credibility, and promotional efforts.
+208.
+
+Defendants repeatedly told investors that they were “putting [their] shoulder to the
+wheel,” that they were “available 24/7,” that they were “working on this all the time,” and that
+they would personally drive adoption, partnerships, listings, and ecosystem development.
+209.
+
+As Defendants well knew, retail investors purchased $FJB/$PPY precisely because
+of Bannon’s and Epshteyn’s prominence, influence, and promises of sustained involvement—
+59
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 66 of 106
+making the Token’s market price acutely sensitive to their public statements, appearances, and
+perceived commitment.
+A.
+
+Immediate Price and Volume Reaction to Defendants’ Initial Promotions
+210.
+
+The most dramatic market reaction occurred on December 23, 2021, when Bannon
+and Epshteyn jointly announced $FJB on War Room, explicitly associating the Token with
+themselves, their movement, and a “parallel economy.”
+211.
+
+On that date, $FJB’s closing price increased by approximately 267% in a single
+day, while trading volume increased by approximately 739%, reflecting a surge of retail buying
+directly following Defendants’ promotional statements.
+212.
+
+The following days saw sustained elevated trading volume and price volatility as
+Defendants continued to promote $FJB across War Room, social media, and affiliated platforms,
+reinforcing the market’s perception that Defendants were actively backing and building the project.
+B.
+
+Continued Promotional Statements Drove Short-Term Price Support
+213.
+
+On January 6, 2022, Bannon released a YouTube video in which he stated that he
+had been “very involved in digital currencies,” that he and Epshteyn were working “24 hours a
+day” on $FJB, and that the Token would become a usable currency with liquidity, market makers,
+exchanges, discounts, and real-world utility.
+214.
+
+Bannon further framed $FJB as a safer alternative to fiat currency amid an
+impending economic and financial crisis, again encouraging investors to view the Token as both a
+medium of exchange and a store of value.
+215.
+
+Following that appearance and similar statements by Epshteyn in early January
+2022, $FJB experienced renewed bursts of trading volume and price stabilization, reflecting
+investors’ reliance on Defendants’ assurances of ongoing development and support.
+
+60
+Case 1:26-cv-00452
+216.
+
+Document 1
+Filed 02/12/26
+Page 67 of 106
+Throughout 2022, similar patterns repeated: when Defendants appeared publicly,
+promised expansion, or reassured holders, trading volume spiked and price declines slowed or
+temporarily reversed.
+C.
+
+Prolonged Silence and Broken Promises Caused Sustained Price Decline
+217.
+
+By mid-2022 and into early 2023, Defendants dramatically reduced their
+promotional efforts despite having repeatedly promised sustained involvement and expansion.
+218.
+
+During periods when Bannon and Epshteyn were largely silent, $FJB’s trading
+volume steadily declined, liquidity dried up, and the Token’s price fell precipitously.
+219.
+
+By February 2023—after months in which Defendants failed to deliver promised
+promotions, partnerships, or ecosystem development—$FJB had lost approximately 95% of its
+value from its post-announcement highs.
+220.
+
+Investors repeatedly pleaded with Defendants to promote the Token, explicitly
+stating that price and liquidity depended on Defendants’ continued involvement—an
+understanding Defendants never corrected.
+D.
+
+Whipsawing Statements and False Reassurances Exacerbated Losses
+221.
+
+On February 13, 2023, Defendant Abdul announced in a community channel that
+Bannon and Epshteyn were “walking away” from the project.
+222.
+
+That announcement triggered a near-immediate market collapse, with $FJB’s price
+falling approximately 67% in a single day, accompanied by a massive spike in trading volume as
+investors rushed to exit.
+223.
+
+Later that same day—and again in the days that followed—Defendants reversed
+course, with Epshteyn and Bannon publicly reaffirming their support for the Token and denying
+that they had disengaged.
+
+61
+Case 1:26-cv-00452
+224.
+
+Document 1
+Filed 02/12/26
+Page 68 of 106
+These contradictory statements caused extreme volatility, whipsawing investors
+between panic selling and renewed hope, and preventing the market from accurately pricing the
+Token’s true prospects.
+225.
+
+Rather than correcting earlier misrepresentations, Defendants continued to reassure
+investors that they remained committed, prolonging the artificial inflation of the Token’s price and
+delaying full market correction.
+E.
+
+Rebrand to Patriot Pay Repeated the Same Cycle of Inflation and Collapse
+226.
+
+In 2024, Defendants rebranded $FJB as Patriot Pay ($PPY) and renewed
+promotional efforts, again featuring Bannon’s name, image, and statements about fighting debanking, controlling currency, and building a parallel financial system.
+227.
+
+Following
+renewed
+promotions—including
+social
+media
+advertisements,
+influencer posts, and platform endorsements—$PPY again experienced sharp spikes in price and
+volume, including single-day price increases exceeding 25% accompanied by volume surges of
+several hundred percent.
+228.
+
+As before, once promotional efforts waned and promised initiatives failed to
+materialize, $PPY’s price resumed its decline.
+229.
+
+By early 2025, after Defendants disabled trading and announced closure without
+delivering promised liquidity distributions, $PPY’s value collapsed to near-zero levels, rendering
+most investors’ holdings effectively worthless.
+X.
+
+DEFENDANTS’ CONCEALMENT
+230.
+
+Defendants’ misconduct was inherently self-concealing. Defendants exercised
+exclusive control over the Token’s smart contracts, tax wallets, charity wallets, and OTC sales
+practices, and they did not publicly disclose the internal arrangements governing those accounts.
+
+62
+Case 1:26-cv-00452
+231.
+
+Document 1
+Filed 02/12/26
+Page 69 of 106
+Although certain aspects of the Token’s operation were implemented through
+smart-contract code recorded on the blockchain, that code was not meaningfully accessible or
+intelligible to ordinary retail investors, who lacked the technical expertise and information
+necessary to discern Defendants’ centralized control, wallet permissions, fee exemptions, and
+transactional practices from raw on-chain data alone.
+232.
+
+Defendants affirmatively concealed material facts from investors, including that
+transaction-based “marketing” fees were used as undisclosed consideration for Defendants’
+acquisition of control; that insiders were exempt from transaction taxes; that insiders conducted
+preferential OTC sales; that wallets labeled as “charity” wallets were used for insider sales; and
+that Defendants retained unilateral authority to freeze investor wallets.
+233.
+
+Defendants further lulled investors into inaction by repeatedly assuring them that
+issues were being investigated or resolved, including statements that “[i]t’s definitely not getting
+brushed under the rug,” that funds were being recovered, and that Defendants remained committed
+to the project and would double down on promotion and development.
+234.
+
+Plaintiff and the Class exercised reasonable diligence under the circumstances.
+
+Investors repeatedly sought transparency during status calls and through community channels,
+requested proof of charitable donations, and requested additional promotion and disclosure.
+Defendants responded with reassurances, delay, and concealment.
+235.
+
+Even so, critical facts concerning Defendants’ control, fee diversion, OTC sales,
+and wallet manipulation were known only to Defendants and insiders and were not discoverable
+by Plaintiff through reasonable diligence, particularly given Defendants’ use of pseudonymous
+accounts, intermediary wallets, and non-public over-the-counter transactions.
+
+63
+Case 1:26-cv-00452
+236.
+
+Document 1
+Filed 02/12/26
+Page 70 of 106
+Plaintiff did not discover, and could not reasonably have discovered, the full scope
+of Defendants’ misconduct until after February 12, 2025, when Defendants froze wallets,
+announced the project’s closure, and failed to deliver the promised liquidity distribution.
+237.
+
+Plaintiff commenced this action promptly after discovering Defendants’
+misconduct.
+238.
+
+Accordingly, any applicable statutes of limitation were tolled under the doctrines
+of fraudulent concealment and equitable tolling until Plaintiff’s discovery of Defendants’
+misconduct.
+CLASS ALLEGATIONS
+239.
+
+Plaintiff brings this action as a class action pursuant to Rules 23(a) and 23(b)(3) of
+the Federal Rules of Civil Procedure on behalf of all persons or entities who purchased or otherwise
+acquired Let’s Go Brandon Coin ($FJB) and/or Patriot Pay ($PPY) during the period from
+December 6, 2021, when Defendants Steve Bannon and Boris Epshteyn acquired control of the
+Token and began promoting it to the public, through February 12, 2025, when Defendants disabled
+trading and announced the project’s closure (the “Class Period”).
+240.
+
+Excluded from the Class are Defendants; members, managers, and officers of
+Defendants, including members of the FJB Advisory Counsel; members of Defendants’ immediate
+families; Defendants’ legal representatives, heirs, successors, or assigns; and any entity in which
+Defendants have or had a controlling interest.
+I.
+
+NUMEROSITY
+241.
+
+The members of the Class are so numerous that joinder of all members is
+impracticable. Throughout the Class Period, Defendants sold $FJB/$PPY Tokens to thousands of
+individual retail investors nationwide through websites, social media, podcasts, livestreams,
+messaging platforms, and over-the-counter transactions.
+64
+Case 1:26-cv-00452
+242.
+
+Document 1
+Filed 02/12/26
+Page 71 of 106
+Members of the Class can be readily identified through Defendants’ records,
+blockchain transaction data, and exchange and wallet records.
+II.
+
+TYPICALITY
+243.
+
+Plaintiff’s claims are typical of the claims of the Class. Plaintiff purchased
+$FJB/$PPY Tokens during the Class Period and was injured by the same course of conduct that
+injured other Class members, including Defendants’ unregistered offering, materially false and
+misleading statements, omissions, and deceptive scheme.
+244.
+
+Plaintiff was exposed to the same uniform misrepresentations and omissions
+disseminated by Defendants through common channels and suffered losses as a result.
+III.
+
+ADEQUACY
+245.
+
+Plaintiff will fairly and adequately protect the interests of the Class. Plaintiff has
+no interests antagonistic to those of the Class and has retained counsel experienced in securities,
+consumer protection, cryptocurrency, and class action litigation.
+IV.
+
+COMMONALITY AND PREDOMINANCE
+246.
+
+Questions of law and fact common to the Class predominate over any questions
+affecting only individual members. Common questions include, but are not limited to:
+a.
+
+whether $FJB/$PPY constituted securities;
+b.
+
+whether Defendants offered and sold unregistered securities;
+c.
+
+whether Defendants made materially false or misleading statements or
+omissions;
+d.
+
+whether Defendants falsely represented the Tokens as decentralized, safe,
+and immune from freezing;
+e.
+
+whether Defendants exercised centralized control over wallets and trading;
+f.
+
+whether Defendants conducted undisclosed OTC sales and insider
+65
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 72 of 106
+transactions;
+g.
+
+whether Defendants engaged in a deceptive scheme in violation of Rule
+10b-5(a) and (c);
+247.
+
+h.
+
+whether Defendants acted with scienter;
+i.
+
+whether Plaintiff and the Class suffered damages; and
+j.
+
+the proper measure of damages or rescission.
+
+These questions are susceptible to class-wide proof and do not depend on
+individualized issues.
+V.
+
+SUPERIORITY
+248.
+
+A class action is superior to all other available methods for the fair and efficient
+adjudication of this controversy. The damages suffered by individual Class members are relatively
+modest in comparison to the expense and burden of individual litigation, making individual actions
+economically impracticable.
+249.
+
+Concentrating the litigation in a single forum will avoid inconsistent rulings and
+promote judicial economy.
+VI.
+
+CLASS ACTION IS APPROPRIATE
+250.
+
+Defendants have acted or refused to act on grounds generally applicable to the
+Class, thereby making appropriate final injunctive relief and corresponding declaratory relief with
+respect to the Class as a whole.
+251.
+
+In the absence of a class action, Defendants will be permitted to retain the proceeds
+of their unlawful conduct to the detriment of Plaintiff and the Class and contrary to public policy.
+D.C. LAW APPLIES TO THE ENTIRE CLASS
+252.
+
+Washington, D.C.’s substantive laws apply to every member of the Class,
+regardless of where in the United States the Class members reside.
+66
+Case 1:26-cv-00452
+253.
+
+Document 1
+Filed 02/12/26
+Page 73 of 106
+Washington, D.C.’s substantive laws may be constitutionally applied to the claims
+of Plaintiff and the Class under the Due Process Clause, 14th Amend. § 1, and the Full Faith and
+Credit Clause, Art. IV §1 of the U.S. Constitution. Washington, D.C. has significant contact, or
+significant aggregation of contacts, to the claims asserted by Plaintiff and all Class members,
+thereby creating state interests that ensure that the choice of Washington, D.C. law is not arbitrary
+or unfair.
+254.
+
+Two of the four Executive Defendants reside in Washington, D.C., and all of the
+Executive Defendants operated the Company’s headquarters and principal place of business
+located in Washington, D.C. The decision of Executive Defendants and the Company to reside in
+Washington, D.C. and avail themselves of Washington, D.C.’s laws, and to engage in the
+challenged conduct from and emanating out of Washington, D.C., renders the application of D.C.
+law to the claims herein constitutionally permissible.
+255.
+
+Washington, D.C. is also the state from which the Executive Defendants’
+misconduct emanated. On information and belief, the decision-making regarding the parameters
+of the Company marketing strategy and related sale of Tokens occurred in and emanated from
+Washington, D.C. As such, the conduct complained of herein emanated from Washington, D.C.
+This conduct similarly injured and affected Plaintiff and all other Class members.
+256.
+
+The application of D.C. law to the Class is also appropriate under Washington,
+D.C.’s choice of law rules because Washington, D.C. has significant contacts to the claims of
+Plaintiff and the proposed Class, and Washington, D.C. has a greater interest in applying its laws
+here than any other interested state.
+
+67
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 74 of 106
+$FJB/$PPY TOKENS ARE SECURITIES SUBJECT TO THE SECURITIES LAWS
+257.
+
+The Securities Act of 1933 (the “Securities Act”) and the Securities Exchange Act
+of 1934 (the “Exchange Act”) define “security” to include an “investment contract.” 15 U.S.C.
+§§ 77b(a)(1), 78c(a)(10). Under SEC v. W.J. Howey Co., 328 U.S. 293 (1946), an investment
+contract exists where there is: (1) an investment of money; (2) in a common enterprise; (3) with a
+reasonable expectation of profits; (4) to be derived from the efforts of others.
+258.
+
+The $FJB/$PPY Tokens meet each element of the Howey test and therefore
+constitute securities within the meaning of the securities laws.
+I.
+
+INVESTMENT OF MONEY
+259.
+
+Purchasers of $FJB and later $PPY invested money or other valuable digital assets
+in exchange for Tokens.
+260.
+
+Retail investors paid consideration to acquire the Tokens on public markets and
+through over-the-counter sales. Every purchase required the transfer of value to obtain the Token.
+In addition, each transaction was subject to an embedded 8% transaction fee (3% “marketing” and
+5% “charity”), meaning investors paid even more than the nominal purchase price to acquire and
+hold the asset.
+261.
+
+This constitutes an “investment of money” under Howey. Courts uniformly hold
+that payment in cryptocurrency or digital assets satisfies this element.
+II.
+
+COMMON ENTERPRISE
+262.
+
+A common enterprise existed because investors’ fortunes were tied to each other
+and to Defendants’ success in operating and promoting the Token.
+A.
+
+Horizontal Commonality
+263.
+
+Investor funds were pooled through transaction fees embedded in the smart
+contract; liquidity pools; and “marketing” and “charity” wallets funded by every trade.
+68
+Case 1:26-cv-00452
+264.
+
+Document 1
+Filed 02/12/26
+Page 75 of 106
+All investors’ returns rose and fell together based on: Token price; trading volume;
+liquidity; and the use (or misuse) of pooled marketing and treasury funds.
+265.
+
+Price charts and trading volume demonstrate that the Token’s value moved in direct
+response to Defendants’ promotional conduct and periods of silence. Investors’ fortunes were
+therefore interdependent.
+B.
+
+Vertical Commonality
+266.
+
+Defendants’ fortunes were directly linked to investor purchases. They: acquired
+2 billion Tokens through a private transfer; controlled smart contract keys and treasury wallets;
+benefited from transaction volume; and structured the project so investor-paid marketing fees
+financed their acquisition.
+267.
+
+Defendants’ financial gain depended on increasing demand and trading activity.
+
+Investors’ gains likewise depended on Defendants’ success in promoting and sustaining the Token
+ecosystem.
+III.
+
+REASONABLE EXPECTATION OF PROFITS
+268.
+
+Investors had a reasonable expectation of profits based on Defendants’ statements
+and conduct.
+A.
+
+Dollar Collapse Messaging
+269.
+
+Defendants repeatedly warned that: the U.S. Dollar was being “destroyed”;
+government spending would lead to collapse; investors needed “digital sovereignty”; and the
+Token would serve as an alternative store of value. These statements framed the Token as an
+investment vehicle designed to preserve and grow wealth in anticipation of economic crisis.
+B.
+
+Promotion as Inflation-Resistant Store of Value
+270.
+
+Defendants described the Token as: “inflation-resistant”; a “safe alternative” to fiat
+currency; a path to “financial independence”; and a hedge against debanking and censorship. Such
+69
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 76 of 106
+representations signaled an expectation that the Token would appreciate or at least preserve
+purchasing power relative to traditional currency.
+C.
+
+Marketing and Development Promises
+271.
+
+Defendants repeatedly promised: aggressive marketing efforts; partnerships;
+ecosystem development; a functioning payment network; and “real-world utility.” They assured
+investors, including in weekly investor updates, they were working “24/7” and personally
+committed to the project’s success.
+D.
+
+Price Reactions to Promotion
+272.
+
+The Token’s price and trading volume rose sharply following Defendants’
+promotional appearances and statements, and declined during extended silence or broken
+promises. This pattern confirms that investors were buying in anticipation of price appreciation
+driven by Defendants’ efforts.
+IV.
+
+PROFITS DERIVED FROM THE EFFORTS OF OTHERS
+273.
+
+Investors’ potential profits depended almost entirely on Defendants’ managerial
+and entrepreneurial efforts.
+A.
+
+Centralized Control
+274.
+
+Despite marketing the Token as “decentralized,” Defendants: controlled the LLC;
+controlled smart contract private keys; controlled treasury, marketing, and charity wallets;
+controlled liquidity; had the ability to freeze investor wallets; and exercised authority to disable
+trading entirely. Investors had no voting rights, governance power, or ability to influence the
+project’s direction.
+B.
+
+Marketing and Influence
+275.
+
+The Token’s success depended on: Bannon’s War Room platform; Bannon’s and
+Epshteyn’s political network; their credibility and public influence; and continued public
+70
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 77 of 106
+promotion. Investors could not increase Token value through their own efforts. Only Defendants’
+actions moved the market.
+C.
+
+Operational Development
+276.
+
+Defendants promised: a payment ecosystem; partnerships; utility expansion; and
+technical upgrades. These were managerial functions exclusively within Defendants’ control.
+D.
+
+Insider Advantages
+277.
+
+Defendants: structured the Token so insiders were exempt from transaction taxes;
+controlled OTC sales; managed treasury funds; and financed their acquisition via investor-paid
+fees. Investors were passive participants dependent on Defendants’ honesty and competence.
+LOSS CAUSATION
+278.
+
+Defendants’ misrepresentations and omissions artificially inflated the market price
+of $FJB/$PPY throughout the Class Period. When the truth regarding Defendants’ conduct,
+control, and lack of genuine commitment emerged through partial and full corrective disclosures,
+the artificial inflation dissipated, causing substantial economic losses to Plaintiff and the Class.
+I.
+
+ARTIFICIAL INFLATION
+PROMOTIONAL CONDUCT
+279.
+
+INTRODUCED
+THROUGH
+DEFENDANTS’
+From December 2021 forward, Defendants repeatedly represented that:
+a.
+
+Bannon and Epshteyn were strategic partners personally committed to
+building the project;
+b.
+
+they were working on the Token “24/7”;
+c.
+
+the Token would become a viable alternative financial system;
+d.
+
+it was decentralized and immune from financial censorship or account
+freezes;
+e.
+
+embedded marketing and charity fees were being used as represented; and
+71
+Case 1:26-cv-00452
+f.
+
+Document 1
+Filed 02/12/26
+Page 78 of 106
+the Token would function as a store of value amid the alleged collapse of
+the U.S. dollar.
+280.
+
+These representations created the impression that $FJB/$PPY possessed
+independent utility, decentralized governance, and sustained insider commitment. In reality, the
+Token’s value depended overwhelmingly on Defendants’ continued promotional efforts and
+discretionary control.
+281.
+
+The market immediately incorporated Defendants’ statements into the Token’s
+price. On December 23, 2021, following Defendants’ War Room announcement associating the
+Token with themselves and a “parallel financial system,” the price of $FJB increased
+approximately 267% in a single day, accompanied by an approximately 739% surge in trading
+volume. The timing and magnitude of this reaction demonstrate that the Token’s price was directly
+responsive to Defendants’ public representations and perceived involvement.
+282.
+
+Similar patterns followed subsequent promotional statements and assurances in
+early 2022 and thereafter.
+
+When Defendants promoted the Token and reaffirmed their
+commitment, trading volume increased and price declines slowed or temporarily reversed. The
+Token’s price thus reflected artificial inflation attributable to Defendants’ statements and
+omissions.
+II.
+
+PARTIAL CORRECTIVE DISCLOSURES REVEALED THE TOKEN’S TRUE
+RISK PROFILE
+283.
+
+Over time, information entered the market that contradicted or undermined
+Defendants’ representations. These included:
+a.
+
+prolonged periods of silence despite prior assurances of promotion;
+b.
+
+failure to deliver promised listings, expansion, or ecosystem development;
+c.
+
+disclosures that marketing and charity funds were unaccounted for;
+72
+Case 1:26-cv-00452
+284.
+
+Document 1
+Filed 02/12/26
+Page 79 of 106
+d.
+
+confirmation that insiders exercised centralized control over wallets; and
+e.
+
+wallet freezes, contradicting claims of decentralization.
+
+Each of these developments weakened market confidence in Defendants’ prior
+representations. As investor confidence eroded, the Token’s price declined, and portions of the
+artificial inflation dissipated.
+III.
+
+FEBRUARY 13–14, 2023: CLASSIC CORRECTIVE DISCLOSURE AND PRICE
+COLLAPSE
+285.
+
+On February 13, 2023, Defendant Abdul announced that Bannon and Epshteyn
+were walking away from the project. This announcement directly conflicted with prior statements
+that Defendants remained fully committed and were working on the Token “24/7.”
+286.
+
+The market reaction was immediate. On February 14, 2023, the Token’s price fell
+approximately 67% in a single day, accompanied by a roughly 1,575% increase in trading volume.
+The magnitude and timing of this decline demonstrate that the Token’s market price had been
+supported by Defendants’ perceived ongoing involvement and that this support rapidly dissipated
+when their continued commitment was called into question.
+287.
+
+Although Defendants later issued reassurances, the whipsawing statements further
+destabilized the Token and contributed to continued volatility and loss of investor confidence.
+IV.
+
+WALLET FREEZES AND
+“DECENTRALIZATION”
+288.
+
+REBRAND
+UNDERMINED
+CLAIMS
+OF
+In December 2023, Defendants froze investor wallets while exempting insider-
+controlled wallets, and subsequently rebranded the project as Patriot Pay and migrated to a new
+blockchain architecture that preserved insider control.
+289.
+
+The market reaction to these events was severe. On November 30, 2023, shortly
+before the freeze, the Token traded at approximately $0.000264. By January 31, 2024—during
+the period in which wallets were frozen and investors were unable to transact—the Token’s price
+73
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 80 of 106
+had collapsed to approximately $0.000002, representing a decline of more than 99%. The price
+fell further to approximately $0.000001 on February 2, 2024.
+290.
+
+These dramatic declines were temporally proximate to the wallet freeze and rebrand
+and reflected a sharp deterioration in market confidence after Defendants’ actions contradicted
+prior representations that the Token was free from centralized control. As a result, additional
+artificial inflation dissipated.
+V.
+
+FEBRUARY 12, 2025: TRADING DISABLED AND COLLAPSE OF REMAINING
+PRICE SUPPORT
+291.
+
+On February 12, 2025, Defendants disabled trading of $PPY and announced the
+project’s closure, while promising that the liquidity pool would be distributed within seven days.
+No such distribution occurred.
+292.
+
+The sudden trading halt and operational shutdown eliminated any remaining market
+confidence that the Token would function as a viable financial ecosystem. Trading activity ceased,
+liquidity evaporated, and the Token’s price collapsed to effectively nominal levels.
+293.
+
+This event did not immediately disclose all concealed aspects of Defendants’
+misconduct. However, it removed the final pillar of artificial price support that had been sustained
+by Defendants’ ongoing reassurances and promises of revival. With trading disabled and promised
+liquidity undistributed, the market could no longer rely on Defendants’ representations regarding
+continued development, decentralization, or financial autonomy.
+294.
+
+As a result, any remaining artificial inflation dissipated, and investors suffered
+substantial economic loss.
+VI.
+
+CAUSAL CONNECTION BETWEEN MISCONDUCT AND LOSS
+295.
+
+Plaintiff and the Class purchased $FJB/$PPY at prices that were artificially inflated
+by Defendants’ materially false and misleading statements and omissions.
+
+74
+Case 1:26-cv-00452
+296.
+
+Document 1
+Filed 02/12/26
+Page 81 of 106
+When corrective information entered the market—through announcements of
+abandonment, exposure of centralized control, wallet freezes, missing funds, and ultimate
+shutdown—the artificial inflation dissipated, causing substantial economic loss.
+297.
+
+The losses suffered by Plaintiff and the Class were not caused by general
+cryptocurrency volatility. Rather, they were the direct and proximate result of issuer-specific
+disclosures and events uniquely attributable to Defendants’ misconduct.
+298.
+
+Had the truth been known at the time of purchase, $FJB/$PPY would have traded
+at substantially lower prices, or not at all.
+299.
+
+Accordingly, Defendants’ misrepresentations, omissions, and deceptive scheme
+were a direct and proximate cause of Plaintiff’s and the Class’s damages.
+300.
+
+Although certain events during the Class Period caused significant price declines,
+those events did not disclose the full scope of Defendants’ concealed conduct. Defendants
+continued to issue reassurances, contradictory statements, and partial explanations that obscured
+the underlying structure of insider control, fee diversion, and preferential sales practices. The
+February 2025 shutdown prompted further investigation into the project’s internal operations and
+ultimately led to the discovery of facts that had been concealed throughout the Class Period.
+OVERVIEW OF FRAUD AND NON-FRAUD CLAIMS
+301.
+
+Plaintiff asserts both strict liability and negligence-based claims, as well as fraud-
+based claims pleaded in the alternative. Certain claims arise under the Securities Act and under
+District of Columbia statutory and common law that impose liability without requiring proof of
+scienter, intent to deceive, or reckless misconduct. Those claims are based on unregistered offers
+and sales, negligent misrepresentations, statutory violations, breaches of fiduciary duty, and unjust
+enrichment.
+
+Plaintiff expressly disclaims any allegation of deliberate fraud or intentional
+75
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 82 of 106
+misconduct for purposes of those non-fraud claims, which are separate and distinct from the fraudbased claims asserted in the alternative.
+302.
+
+In the alternative, Plaintiff asserts fraud-based claims under Section 10(b) of the
+Exchange Act and Rule 10b-5 promulgated thereunder, Section 20(a) of the Exchange Act, and
+under District of Columbia common law. Those claims are based on allegations that certain
+Defendants knowingly or recklessly made material misrepresentations and omissions and engaged
+in a deceptive scheme in connection with the offer and sale of $FJB/$PPY Tokens.
+I.
+
+NON-FRAUD-BASED SECURITIES AND STATE LAW CLAIMS
+303.
+
+The following claims do not require proof of scienter, fraudulent intent, or
+recklessness:
+•
+Count I (Section 12(a)(1) of the Securities Act – Unregistered Offer and Sale);
+•
+Count III (Section 15 of the Securities Act – Control Person Liability), to the extent
+predicated on the Section 12(a)(1) violation;
+•
+Count V (Unregistered Offer and Sale under the D.C. Securities Act);
+•
+Count VII (Control Person Liability under the D.C. Securities Act), to the extent
+predicated on registration violations or negligent misrepresentation;
+•
+Count VIII (D.C. Consumer Protection Procedures Act);
+•
+Count X (Negligent Misrepresentation);
+•
+Count XI (Breach of Fiduciary Duty); and
+•
+Count XII (Unjust Enrichment).
+
+304.
+
+These claims are premised on statutory strict liability, negligence standards,
+fiduciary obligations, or equitable principles. For purposes of these causes of action, Plaintiff does
+not rely on allegations of fraud, scienter, or intentional deception except to the extent such
+76
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 83 of 106
+allegations are expressly incorporated as alternative theories. To the extent any factual allegations
+elsewhere in this Complaint could be construed as sounding in fraud, those allegations are not
+incorporated into these non-fraud-based counts except as consistent with strict liability or
+negligence standards.
+II.
+
+FRAUD-BASED SECURITIES AND STATE LAW CLAIMS (PLED IN THE
+ALTERNATIVE)
+305.
+
+The following claims are based on fraud, scienter, and intentional or reckless
+misconduct:
+•
+Count II (Section 10(b) of the Exchange Act and Rule 10b-5);
+•
+Count IV (Section 20(a) of the Exchange Act);
+•
+Count VI (Misrepresentation Under the D.C. Securities Act), to the extent based on
+untrue statements or omissions made knowingly or recklessly;
+•
+Count VII (Control Person Liability under the D.C. Securities Act), to the extent
+predicated on fraudulent misrepresentation;
+•
+Count IX (Common Law Fraud); and
+•
+Count XIII (Aiding and Abetting).
+
+306.
+
+These claims are pleaded in the alternative to the non-fraud-based claims set forth
+above. Plaintiff does not incorporate allegations of scienter, recklessness, or intentional deception
+into the non-fraud counts unless expressly stated.
+307.
+
+To state a claim under these counts, Plaintiff must allege facts giving rise to a strong
+inference that Defendants acted with scienter—i.e., with intent to deceive, manipulate, or defraud,
+or with recklessness. The facts alleged herein establish scienter under either standard.
+
+77
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 84 of 106
+A.
+
+Defendants Knew They Controlled the Token While Representing Themselves
+as Mere “Partners”
+308.
+
+Defendants repeatedly described themselves publicly as “partners,” “advocates,” or
+“supporters” of the Token, creating the impression that they were independent promoters lending
+credibility to an external project, when in reality they had acquired ownership and control.
+309.
+
+At all relevant times, Defendants possessed exclusive knowledge that they had:
+acquired ownership of Let’s Go Brandon Coin LLC; assumed full control of the smart contract
+private keys; controlled treasury, marketing, and charity wallets; exercised authority over liquidity
+decisions; retained the power to freeze investor wallets; and structured the acquisition so that
+investor-paid transaction fees financed their takeover.
+310.
+
+These facts were uniquely within Defendants’ knowledge. The failure to disclose
+ownership and control while publicly promoting the asset as a third-party partner constitutes
+knowing concealment of a material conflict of interest, not mere negligence.
+B.
+
+Defendants Structured the Acquisition to Be Funded by Investor Fees
+311.
+
+Defendants entered into a private agreement to acquire control of the Token without
+paying cash consideration and structured that transaction so that it would be financed through
+ongoing transaction fees paid by retail investors.
+312.
+
+Defendants knew that: the 3% “marketing” tax functioned as purchase
+consideration for the Founders; retail investors were effectively funding Defendants’ acquisition;
+marketing fees were not contingent upon actual marketing performance; insiders were exempted
+from transaction taxes; and the fee structure directly benefited Defendants while burdening retail
+purchasers.
+
+78
+Case 1:26-cv-00452
+313.
+
+Document 1
+Filed 02/12/26
+Page 85 of 106
+The transaction structure itself evidences conscious design. Because Defendants
+controlled the wallets and contractual terms through which fees flowed, the inference that they
+knowingly concealed this structure is strong and compelling.
+C.
+
+Defendants Knew the Token Was Not Decentralized
+314.
+
+Defendants repeatedly represented that the Token was “decentralized,” immune
+from financial censorship, and a vehicle for “independence,” while retaining unilateral authority
+over core operational mechanisms.
+315.
+
+At all relevant times, Defendants knew that they: controlled the smart contract
+administration; retained authority to freeze investor wallets; exercised freeze authority in practice;
+maintained centralized control over treasury and liquidity; disabled trading entirely in February
+2025; and exempted insider wallets from restrictions applicable to ordinary investors.
+316.
+
+Representing an asset as decentralized while retaining and exercising centralized
+freeze authority constitutes, at minimum, severe recklessness and more plausibly intentional
+deception.
+D.
+
+Defendants Repeatedly Reassured Investors While Concealing Material Facts
+317.
+
+When investors raised concerns about missing funds, liquidity instability, limited
+marketing activity, charity wallet accounting, and declining development, Defendants responded
+with reassurances while failing to disclose material structural realities.
+318.
+
+Defendants knew but concealed: the true nature of the acquisition agreement; the
+insider transaction-fee exemptions; the existence and structure of over-the-counter sales; the
+limited or self-interested use of marketing funds; and the absence of meaningful operational
+development consistent with public statements.
+319.
+
+Repeated reassurances made in the face of known contradictory facts constitutes
+conscious misbehavior or, at minimum, severe recklessness.
+79
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 86 of 106
+E.
+
+Defendants Had Clear Motive and Opportunity
+320.
+
+Defendants possessed both motive and opportunity to engage in the misconduct
+alleged.
+321.
+
+Defendants stood to benefit financially because they: acquired 2 billion Tokens;
+benefited directly from trading volume; controlled treasury funds; controlled marketing and charity
+wallets; structured insider advantages; avoided transaction taxes applicable to retail investors; and
+permitted or conducted over-the-counter sales outside public markets.
+322.
+
+Defendants possessed opportunity because they: controlled the LLC entities;
+controlled smart contract keys; controlled treasury wallets; controlled messaging platforms,
+including War Room; directed promotional activity; managed liquidity decisions; and exercised
+operational authority over trading and shutdown.
+323.
+
+The alignment of financial incentive and operational control strongly supports a
+compelling inference of scienter.
+F.
+
+The Abrupt Shutdown Supports Conscious Misconduct
+324.
+
+In February 2025, Defendants disabled trading, announced the project’s closure,
+and promised liquidity distributions that did not occur.
+325.
+
+The sudden shutdown following years of promotional assurances reinforces the
+inference that Defendants were aware of the project’s structural deficiencies and material
+misrepresentations.
+326.
+
+Conduct inconsistent with prior public assurances supports a strong inference of
+conscious misconduct.
+
+80
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 87 of 106
+G.
+
+At Minimum, Defendants Acted With Severe Recklessness
+327.
+
+Even if Defendants did not act with intent, the allegations establish an extreme
+departure from the standards of ordinary care and a conscious disregard of a serious risk of
+misleading investors.
+328.
+
+Defendants represented decentralization while retaining freeze authority;
+represented marketing and charitable use of funds without transparent accounting; promoted utility
+without operational infrastructure; failed to disclose insider exemptions; failed to disclose the
+investor-funded acquisition structure; and reassured investors while withholding material
+information uniquely within their control.
+329.
+
+Such conduct presents a danger of misleading investors that was either known to
+Defendants or so obvious that they must have been aware of it.
+CAUSES OF ACTION
+COUNT I
+Unregistered Offer and Sale of Securities in Violation of
+Sections 5 and 12(a)(1) of the Securities Act of 1933
+(Against All Defendants)
+330.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud.
+331.
+
+15 U.S.C. § 77l(a)(1) (Section 12(a)(1) of the Securities Act) provides that “any
+person who . . . offers or sells a security in violation of section 77e of this title . . . shall be liable,
+subject to subsection (b), to the person purchasing such security from him.”
+81
+Case 1:26-cv-00452
+332.
+
+Document 1
+Filed 02/12/26
+Page 88 of 106
+15 U.S.C. § 77e(a) (Section 5(a) of the Securities Act) states: “Unless a registration
+statement is in effect as to a security, it shall be unlawful for any person, directly or indirectly
+(1) to make use of any means or instruments of transportation or communication in interstate
+commerce or of the mails to sell such security through the use or medium of any prospectus or
+otherwise; or (2) to carry or cause to be carried through the mails or in interstate commerce, by
+any means or instruments of transportation, any such security for the purpose of sale or for delivery
+after sale.”
+333.
+
+15 U.S.C. § 77e(c) (Section 5(c) of the Securities Act) states: “It shall be unlawful
+for any person, directly or indirectly, to make use of any means or instruments of transportation or
+communication in interstate commerce or of the mails to offer to sell or offer to buy through the
+use or medium of any prospectus or otherwise any security, unless a registration statement has
+been filed as to such security, or while the registration statement is the subject of a refusal order or
+stop order or (prior to the effective date of the registration statement) any public proceeding or
+examination under section 77h of this title.”
+334.
+
+$FJB/$PPY Tokens are investment contracts within the meaning of Section 2(a)(1)
+of the Securities Act, 15 U.S.C. § 77b(a)(1), and are therefore securities under that Act.
+335.
+
+Defendants, directly and indirectly, offered, solicited, promoted, and sold
+$FJB/$PPY Tokens to Plaintiff and other members of the Class through means of interstate
+commerce, including websites, podcasts, livestreams, social media, messaging platforms, digital
+wallets, and over-the-counter transactions.
+336.
+
+Defendants were statutory sellers within the meaning of Section 12(a)(1). They:
+a.
+
+passed title to Tokens;
+b.
+
+actively solicited purchases motivated by their own financial interests; and
+82
+Case 1:26-cv-00452
+c.
+
+Document 1
+Filed 02/12/26
+Page 89 of 106
+orchestrated and controlled the distribution of Tokens, including through
+insider-managed wallets and OTC sales.
+337.
+
+No registration statement for $FJB/$PPY Tokens has ever been filed with the SEC,
+and no registration statement has ever been in effect with respect to the offering of $FJB/$PPY
+Tokens. No exemption from registration applied.
+338.
+
+As a direct and proximate result of Defendants’ offer and sale of unregistered
+securities, Plaintiff and other members of the Class have suffered damages.
+339.
+
+As a result of their conduct, Defendants are liable to Plaintiff and other Class
+members for damages or rescission, as well as costs, attorneys’ fees, and interest.
+COUNT II
+Fraud in Connection with the Purchase or Sale of Securities in Violation of
+Section 10(b) of the Exchange Act of 1934 and Rule 10b-5 thereunder
+(Against All Defendants)
+340.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 303–304 and
+any other paragraph to the extent such allegations are expressly limited to strict liability, negligence,
+fiduciary duty, or other non-scienter-based theories and are construed as alleging negligence
+exclusive of scienter.
+341.
+
+Section 10(b) and Rule 10b-5(b) make it illegal, in connection with the purchase or
+sale of a security, “for any person directly or indirectly, by the use of any means or instrumentality
+of interstate commerce, or of the mails or of any facility of any national securities exchange . . . to
+employ any device, scheme, or artifice to defraud” or to “make any untrue statement of a material
+fact or to omit to state a material fact necessary in order to make the statements made, in the light
+of the circumstances under which they were made, not misleading.”
+83
+Case 1:26-cv-00452
+342.
+
+Document 1
+Filed 02/12/26
+Page 90 of 106
+Defendants used the means and instrumentalities of interstate commerce to
+perpetrate a fraud on Plaintiff and other Class members in connection with the sale of $FJB/$PPY
+Tokens.
+343.
+
+In addition, Defendants used the means and instrumentalities of interstate
+commerce to misrepresent material facts about $FJB/$PPY Tokens.
+344.
+
+Defendants’ misconduct was not limited to discrete misstatements, but constituted
+a unified scheme to defraud investors.
+345.
+
+Defendants made materially false and misleading statements, including but not
+limited to misrepresentations that:
+346.
+
+a.
+
+the Tokens were decentralized and uncancellable;
+b.
+
+the Tokens were safe alternatives to fiat currency;
+c.
+
+transaction fees were used for marketing and charity as represented;
+d.
+
+Defendants were mere strategic partners rather than owners and controllers;
+e.
+
+the Tokens had real, developed utility and infrastructure; and
+f.
+
+Defendants were devoting sustained efforts to promotion and development.
+
+Defendants omitted material facts necessary to make their statements not
+misleading, including that:
+a.
+
+investors effectively financed Defendants’ acquisition of the project
+through transaction fees;
+b.
+
+Defendants retained centralized control over wallets and smart-contract
+functions;
+c.
+
+Defendants froze investor wallets while exempting insiders;
+d.
+
+insiders conducted undisclosed OTC sales at preferential prices;
+84
+Case 1:26-cv-00452
+e.
+
+Document 1
+Filed 02/12/26
+Page 91 of 106
+charity and marketing wallets were used to manage price and insider
+liquidity; and
+f.
+347.
+
+insiders were exempt from fees imposed on retail investors.
+
+In addition to misstatements and omissions, Defendants engaged in scheme liability
+conduct in violation of Rule 10b-5(a) and (c), including by:
+a.
+
+manipulating Token supply through insider-controlled wallets;
+b.
+
+freezing and unlocking wallets to control market dynamics;
+c.
+
+coordinating preferential OTC transactions;
+d.
+
+stringing investors along with false assurances to prolong participation; and
+e.
+
+rebranding and relaunching the Token to reset investor expectations without
+disclosing prior failures.
+348.
+
+Defendants engaged in these fraudulent activities knowingly and intentionally, or
+in such a deliberately reckless manner as to constitute willful deceit and fraud upon Plaintiff and
+other members of the Class.
+349.
+
+Plaintiff and other Class members were ignorant of Defendants’ fraudulent scheme
+and of the false and misleading nature of their material misrepresentations and omissions.
+
+But
+for the fraud perpetrated by Defendants, they would not have purchased $FJB/$PPY Tokens.
+350.
+
+As a direct and proximate result of Defendants’ misconduct, Plaintiff and other
+members of the Class suffered damages, and Defendants are liable for damages or rescission, as
+well as costs, attorneys’ fees, and interest.
+COUNT III
+Control Person Liability under Section 15 of the Securities Act of 1933
+(Against the Executive Defendants)
+351.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+85
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 92 of 106
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud.
+352.
+
+Throughout the relevant period, the Executive Defendants acted as controlling
+persons of the Entity Defendants within the meaning of Section 15 of the Securities Act. Because
+of their executive positions and control over the day-to-day operations of $FJB/$PPY, the Executive
+Defendants had the ability and power to control—and did in fact control—the Entity Defendants
+and their agents, including with respect the offer and sale of $FJB/$PPY Tokens.
+353.
+
+The Executive Defendants exercised actual control over the primary violations by
+directing Token issuance, wallet permissions, promotional messaging, investor communications,
+and the timing and manner of Token sales.
+354.
+
+Accordingly, the Executive Defendants are liable to Plaintiff and the other Class
+members pursuant to Section 15 of the Securities Act.
+COUNT IV
+Control Person Liability Under Section 20(a) of the Exchange Act of 1934
+(Against the Executive Defendants)
+355.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 303–304 and
+any other paragraph to the extent such allegations are expressly limited to strict liability, negligence,
+fiduciary duty, or other non-scienter-based theories and are construed as alleging negligence
+exclusive of scienter.
+356.
+
+Throughout the relevant period, the Executive Defendants acted as controlling
+persons of the Entity Defendants within the meaning of Section 20(a) of the Exchange Act. By
+reason of their executive positions and control over the day-to-day operations of $FJB/$PPY, the
+Executive Defendants had the ability and power to control—and did in fact control—the Entity
+86
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 93 of 106
+Defendants and their agents, including with respect to the content and dissemination of the
+materially misleading statements, information, and omissions alleged herein.
+357.
+
+The Executive Defendants exercised actual control over the primary violations by
+directing Token issuance, wallet permissions, promotional messaging, investor communications,
+and the timing and manner of Token sales.
+358.
+
+Accordingly, the Executive Defendants are liable to Plaintiff and the other Class
+members pursuant to Section 20(a) of the Exchange Act.
+COUNT V
+Unregistered Offer and Sale of Securities in Violation of the
+D.C. Securities Act, D.C. Code § 31-5606.05(a)(1)(A)
+(Against All Defendants)
+359.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud.
+360.
+
+The D.C. Securities Act, D.C. Code § 31-5606.05(a)(1)(A), makes liable a person
+who “[o]ffers or sells a security in violation of . . . § 31-5603.01.”
+361.
+
+The D.C. Securities Act, D.C. Code § 31-5603.01, provides: “No person shall offer
+or sell a security in the District unless the security is registered under this chapter . . . .”
+362.
+
+$FJB/$PPY Tokens are investment contracts within the meaning of D.C. Code
+§ 31–5601.01(31), and are therefore securities under that Act.
+363.
+
+Defendants offered, promoted, and sold $FJB/$PPY Tokens. Defendants’ unlawful
+offers and sales, including OTC transactions and wallet-based distributions, were conceived,
+authorized, and directed from Washington, D.C., including through websites, podcasts,
+87
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 94 of 106
+livestreams, social-media communications, and electronic solicitations received by investors in the
+District of Columbia.
+364.
+
+No registration statement for $FJB/$PPY Tokens has ever been filed with the D.C.
+
+Securities Bureau, and no registration statement has ever been in effect with respect to the offering
+of $FJB/$PPY Tokens, nor did Defendants qualify for any exemption from registration.
+365.
+
+Registration would have required Defendants to disclose material information they
+instead concealed, including insider ownership and control, conflicts of interest, use of transactionbased marketing and charity fees, wallet authority, trading restrictions, and the risks associated
+with centralized governance.
+366.
+
+As a direct and proximate result of Defendants’ offer and sale of unregistered
+securities, Plaintiff and other members of the Class have suffered damages.
+367.
+
+As a result of their conduct, Defendants are liable to Plaintiff and other Class
+members for damages or rescission, as well as costs, attorneys’ fees, and interest.
+COUNT VI
+Misrepresentation in Connection with the Purchase or Sale of Securities in Violation of the
+D.C. Securities Act, D.C. Code § 31-5606.05(a)(1)(B)
+(Against All Defendants)
+368.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud. Such allegations are
+excluded only insofar as this Count proceeds on a theory of negligent misrepresentation. To the
+extent this Count proceeds in the alternative on a theory of fraudulent misrepresentation, Plaintiff
+88
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 95 of 106
+realleges and incorporates ¶¶ 33, 96, 132, 136, 163, 209, 235, 302, and 305–329, as well as all other
+allegations sounding in fraud, solely as applicable to that alternative theory.
+369.
+
+The D.C. Securities Act, D.C. Code § 31-5606.05(a)(1)(B), makes liable a person
+who “offers or sells a security by means of an untrue statement of a material fact or an omission
+to state a material fact necessary in order to make the statement made, in the light of the
+circumstances under which made, not misleading, the buyer does not know of the untruth or
+omission and the offeror or seller does not sustain the burden of proof that the offeror or seller did
+not know, and in the exercise of reasonable care could not have known, of the untruth or omission.”
+370.
+
+Defendants perpetrated a fraud on Plaintiff and other Class members in connection
+with the sale of $FJB/$PPY Tokens, including through a course of conduct that concealed material
+information required to be disclosed to permit informed investment decisions.
+371.
+
+In addition, Defendants misrepresented material facts about $FJB/$PPY Tokens,
+and omitted material facts necessary to make their statements not misleading, including facts
+concerning centralized control, insider compensation, use of transaction-based fees, OTC sales,
+wallet authority, and trading restrictions.
+372.
+
+Defendants’ unlawful offers and sales, including OTC transactions and wallet-
+based distributions, were conceived, authorized, and directed from Washington, D.C., and
+disseminated to Plaintiff and other investors in the District of Columbia.
+373.
+
+Defendants engaged in these fraudulent activities knowingly, or in the exercise of
+reasonable care should have known, of the untrue statements and material omissions described
+herein.
+
+89
+Case 1:26-cv-00452
+374.
+
+Document 1
+Filed 02/12/26
+Page 96 of 106
+Plaintiff and other Class members were ignorant of Defendants’ fraudulent scheme
+and of the false and misleading nature of their material misrepresentations and omissions.
+
+But
+for the fraud perpetrated by Defendants, they would not have purchased $FJB/$PPY Tokens.
+375.
+
+As a direct and proximate result of Defendants’ misconduct, Plaintiff and other
+members of the Class suffered damages, and Defendants are liable for damages or rescission, as
+well as costs, attorneys’ fees, and interest.
+COUNT VII
+Control Person Liability Under the D.C. Securities Act, D.C. Code § 31-5606.05(c)
+(Against the Executive Defendants)
+376.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud. Such allegations are
+excluded only insofar as this Count proceeds on theories of failure to register in violation of D.C.
+Code § 31-5606.05(a)(1)(A), and negligent misrepresentation in violation of D.C. Code § 315606.05(a)(1)(B). To the extent this Count proceeds on a theory of fraudulent misrepresentation in
+violation of D.C. Code § 31-5606.05(a)(1)(B), in the alternative to negligent misrepresentation,
+Plaintiff realleges and incorporates ¶¶ 33, 96, 132, 136, 163, 209, 235, 302, and 305–329, as well as
+all other allegations sounding in fraud, solely as applicable to that alternative theory.
+377.
+
+Throughout the relevant period, the Executive Defendants acted as controlling
+persons of the Entity Defendants within the meaning of the D.C. Securities Act, D.C. Code §§ 31–
+5601.01(7) and 31-5606.05(c). By reason of their executive positions and control over the day-today operations of $FJB/$PPY, the Executive Defendants had the ability and power to control—and
+did in fact control—the Entity Defendants and their agents, including with respect to the content
+90
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 97 of 106
+and dissemination of the materially misleading statements, information, and omissions alleged
+herein.
+378.
+
+The Executive Defendants exercised actual control over the primary violations by
+directing Token issuance, wallet permissions, promotional messaging, investor communications,
+and the timing and manner of Token sales, and had the power to prevent or correct the violations
+alleged herein.
+379.
+
+Accordingly, the Executive Defendants are liable to Plaintiff and the other Class
+members pursuant to the D.C. Securities Act, D.C. Code § 31-5606.05(c).
+COUNT VIII
+Violation of D.C. Consumer Protection Procedures Act, D.C. Code § 28-3901 et seq.
+(Against All Defendants)
+380.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud.
+381.
+
+The D.C. Consumer Protection Procedures Act (“CPPA”) is a remedial statute that
+is to be broadly construed. It establishes an enforceable right to truthful information.
+382.
+
+The CPPA prohibits unfair and deceptive trade practices in connection with the
+offer, sale, and supply of consumer goods and services, and establishes an enforceable right to
+truthful information from merchants about consumer goods and services that are or would be
+purchased, leased, or received in the District of Columbia.
+383.
+
+Defendants are “merchants” that provide “goods and services” within the meaning
+of the CPPA. See D.C. Code § 28-3901(a)(3), (7). Crypto apps, wallets, and tokens marketed to
+lay users are “goods and services” within the meaning of the Act. In addition, Defendants offered
+91
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 98 of 106
+and sold non-fungible tokens (“NFTs”) and branded merchandise to consumers, which also
+constitute “goods and services” within the meaning of the CPPA.
+384.
+
+Plaintiff and the Class are “consumers” within the meaning of the CPPA. See D.C.
+
+Code § 28-3901(a)(2).
+385.
+
+Defendants violated the CPPA by engaging in unfair, misleading, and deceptive
+trade practices.
+386.
+
+Defendants’ acts and practices tended to mislead reasonable consumers in the
+District of Columbia, including by creating the false impression that $FJB/$PPY was
+decentralized, secure, and suitable for ordinary consumer use, and that transaction fees labeled as
+“marketing” and “charity” would be used for those stated purposes. In reality, Defendants retained
+centralized control over the Token’s smart contract, wallets, and trading, and used fee-funded
+wallets at their discretion, including for insider and preferential sales.
+387.
+
+As a result, Plaintiff is entitled to all forms of relief provided under D.C. Code § 28-
+3905(k)(2).
+COUNT IX
+Fraud
+(Against All Defendants)
+388.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 303–304 and
+any other paragraph to the extent such allegations are expressly limited to strict liability, negligence,
+fiduciary duty, or other non-scienter-based theories and are construed as alleging negligence
+exclusive of scienter.
+389.
+
+As set forth herein, Defendants made material false representations of fact about
+the $FJB/$PPY Tokens to Plaintiff, other members of the proposed Class, and to the investing
+public generally.
+390.
+
+Defendants knew that those material representations were false when made.
+92
+Case 1:26-cv-00452
+391.
+
+Document 1
+Filed 02/12/26
+Page 99 of 106
+Defendants intended for Plaintiff and other investors to rely on their false
+representations, and they intended to defraud them thereby.
+392.
+
+Plaintiff and other members of the Class reasonably relied on Defendants’ false
+representations to purchase the $FJB/$PPY Tokens at artificially inflated prices.
+393.
+
+As a direct result, Plaintiff and other members of the Class suffered damages.
+
+394.
+
+Defendants’ misconduct involved high moral turpitude and was aimed at the public
+generally.
+395.
+
+Plaintiff and other Class members are entitled to damages and punitive damages in
+amounts to be determined at trial, along with interest, attorneys’ fees, and litigation costs, and such
+other relief as may be available.
+COUNT X
+Negligent Misrepresentation
+(In the Alternative to Count IX, Against All Defendants)
+396.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud.
+397.
+
+Defendants publicly and intentionally represented that they possessed expertise in
+and specialized knowledge about digital assets, token launches, crypto investing, and the
+$FJB/$PPY Token.
+
+By so doing, Defendants incurred a corresponding common law duty to
+impart accurate information about the $FJB/$PPY Token to Plaintiff, other Class members, and all
+other non-insider potential investors in $FJB/$PPY.
+398.
+
+Defendants violated that duty by providing false information about material aspects
+of $FJB/$PPY, upon which Plaintiff and other members of the proposed Class reasonably relied
+93
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 100 of 106
+to purchase the Token at artificially inflated prices. As a direct result, Plaintiff and other members
+of the Class suffered damages.
+399.
+
+Defendants failed to exercise reasonable care in the course of providing and
+communicating false information about material aspects of $FJB/$PPY to Plaintiff and the
+proposed Class.
+400.
+
+Plaintiff and other members of the Class are entitled to damages in an amount to be
+determined at trial, along with interest, attorneys’ fees, and litigation costs and such other relief as
+may be available.
+COUNT XI
+Breach of Fiduciary Duty
+(Against the Executive Defendants)
+401.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud.
+402.
+
+At all relevant times, Defendants Steve Bannon, Boris Epshteyn, Sarah Abdul, and
+Grant Tragni owed fiduciary duties, or at minimum fiduciary-like duties arising from a relationship
+of trust and confidence, to Plaintiff and the Class.
+403.
+
+Defendants assumed such duties by exercising exclusive and discretionary control
+over critical aspects of the $FJB/$PPY ecosystem, including but not limited to: the Token’s smart
+contract; transaction-fee routing; “marketing” and “charity” wallets funded by investor
+transactions; token supply available for sale; liquidity; and the ability to restrict or disable trading.
+404.
+
+Defendants also held themselves out publicly as stewards and protectors of the
+Token and its community, representing that they were acting in the best interests of Token holders;
+94
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 101 of 106
+that they were safeguarding holders against financial exclusion and political persecution; and that
+transaction fees would be used for marketing, charitable causes, and ecosystem growth rather than
+insider benefit.
+405.
+
+Plaintiff and the Class reasonably placed trust and confidence in Defendants based
+on Defendants’ representations of expertise, leadership, alignment of interests, and exclusive
+control over investor-funded wallets and Token operations, while investors themselves lacked
+access to the Token’s code, internal wallet controls, or the ability to independently monitor or
+govern Defendants’ use of funds.
+406.
+
+By virtue of this relationship, Defendants owed duties of loyalty, care, and full and
+fair disclosure, including a duty to act in the best interests of Token holders; a duty to refrain from
+self-dealing and conflicted transactions; and a duty to disclose material facts concerning their
+control, compensation, and use of investor funds.
+407.
+
+Defendants breached these duties by, among other things:
+a.
+
+Engaging in self-interested and conflicted conduct, including conducting
+undisclosed over-the-counter token sales from insider-controlled tax and charity wallets,
+coordinating the timing and source of such sales to manage price impact and confer
+preferential pricing on favored purchasers;
+b.
+
+Misusing investor-funded wallets, including selling tokens from wallets
+represented as charitable or marketing-related, and exercising discretion over those wallets
+in a manner inconsistent with Defendants’ public representations;
+c.
+
+Concealing material conflicts of interest, including the investor-funded
+nature of Defendants’ acquisition and compensation, insiders’ exemption from transaction
+fees, and Defendants’ ability to control liquidity and trading;
+95
+Case 1:26-cv-00452
+d.
+
+Document 1
+Filed 02/12/26
+Page 102 of 106
+Exercising centralized control over the Token while simultaneously
+representing it as decentralized, censorship-resistant, and immune from insider
+interference;
+e.
+
+Failing to act with due care by neglecting promised promotional efforts,
+ecosystem development, and transparency, despite Defendants’ repeated assurances that
+they were actively and continuously working to build and support the Token; and
+f.
+
+Disabling trading and access to liquidity without adequate disclosure or
+procedural safeguards, while retaining control over investor-funded assets.
+408.
+
+Defendants also breached their fiduciary duties by failing to disclose material facts
+that Defendants had a duty to disclose by virtue of their position of trust and exclusive control,
+including facts concerning wallet control, fee usage, insider sales, and Defendants’ unilateral
+authority over trading and liquidity.
+409.
+
+As a direct and proximate result of Defendants’ breaches of fiduciary duty, Plaintiff
+and the Class suffered substantial damages, including loss of investment value, loss of liquidity,
+and deprivation of the benefit of their bargain.
+410.
+
+Defendants were unjustly enriched by their breaches of fiduciary duty through the
+receipt and retention of transaction fees, token proceeds, and other benefits derived from investorfunded wallets and insider-controlled transactions.
+411.
+
+Plaintiff and the Class are entitled to damages, disgorgement, restitution,
+imposition of a constructive trust over improperly obtained assets, and such other equitable and
+legal relief as the Court deems just and proper.
+
+96
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 103 of 106
+COUNT XII
+Unjust Enrichment
+(Against All Defendants)
+412.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 33, 96, 132, 136,
+163, 209, 235, 302, and 305–29, and any other paragraph to the extent it alleges knowledge, scienter,
+intent, recklessness, concealment, fraudulent scheme, or deliberate deception, including but not
+limited to allegations that Defendants acted “knowingly,” “intentionally,” “recklessly,” or with
+“conscious design,” if such allegations are construed as sounding in fraud.
+413.
+
+As a result of Defendants’ misconduct alleged herein, Defendants were wrongfully
+enriched at the expense of Plaintiff and other Class members, whom they exposed to multiple
+violations of law and significant financial losses.
+414.
+
+Defendants directly profited from the misconduct alleged herein, causing significant
+losses to Plaintiff and other members of the Class.
+415.
+
+Defendants’ profits from these deceptive practices were achieved at the direct
+expense of Plaintiff and the proposed Class, who provided valuable cryptocurrency assets based
+on false price information and materially misleading representations regarding token stability,
+liquidity, profitability, and market valuation.
+416.
+
+It would violate principles of equity and good conscience for Defendants to
+keep the profits they gained from their misconduct. Accordingly, Defendants must disgorge those
+profits to Plaintiff and other Class members.
+417.
+
+Plaintiff and other Class members are entitled to restitution of the full amount
+wrongfully obtained by Defendants, along with interest, attorneys’ fees, litigation costs, and such
+other equitable relief as the Court may deem just and proper.
+
+97
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 104 of 106
+COUNT XIII
+Aiding and Abetting
+(Against Abdul and Tragni)
+418.
+
+Plaintiff realleges and incorporates ¶¶ 1–329 by reference, except ¶¶ 303–304 and
+any other paragraph to the extent such allegations are expressly limited to strict liability, negligence,
+fiduciary duty, or other non-scienter-based theories and are construed as alleging negligence
+exclusive of scienter.
+419.
+
+Under D.C. law, a cause of action for aiding and abetting requires that “(1) the party
+or parties Defendants aided committed [a tort], (2) Defendants were generally aware of their role in
+the tortious activity, and (3) Defendants knowingly and substantially assisted in the [tort].” Kurd v.
+Republic of Turkey, 374 F. Supp. 3d 37, 50 (D.D.C. 2019).
+420.
+
+As alleged above, Defendants Steve Bannon, Boris Epshteyn, and the Entity
+Defendants committed common law fraud by knowingly making materially false and misleading
+statements and omissions in connection with the promotion and sale of the Token.
+421.
+
+Defendants Sarah Abdul and Grant Tragni had actual knowledge of the primary
+fraud or acted with conscious disregard of it.
+422.
+
+Tragni, as the original lead developer of the Token and its smart contract, knew that
+the Token was falsely marketed as decentralized, charitable, and utility-driven, while insiders
+retained centralized control over wallets, transaction fees, and trading.
+423.
+
+Abdul, acting as a senior administrator and spokesperson under the alias
+“sundevil28,” was aware of undisclosed OTC sales, insider wallet activity, and the misuse of
+marketing and charity wallets, and communicated directly with investors in a manner designed to
+conceal those facts.
+424.
+
+Abdul and Tragni knowingly provided substantial assistance to the fraud by, among
+other things:
+98
+Case 1:26-cv-00452
+Document 1
+Filed 02/12/26
+Page 105 of 106
+a.
+
+administering and controlling wallets used to collect and sell Tokens;
+b.
+
+facilitating undisclosed OTC sales and preferential transactions;
+c.
+
+advising on how to sell Tokens to avoid price impact;
+d.
+
+providing reassurances to investors designed to lull them into holding or
+purchasing Tokens;
+e.
+
+concealing the true use of marketing and charity fees; and
+f.
+
+reinforcing false narratives of decentralization, stability, and insider
+commitment.
+425.
+
+Abdul’s and Tragni’s conduct were a substantial factor in causing Plaintiff’s and
+the Class’s injuries. As a direct and proximate result, Plaintiff and the Class suffered damages.
+PRAYER FOR RELIEF
+WHEREFORE, Plaintiff, on behalf of himself and the Class, respectfully request that this
+Court enter judgment in their favor, and against Defendants, awarding the following relief:
+A.
+
+Determine that this action is a proper class action and certifying Plaintiff as Class
+representative under Rule 23 of the Federal Rules of Civil Procedure and Plaintiff’s
+undersigned counsel as Class counsel;
+B.
+
+Declare that Defendants violated the federal securities laws, the D.C. Securities
+Act, and the D.C. Consumer Protection Procedures Act;
+C.
+
+Enjoin Defendants from further violations of the securities laws and from offering
+or selling digital assets without proper registration or disclosure;
+D.
+
+Order Defendants to disgorge all ill-gotten gains, including proceeds from Token
+sales, transaction fees, and insider benefits;
+99
+Case 1:26-cv-00452
+E.
+
+Document 1
+Filed 02/12/26
+Page 106 of 106
+Rescind Defendants’ unlawful sales of $FJB/$PPY Tokens and order restitution of
+all consideration paid by Plaintiff and the Class, or award rescissory damages;
+F.
+
+Award Plaintiff and the Class compensatory damages in an amount to be proven at
+trial, together with pre- and post-judgment interest;
+G.
+
+Award Plaintiff and the Class exemplary or punitive damages;
+H.
+
+Award Plaintiff and the Class reasonable costs and attorneys’ fees; and
+I.
+
+Award such equitable, injunctive, or other relief as the Court may deem just and
+proper.
+DEMAND FOR JURY TRIAL
+Plaintiff demands that this case be tried to a jury.
+
+Dated: February 12, 2026
+Respectfully submitted,
+/s/ Eric S. Rosen
+Eric S. Rosen (SBN NY0671)
+Constantine P. Economides (pro hac vice forthcoming)
+Yusef Al-Jarani (pro hac vice forthcoming)
+DYNAMIS LLP
+175 Federal Street, Suite 1200
+Boston, Massachusetts 02110
+(305) 985-2959
+ceconomides@dynamisllp.com
+erosen@dynamisllp.com
+yaljarani@dynamisllp.com
+Counsel to Plaintiff and the Proposed Class
+100

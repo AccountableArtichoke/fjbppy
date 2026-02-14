@@ -1,0 +1,30 @@
+ news.bloomberglaw.com
+Bannon, Trump Aide Sued Over Let’s Go Brandon Coin Promotion (1)
+Gillian R. Brassil
+3–4 minutes
+
+Steve Bannon and President Donald Trump advisor Boris Epshteyn were hit with a proposed class action alleging they promoted a cryptocurrency as stable and decentralized to investors when they really held centralized authority of its trading.
+
+These Trump allies leveraged their prominence and credibility to lure retail investors into buying a digital token initially called Let’s Go Brandon Coin, later rebranded to Patriot Pay, a purchaser told the US District Court for the District of Columbia in a lawsuit filed Thursday.
+
+“Defendants deliberately targeted a politically aligned and deeply loyal audience—individuals who trusted Defendants’ judgment, motives, and commitment to shared values—and encouraged them to invest in the Token as a means of participating in a broader movement,” the complaint said. “Defendants’ conduct was particularly insidious because it exploited that trust to induce purchases of an unregistered, highly speculative asset under the guise of financial independence and community membership.”
+
+The project’s abrupt shutdown in 2025 suggested the defendants knew of its deficiencies and misrepresentations, Andrew Barr’s suit said. Last February, they “disabled trading, announced the project’s closure, and promised liquidity distributions that did not occur.”
+
+Bannon and Epshteyn secretly took over control of the project in 2021, structuring the deal to be financed through retail investors’ transaction fees rather than cash, Barr said. Meanwhile, they touted themselves as “supporters” and “advocates” of the crypto project.
+
+The token, when it was available, saw declining value due to lack of promotion and investor funds’ were mismanaged, Barr said, and the defendants couldn’t account for certain funds purportedly given to charity.
+
+Meanwhile, the defendants had created the impression that holding these tokens offered “a decentralized, censorship-resistant means of avoiding political retaliation such as ‘de-banking,’ ‘disappearing,’ or being cut off from the financial system,” Barr said.
+
+But the tokens’ environment wasn’t decentralized, Barr said, since “control over the Token’s smart contract, fee routing, and key wallets remained centralized in the hands of insiders, and Defendants and their agents retained the practical ability to control liquidity, dictate the Token’s operational parameters, and—ultimately—disable trading.”
+
+Bannon and Epshteyn are one of multiple people and entities related to them that allegedly made and enabled the tokens targeted by the proposed class action.
+
+Barr alleged violations of federal and DC securities laws for offering an unregistered sale of securities, fraud, misrepresentation, and control person liability given executive oversight of the tokens. Barr also alleged a violation of DC’s Consumer Protection Procedures Act.
+
+Dynamis LLP represents Barr.
+
+Bannon and his WarRoom, also a defendant, didn’t immediately respond to an email seeking comment Friday. Epshteyn didn’t immediately respond to a request for comment sent through LinkedIn.
+
+The case is Barr v. Bannon, D.D.C., No. 1:26-cv-00452, complaint filed 2/12/26.

@@ -44,4 +44,33 @@ Recipient [TEXT]
 Amount: [NUMBER]
 Evidence: [UUID]
 
+UUID: [UUID]
+Type: Publication
+Date: [DATE]
+Source: [URL]
+WebArchive: [URL]
+LocalArchive: publications/[DATE]%20[UUID]
+Publisher: [TEXT]
+Author: [TEXT]
+
+UUID: [UUID]
+Type: LEGALDOC COMPLAINT
+Date: [DATE]
+Source: [URL]
+WebArchive: [URL]
+LocalArchive: filings/[DATE]%20[UUID]
+Court: [TEXT]
+Case Number: [TEXT]
+Jurisdiction: [STATE/FEDERAL]
+Plaintiff: [TEXT]
+Plaintiff Counsel: [TEXT]
+Defendant: [TEXT]
+Defendant Counsel: [TEXT]
+Cause of Action: [TEXT]
+Cause of Action: [TEXT]
+Relief Sought: [TEXT]
+Relief Sought: [TEXT]
+Damages Claimed: [NUMBER/UNSPECIFIED]
+Filing Fee: [NUMBER]
+
 ##############

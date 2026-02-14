@@ -1441,3 +1441,102 @@ Platform:
 Audio File: 
 Transcript: transcripts/2025-01-31%2050CA4D79-D6AB-49F3-AE99-8A680299F6CE.txt
 Summary: 
+
+~~~~~~~~~~~~~~
+2025 FEBRUARY
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 MARCH
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 APRIL
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 MAY
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 JUNE
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 JULY
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 AUGUST
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 SEPTEMBER
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 OCTOBER
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 NOVEMBER
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2025 DECEMBER
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2026 JANUARY
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+2026 FEBRUARY
+~~~~~~~~~~~~~~
+
+UUID: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0
+Type: LEGALDOC COMPLAINT
+Date: 2026-02-12
+Source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.289360/gov.uscourts.dcd.289360.1.0.pdf
+WebArchive: https://web.archive.org/web/20260214200421/https://storage.courtlistener.com/recap/gov.uscourts.dcd.289360/gov.uscourts.dcd.289360.1.0.pdf
+LocalArchive: filings/2026-02-12%203D8EEBE5-3173-4391-AC4D-98D61F8233D0.txt
+Court: United States District Court for the District of Columbia
+Case Number: 1:26-cv-00452
+Jurisdiction: FEDERAL
+Plaintiff: Andrew Barr, individually and on behalf of all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, Constantine P. Economides, Yusef Al-Jarani — DYNAMIS LLP
+Defendant: Stephen K. Bannon; Boris Epshteyn; Sarah Abdul; Grant Tragni; Let's Go Brandon Coin LLC; Patriot Pay LLC; Warroom LLC; 354 Nod Hill LLC; TWinds LLC
+Defendant Counsel: UNSPECIFIED
+Cause of Action: Unregistered Offer and Sale of Securities (Securities Act §§ 5, 12(a)(1)); Fraud (Exchange Act § 10(b), Rule 10b-5); Control Person Liability (Securities Act § 15; Exchange Act § 20(a))
+Cause of Action: Violations of D.C. Securities Act (D.C. Code § 31-5606.05); D.C. Consumer Protection Procedures Act (D.C. Code § 28-3901 et seq.); Common Law Fraud; Negligent Misrepresentation; Breach of Fiduciary Duty; Unjust Enrichment; Aiding and Abetting
+Relief Sought: Class certification; rescission or rescissory damages; compensatory damages; disgorgement of ill-gotten gains; injunctive relief
+Relief Sought: Punitive/exemplary damages; pre- and post-judgment interest; attorneys' fees and costs; declaratory relief
+Damages Claimed: UNSPECIFIED (named plaintiff ~$58,731; class aggregate exceeds $5,000,000)
+Filing Fee: 405
+
+UUID: 52FD4379-33D5-4D51-A07D-2DF9D9E177FF
+Type: Publication
+Date: 2026-02-13
+Source: https://news.bloomberglaw.com/class-action/bannon-trump-aide-sued-over-lets-go-brandon-coin-promotion
+WebArchive: https://archive.is/djhyh
+LocalArchive: publications/2026-02-13%2052FD4379-33D5-4D51-A07D-2DF9D9E177FF.txt
+Publisher: Bloomberg Law
+Author: Gillian R. Brassil
+
+UUID: DC5322C0-EC90-48E5-BBD3-1B0F86E908ED
+Type: Publication
+Date: 2026-02-13
+Source: https://www.investmentnews.com/regulation-legal-compliance/legal-investors-sue-ex-goldman-sachs-banker-bannon-over-alleged-crypto-fraud/265286
+WebArchive: https://archive.is/yz1Iw
+LocalArchive: publications/2026-02-13%20DC5322C0-EC90-48E5-BBD3-1B0F86E908ED.txt
+Publisher: InvestmentNews
+Author: Tez Romero
+
+UUID: 5548AAF5-7CCB-4F4D-B768-FAC1591090D5
+Type: Publication
+Date: 2026-02-13
+Source: https://www.reuters.com/legal/government/bannon-epshtyn-hit-with-investor-class-action-over-patriot-pay-cryptocurrency-2026-02-13/
+WebArchive: https://archive.is/aqdDZ
+LocalArchive: publications/2026-02-13%205548AAF5-7CCB-4F4D-B768-FAC1591090D5
+Publisher: Reuters
+Author: Mike Scarcella

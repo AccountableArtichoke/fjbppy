@@ -1,0 +1,31 @@
+investmentnews.com
+
+Legal: Investors sue ex-Goldman Sachs banker Bannon over alleged crypto fraud
+Tez Romero
+6–7 minutes
+
+Frozen wallets, missing millions, and undisclosed insider fees fuel the allegations.
+
+Steve Bannon, a former Goldman Sachs investment banker, faces a class action alleging he ran a crypto fraud scheme targeting retail investors.
+
+The lawsuit, filed on February 12, 2026, in the United States District Court for the District of Columbia, accuses Bannon, Georgetown Law graduate Boris Epshteyn, and several other individuals and entities of promoting and selling unregistered cryptocurrency tokens while concealing material facts about the tokens' risks, governance, and economics. The case is Barr v. Bannon et al., Case No. 1:26-cv-00452. No determination of liability has been made.
+
+According to the filing, in or about December 2021, Bannon and Epshteyn acquired governance and administrative control of a token called "Let's Go Brandon Coin," or $FJB, through a private, undisclosed agreement — without paying any purchase price. Retail investors allegedly financed the acquisition through embedded transaction fees: an 8% levy on every transaction, split between a 3% "marketing fee" and a 5% "charitable donation." The 3% marketing fee was allegedly not tied to any marketing activity. Instead, the filing claims it functioned as a mechanism to compensate the token's original founders for transferring control to Bannon and Epshteyn — using funds generated from retail investor transactions. In addition, 2 billion tokens transferred to the defendants or their affiliates were allegedly whitelisted and exempted from the very fees imposed on ordinary investors. None of these terms were disclosed, the filing states.
+
+The defendants' Wall Street pedigree was central to the pitch. The token's whitepaper identified Bannon as a Harvard Business School graduate and former Goldman Sachs investment banker, and Epshteyn as a Georgetown Law graduate — credentials that, according to the filing, were intended to signal active insider oversight and sustained commitment to building the project.
+
+On December 7, 2021, Bannon appeared on The Culture War podcast hosted by Tim Pool. He allegedly promoted the token while presenting himself as a neutral observer, encouraging listeners to "look at your own digital sovereignty" and "other stores of value," and framing the token as a safer alternative to fiat currency. At no point during that appearance did Bannon disclose that he had already acquired ownership and control, the filing alleges. When Bannon and Epshteyn jointly announced the token on their War Room podcast on December 23, 2021, its price allegedly surged approximately 267% in a single day, accompanied by a roughly 739% spike in trading volume.
+
+According to the filing, the charitable claims did not hold up. Despite a 5% fee on every transaction purportedly earmarked for veterans and first responders, the defendants allegedly spent only an additional $15,000 on charity after taking over — despite millions of dollars' worth of transactions by that time. An estimated $2.7 million in transaction fees remains unaccounted for, the filing states. Funds routed to wallets labeled as charitable or marketing-related were allegedly used, at least in part, for insider-directed token sales and other purposes unrelated to charity or promotion.
+
+The project's trajectory, as described in the filing, followed a pattern of alleged abandonment, reassurance, and collapse. On February 13, 2023, after months of silence, defendant Sarah Abdul announced to the $FJB Discord community that Bannon and Epshteyn had decided to walk away. The following day, the token's price fell approximately 67%, accompanied by a roughly 1,575% surge in trading volume. Defendants later reversed course with public reassurances.
+
+In December 2023, the defendants allegedly activated a backdoor locking mechanism to freeze investor wallets while exempting their own. The token was rebranded as "Patriot Pay," or $PPY, and migrated to a new blockchain architecture that the filing claims preserved insider control through a proxy smart-contract structure — allowing the defendants to unilaterally modify the token's rules without holder consent.
+
+On February 12, 2025, the defendants allegedly disabled trading and announced the project's closure, promising that the liquidity pool would be distributed within seven days. No such distribution occurred. The token's value collapsed to near-zero levels, rendering most investors' holdings effectively worthless.
+
+The filing raises questions that reach well beyond the specific facts of this case. It applies the Howey test to argue that the $FJB/$PPY tokens constituted investment contracts — and therefore securities — under federal law. The claims span 13 counts, including violations of the Securities Act of 1933, the Securities Exchange Act of 1934, the D.C. Securities Act, and the D.C. Consumer Protection Procedures Act, as well as common law fraud, negligent misrepresentation, breach of fiduciary duty, unjust enrichment, and aiding and abetting. The aggregate amount in controversy exceeds $5,000,000.
+
+For wealth management professionals and advisors whose clients may be exploring politically branded or influencer-promoted crypto investments outside managed portfolios, this case reads as a catalog of alleged red flags: undisclosed insider control, embedded fees functioning as disguised compensation, charity claims that allegedly did not withstand scrutiny, centralized wallet authority marketed as decentralization, and a smart-contract architecture that allowed unilateral rule changes. The regulatory gap surrounding digital asset offerings remains wide — and cases like this one underscore how costly that gap can be.
+
+A jury trial has been demanded.
