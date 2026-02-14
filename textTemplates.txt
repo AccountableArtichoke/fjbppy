@@ -1,0 +1,16 @@
+`TEXT TEMPLATES`
+
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+
+UUID: [UUID]
+Type: [VOICE UPDATE]
+Date: [DATE]
+Speakers: [1], [2], [3]
+Platform: [DISCORD], [TELEGRAM]
+Audio File: [URL]
+Transcript: [URL]
+Summary: [TEXT]
+
+##############
