@@ -1,0 +1,1135 @@
+`Text Templates`
+
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+
+Date: [DATE]
+Type: [VOICE UPDATE]
+Speakers: [1], [2], [3]
+Platform: [DISCORD], [TELEGRAM]
+Audio File: [URL]
+Transcript: [URL]
+Summary: [TEXT]
+
+##############
+
+`TIMELINE`
+
+~~~~~~~~~~~~~~
+NOVEMBER 2021
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2021-11-15
+Speakers: Grant Tragni, Ryan Fournier
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/0NUCFLYT#FMbkyd-YaqhUUkmXvQdnHd4BVD-REQPJNDurKs9xsjc
+Summary: Ryan Fournier, founder of Students for Trump with over 400,000 Instagram followers and personal connections to the Trump family, has joined the FJB cryptocurrency project as a key team member and committed to leveraging his political network to promote the coin to prominent influencers. The three-week-old cryptocurrency has accumulated over 5,300 holders and raised $30,000 for veteran charities including Tunnels to Towers and Wounded Warrior Project, with an active Discord community of over 1,000 daily participants out of 3,700 total members.
+
+Type; VOICE UPDATE
+Title: 2021-11-17
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: https://mega.nz/file/9AF1TJBA#3ACHC2BwiVBMNB7pBWX7dUqXmbGquwBvAW8mzSsri1k
+Transcript: https://mega.nz/file/Ydk3Ga6T#k7rsB3NFJCtTZjE7IKRGaM9mLEeuexlc9zgUXb7pdYQ
+Summary: The FJB cryptocurrency project has secured listings on ProBit exchange scheduled for 1am Eastern Friday and is in final negotiations with WhiteBit exchange, while also having submitted applications to major exchanges including KuCoin, BitMart, and Gate.io. The project has grown to 6,216 holders in 26 days with the development team working on securing media publications and major influencer partnerships that are expected to be announced within seven days.
+
+Type: VOICE UPDATE
+Title: 2021-11-18 (1 of 2)
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/ZYcn0RSS#ln9RBOagLmx1LdOTl04UZZ6-FIP1N01ktErqtAh4HLY
+Summary: The FJB cryptocurrency project has donated $50,000 to charities within its first month, including a $20,000 donation to Helicopters for Heroes, a veterans organization that helps with PTSD and rehabilitation programs. The project leadership has scheduled a call with Newsmax for potential media coverage at 4 PM and is expecting the ProBit exchange listing to go live at 1 AM Eastern, approximately 13 hours from the time of the call.
+
+Type: VOICE UPDATE
+Title: 2021-11-18 (2 of 2)
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/8I8GiYwA#EV9SLROxasukHKbMXuq7NPZ-UducYpRS-7qYKDBVEJY
+Summary: The FJB cryptocurrency project secured media coverage from The Post Millennial with an article expected that night or the following morning, following a Zoom call with Newsmax and the reporter's appearance on Dinesh D'Souza's podcast which received one million views. The project has grown to approximately 6,300 holders with 4,000 Discord members (700 constantly active) and 2,000 Telegram members, while expanding marketing efforts into NFT communities and international markets with ProBit exchange listing scheduled for 1 AM Friday.
+
+Type: VOICE UPDATE
+Title: 2021-11-19
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/FEcxzQzR#5i7JkBYjTqQaqGcQQJrZMiu89ynMPxr3LWFm_dHy7Ps
+Summary: The FJB cryptocurrency project experienced a coordinated sell-off that the leadership attributed to multiple wallets planning a dump, causing a significant price dip despite maintaining 6,299 holders. The project's ProBit exchange listing was delayed due to technical issues with their developers being off on Friday, while The Post Millennial article publication was delayed due to Kyle Rittenhouse verdict coverage taking priority.
+
+Type: VOICE UPDATE
+Title: 2021-11-20 (1 of 2)
+Speakers: Greant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/UF9URR7A#n4QmYweL7vkhSclyDyt8oOl_Qw_Vvr-VKHqiHS1fJWQ
+Summary: The FJB cryptocurrency project received media coverage from The Post Millennial highlighting their $50,000 in charitable donations over 28 days, while the leadership was in discussions with lawyers about undisclosed "huge news" pending finalization. The ProBit exchange listing remained delayed with ongoing communication issues, while WhiteBit exchange with 2 million active traders provided a preliminary listing date of Thursday (Thanksgiving), and the project maintained 6,300+ holders grown entirely through organic growth without purchased followers.
+
+Type: VOICE UPDATE
+Title: 2021-11-20 (2 of 2)
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/BQ8kAQ5S#9emRNU7ljFOCsl2Gui61enGB5wRjjku-lOitNCsqnjQ
+Summary: The FJB cryptocurrency project leader announced a weekly community member recognition program where he would donate $500 of his personal money to a charity chosen by the selected member, with the first $500 going to Breast Cancer Portrait charity chosen by community member Turok. Despite experiencing another "bloody Saturday" price drop typical of weekend trading patterns, the project maintained focus on StockTwits trending campaigns to reach 7,000 holders, with leadership expressing confidence in undisclosed upcoming news while acknowledging swing traders taking weekend profits.
+
+Type: VOICE UPDATE
+Title: 2021-11-21 (1 of 2)
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/tBt1mIxB#Jqp3eMNeFaa5W99Q0UynsNLzR6PW56qJgIJfx-XWxqI
+Summary: The FJB cryptocurrency project reached its 30-day milestone having donated $50,000 to charities, with leadership confirming ProBit exchange listing expected Monday or Tuesday and WhiteBit (2 million US traders) targeted for Thursday/Thanksgiving, while also announcing new meetings scheduled with BitMart and Bittrex exchanges for Monday. The project maintained nearly 7,000 holders with leadership emphasizing the long-term nature of the "Let's Go Brandon" movement tied to political cycles through 2024, positioning it as more than a meme but a sustained political movement that would outlast the current administration.
+
+Type: VOICE UPDATE
+Title: 2021-11-21 (2 of 2)
+Speakers: Grant Tragni
+Platform: 
+Audio File: 
+Transcript: https://mega.nz/file/lYcXhTAZ#Zq4V5wvmq28ohAnfZ-3zuHt4bDIVpagJymdOPFwkiP4
+Summary: The FJB cryptocurrency project reached 6,400 holders after 30 days without being listed on any major exchanges, with Ryan Fournier disclosing he personally owns 5,000 tokens and plans to purchase another 5,000. The project secured sponsorship of a Turning Point USA conference party on December 19th in Arizona with an estimated 1,500-2,000 attendees, where Bryson Gray will perform and major conservative influencers will be present, with QR codes and branding throughout the event.
+
+Type: VOICE UPDATE
+Title: 2021-11-22
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/hRF3FQ5I#F9C4h1RqwPTu7TR8tAS9UbvXLxCFtbOxntLkKTnuuBE
+Summary: The FJB cryptocurrency project planned to donate $15,000 directly to families affected by the Wisconsin tragedy while launching a major marketing campaign including CoinZilla ads across 10 sites and confirmed Gateway Pundit article publication for the following day. The project continued experiencing delays with ProBit and WhiteBit exchange listings despite paid expedited service, while conducting meetings with BitMart and Bittrex exchanges and preparing for sponsorship of both the Grand Young Party event on December 19th and Turning Point USA conference featuring Ted Cruz, Candace Owens, and Charlie Kirk.
+
+Type: VOICE UPDATE
+Title: 2021-11-23
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/MJNVmLKA#QX9Hzg4kCzPaxErAgYiSng3oudUCSf6AGv5MkiDWvaU
+Summary: The FJB cryptocurrency project's major undisclosed news deal remained in final negotiations while the team secured confirmed publication from Gateway Pundit and scheduled a Breitbart interview, with CoinZilla ads across 10 sites still pending launch despite payment. The project planned a Twitter AMA with Ryan Fournier for Wednesday evening before Thanksgiving and continued pursuing a $15,000 donation for Wisconsin tragedy victims while expressing skepticism about GoFundMe platforms due to concerns about funds reaching intended recipients.
+
+Type: VOICE UPDATE
+Title: 2021-11-24
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/MIkmxSTB#CXzm5ZEjeg9vqMonK3hokwXN7z0MwMSoXhSyJoMrlAU
+Summary: The FJB cryptocurrency project leadership expressed extreme confidence in pending major news while confirming Gateway Pundit and Breitbart publications were secured, with the team coordinating a Twitter AMA with Ryan Fournier for early evening targeting 5:30-7PM. The project continued experiencing delays with ProBit and WhiteBit exchanges despite ongoing negotiations with additional exchanges, while leadership emphasized the next seven days through Thanksgiving would be "tremendous" for the project's growth trajectory.
+
+Type: VOICE UPDATE
+Title: 2021-11-28
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/BNVXgRyb#XVN7zlMTF0pLkThH4-H-qB7UtEXzCO1uxfYkAo-Sveo
+Summary: The FJB cryptocurrency project confirmed XT exchange listing for Monday (a US trading platform with 3 million users and $100 billion daily trading volume) alongside a Gateway Pundit article publication scheduled for the same day, while WhiteBit exchange was targeted for Tuesday the 30th. The project leadership, who scheduled LASIK surgery for Thursday, coordinated a major social media campaign targeting journalists including Ian Haworth of the Daily Caller and continued negotiations for paid TikTok promotions to coincide with the exchange listings.
+
+Type: VOICE UPDATE
+Title: 2021-11-30
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/oYsxXabR#VLvVjATDZCtpRrGjdypv7z7mkPB4U_lT9KVb_AknQnI
+Summary: The FJB cryptocurrency project leader delivered an impassioned speech on day 38, revealing the project had grown from 1,000 holders on November 4th to nearly 7,000 holders by November 30th while maintaining $50,000 in charitable donations. The leader promised that by the end of the week, major news would validate his vision that FJB would be one of the few "life-changing" cryptocurrencies among the 10,000 existing coins, positioning it as a historical movement that would be studied in textbooks by 2050.
+
+~~~~~~~~~~~~~~
+DECEMBER 2021
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2021-12-04
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/xZlDwAxa#GKO9YfSV5vZQdwrnvZkrRUGlcBtgoJKjX1N5VQx0jvI
+Summary: The FJB cryptocurrency project experienced a significant price drop alongside broader crypto market declines on day 41 (December 4th), with leadership attributing the selloff to $2.6 billion in 401k liquidations affecting all cryptocurrencies including Bitcoin and Ethereum. The leadership confirmed WhiteBit exchange listing for Monday while emphasizing that the pending major news would be strategically released when market conditions improved, comparing FJB's potential trajectory to Dogecoin's rise from $0.0032 in December 2020 to over $0.70 in 2021.
+
+Type: VOICE UPDATE
+Title: 2021-12-08
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/RIlAXRTJ#GhZA8GALHy57l-Pt_J-tOQpcHNrHtPcS3e7NxFiX8k8
+Summary: The FJB cryptocurrency project distributed 800,000 tokens ($200,000 each) to four community members for their contributions including public sticker campaigns and social media management, while confirming WhiteBit exchange listing was fully paid and signed. The leadership indicated major news would be rolled out within seven days, describing it as bigger than the Tim Pool mention, with Breitbart and Gateway Pundit publications pending as part of a coordinated media strategy that would "all make sense" when revealed.
+
+Type: VOICE UPDATE
+Title: 2021-12-13
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/QF9znBZC#VyVf3tWqXUc0O3lkykuEyFKeVqsLkpiQDX2LB5PSa5A
+Summary: The FJB cryptocurrency project confirmed their signed deal was complete with announcements pending within days, while the team worked on KuCoin exchange listing negotiations through contact "Mei Lang Wang" and struggled with technical issues on XT.com where $5,000 in Bitcoin remained stuck. The project launched their new website at FJBcoin.org with updated red, white, and blue branding, while leadership distributed hints about the upcoming news through images and emphasized that the rollout required significant backend preparation and funding to execute properly.
+
+Type: VOICE UPDATE
+Title: 2021-12-15
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/ZZVglJRZ#q34HRnferFFZmiAlYmDE1QtlIphoWDzhC5wtTFZmxLw
+Summary: The FJB cryptocurrency project launched an NFT auction created by community member Nonarchist with proceeds going to St. Jude's Children's Hospital, running until December 22nd at noon Eastern, while distributing 1 million tokens nightly including 250,000 each for Omegle promotional campaigns. The leadership reported continued work on KuCoin exchange listing through legal review processes and expressed frustration that the major news announcement remained delayed due to compliance issues despite being "two steps forward, one step back" for weeks.
+
+Type: VOICE UPDATE
+Title: 2021-12-17
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/9RcQQZwR#5ReInv-j1tmFbMl-tR082sg1Pgu27TgUqr-inpcxlZk
+Summary: The Discord voice transcript from December 17, 2021 documents a cryptocurrency project leader announcing a $5,600 donation to Semper Fi charity which was matched to total $11,200, marking day 56 of their project with cumulative charitable donations reaching approximately $58,000. The speaker discusses ongoing community engagement, confirms their continued involvement despite ownership changes, and maintains enthusiasm for the "Let's Go Brandon Coin" cryptocurrency project while addressing holder concerns about project legitimacy.
+
+Type: VOICE UPDATE
+Title: 2021-12-19
+Speakers: Grant Tragni
+Platform: Discord (FJB)
+Audio File: 
+Transcript: https://mega.nz/file/5RFARLaS#Oa3jAdjjcbkT9HtbbA0D9bWSVuTbR88PItS4Lj3eiIw
+Summary: The Discord voice transcript from December 19, 2021 reveals the former president of the Let's Go Brandon cryptocurrency project confirming he sold ownership on December 2nd but remains actively involved as a community liaison and spokesperson, while emphasizing that major news from unnamed "big name" public figures is imminent before Christmas. The speaker distributed one million FJB tokens to community members during the session and defended the project's 58-day timeline against criticism, comparing it to Bitcoin's 30% decline and noting that Dogecoin took years to achieve success.
+
+~~~~~~~~~~~~~~
+JANUARY 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-01-06
+Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/9UsWlR6a#elSPK-_i8uPJMXirTSkyvbyD09i4cLndDhbTTcV4t6M
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-01-18
+Speakers: Grant Tragni, Erik Finman
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/VVdTBZ4S#IXo_RydzgJ5o28lgaH7f9y1qxLPIy7xHPxUOR1z6gwg
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-01-20
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/pRlwwJzC#VGzUlDN7vHGSwVdW3JHZoAcaDPBKGyXu2fb0VMm9XIo
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-01-23
+Speakers: Grant Tragni, Erik Finman, Ryan Fournier
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/YI112ZCQ#CPV9gK4XdOVp3dHeU9Hq-dm9IXyxCZwLBlZGJOdClxs
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-01-23
+Speakers: Grant Tragni
+Platform: Telegram
+Audio File: 
+Transcript: https://mega.nz/file/5ckjSChK#7JXgLN0pywmwU8iiBT_yxy3D7kOgLJQ3Q5lwcHe4Ydw
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-01-27
+Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/dFFjzZAJ#qr0irKwVh4Gjub91hFc6oex3T5iQNigIbIFEfVJ6ek8
+Summary: 
+
+~~~~~~~~~~~~~~
+FEBRUARY 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-02-02
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/1RNFFBhI#PEkLcHfyaBM7PqqC6FHUfdGlBr0TkRsZj6twDDq3NTY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-02-07
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/dZ9DHJ4D#FDaZzfL2WAs_2CvUzjsES_NcAnawNlYZb095yj2LzhI
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-02-07
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/pFciFRbZ#2LBBZy7ZPLlKhDWOc2tFX3nc55BWVKQKkIUt7sDOFZY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-02-08
+Speakers: Grant Tragni, Erik Finman
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/wR1GFLxK#ePUC0k7v9PRLhqK_qNETFDU3IqV0PmvskrUwDb_-nE4
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-02-21
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/YRcjyCwa#e2p5MV4bnnVwgG66RyXtbgN1JUWv_zTi_y_c8I7vJcE
+Summary: 
+
+~~~~~~~~~~~~~~
+MARCH 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-03-04
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/hMtCmTRD#0NgN2y5hsemwV2CH5_CB3may7qLUMGmo4eqofI0_JLY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-03-08
+Speakers: Grant Tragni, D0nni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/JdlRSB7J#cRrc4HJrU-MqsOhnSwVN_PzwUNJPZm_uivVaSiyqCcI
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-03-16
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/IFEUXbbC#nZ0jHEGK6y9IgnX8Yvu91PQDfne-ZtDn4I_kM76_HQc
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-03-29
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/BddFCZCD#oNE-m7h5hfH0Lg0flB_i8bimHRg_rQJ0T7rtcKMtBfc
+Summary: 
+
+~~~~~~~~~~~~~~
+APRIL 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-04-18
+Speakers: Grant Tragni, Erik Finman
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/cUkRkAaR#m7KChQzOx3vLyoNXCSJz9XyRjtsTWUqBeLztjcaFKA8
+Summary: 
+
+~~~~~~~~~~~~~~
+MAY 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-05-09
+Speakers: Grant Tragni, Erik Finman
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/EANXxKKT#fKoRTxV8_BBRK1F7BEmS3a8fcNS5qPPnkBuA31lCL5Y
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-05-11
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/UIMw1CgQ#I4Vh_AihLC0sIhNpl-UXB29nLze3kyYI676hIb3K-Mo
+Summary: 
+
+~~~~~~~~~~~~~~
+JUNE 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-06-01
+Speakers: Erik Finman
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/kc9VFaCY#m-x-RRKQTusUteDJmDQrHhriGhEmzJGlAsoaPQfa1Rg
+Summary: 
+
+~~~~~~~~~~~~~~
+JULY 2022
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+AUGUST 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-08-19
+Speakers: Grant Tragni, Erik Finman
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/gMsSDLrB#L544BqLij7vzQmU2VEhKg4Y9j4SCeTR7UMtt78ljkeI
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2022-08-25
+Speakers: Grant Tragni, Erik Finman
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/oV1wHZKa#p64IkcNpNpd5S-XsC87J561fIN-mv3mise-jnWWBYHM
+Summary: 
+
+~~~~~~~~~~~~~~
+OCTOBER 2022
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+NOVEMBER 2022
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2022-11-06
+Speakers: Grant Tragni
+Platform: Discord
+Audio File: 
+Transcript: https://mega.nz/file/gMkwBCTR#bFQvSg2kt8tVFYVDgrKQ1ZJtX-s6v4IRHmPbDdIZahg
+Summary: 
+
+~~~~~~~~~~~~~~
+DECEMBER 2022
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+JANUARY 2023
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2023-01-05 FJB Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/AF0xESpA#O66xJbsLrqJnzGQG6eA8S9Sy1s-K1y2ej1ajCwYxe2g
+Summary: 
+
+~~~~~~~~~~~~~~
+FEBRUARY 2023
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+MARCH 2023
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+APRIL 2023
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+MAY 2023
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+JUNE 2023
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+JULY 2023
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+AUGUST 2023
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~
+SEPTEMBER 2023
+~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~
+OCTOBER 2023
+~~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2023-10-27 FJB Discord Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/YF8U0Syb#IgLuR3c7S0qE_LJ-wANzDpxSw80HIXlwDWEITNKO4oM
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-10-31 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/lckw3Kob#Zoaq-091-J3LAy1YHtvsQ7Hhs1p3U5sP54C1qd26ZDE
+Summary: 
+
+~~~~~~~~~~~~~~
+NOVEMBER 2023
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2023-11-04 FJIB Discord Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/QFVjzIQY#HyJgT2Qt5pjfB8bzI39dzb2s-3AJkC_xFxRDm1gXBg4
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-11-07 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/sQ1T2bIa#l1-vp1vi97zxUXQ81JDe9Nemq1dShYiK-BPML_PcGfY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-11-10 FJB Discord Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/ZZ81lKrY#nFwojD8719uzM0tyVVemmKgw46-uoNBzYTURWmkAQEM
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-11-14 FJB Discord Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/pJ8lyDaA#8gU7zkfX0wA7f-Vbhc1uiuebyFZZ43GcOexzEUrdnZk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-11-18 FJB Discord Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/EZMmhTiT#vp8UBTsOzAl6zUA8ESY51d55k6Z8BQD8Wmo8Q8Ze0os
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-11-21 Telegram Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/kJV3DIqL#ad7uBi-1nNEh5RplxfkBo_GfElfD3hyIxoh43GlbI_U
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-11-25 FJB Discord Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/ER1GQbTa#UxDrCaEtc7EX-TJGd9yXV3uZs3nOBNQmzswwdnRGCyc
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-11-29 Telegram Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/dQtAiY7J#JJQO_VYwRqU02bwLsaja1QOL743_g3ui_I99zIv6Yf8
+Summary: 
+
+~~~~~~~~~~~~~~
+DECEMBER 2023
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2023-12-01 FJB Discord Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/NM9z3S6A#m0MDwyLvTO13ezdozDJNldW30mBRYN_WehWJquMt5l0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-12-05 Telelgram Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/5UFVHI5a#lvGQyn8yJBDCp_bUyLUSF16ruevMz5U3u4UWbsRPjuc
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-12-18 Telegram Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/4QNmgDjR#oekklyJ9TMrHKmoqItu40vcXW8NkVbjpCeRHyr4DIZo
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-12-22 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/AFl0FDyJ#GMqhBO-GCJEpP9fcvxPvnT25JqijytC8kyOiiTIF-zM
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-12-27 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/pQ1zQTZK#HcgCQw6ptrpL1WrlLHmy34kLBPcQs7d4N8H9_tQqztk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2023-12-29 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/1Msy0aYK#-Xf658vkdyvM61LnEBijlN7sB9-5-njGJRI7i_0757A
+Summary: 
+
+~~~~~~~~~~~~~~
+JANUARY 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-01-02 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/VIsX3DhB#tvw2wGg6OgJghlIIIv6ogxRlMDmHp9hSIUSkUprNTjc
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-01-09 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/Mc8EEIaK#5egTJhQ1aDpJlcMY484ST8iN_PxtgTFZBC836QkctD0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-01-19 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/YAkWiAZA#zzfjAWZPBPcoeSuHCOzb7JApg2FgJ0uSkh7nUCtaSyE
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-01-23 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/VFM2FShA#sM5UaLZdB0dyMfJA-Cc3JKVXjMc0uhRxsjE_9C9GHZA
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-01-30 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/0M8DCJTA#75F_G5syEJQP9WW8ReZDG8W_11aF0SFS2ozFuP36GE0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-02-02 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/kRlHUa6C#H6DmrERinlh8tZFMBI3a-KLyM6bjOwn3ndPKE2a11SI
+Summary: 
+
+~~~~~~~~~~~~~~
+FEBRUARY 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-02-05 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/IQclzBhL#ODnMKBgoveEBBl1vGNqFtS4qajlLUxlXrDXlC_kVVds
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-02-09 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/MZ9zwbQY#59BisxvTtSthFjdiTCxjjl3vLTRSuVQi-dSgW4Z814c
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-02-13 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/ABVVDZpQ#CRRRsKE-FrqC3nZRiZGPvbczi4dcvtVrJxgLBANsksA
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-02-16 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/BBVmVA5D#-KogbTIXIsm1_nzTskQDFEwI-SUv3oOFduhoa6LmOIs
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-02-20 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/4YVlwJAS#mlIkhqApXq3CUSycV7VExoVEu5eptPVxaSmAmbmJVGw
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-02-27 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/IMMXmSQb#EcVX6_Ti4YbUh5Zxi4HBJT22YZ3_ge9JFN5mZ7TmFSE
+Summary: 
+
+~~~~~~~~~~~~~~
+MARCH 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-03-01 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/gM83VIQJ#fjJ0ETzkQixPjOQ2qpd0Ie4Sd_LFqLRasrMIEt4xGP4
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-03-05 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/QVcByCKR#Zmpw2klKoIsHpAx63auvLMQHJWXzAaRGFkAwDHTkOpk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-03-08 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/JF1RSCzK#H9FGRLowTbSQNizJ218Hxdg-nnhj9fz1B2vO-AJjynY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-03-12 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/8R0WyRbJ#wafygbTBrfbze3osCdPaX42s9F7p0ORRuJkyXWZ2gaY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-03-15 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/tccVzaDS#kUEc9dWgQ-zxiyXWIDySokIWv-lDzJxp9ydDdkCIv98
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-03-19 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/0J0FyC7A#cSrJe9wTlurtwlhnxxuixmUG9xSR-sg0JI51gFxMG6E
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-03-26 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/ldcw2TKJ#bqnhkn-r7LrUnWHkdhg_tMYxjxvTBizXVRdG0vHXFXg
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-03-29 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/YQM3XRqI#EZfwA0yLC-V09hiwSKcrTEA6Pd1xrqtWzpqsVbYANgo
+Summary: 
+
+~~~~~~~~~~~~~~
+APRIL 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-04-02 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/cFU21RLR#7QWj5F1A4Fa3IdnEgPLrMWGeZCkY550Qt8482UaWu2M
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-05 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/YBURkDxY#E_7G_-5BWz7gows5hKm6BvsyNMj_IEL2Z5JymghU_20
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-09 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/cU1UnCbI#liZsot2hK5poZsGfUjVo2xd5_Mf9g9FFLm4onPPDkec
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-12 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/lVdQADpS#EdOy_SwTjsKFcV2ajC5-p1znu7Y5UUmuTg2ejJJXuKA
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-16 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/QQcHgBib#gRj8XZIy0pUNjT_hR6ezfEs3dD0wvggyc6uaKUqcTxk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-19 PPY Voice (Part 1)
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/AUNFmZhT#MiviKByd1gs83ThaSBGQLZnUqJ09JOIJvt7jxUuuIUw
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-19 PPY Voice (Part 2)
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/QBEwBT7Y#pDczUEHicm4FJl_yJ3eDvsLXKHGYVzyEzOte_YxJLzA
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-23 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/FIknwD6A#uk3oVNrRqLSRmJJZ1r9T1JGgEXdB2Se9z31CaJXb27o
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-26 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/QAcSBRiA#KSrubVNEcqvBx3Ovc4tH64eCFmhvJwYPNIWZfANNNuY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-04-30 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/gNch2JTS#YXXvwcz84rba3Pv774HOj_dQwNd1Zy5cQM1EzmyOmeE
+Summary: 
+
+~~~~~~~~~~~~~~
+MAY 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-05-03 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/IJMXQYZD#BxQOPzz95Lm9KwjNRu8RDwOJUdGi-yJ90O43WaYPDXk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-07 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/Yccw3Taa#uqJJIvQYdlSTomNqxemkBLOFIrih789Bco1mCi0uGpw
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-10 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/RAlmXRrT#ilJCYvaPNinKwpk3wnmVZ2Vct_-7d-fZMSFZkuUTu5Q
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-14 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/UNMHwKBA#mvsX17Jsvol0VG1H2dbn3DRKOGSGIVlncTOecTMWHA4
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-17 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/pF0mzZCL#Q861uLK2ggtC1pe8lHxhyNg3qOdQzhvwQ9RLhsedJ-Y
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-21 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/4A8CEYxT#A6J5HVSXfYBrNFaSDmzZldYb_LdabQb6jZLlpbHYtps
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-24 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/9BVRRYDC#tyBPM2pgpjE9w5PVdr_W8TA8f2BMNZEWYAuShQjj5a4
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-28 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/tUEXjRYS#soXMXUIawyuep2GKScDCzKcQneLr4qRWmxN868-d2y4
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-05-31 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/NF1UiQAZ#JKtR8KXO6-E2Pz6IsnFvTlri_8XfMMzm8ErGrwdXkKg
+Summary: 
+
+~~~~~~~~~~~~~~
+JUNE 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-06-04 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/8QEBWAQa#30BXcaMbirWhC9yrz9Z3_ScBZXZaRBtNPxaTMbC36QU
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-06-08 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/pV9z3Iwb#C1DGg-X24L646qCeQqBPTh9OSR1idxAoV_rA3uHuSOA
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-06-11 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/5R0iDDAb#psydbLHsGOl4LDOxch7HBci38MoQHJsPr6duiG8xsyk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-06-14 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/cN8imLzI#ZYBcPq8BB9HzHPOWwe-2IQ6UKt7Q9CElgb4G4d_hgac
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-06-18 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/EIkSkQhD#c9VNzKYbYeyJwwCBlkp1NXDdhOJ_qJY5H0L5gyFxkuI
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-06-21 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/YcdmHYyQ#j1MCATPXVppuhOZv5d2Ly1vUihJRyJ4N4aaumTdvQMs
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-06-28 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/1MMT3SiD#ftu6SPUIq7s4a9SPL0GiZWRpmXUlsvSsiFx5u-zviO0
+Summary: 
+
+~~~~~~~~~~~~~~
+JULY 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-07-04 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/gNdjUSqT#GPLjviYFBcj5mesmuOHn9raH7wOib9-SCW_toMu5NW0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-07-16 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/kBl0hJhA#YPhQELfFHBPCRU5V7a5_jbYPzGOWzHmvlRH9kj-3NMI
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-07-19 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/4Q1hzSSQ#qZG6MbKuqlTHLAwrnjL7olUuZOdBLJtsG6f0oCg3P9o
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-07-23 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/hE02lLBI#bd2NFK4VBsGge9NrhNvfxXr6JHvdf5x7wglHySTnIaQ
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-07-26 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/hZlVWDoS#4X-sMrGAOqJotJUujZvCRTwDgdq9V0B-fAfR95NIQqk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-07-30 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/ddVXgBIQ#GT0GdrCnH--gssUwtsaOEdMrbPLg09dQT-MoN8A8Gxw
+Summary: 
+
+~~~~~~~~~~~~~~
+AUGUST 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-08-02 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/EcsmCSJQ#Hg4vpPvFRBnKCGXLiemdsEoWNjvUDdS4AmTac-P1fEk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-08-06 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/QQUnxSgT#Mju167wElpHJ3a9XJZ2JbAAZV--TIWwO8xW6MRn6gU0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-08-09 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/ddlUBKqa#3z-kfRRabwpPYHCrK33A_LeFdVHAp5Fyv4QVfn1TOZ8
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-08-13 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/lRkVGb7b#-873y82sal0MuA_7FBI0Ap6xYkd3dM_7z9fMqIGlha0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-08-16 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/xMUBQQyb#AJWqr-C7KE9mamJUVQbz7DKogpeehZq5tfY7kmDjXwQ
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-08-27 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/hAdz1YwB#6YHz5c29H2mFftEG_Avv9tnUseloFhYJZsJ4YoMa3pM
+Summary: 
+
+~~~~~~~~~~~~~~
+SEPTEMBER 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-08-30 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/dYcjiaKI#USrpteQ8y_mOqYuXJqWoiyIlHZIis9yDF3GefLp7QLQ
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-09-03 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/UVFzUBpB#h_tH8FIbefEJBpebTOLcQToPHS7jfXA5fvHX6jUWwhk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-09-06 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/VR9EjRZZ#nAfawsyZeEGl5qfnkTKVcRZVCVKFEHhOgQImXKWcAhY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-09-11 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/cB0jADxK#V_8kjxcOaNB21qCx-q7mpER7af9MrngF9oGUQHwu2a0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-09-20 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/UEEFTJza#KuQ9kFqvapnk0GVHi1MEswe3Va2eRa0EkkUdhekh3MY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-09-27 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/xMUUDAoA#nFoO79NlMX2lXo_xrd5s6e1WOWpfJIB831yEONDwHM0
+Summary: 
+
+~~~~~~~~~~~~~~
+OCTOBER 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-10-01 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/xdNRkDBY#bE5-1alex0JOQeQEo9UK2X6ljRlY7FYwZlxXUlr9JK0
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-10-04 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/kYE0mByB#H8GHjGgo8iKVnHU8pIrRexGLr-Tdh2MdBmsfVM0SZs4
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-10-15 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/VIl0yLjb#pitVL4BZoQskSJ7mw0ctiN7drg5-9skTEJltVz9fWPk
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-10-22 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/MIV23ZoZ#nQGAWlUMUPllZwPoNJkBJ1s66LM9PJhV93RV6Hyc5gI
+Summary: 
+
+~~~~~~~~~~~~~~
+NOVEMBER 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-11-12 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/lEU0TDIC#5q-YImXTc4Yt02FxzYxNyQhN-CX94iq-_aJ3bQ9bn2E
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-11-22 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/hBdy3AxJ#LMYMlvf3db4k_biQ_fvqZpLB4qb6bhQYuVSGo_jE7JE
+Summary: 
+
+~~~~~~~~~~~~~~
+DECEMBER 2024
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2024-12-10 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/JAkDWTYR#xRmcc1g1TVPKDqIG0B0qj9SAw39fbrPsrCArrRYLSJY
+Summary: 
+
+Type: VOICE UPDATE
+Title: 2024-12-27 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/5UlxmKIb#hljfns2uInnPUk50agPmywP3hBPby2xT5mhKEPjBxqo
+Summary: 
+
+~~~~~~~~~~~~~~
+JANUARY 2025
+~~~~~~~~~~~~~~
+
+Type: VOICE UPDATE
+Title: 2025-01-31 PPY Voice
+Speakers: 
+Audio File: 
+Transcript: https://mega.nz/file/cdVwwD6K#f56emy_bPKaPHhuI2bOEkByRIEb2V68HhJqEOe8NfrM
+Summary: 
