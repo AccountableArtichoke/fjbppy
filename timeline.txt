@@ -20,13 +20,13 @@ Type: VOICE UPDATE
 Date: 2021-11-17
 Speakers: Grant Tragni
 Platform: Discord (FJB)
-Audio File: https://mega.nz/file/9AF1TJBA#3ACHC2BwiVBMNB7pBWX7dUqXmbGquwBvAW8mzSsri1k
+Audio File: 
 Transcript: https://mega.nz/file/Ydk3Ga6T#k7rsB3NFJCtTZjE7IKRGaM9mLEeuexlc9zgUXb7pdYQ
 Summary: The FJB cryptocurrency project has secured listings on ProBit exchange scheduled for 1am Eastern Friday and is in final negotiations with WhiteBit exchange, while also having submitted applications to major exchanges including KuCoin, BitMart, and Gate.io. The project has grown to 6,216 holders in 26 days with the development team working on securing media publications and major influencer partnerships that are expected to be announced within seven days.
 
 UUID: B41B0003-A9BF-48E5-BF76-D83D40B81C42
 Type: VOICE UPDATE
-Date: 2021-11-18 (1 of 2)
+Date: 2021-11-18
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
@@ -35,7 +35,7 @@ Summary: The FJB cryptocurrency project has donated $50,000 to charities within 
 
 UUID: 4D1751A0-4821-40BB-AA64-5642E4AA7496
 Type: VOICE UPDATE
-Date: 2021-11-18 (2 of 2)
+Date: 2021-11-18
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 

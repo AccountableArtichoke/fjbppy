@@ -1,0 +1,226 @@
+(0:00 - 0:13)
+I tried on different accounts, did not let me get on, it was strange. However, I'm excited to be on Discord. This is, we got 100 people in here right now, even after 33 minutes, so we're on here, on Discord.
+
+(0:15 - 0:28)
+I am fired up. Monday, President's Day, I am extremely excited. Weg, I apologize, but you're not going to get the follow. 
+
+You're going to keep asking, you're not getting it. But happy Monday. It feels like a Sunday, but it's a Monday.
+
+(0:28 - 0:31)
+It's President's Day. I'm feeling great. I hope you guys are feeling great.
+
+(0:32 - 0:52)
+And the reason why I'm feeling great is because I saw the app today. I saw the beta version of the app, looked extremely clean, really nice. And because of that, because you guys have been waiting, I'll show you guys, I'll show you guys some screenshots of what it's looking like, if that's what you guys want.
+
+(0:52 - 1:01)
+So let's see this. Let's see this. Thumbs up if you want to see a little sneak peek.
+
+(1:03 - 1:24)
+Yeah, that's the right peak. Look at that. Let's see if we can get it. 
+
+Oh, wow. 15. It's a lot of thumbs up. 
+
+So you guys want to see a sneak peek, which is, which is great. Let's see this thing. Let me open, let me get these screenshots. 
+
+Let's see this. Do do to do this thing is awesome. I was well, I was looking at it before it was sick.
+
+(1:25 - 2:17)
+We were on a call before looking at this. I don't know why I'm trying to post it here, because I had a whole thing set up on my desktop that I was going to show you guys. While doing the getter live, I was gonna do the getter on my phone, show you guys on the computer. 
+
+I was so excited. And I was like, well, I was just getting frustrated. However, let's see. 
+
+Let's see. Let's see. Thumbs up. 
+
+How many thumbs up we have right now? So thumbs up if you want to say that's 28 thumbs up. That's that's a good amount of thumbs up. Let's see. 
+
+Right. All right. All right. 
+
+You guys want to see some sneak peeks? How about this? I'll show you right here. Take a second. It's hard. 
+
+Let me do this. Everybody's Yes. Did somebody turn on slow mode? Because I feel like it's getting a little bit fast in here.
+
+(2:17 - 2:28)
+Feels like it's getting a little bit too fast. I think slow mode is on. And whatever. 
+
+Look at this. How about take a look at this. I will send a handful.
+
+(2:30 - 3:35)
+I'll say I'll put it I'll put it in announcements just because they'll probably get lost if it's this. To make it easier for you guys. And this on my phone. 
+
+So. See sneak peek of app. I spelled peak wrong. 
+
+You know what I think I did before. P-E-A-K because that's how I'm going to spell it. It's a mountain peak. 
+
+Yeah, it's a mountain peak. Not the best speller, but that's all right. A pretty dang cool crypto coin. 
+
+So I can I can do without spelling. All right, everybody. Take a look at some of these screenshots. 
+
+They are not in order. However, we were going through this through this testing. Go look at that. 
+
+I'll send in the telegram as well. I add multiple pictures, that one, that one, that one, and that one. Sneak peek of the app.
+
+(3:39 - 4:42)
+Just sit there too. If anybody wants to take a look, anybody wants to see how it looks. I'm just going to show you those first couple of pages right there. 
+
+Then I'm going to go through. Let's see if that sent. Did that send? Do you guys all see that in the announcements? Hey, yep, yep, yep. 
+
+We got some reactions. It looks pretty clean, huh? Yes, exactly. The front end is going to be a lot cleaner, but this is the placeholder. 
+
+I think it looks fantastic. Yeah, we wanted to post the code. It's just the beginning. 
+
+It's an open source code right here. Just wanted to show you guys that this is legitimate because I know that if we just sent the pictures of the app itself and some people would just say, hey, that was just photoshopped. You guys are not actually working on the app. 
+
+I've seen people do that. I've seen people say that stuff. Instead, instead, instead, instead, I wanted to show you alongside with the code.
+
+(4:42 - 5:01)
+What do you guys think of it? Do you guys like it? Yeah, exactly. Was that photoshopped code too? I know people are going to say that as well. We have doubters. 
+
+That's fine. Just wanted to keep my word and to say that we are working extremely hard. The team is working extremely hard.
+
+(5:03 - 6:59)
+Basically, what's going to happen because I think I'm just going to address this. There's been a lot of questions, a lot of questions on how it's going to work, and I don't think I've had one consolidated space where I've said this. The flow is going to be as follows. 
+
+You're going to get your FJB coins by using USD, so just US dollars, a credit or debit card, or your bank. That's going to get sent through our on-ramp. Then we're going to have this custom token bridge, which is going to purchase BUSD, which is the BNB stablecoin. 
+
+That's going to swap with BNB. It's going to swap on the BSC, that Binance Smart Chain. That's going to purchase. 
+
+You're going to get your FJB through PancakeSwap, which gets deposited. It sounds like a complicated process, and it might sound like a complicated process to you guys, or just hearing it out loud without seeing it on paper. What this is doing is this is basically taking decentralized finance and centralized finance and combining the two. 
+
+We're going to be using decentralized finance because that's what we're here for. We love DeFi. We love DeFi. 
+
+What we're doing is we're connecting that to centralized finance by using a bank or a credit or debit card. What the cool thing is it's going to do is it's going to happen instantly. The same way that you go online shopping, you're going to do that. 
+
+Once you click send, it's going to work on the back end, and it's going to filter through that whole process of grabbing BUSD and swapping it on the BSC. Then boom, you're going to have FJB in there. It's going to be pulling from that LP. 
+
+It's going to be pulling from that FJB. If you already have your coins in Pancake and you say, you know what, I'm good. I don't want to get any more coins. 
+
+That's perfectly fine. You're going to be fine. Whether you have it on any of the exchanges on Pancake, you're going to be fine.
+
+(6:59 - 9:25)
+You're a pre-existing holder. What this is going to do though is it's going to simplify the process tremendously for people that have not got into the coin or the community yet. It's hard. 
+
+It's really hard to buy on PancakeSwap, to buy on even the centralized exchanges that we have, to buy on Politiswap. It's not easy. People with crypto experience can do it, or it might be your first time ever doing crypto. 
+
+You can YouTube it, and it might take you through a 10-minute video, or waiting times with your bank if you want to use MoonPay. This is going to have no wait time, and it's going to go right away. It's going to be simple. 
+
+It's going to be easy. Okay, I see this as well. The tax will be addressed very soon. 
+
+We actually have another call about the tokenomics of the tax coming up too, and you will find out more information shortly. You guys will find out more information. Do not worry. 
+
+This is going to, exactly, exactly, spesh. You got it. It's going to affect, sorry, I was just catching up on some of these. 
+
+It's connected, basically, in short, it's connecting DeFi with the CEX, with centralized, not CEX, but centralized finance, with credit or debit cards, with the banks. The app is going to be awesome, and I wanted to show you guys those screenshots to prove that we are working hard. Most of you guys believe us, but I have seen some posts saying that it's all a facade. 
+
+We're not working on anything, and I just thought that was kind of silly. I will say this, though. I wanted to show you that. 
+
+At the same time, after doing the token testing today, also, we're speaking about the security of the app itself. The security is going to be tremendously safe because of our token bridge. It's going to be our token bridge, and that is going to work with the BSC, the Binance Smart Chain. 
+
+However secure that is, which is one of the most, if not the most, secure chains in all of crypto, in all of DeFi, you guys will have a very, very, very, very safe process. It's the same thing as buying through Pancake, but 10 times easier. That same safety will be going from Pancake to the FJB app.
+
+(9:25 - 11:29)
+However, we had the preliminary date of March 7th spoke about on the call today to ensure that we have no delays because it would be a lot worse if it was March 3rd or March 4th, and we were still testing and still trying to make sure and ensure that this was tremendously safe, ready to go, and ready for the masses, because we are going to be marketing this FedEx. The marketing you will never see before. We will absolutely take every single source, every single stream by storm, and we have to be ready for the masses. 
+
+As you guys have seen, there's been issues with True There's been issues with Getter because it is hard to amass that much usage right away. It's hard to do that. However, because of that, we are doing a testing phase. 
+
+This testing phase right now is what we're doing day in and day out to make sure this is all good, and to make sure that this app is fantastic for you guys, the new start date of the FJB app is March 16th. It is not that much of a delay. It is a nine-day delay, but we are going to use those nine extra days to make sure that everything is going to be crystal clean. 
+
+Yes, the app will be done beforehand, but we want to make sure that this thing works perfectly on our end. It's better to do it right than to say, hey, we're coming out on March 7th, and it comes out, and there's an overload of the number of users because we are getting all of our T's crossed and all of our I's dotted before we come out with it. You're fired up. 
+
+This thing is going to be marketed to the world. It's going to be marketed to the entire country. It's going to be a household name. 
+
+FJB app will be a household name. That's going to be day one. We're having that day one energy.
+
+(11:29 - 12:05)
+That's day one energy, March 16th. I'm thinking of this. Right now, we've been building the foundation. 
+
+We've been building the block since October 22nd. We've been really starting this. We have really been starting this. 
+
+I've been saying you guys are early from the beginning. This is freaking early. This is really early because we don't even have a place where people can get coins easily yet. 
+
+Imagine a time where you can just use a credit or debit card. The time that you download the app to the time that you have FJB, it might take two minutes. What is it now? Sometimes days with waiting for Simplex or Moonpay or XT or LBank.
+
+(12:06 - 12:27)
+Imagine in two minutes. Can you imagine the thousands of people that I've been seeing, that I've been talking to, that have been saying, yeah, just let me know when the app's out. It's absolutely, absolutely. 
+
+I cannot wait. As well as the team. Actually, just think for a second.
+
+(12:27 - 13:29)
+If you just take a step back and just look at the people that are on the team. Boris Epstein, Brian Fournier, Eric Finman, Bernie Kerik. Do you think that this team is pretty calculated? Because I think so. 
+
+For example, Steve Bannon, Boris, we're right in Trump's corner. To the President of the United States. Pretty, pretty, pretty dang exciting to have these guys on our team leading the charge. 
+
+They are extremely calculated and this thing will be done right and this thing will be done absolutely the best way possible. We have built fantastic team. There's an even better community. 
+
+More importantly, the reason that the coin is here and the reason the coin is so strong, the price may be going down. It's because of the community. You guys are the backbone of this.
+
+(13:30 - 15:11)
+Have a fantastic team and even better leadership. Led this country, not even just this coin, they've led this country. They've been assistants. 
+
+They've been advisors. They've been special staff to lead this country, the United States of America, the best country in the world. Now they're leading this coin. 
+
+Can you imagine something better than that? Because that's really, really, really incredible. Website should already be updated with the new start date, March 16th. It's great. 
+
+That is fantastic. What's nine days? What's nine days when we're going to be sitting here talking in 2023, 2024 saying, you remember when the app came out? We don't even remember what day it was. I will because it's going to be a huge day for all of us going to be here today for this community and know that this thing is huge. 
+
+I keep seeing messages saying XT, XT, XT. Absolutely do not worry. Do not be scared. 
+
+We have had constant communication with XT. As you guys have known, XT has had their issues and their problems of their own from the beginning. With the app itself, testing FJB, making sure that everything works well. 
+
+We've been changing things around. Obviously, nothing like too extreme. You know what I mean? Nothing too extreme at all. 
+
+But XT and us just have some miscommunication that is getting solved right now. We are in constant communication. We have been working with XT. 
+
+That would be solved so quickly. Do not worry. We are on them.
+
+(15:12 - 17:26)
+If you guys have been here since the beginning, you know how troubling it can be working with centralized exchanges. It's difficult. It's not easy. 
+
+They work different hours, different languages. So there is a barrier. There is a barrier of communication, and that's what we're working on. 
+
+Do not worry. FJB is not going away on XT. And the truth of matter is we are going all in on the app as well. 
+
+App is the most important. If you have your coins in XT, if you have your coins in LBANK, that's great as well. You're already there. 
+
+Don't worry. Do not be scared. We are going to be perfectly fine. 
+
+This is absolutely amazing. We should be good to go. I saw this with XT. 
+
+We should be good to go. I've been focusing on getting this voice going tonight. I just wanted to bring this day one energy back because I can't wait. 
+
+We've been working tirelessly behind the scenes to get this thing going. We have the process down. The app has been getting tested. 
+
+The token has been getting tested with the app. We are working at a very, very fast rate, a tremendously fast rate in this whole project as a whole. I know when you kind of get stuck in the day-to-day of it, you may think it might be a little bit slow, but look at the zoom out. 
+
+I know that if you say zoom out on the price, you might be a little scared or something like that, but zoom out on the progress of this project because we have done a lot in 100 and what, 15, 120 days. It might seem like a lot of days, but 120 days is only about four months. Not that much time. 
+
+We started this thing late October. No, it's not November. It's February right now. 
+
+We are working. We are working. We are working for you guys. 
+
+You guys. JB app, March 16th. It's going to be mind-blowing. 
+
+It's going to be incredible. It's going to be awesome. Keep having fun. 
+
+Keep pushing. Keep spreading the good word. There's going to be haters out there. 
+
+There's going to be people that doubt us, but that just happens when you're successful. Everybody have a great night. Happy Monday.
+
+(17:26 - 18:46)
+Happy President's Day. I'm going to be hopping on voice again this week. Also, because of JB, because of this coin, I'm actually heading down to Texas this weekend for a charity event, Helicopters for Heroes. 
+
+Remember, we donated back to them, I think two months ago, and they are tremendously excited. We gave their biggest donation of $20,000 to them. I will be actually hog hunting from a helicopter. 
+
+I will make sure to send pictures. I'm going to be fully decked out in FJB gear. We're going to have our logo posted up there. 
+
+It's at Roger Starback's Ranch. If you know Roger Starback, he was the former Heisman winning quarterback at the Naval Academy, and then after that, he went on to play for the Dallas Cowboys, a tremendous legend. He's going to be there. 
+
+I'm going to be rocking my FJB shirt, my FJB, all my apparel. They're going to have banners and posts and things there. I will send as many pictures as possible. 
+
+It's going to be awesome, really going to be awesome. Love you guys. You guys are awesome. 
+
+FJB app, February, not February, March 16th, March 16th, March 16th, February app, February app. I'm all over the place right now. FJB app, March 16th. 
+
+Know that, get excited because I'm really excited. I can't wait. Love you guys.
+
+(18:46 - 18:47)
+Have a great night.

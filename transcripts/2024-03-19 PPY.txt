@@ -1,0 +1,260 @@
+(0:02 - 0:51)
+Recorder gone. Hope everybody had a great weekend. It feels like it's been the longest week already for me. 
+
+I feel like it should be Thursday. But it was a great weekend, super productive, strong week. Our dev is still working on everything. 
+
+We are still waiting on a third party, which is changed now. Something with the API in our app impacting the swaps. So I will keep you updated on that. 
+
+The last update we got from them was this morning, but they are still working on that. So I'll keep you updated on that. As far as a trust wallet, I imagine that'll be the next question.
+
+(0:52 - 1:12)
+Latest update was also this morning. They are actually, let me pull this up, they're actually saying that it's taken longer than expected because it's not just our token. Let's see.
+
+(1:13 - 1:56)
+So our relevant team is addressing several requests related to certain tokens showing no value. We're working diligently to resolve this issue to ensure fairness. So, and of course, please rest assured that we've received your request regarding this token. 
+
+We appreciate your patience as we work through it. And then the email goes on. So apparently they are having this issue with other tokens too, but they're just asking us to hold tight. 
+
+So I will keep you guys updated on that. Like I said, our dev is working on wrapping up. Let's see.
+
+(1:59 - 3:57)
+Where's his list? So he's working on adding the crypto education section, which that's just, like I said, super simple because our video guy is already a few videos in. So those will just be rumble, likely rumble versus YouTube links into the app. And then we move some things around. 
+
+We actually are going to have marketplace. We're going to get that launched sooner than later. Mainly that was moved around. 
+
+Patriot perks was added towards the end of the list. And then marketplace was actually brought back to this quarter. So our dev is going to try to get that integrated this quarter instead of the Patriot perks, mainly because we already have merchants wanting to come on board. 
+
+And I think that would help us tremendously with the launch of the app too. Discounts and contests that will be added, trying to get that in. Like I said, some things moved around and then political donations. 
+
+So those were moved in front of Patriot perks and the peer to peer functionality was also moved towards the end after Patriot perks. So a few things were moved around just because, just strategically, just because of the events been going at and merchants, actually some of them who are very excited. So I think that would be just a better move for us.
+
+(4:00 - 7:19)
+So I'm still getting emails and DMs regarding importing PPY. Some of you, well, probably not you guys here. So preaching to the choir, but some wondering, well, now that they've imported PPY, you know, well, my FJB is worthless. 
+
+Yes. That's how forks work. You are getting PPY instead of your pretty much worthless FJB. 
+
+You have PPY now. You don't get both. That's, you know, that's a part of moving the LP. 
+
+So let's see, going through questions. Are you confident the community be testing the app this month? No, I am not. Because if we don't have third parties fix it, then we cannot, we cannot test it. 
+
+Then we have nothing to test. We understand that best is being removed. When will this be completed? We need the swaps on our app to work, which requires right now, stuck at change now. 
+
+Once change now modifies the API, then that should clear the air on our end for you all to be able to transfer funds out of your smart wallet. Once we write you very careful instructions that you all will follow exactly as written, you'll transfer your funds out of your smart wallet. We'll give you a few days to do that. 
+
+We will hound you with emails and announcements and tags to do that in a few days, because the quicker you can all do that, the quicker we can then remove this and add our new app or our new wallet and auth service. We will still have a link in the app for anybody that's not a regular like you all, that's not checking up all the time, but we really just hope as many people as possible just transfer their funds out of their smart wallets as soon as possible. Once that happens, again, but we need the swap function to be working so you all can move your funds out of your smart wallets. 
+
+As soon as you do that, again, we will switch that over to our new auth and wallet generation service. Like I said, for all you that have friends that only check in every once in a while, the same ones who left funds in LBank and XT and came back months later, we'll still have a link in the app for you to access your wallet, but that also will be a limited time, so if you do know anybody, make sure once those notices go out, please send it to them. We won't be able to do anything for them after that.
+
+(7:31 - 8:57)
+If this cannot be completed, is there a workaround? No, no, there's not a workaround. We need the swap function to function for our app. There's no workaround to get you guys's USDT and everything else out. 
+
+The smart wallet is amazing. We just need it to work like it's supposed to, and that's been a long time coming. No, no, no, no, no. 
+
+I think everything else has been answered. Same answers have not changed. White paper, when will the missing pages be published? Those missing pages, especially the app part, depends heavily on the smart wallet. 
+
+We need that taken care of first, just because, as you guys have seen, a lot of things until the devs actually get to them with all the functions we want and blockchain continuously evolving and other software constantly evolving. Same thing, we're not going to publish that until we actually have it. And have everything functioning to be able to share that with you all.
+
+(9:03 - 12:13)
+I think that's all the updates there. Let me go back into the charts. Utilization of PPY with merchants would be awesome for the coin utility. 
+
+Yes, I think that, like I said, the reason we've kind of switched that around is it just, I think that's definitely a smart move. Will you release a revised white paper after 4.1? I'm assuming with the missing pages, that's after everything as far as our smart wallet is working. If we can't complete that until that's all functioning. 
+
+This quarter only has less than two weeks left now. Are you saying marketplace migration will occur by then? That's the goal, yes. Keep in mind that everything that is coming that we haven't deployed yet is already complete and already tested by the team. 
+
+Not saying you all won't find bugs, obviously with a little bit more volume than we can do testing on the back end. Example, the new auth and wallet generation service that's already been added. We just haven't deployed it yet on one version. 
+
+The on-ramp service that's already been, excuse me, also completed and tested by the team. So that's just, that's already just to be deployed. All those contracts with those specific third parties just need basically for us to get rid of our old services to sign the date. 
+
+All the contracts are ready. The only thing on there is to have a date. Once that date is filled out, of starting that service so we can start paying for each one, then services begin. 
+
+That's all we need to begin each one of those and deploy those to you all. So it'll be the working out any bugs will obviously take priority, but everything else our dev has already completed. Just hoping that we don't run into any, or too many, I should say. 
+
+I feel like we always run into something, but as long as we don't run into too many third party issues. Will B&B have their new wallets? Coins be burned at the update of the on-ramp and CMC? I can't give any the CMC and trust wallet. There's nothing I can do about that. 
+
+I just read you guys the email. There's literally not a thing we can do about that. We cannot change that.
+
+(12:14 - 16:32)
+And realistically that has no impact on our app because we use a different service to pull the price there. So that should be good on our app. And then we can start burning coins. 
+
+No problem. B&B have not made their new wallets yet and I really don't want to airdrop to their current wallets because as you all know, if you followed any of the news, their devices were compromised at one time or another. So I don't think that would be great for them or us to risk that until they make new wallets. 
+
+And then the app updated with the on-ramp. Again, we need the smart wallet first functioning, which right now we are waiting on CMC. We have been since I believe Friday morning. 
+
+Don't quote me on that. It could have been Thursday, but I'm pretty sure that was Friday morning. As soon as they fix that API issue from their end, that should clear the error on our end for you all to be able to transfer your funds out of the smart wallet. 
+
+Get that going. Might give you all a few days to do that very quickly so we can get the heck off of there. And then as soon as we get the next version of the app, which is the new auth and wallet generation service, as soon as you all test that and it's going smoothly, give you all some time to test that, then we can add the on-ramp, deploy the on-rampers. 
+
+And the only reason we don't want to do that all at one time is if there are issues and bugs and what have you, then we know exactly where it's happening. Our devs aren't sitting there spending a ton of time trying to figure out which version or which third party or what. It just takes a lot more debugging if we have several different parties versus if we're adding one at a time. 
+
+I hope that makes sense. So that way if we deploy the version with the new auth wallet generation service and there's some bugs going on, then we know it's there and it's a lot easier for the devs to debug it because it's a lot less for them to debug. So I hope that makes sense on why we don't want to deploy it all at once. 
+
+Is there anything the community can do in the meantime to help with marketing and bring in new PPY coin holders? We have actually been thinking of running some more, like we could do a daily if you guys want to do, if you guys are interested, social media shills or stock twits shills. But again, that's generally going to bring in traders if anything. But we'll continue doing contests and spreading some grassroots. 
+
+In the meantime, it is nice to have our app names changed. Oh, that's good news. Actually, I did get an email this morning from Apple's verification system and all the documents we turned in, I think it was last week. 
+
+I want to say that was also Friday, possibly. Those have all been approved. Thankfully, I was hoping they didn't come back and need more documents. 
+
+Everything we sent through got approved. So we should be receiving that verification from them. I'm this week. 
+
+I will keep you updated on that. As soon as that happens, that updates our name to search in the Apple store, which is amazing because we're waiting to be able to search those in the app store before we get, before we start marketing that as far as like with influencers and stuff like that confuses people. You go, you have to go search for a different name.
+
+(16:36 - 19:08)
+Oh, shoot. What was the response to? I can write it. Okay. 
+
+What else did he ask? Okay. Login service is deployed. And then what was the last question? Come on, Sam, we moved to voice an hour. 
+
+How long do you spend putting your kids to bed? Okay. There's Sam's questions. He asked somebody to type. 
+
+I don't think anybody did yet. Did you ever find a hire who had experience in that specific program you were describing last week? React? Yes, actually. Our Deb, who specializes in that, who had family in the hospital or some issues got back. 
+
+So he's been working on that. Did you ever find the one that you mentioned last week that you were trying to contact? I did actually. I mean, oh, shoot.
+
+(19:08 - 19:39)
+That's what I, cause I said, oh, by the way, I sent out all the prizes for the contest. So now it should only be, if you got the merch store, which please contact me if you're one of the store winners when I did the merch store credit. And then when we did Tropy with Tropy, those are anonymous. 
+
+Those accounts are anonymous to me. So it doesn't, it gives me a code for the winner, but I don't know who that person is. So it should have sent you an email.
+
+(19:39 - 21:52)
+So if you've got an email from Tropy saying that you are, you are the winner. Please reach out to me with your wallet address so I can send you those coins. Everybody else should have received those coins in their wallet and we should be all caught up on contests. 
+
+Maybe we'll start doing stock puts contests every morning for you, for you early birds that have been on there forever. And yeah, that's what I forgot. Actually, I still need to send out those funds to the person that did find me. 
+
+So that, that should be great. So let me get this straight. We were waiting on this, but now we have a workaround. 
+
+No, it's not a workaround. We, yeah, we, I've spoken to this. Change now is a different issue. 
+
+We've had since, I want to say Friday morning or Saturday morning, last, last week. Sorry. All my days feels like Thursday. 
+
+So to me, I'm also trying to, trying to pack. So it's, it's been busy. Yeah, definitely don't want to airdrop to their old wallets. 
+
+I don't, don't trust whoever had access to their phones. Apart from Patriot Perks, do you think the Q1 points will be completed? Yes, so far. Again, it's, we just need, now we're waiting on change now. 
+
+So again, we're having so many factors. But as soon as we get that out of the way, hopefully that's the next era that clears out. Hopefully once that's cleared out, we can swap, get you guys all your funds out of the smart wallet.
+
+(21:55 - 21:59)
+Burns, that's an easy one. Get that started. Let's see.
+
+(21:59 - 22:34)
+Had it up earlier as I was discussing everything with the dev this morning. Yeah. So the wallet creation, login process optimized. 
+
+We already have that. It's already been tested. It's ready to be deployed.
+
+(22:37 - 22:54)
+And then, oh, marketing phase one. Obviously that we need the app to be working to do that. Crypto and DeFi education. 
+
+Those videos are already in the works. Just adding those to the app through links. Yeah.
+
+(22:57 - 23:39)
+Oh, shoot. Sorry, I haven't checked. Recording. 
+
+Good to know. Yeah. Apparently, so Trust Wallet is saying it's not an issue on their end. 
+
+So I'm wondering, they didn't say it was a CMC issue, but I'm wondering if that's what they're meaning. I'm not sure. But yes, it is impacting from the information more than just us.
+
+(23:42 - 24:13)
+But again, and to clarify for any of you that are trying to swap one way or another, you can still, you'll still be able to swap your coins in or out, whether you want to buy or sell. You'll still get the correct amount. Not that I want you all to swap out of PatriotPay or PPY, but if you go to swap to a different token, to be clear, you are still going to get the correct amount of whatever, you know, if you're swapping Intimatic or whatever else.
+
+(24:15 - 24:52)
+So just to make that all clear, not that I want you to swap out of PPY, but if you do go to, you know, swap out of it, you will still receive the correct amount. It's just not showing that total in your wallet. AirDrop, BNBs, coins to my wallet. 
+
+Hold on. I'll ask them. I'll see. 
+
+I'll see how they feel about that. Not sure. Leave that up to them.
+
+(25:00 - 27:33)
+Let's see. Let me see if I have any emails. No emails, I don't think. 
+
+Nope. A few earlier today, but I think I'll respond to all of you that are probably not here. Oh, a vendor emailed us again. 
+
+He's very excited, his wife. Anything else? Burning the 18 to 20 billion? No, we'll start with a partial burn just because we don't know how much we're burning in total because we still have not started marketing and we'll probably be paying a few partners with PPY. And again, how much PPY we burn does not directly impact what your PPY is worth. 
+
+That's in your wallet. I know I've seen you all kind of discuss that. There seems to be a little bit of a misunderstanding. 
+
+Now, once we burn, that won't, whether we burn or not, that won't change how much your PPY is worth. Oh, boy. Every week I need to get on the platform that no one has suggested for broadcasting every week.
+
+(27:34 - 28:32)
+I don't miss it. Yeah, so one of our vendors, well, one of our vendors who wants to get on the app very badly, him and his wife, who I met on the Vegas show. They're amazing. 
+
+They've been on Shark Tank for a different product before. They are pumped to get on the app and I think it would work wonderfully for us. But they were a little bit of a catalyst along with other companies we've met in both Vegas and CPAC of why we switched some things around.
+
+(28:33 - 28:58)
+On the roadmap. We're looking for an additional dev to hire. Yes, and our dev who, oh, let me read that question.
+
+(28:58 - 30:00)
+I think I've been bad at that. Sorry for anybody listening later. You may have already mentioned this. 
+
+Golden Rock says you're looking for additional dev to hire. Have you found one yet? Yes, our main contract dev, actually, who specializes in React, he was having some family, a little bit of a family emergency, but he's been back. So that's been amazing. 
+
+And we also found our old dev, which is also amazing. So, yes, we should be all good right now. I feel like we should do some kind of contest for, hmm, we should do a big contest.
+
+(30:03 - 30:40)
+I have to think about this. To get somebody, like somebody with a decent following. If you guys get them to mention PatriotPay somehow. 
+
+I don't know. I gotta have a brainstorm that. And then it's got to be a really nice prize for you guys, too. 
+
+I think that'd be fun. Hmm. Since Dogbone asked earlier.
+
+(30:48 - 31:06)
+Is the old dev that you rehired, assuming you're talking about our main contract dev? No, full time. As much time as he can. But definitely full time.
+
+(31:06 - 31:20)
+Hmm. Does the team think we can get 50 cents in 2024? I don't think we're allowed to answer that. I don't feel like that would be a good thing to do.
+
+(32:45 - 33:08)
+Should we be concerned about our devices being compromised? How do we protect against it? Well, their devices were confiscated or seized. I don't know the correct verbiage, if there's a difference, by the FBI. So if your devices were, then they're probably compromised.
+
+(33:11 - 33:33)
+So since they were, then we don't know if somebody had access to their suitcases, because I imagine their wallets were on their phones. Well, I know their wallets were on their phones. So my suggestion was to play it safe and not airdrop to those same wallets, just in case.
+
+(33:37 - 37:03)
+If the FBI takes our devices, they get our coins back. I don't know. Something I would not risk. 
+
+If somebody had access to my device and probably everything on there, I probably wouldn't want to airdrop more funds into those same wallets, but that's for soon. I'm on a few watch lists asking for a friend. I imagine we probably all are. 
+
+Let's be honest. Have a contest. How many watch lists are you on? As always, while we're on compromised devices, do make sure that you're not sharing your seed phrase with anybody. 
+
+If you click on a link that asks you for your seed phrase, be very careful. Always check with somebody in the general chat. Don't be afraid to screenshot it or share. 
+
+Don't screenshot your seed phrase and share it, but screenshot if somebody tries to send you a link or DM and ask in the general chat. We haven't gotten anybody scammed in a few weeks now, so I feel like it always happens every few weeks. This is when I start getting really scared. 
+
+Of course, it always happens when you guys are having a bad day, you're sick, you're going through divorce, what have you. So please be very careful. Again, always ask. 
+
+If you're ever in doubt, just ask in the general chat and we can all help you. It's a lot safer that way. But don't click on any weird links. 
+
+Remember, admins, devs, and me, we'll never DM you first. We'll never call you to ask for your seed phrase or send you a link to click on and enter a seed phrase or log in or anything crazy like that. And don't send any of us any money. 
+
+I'll never ask you for money. No mods or admins will ever ask you to send them money for anything. I remember back in the day, I used to get DMs like that, pretending to be, I think it was Grant at the time, that make his profile and ask, like, can you send me a few hundred dollars? I just need it really quick. 
+
+So please be careful there. Recommend cold wallet. I think Ed's the expert in those. 
+
+Ed, you want to chime in to Discord about the cold wallet recommendations you have? Does our main dev have React Java software buddies he went to school with that could help us with our development? No, he's really, that's his area of expertise. He's amazing. If you can't tell by our contract and how amazing our contract is, he truly is a gem.
+
+(37:05 - 38:26)
+Super awesome guy too. I feel like he's my little brother. Don't forget, if you're the Tropy winner, you should have gotten a message from Tropy. 
+
+Everybody should have gotten an email from Tropy with the winner should have said, you're the winner. I will check in probably on Friday for his chat if I haven't heard from you guys to make sure that that went through. Any attacks to transfer from app to cold wallet? Yes. 
+
+So be careful doing that. And again, your decentralized wallet, if you have it, you know, on a trust wallet or metamask should be safe as long as you're not, you know, punching your seed phrase everywhere or or leaving that info on your device. When you get a new device, people, I don't know, do people sell their phones anymore? I don't trust that.
+
+(38:28 - 41:15)
+Even if I were to like wipe my phone, I don't think I'd ever trust selling it. But be very careful if you do that. Um, that's everything that I have. 
+
+I will keep you updated if there's any developments. As far as, oh, I mean, the, um, so hoping by Friday, at least one of those, I'm not, I'm not holding my breath for trust wallet because they seem like they're experiencing this with some other tokens, too. And I'm assuming it's a CMC issue, but they just said it wasn't pretty much said it wasn't on their end. 
+
+Um, and then I'm hoping we hear change now is generally pretty quick. They just don't usually work on the weekends. So I'm hoping, I'm thinking that's why that's gotten held up. 
+
+And then, um, Apple's verification system, they've been super on top of it and quick. This last lady that's been helping me out since last, uh, I think it was since last Monday or Tuesday has been super helpful. And, um, her email this morning, again, I'm accepting all the documents we turned in. 
+
+Uh, hopefully that verification is happens to they, they estimate up to like 30 business days, but it seems to be moving much quicker than that. So as soon as they complete that verification and give us that number, um, Apple can then start processing the new LLC and app name. Let's ask her though.
+
+(42:17 - 42:59)
+I think that's everything. Uh, we'll keep you guys again updated. If I get any updates before Friday on any of those, let me know if you need anything in the meantime, reach out, um, DM, call, text, uh, we can do some contests. 
+
+I don't know. Shoot me, shoot me some ideas for a, for a large one. We'll do our normal ones of course, but I feel like we need some like bigger contest. 
+
+Um, I don't know something, something about something with like somebody with a following mentioning us. I think that'd be a good one. Shoot me any ideas you have.
+
+(43:01 - 43:16)
+Um, all right, you all have a great night. I will get this recording up. Um, and then we'll go from there. 
+
+You guys have a good night and I'll see you in general chat.

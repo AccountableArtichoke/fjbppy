@@ -1,0 +1,81 @@
+(0:02 - 0:29)
+Happy Tuesday. Hope everybody is well. I heard Sarah pop a beer. 
+
+No, this is Zevia. Zevia zero sugar soda. Although they changed the cans and I don't know, I think they're supposed to, like, they're trying to do their retro thing.
+
+(0:30 - 0:55)
+Um, but I did buy some gluten-free beers a while ago, but I haven't tried them yet. Two different kinds. Somebody, I think somebody here recommended actually. 
+
+Um, okay. I'm gonna mute you, Annie or Andy. Uh, all right, so devs are still working.
+
+(0:55 - 2:22)
+Our contract upgrades are complete and implemented. Um, we're going, oh, that's why I just have 49 messages to catch up on. Let me close out some things. 
+
+My desktop is running very slow. I can't even get in the chat. Okay, let's see. 
+
+Okay, I think I closed out enough things, maybe. Let's see if, okay, we're at the bottom. Cool. 
+
+Um, I'll try to talk a little louder. Sorry. I feel like it's a fine line with these mics. 
+
+Um, okay, so dev, um, devs are still working. Uh, our contract changes have been implemented, deployed. Um, everything's great there.
+
+(2:23 - 6:58)
+Uh, I've been testing the app. Um, everything has been great there. We are just, um, working out some bugs now. 
+
+Um, I will keep you all updated. Uh, again, I'm not gonna give out any timelines, so please make it easy for both of us and just don't ask. Um, I will let you know as soon as the changes are, as soon as all the bugs are complete and it's ready for you all to test, I will make an announcement. 
+
+I will tag you all. I will include the link. Um, in the meantime, I really need every one of you to move your funds out of your current wallet and to have your seed phrase saved. 
+
+Um, we are very close to the point of no return. There is nothing we can do for you. Um, once we're past that point. 
+
+Uh, so if you know anybody who has funds in that wallet or anybody who has a wallet and, uh, hasn't written down their seed phrase, um, please do that. Uh, but other than that, that's all I got. Um, I think we have quite a few, I think 23 of you entered that contest. 
+
+Seriously? Is that correct? Oh no, I see it now. Six, no, 64. That's how many people it's about. 
+
+Uh, I think Stacy is working on that contest, so as soon as, uh, she gets how many names were drawn, we'll go ahead and put it in a random um, number picker, um, and draw a number there. Let me check Discord. 67 votes on Discord. 
+
+Okay. Um, I've not received any, as I'm reloading, any emails. Um, I haven't received a reply from Telegram yet, so I'm not sure if my DMs are fixed. 
+
+Actually, let me see. I'll go into like a really old DM or somebody that doesn't have me added as a contact DM me. We can test that. 
+
+Um, but yeah, that's, uh, everything I have. The app is beautiful. Um, just a, obviously with the, uh, security changes, there are a few bugs. 
+
+Um, so the dev is, we have one dev working on those, um, and I'll let you know as soon as that's complete. Sorry, I just got a message I need to relay from one of our partners. Anything else? Let me forward this message and I'll get back.
+
+(8:25 - 9:12)
+We drive ourselves to jingles. Um, what will the app contain? Just ability to buy PPY easily or more features. Um, when you guys test, you'll be able to test all the previous features you have. 
+
+So, um, buying, sending, receiving, trading. Yeah. Um, and mainly the biggest update will really be your account creation and account access.
+
+(9:12 - 9:25)
+Um, it can't get any easier than this. And, um, without, sorry, somebody, I think somebody needs to be muted. Give me a second.
+
+(9:33 - 10:05)
+Um, so yeah, can't get any easier. You won't have any of the issues you had previously trying to access your account or once you get a new device or anything like that. Um, all while, um, staying as secure as possible without us having your keys, um, and staying, uh, non-custodial.
+
+(11:00 - 11:28)
+Is everybody's telegram glitching or is it just mine? Okay. Um, sorry, I missed the first five minutes. Did you say when? No, I did not, but I will let you know as soon as it's when we are, uh, working out some bugs that got to test yesterday and today.
+
+(11:29 - 12:13)
+I think marketplace testing is available too. We do have, um, anything else I'm going to have to actually get on. I have to get, um, I have to get on a call.
+
+(12:14 - 15:26)
+Uh, so sorry, I didn't mean to not check discord, but it's only been a little bit. Um, voodoo child being funny in there. Okay. 
+
+Um, I actually have to jump on a call, so that's all I got. Um, I will let you guys know as soon as everything is complete. Um, testing went great again, uh, aside from a few bugs. 
+
+Um, not sure how long that will take. I will let you know as soon as it's taken care of and as soon as it's all ready for you all to test. Um, once, once that is ready for you all to test, we'll test this portion, um, before we deploy the next, uh, portion that's already built after that, that way we know which, um, which bugs you guys experience or what changes we need to do are related to, um, our login account creation service, uh, versus our on ramping service. 
+
+Um, so, and we're still, we'll still continue using a change now API in the background, uh, that takes care of your swaps still. Um, which is I think the best rate out of all the other ones. Um, I think that's it again. 
+
+Um, please make sure anybody, you know, gets their funds out of the Patriot pay app. If they have a wallet there, if it's an expert wallet, make sure you or they have your seed phrase or in down, you will not have access to this. Once we move on, um, to the next deployment. 
+
+So I just want to make sure of that. Um, make sure you guys are aware because there's not going to be much, uh, we can do after that. Uh, but I'm going to get on this call. 
+
+Uh, sorry, it definitely was not planned. Um, but it's an important call that you guys probably want me to get on. So, um, we're going to get on this and then I will, uh, keep you updated. 
+
+We'll run, we'll run another contest. Um, tonight I'll post it as soon as I'm done here. I'll post the winner, um, and then the new contest and then I'll, um, post the recordings. 
+
+Just give me a little bit of time to finish up this call. Thank you guys so much. I will talk to you soon. 
+
+Have a great night.

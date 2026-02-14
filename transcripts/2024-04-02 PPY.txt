@@ -1,0 +1,343 @@
+(0:02 - 2:42)
+Um, all right, you guys, sorry, Apple went live yesterday, so that was yesterday, I think, right? I feel like it should be a lot, um, a lot later in the week than it is. Um, but Apple's live, which is wonderful because that means we're live on the Google Play Store, live on the Apple Store, so now we are all ready for marketing as soon as our app works as intended, um, because we can tell everybody what to download, which is the Patriot Pay app. Um, so that's all great. 
+
+Devs are still working on the smart wallet. They actually fa- so the issue is getting it to function as intended, um, while keeping top security and keeping the wallet as secure as possible. Um, you all know, obviously, we are very, um, conservative, and, uh, being with as much as Steve is loved by the left, um, we anticipate that we possibly would be a target, um, for the blue-haired crazies. 
+
+Um, this is why top security is a necessary, uh, especially with a smart wallet. So, um, again, even though devs have found ways to make it work, um, we need it to function the way it was intended, um, to be as secure as possible for that reason. So, again, um, I will keep you guys updated on that progress. 
+
+I am hoping to have an update tonight, later tonight, or, um, tomorrow, a step- a step forward in that smart wallet, uh, process. Uh, other than that, yeah, everything else is ready. Like I've mentioned before, as far as the other deployments of the wallet, uh, creation, um, process and account creation, and, um, also, of course, the onRamper.
+
+(2:47 - 3:46)
+Let's see, I think I have an idea on this actually. Oh, shoot. Uh, yeah, contest will be, I don't know, what do you guys, let's do, you guys want to do a repeat last week's? You can do that. 
+
+We can also have it run, um, up to you guys. We can have it run 24 hours. Or do you guys want to run it until midnight eastern? Uh, let's see. 
+
+Mike was on time. That's nice. Yes, so voice chat will be for now until most of you have to change your clocks for daylight settings again.
+
+(3:46 - 5:09)
+Will be 8 30 p.m eastern unless I post something differently. Then we'll assume that it's 8 30 eastern until time changes again because time doesn't change here for me in Arizona. Timeline for marketing and launching has not changed. 
+
+Again, we have to have the smart wallet. Um, we got Apple checked off the list. We got Google Play Store checked off the list. 
+
+Um, so we just need the app working to market it. I can't market something you don't, uh, that's not working as intended. The burn has already started. 
+
+Are you guys, where, where are you guys? Do you, do you keep up? These are the same questions. Um, on ramp again, that hasn't changed guys. The on ramp has already been developed, built into our app, ready to be deployed.
+
+(5:17 - 6:03)
+Mm hmm. No, we have no marketing plan for decks tools. Uh, what we've seen from the past is that marketing on sites like that brings, uh, brings the people, doesn't bring the people, um, community members we're looking for. 
+
+I'll put it that way. Um, what else? One Trump PPY wallet. Lose the dollar sign on that. 
+
+Keep that in mind. I know FJB have a dollar sign. PPY does not.
+
+(6:08 - 7:22)
+Just so you know, just so you get in the habit of it and have it correct. Is there a point where if we can't get the smart wallet fixed that we move forward without it? Um, not, not really. Cause the whole point of our wallet is to have it be super easy. 
+
+If we don't have a smart wallet or the like, then that really makes us, um, like every other wallet where try to explain to a boomer, they have to have gas and they can't have gas without somebody either sending them that gas or them going to another site. Um, yeah, that opens a whole nother can of worms. So I know, although it has taken longer, um, again, very similar to our contract, the PPY contract where there was things we could move without, but if we did the purpose of what we wanted to do, um, for the time being, and again, even though devs have found, I don't want to say it that way.
+
+(7:22 - 10:04)
+Um, we've got a way to make it work. It's not, uh, the most secure way, which leaves us a little bit vulnerable. Um, wait, what? Can v1 of the app use a third party smart wallet that works and v2 of the app? Um, those are, uh, for anybody listening later, can v1 of the app use a third party smart wallet that works and v2 of the app, you can use your version of the smart wallet when perfected. 
+
+Uh, those are things we have considered and looked into the team. Um, however, a lot of times, like we've seen, um, in the past, when that happens, like we did with our other versions of the smart wallets, it causes quite the mess for users. And we still have emails, um, when DMs coming about like the fork and, uh, importing PPY. 
+
+So that's not something we want to do before, uh, huge marketing, because we'll just end up spending that whole, that same time and yeah, it'll just be, it'll give, uh, newcomers less than a great experience. And, uh, we don't want people to download PPY and have a bad experience. And that's definitely not something Steve wants, especially after what happened, uh, with wire previously. 
+
+Is there a current estimate to finish the fix? Uh, so again, because they're debugging, uh, there's not really a time estimate, unfortunately, um, because it is working out, uh, fixes, if that makes sense. Um, Friday is content. Oh, I have the wallet. 
+
+I need to share. Actually, I need to send that before I post the other one for the winner of Friday's contest. Um, any idea what the devs will develop to make SmartWallet even more secure? Uh, there's nothing they need to develop.
+
+(10:05 - 13:28)
+It is, um, pretty dang secure the way they do have it built. Um, yeah, so there's not anything they need, knew they need to develop. Let's see. 
+
+I don't know why discord channels are showing up like that for me. What's up? There's new messages and there's not, there's a few DMs I need to get back to. Sorry. 
+
+I spent quarter of the day at the dentist. So my dog, my fat dog knocked my teeth out, which is weird. Like I didn't know he, one day he, um, just jumped in my face. 
+
+Um, and it hurt like it hurt really bad. It made me cry and I have a pretty high pain tolerance and that was it. I didn't think anything of it. 
+
+Like, um, well I went to the dentist today and apparently he like killed that too. And it's like one of my like little front teeth too. So I need a bridge now for the dead tooth that my 20 pound fat dog knocked out. 
+
+It doesn't look like it, but it's dead. I can't get an implant because it's literally that space is so tiny and that tooth is so tiny. So he said it's too small. 
+
+So we'll see. I already called another dentist to get another opinion just in case. But, um, what's the timeframe on the app being fully ready to go? As soon as the smart wallet is fixed, we'll start, we'll have you guys move your funds at a smart wallet. 
+
+Um, then we will deploy the new wallet generation update, have you guys test that. Then we'll deploy the new on ramper. We'll have you guys test that.
+
+(13:33 - 14:01)
+Um, if gasless wallets are the desirable thing would suggest look at ERC 4337 wallets. We looked at that very early last year and I'll have to look, I'll have to look up and, um, we can update you on, I forget why we decided not to go that route. The key aspect of the paymaster who handled the gas.
+
+(14:01 - 14:38)
+Yeah, we definitely, I think, um, I'm trying to remember, I want to say it was our advisor, uh, who suggested that. I forget why we couldn't, we didn't end up going that route, but I'll definitely have to, you'll have to look at my, through my notes late to the party. What is the status of the change? Now API, uh, change now fix that issue last week.
+
+(14:47 - 15:01)
+Has the dev implemented it? Yes. And I tested it. Yes. 
+
+The change now, uh, API is working. Lost half my front tooth in a dodgeball accident. Oh my God.
+
+(15:03 - 15:29)
+Yeah. With this one, it's like, it was really painful when you did it, but it, like my tooth doesn't look any different and it's not painful. I was just, thought I was just going in there for routine cleaning. 
+
+Nope. That's not the case. Her fat dog busting her teeth. 
+
+He is, he's a little chunk. 20 pounds of solid. It's a large shih tzu.
+
+(15:31 - 17:19)
+My other shih tzu was like an extra small one. It's like 10 to 12 pounds at max. This one's like 20 pounds. 
+
+It's double his size. What price do you think you could go at launch? Well, I didn't even see that question. Like, yeah, there you go. 
+
+Fragmentum. Uh, answer that please. Uh, without an implant, you'll lose bone. 
+
+Hmm. Thanks. I'll have to get that second opinion. 
+
+I know he also suggested a root canal, but I'm getting a root canal out. So he knew I did not want a root canal. After the app testing is complete, what will be the next thing the devs will be working on? The devs are, well, now we've set smart wallet as top, top priority. 
+
+However, so far, they have the menu done, the education section done. Well, like the education page done, I should say, we're still having, um, somebody create more videos. That'll be, that'll be an ongoing section. 
+
+Um, so I just mean done as in there's an education page, there's videos uploaded to it. Um, and then the marketplace there's again on the menu, there's a marketplace, uh, they've started that page too. So, um, they will be working on that.
+
+(17:19 - 17:59)
+Um, there's still some time for the marketplace and some details we want to add as we, uh, continue because for example, for the marketplace section, um, details on that is like, okay, well when a merchant gets on there, um, are they, you know, how many items are they going to have? Sure. Sure. Some merchants have like one item, right? Um, I know there's community members that have wanted to sell, like it's like a Tumblr that they sell or something, you know, just one item that they specialize in.
+
+(17:59 - 18:22)
+Um, other vendors have dozens of items. So we figured that you'd have a different login for each merchant to actually get on and upload their items themselves. Um, so these are things that'll, uh, details that will take the longer time to develop.
+
+(18:22 - 20:02)
+Um, the good part about that is, um, unlike the smart wallet or, um, transfers and other, um, functions we've had to wait a little bit longer for because it involves a third party. Um, the good part is, uh, many of the app functions we'll be adding from this point forward. There's not really a third party involved. 
+
+Um, for the most part, and I say for the most part, because, um, let's take the merchant page, uh, marketplace, for example. Uh, of course there's still a function in that where when you go to purchase the item, you still have to send PPY to that merchant. Um, so, you know, of course there's some details there, but for the most part, that's going to be, um, mainly, uh, dev work just on our part, not having to do with a ton of other, uh, parties. 
+
+So that's good news. Um, same with the political donations after that. Same with, uh, the peer to peer classified sort of section after that. 
+
+Um, but that, that kind of stuff, like, uh, you know, when the dev had to add the menu and the education and the marketplace has taken a lot less time. And I'm sure once you guys start testing it, I'm sure you'll find bugs. Um, but that's proven to be the easier part.
+
+(20:03 - 20:10)
+Oh, Shih Tzu took out your tooth. Yeah, my fat Shih Tzu. My extra, extra large Shih Tzu.
+
+(20:14 - 23:22)
+He's a monster. Um, is the work with, is the work now with Smart Wallet just a matter of integrating the new ChangeNow API with PatriotPay Wallet and have there been any hiccups with that so far? No, the ChangeNow API is working completely as intended. I've tested it. 
+
+Um, our devs tested it. Our advisors tested it. Uh, works as intended. 
+
+It's just having, um, a Smart Wallet. So a lot of, uh, and this is the same issues we've had before. A lot of the Smart Wallet, um, it's more of the estimation. 
+
+So since the Smart Wallet pays the gas for you, um, a lot of the bugs there are estimating the gas and, and since there is ChangeNow involved, since ChangeNow does our swaps or, you know, if that's a transfer, it's also a swap. It's, uh, yeah, ChangeNow takes care of most of that. Um, so there's a lot of estimating the gas is really, uh, getting that done. 
+
+Um, we mentioned in the last voice chat that with the ChangeNow API being fixed, that community testing might happen over the weekend. Um, any more information starting on that? Uh, so we need, we, even though the ChangeNow API is fixed, it's still, so what we tested and what's working is just that ChangeNow API. Um, that we've tested not through the app. 
+
+We've tested through other avenues. Um, so having the API into the app, the app is still, uh, throwing out internal server errors, which means, uh, that it's not ChangeNow related. Um, however, if we were to have you guys test it, just like when we're testing through the app, uh, it's not, it's not working. 
+
+When we're testing through the app, that's not working, it's failing. So once the devs get it working in the app, the app working, the swaps, mainly the swaps and the transfers working, because that's what we need you guys to do to, um, at least get your funds out of the smart wallets. Um, then we can have you test it.
+
+(23:22 - 27:05)
+But right now there's really not anything to have you test because even though the ChangeNow, um, API on its own is working, it's not working in the smart wall. So the ChangeNow is fixed. So, because before that's the, uh, errors that the dev was getting is that the ChangeNow API was failing, um, throwing him an error code. 
+
+But again, that's been fixed now. So now moving on to the next, uh, error he's getting when we try to, uh, transfer or swap. Jumping through heaps. 
+
+Yes, that is, uh, it. The smart wallet, I want to say about a year ago, no, it's like a year ago in January was also the smart wallet issue. Um, it is very awesome once it actually works, but, oh, you know what? I wonder if that had to do with my telegram update.
+
+(27:05 - 27:16)
+Maybe I've been using my VPN today and I haven't gotten disconnected. Not that I've noticed. So maybe it was just update.
+
+(27:19 - 28:17)
+Um, okay. I already mentioned the updates. Answered that. 
+
+Answered that. Um, we've moved on from this. There's the MP. 
+
+Are you listening? I've answered all of these. There's a ChangeNow update that's required for this. You're late. 
+
+I just answered them right now. Um, the other updates, there's, there's seven, all the updates on the roadmap. Um, so the, again, most of them, I'd say more updates.
+
+(28:17 - 30:33)
+Half of them, the devs actually already completed, including, uh, the new wallet and account, um, generation, the OnRamper update, the menu education marketplace, uh, marketplace is still being worked on. We actually got our dev off that this week to help, uh, with the smart wallet. Um, they can't be implemented now. 
+
+No, because, uh, basically we'd like volume, not we'd like, we, we'd need, um, that's all I can say on that. Not because I'm trying to be secretive, but, um, yeah, there's just some things I think, uh, it's better. But yeah, we, we need, we need once we have the wallet, well, one, so there's, um, sure we can add like the menu and the education portion. 
+
+Um, but we'd like that. I think it would be best, uh, once users can generate an account. Once users can get on the app and actually OnRamp funds, I think that would work out, um, better, uh, for everybody. 
+
+Um, so that's why we need to wait for them. Um, as far as the other updates, again, after the marketplace, it'll be the peer-to-peer classified, political donations, um, and everything, everything that's on their roadmap, basically. Um, and then, yes, we've moved on from, um, and then the change now update, uh, yes, their API, there was something wrong with their API.
+
+(30:34 - 32:53)
+They fixed that and now the dev, uh, the, the API is working, but we're receiving another error. Um, I think the best will be removed once all users get their funds out of their current wallets, um, because our new wallet creation service, um, although they are working on users being able to , uh, access wallets that they've created elsewhere, uh, for the time being, you need to create the wallet using this, um, service for, for you to access your wallet, if that makes sense. So for the time being, um, I can't import my trust wallet, you know, or my, or the wallet I created through Vess on the new wallet generation system. 
+
+Again, that is something they're working on. Um, they're giving us a 2024 timeline, uh, but you guys, uh, know how software works. You're familiar, you've seen the, um, timelines, not just with us, but with, uh, other parties. 
+
+So even though they've given us a 2024 timeline, we aren't holding our breath for that. We're not waiting on that. Um, so we need every, everybody's going to need to create a new wallet. 
+
+Um, yeah. And then once, so once everybody transfers their funds out, we'll still, we'll give you guys a few days, we'll spam you with announcements to do that. And then we'll still have like, um, whether it's like a hidden link that I have when you, when people DM me months later, or, uh, we'll have something in the app for the stragglers stragglers to, uh, be able to still access their Vess app, um, their wallet.
+
+(32:54 - 34:42)
+And it'll just be a smart wallet because of course, for your expert wallet, make sure you get your seed phrase, go ahead and enter it into a trust wallet or even metamask, and access your funds there. Uh, so not necessary to transfer those funds, but definitely necessary to transfer your smart wallet funds. Uh, but yeah, we'll, we'll remove it. 
+
+Uh, we'll probably give you guys just two days or so, and then, um, remove it and, uh, the, uh, new service is in regards to volume, do you expect this to increase in the near future? So, uh, volume, as soon as marketing begins, and we need, uh, we can't market something that's not working and Steve a hundred percent does not want us, um, effing anything up again. He cannot afford, uh, it's really better not to market anything than to market a crappy, um, um, product, right? So not only would we be wasting, um, a lot of your hard earned money, um, through marketing, but I mean, think about it. I mean, to be honest, uh, with me, like if I, you know, go to download something or go, I'm only going to try nobody, you know, especially when they don't know what the heck it is.
+
+(34:42 - 36:07)
+You don't want them to go download it and then try to make an account and it's not working. Um, they're going to have a negative association with that, right. So, um, yeah, again, very, this is, uh, this time around, you guys just know exactly what's happening versus, uh, what happened with our contract when we weren't sharing that we're working on the PPI contract and, you know, we were having all kinds of issues, um, that, that I could only update you, but, you know, sorry, it's being held up now. 
+
+Um, the third party or with this or with that, or with the function, uh, this time around, you guys are just aware of the details of exactly, um, what's not working and why we're being held up. But again, I am, um, I'm very happy that Apple is updated now and Google play store, um, got our website. That's all good. 
+
+Um, and then again, we have our wallet creation service contract ready to sign our on-ramping service contract ready to sign. As soon as we just have the dates, we can start, uh, paying for it. And, uh, yeah, everything's already developed.
+
+(36:07 - 38:26)
+Their API is already in there. So yes, I'm glad, uh, Apple, I think Apple was still under, cause I mean their, their verification, um, the third party verification party was the loans was to take 30 days. So I think they came through under, uh, the time. 
+
+Do you think community testing the app is likely to be in April? Yeah. Because the dev we've, um, in my opinion, yeah, because that's all the devs working on. Um, again, we've gotten, unfortunately changed now as a fix took, I think, I want to say, was it a few weeks? Uh, it felt like a few weeks, but it wasn't. 
+
+Um, so unfortunately that kind of, there wasn't much, which was good. It gave the devs a time to work on the menu on the education section on the marketplace. I mean, it worked fine in that way. 
+
+It's not like they were just in there twiddling their thumbs and, um, got that, but, uh, yeah, I think they'll, I don't imagine at least going by, uh, what fixes a smart wallet had in the past. Just, um, integrating PPY though into the app and of course, a different contract, uh, different, you know, removed from, um, the, uh, Binance Smart Chain. So they're going through trying to debug and wondering if it possibly, uh, was related to implementing a PPY that there was, you know, a mistake somewhere with, uh, that the devs had when they implemented the PPY into the app.
+
+(38:27 - 38:38)
+So just going through all that. Well, the burn will be completed in April. Uh, I would say so.
+
+(38:42 - 42:42)
+I don't see why not. Can we see screenshots of the app? It looks like, uh, it looks very much on what it looks like now. I don't know if they're just talking about the menu. 
+
+Let me see if I can log into the, oh, that's going to give me a, but wait, I think I actually sent one. I sent one. Where did I send one to? Let's see. 
+
+Hmm, there it is. So we have a hamburger kind of menu. I don't know if I like it. 
+
+So, yeah, I'm not sure. I'm not sure if I love it, but we'll see. We'll see how it flows with everything else. 
+
+Maybe I'll feel different about it once it's my wallet. So that's what we have. Hold on. 
+
+What did it mean that? So this is the menu we have right now. It's just a hamburger one, but again, not sure if I'm loving that. So, oh, wow. 
+
+Our dev just sent me, um, he's a little late from Easter sending me this week's plan. And I don't know, he, he thinks he will have the transaction issue fixed this week because he's thinking he'll be able to get all this done this week. The fixed transaction issue for smart wallets, um, complete the education page and, uh, that's just updating it with all the videos. 
+
+Oh, I didn't give you guys, no, I can give you a screenshot of what it looks like with the education marketplace. Um, and, um, implement the front end of the, uh, marketplace list page. So he's thinking that might be done this week, but again, you guys know how that goes.
+
+(42:46 - 47:20)
+Um, um, donation wallet. I'll get his wallet. I just asked him for it. 
+
+Um, software does are the definition of optimistic. Oh, yeah. Um, any in-person events on the schedule? Uh, if I do have a surgery to schedule, um, I'm waiting on that. 
+
+But if, if the time works out, we'll be in Dallas, Texas, um, for, let me see, when was it? May 17th to 19th for, uh, the NRA. I think that'll be a great one for us. And if smart wallet should be in everything, the app, um, and this is not including, keep in mind, um, we don't need another actually now that I'm thinking about it, maybe your previous questions were meaning this. 
+
+Um, I don't mean with the app working, we don't need the education page and the marketplace. We don't need that perfected or the political donations for us to begin marketing, uh, to begin marketing. We just need our basic wallet. 
+
+What you guys see right now, we just need that functioning. That is perfectly, we are happy with that as long as they're showing up in the app store as Patriot Pay. Um, you know, that's what our customers, community members are seeing as they search Patriot Pay. 
+
+It's kind of weird, you know, before freedom jobs, business, and then you see Patriot Pay. Um, so as long as that's working in our wallet is functioning as intended. Um, and this includes the new login, um, that you guys will test as soon as probably give it two days for everybody. 
+
+But now that I'm thinking about it, but two days might be a really long time, might not even be that long, especially since we're giving the, um, you know, everybody else some, uh, some link to still be able to access smart wallet. Um, but you guys test that, uh, the new, you know, uh, wallet account generation, and then test a new OnRamper. As long as that's working, that's, that's all we need to start marketing. 
+
+So, but yeah, um, May 17th to 19th, I will schedule my surgery ASAP. I just gotta wait. I'm waiting on a visa. 
+
+So as soon as I get that visa, I'll be scheduling that as soon as I possibly can. Um, just because it actually works really well with everything going on dev wise and having you guys test the heck out of it. Um, and then as soon as everything's working beautifully for a new person to get on easily, make their account super easy, can't get any easier. 
+
+Um, and OnRamp and BuyPPY. That's literally, that's all we need. Dev says, wow, sounds great.
+
+(47:25 - 48:04)
+I said, can you give me a wallet for you? Community wants to donate to you to say thank you and work faster. Well, it's a copy and paste from the dev. I will pin that. 
+
+Um, like a location that can climb a mountain. Dallas. Yes.
+
+(48:08 - 51:34)
+No, not Mexico. I don't need a visa in Mexico. You, I'm in Mexico. 
+
+I was just there actually a few weeks ago. We just walk in. Before you log off, can you give a quick recap and also what's coming next? Okay. 
+
+So recap, uh, we're all good now as far as the app stores go, which is excellent news because Apple is a B when it comes to, um, app store updates. Very, very happy about that. I feel like that was very underrated news. 
+
+Um, huge relief because I, I truly thought we'd get everything fixed and still be waiting on the Apple store. I'm happy that went quite a bit quicker than the timeline actually that they gave us. So that was great. 
+
+Um, let's see what else, uh, waiting on smart wallet fix again. Our dev as Farkas said, maybe a little bit optimistic, but going off, I mean, honestly, even before with smart wallet, um, fixing the issue wasn't what's taken so long. It's just another issue comes once you guys start testing. 
+
+Um, so I'm hoping he can at least get it, get the smart wallet working this week for you all to test and then we can, um, you know, get any fixes then once you all are testing it. And that way we're perfecting it versus, uh, just getting it to work. And, um, by perfecting, it's probably going to be the gas estimation, getting that down, not too much, not too little. 
+
+We don't want to overcharge you guys. We don't want to undercharge you because that means the wallet will continue running out, which then causes failed transactions. Um, uh, so we need a smart wallet working soon as a smart while it's working, we'll begin testing, get you guys to get your funds out, get the on-ramp or I'm sorry, get the wallet generation service, a new one, uh, deployed already. 
+
+Again, uh, you guys test that. And the reason we have to test these in stages is just so that the dev knows where, what he has to fix. If something's not working correctly, uh, right.
+
+(51:35 - 54:13)
+Because otherwise if we deploy it all at one time, it's just going to take a lot longer to debug and it's just a bigger mess. So that's why we have to do that in stages. Um, but again, I think it's, it'll be beautiful. 
+
+I like when it's already ready for us to deploy. Um, so, uh, yeah, do that. Um, once the on-ramp is deployed, then we can, um, have you all test it and start slowly, um, marketing so that we can stress test the app that way. 
+
+But we will probably, yeah, we'll have, have to have people just test that way too. Unless you guys just have unlimited funds where you can keep testing it. I need to find the money. 
+
+Still haven't sent him a lemon drop, but he hasn't really shared his location. Um, when will the FJB references be scrubbed from PPUI? Uh, we don't want to do that until we have some new material. I think it's still, I think it helps us more than hurts us right now. 
+
+And we are, we're still very, you know, I think everybody knows we're very conservative, although we do welcome anybody who wants, um, freedom. Freedom to use their funds. Z money, where are you at? Where are you having dinner right now? Where can we send a, um, a lemon drop? When Boris, oh, you know what? I think it's been, I don't, I need to message him. 
+
+I haven't talked to Boris for, maybe since last week. Um, xt.com. A lot. When will Bannon change his socials? Oh yeah, we need to, we've actually asked his social media girl, but she doesn't have access to his.
+
+(54:18 - 56:40)
+Boris is the hottest on the ground. Where at? Where do you like to have dinner, Z? I need to find Z's favorite dinner spot so I know where, where he's a regular at. And it's time you'll know. 
+
+I'm a girl. I'm not supposed to play hard to get with a girl. Um, and don't you want a lemon drop? Okay, I think, I think that's everything. 
+
+Uh, I will keep you guys updated on the devs. Uh, he is, he is, uh, supposed to give me an update tonight. So, oh, let me see. 
+
+I don't think I already had a screenshot. Let's give you guys another screenshot, but I don't think I have taken one of that. And it's a pain to log into the dev one with Beth. 
+
+Won't be once we have our new system, but no XT on board. No, I finally, I think it's like a few weeks ago, I've been asking Boris to delete XT for like, I think close to a year. Got it done. 
+
+I know he's, uh, busy doing more important things, but, you know. Huh, it looks like we had a Donna join the Freedom Jobs and Business program. Somebody go tell her to count to pay, pay, pay.
+
+(56:44 - 1:01:52)
+Donna Bowen? Bowen? I don't know. Um, okay. Yeah, I think that's everything. 
+
+Again, I'm, I'm happy with this week. I hope we do get the smart wallet, um, fixed, but I am happy with, uh, app, Apple App Store, um, finally updating because that was a huge step. We couldn't continue marketing if that wasn't completed. 
+
+So very happy about that. But I think that's everything now. Um, please don't share any of your personal information with anybody that, um, includes your seed phrase. 
+
+It includes other personal information. Don't stop sending me screenshots of your seed phrase and don't do that to anybody else because if we do that one of these days, they'll probably send somebody who's going to punch in your seed phrase and move your funds. Uh, so please don't do that. 
+
+Don't send me or any of the other admins or anybody else who asks you for funds. We will never do that. Um, we won't ask you to like help us out really quick and send us some funds really quick. 
+
+Uh, that's generally a scammer with, uh, fake profiles. So please keep that in mind. I know it's been several weeks now. 
+
+Definitely since anybody's been scammed here, I think you guys are doing a lot better with that. So just be, uh, aware of that. If ever in doubt, make sure you share with the chat and ask and they're better to be safe than sorry. 
+
+Don't download any weird apps too. Remember when a few people downloaded like a quick swap app and then entered their info and got scammed there too. So, uh, but I think that's everything. 
+
+Let me know if you need anything else in the meantime. Um, I have more voiceovers, I think to get, uh, uh, yes, a few things today. Um, attorney stuff went really well. 
+
+Actually, she, the lady who specializes in something else, um, called yesterday and everything's great there. Uh, our trademark told you guys everything was filed there. Um, so yeah. 
+
+Uh, but you guys, uh, yeah, definitely crypto lady. Uh, yes, it is super sad when somebody gets scammed and I always feel terrible about it, but, um, unfortunately I wish there was more we could do when one of you get scammed. Um, but that's why please, please, please be very careful. 
+
+And I know it always happens just on a bad day that you're not thinking straight or, you know, going through life. Uh, we all have those days, so just, it's always better to be safe than sorry. Just ask in the chat. 
+
+Don't, I will, please don't ever feel, uh, stupid for asking. I'd rather, and I'd rather look stupid than, uh, Boris. Um, it's a promise of free shit that gives people, yeah, I'm sure. 
+
+I'm sure it's like offering them something. They're saying like, send me some of this to get more. But again, just if you're ever in doubt, just, uh, ask in the chat. 
+
+I'd rather you ask than fall into something. Remember our dads will never call you, um, or ask again. Don't give your seed phrase to anybody, not even your mom. 
+
+Um, so keep that in mind. But other than that, I think we've had a good week. We will have another burn tonight. 
+
+Uh, we'll just continue on with random numbers. I don't know. Uh, and then we'll have, I'll post a contest, uh, let's do for the next, I don't know, 24 hours. 
+
+I think that sounds good. Um, yeah, maybe we'll do, maybe we'll, yeah, maybe we'll do that. Something about, maybe we'll share like a burn, some kind of burn social media thing. 
+
+Anyway, uh, I'm going to go feed these dogs before one knocks out my tooth again. And I think that'll be all. I got the whiplash.
+
+(1:01:57 - 1:04:31)
+Actually, I lost my car today too. His dentist was closer to my parents, so I stopped my parents. My dad's like, you want me to take your car to the car wash? I'm like, sure. 
+
+Thank you. Um, 45 million and 47 million. I didn't do that. 
+
+Nice little touch there. Uh, everyone invite a friend to, yeah, let's do that. We'll do, I'll post a social media, let's do a social media contest. 
+
+I'll post that tonight. I'll post a recording and then I'll send the funds for Friday as well. I don't know who that winner is, to be honest, but I'm sure, maybe it'll come out. 
+
+Um, you are welcome. Um, gift cards. So, uh, not using the gift card app right now. 
+
+Um, just because with this removed, there are some modifications that need to happen. Um, so our dev will be working on that. It's just not top priority. 
+
+Um, but we will have, uh, we will have other options temporarily. Kind of like we've had at, uh, the live events. Uh, okay. 
+
+I think that's everything that I got. I will, give me a few minutes to convert this and then I'll post it right away before I go to feed my fat dog. Can you post Friday night contest? Yes, I do. 
+
+I have it somewhere because I pulled the, oh, you know what? I need to make sure that the numbers weren't, I think it was number 10, that one, but I wasn't sure what the list I had. If it went from the most recent buy to the most, we start, we restart the number one at the most recent buy. So I just got to make sure that that list was in that order just to be fair and consistent.
+
+(1:04:38 - 1:05:17)
+Will we be able to buy PPI direct from the treasury in the future from the app or will we always have to swap Matic to own PPI? Um, no, you won't always need to swap Matic to buy PPI. We are, yeah, no, you won't always need to do that. Okay. 
+
+I think that's all I got. If you all think of any other questions, feel free to tag or DM me. Uh, give me a few minutes here to catch up on everything and I will get this updated.
+
+(1:05:18 - 1:05:26)
+You all have a great night and I will, I'll see you in a few. Back in the chat. Thank you.

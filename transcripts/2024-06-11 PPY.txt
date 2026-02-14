@@ -1,0 +1,266 @@
+(0:20 - 1:34)
+It's almost actually going to cancel this voice chat because there's not a lot, there's a lot going on, not a lot really for me to share. As you know, the latest updates on the app, although it's weird because when we push the update, it's looking different on my end, our preview app, the design on the donations page, the corrections don't seem like they've come through, but I did put up some new testing steps for you all to test if you have the time, I would really appreciate it. Let me know, I can see most of the transactions that you all do test on my end if they go well, but if they fail, I don't always see that.
+
+(1:37 - 2:51)
+But let me know either way just so I can have some confirmation of, yeah, that's still showing incorrectly on Trump's page, and Gary likes to, so we'll get that, I don't know why it's showing fine on the other app. Let's see, devs are working on, so donation page is done, which is awesome, of course we'll add more candidates, let's see, devs are working on, we have the one dev working on essentially organizing, rebuilding the code and the auth for the app, which will help prevent those of you, if you stayed logged into your app and came back a few hours later and tried to perform a transaction, you'd get an error, that'll solve that error, and then it'll definitely help speed up the app. So we're working on that just because it'll also make life a lot easier to continue building on the app before we move to other additions there.
+
+(2:51 - 3:27)
+Our other dev is actually working on a new marketplace feature, which is pretty cool. I think that's all I'll say on that, I think I'll leave that one as a surprise, it's actually fascinating. So that should be, we started on that this last weekend, should be complete by Thursday, but you know how software development deadlines are, so I'll keep you updated on that, again it's really, really cool.
+
+(3:29 - 4:09)
+So it was something actually that our advisor suggested, and I think you'll love it, super cool feature. So, do that, yesterday we officially signed our first contract for the marketplace, got the sample, got the photo shoot scheduled for the sample, and the photographer on that. This is not, and this is not like our Patriot Pay items, this is just like a different business as I had mentioned before.
+
+(4:11 - 4:53)
+This company is awesome, the couple who owns it is awesome, they've been on Shark Tank before, of course they are conservative, love the community, and of course Steve. Let's see, I also think the item itself, really, really, I don't know, I don't know how to say that I guess, I just think it's really perfect for our community. So, very excited for that, already got the tracking number for the item.
+
+(5:02 - 6:24)
+So that was really exciting, continuing to reach out to businesses and of course political candidates to add to our app. Again, if you know anybody who owns a small business specifically, and especially I should say especially items that are shippable and shelf stable, but not necessarily, I don't know, if you know somebody that, I don't know, bakes amazing cookies and has a cookie business, like, you know, those aren't super shelf stable, they're shippable, right? So definitely reach out if there's any businesses that you just love that would make a good fit in our community, please send over, you know, the name of the business if it's something you, you know, somewhere you just shop and they would align with our values, then go ahead and share that. Again, if you have any nonprofit organizations with a great cause that would also fit well into our app, reach out with that, or if you have a nonprofit organization yourself.
+
+(6:26 - 6:37)
+Yeah, super exciting, it's kind of, it's a little surreal. So it's been a really good weekend and a really good week so far. I can't believe it's only Tuesday.
+
+(6:38 - 7:13)
+I feel like lately that's kind of how it's been. There's been so much happening that, yeah, let's see, I don't think I have any DMs. This, it has been quiet the last several days as far as I haven't gotten a ton of emails or DMs regarding people losing their funds, anything like that.
+
+(7:13 - 7:33)
+I think we've worked everybody out into transferring their funds. So yeah, it's been quiet on that end. But please do remember, if you know anybody that ever, you know, held FJB or even just downloaded the app, because you don't know, they may have downloaded the app and, you know, purchased later, please, please, please let them know again.
+
+(7:35 - 8:01)
+Since that is with an old partner, our access is limited time wise. They can essentially pull that at any time and there's not much I'll be able to do. So please think of anybody, old co workers, old friends, family members, maybe you only see at Thanksgiving or Christmas, and just shoot them a quick text to go ahead and contact me.
+
+(8:01 - 8:36)
+Even if you, you know, want to give them my phone number, my email, if that's easier, so I can go ahead and walk them through those steps, please. Also ask them to join the mailing list on our website, just because that'll probably be the quickest way, easiest way for them to get very important critical updates. So, yeah, just don't, I know I haven't mentioned that much, but in case there's a few stragglers out there, I know that happened with like the XT and probit and all that.
+
+(8:36 - 8:45)
+So we just don't want that to happen again. I would hate to see anybody lose their funds. Let's see.
+
+(8:54 - 9:17)
+Well, Sarah, Sarah, Sarah, hello. Will candidates become global or just us? No, I actually was thinking about that yesterday. If you have candidates outside of the US, please feel free to reach out as long as we can get donations to them within, you know, the legal, I don't know, depending on the region you're in.
+
+(9:18 - 9:39)
+We, of course, will continue to follow, you know, all the correct laws. We don't want to mess with anything there, but yeah, reach out if there's any candidate that is wanting to accept crypto. I don't imagine there's anybody that doesn't want to.
+
+(9:40 - 9:53)
+Yeah, send over their name and we can add them to the app. The more the better. That was a bit of a surprise.
+
+(9:53 - 10:10)
+What was a surprise? I missed it. Does Trump's team know he is on our app to receive donations? No, not yet. We are waiting until the app is fully complete to have both Steve and Boris log in and make their accounts.
+
+(10:11 - 10:34)
+See how easy and amazing the app is. Will we have voice chat Friday or will we be too busy with TPUSA? Actually, don't think I'll be making it to TPUSA. One, because we're not marketing yet, but two, also because I have a surgery coming up.
+
+(10:35 - 11:19)
+I'm waiting on the final date of that and so I don't want to miss that much work just because the conference days are insane. It's a different type of work, I guess, but I usually can't get much work on my computer with devs, which right now is critical, along with merchants and stuff like that. But also, again, since I will probably need a few days for surgery, then yeah, I think that'll be better allocated there.
+
+(11:20 - 11:42)
+And again, I think it's better for us actually to wait. I do need you all to test the app, please. If you do need, I know especially if you're testing a ton, then you probably are running out of funds because of the 8% tax.
+
+(11:42 - 11:59)
+If that is you, please reach out to me so I can go ahead and refund you the tax so you can keep testing. So I hope that makes sense. Please reach out with your wallet address so I can look it up and then I can send you the PPY or however you want it and then you can continue testing.
+
+(12:00 - 12:20)
+Again, would really, really appreciate that. Without testing, we cannot move forward. And again, we can only do so much testing on our end because, again, that's why we're deploying it is because it works on our end.
+
+(12:20 - 12:57)
+And then once there's more of you testing it and higher volume and different devices, different locations is when the errors pop up. I will have you once we have the auth issue fixed on our end, I will have you all log in all at the same time, log out all at the same time just to kind of start stress testing that there. And then we'll also try swapping, say, Patriot Pay all at once.
+
+(12:57 - 13:23)
+We probably want to swap like Matic to Patriot Pay because that's most likely going to be what happens once we start marketing. So that's something I'll have you all do. But we do need you to test first now that everything is solved on our end to see if there's any more bugs for us to solve before we can do that.
+
+(13:37 - 14:19)
+When will people be able to buy larger than 700 at a time when swapping Polygon to PPY within the app? OK, so is it are you getting limited at the 700? Are you getting limited with buying Matic or are you getting limited with swapping? I know you said swapping, but I want to make sure it's not limited swapping. OK, let me check. Let me check on that because I have a feeling that's either a change now.
+
+(14:21 - 14:32)
+Or possibly a slippage issue. But I'll check on that and get back to you once I find out. Marketing before end of month? I think so.
+
+(14:33 - 14:37)
+We're looking pretty comfortable. We're at June 11th. I do need you all to test.
+
+(14:38 - 14:56)
+The sooner you test, the quicker you test, the quicker we will get there. And again, if you need your testing funds refunded, please just send me a wallet address so I can do that if that would help. Because I know it's like swapping in and out of PPY that 8% goes quick.
+
+(14:56 - 15:06)
+I know that from testing myself. So please let me know and we can do that. But we just need you all to test.
+
+(15:08 - 15:18)
+Again, because the last few times we've found bugs that have not come up on our side. I feel like Matt gets the most bugs. I don't know.
+
+(15:18 - 15:27)
+I don't know if it's location or what. Account, VPN. His wallet even had issues donating.
+
+(15:28 - 15:40)
+Which is, we've not ever ran into that. So we'll figure that out. What else? Oh, the dev.
+
+(15:41 - 15:55)
+Actually, the dev who I said was working on the auth issues. Before that, I think it should be completed. If not now, within the next hour or two.
+
+(15:56 - 16:12)
+A really important part too, when you all go to swap. And that little confirm, the box where you confirm your transaction before it actually goes through. Definitely need to simplify that so it doesn't look so overwhelming and confusing.
+
+(16:14 - 16:26)
+So that'll look a lot better. And then he'll continue with the auth. And a little bit of reorganizing the code there.
+
+(16:26 - 16:47)
+That should be completed by the end of the week. May go into early next week. Move on to the other features.
+
+(16:49 - 17:07)
+It's nice because the transactions and dealing with a few partners there that we just depend on. Whether it's on ramper or change now. It's nice because after dealing with that for so long.
+
+(17:09 - 17:15)
+Knock on wood. Everything now is just a breeze. Because it's not transaction related.
+
+(17:15 - 17:34)
+And it's really cool, finally, nice to get to that. Which is why the dev can finally work on straightening up the code. That way we can get everything in line before we continue to the less urgent features of the app.
+
+(17:35 - 17:51)
+It's pretty freaking cool. Can't believe it. Change now.
+
+(17:52 - 17:59)
+Okay, awesome. Actually, the launch video right before I was told it's being sent to me. It's loading to send to me.
+
+(18:01 - 18:09)
+Which this should be the final. It's like funny with these things. Like the final, final, final version.
+
+(18:09 - 18:27)
+But it should be dang close to the final version. Education videos are good. We are concentrating on some other higher priority graphics for businesses.
+
+(18:29 - 18:39)
+For our website. A banner for businesses to put on our website. For businesses that want to accept Patriot Pay.
+
+(18:40 - 19:01)
+What else? Let me look at those notes. Oh, some labels for the coffee, for the dog treats. What was the other one? Oh, and then logos for other businesses to put up at their businesses if they accept Patriot Pay.
+
+(19:03 - 19:15)
+Super exciting. Also really, really excited about a big collaboration that will cost us a very pretty penny. But will be amazing.
+
+(19:15 - 19:30)
+But we do need to work up to that. Not War Room huge, but I'd say pretty dang close. And I'd say less more millennial crowd and less boomer crowd.
+
+(19:31 - 19:54)
+Very excited about that. But definitely need some testing for that kind of volume. We're nuts.
+
+(20:17 - 20:35)
+Cool justice, yeah. Like the charades with Hunter. Should we be approaching all businesses signing up on the Public Square website? Asking them to also sign up with us? I think they have so far.
+
+(20:36 - 20:43)
+We have. We have reached out to most that we feel would be a good fit with us. Definitely.
+
+(20:48 - 21:45)
+When will the remainder of the white paper coming soon be revealed? That hasn't changed once everything is working in the app as it should. Goodness, what just got me? Oh, my gosh. I wonder how much Tucker Carlson's ads cost.
+
+(21:46 - 24:15)
+Joe Rogan start at a cool half a mil. If any of you were wondering or wanting to advertise your business with him. Paul Black says thank you.
+
+(24:15 - 25:18)
+Thank you for what? How are the Trump donations working on your end? I haven't had any issues, but I think it was Matt. I had an issue and then it went through. So I'll have the dev who did that part who's working now on the marketplace function.
+
+(25:19 - 25:37)
+Go back to that as soon as he's done with the marketplace. A little bit harder for me to test that because of the way it gets grayed out after you hit the limit. So we'll have to find a way around that and just keep donating.
+
+(25:42 - 26:01)
+When will we invite others to donate to Trump through the app? As soon as the app's ready. They can't donate if they get on and have issues and just get off the app because it's a crappy app. We can't afford to do that.
+
+(26:15 - 26:46)
+Will there be a total crypto donated and total PPI donated? No, I think those who are interested can check the blockchain. For the organization donations and the percentage that we donate through the transaction fees, we'll have a meter that will get added per... I think we mentioned that in the white paper. So that hasn't changed.
+
+(26:48 - 26:58)
+Yeah, that reminds me we need to draw for the two contests. I think we're two contests behind. Oh, I also thought of something actually while I was thinking of contests.
+
+(26:58 - 27:12)
+We still have one or two winners who won merch store gift cards. And you all never reached out to me. So whoever you are, please reach out.
+
+(27:26 - 27:52)
+Will there be marketing before quarter three? Are you listening? Oh my goodness. Have people been testing it from what you've... Oh, I think, did I answer this earlier? Did it pop up on the top of my... Yes, we have. We just need more.
+
+(27:52 - 28:04)
+I think people are testing, like most people are testing one or two of the same transactions. But I've had a few regular, super regular testers, which has been very helpful. You included.
+
+(28:06 - 28:24)
+Because again, it's weird. There's some issues I actually run into that... Well, I guess that's stupid. I was going to say there's issues I run into that you guys don't, but... It's because I run into them and then we fix them before we deploy to you guys.
+
+(28:27 - 28:50)
+Just kidding. How much is the donation wallet so far? I actually haven't checked. I can check.
+
+(29:42 - 29:53)
+Trust wallet has been pretty glitchy for a while. Look at that. Maybe they have Fiverr devs too.
+
+(30:01 - 30:28)
+So it looks like Trump's donation wallet has $117.62. The odd may be due to us testing. Awesome, somatic. Okay, that's for testing.
+
+(30:30 - 30:52)
+Yeah, it's around... Or actually, wait, 118.84. Oh, and I know I saw... It popped up. I don't remember where. Somebody asking about the donation wallet, whether it's smart wallet or expert wallet.
+
+(30:52 - 31:03)
+It's just going to depend wherever wallet you're in. That's the wallet it will donate from. When you open the wallet automatically, it's in smart wallet.
+
+(31:04 - 31:26)
+What we'll do actually, once we're done with a little bit of the more urgent stuff right now, is we plan on adding native coins to the smart wallet too. I think that'll be a little bit less confusing for people coming on who aren't so crypto savvy. Then you'll have the Ethereum, the Matic, the BNB, the wrapped Bitcoin.
+
+(31:27 - 31:53)
+You'll have some in smart wallet too, versus having them all live in expert wallet. I want to say we had it like that at one time, but it's been so long. Can we get a bot to show all Trump donations in Discord? Ooh, that's pretty cool.
+
+(31:53 - 32:23)
+I will ask Mr. Ed. He is the bot master. I think we'll definitely have to change the minimums too once we start marketing, or maybe do a different channel for the bot.
+
+(32:24 - 34:38)
+That's probably a good idea. What is the address? Ah, hold on. I want that green sofa, but I don't see the buy button.
+
+(35:40 - 37:02)
+Anything else? Let's do Contest Arena. I need to put that on too. Maybe we'll do another test named Contest, I think, actually, since we need that.
+
+(37:46 - 38:18)
+Let's do 500,000 again. Let's do the 500,000 one winner, since you guys always like the one winner ones. For everybody who tests the app from today until the next voice chat, I think that's good.
+
+(38:20 - 38:34)
+And it'll be basically every transaction going into the random number picker, and then we'll go from there. We'll just do it by transactions. I think that's pretty fair.
+
+(38:35 - 39:00)
+And that'll start today, so 6-9 Eastern, until the 8-30 Eastern on Friday. I think that's a pretty good deal, so every entry is an app transaction. And minimum, maximum, doesn't matter as long as it works in the app.
+
+(39:02 - 39:19)
+So, probably try different amounts if you can, even if it's very similar. Like, I don't know, 20,000 PPY versus 21,005. Yeah, but I think that's good.
+
+(39:26 - 39:34)
+We haven't picked the last two. Let me see. The transaction ones, we have to go to transactions.
+
+(39:36 - 39:48)
+But the other ones, let me see. I have, let me pull up Stacey's list, how many people were there. 57.
+
+(39:49 - 40:16)
+Let's put this in here. Two of 57 generate 46. Who is 46? 46 had 8 entries and ends in... What's this? No, shoot, it's not 46.
+
+(40:17 - 40:50)
+46 had 12 entries and ends in 7A2E. There, and then the other one, I'll go through the transactions to count the transactions. And then, same thing, we'll go from most recent to the oldest and then count that way.
+
+(40:52 - 41:02)
+And I'll post that one, too. But that's all I got. Oh, Nolan says, win black chair.
+
+(41:03 - 41:26)
+Maybe it'll be with the green couch. Once we're marketing on the podcast that I'm thinking about, which will be before War Room, but not to begin. Then maybe that's what I'll do, is find that black chair, find the green couch, and one of each, limited edition, will be for sale.
+
+(41:30 - 41:37)
+For a few PPYs. Alright, I think that's everything. I gotta get back to work.
+
+(41:38 - 41:51)
+If you guys need anything in the meantime, please reach out. Remember, don't share your private key. We have been getting a few questions on the private key in the app, which is essentially your seed phrase.
+
+(41:52 - 42:05)
+It is available in the app. If you go into settings, exactly where it was before, go into that little cog wheel by your email at the top of the app. And then if you hit private key, it'll walk you through the steps.
+
+(42:06 - 42:25)
+Again, you never want to share that with anybody because that's like your seed phrase. And then save that, again, somewhere safe. And you can also enter that into MetaMask, you can enter that into TrustWallet, or any other third-party app that you have.
+
+(42:25 - 43:09)
+Don't enter it into any weird links or any other chats or anything asking you to log in so they can send you free coins or anything like that, please. But yes, you can get your seed phrase essentially from the app, your private key, so you can access it anywhere else. Say the app is down, say Apple Store is updating the app or anything like that, then you have access to your keys still and you can access your funds from somewhere else.
+
+(43:13 - 43:38)
+Let me know if you need anything else. In the meantime, again, please don't forget if there are businesses that you enjoy that align with our values or organizations that you enjoy, please send them my way, even if it's just the name of the business, or have them reach out to me, even if it's somewhere local. I know sometimes a lot of really cool local businesses, small businesses, still ship a lot of their stuff.
+
+(43:38 - 44:03)
+Let me know. I'll probably, once I'm up in Pinetop, a lot of the artsy, really cool stuff like that over here, especially in the summers up north because it's so freaking hot here, everybody leaves. But a lot of them make some really cool, even practical artsy stuff, some kitchen items and stuff like that.
+
+(44:05 - 44:20)
+So we'll see about that. Otherwise, you all have a great night. And I'll let you know if I have any major updates before Friday, but I think should be pretty quiet on the front end.
+
+(44:22 - 44:34)
+Hopefully some app updates, at least by the end of the weekend, though. You all have a wonderful night and then enjoy the contest. Thank you.

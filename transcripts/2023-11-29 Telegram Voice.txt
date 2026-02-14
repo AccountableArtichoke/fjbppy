@@ -1,0 +1,435 @@
+(0:00 - 0:15)
+Cool. Happy Tuesday. I hope everybody had an amazing week, weekend. 
+
+We had a really good weekend. I keep saying week. I guess the start of a week in FJV land.
+
+(0:17 - 2:02)
+I'm still trying to get everything ready for you all at least to test by the end of the month. The third party, we are still waiting on them. Also, our dev is doing something that is independent of the third party. 
+
+He's also working on something that should be completed tonight. What he's working on should help us then get you to start testing at least. As soon as he wraps that up, I will have a live meeting with our dev. 
+
+This is our dev in Canada. As soon as he's done, that deadline is tonight from him. Actually, let me text him. 
+
+Let's see how he's doing. As soon as he's done with that, then we can have my live meeting scheduled with our devs in India. They're ready to go to go ahead and get that completed to at least get you guys to start testing. 
+
+I will keep you updated on that. Our app changes are still going very well. I'm sure you guys have seen some of the changes on the front end. 
+
+I think that looks really, really good so far. I'm really liking the changes happening there with the app. Let's see.
+
+(2:03 - 2:19)
+I know we have Elle. She's having issues still with her app, but she's been a little MIA, so if anybody's spoken to her, let her know to get back to me. I tried pinging her.
+
+(2:19 - 3:48)
+When was that? Yesterday. I don't want to be too annoying to see how she's doing, but if anybody speaks to her, let her know to contact me. Then I know who else was it? Easy Patriot was also having issues with the white screen showing up. 
+
+He's never tested. He never used our link we used for testing the new login system, so that's different, but Vess is looking into that. Other than that, I'm not aware of any issues with you accessing your account, so if you do have any other issues, please DM me or go ahead and drop it in the app support channel on either here or Discord. 
+
+Anything else? I don't see any questions. I see a message request in Discord. Let's see. 
+
+Oh, no, that's just a scammer. My Discord notifications are not working again, by the way. I don't know what the deal is. 
+
+After I reinstalled it like a week or two ago, they were working again for a few days. Then back to not pinging me. Oh, that's the guy that DMed me.
+
+(3:49 - 4:49)
+He's in the chat too. Bonnie says, pleased to all. I think he's replying to the Alex guy. 
+
+I don't see any app support. Vess support, fuckoff46 says his FJB account shows zero. If your account shows zero, please switch the toggle at the bottom of your app. 
+
+Your funds are likely in your expert mode. When you log in, it should automatically be in smart wallet mode. We've had that functioning for about a year, a year and a few months now.
+
+(4:51 - 5:48)
+Okay, let me go to Jenna. Elsa, how do you like it? Just trying to help her log in. Do you mean we will test the task before task reveal? I'm a bit confused what we will test. 
+
+Yes, I'm trying to get you all to at least test it by the end of the month, but I will keep you updated. You're trying to be sneaky. What does it mean to test? Testing what? You'll find out. 
+
+I'll give you instructions on exactly what to do. You can't mess it up though. Basically, we need you guys to do nothing until we ask you to. 
+
+So I'll keep you updated when, yes, the task. I'll keep you updated when it's time that I need you to do nothing. But right now, you're free to do whatever you like.
+
+(5:50 - 6:11)
+But let me know if any of the functions you're testing are not working. For me, most everything is working as it should. But yeah, my brain is fried.
+
+(6:32 - 7:48)
+Are we going to make it for TPUSA? We're not sure yet. We're still waiting on this step. We have a meeting with TPUSA tomorrow. 
+
+I'll update you guys on how that goes. Actually, while I'm at it, let me bring up a calendar too. Thursday, hello.
+
+(7:57 - 8:16)
+Tuesday, Wednesday, Thursday. Pretty tight timeline, huh? Oh, that decaf. It's my first time trying that brand and tastes like tobacco.
+
+(8:26 - 8:39)
+So if we get to test, task before the end of the month, that will mean task or field timeline. Well, thanks. You said you were, we were changing the ticker to Patriot Pay instead of FJPay.
+
+(8:40 - 8:49)
+Are we doing that this year? So that will have, we need a fork for that to happen. So I'm not sure. I'm not sure if that'll be this year.
+
+(8:52 - 9:47)
+But in order to do that, we 100% need a fork, unfortunately. What is the deadline, if any, to commit to participate in the TPUSA event? So we've not gotten a hard deadline on that. And I think they have been very forgiving and patient with us, knowing how close we are with Bannon. 
+
+So tomorrow's, we're hoping that tomorrow's meeting gives us a little bit more definite of a date. And I will definitely keep you guys updated on that if you'd like. Have you decided on a new coin name? If we were to fork, I would say, or when we fork, I guess, I would say something with Patriot Pay, possibly.
+
+(9:48 - 9:53)
+I think that sounds good. I don't know what you guys think. Maybe we need a vote on that.
+
+(10:00 - 10:04)
+Excuse me. Sorry, I'm dehydrated. I'm gulping my water.
+
+(10:05 - 11:28)
+It is pretty warm here. We're at November 28th, and the days in the sun are still fairly warm. No, let's not call it a vote. 
+
+Yeah, I guess that's a trauma. What happened? What happened with Non? Somebody tell Non to pay up. We just voted. 
+
+Not leg? What is it then? I thought that's what you were saying. We just voted for leg. Ultra mega coin. 
+
+Wasn't there like an ultra mega coin? Am I thinking correctly? Wasn't that one of the ones we got rubbed on? Oh, Patriot Pay coin. It's pretty straightforward. I like that. 
+
+Keep it simple. K-I-S-S. Ultra mega coin would be UMC.
+
+(11:28 - 13:44)
+Hmm. That was for Tim. I know. 
+
+Where is Tim? I haven't seen him pop up, I don't think. But my telegram has been acting really weird, so I'll see the pop-ups, and my pop-ups are always like every message comes as a pop-up. That way, if I'm doing other stuff, I can still be like, you know, in on you guys's conversation without having to open anything. 
+
+So that way, something comes up that's really important or urgent or whatever, or Rose kicks somebody out, then I can go in and do what I need to do. But I don't think I've seen him. My notifications have been weird. 
+
+Maybe I need to uninstall and reinstall again. I'm not sure. Any app fixes on the near horizon? What? Where have you been? Yes, that's what we literally have one team working full-time on that, and then another team that's kind of in and out on it with the app. 
+
+Our devs have definitely been working a ton to get that, and that's a crazy part about our app. It seems so simple on the front end, so it seems like all these fixes should have been done in no time, but a lot of it, especially the smart wallet, is a lot more complex, I guess, than it seems. LMAO at Rose. 
+
+I think he meant additional fixes. Yes, absolutely. Of course.
+
+(13:49 - 15:11)
+We have a whole list that keeps growing of stuff. You know, it's kind of like the more you fix something, then you start seeing other things that need to be fixed. So it's a good thing, but yes, definitely. 
+
+Our goal is to keep fixing the app, but it's kind of a double-edged sword because at some point, of course, we want to perfect it, but at some point, the task takes priority, but the task needs to be integrated into the app. So that's... Just got to make sure task stays as a priority, even though devs, of course, once they've dived into the app, you know, they want to make sure everything on the app is perfect, but we need to get that task integration into the app. Are there more features to the app that will be released before TPUSA, or is the app now in its launch-ready state? We'd like to have more features added to the app.
+
+(15:12 - 17:09)
+However, task integration takes priority, so we're hoping that the devs don't run into any issues integrating the task into the app. Hopefully that process is just as easy as possible, and again, with our smart wallet, like the smart wallet is not, as most of you know, it's not a standard feature of other crypto wallets, so a lot of devs have honestly never worked, no dev we've spoken to has worked on something like this. They might be familiar with Freedom Factory contracts, but basically all to say that it's having the smart wallet and why it keeps breaking, and you know, I've heard some people say it's not so smart, it's really just a lot more complex than that, so we'd like to add more features to the app, but we need to get the task integrated in there first. 
+
+Right now, just to get everything working, I think with the login issue, getting that where people are logging in with their seed phrase, that was critical. Hiding zero balances, I think was kind of nice to get everything cleaned up. Marking the tooltips on the smart wallet toggle at the bottom and making that a little bit more clear, I think also pretty critical or even maybe just urgent, but I think as long as all the functions we have on the app right now are functioning, we should be good for now, at least till task is integrated in the app.
+
+(17:11 - 17:35)
+What happens when XT drops their 500? Yeah, I need everybody to please get your coins off XT, off LBank, off Wire. Wire, you shouldn't have coins, but you might have funds there. Again, with Wire, you won't have funds there unless you bought right before they dropped us.
+
+(17:38 - 18:04)
+Hello? Oh, I was trying to see who it was. Clicked too late on it. Are any FBI informants working on the app? Not that I know of.
+
+(18:06 - 19:30)
+I don't think our devs in either Canada or India are in contact with any feds, but if you know something I don't, feel free to reach out. When will a task be revealed as soon as a third party have executed, activated, or will it be delayed to facilitate app involvement? No, we don't need to integrate task into the app before it's live. That would be very nice, but we don't need to do that. 
+
+At least not to have you testing everything out. Nope. But yeah, I think you guys will like it. 
+
+It's definitely out with the old, in with the new. Fresh start. A wonderful foundation.
+
+(19:32 - 23:28)
+What else? Just definitely the start of something great. Again, by definition, and I hope you guys do remember this because I haven't set out this disclaimer in a while, but by definition, we will have some hiccups. And I ask for your patience and advance. 
+
+There's nothing you could do to mess it up if you don't do anything. So just sit tight and as soon as we tell you to just sit tight and just don't do anything, you'll be good. So basically to rephrase that, you don't need to do anything until we ask you to, if we ask you to, but there's nothing you could do to mess it up. 
+
+Just sit tight. And we will, we will have hiccups and that's literally by definition, but we will get through them and we have to get through them to get through this process to just get this foundation set and just be done with the past. Assuming we're in the one to 10 day period. 
+
+So sneaky, the Aussies. With testing of the task, is that done through a website? Yeah. I mean, everything. 
+
+I think everything we do is through a website, right? I don't think anything's going to be nothing's like in person, I guess, in person through a website. I don't know. Love those words. 
+
+Oh, what words? So task will be revealed by Thursday. Uh, no, I'm not sure of that. Do not put words in my mouth. 
+
+Decentralize snapshot. What are we talking about? Did I miss something? Glad and wasn't on flight 7370. What? I don't know what that is. 
+
+What's flight 370. 730 370 same same thing. Disappeared. 
+
+No, don't believe it. Did everybody hear of like the respiratory, mysterious respiratory infection that's going around with dogs? Apparently, we don't have any confirmed cases in Arizona yet, but everybody's freaking out. Dogs and cats and kids. 
+
+Wait, really? Oh, I've heard of dogs. I didn't realize that. I didn't realize cats and kids. 
+
+That news hasn't gotten to me yet. Also, I don't watch the news. So I've only seen this in like my holistic vet groups and holistic human groups, stuff like that.
+
+(23:29 - 26:18)
+And like my neighborhood groups, everybody's totally freaking out. Oh, shoot. I didn't realize that. 
+
+I'll have to look it up in China. Lots of kids showing up in the ERs. Hmm. 
+
+Great. Just before the elections. What else? Check that email to see if I have if you know anybody that holds any co workers, friends, family members that have FJB please tell them to get their coins off of XD because you never know they could have some on there that you don't know about. 
+
+Get them off XT, get them off L bank. If they decide to pull that we will no longer be able to help you. Please reach out if you need any help getting your coins off there. 
+
+There's a few of you who reached out and then I get back to you and then I never hear back. So I don't know if it's trolls or people who end up figuring it out on their own. You've said task revealed this month and prior calls this month ends on Thursday. 
+
+Yes, I know. That's why I'm trying to get you guys at least to test it out. We'll keep you updated still a few days. 
+
+I don't want to tell you no. And I don't want to tell you yes because truly I don't know. We are waiting on the third party now. 
+
+I will say that. So I'm trying to get it for you guys to test even if third party doesn't have it. They're part of it complete but I'll keep you updated.
+
+(26:29 - 26:48)
+I have 500 million coins on XT. Can you help me get them off? Sure. I have an Excel of all the wallets though. 
+
+So do you own every one of those wallets is what I'm hearing. Oh, okay. That all makes sense now.
+
+(26:53 - 30:00)
+App logos changing soon. Yes. Yes, sir. 
+
+App name and app logo. I'm very excited that Rami has not tried to come back to our website. Does the former team have coins on LBank or XT? No, I don't believe so. 
+
+I have no reason to believe that they do. They are done. They said they claimed that they literally trashed their phones, trashed their laptops. 
+
+So you can use your imagination. Any last known locations? I feel like no one asking for a friend. I feel like no one definitely knows. 
+
+I think they all I think we all know but no one specifically will be able to answer that for you. Let's see their asses anyway. Give us time, give us time. 
+
+You know, it's one of those things where like it taking care of yourself takes a priority. So legal stuff takes a lot of energy, a lot of energy, a lot of mental, physical, emotional. We've had to deal with that in the last few weeks too. 
+
+So we had to get our stuff together that took priority. And then we can continue the rest. I'm pretty sure they, I'd imagine they probably got away. 
+
+I think they got away. Whoever it is, that would know where the missing phones are. I wonder where that comes from. 
+
+That same Scott Free. Scott's gonna be like a criminal who serial killer who got away. Oh no, it's totally not.
+
+(30:00 - 30:11)
+From the Middle English, Scott Free. From Old English, Scott Free. Exempt from royal tax or equivalent to Scott Free.
+
+(30:15 - 30:29)
+Interesting. This one says from the Scandinavian word, scat, which means tax or payment. Okay, so it's got away, Scott Free.
+
+(30:33 - 31:23)
+I'll start saying that instead of Scott Free, Scott Free. You're reasonably confident all will be revealed and operational by December 5th. Honestly, that's hard to say when we literally are depending on a third party. 
+
+I can't. With our history, I feel like I used to be very confident when I when we were given dates. But somewhere along the line, I think when it was we're working initially on our app, actually, before we finally found Transact, I think around that time is when I stopped being so sure.
+
+(31:24 - 31:53)
+Because Murphy's Law, something will come up. That's why when Finn came on and said August 2nd, I was like, oof, I don't know. And he was like, I know. 
+
+I was like, okay. You all saw how that went. So I don't want to mislead you.
+
+(31:55 - 33:33)
+Because if I do tell you yes, then something will happen with a third party meeting to extend or something. Just trying to be realistic, you know. But hey, then if we do, then it'll be a nice, pleasant change to the Airflot. 
+
+And if we don't, I think I've mentioned this before, if we don't make the TPUSA Mirafest, their spring events start weekly. Very, very soon. So I'm not totally worried about that. 
+
+And those videos and presentations they show at the college campuses they visit. So that's also, in my opinion, a very awesome audience to present our info to. Digital airstrike, we will make TPUSA, Ed says.
+
+(33:37 - 33:48)
+If this don't boom till August. Oh, you're doing August 2nd? Oh, gosh. Boris better scoot over and SAV better start packing.
+
+(33:49 - 34:07)
+Positive think thinking, think thinking, thinking, ink. Thinking. Sorry, I thought I thought that was an Aussie saying.
+
+(34:08 - 35:21)
+Ed, I think of you now every time one of my parents, she's she always says, Can I rub your belly? And I think of you now every time she says that. Can I rub your belly? Good girl. I'm like, No, I don't want you to rub my belly. 
+
+Rub your belly. I think that's all the updates I have. Again, please get your coins. 
+
+I know, most likely you guys here probably don't have any coins on next year. Elvin Cleft, I'd assume. But somebody out there does. 
+
+Unless they passed away. I can't imagine who I mean, that's a lot of coins. So we're not talking like these wallets don't each have like a million coins in them.
+
+(35:22 - 35:35)
+We're not talking super low balance wallets. So I'm only gonna remind you guys for a very little bit more. And then you're gonna be on your own.
+
+(35:37 - 36:06)
+And then I don't think you'll get anything out of L Bank or XT to be honest. So get those coins ASAP. If you know anybody that may even hold any of JB, make sure you check with them in case they've bought some on there. 
+
+If you know anybody of a family member who somebody has passed, that's an FJV holder, which makes me really sad. Let them know. Let them let them know.
+
+(36:11 - 37:14)
+Can you say how many wallets? Oh, I don't know off the top of my head. Let me see if I can quickly find that file. I remember it was a ton. 
+
+Holy smokes. Let's get to the bottom of it. Oh my gosh. 
+
+Yeah, some of these have I mean quite a bit. You guys. So a little bit over 2000 wallets.
+
+(37:16 - 38:53)
+But let's see how much does this wallet have. So I see like this one's 32 million, 65 million, 28 million, 14 million, 11 million, 7 million, 6 million, 5 million, 5 million, 5 million, 5, 5, 5, 4, 3, 3, 3, 3. Yeah, quite a bit of them. Then we kind of go into the right over 1 million or so, but that's quite a bit. 
+
+Those larger wallets, I mean, what is what 65 million right now? That's that's huge. 65, 35, 28. I really just wonder if that's like maybe it's somebody who passed away who they never told their family. 
+
+They were, I don't know, unless one of you just forgot your keys. But XT is easier to log into than keys. So like to like reset somehow, I assume.
+
+(39:02 - 40:09)
+Oh yeah, I remember that. I think Russ contacted his wife. Hmm, wait, that wasn't Road King with the cat, was it? Because I saw Truck Driver and I remember he always had his cat with him. 
+
+Oh, that's Crazy Trucker. Okay. P6 is catty. 
+
+Now I know P6. I was thinking of Crazy Trucker with the kitty cat. Can we buy them prorated? I'm afraid not. 
+
+That would be nice though. Oh wow, so that's 65. Okay, so somebody has an account with $10,000. 
+
+That's quite a bit. Then the what, 32, 33. So another 5k.
+
+(40:09 - 40:50)
+Yeah, it's a lot. The rest look like they are just under grand, but they add up all the way to going back. A lot of them are just change. 
+
+So that's probably wallets that we weren't able to, you know, empty out every little penny out of. Dust wall, or dust wallets, yes. Not by us.
+
+(40:56 - 44:30)
+Stacy said that wasn't telling you. 6k. Yeah, I should look at my NXT account. 
+
+I haven't logged in there forever. There's probably some in there. If on a spreadsheet, column total. 
+
+Yeah, well we already know the total though. We have around 600 still. I know I've seen a few people transfer, but what can we expect to happen over the next two days? Our Canada dev should have something completed for me tonight. 
+
+Once that's completed, I'm hoping I hear from the third party tonight to not that they're done with anything, but just an update. So once the Canada dev has what he needs to have ready for me, then I can have a live meeting with our devs in India for us to make some things happen. Yeah. 
+
+And then from there, our advisor will be very happy and relieved, probably, when I update him with that. And then we'll see when the testing can start. Are the devs in India the third party? No. 
+
+The devs in India are one of the dev teams that are working on the app. So we have one dev team working on the task. We have a dev team working on the app in India. 
+
+We have another dev team working on the app here in the U.S. in Florida. And then, what was I thinking? Oh, we have the reviewers reviewing everything. That's also in India. 
+
+Then we have third parties in India and Lebanon. The task devs, where are they located? Well, we have a few dev teams on the task, mainly Canada. Our main task dev is in Canada. 
+
+Then our dev team in India also worked on a portion of that. And then, of course, our third parties that we need. And our dev teams who reviewed everything were also in India.
+
+(44:40 - 44:50)
+Honey Badger just reminds me of the NFL. We had a player on the Cardinals. I forget his real name now.
+
+(46:14 - 47:35)
+Looking forward to testing in the next day or two. Yes, I will. I'm trying to make that happen as soon as I can for you guys. 
+
+I feel like at this point, I should become a dev. I feel like that's, you know, I don't know if there's any other personalities in here that's like, ah, to make stuff happen, I need to do it myself. As smart as our devs are though, so that would be a problem. 
+
+I like that. We love Trump, Steve, and Carrie, huh? Oh, wow, my reaction things are working, but they're taking me back. To a week ago. 
+
+That's nice. That's us through the Fed. Yeah, no kidding.
+
+(47:37 - 49:21)
+Good thing we have nothing to worry about because we current team has have done absolutely nothing wrong. That includes me, Bannon, Boris, and anybody else on the team including obviously your social media, web devs, and all our other devs, our advisor, anybody literally still on the team. Nobody's made a penny. 
+
+So yeah, we're good to go there. It's kind of nice when you've done nothing wrong to not have to worry about that. Anything else? I will post a recording. 
+
+Now I'm nervous. Wait, gotta be like, oh, was it recording this entire time? Yes. With some notes. 
+
+And then I'll go back to writing. My brain is so fried from writing, by the way. I was just gonna say, I don't know. 
+
+I feel like you have made some penny. And maybe you've made some mini pennies from that penny. I'm not sure.
+
+(49:40 - 52:39)
+All right, well, I will update you guys if I get any updates before Friday. My TPUSA meeting tomorrow, I'll also update you guys about that date. And again, I'm honestly not worried about it. 
+
+I would love to make TPUSA manifest. But I'm not. Not that I'm not worried about it. 
+
+Like, I'm not worried about it. I'm just I don't want us to be there. That's definitely not what I'm saying. 
+
+I just don't want to force it and it be a disaster. I would rather just have us wait for their Spring Fest and do that comfortably rather than us be there and it be a complete shit show. Because I'd rather people not know about us than know about us and have a negative experience. 
+
+So that's where that comes from. And again, even, you know, everything with me not really having an opinion on whether everything's going to be live by December 5th. It's because we're totally depending on outside sources. 
+
+We are doing everything we can from our end as far as adding additional devs so after tomorrow's TPUSA meeting and today's update from our dev in Canada, we have a dev team ready to jump on. I had a meeting with them yesterday. That meeting went very well. 
+
+They have helped us a ton and they are willing to jump on. They are free to jump on as soon as we say when to see if they can help move everything quicker. The reason we've not done this up to this point is one, they were working on another aspect of our development. 
+
+But two, we just don't want too many dev teams working on the same project. It just doesn't make sense most of the time to do that. But depending on how the meeting with TPUSA goes tomorrow and what date, what hard date they have for us, that will help determine, and tonight, getting everything from our dev, that will help determine if we get them to jump on and kind of, I don't want to say take over, but help out with that. 
+
+Oh, who's that? Who's this? I don't know why, but it reminds me of a Facebook guy. We're excited as F. Love what you're doing. You got a smart mouth on separation.
+
+(52:40 - 54:52)
+Killing leaves. Okay. Nice suit. 
+
+Oh, that's little penny. Oh my gosh. Wow. 
+
+Russ made cute pennies. Oh, Russ got muted. Oh my gosh. 
+
+Rose. The tax, oh, I didn't see this earlier. Sorry. 
+
+The tax wallets. Yeah, it was 621, five minutes ago. Sorry, I missed this, Matt. 
+
+The tax wallets have been climbing. Do you see that continuing? I'm not sure what you mean by that. I did just receive a reply from third party that says, give me two more days and I will get back to you. 
+
+Apologies. So updating you guys in real time. Literally got that right. 
+
+Oh, right now, 626. My time. Dipping into it. 
+
+Oh, sorry. I'm not understanding what you're saying. The tax wallets have been climbing. 
+
+Do you see that continuing? Dipping into it. Continuing as the balance is climbing. Dipping into it. 
+
+Paying. I will be reimbursed before the end of the year for the for the bills that I have been paying for a little bit over a year now. That'll happen before the tax year is over.
+
+(54:57 - 56:45)
+I just have to sit down and that's a that's a lot of calculations to do. I just have to go through a lot of statements. A lot of things are already on a spreadsheet, but a lot of things are not. 
+
+Most of them should be pretty simple though. I just got to go through the credit card, bank statements, PayPal, Venmo, Zelle. I don't think Cash App, but I'll check there. 
+
+Basically any form of banking or payments I have, I have to go through to check for payments that were made to me and payments that I made out. So we'll know about TPUSA answer and the task reveal on Friday meeting. Yes, I should know because my TPUSA meeting is tomorrow. 
+
+So we're hoping to get a hard date there and then our dev should have this ready for me tonight. And then the answer I just got from third party is give them two more days. So that puts us at Wednesday. 
+
+Thursday is two more days. I'll keep you guys updated. I'm trying to get it so you guys can at least start testing, but I will keep you updated on that.
+
+(56:47 - 58:15)
+Get ready for, I don't even know what word to use. Can't even think of a word. Anything else? I did check my email. 
+
+Nothing there. The emails have slowed down and the Discord DMs have slowed down. Hopefully everybody that needed to got their funds off. 
+
+If not, if you're having any issues getting your funds off the app, please reach out so I can help you with that. Let's go check. Trying to change the toggle in the app. 
+
+Well, the tooltip. Let's see. Messing with my account though so it might not let me log in. 
+
+I try to recreate the issues you guys are having sometimes. No, it let me log in. So sometimes I delete.
+
+(58:16 - 59:29)
+Yeah, so that for that tooltip, I'm just gonna move it. It's weird because some people are saying they need to long press it. I'm not sure if that's the Android thing because with mine, I just have to tap it, but the area that I need to tap is quite a bit north of where the question mark is. 
+
+It's definitely not accurate, but I don't need to long hold. I can just tap it and it stays on there. So I think that may be Android versus iPhone issue maybe. 
+
+Not sure, but that will be updated. I think everything else for now, for the most part, is pretty functional. Other crypto. 
+
+FGB is never hidden, so that's nice. All right, well, if you guys need anything, please reach out, tag me, or DM me. If you DM me, it's always nice to tag me, too, just because my DMs get buried with all the scammers.
+
+(59:30 - 59:43)
+If I'm not on, like, right there when you DM me, then it'll get to the bottom very quickly. Or email. Emails I almost always get because I don't get that many spam emails, really.
+
+(59:45 - 1:00:26)
+But get your coins off XT, off LBank. If you have funds with Wire, please get those off, and if you have any issues, reach out so we can help. Well, for one, to get you, walk you through it, but also to make fixes in the app if we need to. 
+
+Of course, always open to suggestions on improvements on the app because, again, with different operating systems, we don't really see, like, if something's not happening on the specific iPhone I have or on my certain account, then I'm not going to see it while I'm testing. So that's very helpful for you all to share with us. If you need anything else, in the meantime, let me know.
+
+(1:00:26 - 1:03:13)
+Please don't share. Oh, yeah, please don't share your personal information with me or any other admins. Don't DM it. 
+
+Don't email it. Don't, yeah, don't share your seed phrase, definitely. Don't share, like, other, like, VEST keys. 
+
+Don't share your PIN. Those are things that only you should have. So unless it's from our official emails, and it's always safe to ask in the general chat and have one of the admins or I answer you in the general chat. 
+
+So if you ask a question in the general chat, don't accept a DM answer because we will never, me or the mods, will never then DM you an answer. That's kind of how you know it's a scammer. So just be careful of that because few of you lately have emailed me some very sensitive info. 
+
+So please do not do that. Nobody do that. Don't share your seed phrase with me. 
+
+Don't share your VEST keys with me, and don't share your PIN with me. Yeah, don't do that. VEST should be pretty good about not really allowing anybody to get in with most of that information without your permission because it's tied to your email, but the seed phrase especially. 
+
+Also, don't click on any weird links. Again, just be safe. Just know that we will never DM you first. 
+
+If I need you to DM me, I will usually tag you or the admins or the admins mods will tag you to ask for you to DM them. If somebody just DMs you out of the blue, that's likely a scammer. We don't have a support handle or anything like that. 
+
+So I feel like nobody's been scammed for a while. So it's like coming. We should have one of those signs. 
+
+It's been X amount of days without anybody getting scammed. But yeah, always don't feel stupid for asking in general chat. I would just ask even even today. 
+
+I would always just ask in the general chat and don't accept any answers through DMs. We will answer you right there in the chat. Just better to be safe than sorry. 
+
+You're not gonna look stupid because those scammers are sneaky. But I think that's everything. Again, if you need anything else, please reach out and I will keep you all updated.
+
+(1:03:18 - 1:05:13)
+Yes, definitely assistance can be provided through instructions for you to use your own keys, etc. Yeah, we don't need we don't need all that info to walk you through it. We just all we'll ever ask for if I need your info for the app is your email. 
+
+That's it. Excuse me. Same with the best we will just ask for your email. 
+
+That's all we need to look up your account and look up everything that we need to look up for your account. Look it up see errors and all that. Yeah, not financial advice. 
+
+All right, well, you all have a wonderful night. Gonna go take a break to I'm making the sweet potato chews for my dogs. So they should be in the oven except for said it's supposed to be in the oven for like three and a half hours and my oven after 10 minutes have them pretty crispy. 
+
+So I don't know if it's the gas oven that's really hot or what I have the temperature they said but there's no way that should be going for three hours. So August 2 will be epic. Yeah, by August 2, I would think that we'd be doing some epic December that's nine months from now. 
+
+Do you have gas? Yes. I will not move into a house with electric stove. I cook way too much for that. 
+
+Way too often. I don't use the oven much though. I probably haven't turned my oven on in a year. 
+
+The nonstick coating I'm allergic to. You know, it's very strange. So I use an outside oven.
+
+(1:05:15 - 1:05:31)
+But I have the fans and the doors and windows open today to try to get it on. Well, that's good. Yeah, there'll be some epic shit before August.
+
+(1:05:34 - 1:06:04)
+Nine months, boy. All right, well, I will keep you guys updated on how all my meetings go. At this point, I'm just trying to pay everybody double to work as quickly as possible and get things expedited chop chop. 
+
+But I'll keep you guys updated. You all have a wonderful night. And I will see you in the general chats.

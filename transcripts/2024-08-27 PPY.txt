@@ -1,0 +1,235 @@
+(0:41 - 0:51)
+Happy Tuesday. Hope everybody had a great weekend. Hopefully your weekend wasn't full of injured dogs like mine.
+
+(0:55 - 8:25)
+Let's get right to it. We will need you all to do some heavy testing the next 24 to 48 hours. I will go ahead and reply to your DMs for all of you who send me your wallet address that you tested on last time. 
+
+Hopefully it's the same wallet address. If not, it's not a big deal. We're just going to go ahead and test reimbursing you through a specific way so it'll help us reimburse you and test at the same time. 
+
+And then, uh, sorry, hold on. I'm just going to text. Okay. 
+
+And, um, that'll help us test and we'll continue testing again. Uh, we'll keep that window open, uh, for the Patriot pay testing. We'll have that go in specific time slots just so we could really, uh, volume and stress test that, uh, just with the way change now works. 
+
+Um, so, uh, that's that the payment for our direct on-ramp will be made this week. Our dog, um, treats will finally be ready this week. Uh, what date was it? Actually, I saw the email come in. 
+
+Oh, here it is. Let's see. I had it. 
+
+Hopefully I'm still connected to you guys. Cause again, the internet issues, everybody gets back on. I am, uh, waiting for new equipment and to switch over to a new company because Cox in my neighborhood seems like it is never going to be fixed. 
+
+It's so awful. Okay. Hopefully most everybody got back on. 
+
+Um, sorry, that should be fixed soon. Once my, uh, new equipment and my new internet comes in since, uh, Cox seems like it will never be working correctly in this neighborhood. Um, okay. 
+
+So I was saying, I'm not sure how, when we got disconnected, um, but the payment for our direct on-ramp will be made this week. The dog chews will be ready this week. Um, exactly tomorrow, actually, uh, those will be ready. 
+
+So we'll list them as soon as they are complete. And I actually have them in hand just, just to make sure. Um, let's see our, um, graphic designs we're sending in for marketing that should, should, um, be live this week on the 29th. 
+
+Um, there are a few third parties involved there. Um, so far so good. I'll let you know, guys know if that changes. 
+
+Um, if that does change, then it'll be the next event, um, that they have, which is a few days from there. Um, but I'll keep you updated, um, with, uh, how that goes. Uh, we would definitely do need your testing though, just to work out any last minute, um, bugs, but everything seems to be working really well. 
+
+Minus, um, some of your swaps, um, that have failed or got stuck at change now, or just because you are doing the minimum. Um, so that's, that's more of a change now issue. Uh, and that'll, that'll continue to happen. 
+
+Um, change now does plan on implementing something that will change that. Um, but for the time being, uh, that's why that's the only, those are the only issues we've had. Uh, as far as the testing goes, we haven't had, um, anything else go wrong there. 
+
+So that's good news. Uh, the devs are still working on some features. Uh, we hope to have those done. 
+
+Um, we will have, we do have a dev on standby that way when, um, marketing begins. If we have run into any issues, we'll have a dev, uh, immediately available to get those worked out. But, um, hopefully nothing, nothing too crazy there.
+
+(8:28 - 9:57)
+Yeah. So I think we're doing, um, pretty well as far as the roadmap goes. I know we've, uh, changed some things around. 
+
+Um, we've gotten some things that weren't, you know, that were planned for next, uh, quarter that we got early. So I think we, we just moved, uh, some things around mainly, I think marketing and education, and then some things, uh, started or were implemented in the app a lot sooner. Uh, yeah. 
+
+I don't think I got any DMs. Um, let me go kind of reorganize my telegram pinned chats and I think I need to reorganize it because your DMs are much further down. Looks like this is from way back from somebody.
+
+(10:14 - 11:26)
+No. Um, we are still working by the way, as I'm looking through DMs with those of you who have sent Matic to the wrong address in the app. Um, yeah, that's proved to be a lot more difficult, maybe impossible to do. 
+
+So we're still working on that to try to get that, um, that fixed, but that might not happen, unfortunately. So make sure when you do send funds, you are double checking that you are sending to the correct address. Um, and always, uh, test, especially if you haven't sent anything to the address before, it always tests with a small amount. 
+
+Um, again, still working on it, but if it's impossible, then unfortunately there's not much we could do. Uh, but we are trying literally everything. Looks like trust while it's still having some issues.
+
+(11:29 - 13:38)
+I think that's all on mine. Um, all right, Sam, are you guys, oh my gosh. Okay. 
+
+I'm trying not to get frustrated because I've not gotten sleep for the last two nights, but some of these questions, like I have answered and it's this like, especially stuff that is functional. So taking a deep breath here, but, um, yeah, I'm not, I'm sorry. I don't have the bandwidth for this today. 
+
+If you guys haven't been around to realize that some of this stuff has been complete and functional, then sorry, we're not going to waste time on that. Um, gift cards. We are going to test, like I was saying earlier, a shark tank products. 
+
+We are waiting on the owners for something. They're not there. I'm not doing timelines. 
+
+That's been, that's been the answer on timelines for a while. I'm sorry guys. Uh, again, not doing time. 
+
+A lot of these are timeline questions, not doing that. I'm really sorry. Uh, answered the marketing one. 
+
+I've answered the coin burn one. These haven't changed and bore it. Yeah. 
+
+A lot of these have not changed. Uh, still the same answers. Like discord, I don't think I got any dams there.
+
+(13:46 - 19:21)
+A quick swap is still being worked on. Uh, we've just got one of our other devs to get, um, to get on trying to fix the issue with you all sending the matic to the wrong address and smart wallet. Uh, we have two devs working on that just because, uh, it's high priority as far as wanting to get that fixed for the few of you who've made that mistake. 
+
+Um, unfortunately they've been very large amounts. Um, again, that should be, uh, the last update I've gotten on that was about two, less than two hours ago. Um, unfortunately again, we're going to do, we have been doing all we can do and this has taken, um, obviously company resources, company and time. 
+
+Um, and we will do everything we can do to, so that, you know, um, we can, you know, help as much as we can as far as the mistakes our users are doing, just because with volume, we imagine if it's already happened with a few of you that with volume, we'll have a few more. Um, so we'll do everything we can, but if this is not fixed, um, I'm told I'll have an answer tonight. If this is not, if there's no, like if it's impossible, then unfortunately we've done everything we can. 
+
+We've used all the resources. Um, we can to try to get you, the few of you, your funds back. Um, what we will do if it is impossible is just have an extra, um, like pop-up window, um, or message to make sure that you're not sending MATIC to your PPY address in the smart wallet. 
+
+Um, just so that hopefully cuts down on that happening. Um, again, because of course we do want you all to be happy, but again, that's why it's very, very, very important to, um, make sure when you're sending funds, always test. I, I even do that when I'm paying people. 
+
+Um, if I'm paying them especially for the first time, I always test with a very small amount. Um, so, uh, I'm told we should know by the end of the night. Um, hopefully we can get it figured out, but if it's impossible, then unfortunately that's impossible. 
+
+And then, uh, one of the devs can go back to, um, uh, implementing QuickSwap. Sorry, let me see. But yeah, I think we're looking pretty good. 
+
+Um, we did finally get our online, um, bank account set up today. There were some issues with the way Old Glory works as far as, um, their security. Um, but we have that, uh, as of this morning. 
+
+So that'll be nice because, um, for the marketing that's planned for the 29th, um, obviously a lot of these bigger companies don't accept crypto, which they should. Um, but, uh, we'll have to off-ramp some funds finally that we have our official bank account. Um, I'll keep you updated on that. 
+
+I just got the graphics for that, so that'll be nice. The, uh, script is written and approved by legal. Okay, this is the, I think I need to get on voice chats, uh, more because this seems to be when everybody starts, uh, like devs.
+
+(19:24 - 22:26)
+Give me a second here. Um, the Dex you mentioned a couple of weeks ago. Any more info on that? Uh, are you talking about quick swap? I'm assuming, assuming you're referring to quick swap being integrated into the app, uh, which will be great because it'll give us, um, a, another option versus just having change now. 
+
+So, um, yeah, that'll be nice because currently like, uh, some of you who've had issues with testing, like I mentioned a little bit earlier, uh, the only issues we've had is when your minimum, when what you were trading was too small. So if there's a price fluctuation by the time change now receives it, then, um, it's smaller than the minimum, than their minimum to exchange. Uh, so then the transaction fails. 
+
+Um, so it'll be nice to have an alternate to, is it alternate or alternative to, uh, change now to have that. Um, we did take our dev off that, um, so that we have both devs working on the smart wallet sending Matic issue. Um, but again, I'm told I'll have a definite answer by tonight. 
+
+Um, just because we are trying to do everything, uh, we can to get that fixed if it is possible. Um, and get your funds out of there. If you have sent funds to the wrong wallet, um, again, just be very careful with that. 
+
+Not, not just with us, but you know, with other, other wallets and other apps. Yes. Uh, so that's actually the cheaper factor. 
+
+We're actually working with change now too, because, um, there's, there's a little bit of a discrepancy there that change now, the price should, shouldn't be what it is. It should be a little bit lower. Um, so we're working with their team on that too.
+
+(22:30 - 25:48)
+Oh my God, Ed, what? Is Ed not listening to the voice chat? Ed's usually on top of his game. Ed, are you listening? I'm having a margarita. Um, if you pull the pairs from the quick swap factory, you can easily expose all the trading pairs on quick swap. 
+
+Yeah. Yeah. We, we think it'll be, it's change now is really nice. 
+
+Um, but, and, and they're amazing and they do a ton for us, but I think, uh, it'll be beneficial to continue growing our app as we grow, um, to cut down on basically any kind of errors that we experience just because again, any errors we, uh, run into right now will be multiplied with any volume. Uh, so we'll continue doing that and continue adding a few more, uh, swap APIs in there as we grow. And as they grow, I'm missing some stuff cutting along. 
+
+Uh, so marketing for August, we should, um, again, have not made the payment yet. We're waiting for payment info. Um, um, should scheduled for the 29th. 
+
+Um, right now. So take that with a grain of salt. I'll let you know if that changes. 
+
+We have our, uh, script and, uh, the graphics. Yes. And again, this is, this isn't set by us. 
+
+Like obviously yes, it is, um, us pretty much applying for a slot. But, um, if that changes, then I will let you know. Basically they will have final say and hopefully they have everything ready by then. 
+
+Uh, change now seems sluggish and they're in internal controls, messes things up under load. Glad you're going to the decks. Yeah. 
+
+Um, and, and they're still, they still have a lot of growth to, uh, and I, and I imagine again, they've done a ton for us, uh, change now through the years. Um, but I imagine it wants, um, sorry, let me brain can't handle the two noises. Um, as far as change now goes, I'm sure I have no doubt with a volume two that they'll continue doing even more for us and, um, to help us out, uh, which, which they have done.
+
+(25:49 - 27:03)
+Um, but it's good that we, and we'll continue making sure of that, that we're not just depending on, um, one service or one company for anything. And this also helps us, uh, as far as change now is down. I mean, you guys have seen that happen. 
+
+Um, same with the on ramping services. It's nice with the on ramp or we have right now where you're choosing, you know, from what is it? I think like 28 last time I checked, um, on rampers, but also adding that direct on ramp, um, will definitely help us out. Um, is there anything left to fix on the app before we market? Uh, no, all the major stuff. 
+
+Like I said, we'll test, um, for the next 24, 48 hours. Uh, which is why I asked you all who tested earlier this summer, May 30th and on those few weeks to message me with your wallet address. That way we can test the gift cards using by reimbursing you, um, for some of those fees and then to have you do some more testing.
+
+(27:04 - 29:01)
+Um, most of it will be general testing to do whenever you want, but the PPI testing will still be some volume stress testing. So we'll make some slots for that. Um, and then that should be good. 
+
+Hopefully just to, hopefully not too many issues we run into there as far as change now goes. But that way, if we deal with anything on our end, we can, uh, get that fixed. Uh, if any of you are using OnRamper to OnRamp also, please let me know if you run into any issues there. 
+
+Um, the wallet address issue, which is the OnRamper asking you manually to enter your wallet address should be fixed for everybody now. Uh, let me know if you do OnRamp and you run into that. Um, so that's very, very, very important, please. 
+
+If you do, and you don't actually have to OnRamp to test it, you can just go pretend you're OnRamping, uh, and see if it asks you for a manual to manually, manually, wow, enter your wallet address. Um, again, that should be fixed for everybody now. Uh, but that's very important because that's how we had a few, um, users run into an issue there. 
+
+Um, if you enter the wrong wallet address, like your smart wallet, say, PPY address, um, to, and you were buying Matic, it shouldn't work, but sometimes it does. Um, so again, just be careful there, but we definitely don't want anybody experiencing that. So if it does ask you for, to enter your wallet address manually, when you try to OnRamp, uh, please let me know.
+
+(29:04 - 32:08)
+Um, oh my gosh, I didn't know I was unmuted. I think that's everything. Seven day rundown, please. 
+
+Okay, we'll wrap up with Ed's favorite. Um, seven days, so tonight, uh, hoping the devs will have an answer for us as far as, uh, those of you who've sent Matic to the PPY smart wallet address, uh, and see if that's something we can get, uh, fixed for you all to get your funds out, or if it's a no-go. Um, um, we're shooting for the 29th as far as marketing. 
+
+Um, I will let you know if that changes, uh, as soon as the devs, cause we have two devs right now working on the smart wallet funds issue. Um, as soon as they wrap that up, they'll be moving on to the quick swap integration, which is super important. Uh, the payment for the direct OnRamper again this week, um, we're still very well into, uh, getting a new direct OnRamper, um, within the next month or so, give or take. 
+
+Um, and then our devs obviously work on their part to make sure there's no bugs there, and then we'll have you all test it to make sure everything's good there. Uh, for this coming month, the first week there, we'll have influencers starting back up, um, and then really going with, uh, really trying to market the political donations and, um, the starting, you know, get started on your crypto journey, uh, with 20 bucks. Um, don't worry, we'll say it a lot.
+
+(32:08 - 34:04)
+Uh, we'll say it a lot better than that. So that I think summarizes the next seven days along with, it looks like, uh, dog chews should be coming in tomorrow. So those will be listed. 
+
+Um, again, if you know any businesses, uh, interested in putting their items in marketplace, have them reach out. Uh, we'll also, uh, advertise that too, that's scheduled and the advertisement to be included in there. Um, yeah. 
+
+So we will be, we'll definitely be off ramping some funds now that we have our official bank account. Um, so that'll be nice. Yeah. 
+
+Order some coffee. If you are out of coffee, that's everything, everything I can think of. We'll definitely have you all, um, test to continue testing. 
+
+Um, even when, or as devs are adding new functions, even if they don't, uh, exactly have anything to do with the basic functions of the app, uh, we'll still have you all test that just to make sure. Uh, I do appreciate you guys using the report a bug function. That's definitely been a lot easier to sift through than DMs. 
+
+Um, I will get back to some of those from yesterday. I'll get back to those tonight. Uh, some of them look like they might be user error, which is good too.
+
+(34:04 - 34:59)
+Uh, because that way we can also know where our education videos, how to videos, uh, what to concentrate on there. Um, but also on if we can add anything in the app that helps it helps make it easier for you all too. So definitely appreciate that and feel free to use the, uh, report a bug function, um, for stuff like that too. 
+
+That isn't exactly, you know, a bug, but, um, any input that you might have definitely appreciate that. Yeah. Retirement in September. 
+
+I feel like I'd be so bored if I retired. Oh, and I have, well, I don't know. Is that in the next seven days? I have Tucker in a few days.
+
+(35:01 - 36:28)
+Next week. I think that's about a week. I'm very excited about that. 
+
+I will have some, um, Patriot pay stuff. No way. Start working for self. 
+
+So not really where I go. I'll talk. Oh, Tucker's, uh, Carlson will be in Phoenix on, I think it's the fourth. 
+
+I'm pretty sure it's the fourth. Nobody going. I know he's going all over. 
+
+Has nobody been? I got tickets, like, I don't know. I think, I feel like it was a few months ago, but maybe it was just a few weeks ago. It popped up and I was like, yes. 
+
+Cause I love his energy. He was down in Australia. By the way, apparently Australia is like super difficult to get licensed in crypto wise.
+
+(36:37 - 36:52)
+We're trying to get some timelines with some stuff we have coming up for Australia. We can't even get that. Say it's too unpredictable to give us a timeline.
+
+(36:53 - 37:14)
+I should start using that for you guys when you ask about timelines due to the unpredictability. Um, he's going to be, I don't think, I don't think Alex Jones was coming. I think it's just him.
+
+(37:14 - 37:25)
+That'd be nice though. I'm excited. I think this is like when you know you're getting old, this is like your night out.
+
+(37:29 - 38:24)
+Uh, but yeah, I'm really excited guys. I'm, um, I know, I know some things have been moved around, um, like the marketing and education, like I said earlier, but we've also gotten some things, um, completed earlier than, um, we had planned just because of the way it works in the app. Um, so yeah, uh, very excited for that. 
+
+And then with officially having our actual logins and account numbers for our bank account, um, and actually being able to log in, um, it's nice now because then we can make our other payment processing accounts. Uh, so we'll have additional ways to buy gift cards. Uh, very excited for that too.
+
+(38:27 - 38:51)
+So yeah, I'll keep you guys updated on that. But, um, I think Gab, as soon as this account has been completed off the top of my head, I think they said a week last time. It's been, I think a few weeks since we spoke, but, um, that'll be really cool too.
+
+(38:55 - 39:50)
+It'd be nice to, for people to just put a, um, enter their credit card and, uh, and buy gift cards that way. It'd be super nice. How does the Old Glory Bank compare to others on a business account? Um, so I haven't used them much yet because I literally, uh, had the logins. 
+
+They send you like, um, logins that, you know, for security purposes, as soon as you open the document, um, are good for three days. However, mine was expired already. Um, even though I had just opened it. 
+
+Uh, so they had to send me a new one, um, this morning. So I finally logged in so far, so good, but I haven't done much on it. So I can't say much for it, to be honest with you.
+
+(39:51 - 41:03)
+I will definitely keep you updated. I do like that, um, they don't share your information. Uh, so that's nice. 
+
+Definitely hope we keep a good relationship with them. All right. Well, I think that's everything. 
+
+Um, I know Trust Wallet is still having issues, so just be careful there, uh, as far as Trust Wallet support, as far as if you ask in the chat and, you know, happens to be in the middle of the night and nobody else is around, um, be very careful of that. Um, please, uh, be very careful of downloading any apps that look like Trust Wallet or entering your information, any websites that look like Trust Wallet. And also remember that neither me or the admins will ever ask, um, excuse me, for your personal info.
+
+(41:03 - 42:02)
+Um, don't have, don't ever like send screenshots of your seed phrase or your private key or anything like that to anybody, including me, please stop doing that. Um, and remember that we will never message you first. I will never message you first. 
+
+Uh, the admins will never message you first. You can always check too, if it's actually us, because if you go at the top of the chat, uh, it'll show admins. Um, so click, you know, click on members, uh, you should be able to see admins. 
+
+And if you go to message one of us, it'll show if we have, you have previous messages with us. Um, but always safe to ask in the general chat and have, uh, you know, some of the OGs answer you versus, uh, somebody DMing you. Please be very, very, very careful of that. 
+
+Again, um, just saying that since Trust Wallet is glitching right now, we haven't had anybody get scammed, I think for a few weeks now. So let's, let's keep that. We're going to have a little sign.
+
+(42:06 - 43:03)
+Other than that, I think that's everything I got. Um, um, once we are confirmed, like a million percent confirmed, and I have an actual time, I will share that with you all. Um, again, I know we are told the 29th, but just, you know, taking that with a grain of salt since we are depending on a third party. 
+
+Um, but I will, uh, let you guys know how that goes. And again, the payment to the direct on-ramper, uh, once that's made, um, it shouldn't be long till, uh, we're complete there as far as the, uh, work needed to integrate them completely into the app. We have just been working on some bugs, I guess.
+
+(43:03 - 43:53)
+Um, some issues we've had with, to make sure that they work with all of you. Um, so that's all I got. If you need anything else, um, please feel free to write, reach out the report a bug, uh, in the app is a lot, lot, lot quicker. 
+
+Um, if you need anything, but you all have a great night, I'll post the recording right now with some notes. Give me a few minutes. Cause I got to check on my dog. 
+
+I'm giving him edibles and trim it all. So, uh, I just want to make sure that he's, he's all right. And then I'll get this, um, uploaded. 
+
+You all have a wonderful night and I will see you in the chat.

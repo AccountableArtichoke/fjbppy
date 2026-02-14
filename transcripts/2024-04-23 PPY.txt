@@ -1,0 +1,323 @@
+(0:05 - 0:45)
+Hello. Can you all hear me? Somehow. Okay, I think that's good on both Discord and Telegram.
+
+(0:45 - 0:53)
+Happy Tuesday. Hope everybody had a wonderful weekend. You guys have kept me busy.
+
+(0:53 - 1:28)
+A quick reminder, get your funds off of your smart wallet. You need to transfer any funds you have, that includes PPY, or any other coins you have in your wallet. So whether it be USDT, anything else you had before any of the coins we did have, we have now.
+
+(1:28 - 1:39)
+You need to get them out of smart wallet, please. If you have PPY in there, transfer it out. Make sure you transfer out to a non-smart wallet.
+
+(1:39 - 2:04)
+And then message me with either your wallet address or transaction. That way I can refund you your transfer tax. Also, if you have a wallet in the app, smart wallet or expert wallet, that you write your seed phrase down and put that somewhere safe.
+
+(2:05 - 2:31)
+Probably at least a fire safe box. Because when we move to the new login account creation service, you won't have access to the app as it is right now. I know we've spoken about this several times, but I just want to clarify, you guys really need to get your seed phrase saved.
+
+(2:31 - 2:55)
+Even if you have expert wallet, that's what you use in the PPY app, make sure you have your seed phrase written down. I would just download Trust Wallet and plug in that seed phrase in there, so that you have access to that. Our new wallet creation service, for the time being, won't allow you to import wallets that you made somewhere else.
+
+(2:56 - 3:05)
+That's something they are working on. It's a function that is coming and they plan to release by the end of the year. That's just their time estimate for now.
+
+(3:06 - 3:26)
+For the time being though, you won't be able to, when we switch over to the new service, you won't be able to access your wallet that you have now. You're going to have to start a new wallet. So it's really important you get your funds out of smart wallet, and then your expert wallet, you don't need to transfer anything there.
+
+(3:26 - 3:49)
+Because that seed phrase acts just like a wallet you would use in Trust Wallet, or MetaMask, or SafePal, so there's no use in transferring that over. That would just create more work. All you have to do is go into Trust Wallet or MetaMask, if you haven't already created an account in there, or SafePal, and punch in that seed phrase from your app.
+
+(3:50 - 4:14)
+You'll be able to access your funds there, do everything that you're able to do in the Patriot Pay app. So if you have any questions, again, please feel free to reach out, so I can help you with that. I think everybody should be caught up on tax reimbursements, minus my two mods, I think.
+
+(4:15 - 4:32)
+I think two admins. Everybody else should be taken care of. If you have not messaged me, or have somehow skipped your DM, please DM me again, so we can get you taken care of.
+
+(4:33 - 5:02)
+But definitely move your funds out sooner than later. So, we have not received the contract back for the new wallet creation service, and actually also a few of you have had trouble with your Smart Wallet, so we've been working on those. But I think we're still on track for this week for the time being.
+
+(5:03 - 5:16)
+I will keep you updated. As always, our priority is getting it done correctly. So we are trying to get all of your funds out.
+
+(5:16 - 5:27)
+Again, there's a few of you I'm still working on. I think one on Telegram and one on Discord. We'll get those issues solved for you.
+
+(5:28 - 5:37)
+Very, very important. Everybody writes their seed phrase down for this reason. A lot of, I think, Y users are having issues.
+
+(5:37 - 5:52)
+I will keep you updated on that. What else? BNB wallets. BNB created their wallets, have received their wallets, so everything's good there.
+
+(5:52 - 6:10)
+I actually, sorry for being like two minutes late for voice chat. I had a few texts to reply to. So, trying to work on a voice chat or recording for you guys soon.
+
+(6:11 - 6:23)
+So I'll keep you updated on that. But that is great news. What else was I going to say about that? Something regarding my text to them.
+
+(6:26 - 6:33)
+Something you guys just asked me. Okay, well, yeah. So that looks good.
+
+(6:35 - 6:47)
+Marketing's still looking good. I think that's all the updates I have. I haven't seen much testing in the app.
+
+(6:48 - 7:19)
+But I think once we add the onRamper, that's when we'll ask you all to test a little more to kind of see any other bugs that we run into. But everything, everything the majority of you have ran into as far as transfers has been working, functioning, fixed, and working like it's intended to. Let me go in here.
+
+(7:19 - 7:49)
+I don't think I've received any questions and DMs, minus all the troubleshooting. Some tickets. Village idiot.
+
+(7:50 - 8:11)
+I feel like you come on every week, like 30 minutes or an hour before voice chat to tell us that there's no voice chat. Does app price need fixed? Yeah, that's very strange, because our API that we pull the price from is, of course, paid up and working. But the dev is on that.
+
+(8:12 - 8:21)
+I don't know why it's been paused. It could have been like one of the other updates that screwed that up. But, yeah, it's stuck at the five.
+
+(8:25 - 8:37)
+But the dev's on that today. He should be on it by the end of the night. Village idiot says I have some issues.
+
+(8:37 - 8:56)
+Oh, that's too bad. What else? Again, make sure you move your funds out of a smart wallet. And if you have done that, DM me so I can make sure to reimburse you.
+
+(8:57 - 9:19)
+Also, if you had funds in your smart wallet, if you had FJB before the fork and don't see any Patriot Pay in there now, also please reach out with your wallet address. I've had some of you not reach out. I need you to do that so you can move those funds out of smart wallet.
+
+(9:43 - 9:58)
+I'm thinking emails. I don't think. Remember, if you have any friends that you got to download the app, make sure to tell them to go ahead and contact me if they need any help moving their smart wallet funds out, too.
+
+(9:59 - 10:20)
+I'm almost less concerned about PPY coins, actually, than I am if they have other coins in smart wallet, right? I definitely want them to get those out for sure. Of course, I don't want them. We see most of the balances of PPY that are left in there.
+
+(10:20 - 10:52)
+Most of them seem they might seem like they might just be too small to actually move out with the gas cost. But, especially if they have other coins that are sitting in their smart wallet, once we switch over, there's really absolutely nothing we can do about that. There are still a few glitches with values when opening and seeing price.
+
+(10:54 - 11:26)
+What glitches are you seeing? Other than the corner one, that's showing as five. Marketing will start after we have bugs, major bugs. Most everything worked out enough where the app is working smoothly for all of you.
+
+(11:34 - 11:43)
+Smart wallet transfers right now. Deadline being right now, today. As soon as possible, please.
+
+(11:52 - 12:03)
+So, a clarification, our current PPY in-app won't be able to go to the new app. Correct. That's why you need to move it to expert wallet.
+
+(12:04 - 12:29)
+That's why you definitely need to save that seed phrase from your expert wallet. Download an app like Trust Wallet or MetaMask or SafePal and enter that seed phrase so you have access to that. And then, once we move to the new wallet account creation service, you'll make a new account if you want one.
+
+(12:29 - 12:39)
+And it could be that same, should be able to be that same email. We'll have more details on that. And then, yes, you'll start that with zero balance.
+
+(12:41 - 13:14)
+This new service is adding on a feature where you can import already existing wallets, but not for the time being. They plan to implement that this year. You can, however, the new wallet you will create with this new service, you can enter the information from this wallet into other decentralized wallets.
+
+(13:14 - 13:29)
+So, once you make that new wallet in the new app, you can go into, say, MetaMask and enter that there and access it there. So, that'll be awesome. Because we had that issue before with Smart Wallet where you couldn't do that.
+
+(13:55 - 14:17)
+I saw 1 billion, 1 billion and 2 billion wallets created. I assume Boris Bannon and the LLC. The remaining burn will happen after we pay out different partners.
+
+(14:18 - 14:43)
+Also, once we get you all out of Smart Wallet and have everything squared away as far as that goes, as far as the wallet goes. We have a little bit of leeway right now in case we do run into some emergencies. We haven't had to do that, thankfully, but we need all wallets moved over.
+
+(14:44 - 15:07)
+It gives us a little bit of leeway to work with that. Again, if you did have FJB in your Smart Wallet and you don't see any PPY in your Smart Wallet now, please contact me with your wallet address. I do have a list of the wallets.
+
+(15:07 - 15:27)
+Again, very small amounts. We just didn't want to airdrop those and then you guys have issues with accessing the funds in there. So, we didn't airdrop to the Smart Wallets that we knew were Smart Wallets.
+
+(15:29 - 15:45)
+We wanted to make sure everything is functioning as issued like it is now, but definitely reach out, please. It's very important. If you know anybody, if you can think of anybody, you ask to download the app and purchase coins that way to have them reach out sooner than later.
+
+(15:56 - 16:16)
+You have to tap on the PPY button to see its value sometimes. Okay. I haven't experienced that and that's the first I'm hearing of this, so thank you.
+
+(16:19 - 17:00)
+Let me know. Even if they are minor issues, definitely let me know of anything like that happening. So, you'll have to build another bag with the new app update if you would like to, but they should be adding the new Wallet Creation Service does plan on adding the feature this year where you can import wallets that you already have.
+
+(17:23 - 17:54)
+You did not miss anything important, minus get your coins off Smart Wallet and make sure your Expert Wallet seed phrase is saved in a very safe place. You may as well download something like Trust Wallet to enter that seed phrase in, import your PPY or other coins and make sure you see all your coins. And contact me if you have any issues.
+
+(18:08 - 18:15)
+Okay. Oh, that's weird. Okay, thanks.
+
+(18:16 - 18:52)
+It's like two of you now have never heard of this issue with the price not showing in the app. I'm not sure what you're talking about. New time to build? Do we have someone look after documentation, backup, last version in case we have to go back a step? Are you talking as far as the app goes? The devs can always go back a step, as you say.
+
+(18:54 - 19:13)
+Yeah. Yes, definitely. But, yeah, again, I think everybody's wanting to move forward versus backward, so just make sure you have your seed phrase written down, saved somewhere safe.
+
+(19:14 - 19:44)
+Again, be extra safe. Download the Trust Wallet and enter it in there to make sure that you see your funds, because that's what you're going to have to do until the new service rolls out, the feature of importing an outside wallet. When will we get Airdrop for the tokens we lost? Send it.
+
+(19:45 - 19:55)
+What? Send me your wallet address. Or the transaction. And I will refund you.
+
+(19:55 - 20:17)
+Please do that ASAP. I'm assuming you mean the tokens you lost sending out of Smart Wallet. But please do send me your wallet address or transaction link ASAP.
+
+(20:18 - 20:36)
+And I'll go ahead and refund you. Everybody should be refunded minus two, I believe, admins. Will there be an off-ramp in the app when we get an on-ramp? Yes.
+
+(20:38 - 21:08)
+It'll serve as an on and off-ramp. Awesome. Yeah, send that over.
+
+(21:09 - 21:25)
+So I have that ASAP. And I'll send that to you right after voice chat. Oh, actually, speaking of, let's do the winner for Friday.
+
+(21:25 - 21:35)
+Holy smokes. Okay, so I think we had 250 entries. Let's enter them.
+
+(21:35 - 21:42)
+Okay. Let's see. Between 1 and 250.
+
+(21:42 - 21:54)
+Let's see the number of picks. 29. Okay.
+
+(21:57 - 22:12)
+Oh, okay. This is... Who is this? Number 29. Okay.
+
+(22:19 - 22:44)
+Let's go down to Contests. Okay, that's the winner for Friday's contest. Let's send that over.
+
+(22:44 - 22:59)
+I think that one was a 500k one. Okay. Mm-hmm.
+
+(23:02 - 23:27)
+All right. So that's sent, and then we're ready for tonight's contest. We'll do the same.
+
+(23:30 - 23:57)
+Mm-hmm. This number... What was it? Number 29. Whatever that is.
+
+(23:57 - 24:09)
+Oh, there you go. Sorry, Stacy had already shared. Aw, that's so kind of you.
+
+(24:11 - 24:21)
+Free seed phrase storage. Yeah, guys, stop sending me screenshots of your seed phrase, please. Don't do that.
+
+(24:24 - 24:45)
+Just because I don't want you to get in the habit of that. Because I feel like if you're sending it to me when you ask for help, then maybe you're going to be sending it to other people when you're asking for help. So... Please don't share a screenshot of your seed phrase with me.
+
+(24:45 - 24:55)
+Don't send it typed, either. Just don't send your seed... I don't ever need your seed phrase to help you out. I know sometimes you're just trying to prove something.
+
+(24:56 - 25:08)
+But please don't do that. Definitely don't ever, ever, ever do that. Not with me.
+
+(25:08 - 25:23)
+Not with anybody. Under any circumstance. Because you're going to do that one time, and whoever it is is going to go ahead and punch in your seed phrase into the wallet and empty out your wallet.
+
+(25:39 - 26:55)
+What else? Oh, that's what I was trying to do. I was trying to search. What else? If not everything.
+
+(26:57 - 27:11)
+You guys are moving fast. Trying to do both chats. Is the next contest... Sure, yeah, we can do another contest.
+
+(27:12 - 27:38)
+Let's see. I don't even know where... Let's see. Where are we at? Okay.
+
+(27:45 - 27:55)
+Oh, that's not bad. $38 buy. Yeah, let's do... You guys want to do the same? We could do the same.
+
+(27:56 - 28:12)
+We could do another buy for each $100K is an entry. Unlimited entries. For... You guys want to do $500K again? As a prize.
+
+(28:14 - 28:31)
+And then we'll have it end at... It's 6 right now on my time. We'll have it run for 24 hours. How about that? We'll do that.
+
+(28:32 - 30:01)
+We'll have it run until... Tomorrow, 9pm Eastern. That's pretty nice. Ed wants to leave the contest running until the next voice chat.
+
+(30:12 - 31:50)
+I'll get back to these DMs as soon as I'm done with the voice chat. I don't want to mess up your calculations. Any other questions? How was the $2B wallet out of nowhere? It's dropped to the PatriotPay LLC.
+
+(31:50 - 33:41)
+Let's see. Where's the dev? Let me send this so the dev can get to it. Updated the dev.
+
+(33:44 - 34:17)
+A couple weeks ago you said you were surprised some new contract stuff hasn't been found yet. Is one of them making all team transactions payable? Is that new? What do you mean by that? Please explain. Since I don't know what you're talking about, I'm going to assume no, that's not what I was talking about.
+
+(34:18 - 34:34)
+Something a little bit more fun that nobody's found out yet. My guess was that Nolan or Farkas was going to figure it out, but I don't think either of them have. I feel like I would have heard about it by now.
+
+(34:53 - 35:26)
+Holy smokes, you guys are moving fast, so if I missed something... Was there an ETA on when we get to test the new onramp or still to be determined? We will have you all test the new wallet account generation service. We are just waiting for the contract back from them. But honestly, the devs also have been working on... Now it's down to two of you that have been having issues.
+
+(35:32 - 35:49)
+I'm still estimating that it will be this week. As soon as you all test the new account creation service, which we expect to be very straightforward, then we will go ahead and deploy. The next deployment after that is the onramp update.
+
+(35:50 - 36:48)
+I imagine that one will probably not be as straightforward as the account creation update, just because, if you all remember with Transact, with different devices and different settings, the smart wallet gets very complex on the back end. With tax and gas estimation and all that, I imagine... I hope I'm wrong, but I imagine we'll have a little bit more testing to do there than we have to do with just the wallet creation generation. But as soon as we get that contract back, we are ready to get that deployed ASAP for you all to start making your new accounts the new way, so you can all see how simple it is.
+
+(36:49 - 38:02)
+And then we'll get... As long as there's no issues there, we'll deploy the new onramper. We just want to, again, deploy them one by one, so that if we have bugs, it's a lot easier, a lot quicker for the dev to get those bugs fixed. Unfortunately, I can't share the new onramp provider, not because I'm trying to be secretive, but for good reason.
+
+(38:03 - 38:34)
+But I think you all should love it. It gives us lots of options. When we get the dated contract back, how long for the dev to switch over? As soon as he gets online.
+
+(38:34 - 39:49)
+So if he's online, he can do it right then and there. Otherwise, it would just be waiting for him to get online. So PatriotPay is a company, correct? PatriotPay is an LLC.
+
+(40:25 - 41:27)
+Trying to find a screenshot for the dev. Let me see. Trying to take care of some of you who had multiple wallets in your app.
+
+(41:27 - 44:12)
+You guys remember when you went to settings before? Just want to get that taken for you guys, taking care of ASAP. Try to buy, oh, what are you trying to buy through? Okay, let's go back. Okay, did PatriotPay look into Wyoming's decentralized, unequal, I'm not sure.
+
+(44:13 - 45:37)
+It's not in my area, but I will forward this. Okay. Alright, I think I'll reply to the rest of these DMs in a second.
+
+(45:38 - 45:52)
+Trying to get back to all of you. Okay. Sorry, these are probably stupid questions.
+
+(45:54 - 47:04)
+I don't think, I don't think questions are generally stupid, right? Wow, that was interesting. For a second I thought that was an R app, and I'm like, wait, that's not what we're using. Okay, anything else? I think that's everything.
+
+(47:05 - 47:17)
+If you have any other questions, please DM. If you haven't transferred your funds out of Smart Wallet, go ahead and transfer those out. Make sure you write down your seed phrase, put it in a fire safe box.
+
+(47:18 - 47:36)
+Remember the reminder one community member gave you all. Actually, we have something pretty cool coming in the app that I think you guys would like. Pretty, pretty cheap alternative.
+
+(47:40 - 48:03)
+To save your seed phrase, make sure you put that down. Keep it somewhere safe. If you or anybody you know run a small business or want to start a small business and want to be featured on our app in our marketplace, don't forget to reach out.
+
+(48:04 - 48:23)
+If you want to accept Patriot Pay and have your product or company be showcased on our app, please reach out. Also works for services too. I think it's pretty neat.
+
+(48:24 - 48:35)
+Reach out to me. I think that's all I have. Again, please make sure you remember anybody.
+
+(48:35 - 48:57)
+Don't do what you guys did with XT and LBank. I feel like that was several months of hounding you guys and then as soon as we pulled the LP is when everybody came out to claim their coins. Please make sure you remember, try to think of anybody that downloaded the app and bought PPUI or other coins on there.
+
+(48:59 - 49:11)
+Again, with PPUI, we have a little bit of leeway on what we can do with other coins. There's really absolutely nothing we can do. So just keep that in mind.
+
+(49:11 - 49:19)
+Don't ever share your info. Please stop sending me screenshots of your seed phrase. I will never need those.
+
+(49:19 - 49:26)
+Nobody else will ever need those to help you out. Don't do that. Don't send your seed phrase.
+
+(49:26 - 49:36)
+Don't click on any weird links. Download any weird apps. If you need anything else, email, text, call, DM, tag me and we'll get you taken care of.
+
+(49:36 - 49:59)
+I see a few of you have DM'd. During the call, I will go ahead and get your refunds right now before I get this call recording uploaded. The contest is still going on.
+
+(49:59 - 50:07)
+It will go on for another 23 hours, 40 minutes. So good luck there. I think that's all.
+
+(50:08 - 50:22)
+I will update you guys if I have any updates before Friday. Again, we're just waiting on that contract back. We will have a link for you stragglers to get to your Vess app.
+
+(50:22 - 50:29)
+But again, that is not dependent on us. That's dependent on a third party. We have no idea how long that will be around.
+
+(50:30 - 50:37)
+I really just need you to move your funds out ASAP. There's no reason to wait. I can walk you through it if you need help.
+
+(50:38 - 50:53)
+And again, make sure you have your seed phrase written down if you moved your funds to the expert wallet or any other wallet. That way you don't lose things again. Make sure they're in a fire safe box.
+
+(50:54 - 50:58)
+Alright, I will talk to you guys later. I will see you in the general chat. Thank you.

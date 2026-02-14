@@ -1,0 +1,74 @@
+(0:01 - 0:43)
+Hello, happy Tuesday. I hope everybody had a great weekend. All right, let's get right to it. 
+
+So all your testing from the previous tests that we had in the app, fees have been reimbursed. If somehow we missed you or you didn't send your wallet address, please reach out with your wallet address so that we can get you reimbursed this week. You should have everything reimbursed plus a tiny bit extra there for you.
+
+(0:45 - 1:51)
+Let's see, coffee orders are going out tomorrow morning and then the devs are also going to add a step to any items that you purchase in the marketplace so that it'll have you enter the address after you purchase an item in case you forget because some of you are forgetting, which I totally understand. Let's see, Ant. So Ant didn't post this last week because he was actually out and helping people with the hurricane. 
+
+So he'll be posting again this week next and so on. We'll also be getting new influencers this month. I will keep you updated as soon as everything there is finalized. 
+
+Let's see, our SEO work is ongoing. Our education video for this week has been complete and approved. It'll be posted again this week on social media and it'll be posted on the app section as soon as that is complete.
+
+(1:51 - 3:42)
+It should be complete this week. As I updated you guys last week, the education system, we had to actually rework just the way the servers are handled on there just because the server that we currently use, the videos were larger than the limit on there and there's no way, like we're already on the most premium plan, there's no way really to upgrade that there. So the devs just have to rework the way the files upload. 
+
+It'll also fix the issue of some of you all trying to post items on classifieds and you get an error message. Well, that error is because your photo file is too large. So that will fix both issues. 
+
+Again, that should be complete this week. I will let you know as soon as those videos start getting posted into the app directly. But for the meantime, they'll be posted on all social media accounts, including YouTube and Rumble. 
+
+YouTube is really the most important one for us SEO wise out of all the social media. So if you don't already follow us, please go follow us, like, share those videos on there. That would really help us out. 
+
+And I'll make sure to post a link to in the notes that way in case you don't have a link to our YouTube channel. Let's see what's next on here. Okay, so we're still on for the Candace Owens event at the end of the month. 
+
+That'll be the second half of October. I will update you with those exact dates. Again, it's two dates and we'll be playing our launch videos there for these are in person events.
+
+(3:44 - 4:39)
+So that should be cool. We'll see how that goes. Other than that, we have a test item we added in to the marketplace. 
+
+It's a dollar. We just want you all to test to make sure you're not experiencing any issues. So we'll have you go in and do is purchase the same item up to 10 times and we'll reimburse you the full amount. 
+
+Don't worry about that. We'll reimburse them by the end of the week this week. But after you're done, I'll probably give you until Thursday. 
+
+So probably give you 48 hours to test and buy that item up to 10 times or so should be more than enough. And then what we'll do, pending that everything goes as expected on Thursday, then I will change a setting on our end and then have you repeat those tests. So if you could do that, that would really help us out.
+
+(4:40 - 7:10)
+Again, you will be reimbursed 100% for all those fees. This should be a dollar and a bit for each transaction there that we'll reimburse by the end of the week. Um, yeah. 
+
+So, uh, I think that's all my end as far as the last thing is the direct on ramp. The devs are working on that on ramp or says it's ready. So pending testing should be complete this week. 
+
+Um, but again, some of you guys know how that goes, um, with everything, uh, software and us depending on third parties. Um, so sometimes that's, we're ahead of time. Sometimes we're not. 
+
+So pending how testing goes, uh, on ramp or is telling us that their portion is complete. Uh, once the devs have completed that, we'll go ahead and test it. If it does go well, then we'll have you all test it. 
+
+If not, then we're back to on ramp or, um, I will keep you updated on that, but again, should be this week, uh, along with, and then after they finish that, after the devs are done with that education system, um, for this one dev, um, yeah, the other dev is still working on. Let's see. Guys might actually have several things to test this week. 
+
+Okay. So yeah, once, um, the scheduled contract, uh, pending how our testing goes this week, we might actually have you all test that this week too, for the scheduled contract. But, um, that's all the devs are working on right now. 
+
+Once they're done with that, um, they'll be working on a little details like sharing the Patriot perks. When you click on your level there in the app, it'll show you all the levels and what you need to get, um, to reach the next level there. A few details like that. 
+
+A big, big one will be as soon as Gab Pay, um, approves our account there. A big one will be gift cards, which should make it a little bit easier for people to purchase Patriot Pay. Um, but again, that's, uh, what's on our docket right now.
+
+(7:10 - 8:07)
+Um, also working on, um, little, uh, I don't want to sit more like a, I don't know, pop-ups. Um, not a video, not a document. Um, but, uh, I basically trying during testing one of my debit cards wouldn't worked while I called the bank. 
+
+The bank says, well, they're not, um, the ones are declining it. Okay. That's strange. 
+
+Well, now they say it's Visa declining it. So I actually need to call a Visa to do that. So I was on the phone with Visa today. 
+
+Um, and then Visa said they, you know, approved it on their end. And, uh, the way they explained it is just that instead of having the, you know, uh, two ways, like the, I was trying to purchase through Stripe to test in the app. And, uh, they have you confirm a few, you know, different pieces of information.
+
+(8:07 - 10:15)
+The way the Visa rep explained it was that that takes you through two to three steps of authorization, but calling your bank would be like the fourth step of authorization. Your bank saying, no, we're not the ones that declined. It means that it's Visa. 
+
+So then that would be the fifth step. Um, and the way it shows on their end is Stripe crypto. Um, so that's just working on something like that for people coming into the app that might not know that. 
+
+Um, also just a heads up to any of you, uh, I know with bank of America anyway, if bank of America, if they don't have a reason on it. So when I called the bank of America rep and said, Hey, my card keeps getting declined. It doesn't show a reason on their end. 
+
+And at least for bank of America, when it doesn't show a reason of why your card got declined, that means it's not being declined by bank of America, but it's actually being declined by Visa or MasterCard, depending obviously what's on your card. Um, so just a heads up there, but also just some pointers like that, uh, we're hoping to add this popups through the app, uh, and also just attach, you know, phone numbers, uh, just so it's not, um, or as, uh, as, um, little frustrating as it could be, um, the least frustrating it could be for users. Um, because I know it's super frustrated. 
+
+Like it was super frustrating for me. Cause I'm like, what the heck? Um, so that is everything I have. Um, yeah. 
+
+If you have any account questions again, uh, feel free to reach out. Uh, you guys know the drill DMS, uh, in the live app, email, call, text, whatever you need. Um, but other than that, I think that's everything I have. 
+
+I will post, uh, again, the written details of exactly what you need to do for testing and also to help us out, uh, what you can do to help us out with the sharing YouTube rumble, some of that stuff. Thank you all so much. I will see you in general chat.

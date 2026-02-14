@@ -1,0 +1,529 @@
+(0:01 - 3:34)
+Hello, happy Tuesday. How's everybody doing? Thank you. Sorry, we're a bit delayed. 
+
+I actually still got to go back to FedEx, so I've got to get some last-minute stuff done here before I leave for CPAC tonight. Super excited, super pumped on my third coffee I just grabbed on the way home. Four shots here. 
+
+It's been a good week. Everything is moving great as far as development goes. We now have a few, I think at that point it's several, different versions of the app ready to deploy, which is great news because as soon as this part, just making sure all these bugs are worked out with the smart wallet, making sure estimations taken care of, then it should just be boom, boom, boom. 
+
+We have everything already ready. It'll of course just be working out the bugs. Our devs that are working on the smart wallet do expect you guys to begin testing in less than a week and we will just do one heavy day of testing. 
+
+If anything comes up, they will go ahead and fix that and then we will push that through and then after that we'll go to the next deployment, which will be very, very exciting. So for this next deployment that we're going to push once these devs get the smart wallet working as it should, we are going to need all of you guys that have wallets on the app to do some work and to let everybody you know that has an FJB wallet with a balance because that was one of the only downsides of our new service that we're using for wallet creation and basically this is the off service. So basically the new service that we're using for you to create a wallet and the account and log in, right? So we're moving away from Vess. 
+
+We've got a new very reputable company who we're switching over to but the only downside is you're not going to be able to use the seed phrase you have in your current FJB wallet to sign into the new system. So and they're adding that. They're a very, very fast growing company so that is in the plans for them to add that but this, you know, was one of the cons and I think we can do it.
+
+(3:34 - 17:19)
+We got through a fork pretty dang smoothly. We'll go through this once I have all the details for that and figure it out. We will write very, very careful instructions that you guys can follow and keep sharing with everybody you know and we'll ask you to do that as quickly as possible, as carefully as possible, but as quickly as possible because we need you to do that before we move on to the next step. 
+
+We just want the majority of you to do that. It's not the end of the world. If you don't, we'll still have, you know, a very emergency way to get you in your app and of course you can still use your seed phrase from the app, from the FJB app, to go into Metamask or Trust Wallet. 
+
+But I hope what I'm saying makes sense. Like I said, one of the very, very few cons of this whole process and the new system was that you'll need to make a new account with the new system we are using for wallet creation for account creation. I hope that makes sense. 
+
+Let me know if you have any questions. Super, super excited for this. The dev, it, so he actually, he did finish on time. 
+
+The issue is the company, actually you know what? Speaking of that, the company actually hadn't updated something. Very, very small detail on their website, but an important detail. So he's just going to have to, okay, he's just going to have to make a few tweaks that he's working on now for what you users on the front end will see. 
+
+But I am super pumped about this. It's, in my opinion, gonna be very much worth the wait and exactly what we need to grow the community because it does not get easier than this while still keeping the decentralized portion of, you know, keeping that part of everything we have right now. So super excited. 
+
+I know James asked last time about the new on-ramper with Louisiana. I'm so sorry, but Louisiana is a B. You know, that's, it's the same, it's all of these companies. So it's gonna be all the U.S. states and many countries, right? But all the U.S. states, but not Louisiana, which you guys know this, I think, even from Transac and many other on-rampers, not Hawaii, not New York, and then the U.S. territories. 
+
+But other than that, anywhere else, I know some people in Texas have issues, some people here in Arizona have issues with some of the on-rampers. We should all be good, but I do apologize for the few of you that are. I know we have one gentleman in Hawaii, another one in Louisiana, at least a few of you, but the ones I can think of that constantly remind me and complain about that. 
+
+But I think with time, that'll happen. So, yeah. Okay, sorry getting an important. 
+
+All right, let me go in chats, check in Discord. Looks like I got a new ticket. Somebody asking how they can convert FJB to PPY. 
+
+Okay, we'll add that into the... Let's see. Will Patriot Pay be at CPAC? Maybe. Telegram hasn't approved me to chat. 
+
+I don't know if you're on here now. Looks like you guys are answering all these questions. I did get home, actually, before 5.30, my time, but it's cutting it close. 
+
+I hate to be late. Traffic is nuts, I think. Spring training here. 
+
+Spring training here started and all of you outsiders come and visit and fill these streets with Ubers to drive you out of your games. Cool. I think that's all for Discord. 
+
+Let me look at Telegram. I see a few DMs. Sorry, I've been running around for a few hours. 
+
+I had a hair appointment and then I had to stop at a few places on the way home. Getting real sick of all this hair. Oh, also somebody said they hadn't received their stickers and it was like one of the very first orders that was sent quite a bit ago. 
+
+Yeah, Polygon's been a little slow today. Oh, you know, you guys know what, would anybody be interested in just having a button where you push it and do buy 1776 PPY? Well, I hope you guys do. I hope that's something that excites you as much as it excites me, but I'll have a link for you guys shortly. 
+
+Just click it. Buy 1776. I think it'd be cool. 
+
+Light up the charts with 1776. Yeah, what Wolverine's saying is true. I've had several of you where it's just a trust wallet issue sometimes. 
+
+Still catching up here. Ed says he's here for the party. Woke Ed up on the other side of the earth. 
+
+What if we made a wallet through the app and already put the seed in trust wallet? Yeah, then you're then you're good to go. Then you are good to go. We're just gonna have you all make sure that you have access to your wallet outside of the FJB app before we integrate the new login and wallet creation system. 
+
+But we get we need you guys to, you know, move quickly on that. Don't like panic. Don't do it quickly that you're gonna F it up. 
+
+But we just want to do that. Again, we will still have a backup. But I have enough stuff to take care of. 
+
+So please just follow directions and make it easy for us. And it'll help everything go smoother. And it will help us get through the changes. 
+
+And then then you can make your new wallet, which you will be ecstatic about. But we'll we'll test everything very, very well. Was the money lost at seed phrase? Don't believe you send me your wallet address. 
+
+Can we just keep using trust wallet for now through the change? Yeah, definitely. If you're just using trust wallet, go ahead. There's just a few of you that have your app wallets and have funds in there. 
+
+We just want you especially also, if you have other funds other than FJB. You know, you may want to just maybe transfer them to a new wallet, whatever you need to do. Does that mean Josh may have access to his coins? Well, that's tough because Josh doesn't even know his his wallet address. 
+
+So I don't I don't see how he would have access to his coins. You need to have your seed phrase. Or at least help me by finding a wallet address so we can find the transaction. 
+
+That's that's the issue. And I do recommend this for you guys when you are writing your seed phrase. It might help to also write your wallet address with it. 
+
+I do that with all of mine. I don't know if anybody else does that. I do. 
+
+Actually, I don't know if anybody else I don't I don't I've never spoken to anybody about that. See if anybody else does that. Sounds like a new wallet with new keys, etc. 
+
+Yes. And the new system you need to make the account with them. Again, they will they plan on adding a feature where you will be able to import a wallet that was not created in their system. 
+
+But for now, if you're accessing a wallet through your system, you need to create it there. But you will be able to still access the wallet you make in the FGB app outside of there. So you can plug it into metamask. 
+
+You could do that and be good. So yeah, that's a good idea. Stacey, James, you do. 
+
+You need to do that. Z money. Yeah, I've mentioned that to see money saying any of you folks who can't buy the community has your back. 
+
+There are ways I've said that to James, I think, where I've said just see if somebody else will let you Venmo or cash app or Zelda. I don't know if Louisiana what they allow over there. But I'm sure somebody would be more than happy to do that for you. 
+
+Not a problem. Ask around DM if you need help. If you are in the Hawaii, Louisiana, New York, surprised about Louisiana. 
+
+I mean, I mean, Oh, says answered. Okay. Yeah, as long as you have a seed phrase, or a key, you're good. 
+
+But make sure you save that somewhere safe. And like we learned from community member whose house unfortunately just burned down. Do not write that on paper and leave it around the house.
+
+(17:19 - 20:34)
+Right? We never know who's gonna be the next one. So yeah, we'll have a whole we'll have a whole section, educational section on that too. Since we since new wallet, can we import our vest seed phrase into the new wallet? Otherwise, how can we move tokens to new app wallet? No. 
+
+So when so right now, when we push this update through, it will still be vest, it'll still be your old wallets, everything will just hopefully be functioning as it should. And I'll have more details there. So all your other funds, again, you can go into trust wallet, if you want, and just keep access to them there. 
+
+Or and I'm talking about, you know, everything else you have USDT, BNB, what any other tokens you have for FJB? Well, now PPI that you have in there, I will write you very specific directions. And we'll get through that together. Oh, everybody says, Okay, cool. 
+
+We'll get that link. I'll try to get it tonight. Although I'm not sure actually, because I have to take my flight leaves around one ish. 
+
+So if it's ready before then I will post it for you guys to start lighting that up. Would be cool for Steve to see. I think he'd really enjoy that. 
+
+I think you know what? I think I should take I think I should take another device with me. Maybe I'll take an iPad. Oh, I gotta charge that up. 
+
+iPad or do I take like one of those? I don't know what would work better for you nerds. Do I take an iPad or do I take like one of those Microsoft? What are they called? I don't know. I've had it. 
+
+I think I've opened it one time. What do they call those things? Microsoft something. I don't know which would be a better one. 
+
+Yeah, I've had a smaller then I can show him on there while recording him because I am going alone this time. None of my friends could get time off with such short notice. Unfortunately, I'm gonna need some. 
+
+Oh, yeah, I'll have somebody from war room if they're around or one of the security guards. Oh, yeah, that's my goal. So my goal this time is to give Steve security guards PPY.
+
+(20:35 - 23:42)
+They're, they're, they're pretty scary looking. But you know, we're, we're getting there. Had like a few days of like, them giving me the side eye while me and him are chatting. 
+
+So thinking this time, you know, we have built some report. And this time I'm going to go on and give them their PPY. Who's gonna say it? Are they gonna say no to like a million PPY? Hope not. 
+
+Hope not. Z money says easy on the whiskey. Cool. 
+
+Everybody's excited about that button as much as I am. I like it. Like super excited about it. 
+
+Voodoo child says we're gonna have to talk about you know, oh, shoot. You told me last week. Has it been was it last week? And it definitely scrolling it definitely have to get buried by now. 
+
+I feel like telegram telegrams get buried because I have a lot of team chats in here too. And then discord what will happen is sometimes we'll open them and then go away and discord once you open them. It's like off your screen, you know. 
+
+So I'm sorry, I will get back to you probably once I'm at the airport trying to get there early so I can answer some DMs and emails. It has been it has been very, very, very busy, but a very good busy. So I do apologize if I haven't responded. 
+
+But yeah, yours was honestly because it dropped to the bottom. Could you go into the defy and D apps and white paper? What's the plan? Yes, we'll have actually what I think I'll do won't be this week, guys. Probably not unless I have like downtime at CPAC. 
+
+But I think I'll try to take full advantage of that and help out. But it'll probably be going into next week probably because I don't get back here until Sunday, I think. So yeah, that's gonna probably be next week. 
+
+I'll try to type up a summary like a cliff notes of the white paper. I've had a few people DM me that. So I think I'll do that for you all. 
+
+Just a one page summary. But I think at this point, you guys are pretty familiar with about most everything. Oh my gosh, you guys are awful.
+
+(23:47 - 24:09)
+All of yours. What are we talking about? Shoot. I'm like, wait, I'm like 10 minutes behind. 
+
+So all of yours. What are we talking about? I don't think I was talking about anything. I have all of yours.
+
+(24:09 - 26:57)
+Shoot. I'm not even drinking. I'm drinking another four shots of espresso. 
+
+Gen X says okay, I missed something transfer everything out of the FJB app. Do not do anything right now. I will keep you updated with very, very, very specific instructions. 
+
+But I'm gonna need you guys to follow them. Follow them closely. They will be very specific. 
+
+They'll be written very clearly into a document for everybody and posted everywhere. But the quicker everybody can do that, the quicker we can get the F on and move forward to deploy our other updates. How long before they think you can use your own seed phrase to import a wallet? Oh, this is for our new app. 
+
+I don't think they've given us a time on that. And you guys know in the software world how that works out anyway. I see in the white paper it talks about a marketplace and being able to sell products or sell services within the Patriot pay app. 
+
+Yes, so that specific one is the peer to peer one similar to the topic we posted here in telegram and I think I put a channel on discord too. I don't know if I've seen any posts in there. Oh, I did see coffee. 
+
+And that dog. Oh, no, I checked on it. Nevermind. 
+
+So the question is, I see in the white paper, it talks about marketplace being able to sell products or sell services within the Patriot pay app. Is this app function through public square partnership within the app? Or are we competing with companies like public square now? We were trying to negotiate some things and it'll all depend on that. As usual, we have a lot of negotiations going on. 
+
+But as usual, we will do what's best for the organization. And in turn, you the holders, we will continue to do what's in the best interest of us. Yeah. 
+
+And I appreciate you guys trusting that. But yes, everything is very carefully every little detail. Even as far as that goes, just to make sure we are making the best decisions we know with the resources we have.
+
+(26:57 - 30:16)
+And that's not saying right that we're not always going to make the best decisions. Obviously, I'm sure we'll have some misses sometimes. But right now, I think we're doing we're doing well, and we'll continue with the team we have. 
+
+Only thing good about Louisiana. Oh, why is why is booze in Louisiana cheap? In white paper, it says tax will be automatically converted to matic when bought. So don't have to sell PPI to use tax funds to protect charity integrity when so we've we've turned that on and off with volume being a little lower than usual is when we've turned it off. 
+
+And seeing we just got airdrops a few weeks ago. So that's just a function we turn on and off we are adding. I think I've shared that a few times we're adding a few different functions to that function to give us a few more options to because right now, we either have it on auto swap where auto swaps and automatically sells and we just give it an amount, a minimum amount to swap out. 
+
+So like a million coins and it swaps every time it reaches over that million threshold. Or we turn it off and then do a manual swap. But when we do the manual swap, it swaps everything in there. 
+
+So we'll be adding a few functions. That'll be that's too nice of you, Bobby. Hopefully, Josh learned that he needs his seed phrase, or at least his wallet. 
+
+How does he not have his wallet address? Oh my gosh. I think that's what it is. Yeah, I think it is the Microsoft Surface. 
+
+That sounds right. And then I have like a little keyboard that attaches to it. I actually got it as a thank you gift from organization I used to whenever I lost my restaurant, I was volunteering there like 80 hours a week. 
+
+They gifted me that was really nice. I do need to pull it out though. Maybe I'd like it. 
+
+Will the marketplace on the app only accept PPY or will they accept other cryptos for payment? I don't know the merchants that well, but seems like if you have a seller looking for PPY for X item and a buyer willing to pay in Bitcoin, that that would be good for PPY. Eventually, we'd love to add that. Yes, absolutely. 
+
+To have crypto marketplace. Slowly but surely. I think that'd be amazing.
+
+(30:20 - 30:59)
+Zimani says, add me to the team chat and I'll help you organize. On a serious note though, I do. Is anybody like local and anonymous? I do need some help, but like it requires somebody who's local. 
+
+And I have trust issues. Maybe I'll ask Steve if he knows anybody he trusts here. Are there any details you can share about the first phase of marketing will entail? Will the first phase of marketing still launch shortly after the update? Yes, that's definitely the goal.
+
+(31:01 - 31:46)
+Slow and steady because we don't want to spend a ton of money on marketing that's huge and have our app not handle it or bugs come up like that. So that's the purpose of that. Very slow and steady. 
+
+Another thing when with the slow and steady, I think that helps in keeping our charts pretty stable. I'd much rather have, I don't know, 100,000 buyers that buy 20 bucks each than have a whale come in, right? Because we've seen what happens then when they dump. But I think, you know, War Room's just good enough.
+
+(31:49 - 32:48)
+How do you feel about the new On Ramper? Will they cancel us? No. They just want their money. Where is CryptoStain? Ross is hunting. 
+
+Are you really hunting? Sam says, are we roommates or what? What's your level of drunkness? No, actually, does anybody have the friend that's, I'm the female friend that the wives love, because they know if they don't want to deal with their drunk husband, then their drunk husband's not gonna do anything with anybody else. We're all smacking. Sorry, Dawn, I'm gonna mute you.
+
+(32:56 - 33:03)
+Bobby. I've got a cool gal buddy 35 miles away. She's a smarty hunting CryptoStain.
+
+(33:06 - 33:34)
+Wait, your buddy is 35 miles away from me? Oh, where at? East Valley or West Valley? I didn't know this. Why is this the first time I'm hearing of this? Middle. Okay, so she's probably like, Tempe maybe is what that sounds like.
+
+(33:35 - 33:43)
+That's what I would consider middle. Awesome. That sounds awesome.
+
+(33:47 - 34:22)
+That would be amazing. I have all my friends, but I don't think I'd... Anybody that would, that has the time to do it? Oh my gosh. Holy smokes.
+
+(34:24 - 35:41)
+That says she could double as a bodyguard. Let's check Discord. Anything new in there? If you have a wallet already and you can't get in, can you find your info in your existing wallet to save? But if you can't get in... Oh, you can get in. 
+
+Can you find your info? Yes. And we also, we understand that little toggle up there, you know, it's a little tough to find your seed phrase for the, even though it's a crypto standard, that's something actually we'll be changing soon so you can more easily access your seed phrase. Here's a summary of the white paper. 
+
+Buy coins, shut up, get rich. Ha ha ha. Will you be showing up at rich people events and posing with Bill Murray? Wait, how do I not remember that? To seem like you're doing something for the coin like Grant.
+
+(35:42 - 36:01)
+Oh, somebody has to have that picture. Did I miss that? It would be useful to have more transactions at this point for stress testing the existing infrastructure systems. Any thoughts, Sarah? Yes, but we have, yes, definitely.
+
+(36:02 - 37:23)
+But we have a few app updates waiting. So first, the first one will be this one that will push out will still be vest, right? So don't you'll be log in exactly how you did before with your seed phrase. But now the Patriot Pay integration is in there. 
+
+You will not be able to on ramp with this update, but you should be able to swap, send, do everything else that you can do through change now. The next update after that will be pushing our new wallet creation and wallet login. We'll make sure that's all good. 
+
+And the update after that will be our new on ramp. And every one of those has been completed. The on ramp was scheduled to be done today. 
+
+But there's a tiny little detail we're working out the front end of how it's going to look to you, the users. When by tax go down to reasonable amount? Not for a while until volume picks up. Pretty reasonable, I think, now that that's not being siphoned away.
+
+(37:33 - 39:24)
+Oh, let's see. When do reflections start? Once we have Oh, I think I need to clear up something. I added that little detail at the very, very end. 
+
+And I need to clear that up because I've heard some chatter from the side chats. So that needs to be edited. And we will edit it in there when we release the copy with the app framework. 
+
+And the tokenomics after burn. But what it is, is we'll have a coin that acts as the reflection coin of PPI. So I'm really sorry to disappoint you all and about sorry about that miscommunication. 
+
+But we'll make it up with the other things. Oh, the other function actually was I think one that was very underrated. I don't know how you guys are not excited about it. 
+
+The transfer function is will be really, really cool. It's a transfer integration. Super cool. 
+
+So if you have coins on XT, or, you know, I don't know what you guys use Q coin or Coinbase, you'll be able to do it all from the app. So you're not having to juggle all these apps and accounts. And I think that is huge. 
+
+I think that'll be wonderful. I know so many people get scared. Going to those sites, especially people not familiar with, I still to be honest, I don't use a ton of those sites. 
+
+And I still get super freaked out not to get scammed. And you know, you have all the pop up messages. And you're like, is this real? Is this not? So I think that's a very underrated function.
+
+(39:24 - 39:33)
+I haven't seen much chatter about it. But it's huge. I missed the first five minutes.
+
+(39:33 - 39:46)
+When is the first app testing of the three? We're told within the next week. Minor, minor little details. And yeah.
+
+(39:58 - 41:04)
+Yeah, so we have 200 gift cards. We'll make debating. Debating. 
+
+Send out those coins. I'll see if I have time tonight. Might be tomorrow morning, but a handful of those will be like 500 half a mil a mil coins to hand them in person to some war room employees. 
+
+And then the rest of them to give out and you know, hand one, maybe I'll run into Donnie. Our Donnie, the American, the non the Donnie that doesn't drink. That would be cool. 
+
+But we'll do a handful of those. I don't know how many maybe like we need to calculate that out. See how everybody else feels about it.
+
+(41:06 - 41:21)
+And then the rest will be like 30 30 million coins is what we agreed upon. So I think it'll be good. And hopefully, hopefully people actually open it up.
+
+(41:30 - 42:42)
+Can we make the PPI marketplace tax free safe haven so we can all use it as like an art dealership where we transfer all of our firms from one wall is to another. Yeah, we've thought about that. What do you mean reflections will give us a different coin in return? No. 
+
+So we will have our own coin official coin that if you you know, for the holders that do want reflections, you will buy that coin. And as reflections, you earn PPI. And again, it's just something fun. 
+
+It's not to that coin doesn't have a utility other than just being a reflection coin. But for anybody looking for reflections, that way, it's something, you know, by us with us on our app official. So it just keeps the best interest of everybody.
+
+(42:44 - 46:26)
+What do you mean? When burn and BNB wallets? I know that's what I'm asking. They've obviously understandably been insanely busy, which is crazy because before like the weeks leading up to the airdrop, it was like when when when when when when but with everything going so well, maybe we'll get Steve his new wallet. Oh, and that's the thing. 
+
+So they wanted, they wanted first to maybe send those coins to, you know, their same wallets, but we want to be very, very safe. And do not want to do that, especially with especially with their devices. Being what's the word I'm thinking about? Compromised. 
+
+With their devices being compromised, we don't really want to transfer those coins to the same wallet. So I imagine it's taken, it's taken a while for them to make the time to make new wallets. But we'll have Steve make his new one this week. 
+
+30 Oh, shoot. 30. I'm sorry. 
+
+30k. I don't know why I'm acting like I'm drinking. What swap can I use on Trust Wallet to go cross chain I did it once but forget the name. 
+
+Wait, what? You're talking from PPY or we need a tax free transfer day. Perry says he wants to transfer coins to a burn wallet tax free. Why? If you want to just burn them, then keep them in your wallet. 
+
+What the heck's that do? What happened with the coins in the old tax wallets where those funds spent already something like 400 million FJB to PPY? Nope. They're still there. I'm sure you can see that on blockchain. 
+
+Surprise, you haven't checked. What site in Trust Wallet browsers use Oh, quick swap, or polygon scan. I, I think it's I think it depends on where you're located, honestly, or maybe it's my VPN. 
+
+I'm not sure. But I use like a smart VPN. Oh, shoot. 
+
+You know what I need to have to turn that off at FedEx. So yeah, that like, it has to be like something Arizona maybe I'm not sure. But polygon scan works a lot better for me. 
+
+Most people have more success with quick swap. My I don't know if it's again. I don't know if it's Arizona if it's VPN if my desktop but quick swap glitches a bit more now that we're not like testing with such small amounts anymore.
+
+(46:28 - 46:49)
+I wonder if it would be different but I honestly have not tested transactions for quite a while. Why does the burn have to wait for BNB they getting a bigger bag? No, they'll be keeping their same bags. We just have other bags, wallets.
+
+(46:50 - 47:15)
+And like, like the 200 wallets we're sending to, I don't know if I'll have time to do it tonight, tonight or tomorrow. Stuff like that. In white paper, it says marketplace items will be bought via PPI but settled in USDT.
+
+(47:16 - 48:22)
+Is this an equivalent to a PPI sell? And if so, does that mean every product brought will create reduced value for PPI? Yes and no. And that's something we'll continue modifying as volume grows. And as we grow, right, which is why having an upgradable contract was just genius. 
+
+I was, I was not happy about the time needed for that whatsoever because, because you guys are stressing me out so much. And I was like, Oh my gosh, I have to tell them we're just started another edition. So that's probably my least favorite edition wallet was happening to be honest, because I was like, Okay, we're done. 
+
+But it has been the most rewarding. And I think especially for where we're at, and the growth we plan on. And the revolution, honestly, that we want to work on, I think that'll be major.
+
+(48:23 - 49:41)
+Right now with, you know, just starting out, I think, and just building our community, I think that gives a huge incentive. And while crypto is still very new to very much of the conservative world, it'll give vendors, businesses, just, I think, a reassurance that they receive USDT. So again, as we grow, there are definitely, there's an unlimited, you know, unlimited options and functions we can add to the contract to change and evolve and as the world evolves, as blockchain evolves, as conservatives become more familiar with crypto, which is probably one of our number one goals, maybe top three goals. 
+
+So that's that. No, I think he's asking about the pancake equivalent. So quick swap.
+
+(49:58 - 51:01)
+Shoot, apparently you guys lost me. Where was I? Was I talking about the USDT? Hopefully that answer went through. No, my dogs. 
+
+I gotta take them on a walk. I don't take them on a walk today. Can you guys hear me again? Did you guys hear my answer of the USDT? Okay, so I'll go back to that. 
+
+Shoot, it was like a long one too. Now I'm, good thing is now I'm caught up. So now I'm talking to you in real time.
+
+(51:03 - 51:22)
+In the JROC says in the white paper, it says marketplace items will be bought via PPI, but settled in USDT. Is that an equivalent to PPI sell? And if so, does that mean every product bought will create reduced value for PPI? My answer to that is I think this is why. So yes and no.
+
+(51:24 - 53:27)
+Because yes, essentially by something that PPI is going to auto swap to USDT before it gets to the business. However, I think this is imperative right now with the age, you know, we're still little baby infants. Conservatives are still, most conservatives I'd say probably haven't heard about crypto or if they have, think it's some like monopoly money scam. 
+
+So we're working on changing that clearly. But also businesses, a lot of business owners, same thing, right? So I think that's why our upgradable contract is so important because these are all things we can change as we grow, as the blockchain industry evolves and as society and particularly patriots, whether conservatives or independents, change their views on crypto. So for the time being, it's important to have that because I think that gives businesses some reassurance that they are receiving USDT, something stable, you know, that somebody isn't paying them 10 bucks and then the next hour it's worth five bucks and now they're in a hole, right? I think business owners, especially small business owners, have it hard enough. 
+
+Went to get my nails done yesterday. I needed like a fill and a pedicure and it was empty in there. It was empty. 
+
+There was one person, which is just nuts. But after checking out, I'm like, it's 100 bucks, 20 for tip. I'm like, no wonder. 
+
+Like, I mean, most people can't really afford that every two weeks. Like you have kids to feed. You have a lot of groceries, which are expensive as heck.
+
+(53:28 - 53:36)
+So I'm like, I wonder how these businesses are going to continue. Yeah. So I hope that answers that question.
+
+(53:43 - 54:38)
+Swapped BNB to MATIC within Trust Wallet using swap feature. Big week. Should be fun. 
+
+If anybody's in DC, I'm going alone. So I'll come to CPAC. I'll be bored. 
+
+I guess it'll force me to talk to everybody. Not that I usually don't. Bird ate Mike. 
+
+Probably would too, but you'd hear them before they did. Polygon NFTs. Maybe, maybe, maybe we'll talk about that at CPAC.
+
+(54:42 - 55:38)
+My mom and I went for Manny Petty and it was over $300. Yeah. What? Like, how? And I'm like, no wonder why the place was empty. 
+
+But I get it because I imagine they're, I mean, I imagine their supplies have doubled, their rent, their insurance, I mean, everything else, but it's wild. It's, I mean, it's crazy. It's honestly just nuts. 
+
+And then same thing again with my hair today. Color, color and cut, which my hair, I just do super, super black. And I was like, oh my gosh, again, that's why nobody's in here. 
+
+So I hope these businesses can make it through. Perry says he'll do your pedicure. I'll do it for $150. 
+
+I do love my nail place. And they serve you wine, which needed that yesterday. Talking about you, Telegram.
+
+(55:44 - 56:17)
+Did I miss the ETA for the price at CMC to be correct? No, CMC has no ETA for that. You, Boris Bannon could have just made a new coin and all of us lost our money for two years of investing. Instead, you worked your butt off and made all the investors whole. 
+
+Safe to say we trust you. All the buyers, all the community members, that's what you mean. Appreciate that.
+
+(56:19 - 57:30)
+We will continue building trust with the community. And after everything we've been through, I think we understand and probably appreciate that trust is not so easily given anymore around here. Yeah, I totally understand that. 
+
+Once you break my trust. Um, have you? Oh, I'm sorry, Andy. I forgot to check on that. 
+
+Um, has anybody been in touch with Sandy? Like, is she alive or she just still upset? I know she's from Texas. Oh, Sandy was going to give me and Donnie. What was it? Five acres or 15 acres, something like that. 
+
+But I don't want to be Donnie's neighbor anymore. So hopefully she can give that to somebody else. We can be neighbors.
+
+(57:32 - 58:40)
+But no, on a serious note, last time I heard about Sandy, I'm pretty sure it was Jeff Roach or somebody said that Jeff Roach said he heard from her. I don't remember now, but one or the other. Um, sorry, I just got an important text. 
+
+I'm getting no answers about the Sandy thing. But I'll check around again. Sensitive egg has says big. 
+
+Yeah, where's egg had been? He's been busy apparently. Although I did, a few of my friends said their eggs aren't, or their chickens aren't laying. You need to give them sunflower seeds.
+
+(58:43 - 58:58)
+So maybe that's why egg's been away. Uh, how many plus one tickets did you get for CPAC and may him join you? May him's pretty smart. Get him in there with, uh, Steve.
+
+(58:59 - 59:05)
+When is the launch of PPY? Working on it. Working on it. We got to have that app, Sam.
+
+(59:06 - 59:39)
+Got to have that app ready. I do have some pretty cool business cards to also give out at CPAC. One side is for holders. 
+
+The other flip side is, uh, businesses for businesses. One side has Steve's picture. The other side has my info, not my picture. 
+
+Um, it's good. Hi, Charlie. Oh, I had a bird named Charlie.
+
+(59:43 - 1:04:21)
+Hmm. What else? What else? What else? Have any businesses signs up lately? No, but I will be very busy this coming week. We do have a few community members and their businesses ready to sign up that are just waiting on us. 
+
+Just getting our ducks in a row. This week has been mainly what, mainly the app. I'm so relieved with that. 
+
+Mainly the on-ramper, getting our KYB, getting that all integrated. Yeah, very stressful, but very rewarding this week has already been. I can't believe it's only Tuesday. 
+
+By the way, I, when I got on voice chat, I was going to say happy Friday because it seriously, it feels like this has been a very long week. So I didn't know about the change from FJB to Patriot Pay on Polygon last month. They added to my FJB bag. 
+
+So, um, what now, how do I get that one to one ratio? What? Um, so if you had FJB, at the time of snapshot, which is December 16th, uh, I don't remember my time. I think it was around 2 AM. Um, then you will already have some PPY in your wallet. 
+
+You just need to import it. Uh, but for the FJB you bought after that, uh, well, there's still, you can still sell it and get your money back. Excuse me, but unfortunately I can not airdrop you PPY for FJB you bought after the snapshot. 
+
+I keep getting, uh, tickets on discord regarding that, but sorry, not how that works. Unfortunately. Oh, did I say Snapchat? I swear. 
+
+I don't know. I think it's, I think it's like literally the stress of the week where you guys are going to, uh, Russ is going to start thinking my poker chips in here and my, uh, coffee. Don't tell him Starbucks. 
+
+Uh, he's going to start thinking I'm, I have some tequila. What else? Did everybody order their stickers? I do have a sticker order. Oh shoot. 
+
+Uh, to be honest, I don't know if I'll be able to get that out before I leave here. Oh, maybe I can take it. No, I'm not going to have, well, I'll just have to handwrite you guys as thank you notes. 
+
+Maybe I'll do that in case I have downtime while I'm there alone with no friends. Cause apparently none of you are in DC, but I don't blame you. I don't want to live in DC either. 
+
+Oh, Russ is going to send me some more path coffee. Somebody was talking about it. I haven't tried that one yet.
+
+(1:04:22 - 1:04:35)
+Ooh, Stacy has her stickers. I love the conspiracy realist and the impeach Biden Harris. I want one of those actually.
+
+(1:04:40 - 1:05:38)
+Do you ever have anybody do bad things to your car, Stacy? Sam and Tim are going to come meet me there. Have some drinks. Nope. 
+
+But I get some eye rolls and I just laugh. That's funny. Russ says he knows the story behind those crooked stickers on the Stacy's car.
+
+(1:05:57 - 1:06:13)
+JB says he's going to send her a level. What else? Oh my gosh, it's already seven. I have to get stuff from the dry cleaners.
+
+(1:06:14 - 1:06:38)
+I have to pack still. I have to dress like a human for the next several days. Oh, you know what I need to find? I need to see if they have a gym or else I'm going to go all week without workout outs and, uh, probably need that.
+
+(1:06:56 - 1:07:25)
+Stacey says she obviously needs one. Love you too, Russ. Oh, this time. 
+
+Oh my gosh. You guys saw how sick we got at a TPUSA. This time I got the Ivermectin ready. 
+
+I will be taking that with me. I already started taking it. Is it preventative? And hopefully we don't get sick again.
+
+(1:07:31 - 1:08:18)
+Oh yeah, it depends. You know, there's like cocktail stuff depending on what. I guess I should take some things too. 
+
+Yeah, I probably should. Oh, I don't take D3 all for his glory because it really impacts my hormones, but I get like a ton of sun generally the last few months, obviously, even here, but I'm back to that. I do lay out every I have to with all that cholesterol I eat and convert all that fat to vitamin D. By the way, you guys should download the D Minder app if you're into all that.
+
+(1:08:19 - 1:08:41)
+Show you exactly how much you need for an optimal vitamin D level for depending on where you are, your skin level and your blood. You upload all the important stuff in. Can you recap what was covered in the first part of the voice chat? Is there a new app? White paper mentions Tron and Polkadot support.
+
+(1:08:46 - 1:08:54)
+All for his glory says I forget you have sun. We have no sun in Indiana. You guys probably have much better looking skin though.
+
+(1:08:57 - 1:10:11)
+Recap, is there a new app? There's a lot of new integrations into the app. We're starting out the first one. The first deployment we'll push through will just be to make sure P P Y is now integrated and everything is working as it should. 
+
+That's with Vess. Then we're going to ask you guys to follow the directions and basically get your get access to your wallets in by other means than just the FJB app. And again, you don't have to follow that right now. 
+
+We'll get you the directions once it's time. After that, we will the next deployment will be the removal of Vess and an add on of our new service for wallet creation, account creation. Uh, that should be very, very, very easy. 
+
+Uh, for any like my, this one is truly easy enough for my grandma to do it. So if my grandma can do it, then you all can do it. My grandma's in her seventies.
+
+(1:10:12 - 1:10:35)
+Um, after that, which that will be all new wallets because with our new service, you can't import your new wallet. You can create a wallet with them and you can access that wallet by other means, say metamask. Um, but for now you can't use an existing wallet you have.
+
+(1:10:37 - 1:11:19)
+Uh, they do plan on that again in the future. Uh, then the next and the way we're doing it this way so we can test, um, every edition and more easily be able to identify the bugs, fix the bugs. Hopefully that helps everything go a lot quicker. 
+
+Um, it's also obviously in the order that the dev developed everything too. So, uh, so after that, and that's already worked out those bugs, the next edition will be our on ramper. Um, and that's amazing again, should work everywhere except for Louisiana, Hawaii, New York.
+
+(1:11:20 - 1:11:51)
+Uh, but it should be awesome. You guys should love it. Yeah. 
+
+And then we'll work out those bugs. Um, and in that within all that, uh, Apple and Google, I think this is actually the biggest part. We'll be changing everything in the app store so people can search for Patriot pay because I, I'm doing that now. 
+
+Like even testing, I'm doing that. I'm, I'm searching for Patriot pay in my phone. So I need to fix that.
+
+(1:11:56 - 1:12:29)
+Um, yeah. So I think that's a recap there. Oh, as far, and then the trend, other functions we're adding, I think, uh, it's what you're discussing was like the transfer function. 
+
+That should be amazing because you'll never have to leave the app to go to any other crypto website. Basically a lot easier. I think it'll be a lot less room for mistakes.
+
+(1:12:31 - 1:13:14)
+Um, and a lot less room for getting scanned because you know, you guys have clicked on those weird links and downloaded a quick swap app, which by the way does not exist. Not a real one. Uh, yeah, we are still non-custodial. 
+
+Yes. So there is no way to get the same amount. What? No, I would not use the app on iOS.
+
+(1:13:17 - 1:19:32)
+I would not use the app right now until we give you the green light to do so. I do not want anybody losing funds. And man, do you guys find, I love it because you guys find like ways to do things that even the devs are like, how the hell? It's funny because our dev, our dev, um, today shared this give. 
+
+That was so funny. I shared this. Oh, and I told him that's my favorite. 
+
+Cause I do tell you guys that if the dev ever reads in here, that's probably what he's thinking. He thought it was really funny. Yeah. 
+
+I think that's everything. I think I'm going to go and make sure. I think I have a few things maybe that need washed. 
+
+I actually have to look like a real human and get out of my gym clothes. Um, I hope there's like a casual day or something where I can wear my baseball cap and just be, um, yeah, I think that's everything though. Uh, if you guys need anything, please let me know. 
+
+Uh, I may not get to DMS right now. Uh, so if they're urgent, please tag me. Otherwise I'll be getting to them later or even tomorrow. 
+
+Um, but again, if they are urgent, please either DM me again. So it goes to the top of my inbox or tag me or both. You guys text me, call me whatever you need to do. 
+
+Um, but what I'm going to go do is, oh, well I got to get the printed material, make sure I have everything there. And then I'm gonna, yeah, make sure all my laundry's done and then start packing so I can get that out of the way before I get too tired. Then I'm going to forget a ton of stuff. 
+
+I do need, I've got the iPad right here. I gotta make sure the iPad's good and charged and password. Um, yeah, that's really, so is, is nobody still claiming that liquidity that was locked from FJB? Was it one of you guys? Hmm. 
+
+Hmm. Whoever it is still has that locked. So actually I haven't checked. 
+
+Maybe it unlocked now. It is still in deep lock though and they're, they're donezo, but there is, we have found some like back ways to get that. If it is one of you, please DM me. 
+
+Uh, if that's, you know, one of you who locked in those few thousand dollars of ALP. Uh, what happens to the smart wallets? How long will this be available for those with PBY and smart wallets? Uh, so with our new login service, when you make your new account, you'll still get a smart wallet. Um, the vest there will be, we'll, we'll have the full deal. 
+
+I'm not gonna go into it. I know you're just curious to know, but there's going to be people that try to go and do their own thing and that's how they end up losing their funds. And so I'll let you guys know as soon as that's complete, we will type it up very carefully and give it to you all. 
+
+But in the meantime, please don't mess with it. Um, and don't, don't ask anybody else to, cause I know many of you are very, very crypto savvy, but many here are not. They'll go try to follow your directions and screw themselves over. 
+
+Thank you all for his glory. That's so sweet. Do I have a ride to the airport? Uh, yeah, should be good. 
+
+Once I get over there, I do not, but I imagine they have Ubers in DC. Oh, I should probably actually, I don't even remember the last time I used an Uber or Lyft. I'll have to make sure that let me see, add something here. 
+
+So I remember to check on that and make sure I'm all ready there in my phone. Uh, any update on adding liquidity to PPY pool without double tax? Uh, I thought I answered that. Uh, I will forward this to my inbox. 
+
+Sorry. I don't remember if the answer was that we'll look into it or if it was actually answered, but I will check again. Thank you. 
+
+Don't worry. I'll still, still be here. Uh, I'm sure you guys won't know. 
+
+Well, they will. I'll try to post stuff. Um, yeah, I will see, see if I can get that link for you guys tonight since you're as excited as I am about it. 
+
+Uh, the way we have it set up right now is that you'll send like two PPY to it, but you'll get the refund. So don't worry about that. I'm not trying to make money off you. 
+
+Um, so yeah, it'll, you'll be charged what you're supposed to be charged. Um, and yeah, I'm really excited for it cause I just want to blow it up with PPY 1776 PPY, uh, buys. All right. 
+
+Well, uh, give me a little bit cause I got to check on my zoo cause I've been gone all day and then I'll post the, uh, recording, uh, with some notes though. I don't even know what notes to put in there. Really. 
+
+We've gone through so much. You all have a wonderful night and I will see you in the chats.

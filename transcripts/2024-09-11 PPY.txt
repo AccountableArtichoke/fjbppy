@@ -1,0 +1,202 @@
+(0:05 - 0:50)
+I hope you're having a good weekend, having a good week so far, and let's get right to it. This week we should be seeing some social media activity, I'll update you as soon as those are posted, I think the plan is for Friday. Marketing from this weekend's rally went pretty well, it did help us find, actually, a bug that you guys didn't catch, and we didn't catch, because it was only occurring with new users, so that was fixed immediately as soon as we found out about it.
+
+(0:51 - 1:22)
+We are now just testing everything with new accounts to make sure if there's nothing else that needs to be fixed. Before the next few big marketing campaigns. Like I said, the next one will be some social media stuff going on this weekend, hopefully by the end of the week it will help us catch any more of those as we continue testing ourselves.
+
+(1:24 - 1:55)
+Devs are still working on the Matic issue in case you've sent the... Shoot, sorry. I'll try to speak louder. Is that better? Awesome, sorry about that.
+
+(1:56 - 2:19)
+So, I'll keep you updated on that. The other dev is working on some info. We are waiting on a third party to receive some info to finish out the orders page and continue making that easier for you all to understand, including all the transactions that we can have on there.
+
+(2:20 - 2:37)
+You should be now seeing purchases, donations, so that'll continue improving that orders page for you. We plan on having that completed by the end of the week. I will keep you updated on that progress.
+
+(2:39 - 2:55)
+Let's see. Education videos, still waiting for some approval on those after some modifications. Other than that, really it's just marketing.
+
+(2:55 - 3:10)
+We have a pretty big marketing meeting tomorrow. I'll definitely let you know how that goes. That's it.
+
+(3:12 - 3:42)
+Both dog treats and shark tank owners should be listed by the end of the week. Marketing was great this weekend. We ended up getting about 200 users and a few buys.
+
+(3:44 - 4:07)
+I know some of you have had issues with the direct on-ramp that you've been testing that is still working. The devs are still working on implementing that into the app. We're just making some modifications just to keep it super, super simple for users.
+
+(4:08 - 4:20)
+A few things to work around there. Also, because Guardarian isn't available everywhere. They're expanding pretty quickly.
+
+(4:20 - 4:38)
+It's a ChangeNow sister company. They're definitely growing. I have no doubt that they will be available in more regions soon.
+
+(4:39 - 5:02)
+I will update you guys on that direct on-ramp on the app as soon as we have an update there. Just a few different things to work around just to keep that super simple so it's not super confusing when users get on. We know it's super simple for you all because you get on and you can see three options on there and be fine.
+
+(5:02 - 5:47)
+We just don't want to make it that complicated for new users and for folks who aren't too familiar with crypto. Just working around a few companies' APIs and hoping we can automate most of it on the backend so that you just get on and click buy PPY and the background can do the rest. Some of that does depend on the APIs and how they work on the backend and how we're using those APIs from a few different third parties.
+
+(6:10 - 7:01)
+I think I did update you that our payments were made for the two events at the second half of September. Those will give you the exact dates now that they are finalized. We are locked in for those all paid.
+
+(7:02 - 7:25)
+Should be pretty cool. We do expect a decent amount of new users from that. Just considering that the crowd that's familiar with crypto is a younger crowd.
+
+(7:27 - 8:22)
+The idea of crypto isn't completely brand new to them. I'll keep you updated on that after I confirm with him. We are locked into that.
+
+(8:23 - 8:32)
+I will update you as soon as I can of the two dates. Should be second half of the month. All good there.
+
+(8:32 - 9:11)
+The rest of the marketing for September will be weekly, social media, as long as we don't have any crazy bugs that we can't get fixed pretty quickly and get out of the way like we did for Saturday. Devs were able to take care of that right away. Just because that would end up costing us much more to fix those errors for the new users if they buy and their tokens aren't going into the right account and so on.
+
+(9:12 - 9:37)
+Other than that, we'll have some big emails going out. Of course, a few of those will go out from our personal mailing list with all the users that have already signed up. You might see some repetitive ones in your inbox, but also some bigger lists that are a little bit more.
+
+(9:42 - 9:54)
+We'll share those as soon as they're out. I'll share the emails with you guys as soon as they have an exact time. That's it.
+
+(9:54 - 10:20)
+We have some Rumble ads going on later in the month. I think so far it's been really awesome rolling out. Everything, I know, obviously is slower than we'd like looking at the charts, but it's definitely done everything it's supposed to do as far as getting any bugs we want fixed in the app.
+
+(10:20 - 10:50)
+For example, this weekend if we had that bug with new users and Bannon was shouting us out on War Room and we did the same sales we'd done before in the first hour, we totally would have been screwed. The slow rollout of marketing is going pretty well. I think crypto in general is doing pretty well.
+
+(10:50 - 11:20)
+I think the debate helped a little bit. It helped the market a bit today, so we'll see what Matic does in general or what crypto does in general as we get closer to elections. I think that's all I got.
+
+(11:20 - 11:34)
+I will let you guys know as soon as any marketing does come out. I'll definitely share with you. Same with the social media posts.
+
+(11:34 - 11:55)
+I'll definitely share those with you as soon as they're out and keep you updated. I'll definitely also keep you updated if I have any updates before Friday on any dev fixes. I'm pretty sure we have all your wallets and your coins calculated now for testing to be sent out.
+
+(11:55 - 12:27)
+If you've not sent me your wallet for testing reimbursement that we started back in May 30th, so very end of May, please go ahead and send that over. Just because the reason we're not automatically sending back to wallets is in case you all don't have access to that wallet anymore. I'd hate to send it and you all not have access to that wallet, so please reach out.
+
+(12:27 - 13:11)
+If you haven't already sent me your wallet address for reimbursement, even if you didn't do a crazy amount of testing, please just do that so we can reimburse you. When a new user signs up on the app, will that show up on the Total Wallet count on Polygon? No, because when a new user signs up for the app, that doesn't necessarily mean that they're buying PPY. We can see who has signed up for the app, but that doesn't mean they've purchased.
+
+(13:11 - 13:44)
+Now, if they purchased PPY in the app, then yes, you should be able to see it under the wallet count. My numbers for the right under 200 new users, those were just new users that signed up to the wallet. Not necessarily users that purchased PPY, but we did have several new people purchase.
+
+(13:44 - 14:10)
+I think a few of them might have actually not swapped their Polygon. I want to say Matic, but Polygon haven't switched, swapped their Polygon over to PPY yet, but definitely got several chats in the app, definitely got several emails. I don't think I saw many people come into the chats, so we'll definitely send out, like I said, another welcome email.
+
+(14:11 - 14:49)
+If you get repeat ones, we can also just send it to the new people, but maybe a good reminder for all of you too, or all of the old holders who aren't necessarily in here. Forgive us if you do get that repetitive email, but I think it'll help with many of the users that aren't in here, which is actually the majority of users. So I think we will actually go ahead and send a few more emails, welcome emails to everybody on the list.
+
+(14:49 - 15:12)
+So just delete it. Try not to block us or spam it, that way you continue getting any updates in case we send out any important updates, any more important updates. Yeah, I think that's everything on my end.
+
+(15:12 - 15:22)
+Our devs are doing fantastic. Everything's going great. I can't wait to share the education videos with you guys finally.
+
+(15:24 - 15:48)
+Again, I think that will really help our social media too, just to bring value all around. Have that be the foundation of our social media versus the same old that everybody else is doing in the conservative or even political space. So I'm very excited about that.
+
+(15:48 - 16:08)
+I think you all will love it. Just got to make sure that we don't get into any trouble, I guess, there. Yeah, that's all I got.
+
+(16:09 - 16:33)
+Definitely waiting on someone to come out before the elections are over. Come out of jail. So yeah, I'll keep you updated on Boris also and on any new influencers we have coming in.
+
+(16:34 - 16:47)
+As always, please, please, please remember, don't share your personal information with anybody including me or other admins. We'll also never ask you for funds. I know those messages could be very convincing.
+
+(16:47 - 17:11)
+I haven't had anybody send me one in a while, where it's like a fake Sarah asking them to send money very quickly. So just be careful. As always, if you're looking into other coins, I would just make a new wallet that doesn't have all your funds on there before you go ahead and connect an extension or an app or put your information anywhere.
+
+(17:12 - 17:22)
+Again, if you're ever in doubt, please, please, please ask. I know they always catch you on a bad day. You know, you're sick or you have something going on and you're not thinking straight, and that's what they do.
+
+(17:23 - 17:42)
+We haven't had anybody get scammed for several weeks now, which is amazing. So just please be careful. Yeah, I saw that. 
+
+That's funny. He's okay. It's definitely been a lot of work.
+
+(17:42 - 17:53)
+So thank you, though. I'm sure he'll be fine. There's just like a bulb growing at the top of the pin, right? So he broke his humerus.
+
+(17:53 - 18:09)
+So they have like a pin in there that they'll take out at eight weeks. But this kind of like bulb is growing at the top of it, which apparently is normal, but it's huge. It's definitely bigger than a tennis ball now.
+
+(18:10 - 18:26)
+So I think that's starting to bother him. And then I had to re-stitch him up again last night. And then now they reinforced the cone so he can't take it off.
+
+(18:27 - 18:39)
+He didn't like the soft cone. That was very easy for him to take off. And now I just have to tape the collar shut because what he'll do is put his paw in there and unlock the collar.
+
+(18:39 - 19:04)
+So anyway, all to say I think he'll make it. What does everybody think about a stolen election? If they steal it, how do you think crypto survives? No doubt they will come hard after cryptocurrency. Yeah, I don't know.
+
+(19:04 - 19:16)
+You guys will have to discuss that. It's not surprising to what length they go to, I think. Bendy boy, you saw what they did last night.
+
+(19:16 - 19:36)
+I don't know if anybody else noticed. Even the lighting and the camera angles were completely different. If any of you are photographers or any of that, I'm sure you know much more than I do, but they had like the hero shot on her, the villain shot on him.
+
+(19:36 - 19:46)
+The lighting was completely different. So he looked like crap. It really is crazy the details that they, I'm sure, was not an accident.
+
+(19:47 - 19:58)
+But I'll stay here with my conspiracy theories. Smarty pants. That's the thing.
+
+(19:58 - 20:18)
+He's not exactly our smartest dog, but he is the most stubborn. I think that was his little bit of poodle coming out. So now I duct taped his to keep it shut so he can't press the button.
+
+(20:21 - 20:25)
+Yeah, I noticed it. I think they'll do whatever they need to to stop us. Yeah, no doubt.
+
+(20:26 - 20:42)
+Yeah, let's see what happens. We just got to keep faith. Hopefully, hopefully, hopefully they're not successful because I don't think we want to see it get much worse.
+
+(20:44 - 21:06)
+We'll see if they do another debate too, because I think last night was rough. It's interesting, too. Our town put up a poll asking people who won.
+
+(21:06 - 21:21)
+And, of course, we're in a conservative town, so I want to say like 60, 70, 60. It's like 64, I think, percent Trump. And then I think it was like 30 percent her and then a few percent undecided.
+
+(21:22 - 21:38)
+So it's definitely interesting to see a few polls I saw with just like influencers and stuff online. I was surprised at how many people were undecided. I never know.
+
+(21:39 - 21:57)
+We'll see how it impacts crypto. Decentralize everything. So it's pretty safe that crypto goes up either way, Trump or Harris.
+
+(21:58 - 22:18)
+It's a cycle, right? Crypto will go up eventually. It's been a while since I logged in. But is the FJB coin dead or still going? FJB is dead and reborn to PPY.
+
+(22:20 - 22:48)
+I don't think you're on the voice spread, so I'll reply. I think that's all I got. Please feel free to reach out if you run into any issues or questions.
+
+(22:48 - 23:09)
+Do use that bug report and the app, please. I know some of you are using it, which is super helpful just because it also helps us test that function just because it auto-populates, for example, your device, your browser. So that helps us in more ways than one.
+
+(23:11 - 23:33)
+But yeah, I think September so far has been smooth sailing. Really, it's more just marketing versus everything else versus waiting on anything third-party related has been smooth sailing. So I'm glad we're at that point.
+
+(23:42 - 24:01)
+I'll get the recording up with a few notes. Thank you all very much, and thank you for keeping the chats going. Again, we have been keeping a close eye to kick out any BS.
+
+(24:01 - 24:24)
+We just don't want new users seeing that. So I do appreciate that. I know we all get frustrated sometimes, but I definitely appreciate you guys keeping this platform in particular attractive to anybody new coming in.
+
+(24:24 - 24:36)
+So yeah, I think that's all. Let's run a contest. Let's see.
+
+(24:41 - 25:29)
+Let's do... Let's run a contest until... Let's see, what's the price at right now? Let's do a contest for two winners. It'll go until Friday's voice chat. We'll have two winners.
+
+(25:30 - 25:52)
+You've got to buy 250k PPY to be entered. The prize is 250k PPY plus some coffee. How about that? Some coffee mailed to the address of your choice.
+
+(25:52 - 26:04)
+That could be a P.O. Box. We'll have that run until Friday's voice chat, which I guess is only two things. It's okay, we can run another one then too.
+
+(26:04 - 26:15)
+So I'll post that in the notes too. Again, please feel free to reach out if you have any questions. Tag me, email, call, text, DM.
+
+(26:15 - 26:20)
+You guys know how to contact me. I will see you in general chat. Thank you.

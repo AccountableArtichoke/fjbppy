@@ -1,0 +1,984 @@
+(0:05 - 0:49)
+Okay, waiting for kindling violets and let's see, it's so weird. I think they need to make it easier for whenever we switch to the different topics, which has been really cool. I think most of you love that and helps kind of organize everything a little better, but I feel like some people still have trouble joining the voice chats.
+
+(1:21 - 2:06)
+Patriot pay has a much bigger future than FJB. Yeah, I think again, I know I saw kindling violets today, wanting to keep the FJB, but going back, our number one goal is keeping everything secure, right? While growing the community and as you guys saw, that was TPUSA being the biggest example right there. Last year, I must have emailed and called at least a dozen times, right? Didn't get one call back, nothing and then you guys saw this year what happened and they're ready for us.
+
+(2:06 - 2:44)
+They're excited to start Spring Fest again and that's one of the most conservative organizations out there, so I think as again, most of you guys realize that's a way and we all still believe FJB. I don't think anybody here doesn't believe that. What else? That was kindling violets too.
+
+(2:46 - 2:59)
+Check it on. You can fund the project through liquidity pool, 0% tax. Yeah, 0% tax is not something we can do right now.
+
+(3:00 - 3:57)
+Again, I understand we all have different ideas, but as you all will see with the new contract, we do have a team of experts or crypto advisor specifically and through the changes you will see, you have kind of seen on the contract, that'll become more apparent and right now, 0% tax is just not doable for us. Good news truth says, when can we expect our new tokens? We're waiting for integration from ChangeNow. That's what we're waiting on now.
+
+(3:58 - 4:22)
+So, we need to wait until that's integrated and then once that's all good, we give our exchanges the green light and get LP in there and airdrop your tokens. The white paper will be right after we go live. The launch video will be right before we go live, likely.
+
+(4:23 - 4:51)
+So, the plan right now is to drop the announcement video the day we go live, probably within 24 hours to give you all some time to do what you need to do if you want to get in and purchase more coins. I know I've been getting a lot of DMs about that. App to be completed for Banna to talk about Patriot Pay on War Room.
+
+(4:52 - 5:15)
+App is complete and we are just again waiting for that ChangeNow integration. We're also waiting, and this is what we're waiting on marketing wise, is the Apple and Google Play Store to change our logo and the app name. Everything else on there is complete.
+
+(5:15 - 5:46)
+As you guys can probably see, when does marketing start? As soon as that app name changes. Just because, it's going to be very confusing, right? If we have the app, if we have to actually go search Freedom Jobs Business, but here we are. The app looks like Patriot Pay and we're advertising Patriot Pay and you guys are all telling everybody Patriot Pay.
+
+(5:47 - 6:06)
+So, we just don't want that to be confusing and users seeing different logos in the app store. So, we are just waiting on that. Again, as you all know, a lot of organizations, businesses, individuals do not want to be associated with anything FJB.
+
+(6:07 - 6:26)
+So, asking them to download or go to a website that's FJB is not going well. So, once the app stores change the logos and the names, then yeah. And their estimate for that is a very wide range.
+
+(6:27 - 6:56)
+So, I actually contacted them a few days ago, but they only work on business days. So, I expect them to get back to me tomorrow to go ahead and give me a better time estimate because we've been waiting for quite a bit now. Do you have sponsors or influencers on board yet? We have nothing in writing.
+
+(6:57 - 7:08)
+Well, TPUSA is in writing. We have nothing in writing. Again, they're waiting on that name change and then we can get that in writing.
+
+(7:12 - 7:30)
+The contracts look like a huge leap forward from FJB and has some interesting ideas. It does point to additional web components or services from the team that will use it. Will we get more info on those with the reveal? By the way, the LP sync is a nice touch.
+
+(7:31 - 7:46)
+Yes, absolutely. I'm not sure exactly which components you're talking about because it is a very complex contract. But yes, thank you.
+
+(7:46 - 8:06)
+I agree. I also hope you all understand why it's taken so much longer than expected. Because the team and our crypto advisor really insisted on having every little detail.
+
+(8:07 - 8:26)
+Which took our devs much, much longer than expected. Now I understand why most smart contracts are so dang simple. Because it just took so much time, so many dev hours, so much research.
+
+(8:29 - 8:48)
+So much going back and forth like the dev would finish something and then actually come to find out. This was changed with Uniswap version 2. So now it doesn't work because this changed. So now we have to go back and redo XYZ.
+
+(8:49 - 9:14)
+It's definitely been a long road and I know it's been frustrating for you guys because I couldn't give you these details. But I am so, so happy that our team and our advisor insisted on all this. It definitely feels good to have it all even though at times I was ready to rip my hair out and just not have every little detail.
+
+(9:14 - 9:33)
+So it's exciting for you all to see every little detail and appreciate it. Are you putting back all of the liquidity? So that's going to depend. So either burn and liquidity.
+
+(9:35 - 9:48)
+The team is deciding how to best do that. Again, to pay, to help pay for influencers and vendors. Yes, we have money in the tax wallets.
+
+(9:48 - 10:25)
+But as you all know and I'm sure seeing just examples of events and how much they cost, we've had a ton of money going left or right and everything has gotten even more expensive lately. So the team is working to decide on the details of that on what would be the best for the holders and the community while still getting marketing paid and getting us off the ground. But I trust that our team will do what's best for the holders and the community.
+
+(10:30 - 10:52)
+Rob Schneider. Oh wait, I think... I'm trying to remember if we missed him today or if he's on tomorrow at TPUSA. Will the tax be collected and accumulated as PPY? We've left that option there in the contract.
+
+(10:53 - 11:24)
+But we've also added other options to help with chart stability. Again, every detail that was thought out was really for the interest of the long term of the coin and the community and the holders. And again, we've stuck to that with the changes we've made, as you guys have seen.
+
+(11:26 - 11:37)
+When is expected? Big reveal. We're scheduled for this week. Again, you guys know how that works, so take it with a grain of salt.
+
+(11:37 - 11:42)
+But change now is estimating. They don't work weekends. Their devs don't work weekends.
+
+(11:43 - 12:13)
+So they're estimating they should be wrapping up Tuesday, maybe Wednesday. But we're expecting to comfortably be able to be live this week. Right now. 
+
+That's the plan. Will it be listed on Binance Chain? No. Not right now.
+
+(12:13 - 12:39)
+As you guys know, and this is what I mean because I know some of you are probably thinking, well, we have funds in the marketing wallets. But as you know, an exchange costs starting at like $65K, $75K a piece. And that's not counting the funds you need to put into your account for the money market.
+
+(12:50 - 12:56)
+Oh, I read that wrong too. I thought you were talking about Binance Exchange. No, definitely not the Binance Chain.
+
+(12:58 - 13:05)
+Definitely not. Yeah, it's on the Polygon Chain. Sorry, I missed that.
+
+(13:08 - 13:37)
+Multi-sig, no. We cannot do that with the contract we have. Sorry if I missed this, but is the fork the big task or is this something else? This is... This is... I don't know how to answer that.
+
+(13:38 - 14:19)
+I'd say the majority of it, but the details of the task... of the fork, excuse me. I think more to do with the details, but yes. Will we be live before the New Year? Yeah, it's looking like it. 
+
+We're what, December 17th? Again, we were waiting on Transac and ChangeNow. Transac was ready last night and then now just ChangeNow. Transac and ChangeNow will support PPY and decentralized exchanges.
+
+(14:19 - 14:38)
+No, not right now. Yes, Transac and ChangeNow, SimpleSwap, right now. As we grow, we'd like and consider to get on centralized exchanges again.
+
+(14:39 - 15:07)
+But again, right now we're being quoted $65,000, $75,000 for a listing, not including other funds we need to deposit in there. And that just doesn't make sense for us, especially when we've spent so much funding our app. And I think our app really works better for our branding too, to grow a community and keep adding to our app.
+
+(15:08 - 15:38)
+I think the plan is to evolve our app into something much more than just an app you can get on to buy a token. I think the announcement video will shed a little bit of light on that, but also the roadmap too. We have, actually, let's share this.
+
+(15:40 - 16:04)
+I think the changing from FJB to PatriotPay has opened the door to a ton of other ideas that I think you all would love. I'll give you this one, you guys can... This is one. Okay, let's see.
+
+(16:08 - 16:34)
+I lost my place. There we go. Will there be more merch with the big PPY logo on the back? I want that and a car sticker. 
+
+Yes, actually, this week. WeThePeople is working on some awesome designs. By the way, if you guys have checked out our Instagram social media, I had some downtime at TPUSA tonight.
+
+(16:35 - 16:48)
+And I think one of WeThePeople's posts has reached almost 90,000 likes, which is huge. It's amazing. So great job on that.
+
+(16:49 - 17:18)
+He works his butt off to get the word spread and again, continue to help us grow the community. What's the difference between our old contract and our new contract? Also, what is the Y in PPY? So it's PPY, PatriotPay. Just shortened, right? So Patriot.
+
+(17:18 - 17:26)
+And then the P and the Y is from the pay. P-A-Y. So we decided to use that as our ticker.
+
+(17:26 - 17:41)
+If you guys noticed, it does not include the dollar sign. We figured that would better align with everything that we are. What's the difference between the old contract and our new contract? Wow.
+
+(17:43 - 18:24)
+I think, I mean, I think we'll review that once we're live. How about that? Because even our announcement video doesn't, it gives you the main differences, but doesn't exactly share every little detail. And it's truly, I'm, as you all, as most of you know, I am not a dev by any means, but it has been absolutely fascinating getting to see every little detail and how it was thought out, designed, developed.
+
+(18:25 - 18:47)
+And I think I have a special appreciation for it. Just seeing how much work and thought had to go into it to make every little detail work the way it was intended to. And I think you guys will appreciate that too, because it's an endless list of differences.
+
+(18:48 - 19:13)
+I think it's, it's almost nothing like our other one. And I think this is exactly what, I feel like this is perfect for our community because we're not just any crypto community. And this is not just some copy and paste smart contract that we can, you know, so easily copy and paste.
+
+(19:14 - 19:32)
+And I know you all got so frustrated with the task taking so long, but I think very well worth it. Let's go, Brandon. I agree. 
+
+Yep. And guys, we know, come on. We all think we all still believe FJB, but you all want to grow the community.
+
+(19:33 - 19:51)
+So that's, and that's what you all wanted for so long. So we're very excited about that. You said that because of the FJB contract, it was hard to integrate other on and off ramps into the app.
+
+(19:52 - 20:24)
+Now that it has changed, could we integrate other on and off ramps? Hmm. I don't, I don't know what you mean by that because the reason that the on and off, the on and off ramps into the app was not related to FJB contract. So maybe you're, maybe you're referring to something different.
+
+(20:25 - 20:49)
+It was just why we had, and I think you're talking about a year, year and a half ago when we first, I think that was around March, April, before our app went live and before Steve announced it on War Room. I'm assuming that you're referring to, it took us so long to, before we found Transact. And that has nothing to do with the FJB contract.
+
+(20:50 - 21:16)
+That just has a lot to do with local laws and what business, what business companies can and can't do. And we would find like one on and off ramp that would work for a few states, but not the majority of others and so on. Guarantee the value of our tokens will be cut by one third.
+
+(21:16 - 21:28)
+No, definitely not. I would not guarantee anything if I were you, unless you're part of the team and have information on that. Please don't spread any fake news.
+
+(21:32 - 21:52)
+The team has worked their butts off to do what's best for the community. And I think that has, they've kept true to that. How freeing for you, Sarah.
+
+(21:52 - 21:59)
+Oh, thanks, Stacy. Being able to finally tell us everything, having to keep all this quiet had to be difficult. I could never thank you enough for what you, oh, you're so sweet.
+
+(22:00 - 22:14)
+Thank you. It's funny while we were waiting to pull LP because we wanted to do it while there were no transactions happening. Stacy was making a buy and I knew it was her because I could see it in the chat.
+
+(22:15 - 22:37)
+And I think I typed something to like her crypto advisor. And I was like, I was like, that's Stacy, girl, go to bed. And the next day I think is when she asked, did my buy count in the snapshot? We already pay 8% tax, extremely high.
+
+(22:37 - 22:44)
+This is exactly why there's no volume, which means no money for tax wallets. That's not true. I think we've had plenty of volume.
+
+(22:44 - 23:09)
+And 8% tax has been here for a very long time. So the beauty about this is we have the freedom to buy or not buy into a token, right? So I think holders have always had that freedom. We did not go from zero tax to 8% tax or anything like that.
+
+(23:10 - 24:11)
+But yeah, it's at the end of the day. It still needs to be funded and I cannot fund the coin. Will we be moving to the PatriotPay Telegram channel when we go live? Yes, we will slowly move to PatriotPay because again, what sense does it make to have users download a PatriotPay app and then they come to a Freedom Jobs business? We will keep these channels around because I know you all are like family and some of you like the unfiltered OG and you all really do act like family a lot of the time.
+
+(24:11 - 24:30)
+I do forgive you for all the things that are said and felt. And that's the thing about our community, right? The most passionate. So I think we'll keep this as just an OG kind of room.
+
+(24:30 - 24:52)
+But yes, we will definitely integrate into PatriotPay. And our Discord seemed like it was glitching the PatriotPay one, so I actually went ahead and deleted it tonight and we'll be starting a PatriotPay Discord. So then we can have those.
+
+(24:53 - 25:31)
+Dogbone's been working on the site, which looks absolutely amazing. What else? What else? Yeah, it actually worked pretty nicely. At least BNB gave us a little bump before we pulled LP.
+
+(25:31 - 25:49)
+I was hoping it would go quite a bit higher, like 300. I was praying for that, but still we got a little bump out of that. The team did go everything over and over and over again.
+
+(25:49 - 26:19)
+At times they make me go nuts because of their attention to detail and wanting everything to be perfect. But I'm so glad that they do. How big is the team going forward? Good question.
+
+(26:20 - 26:45)
+So we are doing some... We've done some changes as far as that goes. But we still have right under a dozen people. And that will evolve as we grow, right? As we grow, this will evolve.
+
+(26:46 - 26:56)
+We are always looking for devs. That's not changed. Yeah.
+
+(26:56 - 27:16)
+But I think right now it's been great. It feels so good to breathe again. Because, believe it or not, I did not like keeping this away from you all for so long.
+
+(27:17 - 27:28)
+I wish I could tell you every detail while it was happening. Because at least you would understand. But again, now all you have to do is look through the contract.
+
+(27:28 - 27:41)
+And hopefully you have a little bit more appreciation and understand why it took so long. Most of those functions weren't just built out. Some of them had to be built out again and again and again.
+
+(27:42 - 27:58)
+Just because having everything work like the team intended on a certain network... Yeah. It feels really good. I'm so, so glad.
+
+(28:01 - 28:16)
+Imagine any leftist enigmatic may just dump their tokens in protest. And then, do you control the wallets for the new PPY coin? Yes. We tried to do multi-sig on that.
+
+(28:17 - 28:32)
+But again, with how our contract is built, that is not possible. New contract been audited. Yes, we've had an internal... Well, I don't want to say internal audit.
+
+(28:32 - 28:39)
+But it's an audit that we are not sharing. That's what I mean by that. I don't mean that our team did the audit.
+
+(28:42 - 28:56)
+We've had an outside team do the audit. And everything is working exactly as it should. Anyone have the link for the... Oh, there you go.
+
+(28:58 - 29:03)
+We didn't like you keeping it away from us either. I know, I know. Trust me.
+
+(29:03 - 29:20)
+Never again are we keeping a task private. But you've got to think about it. The reason the team strongly suggested that we did is just we wanted to protect you, the holders, and the coin from that.
+
+(29:20 - 29:43)
+Bad actors and just traitors. And at the end of the day, that has been and will always stay our number one priority is protecting PatriotPay and the holders and doing what's best for you all and what's best for the growth of the coin. Again, while keeping everything secure.
+
+(29:46 - 30:07)
+So... I know it was not fun not knowing what was going on, but hopefully you're all feeling better about that now. Super nervous about this fork after the previous ones. Hey, hey, hey, for the previous ones, I don't even think I was doing social media back then.
+
+(30:07 - 30:27)
+Because it happened like what, in the first week? But there's nothing to be nervous about. Because... Again, the amazing features in this contract. If anything doesn't, you know, just happens to not work the way it's supposed to or whatever, we can go ahead and make changes.
+
+(30:28 - 30:49)
+And it's easy as that. So... Yeah, as long as we keep moving forward, right? And I did remember, I've told you guys plenty of times that by definition... Excuse me. By definition, there will be some road bumps going through this process.
+
+(30:49 - 30:58)
+But we will get through them together. That's, you know, it's not like any other organization and business. Nothing is perfect.
+
+(31:00 - 31:09)
+We'll get through this together. And again, with a solid team. I think this team is nothing like the old team.
+
+(31:10 - 31:17)
+And good always wins. I truly believe that. And I think our good karma is finally paying off here.
+
+(31:19 - 31:33)
+Previous ones were not ran by a crypto expert. Yes, I 100% agree with that. Will we have to add the new contract address to TrustWallet to see the coins after airdrop? Yes.
+
+(31:33 - 31:55)
+And we will. So what we'll do is we will have a video and written instructions that we will post here in the chat rooms that we will post on social media to help you all with that. And if anybody... I know I've asked this before, but nobody's reached out.
+
+(31:56 - 32:24)
+If anybody is like a YouTube expert or knows anything about like having an actual YouTube account, content creator account, would you DM me? We're having like serious issues with our YouTube. But besides the point, yes, absolutely. We're just we can't have that done without being live.
+
+(32:24 - 32:50)
+Is there a reason why we aren't making the audit public? Yes. The purpose of the audit was to make sure that all of our functions function as intended. And they do.
+
+(32:52 - 33:14)
+There are certain things like, for example, locking LP. OK, I know many of you, especially a few months ago and several months ago, actually, I think it's probably closer to a year now. Anyway, we're very, very passionate about locking the LP.
+
+(33:15 - 34:08)
+Well, when we went to when it got when it was unlocked and we went to retrieve those funds, we kind of had kind of all had heart attacks because there was issues with DeepLock. So anyway, after we decided it was safest to not lock the LP because I think at the time, well, what was happening with DeepLock just really just almost disappearing and other crypto sites going under and again, just disappearing. We decided that it would be safest for us and again, the holders to not have LP locked.
+
+(34:09 - 34:25)
+And that's the decision that was made by our team. And that proved to be the best decision at the end of the day. We are not your typical crypto and we do do things differently.
+
+(34:25 - 34:49)
+Yes, I understand generally. Oh, locking the LP, that makes you feel a little bit more safe. But the reality of that is and this is our team and our crypto advisor agree that at the end of the day, OK, well, the person holding the keys, when it's time to unlock the LP and lock it, they can still pull out between in that time.
+
+(34:50 - 35:15)
+They can still go ahead and just pull out the LP if they wanted. So it's really more we believe the team believes and our crypto advisor believes more of a marketing gimmick more than it is, especially with LP lock sites going under. We're glad we didn't do that.
+
+(35:15 - 35:35)
+And yeah, like example, DeepLock now, they just vanished and we've found ways. Our team has found ways online where you can supposedly go on and still unlock your LP and retrieve it. But again, that's not a risk we are willing to take.
+
+(35:36 - 35:50)
+And again, we do things a lot differently. You know, holders or prospective holders have a choice when they see that the LP is not locked. They have a choice to not join the community and not buy the coin.
+
+(35:50 - 36:02)
+Very similar to the 8%. They have the choice on whether you want to buy the coin or not. But we do do things differently.
+
+(36:02 - 36:28)
+I think we have a much different community and what we're building is just different than your typical crypto token. She keeps saying people have viewed the contract, but we don't have a contract code. I'm pretty sure somebody has the contract code they can share with you.
+
+(36:33 - 36:47)
+How much did it cost to fork? I'm assuming you're talking just about full everything. I don't think we're done with those costs. I have not calculated everything so far.
+
+(36:49 - 37:17)
+And like I said, we're not done with paying up everybody. We have paid everybody that's completed this work so far. Have you had to acquire any licensing such as payment facilitator to accommodate what is planned? No.
+
+(37:19 - 37:43)
+Was there hurdles like that that had to be sorted out before we could get to this point? No. No, we are still everything is crypto. And that reminds me actually of a question I saw pop up while I was out earlier from Candling Violets regarding something he read on the site of blockchain.
+
+(37:43 - 37:53)
+We are not moving to our own blockchain. We are on Matic Polygon Network. I'm sorry to disappoint.
+
+(37:54 - 38:13)
+But this will be amazing for us. Will the dev or crypto expert come in voice chat? You know what? I'm going to ask right now. The dev had agreed to before.
+
+(38:14 - 38:29)
+And then when I asked him a few weeks ago, he said, well, I'd be really nervous about that because my English isn't so good. But that's just that dev. That dev is the main dev who worked on the majority of the contract.
+
+(38:30 - 38:47)
+Then we had another dev team also work on the contract. And then we had two different teams audit it. So I'm sure out of that entire team, teams.
+
+(38:49 - 39:01)
+I'm sure I can get somebody, one of them to get on a voice chat. Depending on if you guys are, you know. If you're, I don't imagine you'd be against any of them, but.
+
+(39:08 - 39:21)
+No, there goes Ed's. Any burns going forward? Yes, of course. We'll burn before we go live.
+
+(39:22 - 39:28)
+And the burn will be still pretty close. Again, we're just, the team is working. I say we.
+
+(39:29 - 39:43)
+But the team is working on what would be. Best in the best interest of the holders in the coin. While still getting everything paid.
+
+(39:44 - 40:06)
+And having funds to move forward. Might be a dumb question. But if you were planning on burning the tokens, why not just reduce the tokens at launch? So instead of launching with $40 billion.
+
+(40:06 - 40:20)
+And during $20 billion, why not just launch with $20 billion? Yeah, I think. Yeah, I think Ed answers a lot of that there. I just didn't major.
+
+(40:20 - 40:40)
+I'm sure our team would have a lengthier answer for you than I do. But we're trying to keep one-to-one to avoid confusion. And to avoid holders claiming that they got cheated out of the fork.
+
+(40:40 - 40:56)
+Which is bound to happen, right? At any fork, somebody will claim they were done wrong. But again, we're doing all we can. You all wanted a fork, we're getting a fork.
+
+(40:58 - 41:16)
+Really best scenario, I think, if you've checked out the contract at all. We've rebranded. We got an amazing logo that wasn't ripped off of some Etsy store or some Indian app.
+
+(41:16 - 41:33)
+It was a truly, truly original logo. If you guys ever find a logo like that, I don't think that'll happen. Because I got on the 99designs and told them exactly what I wanted.
+
+(41:33 - 41:42)
+And it's not because I saw it anywhere. It's truly original. Very similar to our contract and why it took so long.
+
+(41:44 - 42:08)
+Every little detail was thought out and designed by our team. What happens with the tax of the old FJB coin? Does it fund PPYU and BNB? I'm assuming you're not just talking about FJB coin. I'm assuming you're talking about the tax wallets.
+
+(42:09 - 42:19)
+Yes, they will continue and transfer over to pay for everything. I will be doing that. I guess I have 13, 14 days to do that.
+
+(42:19 - 42:42)
+But obviously we've been busy with more urgent stuff. Going forward, the coin will live forever. Where does that money go? Again, that will continue towards PPY.
+
+(42:44 - 43:22)
+Can we still buy on DEX like Uniswap? It'll be Quickswap. LBank will be listing in about, they estimate, two days. Yes, that is correct. 
+
+Quickswap. Garlic noodles. I haven't seen you for a long time.
+
+(43:23 - 43:36)
+Good seeing you. When is the go live, airdrop, etc.? We are waiting for ChangeNow. ChangeNow's devs do not work weekends.
+
+(43:37 - 43:50)
+They estimate a few days once they are back in office. Which actually in their time should be probably around now. Again, that's the estimate we're getting.
+
+(43:51 - 44:16)
+As you guys know by now, please take that with a grain of salt. That's the estimate we're given. As soon as they're done, we can go ahead and calculate the current LP, the live price of MATIC and go from there.
+
+(44:17 - 44:59)
+Then tell Transact ChangeNow to hit the go button and do the airdrops. Is the new contract posted somewhere to read or do we have to wait till live? I'm sure somebody can probably get you the contract. The fork was a very smart choice and so is 1to1, but if we go back to 40 billion active tokens, then won't our value all be cut in half? No. 
+
+Again, guys, the tokens burned will be fairly close. Again, I cannot give you an estimate. I don't have a number because the team is still working on that.
+
+(45:00 - 45:39)
+It is not very simple because the team wants to make sure they do what's best for the coin and the holders. Between whether that means burning less coins and putting back the full LP, whether that means taking a little bit of the LP and burning less coins, or whether that means burning as many coins as were burned before and taking a little bit of LP out. The team is working on that.
+
+(45:39 - 46:09)
+We don't just have some Joe Schmoes off the street working on this. We have a few brilliant guys who do this for a living and their real jobs and their real lives. Believe it or not, I don't know what they're still doing here, dealing with us, but kidding there.
+
+(46:09 - 46:37)
+They also recognize that this is a really awesome community and they really do recognize that there truly is no other community like this one. Again, our team, I really can't say that enough. Super, super, super smart, brilliant people working on this.
+
+(46:37 - 47:00)
+Again, they are working to figure out what would be best. In the best interest of the coin and the holders. Again, you guys all have the freedom to do what you like.
+
+(47:00 - 47:21)
+Of course, we all hope that you all stay and grow with us together. That's how we do things here and we will continue and the team will continue to always do best for the best interest of the coin and the community, whatever that means. Even if that means me having to keep a secret from you guys for months.
+
+(47:21 - 47:33)
+Gosh, burnt tokens are never really gone. That is why I asked my question. I'm not sure what you mean by that.
+
+(47:34 - 48:02)
+Be better to just launch without a burn? What? Is there a pre-sale? No. Will PPY be on XT and LBank? No. XT and LBank each wanted $65,000 and up plus us funding another $10,000 to $20,000 each.
+
+(48:03 - 48:28)
+We believe our funds would be much better used through different marketing efforts. As we grow, that is definitely something that's on the list to revisit. Obviously, the more available the coin is, the faster we can grow.
+
+(48:29 - 48:59)
+But with our app alone, the app that... Guys, we've invested a ton of money into building the app and it has huge, huge potential. And I think as we continue investing in the app with the team that we do now, that has the best interest of the app, the coin, and the community. Yeah, I think you guys will agree.
+
+(49:08 - 49:31)
+Cardinal, yeah, correct. Are you setting up bridges to other chains with ChangeNow? Wrapped PPY for PolyCon ZK? That's being worked on. I'm not sure how long that will take.
+
+(49:34 - 50:03)
+Yes, there will be a burn. That is not negotiable. That's weird. 
+
+My fireworks went off. Can we integrate into InfoWars store, please? What? What? BrainForce Plus. What is that? I will look into that.
+
+(50:10 - 50:32)
+Will Bannon update his website link on Getter and Boris, the XT image on his website? I will, yes. We will make sure to get that updated. Okay, let me see if I have anything on Discord.
+
+(50:36 - 51:30)
+Somebody on Discord got a new phone, so they need to import their tokens. Alright. What else? TPUSA was awesome, by the way. 
+
+Steve was awesome. I didn't see a ton of people, but I think that's because I was there by the time I got home from church. Got ready and left.
+
+(51:32 - 51:50)
+I did see James O'Keefe. Maureen, Grace, Steve, of course, Carrie Lake. And I think we'll probably see most everybody again tomorrow.
+
+(51:51 - 52:15)
+I sat next to the cutest lady, so I got her number and we're going to hang out tomorrow. Next time, can you get an autograph? I'll ask tomorrow. I am so... Ed, I'm... You guys don't know me in real life, but in real life, if it comes to business, I'm very not shy.
+
+(52:15 - 52:30)
+I bartended forever. I had very... The jobs I worked in had to be talking to people. So I'm very talkative in that sense, if it's my job to talk to you.
+
+(52:31 - 52:44)
+But for me to personally talk to somebody, I'm so shy. That's asking a lot. And especially when it's asking people for an autograph.
+
+(52:45 - 53:08)
+I so don't do that. But for you, I will. I'll tell him. 
+
+I'll tell him it's... You have to send me how many PatriotPay coins you have. And I'll say, hey, this holder has this many PatriotPay coins. Has as many as you do.
+
+(53:08 - 53:23)
+And he'd like an autograph. Political donations, yes. You're just a very small holder, though? Okay, fine.
+
+(53:23 - 53:35)
+Maybe he'll feel bad for you then. I will ask. I'm fine asking if it's not for me.
+
+(53:35 - 53:54)
+So I guess that's fine, because I'll just... Hopefully he doesn't think I'm lying. He's gonna think I'm too embarrassed to ask for myself, and I'm asking for a friend. I hate asking anybody for help, if it's anything personal.
+
+(53:56 - 54:14)
+Like... I just cannot. But if it's for anybody else, then I'm more than happy to ask. Maybe I'll ask the lady that... What was her name? Linda. 
+
+I think Linda was her name. She was the cutest. Maybe I'll ask her.
+
+(54:16 - 54:42)
+We're gonna go get coffee when we get there in the morning. Alright, so what else? What else, what else? I'm curious to know what all the sidechats are talking about with the fork, what you all are thinking. The unfiltered... The unfiltered version.
+
+(54:48 - 55:10)
+Is the political donations only an app thing, or is it also a contract thing? Both. When is the next planned voice chat? We'll probably go back to our planned Tuesday and Friday ones. And then, depending on when we go live this week, we can have a third one.
+
+(55:12 - 55:23)
+However that works out. I almost want to say, and then maybe we can cancel Friday, because I'll be overkill. But I feel like at this point, you guys might not agree with that.
+
+(55:23 - 55:39)
+So, since it's all out now, we're fine going back to our weekly voice chats. And then we can throw in the extra one when we actually do go live. Now that you guys know what's happening, I can actually give you details.
+
+(55:39 - 55:52)
+Example, if Change Now is not ready by Tuesday, I'll be able to tell you. Hey, because Change Now is this. If the calculations of something is happening with the contract and contract testing to get the LP right.
+
+(55:53 - 56:12)
+You know. If the team is still trying to find what's the best thing to do, as far as the LP and the tokens and getting that all figured out to still continue funding, then now I can finally update you on why stuff takes longer. Instead of you guys being in the dark.
+
+(56:12 - 56:26)
+So that's very exciting. I'm very, very excited for that. Hopefully you all forgive me and realize that it was for the best interest of you and the coin.
+
+(56:27 - 56:42)
+And just to prevent bad actors. To protect all you loyal holders. Believe it or not, that truly remains our number one priority.
+
+(56:43 - 57:00)
+And that's what makes everybody on the team now truly just amazing. A team of really, really great people who are just brilliant. Want to do something good.
+
+(57:01 - 57:16)
+Want the community to do something good for the community. I really do believe that and I do believe good always wins. And that's proof and testimony of that.
+
+(57:16 - 57:29)
+And I'm really, really excited for that. Is there a PatriotPay booth at TPUSA? No, because our app was not ready. However, I will be honest, I'm really glad that wasn't the case.
+
+(57:29 - 57:45)
+I'll see how tomorrow's volume kind of goes. But yeah, I think that worked out for the best. Sarah, are you in any side chats? No, I am not.
+
+(57:45 - 57:55)
+I was still waiting for Lucas to invite me. Still very bitter about never being invited to that Lucas side chat. And people kept sending me invites, but I wanted an invite from Lucas.
+
+(57:56 - 58:02)
+And I never got one. Very, very sad about that. Nobody invites me to their side chats.
+
+(58:04 - 58:31)
+I want an invite like from the side chat owner, you know? And I don't know where Lucas is out nowadays, but still sad about that. Can Steve get PatriotPay into CPAT? Let me see. I'm going to forward that to my... I have a little saved for all you guys' important messages I save them into.
+
+(58:34 - 58:49)
+We're all going to truly miss legal. R.I.P. legal? Are you serious? No, no, no, no, no. Legals? Definitely not R.I.P. They do a lot.
+
+(58:52 - 59:05)
+Definitely not. Do not kill them. We gotta, as we grow, and again, to protect you all, to protect us, we 100% need legal to stay here.
+
+(59:05 - 59:16)
+Don't go trying to kill them. Aw, thank you, Dogbone, and thank you for everything you do. The site is looking amazing.
+
+(59:17 - 59:37)
+Sorry, by the way, I didn't get those website updates to you yesterday. I got two hours of sleep that night before getting the fork done that night. So, it was a rough day yesterday.
+
+(59:41 - 59:53)
+You are very welcome. Thank you all for your patience. And for believing that we were doing what we said we were doing.
+
+(59:53 - 1:00:02)
+That there was work being done. Aw, thank you. I appreciate it.
+
+(1:00:04 - 1:00:24)
+Is a payment system in the contract? I don't know if legal will... I don't know if legal would let me use those words. Take that as you will. Wow, I'm seeing a lot of names I haven't seen in a while.
+
+(1:00:26 - 1:00:49)
+You are very welcome. Voodoo, legal is not going anywhere. Just because you're not FJB or Patriot Pay, we are still very FJB like-minded.
+
+(1:00:49 - 1:00:59)
+I think everybody knows that. We need legal to protect us from the bad actors. You're welcome, guys.
+
+(1:01:00 - 1:01:18)
+Thank you for your patience. I told you that we would have everything ready for you at the end. And that with time, when it was ready, you'd be very happy.
+
+(1:01:18 - 1:01:27)
+And I think that'll continue as we go live. Again, scheduled for this week. But now I can actually update you on why.
+
+(1:01:27 - 1:01:42)
+If it doesn't, if it just crazily happens not to hit the timeline that Change Now is giving us. And I'm very glad. I'm very glad that we're at this point.
+
+(1:01:43 - 1:02:00)
+I think the team... I can speak for the team when I say thank you for your trust. We've stayed true since the beginning with everything we've gone through. But yeah, I'm glad you guys stuck around.
+
+(1:02:01 - 1:02:20)
+And I told you you'll be glad you did. And that stays true. Because at the end of the day, you guys know that it is you keeping... It's the community keeping this coin, this app, everything up.
+
+(1:02:21 - 1:02:36)
+Obviously, you guys know that. When will we see it on CoinMarketCap? So those are all in the works. The transparency is refreshing.
+
+(1:02:36 - 1:02:50)
+Oh, thank you. Been here since day one. Nice.
+
+(1:02:55 - 1:03:04)
+Cool. Glad you're still here. Did you have a different name before? Because I do remember this name before.
+
+(1:03:04 - 1:03:33)
+But I feel like that's definitely... Back then, your name wouldn't have been 2024run. Are the LBank and XT coins essentially burned? That's what goes into calculating... Calculating everything as far as the burn goes and the LP. To make sure to pay everybody off.
+
+(1:03:34 - 1:03:44)
+Yeah. Although, I would love to. Unfortunately, I cannot fund the coin.
+
+(1:03:46 - 1:03:56)
+I have my own bills, too. So doing this full time, as you all know. And funding the coin.
+
+(1:03:57 - 1:04:14)
+You gotta... Can't keep that going forever, unfortunately. Day 3 for me. Nice. 
+
+I remember your name, actually. Yeah, it's very interesting to see... I don't know. We gotta play some games.
+
+(1:04:18 - 1:04:38)
+Whenever launch week is, which again, right now, it's scheduled for this week. I think we'll have some really fun stuff to keep everything going. What about the other PancakeSwap wallets? I'm assuming you're talking about the marketing wallets.
+
+(1:04:38 - 1:05:10)
+We have those. We'll get the airdrops to those, too. When will influencers join Bannon in promoting PatriotPay? As soon as our app name and logo in the Apple and Google Play store switch over, right? So as you guys all know, when our name is FJB, nobody wants anything to do with us.
+
+(1:05:10 - 1:05:32)
+So we've talked to a few marketing firms. And it would not be a good idea for us to start or approach influencers saying, like, oh, we're the FJB app, but don't worry, we're rebranding. People don't want to touch that with a 10-foot pole.
+
+(1:05:33 - 1:05:52)
+Nobody wants to be associated with that, as you guys saw. I mean, I worked my butt off, I think, for months, trying to get any kind of sponsorships from the most conservative businesses. Even Mike Lindell, nobody wants anything to do with that.
+
+(1:05:53 - 1:06:19)
+So if you all want to grow and make this something that is more conservative mainstream, that's why we decided on that entire rebrand. So once our app name and logos change, as soon as that happens, that's what we'll be doing. That's from V2.
+
+(1:06:20 - 1:06:46)
+Those aren't ones we can access right now, but those will be airdropped back to paying bills. Is this PPY contract address being posted official? Um, no. Not official because technically we have not moved the LP there and there's still testing going on.
+
+(1:06:48 - 1:07:14)
+Anything that is official, I will post and I will pin. Any businesses on board yet to accept PPY? Again, waiting on that app change, however, and to be live on the blockchain. However, we have several members of the community who would like to be the first of the businesses on board.
+
+(1:07:17 - 1:07:34)
+Can you post this voice chat recording in Discord? Sure, yeah, I can do that. So we've actually been going for a while now, but I did forget for the first 15-20 minutes, I think, to record. I had it up, but I must have not clicked it correctly.
+
+(1:07:34 - 1:07:49)
+But I think we've repeated the same questions and answers very much so since then. But yeah, I usually post them in both Discord and Telegram. What I actually wanted to try though is, I should have done that today.
+
+(1:07:49 - 1:08:07)
+I wanted to try, if I get online, say like right now I'm recording on my desktop from Telegram. What if I also had my phone up on Discord? I wonder if that would work. I meant to try that today, but I forgot.
+
+(1:08:14 - 1:08:29)
+I'm asking if it's official, it's common that some of our users aren't super savvy. No, I don't know what you're talking about. Common scam, but I'm only saying it's not official because, again, anything.
+
+(1:08:30 - 1:08:47)
+As we've seen the past several months, anything can happen with testing or anything like that. So no, I'm not posting that as official contract address. When it is ready, 100% ready, and the exchanges are ready and everything is live, I will post it officially.
+
+(1:08:49 - 1:09:11)
+Whatever that contract address may be at that time. So are they burned? Well, they were burned with FJB version 3, but now that we're forking, we have an opportunity to retrieve them, if you will. If that makes sense.
+
+(1:09:14 - 1:09:40)
+Any new coins on the app or changes done to our app other than the app name? Yes, there's quite a bit changing. If you've all been using it, I'm sure you've seen the changes. I would say our most significant one is being able to sign in and retrieve your wallet with just a seed phrase.
+
+(1:09:41 - 1:09:55)
+This is huge. This is something we paid several thousand dollars for to have added to our app. This is huge because I know so many of you had an issue with VESS and the browsers.
+
+(1:09:56 - 1:10:32)
+What's really cool about this and what puts us ahead of other crypto wallets is you have the option to access your wallet through a seed phrase. But if you're like me, and you're paranoid, you can also add redundancies. So you can then access your app through a seed phrase, but say for whatever reason, you lost your seed phrase, something happened, your dog ate your seed phrase.
+
+(1:10:33 - 1:10:55)
+I don't know why you wouldn't have it in a safe, but you made a mistake, it happens. Then you can also set up redundancies so that you can retrieve that, which I think puts us a step ahead of your traditional crypto wallet. Because that's definitely more secure, in my opinion.
+
+(1:11:11 - 1:11:27)
+To clarify, I'm saying that's not the official contract as in it's not a scammer. That is us. That is the current contract that we are testing.
+
+(1:11:28 - 1:11:54)
+I'm saying that's not official because that is not officially the contract that we are launching. Again, I'm only saying that because I don't know how some of you guys are in this space. I've learned the hard way to not make anything like that official before it's actually official.
+
+(1:11:56 - 1:12:16)
+Testing, putting the LP in there, something crazy can happen and we have to redeploy and it'll be a new contract address. That's the only reason I'm saying it's not official, but that is us. Hopefully that helps, I think there's just a little bit of misunderstanding between you two there.
+
+(1:12:20 - 1:12:38)
+Until I will post it and I will pin it once we are live, once the LP is in there. I will give you guys notice. I know a lot of you, I'm getting a lot of DMs and a lot of you who want to purchase as soon as we're live some more coins.
+
+(1:12:39 - 1:13:04)
+The plan is to give you all a 24 hour notice. Give you a 24 hour notice, share the video, get on maybe another call, share every question you have about the contract. I'll be able to share every little detail and maybe I'll see if our dev or advisor can get on that in case you have technical questions I can't answer.
+
+(1:13:05 - 1:13:29)
+And then give you some time before we get the contract go live. Edhtl is in Discord board if anybody wants to answer his questions there. Yep, your mistakes for the world to see forever and ever.
+
+(1:13:30 - 1:13:51)
+That's my contract development. Thankfully you can't see the other tests before that. What was the FJB token price when you took the snapchat? I don't have that off the top of my head.
+
+(1:13:51 - 1:14:00)
+It is saved and backed up. And I'm sure our advisor probably has it up. And our team.
+
+(1:14:01 - 1:14:17)
+I'm sure our team also has it up working on it. Bobby said it was $4. I'll let him know.
+
+(1:14:19 - 1:14:31)
+I'll let our team right now know. Because I don't remember it being that. I want to say it was in the threes.
+
+(1:14:32 - 1:15:04)
+Maybe it was $3. A voodoo child. He agrees too. 
+
+Maybe you guys are right. I was up for a few nights working graveyard shifts. Maybe I just got it wrong. 
+
+I don't think it was in the fours. My mistake. My mistake as I was up all night waiting for Stacey to stop buying.
+
+(1:15:06 - 1:15:19)
+Waiting for you all to go to bed. All for his glory I was thinking of you. Because a few of the nights you were online.
+
+(1:15:21 - 1:15:35)
+And I was just starting to drink my last cup of coffee at 10pm. I'm like, man, this is why I'm having an energy drink. At like 11.30 at night.
+
+(1:15:43 - 1:15:54)
+Taxes and new contract. Yes, our taxes will be the same to start at 8%. However, they will be a different tax structure.
+
+(1:15:54 - 1:16:09)
+That I think will make you all very happy. Again, these are all, I would say the majority if not all functions. Or all things you the community have asked for.
+
+(1:16:11 - 1:16:25)
+Have collected all your ideas. And then the team has reviewed them over and over and over. And picked out the best ones that we think would benefit.
+
+(1:16:25 - 1:16:39)
+The coin and the holders and support the growth. Of the coin and the community. And then they added some more details.
+
+(1:16:40 - 1:16:51)
+Done designing it and then our angel Deb. Did a ton of the work. And then the team decided they wanted more upgrades.
+
+(1:16:54 - 1:17:09)
+So then we had to add those. But very, very, very excited. Who's the collector that's shown up in Discord? That's what I want to know.
+
+(1:17:09 - 1:17:15)
+Because I feel like they came out of nowhere. Who is that? Oh, I think he just changed his name. It's Pro Dr. Dre.
+
+(1:17:15 - 1:17:28)
+I feel like that's familiar. Dividends? I wouldn't say dividends. But I think percentage TLP is pretty nice.
+
+(1:17:31 - 1:17:47)
+Nice, nice, nice. I think that's... The team decided that would be better than just straight burning. I was the last OG to buy FJB before the fork.
+
+(1:17:49 - 1:18:02)
+Hey, I didn't think of it that way, but that's pretty cool. We just kept checking and there was like buys, buys, buys. And we just didn't want that to happen like during a snapshot.
+
+(1:18:02 - 1:18:13)
+And pulling the LP just to avoid the headache. And here Stacy is. Oh.
+
+(1:18:26 - 1:18:45)
+Were you really? I didn't realize you were on the app. Yeah, because we were checking to make... That's why I had a transact refill earlier to make sure all those buys... They had go through and change now. And they're like, yeah, everything's going through.
+
+(1:18:45 - 1:19:07)
+Like who the heck is buying them? Nice. Well, I'm glad the app worked for you, Stacy. Easy, easy.
+
+(1:19:08 - 1:19:16)
+Yes. Our goal is to continue making the app even more user friendly. Right.
+
+(1:19:16 - 1:19:47)
+And sometimes, again, it's harder to make something that's so complex. To make it just be completely, you know, something that my grandma can get on and buy on. Will USDT and the app stay on Ethereum? I will answer those questions once we're live.
+
+(1:19:49 - 1:20:01)
+Anyone tried using Chase debit card on the app? No, they won't allow that. Unless that's changed. Yeah, Stacy's saying the same.
+
+(1:20:02 - 1:20:21)
+Chase does not... Chase hates crypto. What do you suggest? Local credit union debit card? Yes. And Bank of America allows it.
+
+(1:20:21 - 1:20:36)
+You have to call two different departments. At least... This might depend state to state, right? But in Arizona, at least with Bank of America, you need to call two different departments. One's the fraud, but another I never got a name of.
+
+(1:20:36 - 1:20:52)
+It's just to let them know that you're okay with buying crypto. But credit unions are really good about it. Wells Fargo is also... I'm sure some users have some more suggestions.
+
+(1:20:54 - 1:21:24)
+Oh shoot, somebody sent Stacy the link. Let me see if I can actually... Somebody sent Stacy the link. I just don't want to... Sometimes when I do anything in here, it kicks me off the voice chat, so I don't want to do that.
+
+(1:21:30 - 1:21:41)
+Uh... We should post a list on the website for new users that it's tested for big bank cards. Oh, that's a great idea, actually. That's a really good idea.
+
+(1:21:42 - 1:21:51)
+Let me make sure that's okay with legal. Should be fine. But just to make sure.
+
+(1:21:52 - 1:21:59)
+But that's actually a really great idea. Again, I don't think that's an idea that's ever been suggested. So I appreciate that.
+
+(1:22:00 - 1:22:15)
+A lot of times when there are some ideas, it's usually ideas we would like revisiting. But I don't think anybody's ever suggested that one, so nice job. The website, actually, let me check the website.
+
+(1:22:16 - 1:22:33)
+Oh, did you guys see Patriot Perks? I know it's not ready yet, but... Another idea of what we have coming. Let's see what Dogbone's been working on. Ooh, looks nice.
+
+(1:22:36 - 1:22:49)
+I like it. Got some updates going there. Yeah, it was so hard, because I couldn't send website updates until we had released the news about the fork.
+
+(1:22:50 - 1:23:01)
+Cool, I like it. Looks really nice. How cool.
+
+(1:23:01 - 1:23:18)
+Look at that snazzy website. He is still working on it. And do remember that our new ticker does not have a dollar sign.
+
+(1:23:19 - 1:23:23)
+FYI. It's just P-P-Y. How cool.
+
+(1:23:23 - 1:23:48)
+I love that, that looks so nice. Lots of education content planned at launch for Boomers. Phone support planned at launch.
+
+(1:23:49 - 1:24:12)
+Education, how about this? How to buy this, sorry. Yes, so education is going to be actually one of the main focuses of our app. And also added to our website, which will really help with social media content too.
+
+(1:24:12 - 1:24:38)
+But our plan is to have very short, brief videos explaining this. So, super excited about that. But this is not, if you're talking at launch as of like this week to have that in voice, that's not the case.
+
+(1:24:38 - 1:24:54)
+But yes, that's huge. We're starting, like the FAQ's already been changed on the website. Again, sometimes I think to make something super, super simple is actually more work.
+
+(1:24:54 - 1:25:22)
+Because you really just need to make it that dummy proof. Can you talk about the tech support changes? Yes, I have a few meetings this week. Had a meeting this weekend, but I actually did not, the service was not exactly what we're looking for right now.
+
+(1:25:22 - 1:26:01)
+But I have a few meetings this week. What we're hoping to get, and the service we're hoping we find is a good fit with us, is something straight on the website that integrates AI. Because I'd say, I don't know, I don't have a number, but I'd honestly say like 70% probably of DMs I get are things that an AI, that we can teach an AI to answer.
+
+(1:26:01 - 1:26:13)
+Like, hey, my tokens aren't showing in my wallet. I think I've gotten, a lot of you are getting new phones right now, maybe it's like an end of the year thing. Because I feel like the same thing actually happened last year.
+
+(1:26:13 - 1:26:38)
+Where a lot of people after this time, like December and January, got a bunch of new devices, right? So that's, for example, around this time of year, that's a lot of the DMs is, hey, my tokens aren't showing. And the first thing I asked, did you get a new device? Yes. So this is something that an AI would be able to answer that would save us time and money.
+
+(1:26:39 - 1:27:12)
+Instead of hiring somebody, instead of having our admins spend their time doing this. We train AI to do more of this routine stuff, which again, I would say probably around 70%, honestly, of my inbox is those kinds. And then what the AI will do if it's the other 30-ish percent that we can't just train it to coach users through, then it would kick them to support.
+
+(1:27:12 - 1:28:05)
+And then, of course, once I can't handle that, and once that becomes too much work, then that's where we've got to continue growing our team. Almost two hour voice chat. Got to make up for all the times I couldn't share information, huh? SKB talked about crypto banking in a press release a year ago. 
+
+Has that changed? I'm assuming the FJB press release? I think we'll have more info. I'll have more info for you regarding Stephen Vorce. Very excited, though.
+
+(1:28:07 - 1:28:42)
+Yeah. Feels good. Feels really, really good. 
+
+It's crazy. I will say it's crazy this week because my schedule's been so off, but I actually feel so much better this week. Sometimes you don't realize how much stress you have, so just finally being able to share this has really relieved a ton of stress.
+
+(1:28:44 - 1:28:55)
+Thank you guys for sticking with us. I told you it would be worth it, and I keep my word. If you know me, ask anybody.
+
+(1:28:57 - 1:29:28)
+I've literally been living in the same place for 36 years. Ask around. You will hear. 
+
+I keep my word. We do appreciate you guys trusting us, but time shows. Time shows everybody's true colors, and I'm glad we're like family now.
+
+(1:29:34 - 1:29:38)
+It is nice to be open. I know. Trust me.
+
+(1:29:40 - 1:29:49)
+It is very, very nice to share it all. Well, almost all. Once we're live, then we can go through the announcement video.
+
+(1:29:52 - 1:30:33)
+Even more details that didn't make it into the announcement video, just really, really cool details. I guess if you're a crypto nerd or a techie nerd, that you might enjoy. It's truly been fascinating. 
+
+It's really, really cool. I think it'll be nice. It's a nice foundation, a nice change to start completely brand new with an amazing team.
+
+(1:30:35 - 1:31:00)
+Full of good people, I think. And the timing, in a way, I know we all hated, trust me, nobody hated waiting this long than I. Okay, guys, especially when this is like my 24 hour a day. I know you guys had it bad, but I did not like keeping that all to myself.
+
+(1:31:01 - 1:31:39)
+But the timing worked out pretty well. It's going to be a fresh start, a new year. Yeah, I think it really ended up falling into place pretty well. 
+
+I don't want to knock on wood. We still got a little bit of it to get through, but I really do think it worked out the way it was meant to work out. Boomers like to talk on the phone, ensure there's human call support, easily outsourced fiber, blah, blah, blah.
+
+(1:31:40 - 1:32:01)
+That's definitely something we can look into, as long as they can understand the person. Thank you, I appreciate that. I'll forward that to... My inbox right there.
+
+(1:32:03 - 1:32:23)
+Have a good bye, Grandma. Oh, boy. You know what, though? I feel like it's almost like, I don't know if anybody here has gone through a bad breakup or divorce.
+
+(1:32:24 - 1:33:38)
+And, you know, sometimes in relationships or in divorces, the relationship ends because somebody wrongs you. And I feel like it's kind of like that, where, you know, you were wronged and you're the one that kept your cool and walked away. And at the end, it's like so much better for your conscience. 
+
+You're like, you know what? You screwed me over, and I'm the one in peace. Like, I do believe in it. Bye, Ed! Yes, I will post a recording. 
+
+Although, like I said, I did miss a very bit at the beginning, but I think... Let me see, what is that now? Oh, still. So I'm at an hour and 33 minutes on the recording, so I must have... Yeah, like less than 30 minutes I missed. I do need to get... Oh, that's... Does anybody have a suggestion for monitors? I think I need to get two monitors.
+
+(1:33:40 - 1:33:59)
+I don't know if I need to mount them. But I need a new... new monitors. I have a laptop. 
+
+I love my laptop. How much is going back into the LP? That's not been decided. 90, 80, 75, 50, 10.
+
+(1:33:59 - 1:34:20)
+Whoa, gee. If I had to guess, I would say the closest to 90 to 100 percent. But again, that's still being calculated to see what the best possible way to do that is.
+
+(1:34:24 - 1:34:58)
+Once we know, we'll get that all out to you all. But again, the best... do what the best possible scenario is while still getting everybody paid. 200 percent? Okay, cool. 
+
+Sounds good. Make sure your tower can handle multiple monitors. Oh.
+
+(1:34:59 - 1:35:07)
+Hmm. Shoot. Well, gotta figure that out.
+
+(1:35:20 - 1:35:50)
+Was it asked any more events lined up? So we're waiting for the app logo and name to officially change in the app stores before doing that. Just because of, again, the FJB. We wouldn't even get accepted with FJB into local super, super conservative events.
+
+(1:35:52 - 1:36:04)
+So we don't want to do that again with the FJB. I know, freedom jobs business still, but in the app. But yeah, as soon as that's done, we got a plan for that.
+
+(1:36:08 - 1:36:13)
+Oh, cool. Thank you. I'll save this and check it out after the call.
+
+(1:36:15 - 1:36:36)
+Let's see. Most monitors don't have speakers included, so. Oh, nice. 
+
+Cool. Should have looked at these like, well, everything was on sale last month, but here we are. Yeah.
+
+(1:36:44 - 1:36:51)
+Oh, I just saw that. Fingers crossed. Yeah.
+
+(1:36:52 - 1:37:23)
+Again, we just, we just don't want, so you guys that have been here for a while, you remember about, what, 12, 12 months ago, even 13, 14 months ago, 15 months ago up till last February. We had very, very, very little on the tax wallets. Like we didn't even have enough to pay our monthly bills for hosting and stuff like that.
+
+(1:37:23 - 1:38:01)
+We just don't want to run into that issue again. So again, I know it seems like, oh, well, you have some money in the tax wallets, but you guys have seen how quickly that goes, especially with the economy today. So again, we just, we don't want, we didn't go through all this work, right? And all this time and all your patience to then not make the best decision as far as the burn and the LP to make sure that we have enough funding just to get us off the ground.
+
+(1:38:03 - 1:38:30)
+I'm sure with this political climate and with everything we have built, just like you all here, I'm sure there is plenty more people who feel like the way we do, who would be ecstatic with Patriot Pay. But again, we've got to fund that to get the word out. Okay.
+
+(1:38:30 - 1:38:34)
+Old monitors and new towels. Okay. Thank you.
+
+(1:38:34 - 1:38:59)
+I only have one monitor here, but I don't really use it. So maybe I should try using that first to see like what I don't like about it before shopping for a new one either. This one.
+
+(1:39:01 - 1:39:07)
+What's that for? All for his glory. Oh yeah. And we'll have a tipping party too.
+
+(1:39:08 - 1:39:15)
+Yeah. I think launch day, launch days, I think will be pretty fun. We'll do some giveaways.
+
+(1:39:17 - 1:39:36)
+We'll do some tips. Maybe we'll even do a bike contest, but I got to figure out. Because most bike contest bots I've seen only run on the Binance.
+
+(1:39:37 - 1:39:43)
+But maybe that's just because that's all the crap coins I've bought. I'm not sure. I'll have to check into that.
+
+(1:39:45 - 1:40:33)
+Was there an abandoned or Boris name recognition discount or did doing work for them come at a premium? I don't know what you're talking about. Sorry, I must have typed that while I was talking about something else. Let's check my emails while I'm here.
+
+(1:40:33 - 1:41:50)
+Did anybody email me any questions? Will there be a workaround for swapping from PatriotPay in the app? I assume you get hit with a transfer tax and change to a big discount fee. Sorry, I'm trying to re-read. Swapping from PatriotPay? So what are you thinking, like PatriotPay to Matic? I mean both.
+
+(1:41:52 - 1:42:27)
+I don't know what would be different from FJB. When a person wants to sell in the app, okay. Oh, you're talking about because right now, well, before you would buy from the app, there would be no buy tax and then you'd pay the tax twice when you sell? That's a good question.
+
+(1:42:28 - 1:42:45)
+We've not tested that yet because we're not live yet with the app. But I will ask our app devs with that to see how that's going to work. And I'll let you know.
+
+(1:42:48 - 1:43:07)
+But changes will be made to make it so that you're not getting double taxed. I know a lot of people before, well not a lot of people but a few people, assumed that they were getting double taxed with the way the app was configured. But that actually wasn't the case.
+
+(1:43:07 - 1:43:17)
+They just weren't getting taxed when they buy. And then they were getting taxed twice when they sell. So your tax was just coming out when you sold.
+
+(1:43:19 - 1:43:35)
+At 16% versus the 8% in the buy and then 8% in the sell. What is he asking? Let me see. Are the LBANK and XT coins essentially burned? Yes.
+
+(1:43:38 - 1:44:19)
+And again, that's being factored into the team deciding how much to burn. I think that's everything. As always, I have to say this.
+
+(1:44:20 - 1:44:40)
+Guys, do not, I mean right now, oh no, right now you still can actually. Do not share your seed phrase with anybody. Please. 
+
+Not your mom, not your dad, nobody. Support will never ask you or admins will never ask you. Nobody will ever ask for your seed phrase.
+
+(1:44:41 - 1:44:48)
+I need you to understand that. When I say nobody, I mean nobody. Not if you need help with this, not when you need help with that.
+
+(1:44:50 - 1:44:59)
+Nobody will need your seed phrase, period. So please understand that as in nobody. With that, don't click on any links.
+
+(1:45:00 - 1:45:18)
+This includes if somebody gives you a URL to type in. This is exactly the same as clicking on a link. If somebody gives you an URL to type in your browser and you type that in and then it takes you to somewhere that you have to enter your seed phrase.
+
+(1:45:18 - 1:45:34)
+That is exactly the same thing what I mean when I say do not click on links. Because what a scammer will likely do is give you a link. Sometimes it looks like where you would log into PancakeSwap or for us what would be QuickSwap now.
+
+(1:45:35 - 1:46:05)
+And sometimes it doesn't look like that and it's going to ask for your seed phrase. Please don't share that. Is there anything else the community can do to help the project or you specifically? Not right now. 
+
+Thank you though. I appreciate it. I've gotten a lot of very kind DMs.
+
+(1:46:06 - 1:46:15)
+I appreciate that. I think it makes up for the very not so nice DMs. When you all were very frustrated.
+
+(1:46:17 - 1:46:26)
+Hopefully we can all forgive each other now. It's like family. For the record, Sarah confirmed that LBANK and XT tokens are burned at this point.
+
+(1:46:26 - 1:46:36)
+To me that means that they are unrecoverable and should be considered a loss. LBANK is still allowing you to sell I believe. Last I heard.
+
+(1:46:37 - 1:46:52)
+They will be delisting in the next few days. You're still welcome to sell your LBANK coins on there. XT I believe they stopped allowing sells and delisted months ago.
+
+(1:46:54 - 1:47:14)
+So those are definitely... But there will be no way to get PPY of the corresponding amounts. Right now the answer we have is very likely not. But I will have an answer once we go live.
+
+(1:47:19 - 1:47:35)
+But if you are on LBANK you still have your coins on there. So you can either sell or... Yeah, I imagine sell. But they are delisting in... They quoted a few days.
+
+(1:47:35 - 1:48:07)
+Two to three. And then we will have, again, we'll include that info once we actually go live. I guarantee that not offering a path to redemption after the fact in that instance will cause disgruntled people.
+
+(1:48:08 - 1:48:29)
+Yeah, so we've been telling you all to get your coins off there for... I can go back and see how many months and notices. Yeah, I totally understand. That's kind of like the holders who get scammed.
+
+(1:48:31 - 1:48:56)
+Of course we do our best to... You know. Yeah, I understand. Thank you all for his glory. 
+
+Have fun at work. It's glorious to see our prayers manifesting before... Aww, that's so kind. Lots of prayers.
+
+(1:48:59 - 1:49:06)
+Lots of prayers were said and lots of prayers were answered. I'm very happy about that. Finally.
+
+(1:49:07 - 1:49:16)
+Feels so nice. Alright. I think that's everything.
+
+(1:49:19 - 1:49:42)
+Again, please do not share your seed phrase, click on any links, or answer any phone calls. I will never have devs call you if you ever have a question about somebody contacting you and asking for your information. Like I've said before, really the best thing to do is ask in the general chat, right? Because that's the best way to confirm.
+
+(1:49:42 - 1:50:06)
+Don't DM anybody and ask because you could be DMing a scammer who looks like my profile or like an admin profile or who looks like Nolan or who looks like Stacey. So the safest thing what I would do is just ask in the chat, you know, say, hey, Sarah, did Sarah have a dev call me or whatever it is. Or post a screenshot and ask.
+
+(1:50:07 - 1:50:26)
+And I think a few people have been saved that way. But again, I have a few meetings this week and the system we're hoping to get on our website for support is pretty awesome of what we're thinking we want and what we've seen. So hopefully that'll help solve a lot of that.
+
+(1:50:27 - 1:50:43)
+If you all think of any other questions or need anything, again, please DM, tag me, email, text. Some of you all, a few people actually this week have text like somebody is out of the country, somebody doesn't have the internet. So that works too.
+
+(1:50:43 - 1:50:55)
+Feel free to text, call, whatever you need so we can get you all figured out and do the dang thing. Almost there. So I will post this.
+
+(1:50:56 - 1:51:13)
+I don't know if I'll post notes because, oh gosh, I don't even know where to start with that. But I'll try to summarize, I don't know, a few of the major points maybe and post that. And then I'll see you guys Tuesday.
+
+(1:51:13 - 1:51:33)
+We can do our routine voice chat and then we'll go from there. We'll see how it goes because I'm working like these graveyard shifts now apparently. So we'll see how the update goes with change now to see if Tuesday is still appropriate.
+
+(1:51:34 - 1:51:42)
+But I'll keep you guys updated. You all have a wonderful night. Thank you again for all the very, very, very kind messages.
+
+(1:51:43 - 1:51:51)
+And again, thank you for your patience. I told you it'd be worth it, I told you it'd be happy. And I kept my word.
+
+(1:51:52 - 1:51:53)
+Have a good night, guys.

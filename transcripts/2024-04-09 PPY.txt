@@ -1,0 +1,136 @@
+(0:00 - 0:09)
+Hello, happy Tuesday. I got the recorder going. I hope everybody had a good weekend.
+
+(0:13 - 3:36)
+It's already super warm here, so I'm trying to finish all my outside stuff and packing to move before it gets too hot. I feel like you never know how much crap you have until you move. So, Smart Wallet is pretty good. 
+
+We're definitely having to modify the contract so that you all don't get double-taxed because as it is right now, there's still a right under 8% going to the Operator Wallet. So, we're also going to remove, for the time being, USDT and USDC on Ethereum, but of course, we'll get that fixed just for you guys to get your funds out. That way, if you have USDT or USDC in your wallets, you can transfer them out. 
+
+But from that point, it just caused like some of you have gotten yourselves a little pickle after you accidentally swap your coins to USDT and then you need a ton of gas. Now, you don't understand why it's a ton of gas because Ethereum is so expensive and it's just a mess. So, I think we'll probably just remove that option for now. 
+
+I think it's because for most people, it's going to be confusing and then we'll remove the stable coins off Ethereum. That way, you won't have such high gas. It'll be on Polygon at least, or at least to start. 
+
+We'll have the stable coins on Polygon, which will be a lot less expensive for you all. That way, if you do accidentally do that, you can easily swap back into something else without needing a ton of gas and losing a ton of money. What else? I talked with our marketing guy today. 
+
+Our dev did get some other non-smart wallet stuff done. The front end of marketplace looks pretty cool. Yeah, that's really all I have.
+
+(3:36 - 4:04)
+We're just trying to get the smart wallet. Yeah, we're gonna have that fixed as much as we can on our end before having you guys test it. There's really no use in having you test it when we know everything he's working on or needs to fix.
+
+(4:21 - 4:54)
+What are those buys? Seems like somebody was watching. Any updates on ability to test anything? I think I just answered that. Pretty bubbles.
+
+(4:59 - 5:17)
+Do we know our logo on Coinbase? Let's see. You can find out. I'll find out for you.
+
+(5:22 - 7:02)
+So there will be stable coins? Yes. Just specifically in smart wallet, for starter, we'll enable it on Ethereum, which that's what it's always been. Stablecoin's been on Ethereum for the few of you who have funds on there, so you can transfer those out. 
+
+However, moving forward, and at least for starters, we'll switch the stable coins so they're actually on Polygon, which won't charge you a ton of gas. So that way you don't lose a ton of money. Because more often than not, when people do that, they just think they're swapping into like a almost like off ramping into US dollar, and then they don't realize why they got charged so much gas. 
+
+And even when a few have done it in expert wallet, then don't realize why it's costing them as much just to move it out and swap it. So it just causes more of a headache, I think, for our target audience. So we'll definitely probably add that into the future, the USDT and USDC on Ethereum. 
+
+But for beginners, we'll just have you guys move your funds out. And we'll start off with stable coins on Polygon. So that should be good.
+
+(7:07 - 7:43)
+Are we planning to be at TPSA in a couple of months? Yes, definitely. I think was that one in Michigan? Am I thinking correct off the top of my head? Oh, I see it. Yes. 
+
+Yeah. That's kind of, well, maybe if I zoom in. It's kind of hard to read.
+
+(7:49 - 9:24)
+I feel like, I feel like Charlie Kirk could use a little help there. Yeah. Let's see. 
+
+Oh, I did get, I think it was Discordia. Let me see. English, please. 
+
+One test. As soon as we're done testing, we were hoping we can tweak the tax without having to make any contract modifications. But that doesn't look to be the case. 
+
+So we're having to modify the contract. So you all don't get double taxed. This is definitely something that I think shortcut was kind of taken before.
+
+(9:26 - 12:45)
+That's why the app had zero tax for buys before was because it's pretty complicated to have the smart wallet charge a tax, but not a double tax. So yeah, but it's getting worked on. And it'll be a permanent solution so that when we do modify tax and lower tax like we plan on, it'll be very easy to do. 
+
+And it won't, you know, mess everything up as far as the app or smart wallet goes, especially when we want to make that the major, major, major, super primary way to buy PPY. Where is that? I see that popping up. When we transfer out of the old smart wallet with this to the new smart wallet, there will be zero tax. 
+
+We will reimburse you for the tax. So we'll reimburse you for that. There shouldn't be there should be less than 20 of you. 
+
+But yeah, once you have the completed transaction, I'll have you send me a few things and then I will reimburse you. Was chat as early today? No, I think we started right on time. Actually, it started, I think almost a minute late. 
+
+It wasn't quite late. It said 530, but it was ticking. Was there a time change in Australia with the eclipse? Um, what you missed is we are working on the stable coins in the app. 
+
+Everything else smart wallet wise is working. And the tax is being worked on. We're hoping to, we're hoping that the dev can make a few modifications to be able to adjust that extra almost 8%. 
+
+But, but I don't think that's the case. So there needs to be a contract modification. So you all don't get double taxed and it's it's keep you updated on them.
+
+(12:48 - 13:14)
+So refresh, the reason we need two wallets is a smart wallet charges everything for the village idiots. Well, that's not nice. And the expert wallet, we have to have gas in there to complete buys or sells. 
+
+So it would confuse average holder like my friend Craig. Is this why we can't launch with just the expert wallet and get going? Correct. So the smart wallet is the standard.
+
+(13:15 - 13:41)
+When you make an account, your, you should open up, it should already be in smart wallet, your app. And that handles all the gas for you on the backend. So you don't like example, you would need Matic to, you know, you don't, you don't need any gas.
+
+(13:41 - 14:02)
+You have, you just buy whatever coin you want. It handles all the gas for you. No matter, could be on Ethereum, BNB or Polygon or I'm sorry, BNB Binance Smart Chain BSC.
+
+(14:09 - 14:35)
+Um, so the smart wallet is actually the main wallet. No, I wouldn't say it's the main wallet actually, because yeah, you just have, you have two modes in your wallet, but I would say it's the default. Um, but yeah, that toggle at the bottom will switch you to your expert.
+
+(14:52 - 15:29)
+Um, so the other wallet is for people that might have Matic somewhere, right? Matic. Um, yeah. So the expert wallet, yeah, is likely people who have other wallets or who will get on and know that they need to buy Matic and PPY and, you know, uh, whatever it is they're, um, wanting to transact with.
+
+(15:31 - 18:26)
+But for the, for our target audience, that's a lot of work. But for you guys, you're probably used to doing that and probably have no problem with going in and, you know, a few touches getting, um, Matic and then with a few touches getting PPY and... Oh, what? So Australia's daylight saving just happened? Oh, just been, well, I don't know the difference. I've never lived in daylight saving. 
+
+Just happened. Just finished. I don't know. 
+
+Whatever it is you all do for daylight savings. Does anybody else not have to do that? Are we the only state? Let's see. Two states. 
+
+Who are they? Arizona and Hawaii. That's wild. Arizona made the decision not to observe daylight savings in 1968. 
+
+Okay, well, I like that decision. Um, is there an estimate to community testing? Um, so we could have you guys start testing now, but right, but that defeats the purpose. Um, one, because we want to solve all the issues that we're running into, um, testing and that we're aware of.
+
+(18:28 - 21:12)
+So what we'll do is as soon as we solve the issues, the bugs we're experiencing, we'll have you all test. Um, I was hoping you all would test by this last weekend, but that's not the case. It's really, um, yeah, the double tax issue is probably our biggest issue now. 
+
+Um, because we're not having any problems with transactions, with any transactions that we need. Um, but, uh, getting double taxed is an issue. And again, this is, we, we know it's, we know it's, um, we were, we've been aware for quite a while, um, that this was, like, was an issue because, uh, this is why before, um, the dev that was on decided with the team that made those decisions that the app would have no buy tax. 
+
+Um, that wasn't cause you know, they were trying to be generous. Um, that's just because they realized it took a lot, um, to get that figured out. Um, so we just want to get that, find a permanent solution for that, which is a contract modification rather than just, uh, band-aiding it. 
+
+Um, I did DM you. Oh, okay. I'll definitely check that out. 
+
+Sorry. I think I saw you. Um, that you had DM'd me, I think actually a few times, I kept getting sidetracked every time I'd get onto Telegram or something else.
+
+(21:17 - 22:51)
+Yeah. Quickswap, um, is, you know, PancakeSwap back then was also pretty spotty. There was like, I think it was a list of dozen, a dozen tips and tricks, but that's why we, really would like to get the app. 
+
+That way we can, uh, also be self-sufficient. I wonder if that has anything to do with the state you're in. And let me see, I haven't, have you tried ParaSwap at all? No. 
+
+Because back when we were testing the contract, this was, gosh, what now? Four months ago, four to five months ago. Um, ParaSwap actually worked a lot better for me than Quickswap did. And I really, I think it was something, I'm not sure, maybe, um, that it has something to do with where I am location-wise.
+
+(23:50 - 28:46)
+ParaSwap again, because I haven't used it for a while. I'm going to have to re-import again. It's weird. 
+
+Why is that not working? That's the correct token address. It's weird. Try it again and then I'll share it. 
+
+I know some people used it for testing. Cool. Anything else? I've adjusted my name to more accurately define my crypto experience level.
+
+(28:52 - 29:08)
+Why? Why'd you do that? I don't remember. There are no dumb questions. I think so, for the most part.
+
+(29:09 - 29:44)
+I don't think you're a village idiot for, uh, for what it's worth. Um, but yeah, that's all I got. I will keep you guys updated on the contract modifications for the tax and the stable coins.
+
+(29:45 - 30:44)
+Let me know if you need anything else in the meantime. As always, don't share your personal info with anybody. I will never ask you for that. 
+
+Other admins will never ask you for that, so just be careful. If in doubt, just share a screenshot in the general chat. Somebody can help you out without giving your information. 
+
+We'll also never ask for you to send us funds. Um, yeah, I think that's all. The devs working on the stable coins, um, and the contract modifications.
+
+(30:46 - 31:16)
+Well, I'm not sure exactly how long that'll be, um, because it is not an easy task, I hear. Um, but I will keep you updated on that. Anything else you need, let me know. 
+
+I will convert this right now and upload it with some notes and then maybe we'll do a contest. I know one of you DM'd me about a contest. I think it's on Discord.
+
+(31:18 - 31:29)
+So I'll check that out tonight too, um, and then I'll see you guys in general chat. Uh, thank you. Bye.

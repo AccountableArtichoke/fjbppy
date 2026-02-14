@@ -1,0 +1,318 @@
+(0:00 - 0:15)
+Hello, happy Friday. Hope everybody's had a good week. We've had a pretty good weekend, specifically a good last 24 hours actually.
+
+(0:17 - 0:42)
+So, last voice chat, I was a little concerned that the double tax issue was going to need more work than we anticipated. To get it fixed, I know the dev team prior had a really hard time with that. That's why the app previously had zero tax.
+
+(0:44 - 1:02)
+But, as of late last night, the double tax has been fixed, so that is very exciting news. Again, last voice chat, I thought that was what we were going to be waiting the longest for. So, I'm glad we got that out of the way.
+
+(1:04 - 1:27)
+One step closer, moving forward. We are just, now the dev is working on, we're having an issue with the USDT and other stable coins on the app. I think our dev team that did the PPY integration, something went on there.
+
+(1:28 - 1:59)
+So, he's working on that, and we hope to have that fixed within the next few days hopefully, now that he is concentrating specifically on that. Seems like he tested it. In his testing it went well, but when we're testing it from the dev testing app from our side, we're getting unsuccessful transactions with the stable coins.
+
+(2:00 - 2:32)
+And of course, we need that fixed because when we deploy this first version to you all to move your funds out of your current smart wallets, we know a few of you do have that stable coin. Of course, we want that also functioning as intended on our full app release too. That's where we are there.
+
+(2:36 - 3:00)
+Hmm, hmm, hmm. I don't have any DMs. I'm not sure why some of you who've been here for a while are asking questions that have been answered plenty of times, but I do refer you to the fork announcement video.
+
+(3:00 - 3:19)
+I think that will answer some of your questions there, and also probably some of the advisor Q&A channels. I'm seeing the question from Tim regarding we did not move away from BNB just because of Bannon. There are many strategic reasons we moved away from BNB.
+
+(3:22 - 3:56)
+Again, I refer you to definitely the video, the release video, the fork video, and also may have been in some of the questions from the advisor. If not, definitely Google that and do a little bit of reading on the benefits of MATIC and Polygon in general. Bannon is not the only reason we moved away from BNB.
+
+(3:56 - 4:33)
+There are a few functions that we added to our contract that we have because of it being Polygon MATIC, and we will continue to make the decisions that are best for the organization, the coin, long term. That includes if MATIC is down right now, but BNB is up. We are not looking for just gains.
+
+(4:33 - 5:01)
+Again, we have several people making these decisions, and these decisions were not made lately. Anybody who thinks we're moving too slow, you're welcome to start your own project and move quicker. Again, our priority for a while now has not been to get this done in the quickest time.
+
+(5:02 - 5:34)
+If that was our priority, we would be doing a lot of things a lot quicker. Prime example, even the most recent example, being that before when the dev team before and the rest of the team who made these decisions before with the dev, when they couldn't figure out how the smart wallet, how to not get it to charge you all a double tax, they said, ah, hell with it. We'll just do no tax on app buys.
+
+(5:34 - 5:55)
+Now, I understand that probably sounds good to you guys as buyers. Well, that's nice, but strategically, that is just not good for us to raise funds and help the project grow. We definitely need that tax, especially in this phase and at least in our beginning phase.
+
+(5:56 - 6:32)
+That's just the most recent example of shortcuts that were taken before that now we take our time and make sure that we do find long term solutions. And that has taken hours and hours and hours, not only of our advisor team, the dev, of course, my time. And I think some of you who I think some of you who really have studied the contract, to dive deep into crypto, appreciate that.
+
+(6:34 - 6:51)
+Yeah, so that's again, that's time time and getting stuff the fastest as we can is definitely not our priority. I think by now it's clear that anybody that's looking for a project like that, we are not the project for that. I don't want to mislead anybody.
+
+(6:53 - 7:15)
+We've tried to, even with the roadmap and the white paper, make the most realistic timelines. But again, we are going to continue doing what's best, even if that means or even if that can mean that that's going to take more time. And then again, the most recent example being the double tax right now.
+
+(7:17 - 7:46)
+We got that working, even with a ton of time and money to get it working. Looks like decentralized answered just a few of the benefits of Polygonmatic. Nine days of Transact Alternative nine weeks ago.
+
+(7:46 - 8:20)
+Again, we've announced if you all have kept up or even read the notes. We've had an on ramper into integrated into the app for quite a few weeks now and need some hype back in the project. So again, we are no longer a I think we looking back, I think we were some kind of like pump and dump and we'd have these guys get on the voice chats and mislead us all.
+
+(8:22 - 8:32)
+That is not our goal. Our goal is to build a long term project. The advisor, I've explained again and again, will remain anonymous.
+
+(8:32 - 8:58)
+That is not going to change. BNB getting their new wallets. I will let you know as soon as they do.
+
+(8:58 - 9:14)
+We will not be holding off. Give me a second. Really quick.
+
+(9:50 - 10:05)
+Will smart wallet code be made public? No. So the reason that hasn't been made public is for security reasons. We've stuck with that was originally Velo's idea.
+
+(10:06 - 10:31)
+But every dev advisor since then has confirmed that that's something we should keep private. Yeah. No.
+
+(10:31 - 10:42)
+No. No, we are not. We will not be collaborating with any other coins.
+
+(10:48 - 10:57)
+Where's the advisor on a call? He can be anonymous on a voice call. So the advisor is happy to answer questions. There is a channel in here and in Discord.
+
+(10:57 - 11:17)
+If you have any questions, drop them in there and he will answer those. Okay. So if you guys can't stay respectful with comments like this, advisors sound too scared or busy to care.
+
+(11:17 - 11:28)
+If this keeps going on, I will just stop doing voice chats. I'll tell you plain and simple. This does not hurt me personally.
+
+(11:28 - 11:40)
+This hurts your own wallets. And if this keeps going on, then I will just stop doing voice chats. And that's totally fine with me.
+
+(11:40 - 11:49)
+That was actually recommended by most of the team as something I should stop doing. And I know you guys love it. You guys enjoy it.
+
+(11:49 - 12:06)
+Or the most of you. And that's why I come on and do this. With smart wallet now fixed and double tax fixed, is there an estimate for when people can transfer? So as soon, yeah.
+
+(12:07 - 12:28)
+So as soon as, is there an estimate for, sorry for the people listening to the recorder, is there an estimate for when people can transfer at a smart wallet? So as soon as, so right now we're having an issue. I'll clarify what I said earlier. There's an issue with transferring USDT or stable coin out of the smart wallet.
+
+(12:28 - 12:42)
+So that is the issue that Deb is working on now. He solved it on his end as of last night. But us testing it is successful.
+
+(12:43 - 13:05)
+Hold on. Sorry. He's, let me, sorry, give me just a few seconds.
+
+(13:05 - 13:59)
+I gotta ask a few things. Sorry about that. About the Deb and got a few things by the advisor.
+
+(14:03 - 14:18)
+So yes, that's the, that's what we're waiting on. That is the last bug, if you will, to get the current smart wallet working. So you all can move your funds is getting USDT.
+
+(14:18 - 14:30)
+Because if a few of you do have that in your smart wallets to get that transferred out. USDT on Ethereum chain. We are getting rid of that.
+
+(14:31 - 14:39)
+That's on the app previously with FJB on there. It was USDT on Ethereum. We are changing that.
+
+(14:39 - 14:52)
+The plan is to change that to a stable coins on Polygon. Very much looking forward to that. Because I know several of you got yourselves in trouble when you get that in there.
+
+(14:57 - 15:06)
+So don't worry. That will be changed to Polygon. We don't want you paying those high gas fees.
+
+(15:07 - 15:34)
+And again, trying to strategically do everything we can to make sure that our app is really, even if, you know, your grandma's getting on and buys USDT and has no idea it's Ethereum. And has no idea she's, you know, paying so much more for gas. We really want our app to be an app that somebody who is not very knowledgeable in crypto at all can get on.
+
+(15:34 - 15:40)
+And they are, it really is in the best interest of them. If that makes sense. That's a lot of words.
+
+(15:41 - 15:55)
+So that is, yeah, that is the plan. And that's something, the plan to do that immediately. As soon as the dev is done with this bug to get it working on Ethereum again.
+
+(15:55 - 16:09)
+Just so you can get your stable coin out of there. As soon as that happens, it'll be switched to the Polygon stable coins on the Polygon network. Had a few questions forwarded.
+
+(16:20 - 16:41)
+What's the status of the app? I think we covered that one. I think a few of these questions I've already answered so far. We were, okay, so this one I think, in case any of you are wondering.
+
+(16:42 - 17:00)
+You guys have asked it before, but we were told there are multiple app updates waiting to be rolled out. Correct, I think we have three different versions now, if I'm not mistaken. Why don't you roll them out now while we wait? We are not because of the nature of the updates.
+
+(17:00 - 17:17)
+The biggest reason being we need this update because we need you all to move your funds out of these smart wallets. Before we can move on to the rest of them. It just makes everything more complicated, especially with Vess and Vess's security.
+
+(17:19 - 17:30)
+So this is the easiest way to go about it. I'm sure there'll still be a lot of detailed instructions needed. And I'll be here, of course, to walk you through everything.
+
+(17:31 - 17:48)
+But otherwise, it would be a complete cluster. Again, just because we need you all majorly to move your funds out of the current smart wallets. Because you will not have access to those after we kick off the new updates.
+
+(17:51 - 18:18)
+What's the status of Marketplace? The Marketplace itself is complete, that page. Along with Education, we will be adding once the dev wraps up more high-priority stuff. We will be adding a feature in Marketplace where the vendors themselves will be able to sign on and add on their items.
+
+(18:19 - 18:40)
+That's just a few items down the list right now, though. Okay, I think that's all. Will we see progress and launch in April? I think we've already seen progress in April.
+
+(18:41 - 18:52)
+I think we've seen quite a bit of smart wallet progress. We've seen... Gee, I'd have to even look through the notes. But yes, definitely.
+
+(18:54 - 19:12)
+I think that'll continue as the dev is working full-time. But again, our number one priority is getting this done right and for the long term. That includes, and I understand being upset maybe, because Matic is dumping.
+
+(19:13 - 19:31)
+But that's how it's going to go. Sometimes you're up, sometimes you're down. That's why we've got to make sure that we are building a strong foundation to make something that's going to make a change long term.
+
+(19:37 - 19:55)
+I think that's all the questions I've seen in here. Life cycle, all for his glory says. Good times come, good times go.
+
+(19:55 - 20:04)
+Happiness achieved by going with the flow. Again, sure, we could be on B&B. But again, we've gone up with Matic too.
+
+(20:04 - 20:20)
+I think right after the fork, that'll probably go on in Matic long term. Or definitely the better choice for many reasons. If you look at Matic over the past two years, the surge and dump is totally normal.
+
+(20:21 - 20:45)
+I get the frustrations, but it happens. Today there was quite a few buys. I think we're going to have to backdate the contest and maybe start it out at midnight.
+
+(20:49 - 21:24)
+And then keep it going maybe till tomorrow or today at midnight Eastern. And if you guys do have more detailed questions, you're more than welcome to drop them in. Let's see, where did that channel go? Here we go, crypto advisor questions.
+
+(21:25 - 22:02)
+Feel free to drop them in there. And as soon as we have a few, I can get those to the advisor to go ahead and get you some answers. Can you give us a seven day rundown? As soon as the dev, unless these changes he makes, bring on other bugs, which I don't imagine.
+
+(22:03 - 22:37)
+But as of now, the only thing we see not working in the current smart wallet is for you all to get your stable coins out to transfer them or to swap them. So as soon as he is done with that, we will deploy this version of the app, which will be very minor changes. You won't see many changes yourselves here, just to get your funds out for those of you that have smart wallet funds.
+
+(22:37 - 22:55)
+Most of you will not see PPY. If you had FJP before in your smart wallet, you're not going to see it in the smart wallet we deploy. And that's again, that's because we are going to have you move your funds out of there.
+
+(22:55 - 23:15)
+Because our next deployment will be the new wallet generation version. Which is awesome. It's phenomenal. 
+
+It is so easy. Your grandma, my grandma can do it. I'd say it's easier than signing on to Facebook.
+
+(23:16 - 23:40)
+And while still being super secure. So we'll do that. I'm hoping that the dev can get this wrapped up. 
+
+I don't imagine it'll take him a whole nother week. Along with our advisors also been working on it and really trying to get this wrapped up. Again, I was really expecting that the double tax issue was going to be the one holding us up.
+
+(23:41 - 24:01)
+Because that was a pretty tough issue for them to figure out. But they figured it out. Nobody will be double taxed from this point forward using the smart wallet.
+
+(24:01 - 24:13)
+Which is great news. So as soon as the dev works the stable coins, we'll deploy that. Have you all move out your funds while the dev continues working on.
+
+(24:14 - 24:35)
+Right after that, actually right now, I think super high priority is getting the stable coins moved to the Polygon network. Then we'll begin with the deployments, which should be really exciting. And hopefully you all don't find too many bugs.
+
+(24:45 - 25:00)
+It's been good. And again, if you follow the blockchain, I'm sure you can see some of the testing there. Looks good though.
+
+(25:12 - 25:30)
+Anything else? Russ says hopefully they find all Z bugs. Yeah, you got to call Mike in there. He'll find them all.
+
+(25:53 - 26:24)
+Who is Village Idiot? What are your prior name? It's got to be... Is it Egg or Ronnie? They're my two guesses. Oh boy. So good looking at addresses and transaction hashes.
+
+(26:25 - 27:15)
+Over what time period do you expect the three integrations to take to push live? So that's honestly just going to... Hold on. Sorry, I'm missing the messages again. Okay, so over what time period do you expect the three integrations to take to push live? So that's going to depend on one, getting this USDT to send or swap.
+
+(27:17 - 27:32)
+But they should be the same. If one is fixed, the other one should be. And then as soon as that... So that's going to depend on that time, right? As soon as that's done, we'll go ahead and deploy that for you all to move any Smart Wallet funds you have out of there.
+
+(27:32 - 27:43)
+Again, you won't see your PPY in there if you had FJB in there before because we've not airdropped that to most Smart Wallets yet. So don't worry about that. Hold tight.
+
+(27:44 - 28:10)
+We know we will airdrop it to you as soon as you have your new Smart Wallet. And then after that, we plan to push the new account wallet generation update, which should be pretty, pretty straightforward. We don't... Again, I don't want to jinx it, but it really should be pretty straightforward.
+
+(28:10 - 28:36)
+So we'll let you all work out the bugs. Again, we don't want to deploy all these versions at the same time, and then it's a little bit harder for the dev to see what is causing what issue. After that, we will deploy our new onRamper and have you all test that.
+
+(28:36 - 29:01)
+Again, that should be pretty straightforward. There's one page that there might be a little... I'm curious with a lot more users what kind of bugs that would give us. If anything, but again, should be pretty straightforward just using their API, just like we did before with Tranzact.
+
+(29:03 - 29:23)
+And then after that will be the education and marketplace integrations. And then we'll continue down the list of everything else. But that's so far, so it'll just be depending on how long each of those takes to work out the bugs.
+
+(29:23 - 29:46)
+But most of the blockchain and most of those bugs are what the dev and advisor has been working on the past several weeks. And that's usually the harder stuff to figure out. So I will keep you updated on that progress.
+
+(29:48 - 29:54)
+Russ says, wait, my guess. Should be past that now. Oh, look, they tested eight times in 24 hours.
+
+(29:54 - 30:09)
+So between those eight times is somebody that's probably smarter than most of us here doing the work. They're not going to test when they haven't made changes. So it's test, make some changes, test, make some changes.
+
+(30:09 - 30:23)
+The testing is going to be the quickest part of their job. But anybody is free to sell. We don't have any locked wallets, as you all have seen.
+
+(30:29 - 30:59)
+Any plans made with the marketing advisor about what to do first? Yes, I will keep you updated on that. As soon as you all are done testing into everything and make sure that everything is super simple. For the normal person to do without having to come in here and email us to walk them through the process is when we will begin.
+
+(30:59 - 31:20)
+And again, that's all for the benefit of the current community and people before and also something Steve is very, very adamant about. We don't want to make the same mistakes we've done before, even though they were not our fault. With the whole wire issue, but we definitely don't want to run into that.
+
+(31:20 - 31:50)
+Or have any users have a negative anything with us. Okay. Anything else? Let's see.
+
+(31:50 - 32:31)
+How many buys? Wow, we had a lot of buys today. What were you guys doing? Payday? Taking advantage of the Matic dip? This is plenty. Poor Stacy has been the one counting them, too, after the contest.
+
+(32:34 - 32:50)
+She's got a lot to count. As I'm looking through these lists. Oh, that's still today.
+
+(32:51 - 32:55)
+Oh, my gosh. Okay. So started at 542.
+
+(32:55 - 32:58)
+My time. This started early, too. Okay.
+
+(33:08 - 33:40)
+Gee, I think I just counted at least 18. Okay. Anything else? Start deleting.
+
+(33:45 - 33:54)
+Disrespectful comments. Whether it's about dev or advisor. That just looks really poorly on anybody coming in.
+
+(33:55 - 34:06)
+Specifically vendors coming in to check us out. Oh, there. Add one more to my list.
+
+(34:07 - 34:13)
+Okay. I think that's everything. If you guys need anything else, please reach out.
+
+(34:17 - 34:24)
+We'll keep you up to easy money. You've got to tell us where you are. Otherwise, we can't send you a lemon drop.
+
+(34:24 - 34:40)
+It's a pretty good gift. Actually, we had family visiting from Oregon. And their kid was fascinated about the lemon tree.
+
+(34:40 - 34:50)
+I don't know. Is there no lemon trees in Oregon? So we juiced a bunch of lemon trees from the yard. And all I could think about was like, Wow, lemon drop.
+
+(34:50 - 35:11)
+It sounds really good right now. What else is waiting for two more buys, I think. Crews better have all you can drink lemon drops.
+
+(35:13 - 35:19)
+I'm sure they will. All right. As usual, please don't share your private info.
+
+(35:19 - 35:25)
+Don't screenshot me or seed phrase. Don't share it with anybody else. I don't want to see it.
+
+(35:26 - 35:32)
+I will delete it. But you may send it to somebody else and not get so lucky. So please be very wary of that.
+
+(35:32 - 35:47)
+If you have anybody else who does have PPI or other crypto, make sure they're aware of that. I will keep you updated. Don't want to jinx it.
+
+(35:47 - 36:27)
+But I do hope that the debt, he sent me something I'm going to go test right now. So we'll discuss that with the advisor and see if this is a fix just on this version of the app just to get you all to get your funds out or if this is the plan for a fix for our permanent app it's just a little bit of a band-aid. So it's not going to work for our permanent app.
+
+(36:28 - 36:43)
+But if it's going to be different once we switch the stable coins to Polygon then we can use this temporarily. This fix that the dev just sent, then we can use it just temporarily just for you all to get all your funds out of there. But I will keep you updated.
+
+(36:45 - 37:00)
+If you need anything else, reach out. I will post the winner for this week's, earlier this week's contest. And then I'll also post something about the contest going tonight until midnight Eastern.
+
+(37:01 - 37:17)
+We'll do, I don't know, how about we'll do, I don't know, I'll post it. Give me a second to convert this and then I'll post it and I'll post the contest details. I should probably make it a good one.
+
+(37:20 - 37:30)
+Where I'll stop showing everybody my PQI. Alright, you guys have a good night. I will be in general if you need anything else.
+
+(37:30 - 37:30)
+Thank you.

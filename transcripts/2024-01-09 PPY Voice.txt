@@ -1,0 +1,173 @@
+(0:01 - 1:02)
+Happy Tuesday. I hope everybody's going well or doing well. As you all know, we've been testing. 
+
+Testing's gone really well so far. Still haven't gotten a new chair, by the way. I think I just need to tie in this one. 
+
+I actually love this chair. It's a contemporary chair, but it's starting to, like, creak. So testing's gone really well. 
+
+The first night we had some network issues. Polygon is going through a ton of changes and upgrades, which is amazing. So one more party we get to kind of grow with, which is really exciting, and why we picked our new network to fork to.
+
+(1:03 - 2:09)
+So that was the first night. After that, I think everything's been going super smooth. We will probably do some testing. 
+
+I know Polyscan's going through some maintenance right now, which is why we stopped testing. There's not really much for us to, I guess, analyze on there for transactions like we want to with testing going on. So as soon as that's back up and running, we'll get back to testing. 
+
+Thank you guys for all your help. Everybody's been super helpful and following directions, which is always appreciated. Let's see. 
+
+What other updates? Change Now was supposed to be ready by today. They are quoting, let's see, from now, about 12 hours. About 12 more hours.
+
+(2:11 - 2:26)
+So I'll keep you updated on that as far as that goes. Transac, we got that third-party issue worked with them. So we're just waiting for them to turn that button on.
+
+(2:26 - 3:07)
+Once that's clear, we can test the app too, which I imagine will probably, if I had to guess, just my opinion, it's probably not going to go quite as smooth just because we have so many components to that as far as the devs. We redid everything on there, moving from FGB to PatriotPay. So if I had to guess, I would assume we're going to need a little bit more time to test that just because the team hasn't even tested that yet.
+
+(3:08 - 8:21)
+What else? I don't think I have any questions other than the usual, but I imagine that's people who don't really listen to the voice chats, which is, if you do have your coins on XTL Bank or any other decentralized, centralized exchanges, you can still transfer them over. You may need to contact support to do that, but you're free to do that and just sell those for whatever you can, if you want to, and use that to purchase PPY. Never know what the future brings, but that's what I'd recommend there. 
+
+That's what I would do. Otherwise, if you're just waiting, if you already had your coins in a decentralized wallet, all you have to do is sit tight and wait for us to finish up testing and make sure everything works smoothly before we confirm that everything's good. That's what this is. 
+
+Nothing needs to be changed. No upgrades are needed to the contract. No changes are needed whatsoever to the contract. 
+
+Then we can go ahead and do airdrops and enable full trading, not maxed at that $1,000. I think it's like $0.25, $0.30 in that range. Let's see. 
+
+Questions. How's testing going? I think we covered that. When's airdrop? We covered that. 
+
+Airdrop and full trading still looking good for end of week? So far, yeah, I think so. So far, depending on how trading continues to go, but so far, so good. I think so. 
+
+What else? So is the team going to be testing the app for a while before community testing? It depends on how testing goes. So hopefully, we don't need to do much testing before the community is able to test. But again, so many components in the app, as you guys know, we were having issues with the smart wallet already with the FJD. 
+
+So yeah, we'll see how that goes there. But airdrops no longer waiting on app. So at this point, I don't think we have to worry about that. 
+
+If anything changes, we'll definitely keep you updated. Okay, when airdrop and full trading we get the video dropped? Yes, I think we'll wait till full trading is live before we drop the video or maybe like right before. The launch video. 
+
+I actually haven't watched that for a few weeks. I'm going to do that today. And somebody mentioned to see, you know, sometimes you like create something and then later you're like, oh, no. 
+
+I hope that doesn't happen. I hope I don't look back and be like, no, we need to change that. Um, yeah, what else? Tonight, we'll be working on social media stuff for Dan. 
+
+Probably some of the few website edits. We should be on CMC, we should be up there soon. Favorite question. 
+
+Oh, I missed everything. Apparently. Still waiting on change now. 
+
+Voodoo Child, they about give or take another 12 hours is what they estimate. For future reference, we're actually probably going to add another swap service in the background of our app. So we just, you know, just to have a few more options.
+
+(8:23 - 8:47)
+Transact, we're waiting on them, even though we got everything figured out with the third party they needed some edits from they were having issues with. Testing's going well, we'll continue that as soon as poly scan is back up and running. They're just going through some maintenance right now.
+
+(8:48 - 9:01)
+Those will be updates. You guys decided on that bumper sticker and then we have another sticker. Got to get those ordered before morning.
+
+(9:02 - 9:20)
+I think we should get those probably by the end of the week. And Ed's, my favorite question, can you give us a rundown of what you expect over the next seven days? Oh, I thought it said eight. I must have edited that.
+
+(9:23 - 9:50)
+My glass of wine tonight. I feel like voice chat nights are like my have a beverage night. Okay, so can you give me a rundown of what to expect over the next seven days? Change now, we expect to be live. 
+
+Transact, we expect to be live. So we expect the team to start testing on the app with so many components in the smart wallet. Excuse me.
+
+(9:51 - 10:07)
+Gosh, still working on this cough. With all the components in the app, I'm guessing we'll have to make some changes, but again, hopefully not, never know. Once team is done testing on their community, we'll test on the app.
+
+(10:10 - 10:52)
+Yeah, and then testing here, depending on how the rest of testing goes, will determine how much longer we need to test for. Hoping Polygon, PolyScan goes on back live tonight. Once that's complete, and we don't need any changes to the contract, we will then airdrop and enable trading with no, well, some limits, I guess, but more than a thousand PPY limit.
+
+(10:58 - 11:14)
+Drop the video. What else would launch? A few little things. One thing to launch, I think our tip, even the tip CC, I think everybody, honestly, even like all my friends and everything, I feel like everybody is sick.
+
+(11:15 - 11:40)
+Let's see. Even the tip CC dev is out sick. This week.
+
+(11:57 - 12:13)
+Can we still transfer FJB to tip CC? No. Or, I mean, we may be able to, but they shouldn't work. Got the screenshots and proof.
+
+(12:15 - 12:56)
+That's why we were still able to make like tip and the server, those will all go through, but it's different once it goes out of their hot wall. What? Steve, take a look at those three versions of the logo. He's a filmmaker and has a good eye.
+
+(13:06 - 14:04)
+All right. Anything else? You guys still need to pick a hype song, which, or a few, haven't really, you know, haven't really listened to one that's quite there. There was some that I thought of and I'm like, oh, that's good. 
+
+And I was listening to all of you guys' submissions today. And there was one that, or a few that I thought of and I played, I'm like, oh my gosh, those are really bad lyrics. It's like when you're an adult and you listen to songs you listen to as like an early teen, you're like, oh my gosh, who let me listen to this? What the heck? Yeah.
+
+(14:11 - 14:28)
+The vote said we needed a new song. Let's see how many votes. 41 votes. 
+
+32 said we need a new song. Nine said we don't. Eight, if it's not counting me.
+
+(14:44 - 15:01)
+JB wants to know who the nine are. Well, I'm one. Hey, I just think that's just, you know, any other song, when I'm listening to it, I'm comparing it and it's just not giving me the same.
+
+(15:06 - 15:36)
+Are there still surprises to the task to reveal when we go live that we don't know about yet? Uh, I think so, depending, I guess depending on how well, how well you understand and read contracts. I'm surprised. Surprised there's, there's a few things nobody's mentioned, but.
+
+(15:37 - 16:32)
+What on Steve in the cooking channel today? My gosh. His lunch or dinner probably. Dinner looks so good. 
+
+Oh, I made butter bites too. I don't know if there's anybody else on ketosis here. Butter, vanilla, a little bit of salt, and cute little molds.
+
+(16:33 - 17:11)
+Heart molds and cacti molds and what else? And pineapple molds. So cute. MB. 
+
+MB, was that, was, you were, weren't you making fun of him being, uh, I forget what you called him. Like making fun of his beard and what's wrong? Come on, guys. We're better than that.
+
+(17:13 - 17:26)
+What the fuck is going on? Like, can we just have a drink? I do have a drink. I have my glass of wine. Uh, you know what I'm actually really obsessed with right now is, uh, sulfite free, organic sulfite free wines.
+
+(17:30 - 17:43)
+It's my, it's my thing right now. And I really wanted one last night. Or was it the night before? And I was like, I don't want to drink, like, two or three nights in a row.
+
+(17:55 - 18:09)
+Larry, stop crying. My two puppies are out on a walk, so. Glutton Doodle's being dramatic, waiting for his walk.
+
+(18:15 - 19:34)
+What's the approximate timeline for getting the first merchants online? Um, we are, I mean, we already have had community interest for merchants, and I think, I think it's a pretty good deal. They get to start off, um, we just have some strict guidelines for them, just to make sure that we protect ourselves and the community. Oh, I didn't notice the inverted cross. 
+
+Two of them, actually. Because I think that one on the left might be two, right? It's a little bit more blurry, but, uh, I guess that could be a plus sign. Uh, like more meat-based, I guess. 
+
+Try to stay away from the heavy metals and vegetables. Yeah, salted black licorice and my carbs. Just gotta do them after being in ketosis for a few days.
+
+(19:37 - 21:17)
+Fill those cells with some carbs and repeat. If you're interested in the science, I highly recommend following Courtney Hunt, Dr. Courtney Hunt. Pretty fascinating. 
+
+She ties in a lot of, uh, religion and science together. If you're into that thing. Subtly trying to convert us all, convert us into what? Oh, All for His Glory made some amazing chocolate cakes. 
+
+Those look so good. Little mini bundt cakes. Uh, we have a place here called Nothing Bundt Cakes. 
+
+I don't know if they're, like, an Arizona-only thing. But they have a gluten-free one for all new celiacs, so that's pretty neat. Well, I think, I think that's everything. 
+
+Um... Yeah, be on the lookout for some changes to the chat rooms and social media this week. Hopefully sooner than later. I think tonight, that's actually what I'm gonna try to focus on.
+
+(21:17 - 21:53)
+Um, I feel like, I feel like it's been neglected, but I'm gonna knock it out on getting some other, uh, marketing material out for you guys. So be on the lookout for that. Yeah, don't share your info with anybody. 
+
+Follow the directions closely. I know a few of you have kind of, uh, gone a little rogue. It's been a little expensive for you guys, um, so just make sure you follow the directions.
+
+(21:53 - 22:10)
+And if you're confused about anything, feel free to ask. Uh, again, just tag me. If you DM me and I don't respond, then please tag me, because that just means your, uh, DM probably got either buried or moved to another file.
+
+(22:11 - 22:37)
+Um, so do that. Text, call, whatever you need to. Um, but yeah, don't, don't be afraid to ask for help. 
+
+That way you don't get yourself in a sticky situation. Um, again, you know, buying USDT on Ethereum or something like that is still better than getting scammed, but it's still a little pricey. Uh, so feel free to ask questions if you don't understand.
+
+(22:38 - 23:09)
+Uh, it'll be a lot easier for us to help you, too, and take less time than after you get in a little sticky situation. Uh, and save you some money, too. Uh, as always, again, don't share your info with anybody. 
+
+We'll never ask you for your seed phrase, any personal info, or to send us money. Just be wary of that. I'm sure, uh, as we pick up volume, we'll probably get some rust-causing stains.
+
+(23:10 - 23:45)
+Um, but I'm sure we'll get more of those as we pick up volume, so be very careful of that. Um, I expect to have our support on our website, uh, hopefully by end of week, too. Uh, so that's good. 
+
+Our, uh, what we've been working on as far as our app login to make it a lot, um, smoother, easier for you all should be completed by end of week. Still on track there, so I'll keep you updated on that. So, I hope these are going absolutely nice.
+
+(23:46 - 24:03)
+Uh, but, yeah, I think that's everything. For you guys, your homework is to find a voice chat song that's, like, a real hype song. Like, you know, like a song you can put on, and we can all share, like, gifs.
+
+(24:05 - 25:16)
+Um, it's a hard, it's a hard one, because I kept, like, pulling up songs, and nothing, like, makes you want to put dancing gifs, you know? Um, so, I think that's all I have, but if there's no other questions, uh, yeah, I think that's it. That's all I have for the night. J.B. Votes, Twenty One Pilots, a song that's called... Hm. 
+
+A song I've never heard of. Um, alright, I will post, give me a few minutes, and I will post these notes, let me convert this file, and I'll post that with the notes, and then hopefully we can get some more testing done tonight. Uh, depending on how Polly's fan's going.
+
+(25:17 - 25:32)
+But I'll keep you updated on chats for those of you that are still wanting to help us out and test a little bit, so. Uh, cool. Let me know if you guys need anything else. 
+
+In the meantime, you all have a wonderful night.

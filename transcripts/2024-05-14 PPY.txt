@@ -1,0 +1,227 @@
+(0:00 - 0:54)
+Hope you all had a great weekend. Hopefully you took care of your moms and your wifeys that are moms. Let's see. 
+
+And happy belated Mother's Day to all the moms, a few of you. Let's get to it. The devs are still working on integrating the Polygon network on the app versus the Ethereum that we have right now to get USDT and USDC and WBTC.
+
+(0:56 - 3:27)
+On Polygon, we'll keep Ethereum on Ethereum just to not make it confusing for you all. They're still estimating to have that completed and ready for you all to test sometime this week, but if that changes, I will keep you updated. Let's see. 
+
+Once you guys again are testing that, they will deploy the OnRambr version to you all next to test it. While they work on the political donations, that'll be top priority as soon as everything on the app is functioning as it should as far as the OnRamping and the new wallet creation generation system we're using, which has been working beautifully. Of course, they'll work on the bugs. 
+
+Any bugs that you all find, of course, those will take priority before any other additions like the political donations. That's all I got as far as the app goes. We did transfer some funds out of the contract, so that's nice. 
+
+That way we have some PPY to use once we're done with the burn. We put that on pause while we get our partners set up, and we'll have one more contract update that will probably integrate within this next week. It's really awesome having a contract you can upgrade.
+
+(3:27 - 4:50)
+It's really cool. Other than that, I don't think it was one of you all regulars, but if anybody knows who I'm talking about, we had a member a while ago who lives in the South America area, maybe Central, whose family was in the coffee business. I was searching high and low in all my inboxes, and they must have deleted our thread, but I could not find you. 
+
+I'm looking for that person if you know who I'm talking about. Shoot me a DM, please. Let me see. 
+
+I didn't get any questions and DMs. Oh, everybody should have all their coins and their refunds from the Smart Wallet transfers. I think we have every single person now. 
+
+If you don't, please reach out ASAP. Also, make sure you do transfer your funds out of Smart Wallet. If you haven't already, you will lose access to those funds.
+
+(4:51 - 5:26)
+Then, also make sure you have your Expert Wallet seed phrase written down, and make sure maybe you download something like Trust Wallet to punch that seed phrase in just so you know you have access to those funds. I know a few of you before have spelled something wrong or forgot a word, something like that, because even your Expert Wallet, you are going to lose access to that through the app. Make sure you have that seed phrase written down.
+
+(5:26 - 8:22)
+Safe place. Fire safe probably is a good idea. Again, probably test it out in something like Trust Wallet just to double, triple check. 
+
+Let's see. Devs won't eat the bugs. Why? Poor things. 
+
+Looks like AutoSwap was turned back on today. Is that correct? Yes, it was. Also, if any of you have ordered stickers, also reach out. 
+
+I did find two of your orders in my emails today because a partner was saying they're not receiving our emails. Does anybody else use Proton have issues with that? Because now I've had two different partners say they're not receiving our emails, but I do have two orders of stickers to send out. One in Arizona, one in Louisiana. 
+
+If you're not one of those and you've not received your stickers, please reach out. Anything else? There's a burn schedule to continue, not while we're getting funds together for our partners. Can you tell us at what point is the AutoSwap triggered? It is set to 1 million tokens.
+
+(8:24 - 12:51)
+1 million PPI. Oh yeah, did you guys see the Polygon scan? It's a nice little update. Looks very nice. 
+
+I already did share with you guys that the PatriotPay did rebrand, so that's great. I saw 132 million transfer yesterday. Care to share what that was? That was somebody's smart wallet funds. 
+
+In the new version of the app, during testing, will we be able to send Ethereum to the app to convert to PPI? I have someone around that is burning a hole in my pocket and don't want to rack up a bunch of pieces. Yes, the app will have Ethereum on Ethereum. So if you have Ethereum on other networks, that won't work because the only Ethereum currently that the app will have is on the Ethereum network. 
+
+We'll definitely be able to do that. But it might be cheaper for you to just do it in one transaction through ChangeNow. Even if you want it to go into your new app account, I would try entering my ChangeNow to send it to your new PatriotPay app address. 
+
+But it might be cheaper for you gas fees-wise to do that. That way you're only sending it one time because if you send it to the app, you're going to be paying gas there to send that Ethereum and then you're going to be spending gas when you swap it into PatriotPay. And then that second time swapping it into PatriotPay is going to be using ChangeNow when you could just start out and just do it on the ChangeNow or on the PatriotPay website. 
+
+I hope that makes sense. Save you, especially during times of the day that gas is expensive. When the burn is completed, is there an estimated amount that expected to be burnt? No clue. 
+
+Should be pretty close, but whatever we need to spend to get everybody onboarded should be pretty close. And again, what we burn or doesn't burn isn't gonna impact anybody's value in their wallets, especially when they have 1% going to LP. And I have Ethereum and TrustWallet that I want to swap to PPUY, waiting to do it in the app.
+
+(12:54 - 13:33)
+Yeah, so the same thing for you, John Doe, that I said just a few minutes ago would probably be even if you want it into your PatriotPay app wallet, wait till you get that address and I would do it straight on either the ChangeNow widget that's on our website or on the ChangeNow website. That way you're not paying gas fees for Ethereum twice. I wonder if they sell those coins.
+
+(13:36 - 17:43)
+I don't think we had a problem with that before though. Or if they do, hopefully we're so high enough. But no, it shouldn't be that much difference. 
+
+We're not giving partners billions or hundreds of millions of coins. Definitely let me know if you've not received your PatriotPay that was in your smart wallet. Everybody else, you definitely 100% have received it. 
+
+If you had PatriotPay in your app and don't see that, please reach out. Also, if you've transferred funds out of your smart wallet, DM me so I could refund you the tax. This does not apply if you transferred your funds outside of these few weeks. 
+
+Please keep that in mind. So it doesn't apply if you've decided to transfer, you know, your PPUY months ago or last year or anything like that. Is there a plan date to start marketing buy on social media? There's not a plan date. 
+
+I guess that's once our app is functioning as it should. We can't start marketing with a broken app. Will the onRamper be buying their coins soon? No, the onRamper will not be buying their coins. 
+
+Doesn't work that way. So will the onRamp work differently than Transac? Yes. Did the dev give a time estimate for the swap to Polygon? He did.
+
+(17:43 - 20:04)
+Okay. Has anyone asked why the socials stopped posting yet? Sorry, I was late tonight. That's been a while. 
+
+And yes, the socials have been concentrating on actually replying to DMs and comments instead until we're back to marketing. Could you please give my seed phrase storage startup a plug? I literally take direct payments. Boy, who won last Friday's? Oh, let me see. 
+
+I have it. I have it somewhere here. It was number 27, which was the second buy, which I think I had to be one of you guys that was on voice chat because I'm pretty sure I remember a few buys while we in the wallet ending in 9785.
+
+(20:07 - 21:58)
+Who's that? Who dat? Which one of you is that? Actually, I'll send it right now. Was that one of you listeners? What address? Ends in 97E, like elephant, five. And it was the second buy after we announced the contest. 
+
+They had one entry, bought 100k. Who was it? Which one of you was it? And your prize is sent. Mike says damn so close. 
+
+Any reservations about other PPI pools being created? Nope. That's definitely been in discussion. Yeah, definitely something we've looked at along with gold.
+
+(22:02 - 22:47)
+But anytime all these ideas come up, I say, okay, let's let's get this out first. The survey contest was JV, I think. I think we announced that last week and he did get his prize.
+
+(22:47 - 25:11)
+If you have an issue with these, you got to go to Stacey. Gold of 20th century. Fact, gold. 
+
+But what's nice is just like splitting up the tax percentages, there's not really a limit to how we diversify that. So the auto transfer set at 1 million, how will that affect the price? It'll help by not having big sales, yet still funding operations and the LP and the community charity. So should be great to keep price from fluctuating too much. 
+
+And then again, still adding to the LP, and then that way we can still pay people. Auto transfer more from where to where? Auto transfer from the Patriot Pay contract to the LP, the community and charity wallet, and the operations wallet. 611.
+
+(25:31 - 26:49)
+Stacey is laughing. I do. Stacey does the hard work of putting the list together, which is the newest buys number one. 
+
+And then that way I don't look at any of the names or and she tells me how many numbers there are. And I put it in my Google random number generator. And then I go to the number and I try to find out who it is. 
+
+But I feel like the last few times, I wasn't sure who the winner was actually. Do another contest. Contest should we do? Does anybody? Someone has to remember. 
+
+Maybe not maybe because I'm pretty sure the conversation was in my DMs. But if anybody else knows who the coffee roaster was, in our community, please reach out. There was somebody that was around a while ago, but I always forget screen names when you guys go in and out and make all kinds of vaults.
+
+(26:54 - 27:19)
+But for the contest, we could do, we can either do a buy contest or we could do a creative one. But I feel like when more recently we've done, we've asked or offered the prize to anybody that gets like a social media or, you know, YouTuber or influencer to mention us. I think that's ended with no winner.
+
+(27:24 - 27:39)
+So testing this week, this weekend, I am not giving you guys deadlines. We're not doing that. But I will let you know once it's ready.
+
+(27:41 - 27:49)
+For you all to test. You know what, though? I did see this video. Pretty sure it was on Instagram.
+
+(27:50 - 28:01)
+The pilot, somebody had recorded when the pilot said, I'm not feeling it. So we're not leaving. And I hear some lady in the background being like, what? And I was like, that, that's all you guys.
+
+(28:02 - 28:25)
+That's like when the devs like no. And some of you are the what people like what you want to get killed. The pilot said he's not feeling it. 
+
+I'm going to trust that. So the dev and the advisor are the pilots. And you guys are the what people in the background, some of you.
+
+(28:46 - 29:33)
+I know, I'll do another survey. For your favorite coffee. Home coffee, like roasted coffee.
+
+(29:34 - 30:14)
+Do you guys listen ever? When is Bannon? What is what is Bannon? When is Bannon going to rapidly grow the community? Can't grow the community when the app is not functioning. I don't think that answer has changed for probably a year now. Maybe more.
+
+(30:16 - 31:25)
+Still the same answer. Okay, that was funny. Oh, boy. 
+
+What else? The testing is it for the login? The testing, yes, is for the new wallet creation. And the wallet generation. And for everything inside the wallet once you are signed in.
+
+(31:28 - 31:59)
+Different transactions and being on the polygon network now. So we won't have to deal with the crazy gas of the Ethereum network. And once you guys test that, we will and then we while you test that devs are working on some other additions.
+
+(32:01 - 33:53)
+But as soon as you guys start finding bugs, they'll start working on those. And then once everything is working smoothly there, with no bugs, we will then deploy the onRamper version with our new onRamper. Have you all test that and repeat the same thing. 
+
+Have you all find the bugs. And the devs fix those until they're good. Until everything's functioning as it should with no major bugs. 
+
+And everything's functioning correctly. By the way, do you guys know anybody that works for Telegram so I can get out of Telegram jail? It's kind of annoying because a lot of the crypto based stuff. I mean anything. 
+
+Web3 really. The main contact or the quickest form of contact is usually on Telegram for these companies. And I'm not allowed to message any of them first.
+
+(34:32 - 34:47)
+MP, I feel like your questions are like trap questions. I feel like if I was a guy and I had a wife, these are the questions she'd ask me. So she could bring them up later and use them against me.
+
+(34:51 - 36:37)
+Time's a wasting. Crypto about to make a massive move. We are so early. 
+
+So early. When we have to make educational videos on what is crypto and what is a blockchain. And how does a blockchain work? And the video consists of us like explaining, you know, in the way that the video does. 
+
+Like a blockchain is like a digital notebook. Then that's how you know we are very early, especially for the conservative world, specifically for our target audience. But really, sometimes I think we are like in our little bubble where we think like, oh, everybody's bought some sort of crypto. 
+
+And then once you're like in the public, and you tell people that they don't ever like, they have no clue what that is. How are the videos going? Awesome. I'm most excited for our first launch video. 
+
+I think that should be good. They're not trap questions, just trying to understand what is coming and when it's likely. Would you like me to prove the videos? I feel like we need like somebody's grandma to prove the videos.
+
+(36:40 - 37:03)
+Because that way, she can tell us if if she's if grandma's still confused if she's still like, okay, that still doesn't tell me what crypto is, or that still doesn't tell me what a all for his glory. You're not though. You have you own crypto.
+
+(37:10 - 37:31)
+You're a lot more crypto savvy than the average grandmother, I would say. If my mother in law can understand the videos were set. All right, that might be a heavy sign and NDA and if you're serious.
+
+(37:38 - 38:23)
+I'm serious to anybody that hasn't lost patience is a saint. This is absurd. I mean, really, it's not what's absurd that we're alive still. 
+
+While every other altcoin is dead. I've seen some of y'all in the coins, some of y'all tried to come up with probably run a list of what the longest or how long the last the longest one lasted. My dad still asked what the start button is a window. 
+
+So yeah, my mom does too. And my mom is very young. Like my mom is as old as some of you are.
+
+(38:34 - 40:08)
+My name is June and computer disabled. All right, we'll send the videos to June to tell us I mean, that actually may not be a bad idea. Send the creator a message. 
+
+What is this? Oh, it's a telegraph. Patience is the difference between crab alcohol and 18 years ago. So we have to wait 18 years now. 
+
+I think again, we can easily really any everything we've done. Specifically in the last year and a half, we could have done a lot quicker. Had we not wanted a an excellent product and not just band aid band aided every issue that popped up.
+
+(40:11 - 40:36)
+Yeah. So as much as we love you all. Our current number of holders is very small in comparison to what we are trying to build and what we have built so far.
+
+(40:38 - 42:53)
+So that will always take priority. Again, that's been think I've said that probably for more than a year now. Is that it'll take priority again to do what's best and build a foundation, which believe it or not, is exactly what we're still working on. 
+
+Even as far as the app goes. Are we planning on releasing Roadmap version 2.0? No. Will there be foreign transaction fees with the new onramp? That will depend. 
+
+Yes and no. You will have you will have many options to see. Let me see my last transaction. 
+
+It's pretty cool, though. The dev also added for something something for you guys to be able to use like your little thumbprint to log into the app, which is really, really cool. So far, that's only going to be available on your desktop until we're waiting for an update.
+
+(42:55 - 43:53)
+Once the update comes through, then it'll be available on your phone, too. But it's really cool. So multiple onrampers, patriots in every country using people. 
+
+Yeah, we should be. Our new onramper should work virtually anywhere. But if it doesn't for you, let me know.
+
+(45:10 - 45:59)
+Contest. Do you guys want to do a buy contest or you want to do a a buy contest or a survey contest? Mike says buy. He's the first one to answer. 
+
+Buy it is. We'll do the same ones last week. One hundred thousand P.P.Y. is one entry.
+
+(46:00 - 48:12)
+To win five hundred P.P.Y. one winner. Midnight Eastern gives you like a little bit less than three hours. That's everything I got. 
+
+But if you guys need anything else in the meantime, however, again, please get your funds out of Smart Wallet. If you have transferred your funds, make sure you DM me to get your refund for that transfer tax and then make sure you transfer initially your funds out of there. If you haven't, if you did have P.P.Y. in your Smart Wallet, that's no longer there. 
+
+Please contact me with your Smart Wallet address. And then if you know anybody, that's probably the most important part. If you know anybody else that had the FJB app at the time, please have them reach out so we can check to see if they have funds in their Smart Wallet. 
+
+Again, you do risk losing your funds. Make sure if your funds are an expert wallet that you do have that seed phrase written down, too, because you will no longer have access to that after the update. So please make sure you do that. 
+
+Get everything off the VESS system there. Very excited. The gift cards are beautiful. 
+
+The login account creation process is beautiful. Your grandma can do it. Nothing complicated.
+
+(48:14 - 48:37)
+Nothing confusing. I will let you guys know. Maybe I might have a surprise voice chat sometime this week. 
+
+I will let you guys know. We'll announce that. If that happens, I'll have you all start testing.
+
+(48:38 - 49:10)
+I will keep you updated either way if I have an update before Friday. That's it. That's all I got. 
+
+Definitely transfer your funds out. Again, I have found two sticker orders. So if you're in Arizona or Louisiana, then I got your order. 
+
+I mailed that out. I think that should be everybody. I'm one of those people with thousands of emails, so I don't ever delete anything and I feel like I would have found them.
+
+(49:15 - 49:29)
+So, yeah, let me know if you need anything else. I will post the contest right now in case you want to enter that. And I'll get the recording up in just a few minutes.
+
+(49:30 - 49:31)
+You all have a good night.

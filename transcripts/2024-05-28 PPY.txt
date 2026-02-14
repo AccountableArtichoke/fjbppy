@@ -1,0 +1,1129 @@
+(0:01 - 0:33)
+This weekend, for those of us in the U.S., thanks to everybody that gave their lives for us here. And their families. I know several of my friends.
+
+(0:33 - 0:50)
+Actually, I just thought about a friend I forgot to reach out to yesterday. Yeah. I hope everybody is safe.
+
+(0:50 - 1:11)
+I figured we'd get on for our usual Tuesday night. But our devs should be wrapping up the rest of the bugs. Let's see.
+
+(1:17 - 1:33)
+It should be by the end of today, but I'll keep you all updated. The latest update was pushed live on Sunday, I think. I think some of you saw in the chat.
+
+(1:37 - 2:01)
+The main one on there, the main update was users being able to export your private key. So just keep in mind, I would do that just to be safe. And again, that private key is for your expert wallet.
+
+(2:02 - 2:27)
+Your expert wallet is used to sign for your transactions, for your smart wallet transactions. So you won't have, just like the old app setup, you won't have two different seed phrases or private keys. It's just one.
+
+(2:30 - 2:41)
+Yeah. Let me know if you have any questions there. Definitely make sure you write down that private key.
+
+(2:42 - 2:45)
+Write it down. Keep it somewhere safe. Don't lose it.
+
+(2:45 - 3:02)
+Don't share it with anybody. There's several notices there for you to sign off on before you can reveal your private key. So hopefully nobody misses that.
+
+(3:03 - 3:13)
+Again, I'll never ask you for that. Admins will never ask you for that. No kind of support will ever ask you whether it's pay-to-pay, trust wallet, MetaMask, any of that.
+
+(3:16 - 3:36)
+So, keep that in mind. Again, there's several pages you have to go through before you get that revealed to you. So hopefully, I know sometimes you just want to get through it, but hopefully you stop at one of those.
+
+(3:37 - 3:55)
+Make sure if you know anybody who has the app but doesn't come on here for updates, make sure they know that too. Just good to have, even though it is very, very easy to sign into the new app. Let's see.
+
+(4:00 - 4:15)
+You guys did find some other bugs this weekend. Of course, we did add those to the list too. Our transaction bugs are also still being worked on.
+
+(4:16 - 4:35)
+I will let you know. It should be a lot better now. You should be experiencing them less frequently for those of you that are still testing the app, but we haven't done away with that error, i.e. 100%.
+
+(4:35 - 5:02)
+So I'll keep you updated on that. Let's see. Still getting folks who are trying to access Coins With Me old app.
+
+(5:02 - 5:35)
+Reach out to me if you know anybody dealing with that. With the devs finishing Bugs Fixed today, what's the next step planned? They'll go back to working on the transaction issue. The transaction error that some of you are still experiencing sometimes.
+
+(5:56 - 6:31)
+Let's see. I'll balance an account. Looks like you guys didn't tell all your friends.
+
+(6:34 - 6:51)
+Okay, we'll get back to that. Is there an estimate or goal date to start social media marketing? But we need to have the app ready. Yeah, soft launch will be once the app is ready.
+
+(7:03 - 7:34)
+What does the next seven days look like? Next seven days we'll be working on the transaction error the devs, well, you guys are receiving. After this list of bugs is complete, we'll start having you all test as soon as that's complete. Whether that's in the next seven days or whenever it's completed.
+
+(7:34 - 8:20)
+To see what other errors you run into or what other bugs you can find while the devs work on political donations. What if we don't have any friends? Well, then that's good. Then I guess you didn't have a job to tell anyone.
+
+(8:21 - 8:43)
+But I'm still receiving emails about folks asking about why their balance is showing up zero in the app. This is also why it's important for you all to sign up for our mailing list. And also make sure everybody you know that has the app or holds any Patriot Pay signs up there.
+
+(8:44 - 9:00)
+So we're not saying that to just try to grow our mailing list for marketing purposes or anything like that. It is just to keep you all updated. So especially for those that don't come in here, check the chats, read announcements, etc.
+
+(9:01 - 9:28)
+We did have to delete our old list just because of the open rate and just the way the algorithm works. Basically, we would get permanently banned from the mailing service if we sent out another email and had the same stats on that email. So we have no choice to delete the list, start over.
+
+(9:30 - 9:48)
+But we really need you all to get that list to everybody you know that has the app or holds. So that we can update that way so that it's less of a headache for me and you guys. I don't imagine that you love seeing the same messages in the chats.
+
+(9:53 - 10:08)
+That will be nice eventually. We'll also add pop-ups in the app itself and push notifications. But of course, within due time.
+
+(10:10 - 10:26)
+Will adding another dev help things move faster? No, absolutely not. There's not really... Can't have too many cooks in the kitchen. That's proved to be a disaster before.
+
+(10:34 - 11:00)
+Let's see. Our devs have been amazing though. You guys have been great at catching a lot of bugs actually with different devices and stuff like that.
+
+(11:00 - 13:01)
+That's been very, very helpful. Oh, it is quiet tonight. You said there was... Oh yeah, actually.
+
+(13:02 - 14:08)
+Let's see. Let me go to the contest after the voice chat. Because I know there was one of you that split your buys.
+
+(14:09 - 14:33)
+You had to get two buys in to make it one entry. I just want to make sure you're included. And then we'll go through that.
+
+(14:41 - 15:04)
+We still have three draws to... Uh... I don't remember now to be honest. Let me look in the contest channel. So we have the Tuesday one.
+
+(15:07 - 15:23)
+Yeah, I think the last one... Oh yeah, because the last one I think I sent to was the one winner. Which won both. So we should have one, two, three winners.
+
+(15:27 - 15:45)
+I just got to make sure that for one of them... I know who DM'd me. I just need to go back to their DM and see which contest it was for to make sure they're entry. Because the app was... The app was glitching on them.
+
+(15:45 - 16:01)
+So I think they said they needed to split it into two. So I just want to make sure I count that in in the right spot. Include it in there as soon as... Some of you have been really curious over which wallets have been the winners lately.
+
+(16:01 - 16:17)
+So I'll make sure to paste it in there. It'll also be a nice reminder that we did send the post. Uh... Can you go into more detail about the marketing plan that was agreed with you? And the weekly slots, etc.
+
+(16:17 - 16:26)
+I cannot. I'm sorry. As soon as I can share any of that information, I will.
+
+(16:27 - 18:47)
+But... Also... Yeah. What is the estimated time by the devs to implement political donation functionality into the app? As soon as... That's what is first priority. As soon as the bugs and transaction errors are taken care of in the app... The devs will be focusing solely on the political donations.
+
+(18:48 - 19:05)
+Which really shouldn't take much at all. It'll be just like our... Very close to the way our education page was set up. Yeah. 
+
+Should be. In our marketplace. Pretty straightforward.
+
+(19:05 - 19:11)
+I don't want to jinx it and say that. Because I feel when I say that it's when we run into crap. But it's very straightforward.
+
+(19:11 - 19:19)
+We already have the VIP donation wallets already written. And the smart contract. We already have that.
+
+(19:21 - 19:37)
+Yeah. And that's what will be used for political candidates. Um... Oh.
+
+(19:37 - 19:56)
+I already saw that. When will the influencers begin? As soon as the app is ready. I don't want... There's no reason to advertise it.
+
+(19:56 - 20:03)
+Take this then. But I'm just going to be dealing with... Tickets all day. And unhappy customers.
+
+(20:03 - 20:13)
+And people being pissed off. There's literally no reason to do that. Defeats the purpose.
+
+(20:16 - 20:20)
+By the way. First world problems. I asked for heavy cream on my coffee.
+
+(20:21 - 20:30)
+And that definitely is not heavy cream. I think it was actually... Half and half. Very bummed.
+
+(20:30 - 20:55)
+And I'm not driving back out to get it again. It's like 104 today. Does social media advertising start after transaction bugs fix? Or political donations implemented? I think we can start as soon as... Transaction bugs are fixed.
+
+(20:56 - 21:08)
+We'll have do all test. Which includes the stress testing. We'll have you all... Just give you more detailed testing to do.
+
+(21:08 - 21:21)
+And make sure you're all doing it at once. To make sure we stress test it. And then start... Again.
+
+(21:22 - 21:34)
+We'll be starting super slow. So that should really not have any impact. The major influencers... I think will definitely start up after political donations are added.
+
+(21:35 - 21:49)
+Because that's... That would be a great selling point. While we're on that. The biggest part of the political donations development.
+
+(21:50 - 22:04)
+And what will take the most time. Is just... Dealing with the legalities of that. The $50... Maximum per candidate.
+
+(22:04 - 22:11)
+For anonymous donations. Once it does get there. We'll get the details of that worked out.
+
+(22:11 - 22:16)
+But other than that. Like I said. The sort of wallets.
+
+(22:17 - 22:23)
+Excuse me. That... Political candidates will have. That everybody will donate to.
+
+(22:23 - 22:32)
+Already written in smart contracts. So that's all there. To make everything much easier.
+
+(22:34 - 22:43)
+But as far as... The $50 limit. For anonymous donations. We have a few options for that.
+
+(22:43 - 22:54)
+And even that. We can... Adjust as we grow. I'm not sure.
+
+(22:55 - 23:06)
+I'm sure at least some of you are familiar. With companies that... When they did start. Started very... Small.
+
+(23:07 - 23:15)
+And granted we don't want a... Clunky app. But it's not going to have every feature. And it's not going to be every feature.
+
+(23:15 - 23:31)
+We ever dreamed of on day one. We'll continue... We'll just continue... Updating the app. And as... As everything evolves.
+
+(23:31 - 23:41)
+As blockchain evolves. As the political landscape evolves. As our user demographic evolves.
+
+(23:41 - 23:47)
+You know. Once we get our feedback. Once... There's so many factors there.
+
+(23:47 - 23:52)
+So that's something. We'll continue. We will continue working on.
+
+(23:52 - 23:56)
+And continue adding features. And perfecting it. In many ways.
+
+(23:56 - 24:03)
+But for now we just need it to. Have the basics work well. Enough that.
+
+(24:04 - 24:08)
+It functions. And that people aren't getting frustrated. And that it is just user friendly.
+
+(24:09 - 24:13)
+And easy. If I download this app again. I think we talked about this last time.
+
+(24:13 - 24:19)
+Or the time before. And it's already given me errors. Who's going to go on the website.
+
+(24:19 - 24:25)
+And email me. Or get on the website and say. Let me join discord or telegram.
+
+(24:25 - 24:29)
+To ask questions. My grandma isn't going to do that. My parents aren't going to do that.
+
+(24:31 - 24:37)
+So. We just want a. Functioning. Easy to use app.
+
+(24:39 - 24:45)
+It's not going to have. Every feature we ever dreamed of. We just got to get it.
+
+(24:45 - 24:50)
+To that point. To start marketing it. And then we'll continue.
+
+(24:51 - 24:58)
+Working on it. I know some of you dealt with. Trust wallet last week.
+
+(24:58 - 25:03)
+For several days. I had dms for several days. How is this still not working.
+
+(25:03 - 25:09)
+Trust wallet is huge. They've had several updates. Like this.
+
+(25:10 - 25:30)
+Throughout just the last few years. Has any politician. Has any politician.
+
+(25:31 - 25:40)
+Agreed to accept ppy. Yes. I need to actually reach out.
+
+(25:40 - 25:47)
+To several more. I just discovered this. By accident with my face.
+
+(25:47 - 25:52)
+But on IOS you can click. Sarah's name in the voice chat. And increase her volume.
+
+(25:52 - 26:02)
+I try to be very. Loud. On these voice chats.
+
+(26:02 - 26:09)
+Because I'm always. Getting yelled at. For being too quiet.
+
+(26:22 - 26:26)
+Is it true. Robert De Niro wants to use ppy. From Gitmo.
+
+(26:26 - 26:39)
+Oh my gosh. Do you think. We'll be able to start marketing.
+
+(26:40 - 26:51)
+In quarter 2. I think so. I guess I should say. Depending on.
+
+(26:52 - 27:02)
+If you all find. Major bugs. There's several.
+
+(27:03 - 27:11)
+Going from our history. Major bugs we've dealt with. With volume.
+
+(27:11 - 27:16)
+In the past. Have been. Or have included.
+
+(27:17 - 27:28)
+Wallet creation. And wallet. Wallet creation.
+
+(27:29 - 27:33)
+And just signing in. Period. And I've not had.
+
+(27:35 - 27:38)
+One ticket. One dm. One email.
+
+(27:39 - 27:43)
+That involves. Wallet creation. Or sign on.
+
+(27:44 - 27:49)
+This time around. Which is great news. I think that's easy enough.
+
+(27:49 - 27:56)
+I think any dms I've received. Have been people just not realizing. That they actually just created an account.
+
+(27:56 - 28:01)
+And even that. We should have the update again. Early this week.
+
+(28:02 - 28:07)
+Of the updates. On signing in. It was super annoying for me.
+
+(28:07 - 28:11)
+To have to enter my email. Every single time. Granted I'm logging into the app.
+
+(28:12 - 28:16)
+Probably more times a day. Than the average person. But it's super annoying for it.
+
+(28:16 - 28:21)
+To not either auto populate. Or drop down menu. So that'll be added.
+
+(28:21 - 28:25)
+And I think that'll be. Again super helpful. The easier we can make it.
+
+(28:25 - 28:31)
+For users to get on the app. The better right. I know some of you are crazy.
+
+(28:31 - 28:37)
+For signing on like 20 times a day. But that's what we want right. So.
+
+(28:39 - 28:43)
+There's that's. You know from the past. That's one of the major bugs we ran into.
+
+(28:43 - 28:48)
+That we have had no issues with. So far. So that's great news.
+
+(28:49 - 28:55)
+Another issue we've ran into. In the past was the. Transaction errors.
+
+(28:55 - 29:01)
+Now this has to do with of course. Because we have the change now API. And then we also in the past.
+
+(29:01 - 29:08)
+Had like the transact. Disabling user accounts left and right. And we haven't had.
+
+(29:09 - 29:15)
+That issue. As far as you guys. Getting your accounts disabled.
+
+(29:16 - 29:23)
+Sorry give me a second. Let me get this. Oh vman I haven't seen you for a while.
+
+(29:24 - 29:31)
+So. As long as. We start getting you all.
+
+(29:31 - 29:36)
+Stress testing. With the transactions. And can get the transaction.
+
+(29:36 - 29:41)
+Issue mainly. Figured out. The rest of the bugs have been.
+
+(29:42 - 30:28)
+A piece of cake. Yeah. Where did we go? My phone.
+
+(30:29 - 30:35)
+Can you guys. Move out the educational videos. The border blends in.
+
+(30:36 - 30:40)
+With the background. Good idea. Thank you.
+
+(32:53 - 32:59)
+How many educational videos. Are now complete. I don't have that off the top of my head.
+
+(32:59 - 33:17)
+Actually haven't worked on that. Since last week. I did see.
+
+(33:17 - 33:24)
+Another preview of our. Main video though. This.
+
+(33:26 - 33:32)
+Sunday. And that's looking. Great.
+
+(33:36 - 33:42)
+Political donations are next. Correct. Are they tax free donation.
+
+(33:42 - 33:47)
+Is there 8% attached. So donations will be the VIP. Wallets.
+
+(33:47 - 33:53)
+Which are. Exactly like the merchant wallets. So there'll be a lower.
+
+(33:54 - 34:01)
+Rate and then a. Also lower. Rate for the. Candidate to receive them.
+
+(34:03 - 34:11)
+Lower than 8% on both. What comes after. Political donations.
+
+(34:11 - 34:16)
+Patriot rewards. No. After political donations.
+
+(34:20 - 34:37)
+The educational videos. The way we've moved that around. Obviously.
+
+(34:39 - 34:45)
+Development taking a little bit. Longer than expected. Makes sense to prioritize.
+
+(34:46 - 34:52)
+Political donations. And then the educational. Is desperately needed.
+
+(34:53 - 34:58)
+Because. I think otherwise we'll have to. Hire like.
+
+(34:58 - 35:04)
+Dozens of. Support. So it just makes.
+
+(35:05 - 35:43)
+Sense for us to have. The educational section. Any more businesses signed up.
+
+(35:43 - 35:48)
+Can you give us a snippet of that main video please. I can't. I don't want that to be a surprise.
+
+(35:49 - 35:56)
+As far as the video. I feel like you guys should see it. Before we actually use it for marketing though.
+
+(35:58 - 36:05)
+So once it's complete. Yeah. I think you guys will.
+
+(36:07 - 36:13)
+It is really cool. And it does have. Banners.
+
+(36:13 - 36:19)
+So. So far. And that's using.
+
+(36:20 - 36:28)
+Snippets of. Let's try to see if we can get him. Put new snippets in there.
+
+(36:28 - 36:32)
+But that's using. Snippets from. Times who's already.
+
+(36:33 - 36:40)
+Talked about us. But I think it'll be. I think it'll be a really good one.
+
+(36:40 - 36:50)
+To start off with. So we pay tax when we buy the P.P.Y. Correct. Then you pay tax when you transfer.
+
+(36:51 - 36:56)
+Political donations and then they pay tax. No. Because when you transfer for political donations.
+
+(36:57 - 37:03)
+That's when it. The transfer doesn't auto swap. Right then and there.
+
+(37:07 - 37:16)
+How many times. Can you say snippets. It's with an emoji though.
+
+(37:18 - 37:21)
+I'll see. I'll watch it. I just don't want to you know.
+
+(37:21 - 37:29)
+It builds up the excitement. It's like when you guys found out about the fork. Before the video was completed.
+
+(37:29 - 37:33)
+And it wasn't as exciting. Well for me. I don't know.
+
+(38:01 - 38:21)
+Discord tickets take like. 50 clicks to close a ticket. Oh by the way.
+
+(38:21 - 38:26)
+If you see. Any transactions. In your.
+
+(38:26 - 38:33)
+This goes for your trust wallet. Wallets in metamask 2. Or any other third party. Wallets.
+
+(38:36 - 38:40)
+You'll see transactions. That'll show up in your history. Definitely.
+
+(38:40 - 38:49)
+Don't ever interact with those. Don't interact with those coins. And don't interact with those.
+
+(38:49 - 38:53)
+Wallets. Even if it's showing. That they sent you.
+
+(38:54 - 38:59)
+Or you sent them. Or you know. Even if it's showing any transaction history with those.
+
+(38:59 - 39:03)
+Be very careful. And I never. Like.
+
+(39:05 - 39:09)
+Say you. I don't know. Add transfers.
+
+(39:09 - 39:15)
+Coins to JB. And then he wants to transfer some coins to JB again. Don't ever go into your history.
+
+(39:16 - 39:20)
+To grab that. Address. Again.
+
+(39:20 - 39:25)
+Just be very careful of that. Just because. I think scammers are.
+
+(39:25 - 39:30)
+Seems like they're getting more common. I don't know if it's just because. We're here all day.
+
+(39:30 - 39:38)
+But it seems like it's getting a lot more common. And. They're trying.
+
+(39:38 - 39:44)
+The percentage of those transactions. Happening on each wallet. Or a lot of your wallets.
+
+(39:44 - 39:50)
+Is a ton of transactions like that. Trying to get you. To either send to that wallet.
+
+(39:50 - 39:54)
+Or you know. Somehow interact with it. So just be very careful.
+
+(39:57 - 40:03)
+So. Yeah. And if you have any questions.
+
+(40:04 - 40:09)
+Please don't hesitate to ask. I'd hate to see anybody get. Scammed.
+
+(40:09 - 41:25)
+Just be very careful. Let's say my sister. Bought a million P.P.Y. today.
+
+(41:25 - 42:25)
+When could she expect to be a millionaire? Oh boy. Looks like the android people. Got a nice trust wallet update.
+
+(43:02 - 43:17)
+Add them out of heavy cream too. What else? Oh. 8 DMs from the dev.
+
+(43:17 - 44:07)
+Okay. Let's see. Music just got really loud all of a sudden.
+
+(44:08 - 45:34)
+That's interesting. Let's see. Somebody is DMing me.
+
+(45:36 - 45:41)
+Regarding. Tax on donations. Okay.
+
+(45:41 - 45:46)
+So yeah. So the. Purpose of.
+
+(45:48 - 45:54)
+Having a lower. Tax on both donations. And using it in a marketplace.
+
+(45:55 - 46:00)
+Using P.P.Y. For donations. Whether you donate it. Whether to an organization.
+
+(46:01 - 46:07)
+Or to political candidate. Or whether you use it in a marketplace. To buy whatever.
+
+(46:08 - 46:15)
+So the purpose is to. Give you an incentive. To use it.
+
+(46:15 - 46:22)
+Versus sell it. And that's why the tax percentage on that. Will be lower than the sell tax.
+
+(46:22 - 46:27)
+Which is the 8%. Also. To give it a utility.
+
+(46:27 - 46:34)
+If we have a utility. Then it is not a security. So.
+
+(46:36 - 46:41)
+And then of course. So this goes. Actually this is starting to go along.
+
+(46:41 - 46:46)
+With what somebody. Typed a few days ago in the chat. That well just because people are going to.
+
+(46:47 - 46:54)
+Download. The app. That doesn't mean they're going to buy P.P.Y. And I understand it's easy to.
+
+(46:54 - 47:00)
+You know just look at it in that sense. But. It's.
+
+(47:01 - 47:05)
+Legally too. There's so many factors that go into this. So legally.
+
+(47:06 - 47:11)
+It's a lot easier. For whether it's somebody who's an influencer. Or whoever.
+
+(47:12 - 47:18)
+To go ahead and promote an app. Versus a crypto. Token.
+
+(47:18 - 47:24)
+We've seen influencers. Get in trouble for that. Unfortunately.
+
+(47:24 - 47:30)
+Mainly due to scammers. Which is totally understandable too. Because you know.
+
+(47:31 - 47:37)
+Obviously you do want to protect. The consumer. But.
+
+(47:39 - 47:42)
+Also. You know. That goes in so deep.
+
+(47:42 - 47:48)
+I'm sure you're all so familiar with it. I'm sure you've looked at lawsuits. And you've.
+
+(47:49 - 47:54)
+Probably seen some of the documentaries. You know. Whether they were trying to make an example.
+
+(47:54 - 47:59)
+Out of somebody or not. But essentially it's the bad apples. That ruin it for everybody else.
+
+(47:59 - 48:06)
+And the reality of it is. It's going to be a lot easier. To market an app.
+
+(48:07 - 48:13)
+Again. Whether it's legally. I mean really for many reasons.
+
+(48:14 - 48:19)
+So that's why. Getting the app. Working.
+
+(48:20 - 48:25)
+And having the app. Provide value. To the average consumer.
+
+(48:25 - 48:31)
+Whether it's the education section. Whether it's just making. Crypto very very easy.
+
+(48:32 - 48:37)
+Versus. You know. Versus other apps or websites.
+
+(48:37 - 48:43)
+That you all use. That more experienced crypto users use. So.
+
+(48:44 - 48:48)
+We start there. We make the app again. Super easy.
+
+(48:49 - 48:54)
+Super attractive. Have the app provide a lot more value. Than the average crypto.
+
+(48:56 - 48:59)
+App provides. And then. Patriot pay.
+
+(49:00 - 49:05)
+Is the first coin you see on there. When you open the app. Then add on.
+
+(49:06 - 49:13)
+You know a marketplace. And add on political donations. People are going to be.
+
+(49:13 - 49:18)
+More likely. To buy this. Than some.
+
+(49:18 - 49:24)
+Coin on. Even an exchange really. So that's.
+
+(49:24 - 49:32)
+That's the purpose. Of having you guys. Of having the transaction.
+
+(49:33 - 49:38)
+Taxes. Be. Lower.
+
+(49:38 - 49:43)
+Than your. Sell tax. But also again.
+
+(49:44 - 49:48)
+To keep that as a utility. Help spread the word. Whether it is a business.
+
+(49:48 - 49:54)
+That is selling their product. Or whether it's a political candidate. That's accepting donations.
+
+(49:55 - 50:00)
+Or organization that's accepting donations. An organization announcing. Our donation.
+
+(50:01 - 50:06)
+Whether it's Steve announcing. Our donation to you know. Political candidates.
+
+(50:06 - 50:12)
+Or organization. Again the biggest part of that. Is just going to be the.
+
+(50:13 - 50:19)
+Legalities of what we have in the app. For that $50. Anonymous.
+
+(50:20 - 50:24)
+Donation. Limit. And there's a few ways to go about that right.
+
+(50:25 - 50:33)
+I mean we could just have you all do a. Checkbox. And basically. Promise that you're not donating.
+
+(50:33 - 50:40)
+From different accounts. But there's also. Ways to have you.
+
+(50:40 - 50:46)
+Verify yourselves. If you are going to make a political donation. And just integrate that into the app.
+
+(50:46 - 50:51)
+So we'll update you. As soon as that's. Complete there.
+
+(50:53 - 50:57)
+As long as. And that's where we'll continue. Evolving.
+
+(50:58 - 51:04)
+As everything around us evolves. But. That's why we've spent.
+
+(51:04 - 51:10)
+So much time. And are spending so much time. Building a good.
+
+(51:10 - 51:14)
+Solid foundation. As long as we have that built. Then we can continue evolving.
+
+(51:15 - 51:20)
+And we can continue building on it. As everything else. Evolves.
+
+(51:20 - 51:27)
+So we can keep up. And I think we've done. A great job at that.
+
+(51:27 - 51:31)
+Starting all the way from the. Smart contact. It's been.
+
+(51:33 - 51:39)
+Crappy. To say the least. Waiting for some things.
+
+(51:39 - 51:45)
+But it's paid off. In the end. Tremendously.
+
+(51:45 - 51:49)
+Because it's made. Things after it. Much easier.
+
+(51:51 - 51:56)
+Versus a few years ago. Where everything would be band-aided. Just to make some hype.
+
+(51:56 - 52:03)
+For the next voice chat. And then all go to crap again. And then just kind of repeat.
+
+(52:03 - 52:09)
+So. It's taken a lot of work. And it's taken some great.
+
+(52:10 - 52:14)
+Brilliant people. But yeah. And definitely a lot of time.
+
+(52:15 - 52:32)
+But I think well worth it. Oh shoot. I didn't see this.
+
+(52:32 - 52:55)
+App support early. Oh actually. Here goes.
+
+(52:55 - 57:20)
+Hold on. I'm almost heading this way. Is there anything involving.
+
+(57:21 - 57:24)
+Bannon. That is new or fresh. Even the words patriotic.
+
+(57:25 - 57:32)
+I think you'd know if there was right. But. I'm thinking.
+
+(57:34 - 57:40)
+We have that. TP USA event. In Detroit.
+
+(57:41 - 57:45)
+And I'm not sure. I'm not completely positive. If we'll have.
+
+(57:46 - 57:51)
+The app ready to market. By then. But I'm thinking.
+
+(57:51 - 57:59)
+It may be. Good. I'm not sure.
+
+(57:59 - 58:05)
+I have to check actually. To see how. Just how busy.
+
+(58:09 - 58:15)
+Steve will be there. Um. I feel like.
+
+(58:15 - 58:22)
+He'll be less busy. Since he's not in DC. But.
+
+(58:22 - 58:37)
+I'll keep you guys updated. Is anybody in Michigan? I feel like we had a few Michigan people here. Not a hate.
+
+(58:37 - 58:43)
+I feel like. There needs to be. An easier way to clean headphones.
+
+(58:43 - 58:51)
+Maybe I'm just too obsessive. Earbuds. Like what the heck.
+
+(59:14 - 59:19)
+Could you do. A take the tour intro. When someone first signs up.
+
+(59:19 - 59:39)
+In the app. What do you mean. By that? Do you mean like a tutorial? Kind of.
+
+(59:40 - 1:00:34)
+Let me know. What day is the TPSA. I want to say.
+
+(1:00:34 - 1:00:39)
+Off the top of my head. 14th. To 16th.
+
+(1:00:40 - 1:00:54)
+Let's see. Yes. The people's convention will be held.
+
+(1:00:54 - 1:01:01)
+June 14th to the 16th. At the Huntington Place Convention Center. In Detroit, Michigan.
+
+(1:01:03 - 1:01:09)
+I hear they have some really good food there. I don't know how much of it is. Syriac friendly.
+
+(1:01:19 - 1:01:24)
+Someone. That's what I use. I just feel like.
+
+(1:01:26 - 1:01:34)
+There needs to be something. Smaller. Somewhat.
+
+(1:01:34 - 1:01:42)
+Into what is where. Okay. To myself.
+
+(1:01:42 - 1:01:54)
+So I can ask you. About what you're thinking. I can't find it.
+
+(1:01:55 - 1:02:06)
+Anywhere. What was that? Can anyone confirm a voice chat? Blah. I really want to use wired headphones.
+
+(1:02:06 - 1:02:13)
+Yeah that's what I use. I always use. The wireless.
+
+(1:02:14 - 1:02:18)
+Headphones. Just like. The smart watches.
+
+(1:02:18 - 1:02:32)
+Make me feel very weird. They make me feel very. What's the word? I don't know.
+
+(1:02:32 - 1:02:45)
+I just feel almost drunk. It's really weird. It probably sounds like I'm making it up.
+
+(1:02:45 - 1:02:59)
+But I'm sure there's other people who. Experience that too. Show them the past key.
+
+(1:03:00 - 1:03:04)
+App gear and videos and marketplace. Standards. Okay.
+
+(1:03:07 - 1:03:13)
+I think I know what you mean. Like just basically. Like a tour.
+
+(1:03:13 - 1:03:20)
+Of the app then. I know what you mean. Like whatever.
+
+(1:03:20 - 1:03:25)
+Website or app or browser. Like chrome updates. Oh okay.
+
+(1:03:25 - 1:03:35)
+To see what's new. I can do that. Actually.
+
+(1:03:35 - 1:03:44)
+Let me bug. Let's see. You use wired? Yes absolutely.
+
+(1:03:48 - 1:04:01)
+Which is annoying sometimes. Like when I'm walking my dogs. My phone in the lap.
+
+(1:04:02 - 1:04:11)
+With like a. Seat belt or something like that. If I'm on the phone. IOS is what I use.
+
+(1:04:27 - 1:04:33)
+I'm sure there's a bunch of people. That experience that. I actually have like two.
+
+(1:04:35 - 1:04:39)
+Might be three now. Two watches. I need to like.
+
+(1:04:39 - 1:04:51)
+Sell or give away. So I can't use them. Oh that's weird.
+
+(1:04:51 - 1:04:59)
+Do you use the ones that come with. Like with Apple. So I have like.
+
+(1:05:00 - 1:05:06)
+Right now I have one. That's connected to my. Macbook.
+
+(1:05:06 - 1:05:09)
+And another one. To my phone. They both work.
+
+(1:05:17 - 1:06:18)
+I did get. An answer for the contest. Let's see.
+
+(1:06:43 - 1:06:48)
+Oh that's what I was doing. Got sidetracked. Something up.
+
+(1:06:48 - 1:06:53)
+For you guys. To withdraw your funds. Let's see.
+
+(1:06:55 - 1:07:46)
+Apparently. Got a mess with the setting in here. Has anybody.
+
+(1:07:46 - 1:07:51)
+Taken the keys off their Macbook. I think I need to. Take a key off.
+
+(1:07:58 - 1:08:03)
+Oh. I have some new. Things for you guys to test.
+
+(1:09:36 - 1:09:40)
+Oh actually. You know what. The lightning adapter.
+
+(1:09:40 - 1:09:46)
+That's funny you say that because. My neighbor. I was looking for one.
+
+(1:09:46 - 1:09:51)
+My neighbor's like don't buy one here. I have one for you. I need to grab that from her.
+
+(1:09:51 - 1:09:57)
+Because I have a bunch of the old headphones. But that's weird. I wonder why that doesn't work.
+
+(1:09:57 - 1:10:04)
+Another thing I wanted was the. Adapter that lets you do like both. The charger and the headphones.
+
+(1:10:05 - 1:10:15)
+Mainly for voice chat. I just need to need voice chat. Whether we move it to getter.
+
+(1:10:16 - 1:10:23)
+I'm not sure. I think we need to have everybody vote on that maybe. First I was thinking.
+
+(1:10:23 - 1:10:28)
+We move it to a completely different. Broadcast. I feel like.
+
+(1:10:29 - 1:10:37)
+It's like one more thing to get on. Then I was thinking. It's between getter and X. I feel like a lot of you.
+
+(1:10:37 - 1:10:50)
+Don't have X. I feel like getter might be like a better. I don't know. Headphones.
+
+(1:10:50 - 1:10:56)
+Sam didn't know they still make wired headphones. But yes. Some of us still have to use those.
+
+(1:10:56 - 1:11:12)
+I am so sensitive to like. EMF's or whatever it is. Although Dr. Courtney Hunt.
+
+(1:11:12 - 1:11:18)
+Says. For those of you. Who don't have any side effects.
+
+(1:11:18 - 1:11:23)
+To them. She says as long as. You practice ketosis.
+
+(1:11:23 - 1:11:28)
+And sunshine. And fasting. Then you're good.
+
+(1:11:29 - 1:11:44)
+But I still can't. I still get the wrong stuff. Wow.
+
+(1:11:44 - 1:11:59)
+On ramper support is on point. Let's see. Ah darch.
+
+(1:13:13 - 1:13:21)
+Oh that's. I was wondering what that meant. All for his glory says no X. I feel like getter.
+
+(1:13:21 - 1:13:29)
+Would probably but there's a big. Crypto community on X. I mean. What if we can get you on to.
+
+(1:13:30 - 1:13:41)
+Retweet something. No I can. I can check out getter.
+
+(1:13:41 - 1:14:00)
+I haven't been on there for a while but. Holy smoke. You guys.
+
+(1:14:00 - 1:14:06)
+I'm looking at you. On ramper. No.
+
+(1:15:09 - 1:15:23)
+They're not going to put that on a motorcycle. No way. Are they really going to put that piece of furniture on a motorcycle? No.
+
+(1:15:39 - 1:15:56)
+Oh my gosh. Is that a lady? Oh. My.
+
+(1:15:57 - 1:16:00)
+Gosh. Oh no. I have to stop watching that.
+
+(1:17:23 - 1:17:31)
+So MAGA candidates have to sign up to accept. Ppy. Will Steve decide who will be on that list? Short list at first.
+
+(1:17:31 - 1:17:35)
+Growing into a larger list. Um. No I think.
+
+(1:17:36 - 1:17:41)
+There's not really much stipulations. We have for anybody that will accept. Ppy.
+
+(1:17:42 - 1:17:50)
+I mean. Obvious. Disqualifications.
+
+(1:17:51 - 1:17:59)
+But other than that. So we have a. Reason to. Yeah.
+
+(1:18:00 - 1:18:13)
+Definitely. Sorry by the way I didn't see that message. What did I miss? Please start from the beginning.
+
+(1:18:17 - 1:18:32)
+Why? That's everything. I will post this with a few notes. Give me a few minutes though.
+
+(1:18:33 - 1:18:39)
+To finish up. With on ramp or support. And then we'll go from there.
+
+(1:18:45 - 1:18:50)
+If you guys need anything else in the meantime. You know how to reach out. Again.
+
+(1:18:51 - 1:18:57)
+It's been added in settings. Which is the cargo wheel. Which is the little wheel.
+
+(1:18:57 - 1:19:03)
+Next to your email at the top of the screen. When you log into the app. Go into that.
+
+(1:19:03 - 1:19:08)
+And you're going to go through the steps. For your. Private key.
+
+(1:19:08 - 1:19:16)
+And you want to save that. You want to make sure it's written down. On a piece of paper.
+
+(1:19:17 - 1:19:23)
+Or. We have something cool actually. That will be added to the marketplace.
+
+(1:19:24 - 1:19:31)
+You guys can use that. And put it somewhere. That's fire safe.
+
+(1:19:31 - 1:19:37)
+And save it. Just in case. Somebody actually contacted me today.
+
+(1:19:38 - 1:19:45)
+They're trying to get into their old app. But. He doesn't have access.
+
+(1:19:45 - 1:19:50)
+To that email that he used. For the old app. With Vess.
+
+(1:19:51 - 1:19:55)
+The account. His email got hacked or something. And he couldn't get in there.
+
+(1:19:55 - 1:20:02)
+Thankfully he had written down his seed phrase. So he was all good. He got into TrustWallet.
+
+(1:20:02 - 1:20:05)
+Added that in. Imported PPY. Easy.
+
+(1:20:06 - 1:20:12)
+Smooth. Because he had saved his seed phrase. Again this is not going to be a seed phrase.
+
+(1:20:12 - 1:20:19)
+This is going to be a private key. So be very careful. And make sure that you.
+
+(1:20:21 - 1:20:25)
+I would make sure to test it. If it were me. To be honest with you.
+
+(1:20:26 - 1:20:31)
+After writing it on the piece of paper. I would go somewhere like. TrustWallet.
+
+(1:20:32 - 1:20:37)
+Metamask. Any of the third party wallets. But make sure you have the correct wallet.
+
+(1:20:37 - 1:20:44)
+If you already have it downloaded on your phone. Then you're safe there. Just be wary of other fake wallets.
+
+(1:20:45 - 1:20:50)
+Pretending to be TrustWallet. Or Metamask. And I would actually enter.
+
+(1:20:51 - 1:20:56)
+That private key. And make sure that it works. And the balance matches.
+
+(1:20:56 - 1:21:00)
+What I have in the app. Before saving that private key. On the piece of paper.
+
+(1:21:01 - 1:21:06)
+In a fire safe place. So I hope that makes sense. If it were me.
+
+(1:21:06 - 1:21:10)
+I would definitely test that. I always do that. If I were you too.
+
+(1:21:11 - 1:21:18)
+Because it would suck if you. Skipped or. I don't know.
+
+(1:21:18 - 1:21:25)
+Some of us are dyslexic. And if you. Skipped or wrote the wrong.
+
+(1:21:26 - 1:21:30)
+Letter or number. And then came. Years later.
+
+(1:21:30 - 1:21:36)
+And found out that you didn't have the correct key. That would be very. Devastating.
+
+(1:21:38 - 1:21:42)
+So do that. Make sure you go in there. If you know anybody that has an account through the app.
+
+(1:21:42 - 1:21:47)
+Make sure you can do that. We wanted to get that done. Asap for you guys.
+
+(1:21:47 - 1:21:52)
+So that you don't forget to do it. I know there are some of you. That have had the other app for years.
+
+(1:21:52 - 1:21:58)
+And come to find out you didn't write your seed phrase down. So I'm saying it now. Do it now.
+
+(1:21:59 - 1:22:04)
+Don't put it on the back burner to do later. Because. You don't want that.
+
+(1:22:04 - 1:22:09)
+Just do it. Will we. Yes.
+
+(1:22:10 - 1:22:17)
+I will post the winner from. Last Tuesday. And last Friday.
+
+(1:22:18 - 1:22:21)
+Tonight. We just got to go through. And the person DMed me.
+
+(1:22:21 - 1:22:29)
+That I was wondering about. We just got to make sure that his wallet is counted. And matched with the correct.
+
+(1:22:29 - 1:22:33)
+Entry number. To make that fair. Then we'll get it.
+
+(1:22:33 - 1:22:39)
+Put it into Google. And I'll post the winning wallets. And send those out tonight.
+
+(1:22:40 - 1:22:46)
+And then we'll do. A contest. I was hoping that we can do a contest.
+
+(1:22:46 - 1:22:51)
+To share the app. But I don't think it would be good for us. To share that yet.
+
+(1:22:52 - 1:22:57)
+So we'll just do another. Buy contest. Do you guys want.
+
+(1:22:58 - 1:23:04)
+Let's see what we did last. Last week we did. 50 on Friday.
+
+(1:23:05 - 1:23:48)
+If you guys want to do 50k buys. Or 100k buys. Alright.
+
+(1:23:48 - 1:23:54)
+First answer says 50. So we'll do 50k. Buy for each entry.
+
+(1:23:55 - 1:24:02)
+And then the prize of. 250k. And then we'll have it run.
+
+(1:24:04 - 1:24:10)
+Let's see. We'll have it run until midnight. Eastern time.
+
+(1:24:11 - 1:24:18)
+Tonight. And then we'll get. A winner.
+
+(1:24:19 - 1:24:24)
+Hopefully. Stress wallet is back and working for everybody. Yeah.
+
+(1:24:25 - 1:24:30)
+Let me know if you guys need anything else. In the meantime. Give me.
+
+(1:24:30 - 1:24:34)
+A little bit. Just because I want to get this. First.
+
+(1:24:36 - 1:24:42)
+And then I'll convert the. Voice chat file. To post with some notes.
+
+(1:24:44 - 1:24:50)
+You all have. A wonderful night. And I'll let you know.
+
+(1:24:50 - 1:24:56)
+If I have any major updates. Before Friday. Otherwise I'll see you here Friday.
+
+(1:24:58 - 1:25:00)
+Yeah. Bye.

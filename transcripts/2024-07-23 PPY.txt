@@ -1,0 +1,103 @@
+(0:02 - 10:15)
+I hope everybody's doing well, hope everybody had a fun, safe weekend. I'm almost through going through all of your DMs, I think I just have a few more, but now I think most of you that I replied to have responded by now, so I'll get that done tonight. Your emails have all been replied to and I think all urgent matters through email have been done or are being worked out. 
+
+If you do have an urgent matter and I haven't responded to you, then please ping me again. If I've already responded to you and we're going back and forth again. We'll have that all settled tonight. 
+
+Let's see, the devs are working on the escrow system and then the change now limits that you've all noticed in the app. I think it was good news truth to get you just the correct error handling when you try to buy more than the swap, when you try to swap more than the limit that change now allows from Matic to PPY. We're also working on change now to increase that limit for those of you who want to swap more than that in one transaction. 
+
+So I will keep you updated on that. The direct on ramp listing, we are waiting on them now for something. Let's see what else. 
+
+That's good. The businesses, all businesses, if you guys have had any of your friends reach out to us. They've all should have heard back by this weekend actually from us. 
+
+If you know anybody that has a business that doesn't have items we already have planned on there, please feel free to reach out so we can add you on there. Again, it's cost right now with the introductory offer. It costs businesses pretty much nothing to be listed. 
+
+It's a pretty killer deal. Let's see. The escrow system for the marketplace. 
+
+So we'll have you all start listing. It's all good to start testing and listing and we'll run a contest for that. But what we'll do for now is have you put your handle, your discord or your telegram handle in your listing just so the buyer can confirm that it is you. 
+
+I'm aware we do have some tests in the community just to make sure that nobody with bad intentions makes an account and starts posting items that you all buy that you never get in the mail. While the devs work on the escrow feature, what the escrow feature will do, super cool, it'll have once the, this is the plan right now with the work going on. As you all know, sometimes we make changes as we're building everything. 
+
+By we, I mean the devs. But as it stands right now and everything we're working on right now is a seller posts an item. The buyer wants to buy that item. 
+
+They send over the payment. What escrow will do is we're building our own smart contract so that payment that the buyer sends does not go directly to the seller. It gets held in the smart contract and then we enter a tracking number into the system for the item that the seller will enter. 
+
+So once the buyer receives the item, they'll then confirm that they've leased it, or excuse me, that they've received the item which releases the payment. Of course, we are considering all the details, including if the buyer say forgets to go in there and confirm they've received payment, that's why we have the tracking number in there. And then of course we'll have it so admin, which is us, is able to manually release that payment. 
+
+That way that protects all of you and make sure that we don't have anybody with bad intentions going on to create an account and have you all send funds that you don't receive items for. And hopefully that again helps keep everybody honest. So that'll be really, really cool. 
+
+Businesses will stay as is. So don't worry if you are a business that's wanting to list your product, you will receive payment right away just because we are manually vetting businesses and making sure that you do have legit business with all the legit licensing before being listed and you probably have a lot more to lose than just taking a payment and not sending an item. The rest of anybody who had the coffee, who tested the coffee pre-purchase before it was ready, you'll get your refunds by the end of the night as long as I have your wallet address. 
+
+If you would like a refund or made more than one payment accidentally before I asked anybody to test, just reach out and give me your wallet address or a transaction ID so I can go ahead and refund you that. Wow, Discord's been really quiet. Oh my gosh, why is Sam tagging me so many times? What else needs to be done until full launch? I mean, you're looking at it. 
+
+I'm assuming full launch, I mean, that answer hasn't changed. How much longer till direct on and off ramp implemented in the app? I think we've already answered that. Not giving a timeline for that. 
+
+Who is the next big influencer promoting PatriotPay? Again, I'll share that with you all as soon as it's live. And we'll continue with our current influencers. And then same goes for the burn. 
+
+Still all the same answers, guys. Has not changed. When will the burn be initiated again? Once we're done paying partners and influencers. 
+
+How many educational videos do we have on deck so far? I think we're still right under a dozen. He's been working on mostly editing just to perfect the last several of those. Along with our labels, which actually should be in shortly.
+
+(10:17 - 11:07)
+We're still on schedule to have both coffee and dog treats by the end of the month as long as the items from our Shark Tank couple was on track to have that by the end of the month. So for the really cool item from the not the coffee or the dog treats, we already have that in. And of course, the company is ready to begin ASAP for the dog treats and the coffee that is just waiting on us to receive those items.
+
+(11:08 - 14:20)
+So as soon as I receive those, they will be ready to mail to you all. But like I said, the party from the other businesses and then the few other businesses just waiting on them. As soon as they're ready, we are ready to get those items available for you all. 
+
+Why pitch to Shark Tank? I don't know if we need. I don't know if we need that. I guess unless there's sharks. 
+
+Definitely not. Mark Cuban did here. Was that today or yesterday? An update on Steve. 
+
+So that's great. Let's see how that goes. It looks like you all still have some friends coming around who have not imported their P.P.Y. Definitely keep sending those over. 
+
+We definitely want to get those taken care of sooner than later. Not that their coins will be going anywhere as long as they have their seed phrase, but please keep that in mind if you do think of anybody. We're still getting a few stragglers here and there. 
+
+So I would like to just get that out of the way sooner than later. If you do think of anybody that you talked into buying some F.J.B. back in the day. That way we can get them access to their coins.
+
+(14:33 - 18:40)
+Oh, I can type it to Sam too. I think that's all I got. Please remember, don't change or share your info with anybody. 
+
+I know somebody who had bought F.J.B. from 2022, I think it was, contacted us through chat today. And when I asked him if he had a seed phrase, he said, yeah, but I'm afraid to share it with you here because X, Y, Z, or he had gotten scammed. So please make sure that just because I'm asking if you have your seed phrase, don't share it. 
+
+Don't share screenshots with me or anybody else. If somebody's asking if you have your seed phrase, it's not because, well, hopefully if it's somebody in the chat, it's not because they want it. They're just making sure you can access your wallet. 
+
+So don't share that with me. Don't share that with any of the other admins. If anybody messages you with my name or other admins, just be very wary. 
+
+We will never DM you first or ask you for money. So just be very careful with that. And then same with your code that gets emailed to you in the app. 
+
+Obviously, don't ever give that to anybody. Again, shouldn't work, but we just don't want you to get in the habit of that. I think our new login system has been amazing. 
+
+Nobody's had any issue. I think it's easy enough. So yeah, we'll keep you updated again right now waiting on the escrow service to be added and integrated into the app, working on those change now limits so that you all have a clear error message and error handling when you try to buy more than change now's limit instead of just telling you that transaction failed and you're thinking that the app isn't functioning, just working on that. 
+
+As far as influencers, we'll keep pushing there. And then with the items coming on to marketplace, along with some merch, that'll also help getting that out to some influencers to also push that. We'll also be sending out a new marketing list that they should be able to fit in still by the end of the month, but I'll keep you updated on that. 
+
+And of course, I'll share that with you all. As soon as it's out, along with the ads on the news network that we'll be doing with the rallies with the rally coverage. Yeah. 
+
+We are as far as the educational videos, we are looking to have at least a few of those posted into the app to get that going. They'll also be posted, of course, to rumble and YouTube. That's all I got. 
+
+If you have any other issues, please reach out. Again, I will get to I'm almost done with the ends. I'm pretty sure I've gone through.
+
+(18:42 - 20:43)
+There's a few at the end of my list and a few of these might actually be scammers that somehow make it into. Let's see. Sometimes somehow make it into my inbox. 
+
+Still a few and I'll get back to all of the replies and your refunds tonight for the contest. We will do again a contest for we'll do another. Let's see. 
+
+We'll do another 500 KPPY to one winner. We'll have it. And at the end of this week and begin right now and it'll be any for each item you list in the classified sections, you get an entry. 
+
+No limit on that. And just list items that you'd want to sell. Just do remember to please include your or your telegram or discord handle just so buyers can verify that it is you. 
+
+I know we've built some pretty good trust here in the community. So that way we just know it's not a random person. And then make sure same thing if you are buying an item, make sure you confirm with that person just until we get the escrow section completed should be completed by next week. 
+
+But again, you'll all know how that goes. Hopefully we don't have any issues come up. But right now the estimate is for that to be complete this coming week when we should begin testing it. 
+
+And then of course, once we test it, we'll open that up for you all to test. Let me know if you all need anything else. In the meantime, but it's been it's been nice.
+
+(20:43 - 21:29)
+Finally, everything's just moving smoothly and moving along. So yeah, that's been wonderful. I will post the recording with the notes. 
+
+I don't know why the music stopped. Sorry. Along with the contest details. 
+
+I'll do that. I'll do that right now. I'm over. 
+
+I think I'm over like my, my surgery streak was just starving all the time. I have to go eat before I posted this. So I'll do that right now. 
+
+Again, let me know if you all need anything else. In the meantime, I'll see you in general chat.

@@ -1,0 +1,407 @@
+(0:06 - 0:36)
+Hope everybody had a nice, safe weekend. It's been, let's see, haven't had a ton of support tickets in through the op support chat or the DMs really. So I feel as far as that goes, not a ton going on.
+
+(0:37 - 0:58)
+If you have DMed me or emailed me or chatted the support, it should all be taken care of. If you haven't, then I somehow missed it. So please make sure you ping me again so I can get you taken care of.
+
+(0:59 - 1:19)
+Our devs have been testing out the escrow function today. We just had some edits to make. So we updated the escrow contract, have been testing that today.
+
+(1:19 - 1:37)
+I will keep you updated on that. Again, it was some security modifications we wanted to make. Just to make sure that users had all privacy.
+
+(1:38 - 2:01)
+Things like tracking, shipping tracking numbers and other info like that. To make sure that those of you who are trackers have absolutely no way of decrypting any of that info. So that's all been taken care of.
+
+(2:01 - 2:21)
+Again, I will let you know how testing goes. So far, just one issue they've been working to solve with the send function and the way that's working with the escrow. So I'll keep you updated on that.
+
+(2:22 - 3:10)
+We have something happening with the gift cards and the way that's transferring. They are taking care of that tonight so I can have some gift cards for tomorrow's rally for Vance. We should be getting a few items for the store tomorrow in the mail if UPS... I think it was UPS. 
+
+Was it USPS or UPS? I'm pretty sure it was UPS. If they keep their word on the delivery date. Let me see.
+
+(3:11 - 3:38)
+Yeah, it was UPS. So I got a text that those should be here. When was it? Not tomorrow, sorry. 
+
+Thursday, August 1st. We'll keep you updated on that. Coffee is scheduled to be here before the 8th.
+
+(3:39 - 4:02)
+I will try to get a closer estimate on that as we get closer. And I think that's all I got. I know some of you noticed that we have the debate topics up.
+
+(4:03 - 4:25)
+But it seemed to cause more issues and hurt more feelings, which is exactly what we're trying. The purpose of it was to make everybody feel better and make a space for people to debate other than the general chat. And it seemed like it upset.
+
+(4:27 - 4:48)
+A person or two and that's not what we want to do. So I went ahead and deleted that. Again, like any other chat and any other business, any other Facebook group, any kind of platform like this.
+
+(4:48 - 5:00)
+You can't go, you know, if you went into the war room telegram and started talking crap about war room. They are going to kick you out. This is not some new concept.
+
+(5:01 - 5:08)
+We're not the only ones who've adopted these rules. You know, this goes for all other cryptos. This goes on.
+
+(5:08 - 5:13)
+I mean, really, for anything I can think of. So just keep that in mind. I've been pretty patient.
+
+(5:14 - 5:35)
+I understand, like, you know, everything we've gone through and you guys have been so patient. But again, a lot of people, a lot of other users and more of the quiet ones have shared their annoyance with that. Again, my DMs are always open.
+
+(5:39 - 6:00)
+So if you have anything like that, please DM me. After you're muted, I don't really have a lot to say in DMs to you. As always, keep threats to yourself just because you're behind the screen on telegram or discord does not mean we can't figure out who you are.
+
+(6:00 - 6:11)
+We can figure out who you are with just a screen name. That's not hard to do. We have the resources to do that if we need to.
+
+(6:11 - 6:21)
+So just, you know, try to understand if you're frustrated or whatever. But let's not do the threats thing. That's zero tolerance for that.
+
+(6:22 - 6:30)
+Like we've seen before. And you guys, you guys are better than that. Let's see.
+
+(6:32 - 6:46)
+What's going on with the marketplace? No more coffee listings. Yes. So when devs, don't worry, I did save, by the way, I saved your text for your listings in case you didn't have it saved so that you can easily go ahead and repost those.
+
+(6:48 - 7:14)
+But yes, the devs had to delete those to test out and implement the escrow function because the way the listings will be listed with the escrow function is completely different. So that's why you will see that the listings are gone as soon as the devs finish that. We will go ahead and repost everything and then I'll send you the text if you don't have it.
+
+(7:14 - 7:33)
+That way you can very easily repost those items if you want to. Sorry about the inconvenience, though. But again, that way, the way listings are handled with the escrow function will be is a lot different than the way it was handled beforehand.
+
+(7:40 - 7:50)
+What's the status of marketplace and the already announced products? I think I kind of just answered that. Coffee availability. Yes.
+
+(7:51 - 8:05)
+Are dog treats next? Yes. We're just waiting on the labels for the dog treats, the packages. And same thing with the Shark Tank products.
+
+(8:05 - 8:20)
+We already have all that. We are just, again, it goes back to the escrow function. That's why we have to delete all the products in the marketplace and the classifieds.
+
+(8:20 - 8:41)
+The marketplace won't have the classifieds section. It was just the way devs just needed that done for what they have to do. What's the status of the on-ramp bugs we got? Sorry, my little old lady dog's in here and she's fluffing her bed.
+
+(8:42 - 9:00)
+She's fluffing her MyPillow bed, the best dog beds, by the way. Sorry about the noise. What's the status of the on-ramp bugs? Still working on that back and forth.
+
+(9:00 - 9:09)
+I think our last interaction was Monday. Wow, and that was just yesterday. I will keep you updated on that.
+
+(9:09 - 9:27)
+Again, that bug is for some of the on-rampers. When you go through the app, it asks you for your Matic address. It asks you to manually enter it instead of automatically auto-populating that, which is definitely a big deal.
+
+(9:31 - 9:54)
+Actually, a really big update is our direct listing. We have completed everything. I think I told you guys a little bit about that, about the contract and everything just needed to be updated as far as what we required with legalities.
+
+(9:55 - 10:16)
+Everything has been approved there. If everything goes as planned, that will be very well less than six months. I will keep you guys updated when that is.
+
+(10:17 - 10:40)
+Honestly, probably once it's live. But yeah, very exciting. You okay? Give me a second, please.
+
+(10:47 - 11:12)
+I have to put my ceiling fan on. Is there any information you can share on what marketing is planned for August? Yes. The plan is definitely for Conservative Barbie to continue posting this weekend.
+
+(11:13 - 11:34)
+This week, she'll also post a contest to get people in our telegram, which is another reason for my rant on just posting the whining. I understand everything's taken long. My patience has been tested.
+
+(11:34 - 11:45)
+I am not generally a very patient person, I'll be honest. My patience is for three things. Really old people, I am more than patient with them.
+
+(11:45 - 11:53)
+Kids, more than patient with them. And animals, I'm more than patient with them. But anything else, like my patience, is non-existent.
+
+(11:54 - 12:10)
+So it's definitely, everything's definitely, you know. It has me practicing patience. So I totally, I get it, I understand stuff's taking longer than usual.
+
+(12:10 - 12:22)
+But this is just, I've just gotten used to, this is how a lot of it works. So we'll do the best we can. But again, you know, the coffee company has this date, then they stretch it out, something happens, and so on.
+
+(12:23 - 12:40)
+As long as we're moving forward, that's all that matters. As long as we have an honest, solid team. And that's going, I mean, all the way from the devs, to the rest of the team, to ownership.
+
+(12:44 - 13:09)
+But, as far as marketing, I'm actually kind of, I don't know if scared's the word. But I'm hoping that our bugs don't, don't impact, like don't have too much of a negative impact on our marketing. Basically just hope it's not a shit show.
+
+(13:10 - 13:23)
+But I think we should be good. So Conservative Barbie will continue posting, and then, oh, that's where, okay, that's where I went on the tangent. Sorry about the chats.
+
+(13:23 - 14:10)
+So she'll post a chat, a contest for the chats, and then Conservative Ant will continue posting again, will resume posting again this month. Which, from his one very short reel last time, we got a huge amount of exposure, and a huge amount of account sign-ups. So we'll continue with that, and then depending on the OnRamper bug, that's really the biggest one, is we'll decide then, I'm assuming that'll definitely be done this month.
+
+(14:10 - 15:29)
+If that goes as planned and is fixed, then we'll go on to the emailing lists, podcasts, and networks. Can you tell us other products that are being looked at? Yeah, actually, I'm assuming this is about the marketplace. Anybody find ProtonMail is so hard, like so hard to search a message in your inbox? Not just me.
+
+(15:34 - 16:19)
+Most of the time it doesn't, it works as well as my freakin' MacBook does to search files, it's so awful. So true, which takes forever. So we have homemade extracts and flavorings.
+
+(16:23 - 17:04)
+We have stained glass art. Organic mosquito repellent. We have metal merchandise.
+
+(17:04 - 17:24)
+Kind of like challenge coins and stuff like that. Pins, keychains. So that's some of the stuff.
+
+(17:25 - 17:41)
+Sorry, my inbox is... Proton sucks at searching. Direct listing quarter three, yes. Should be well into quarter three.
+
+(17:43 - 18:29)
+But again, that's the timeline we're being given by the listing company. And then everything as far as contract-wise just took us a little bit longer with some details there just to protect ourselves basically from the trolls so that the company is well aware of our ownership and our target audience and what kind of trolls we have. We wanted to make sure that everything was in writing to protect ourselves.
+
+(18:39 - 19:13)
+Is there an estimate of when the on-ramper bug will be fixed? I have not received an estimate. It's the on-ramper team working on that and seeing what the heck it's... I don't know if you guys remember. What did we have that was also an issue with the bug? Oh, it was the cameras.
+
+(19:13 - 19:30)
+When you guys had the camera, that wouldn't come up. Was it on Android phones, I think? Office sucks. For mail search, it's worse.
+
+(19:30 - 19:37)
+So strange. So awful. I'll search a name of a person I've emailed and that won't pull up.
+
+(19:39 - 19:47)
+Same thing with a product. I was remembering a name of a business that I was pulling up and it won't say nothing. It's so weird.
+
+(19:51 - 20:13)
+I hope nobody works for Microsoft. I'm sure somebody does. Have ChangeNow fixed their purchase limit? No, I don't think they'll be raising that limit until we bring up volume.
+
+(20:14 - 20:36)
+It's more of the devs working on the changes on our side to let users know that there's a limit versus just transaction failed. So that they don't think it's just a crappy app versus this is your limit. And basically just not allow anybody to put a limit that's higher than the limit.
+
+(20:44 - 20:57)
+Just saying it's kind of similar to what that bug was. Just to clarify, the only bug is the auto-population of the address. Yes, as far as we know.
+
+(20:58 - 21:33)
+If you guys find anything else, definitely let us know because now would be the time. But yes, as far as the whole purchasing, swapping, sending, receiving, all the basic functions of the wallet, the only bug we're aware of is that it's happening with some on-rampers. That's who it's specific to.
+
+(21:33 - 22:09)
+When you go try to on-ramp, it'll ask you for your MATIC address on where you want it to deposit. And the reason that's a nightmare, not only is it not easy, but the issue I had when I was away for surgery was that somebody put in an address, but it wasn't their MATIC address. They went and grabbed, I think it was their Smart Wallet USDT address and plugged it in there.
+
+(22:09 - 22:28)
+So that can turn into a nightmare pretty quickly if we have a bunch of people doing that. Definitely don't want that to happen again. Thankfully, I think it was his bank stopped it so it actually didn't go through.
+
+(22:30 - 23:24)
+So thankfully by that point, he had to contact me through the chat and then I walked him through and I believe, if I remember correctly, he got his MATIC. And it's another thing with that is we hope that OnRamper soon, and we won't have to worry about this too much once we have a direct listing, but we're hoping that OnRamper soon also gives users the ability to select the OnRamper of your choice, kind of like TrustWallet does, instead of just selecting one for you and then you can't try another one unless they decline you. So that's something we're hoping, again, you would think a big company like that already has that, but you've got to realize a lot of these companies are actually not as, you know, crypto is just so new.
+
+(23:26 - 24:21)
+So just as we're growing and adding functions, they are, which is, it's the pros and cons of being one of the first in the space. Gotta take the good with the bad. Where do you see volume coming from? Marketplace or people wanting to purchase the coin? No, for sure, our plan and strategy is more of the coin, but the marketplace is definitely a driving factor on getting a lot of, especially first-time crypto users, to understand what the point is of crypto.
+
+(24:21 - 25:27)
+Like that's, I'm sure if you look at conservative Barbie's posts or conservative Anne's posts, you'll probably see that some of the comments are just so misinformed. So that's kind of why we've also got reversed a bit on the education videos, because we definitely need more of the videos focused on what is crypto and why crypto versus our first set of videos. I think we had one or two videos explaining just the entire concept from the white paper, explaining to somebody that's new to crypto, but the rest of it was more just explaining the tech logistics side of how everything works, explaining that.
+
+(25:29 - 26:20)
+But seeing from the comments that we're getting on social is that we really need to take it even a step further back and start with more videos on educate, because there seems to be a lot of, I hate this term, misinformation. There seems to be a lot of misinformed people that have gotten definitely the wrong idea about crypto as far as like, oh, well, they can shut it off. Just comments like that, where it's like the same person probably has most everything on their phone and probably uses a debit card where they actually can shut off your account in no time.
+
+(26:25 - 27:01)
+The marketplace, like I explained, I think it was in Discord this weekend, to MJ. Why was it church? Was that Saturday or Sunday? Oh, Sunday. So the, you know, and I think his comment was like, we shouldn't be wasting money or wasting time on coffee or dog treats or something like that.
+
+(27:02 - 27:30)
+And again, it's just a little bit deeper than that. And I think I understand a lot of you are very brilliant and very great business owners, but I think it's easy to forget, too, the legalities around crypto and a lot of these platforms and their advertisements on what they will and won't allow. And this just gives us a way.
+
+(27:35 - 28:11)
+And, well, you know, all the other reasons I listed there, too. And it's not, this isn't taking time away from the devs, you know, we're not pulling like a dev away from the basic functions of the wallet to then add, you know, even for the marketplace or even donations. And of course, the basic functions of the wallet will always be highest priority.
+
+(28:16 - 28:57)
+Is there an ETA on the videos? So we had an ETA of last week. That's changed a little bit because we need to add different kind of videos. I think that's critical that we do that so that we're not just blowing through marketing money with people who are misinformed about crypto, digital currency, decentralized currency, you know, however they've understood it, under what terms they've understood it.
+
+(28:59 - 30:04)
+What are the media platforms you'll be using in August? They will be all the ones you listen to that are super conservative, podcasters, shows, networks. We definitely need the OnRamper bug fixed for that. Any progress on Patriot Perks? No, we actually decided to move the priority of that to get escrow done first.
+
+(30:06 - 30:31)
+Figured that would be a better prioritization because we definitely don't want anybody in the community getting taken advantage of. And what I mean by that is just somebody getting on, listing something, somebody sending the money, and be out of money. And that person never gets the item.
+
+(30:36 - 31:15)
+Oh, I made a coffee and I forgot. Shoot. I should also have a legal update for you all fairly soon.
+
+(31:15 - 31:51)
+Like, definitely in this quarter. Will we see any other... Oh, we did hire a dev last night, officially, I guess, this morning. This should work out really well because it should.
+
+(31:52 - 32:15)
+Officially hired, very close to another dev. So yeah, definitely. It's kind of been awesome because this is the longest we've had a dev for as long as I've been here, which has now been well over a year.
+
+(32:15 - 32:35)
+I think this was our... This is the first dev that I've hired that's still here, which is amazing. Feels great. Feels like family.
+
+(32:42 - 33:05)
+Will we see any other influencers on Instagram? Any big names? Yes. That's always in progress, too. MP, your phone rang? You have a voice chat.
+
+(33:05 - 33:23)
+Why isn't your phone silenced? This is important stuff here. My phone rang and I missed a response about Patriot Perks prior to end of quarter 4. Yeah, that should be. Depending.
+
+(33:23 - 33:59)
+Unless we get any... By we, I mean our crypto advisor. Gets any higher priority ideas for functions to add to what we currently have. Because, as you guys know, the space is always changing as it grows.
+
+(34:01 - 34:23)
+And, yeah. An example being, perfect example being, the escrow. Because, you know, that was the best we had, but again, we knew that we'd need... As far as escrow services, third parties, we knew we needed more features that weren't available yet.
+
+(34:24 - 34:49)
+But we figured it's best to actually make our own for the time being, to protect you all. I'd rather do that than have even one person screwed. Legal update, more information, please.
+
+(34:49 - 35:05)
+We'll let you know as soon as I can. The team getting some money from the scam. Long process.
+
+(35:06 - 35:59)
+But I'll keep you updated. We should have some Twitter marketing happen. If we can get this bug fixed, then we'll definitely... Same with the rallies on the networks.
+
+(36:00 - 36:20)
+But again, just really need that bug fixed. Really hoping this week is still early. But again, we don't have the line given as far as that goes.
+
+(36:38 - 37:03)
+My store gummies. Those containers look very similar to... Shoot, I don't have a jar around. I don't know, what's the brand of this stuff? I've bought. 
+
+Let's see. I wonder if it just labels those. Probably, yeah, that's exact same jar.
+
+(37:04 - 37:22)
+Okay. Didn't realize he sold those. I did get a MyPillow robe this week.
+
+(37:23 - 37:32)
+I love my, like, Trump robe. That's, like, my favorite. But I figured I'd get, like, a heavier one.
+
+(37:35 - 38:06)
+While it's... While we're in three digits here. Is there a way to work around the autofill bug? Like, maybe do an auto-closeout? That would have to be from OnRamper. But the issue is, I really just wish... And I know it's coming.
+
+(38:07 - 38:15)
+I really wish they would just let you, like, select. Like, you know, give you three choices or whatever. You know, kind of like Trustwallet does.
+
+(38:16 - 38:29)
+Select your OnRamper. That would, you know, definitely fix it. But they do give you, like, the best OnRamper for your location.
+
+(38:29 - 38:40)
+And for, you know, everything that's you. However they determine that. But, again, really, really hoping on this week.
+
+(38:40 - 38:54)
+So we'll see. I know I've gotten, like, super annoying pinging. But, and again, it's not even the issue of it just being not user-friendly.
+
+(38:55 - 39:17)
+But then having that user who then entered the wrong address, that can get very messy very fast. And thankfully, I think that purchase was 100 bucks. I imagine if somebody purchased more than that, that would be, you know, say it was a first-time user with 100 bucks.
+
+(39:17 - 39:57)
+Like, okay, we're gonna help them out and see what we can do. But definitely can't do that for... Oh, did you guys watch the Project Veritas for the DNC today? That was great. Hi, Bob Black.
+
+(39:59 - 40:42)
+All by yourself. Oh, you're not even there anymore. Just looked at lying in the app.
+
+(40:43 - 40:45)
+Bingsa. Bingsa. Bingsa.
+
+(40:45 - 40:53)
+Didn't automatically populate. Yeah, it's definitely a few of them. And I'm pretty sure it's consistent.
+
+(40:53 - 41:07)
+It doesn't matter on who the user is. It's more consistent on who the on-ramper is. But it's super annoying, kind of defeats the purpose.
+
+(41:08 - 41:34)
+Because at that point, you may as well just go straight to the website versus that way you have a few tabs open versus having to go back after you've already entered all that info. But we'll get it done. And devs should also be rolling out the Change Now update, too.
+
+(41:36 - 42:11)
+I'll let you guys know as soon as there's... as soon as I test some updates and then we push them live. Definitely keep you updated on that. Let's see if I can get closer.
+
+(42:12 - 45:10)
+Time for coffee. So fingers crossed they fix the auto-population. Yes.
+
+(45:12 - 45:26)
+Again, definitely a big one. Yeah, so this week I'll keep you guys updated on the escrow function again. Devs started testing it this morning.
+
+(45:26 - 45:43)
+That's why we deleted the items in Market and Classified, even though it's only going to be used for Classifieds. They just had an issue pop up that they are working on. I will test it after they're done testing it.
+
+(45:45 - 46:04)
+And then if everything's good there, then we'll have you all test it. Rally, hoping they get that gift card issue figured out today because I really don't want to have to do manual gift cards. This way, too, people can just use the app.
+
+(46:05 - 46:26)
+Otherwise, we'll find a way around it, even if I have to just print something that they email me or text me for a gift card. We can do that, too, which actually might not be a bad idea anyway. Speaking of which, I have to check with the devs.
+
+(46:26 - 46:39)
+That way, if that's the case, I'll have to print some of those before 10 p.m. tonight. I think that's when the printing place closes. Anyway, that should be fun.
+
+(46:39 - 46:54)
+I'm curious. I don't think I've ever been to a vice president's rally, at least not that I can think of in the past several years. That'll be cool to see.
+
+(46:54 - 47:02)
+It's quite the field trip for me. That'll be quite a drive. I'll pack up some snacks and beverages.
+
+(47:02 - 47:18)
+Actually, my niece is visiting, so I might take her there. I'm not really sure. I'm pretty sure her Canadian parents are super liberals.
+
+(47:18 - 47:25)
+That'll be nice. I've already given her the Disney lecture. That was a few days ago since she just got back from Disney.
+
+(47:26 - 47:48)
+That was fun. It didn't go all the way in detail because she's still a little bit young, but we went as far as not treating their children, employees, actors well. I think that's all I got.
+
+(47:50 - 47:58)
+Conservative Barbie will be posting either Thursday or Friday. We left it up to her this week. Then Conservative Ant, as soon as he posts, I'll let you know.
+
+(48:01 - 48:59)
+We'll probably do our own emails to probably get our designer to build a new email to send out just to keep testing the email system. I think we had about 1,000 emails go out last time, which is all the app users. That'll be interesting to see how it goes from there because the listings we have on board, the email lists we've looked at are anywhere from 20,000 to 600,000 to 1.2 million, but we can also do them in batches and split them up between different mailing lists.
+
+(49:05 - 49:38)
+I was hoping that I'd get a reply for the coffee, but I'll keep you guys updated on that as soon as we get those and also as soon as we get the packages for the dog treats. We're also waiting on a shirt and hats. We're still waiting on design, so I was going to have you guys vote, but that should be happening this week.
+
+(49:40 - 49:59)
+Yeah, I think that's everything that I got. The dev list. We haven't rolled out the change now.
+
+(49:59 - 50:15)
+We haven't rolled out the escrow. We're going to replace the way the app fetches its prices. That's not really something that you want, but this is what's on our list.
+
+(50:16 - 51:08)
+Next, we'll be adding a social sharing function in the app that'll let you, if you just bought PPY, you'll be able to share that by pressing a button, whether you want to share it by texting somebody or on Twitter, something like that, or whatever, X. Then after that is the Patriot Perks with the points and badges. As far as the direct listing for our devs, that'll be worked in that list depending on the third party, so wherever that kind of fits in. Wherever our devs are at, as soon as we get the green light, that'll be added to our app, which should be super exciting.
+
+(51:08 - 51:44)
+This company is quite amazing. Again, we've made sure that everything is in our contract to protect you all, so that's great. This is a company that's really gone out of their way to make sure they know our entire background, our history, even as far as a lot of our bank accounts and a lot of on-rampers automatically spitting us out.
+
+(51:44 - 52:02)
+Who knows if that's because we purchased something at Cabela's, which they've admitted to, or bought a Bible. They're aware of every little detail. We've made sure to take our time.
+
+(52:02 - 52:24)
+They've been more than helpful. They've bent back backwards and modified the contract and terms, so super, super excited for this. They are also going to work with us to learn the behavior of our users as far as thinking and age.
+
+(52:24 - 52:52)
+I know with Transact, we had an issue of accounts being disabled, and the top issue for that was that a lot of times with activity of not even really old, but to Transact, not a lot of people above 50, and I'm just throwing an age out there. They never actually gave me an age. They just told me the more mature crowd is buying crypto.
+
+(52:52 - 53:22)
+So your account, if you were 50-something years old, and this is one of the examples they gave me of an actual user, is you got your account disabled because they're thinking that somebody is using your account without your permission. So what's awesome about this company is, again, just everything they've already done so far to really help our community. So it should be pretty exciting and definitely a learning experience as we grow with them.
+
+(53:30 - 54:11)
+Is there any updates for more tokens? Yes. The first one, and this is mainly due to our meetings with Bitcoin conference owners that also own the Bitcoin magazine, is to make the Bitcoin in our app a little bit more clear, if you will, just because the way we have it right now, there is Bitcoin, but there's also the wrapped Bitcoin. So that'll be the first one or the first modification to clear that up.
+
+(54:11 - 55:05)
+And then, yes, definitely to add more tokens. Definitely super excited for that. The music stopped, but I got some social media links from a few days ago.
+
+(55:18 - 55:25)
+Okay. Well, I think that's everything I got. I will let you know if I have any updates before the next voice chat.
+
+(55:27 - 55:30)
+Oh, shoot. That reminds me. I need to write this down.
+
+(55:30 - 55:46)
+I keep forgetting to message Stacey about this. So the contest, that's ongoing for the classifieds. Don't add anything right now, please, just because we'll wait for the devs to add that function.
+
+(55:47 - 55:55)
+We will do a buy contest. Let's just do the usual of buy. What were we doing? Let's see.
+
+(55:55 - 56:42)
+What's the price at right now? It just took a second. $100,000 is $30? Sure. So let's do $100,000, buy $100,000, and then for each entry, and then win $500,000.
+
+(56:43 - 57:01)
+And then contest ends Sunday at midnight Eastern. How about that? So again, every $100,000, buy. If you do $200,000, buy, that's two entries.
+
+(57:03 - 57:18)
+And then one winner will receive $500,000. Until Sunday, Eastern, midnight. We'll see how the contest goes with Lydia.
+
+(57:18 - 57:41)
+I think we're doing a $50 gift card, PPUI gift card, for anybody who joins the telegram. So depending on if she posts that on Thursday or Friday, we'll see if we get any traction. We've got a few from the other posts she's done, from the stories she's done, directing people directly to the PatriotPay telegram.
+
+(57:42 - 58:00)
+So yeah, it'll be interesting if a contest pushes people a little bit more to do that. Let me know if you need anything else. We haven't had anybody get scammed, thankfully.
+
+(58:00 - 58:12)
+I feel like when volumes lower, less of that happens. But always remember, don't share your information. Always ask in the chat if you have any questions in the general chat.
+
+(58:12 - 58:27)
+And then either me or admins will message you first or ever ask you for money. They make the messages from me seem very believable and they're always kind of frantic. So just be careful there.
+
+(58:28 - 58:50)
+And again, I know we're not the only token in the world. If you're ever in any other chats or something like that and need to connect your wallet, I would just make a different wallet without any funds in there. I just wouldn't connect a wallet that you have substantial funds in to just random sites.
+
+(58:53 - 59:03)
+Okay, reach out if you need anything else. You guys know, email, DM, text, call. And I will talk to you soon.
+
+(59:03 - 59:18)
+I will upload this right now with some notes before I forget. You guys have a good week. Thank you.

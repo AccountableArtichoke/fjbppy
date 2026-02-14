@@ -1,0 +1,36 @@
+(0:00 - 0:59)
+Hello, happy Friday. Thank you for your patience. I'm sorry I was in a meeting and then I got off that call and my dog was bleeding out of like a bulb forming and it's great so I had to clean that up and get him out to potty. 
+
+So thank you for your patience. It's been a productive week in PatriotPayWorld again. Devs are working on the security part of the file uploads for you guys for the classifieds but also for our education portion of the app. 
+
+That's why we went ahead and started uploading the education videos on social media. They'll be uploaded to the app as soon as the devs are done with that portion of the app. We're just having to do it differently.
+
+(1:00 - 3:27)
+The reason some of you all couldn't upload images before was because your image size was too large for what the servers on Vercel allow. So we just have to reconfigure things a different way to let you guys upload bigger files and also the education videos while keeping everything secure. So I'll let you know as soon as that's complete and you'll also know because the education videos will start being uploaded on the app. 
+
+Another reason we went ahead and started posting the education videos on social media and also YouTube and Rumble and they'll go on the website soon is that we are needing to step up our SEO. So we had a meeting with actually two marketing companies this week. The one we were initially working with and a second one just to have sort of a second opinion and because the first one's more of a PR marketing second one's just marketing. 
+
+So we need to work on our SEO a bit. We did we did some of that years ago and then several months ago. However right now like so in this past six weeks or so we've spent over well well into the six figures for marketing and we haven't gotten as much of the ROI as we were hoping for. 
+
+We definitely got a lot of app signups and that's people you know clicking on our link app.patriotpay.org or downloading the app and entering their email going in to check it out. But as far as users going in there and actually buying anything not as much as we hoped. So we're taking their advice and working on our SEO and also starting or pivoting the advertising back to we'll continue with the influencers and then do the Rumble YouTube first before we decide to go to other bigger email lists.
+
+(3:28 - 6:13)
+Of course the Candace Owens events at the end or second half of October those are still going on. But as far as any larger ads on networks or on larger email lists that cost a pretty penny we've yeah we've gotten the advice to from the professionals to work on our SEO a little bit more before we do that just so that we can make use out of that marketing and make it work for us. Otherwise we'll just be you know continue throwing that money out the window and run out of money. 
+
+So I will keep you updated on that. The Rumble ads should be starting this weekend but I will update you with confirmation just because we are still waiting on people and YouTube should be next week. Yeah so that's that. 
+
+The direct on-ramp we're still waiting on. So most of you know now it's Gardarian and we are live on there but we're still waiting on Rampr to finish a tiny detail on their end before our devs can finish integrating that into our app. The education videos will continue being posted on social media which again we'll continue posting those too with contests that we hope you all share with friends family and again really help educate people out there with just very quick simple easy videos. 
+
+So let us know of any criticism you have on those definitely welcome any feedback on that. All right marketplace that's the last thing. We did have an issue with the messaging system that has been fixed and your coffee orders we have all received. 
+
+We are so the shipping costs killed us on the first batch that we mailed out. We are working with a shipping company that is going to cut that price less than half so we'll ship those out and then we'll make it up to you guys who I've already contacted you all who have ordered with some extra coffee for you. You will get confirmation numbers as soon as those are mailed out.
+
+(6:14 - 7:24)
+And then as far as the marketplace listings I will let you know as soon as the devs complete their part we have not gotten any more feedback on any of you or from any of you that have had issues paying for any items there. So please let me know the devs should be adding an item for you all to test. Let me see okay it's not actually posted on my not posted yet but we're gonna post a test item on there and have you all purchase it.
+
+(7:25 - 8:34)
+Anybody who wants to help us test and just to test that out and see if any of you all are still having issues. Again it was just a few people we're not hearing any more of that but yeah I think that covers everything. As always please stay safe, don't share your private info, devs, admins and I will never DM you first or ask for your personal info, private keys, seed phrases any of that. 
+
+So always ask if you're ever in doubt. I will likely have updates for you in the chat this weekend. I'll just post that in the general chat and announcements but other than that I think that's all I have for now. 
+
+You all have a great weekend, a safe weekend and again I'm pretty sure I'll have some updates before the end of the weekend and then to also have you all help us test. Thank you so much, have a great night.

@@ -1,0 +1,399 @@
+(0:00 - 0:28)
+I hope everybody's had a good week. It is officially three showers a day here in the desert. Hopefully you're somewhere cooler. 
+
+Uh, let's see. Our devs are still working on the bugs. I'm sure, well I don't know, maybe you guys have if you've paid attention.
+
+(0:28 - 0:59)
+Uh, the latest update was about two, maybe two hours ago. Um, so far we're probably about 80% done with the list of known bugs we have so far. Um, most of them should be fixed now.
+
+(0:59 - 3:05)
+Uh, your transactions for the most part should be fixed. Um, we are still having some error messages pop up. Uh, it's just harder to get those fixed because they are related to change now. 
+
+Um, so that's probably going to take the longest to get that 100% worked out. Um, but yeah, all the other bugs are all, uh, fixed. Let me see. 
+
+I haven't checked. I was checking on mobile earlier. So I have, I was doing something else on desktop. 
+
+Let's see how it works, how it works on desktop. Let's see. Cool. 
+
+Let's see. Yeah, it looks pretty good on desktop too. On ramford looks good.
+
+(3:12 - 3:31)
+Nice. Uh, like I said, some more of the intermittent kind of errors are still popping up here and there with transactions. Um, and then a few other bugs left on that list.
+
+(3:32 - 5:46)
+Let me see. Lydia. Lydia wants to see how you're doing, huh? Okay. 
+
+Let's see. Is the verification camera issue fixed? So I, I saw that on there. I'm not sure if that's an us issue. 
+
+Let me see. Uh, all for his glory. Where were you? Let's see. 
+
+Who are you trying to buy through when you got that? So I don't, I don't think you attached this screenshot. If you did, I don't remember. Do you remember who you were using through on Rambo? No. 
+
+Okay. Uh, yeah, I'll test those out tonight and see if it's, I haven't had any other issues with that. I know we had a little bit, um, a little bit of an issue with how on Rambo fit on mobile. 
+
+No, but I checked that earlier. We went ahead and fixed that. I'll check out the camera to see if that's a setting on your phone or if it's something on our end. 
+
+Um, when do you think the PPY direct buy might get installed? I'll let you know. Uh, for now it's, uh, just one extra click. So I don't think that's a huge deal.
+
+(5:48 - 7:11)
+And once you buy Matic, it's, it's just one additional click to swap that to PPY. And through that, uh, through that page, uh, it doesn't seem like we're getting any errors. Um, the PPY app installed on my phone has no choice to allow camera access. 
+
+Yeah, I'll definitely, I'll try to do that. Um, I'll try to go through the on Rambo steps again to see if I can replicate that. Otherwise I'll DM me to, uh, ask some questions.
+
+(7:23 - 7:28)
+I missed the first five minutes. Uh, first five minutes. Let's see.
+
+(7:28 - 9:53)
+Our devs are still working on the bugs. They're probably about 80% through with any known bugs. I think the last update was about a few hours ago that you guys should see on your end. 
+
+Looks beautiful. And most of your swaps should be working now. We are still getting some change now related errors, but it shouldn't be as common as it initially was. 
+
+That's the most important bug. Let's see here. Uh, it seems like most of you who didn't save your seed phrase were able to access the app again to get your seed phrase. 
+
+Um, again, if you guys know anybody, please have them reach out to me so they can either transfer their funds out or access their seed phrase so they could write it down in a very safe, fire safe place. No, the one you just swapped to is Polygon. It'll be a lot cheaper.
+
+(9:58 - 15:06)
+Um, oh, sorry about that. It's probably because I have my phone on the charger. Oh, it's not even charging. 
+
+Let me see. I'll switch. Okay. 
+
+Let me know if you can hear that better. Also, I need to actually order. Um, any dev progression to share since Tuesday? Yes. 
+
+All um, the dev progress is live for you all to check out in the app as of a few hours ago. Uh, about 80% of those bugs are fixed. Uh, most of the transaction issues and errors you guys were receiving before should be fixed. 
+
+Now there are some still, um, popping up for some transactions. Um, so the devs will get those all squared away. And again, some of the bugs still there, but they'll get back to work on that on Sunday. 
+
+Um, you should see a lot of them fixed in the app now. Um, looks pretty, uh, weird. Yeah, I put my, uh, connected my headphone. 
+
+I was trying to charge my phone because it's on like 12%, but I think we should be able to make it. Um, using OnRamper, trying to deposit AUD, but the price doesn't fetch. Has anyone else had this issue? Hmm. 
+
+I wonder if Ed will chime in. Let me get this saved though. What do you have planned for the next seven days? Uh, we definitely hope to have bugs wrapped up. 
+
+Um, and then we still have a few features to add back on like the, you guys seen your, uh, key in settings again through magic and a few other, um, login features. Let's, uh, definitely hope we can work out the change now, uh, errors with transactions. If not, then we'll have to, we were planning on adding another swapping service. 
+
+Um, we'll have to add that sooner than later or sooner than we were planning. Um, a few other, a few other annoying, not really bugs, but like, uh, when you guys, um, put a transaction through and then after you hit yes to the estimate screen, usually you'll see like a spinning circle while it processes, change that. So it's a little bit more user-friendly. 
+
+And so you don't have to exit the app in case that transaction takes a while. A few other things like that, that would just make it a lot easier. So your grandma doesn't get confused.
+
+(15:14 - 15:54)
+Things that are probably not super annoying to you guys, cause you've been here for two years and it's been that way, but to an absolutely new user, they'd probably be very confused. Wolverine looks like he's bought on, on Amber a lot more recently than I have. Um, says it's a pop-up that uses a browser, so it's not actually part of the app.
+
+(15:54 - 16:35)
+So whatever browser you're using, then I'd go into those permissions. Uh, no, I would not reinstall the app. Just go into, so if your browser, is it, um, whether it's Safari or not sure what phone you're using, um, go into the Safari settings and change those permissions exactly like you tried to do for Page Fair Pay.
+
+(16:38 - 17:20)
+I can send you, um, more detailed instructions as soon as I get off the voice call. I just have to go through it myself or work it up if you have a different phone to make sure I'm sending you the correct info. You notice that withdraw USPT doesn't work. 
+
+Hmm. Let's try it. Oh, shit.
+
+(17:21 - 20:01)
+Still on Transact. Good catch. I did not have that on the list. 
+
+Um, let's see. Probably work for the rest of them. The annoying Transact off my screen. 
+
+I have to sign out. All right. Let's see. 
+
+Probably hasn't been changed. But yeah, let's see. Yeah, same thing with USDC. 
+
+Okay. Nice catch. Thank you.
+
+(20:01 - 20:25)
+All right. Got that noted. I have to get these, uh, cinnamon candies away from me.
+
+(20:26 - 20:35)
+I have to close out an app, too. Yeah, I don't have USDC. Yeah, it's the same for USDC.
+
+(20:38 - 20:54)
+Uh, Chrome is my browser and it has Android camera access. But, uh, yeah, definitely let me know if that works for you. All praise glory.
+
+(20:54 - 21:58)
+If not, I will, uh, look into it and get that working, too. There's about two things on the app. Yeah. 
+
+So with OnRamper, what makes them so amazing is they have several different OnRamper choices. I think it's, uh, 21 or 22 of them right now. So we get the most coverage. 
+
+Um, so I think Ed is asking specifically about how you're trying to deposit. Because when you go to deposit through OnRamper, it gives you choices for many different OnRamping companies from Transact to Bangsa to, you know, the top 21 or 22 companies. And I think, uh, I'm pretty sure Bangsa is in Australia.
+
+(21:59 - 22:52)
+From what I've seen. Let's see, I think all the tickets should be good. Cool.
+
+(22:54 - 23:37)
+Everybody's. Okay, so it does look like, oh, I thought that was Bendy's. So where it says fetching best price.
+
+(23:41 - 25:18)
+That'll be where it shows you the company and your options. Are you saying it just never gets to that point? Oh, I see it now. This is what I'm seeing. 
+
+To suspending fetching price. So click, uh, where it says select currency, do Matic or whatever you want. Let's see what other things we have. 
+
+And app bug report. Oh, what is Mike's? Is Mike on right now? Um, logging in and waiting for your code to appear automatically. And automatically gets grabbed from email and you click it and order auto code only populates first number. 
+
+Yeah, I've noticed that. Um, but I'm not sure what you mean about the auto delete feature because mine doesn't do that. I wonder if that's a certain setting.
+
+(25:20 - 28:58)
+Mine definitely doesn't auto delete my email. First name, select currency, but nothing's happening. Flashes. 
+
+Hmm. Are you on a VPN? Maybe Vendee Boy. Hmm. 
+
+Okay. Is anybody else with a Galaxy S 23? Has anybody else, uh, used on ramper in from the app successfully? Vendee Boy says, oh yeah, sorry. Vendee Boy. 
+
+I was talking about all for his glories camera issue. For yours, are you using a VPN? Interesting. Okay. 
+
+Uh, I will look into that. Yeah, we'll get, I'll get that figured out. And I will keep you all updated.
+
+(29:01 - 30:08)
+Anything else? All right. Well, let's do a contest. I think we'll do it until Sunday.
+
+(30:08 - 31:27)
+Okay. How many of you just do it for tonight? Um, let's see. Six, not three hours. 
+
+Yeah, let's do that. Let's do a contest to midnight Eastern. Just want to do the same hundred thousand buys or you want to do 50,000.
+
+(31:27 - 32:03)
+I think we'll do 50,000 for this one. 50k by 12 am tonight. I'll do 50k.
+
+(32:06 - 37:53)
+Do half the buys, half the price. Let's see. Any work on the marketplace or has everything been bug fixes? Uh, so the marketplace is actually, uh, complete for now with the placeholders. 
+
+Um, however, once the, once the bugs are complete and we make the, uh, few different, uh, change a few features that I, uh, mentioned earlier, we'll have the devs actually move on to the political donations. Um, I think like I mentioned in the last voice chat, maybe the one before, um, and prior prioritize that versus the marketplace, um, which is the way we had planned before. Um, and obviously the reason we're prioritizing the political donations, um, I think that'll just work out better for us. 
+
+And then we have time to test that, work out any bugs there and kick that off. Um, who's going to say no to receiving donations. Um, so that will be first, uh, as far as marketplace though. 
+
+Um, um, I'm mostly working on the backend stuff for that as far as merchants, as far as, uh, Patriot pays a few items of Patriot pay we'll sell on there. Um, and stuff like that versus the actual development of it should be, should be exciting. Um, but again, just trying to get, we don't need the marketplace or political donations to start marketing the app. 
+
+Um, we just want it working well. Um, obviously transactions working without so many errors. Um, and also, like I said, uh, just making it more user friendly. 
+
+You guys have been here for a while or most of you have, so you know what to do, but you know, grandma isn't probably gonna know what to do if she has that, uh, scrolling processing transaction, uh, with the, you know, the spinning circle there, uh, she's probably gonna be freaking out or wondering if it's safe for her to exit or, you know, so little, uh, bugs like that. Again, the most important one is really getting transactions to go through without an error. Um, but yeah, I'll keep you all updated or devs should be back someday. 
+
+Um, and all, all the bugs fix to date have been pushed live. Um, so you guys can check those out and, um, little bugs can really throw the average person. Yeah, no, for sure. 
+
+And then, um, yeah, I think, I mean, we've come a long way, but the app works beautifully and it seems like, uh, sign-ons are working much, much better like they did before. Um, nobody seems confused by that. It seems easy enough. 
+
+Um, so that's, that's great. Very easy, very hard to lock yourself out. Um, again, please make sure though that your email is secured. 
+
+Um, definitely. So especially with us having this type of login, uh, you definitely want to make sure your email is super secure. Um, not sure if anybody uses public computers anymore, but if you do be very, very careful of that.
+
+(37:54 - 41:15)
+I would not use a public computer, but you know, if you have to, uh, so just be careful there because you don't want anybody accessing your funds that way. Um, if, if you've spoken to me and you have had finally gotten access to your seed freeze, make sure that you enter that into trust wallet. Um, you, you're not going to have access to the old app, um, any longer. 
+
+And there is really nothing I can do after that. Uh, so please make sure that, um, again, if you know anybody still, or if you think of anybody that had Patriot pay or any other funds in their old best wallet, uh, please have them reach out to me or reach out to me and let me know. Because we won't be able to access those funds for long. 
+
+And once, uh, once it's gone, there's nothing we can do about it because, um, that is, that is us working with a third party to still be able to access your funds there. Uh, but yeah, I'd say we're making some amazing progress. I'd say this is the best the app has ever worked. 
+
+Um, in the, what, a little bit, a little bit longer than two years that we've had it going on three now, actually. Um, yeah, I'd say it's, it's working beautifully and better than it ever has before. We just got to make sure that we cover all these bugs before we try to market. 
+
+We don't want to market it to even one new user a day. And again, like we've talked about before, you know, there's, um, there's a few things like recently, even the ads that have popped up on my timeline, I've gone to whether it's a sign up or buy a product. And if it's being glitchy and I already was like, not ad interested, but it's like, Oh, let me support, you know, whoever. 
+
+Um, and if it it's like glitching on me, I'm like, ah, I wasn't that interested anyway, you know? Um, so that's just something to keep in mind. And, um, and again, that's something that, uh, Bannon himself, uh, really, really, um, needs to work well. Uh, we can't afford to not have it go, um, the way it's supposed to and work the way it's supposed to. 
+
+Um, and there's no, you, there's no reason for us to waste, uh, marketing money to just then, uh, have people find out about it, but have a negative impression of it. So, uh, but I think, I think we're definitely getting there and I'm very, very happy with the progress we've made, um, and the way the app's working. I'm very, very, uh, happy with that.
+
+(41:18 - 47:08)
+So, uh, yeah, I will update you guys. If I have any updates before Tuesday, I don't think I will. Uh, you will see, you'll likely see updates in the app before Tuesday. 
+
+Um, like you've seen this week, the, you know, the devs this week have pushed several updates. Um, so, uh, if you do find any other bugs, let me know. Uh, I have not shared anything to test with you all, cause we really want to get the most important bug again, is that, um, error message we're receiving when you try some transactions. 
+
+Um, it shouldn't be that common as it was in the beginning now, but it's still there. So there's no use for us to test, uh, with the known issues. Uh, as soon as that's fixed, I will have you all test, um, and we'll run some contests to have you all just very heavily, heavily test that. 
+
+Um, and, uh, of course reimburse you the taxes for those, uh, tests too. Um, but yeah, looking forward to that. And then also have you guys stress test it. 
+
+Um, looks like we've had quite a few people sign up for the app now. So I'm, I'm thinking actually, um, yeah, I'm actually surprised at how many of you have signed up for the new app. Um, so that's, that's good news. 
+
+Uh, tried verification process for Sardine on Ramper tells me to click a box in the corner that is not there. Okay. Okay. 
+
+Awesome. Tap the icon and top right. Okay. 
+
+I will have, can, uh, okay. So is this, is this window you're seeing, is this in your browser or is it a browser opened inside your app? I know it looks like your browser, but asking just in case inside the app. Okay. 
+
+Is there, can you click a button to, for it to open outside of the app? So if you click, what button is it? If you click on, so on those bottom buttons you have trying to remember, I think it's the butt, is it the button on the very left? If you click that button on the very left with the three lines, do you see anything that asks you to, or that lets you open an external browser? Oh, that's a good idea too, Mike. Either way, we definitely need to get that fixed. And I'm wondering if it's a side, a size issue actually. 
+
+Okay. Okay. Thanks. 
+
+So that sounds, so you probably, you probably would be able to then sign on through the app in your browser, but that defeats the whole purpose. Um, he's making me jump through hoops. So it seems like just a siding, excuse me, sizing issue on our end. 
+
+So yeah, I'll add that to the list. Thank you. That's definitely important. 
+
+Yeah. We did fix the on ramp or screen, but I wonder if it was just that initial screen that shows up and we haven't, you know, we haven't tested through all these on all devices and that's why we need you all. But yeah, that's super important that we get that fixed. 
+
+So thank you for pointing that out because a new comer, if they were trying to do this and they saw that and they were already just not that interested anyway, like they're not, you know, who's, who's to say they're going to ask us for help to even begin with. They may just close the app and never think of it again. So that's exactly what we need. 
+
+Um, if you guys do find any other bugs, please DM me or share them. Um, and the app bug reports. Um, seems like, yeah, all but one ticket and just for it, which I'm waiting for somebody.
+
+(47:09 - 48:52)
+That's weird. I haven't DM for a few days, so I'm assuming they probably did get it fixed. All of you who are messaging me through your alts, but at least you're being nice through your alts. 
+
+I appreciate that. I'll accept it as an apology. Um, other than that, there is not any open tickets I'm aware of. 
+
+So if you do have an issue, um, and I've somehow missed your DM, please DM me again. Um, so it goes to the top, but also tag me in case, uh, it went to archives or spam. I thought I was out of TG jail, but I am not. 
+
+So I filled another ticket. It's so crazy because it, they kind of, um, like it insinuates that what you did was message a bunch of people first, but that cannot be true. I replied to a Hmm. 
+
+Okay. Uh, did you understand what I meant by the code? Yes. Cause that happened to me today.
+
+(48:52 - 49:50)
+But what I don't understand is that that happened to me today. Cause I actually used it. I usually just like read the code and go back in. 
+
+Um, what I don't understand is you saying that the email auto deletes because I've never had that happen. Maybe it's a setting because your email should stay in your inbox until you delete it. Right. 
+
+Sarah, I will wait for the app to work properly and do the verification. I have to be able to explain this to her. Huge. 
+
+Yes. Uh, for sure. Yeah, absolutely. 
+
+Um, it's probably just a sizing issue on our end, but yeah, I appreciate that. And that's, um, that's exactly the things we need you all to test. And, uh, when I do, uh, share the list for you all to test things, what we'll actually do is, uh, bring things up in different sections.
+
+(49:51 - 50:30)
+So that we can assign, uh, different people, different things to test. That way you're not all testing, you know, one thing and like, okay, it works. And then some things get missed. 
+
+Um, and that way we kind of divided it up by, uh, devices and stuff like that. It's a feature in iOS. It's a setting, but it always defaulted for me when the update hit. 
+
+I never asked it to. Oh, weird. Okay. 
+
+Thank you. Uh, just want it to be as easy as possible for people to log in. Yes.
+
+(50:32 - 51:05)
+Yeah, definitely. You know, for sure. Especially six characters. 
+
+I get it. And it's, it's honestly easier, um, when it's happening, you know, if you're logging in several times, um, something else, uh, we'll see if we can add is that you all don't have to type your email every single time. Um, we'll see if security wise that works out that you can just kind of like before, uh, whether it's a dropdown menu select, or if it just shows up there.
+
+(51:06 - 51:38)
+Um, yeah, we were testing, um, actually, so we were testing. That's when some of you noticed that you didn't need to enter your code. Uh, we were testing something through magic where you would only need to verify when you got a new device, when you logged in from a new device, it would send you an email that you had to verify.
+
+(51:39 - 53:13)
+Um, and then you were good after that, but I don't know. We didn't love that security wise. Um, and we'll see if we can add that and, um, modify it a little bit, but hopefully you all have locks on your phone, but you know, just in case, but yeah, definitely. 
+
+And it's the little things like that, um, that add up, you know, of course, if it's, if it's just that it's just entering the code, but it's like every little detail of this, if it's, you have two, three little things and somebody is going to come into the app and just say, uh, F it. This is, you know, it's got to make it super easy. Um, and super available. 
+
+And that's, that's really what it comes down to. Right. Um, I know it's a crappy economy, but people still, most people, um, still have the money to put into something they believe in. 
+
+Um, and so we just got to make it easy and accessible and get every little detail down. And I think the devs are doing an amazing job. Our advisor is doing an amazing job.
+
+(53:14 - 53:34)
+Uh, graphic designers doing an amazing job and uh, yeah, I think we have an amazing team that I'm very grateful for. It's taken a, taken a long time. It's been a long time coming.
+
+(53:36 - 59:55)
+Pull down screen to refresh still logs me out. Uh, what do you mean by that? That change now is still trying to restore your transactions. You mean just to show your transaction history? Okay. 
+
+Um, let me see if I can access it. Do I have, do I have your wallet address? Uh, send me the wallet address you used for change now. Let me see if it all pop up on my end. 
+
+Let's see. Trying to buy a PPY right now with the medic in the app and it's been doing this spinning circle that says no order probably two minutes and can't do anything. Um, okay. 
+
+So that's something, uh, we're actually going to modify there as far as the spinning circle. Did you use the screen? Uh, did you use the by medic screen or did you swap? Oh really? The by screen. Okay. 
+
+That's good to know. Um, just the list is easy and the users want, okay. Let me know just to see if you want me to look it up. 
+
+We can look it up in our, on our side to see if it'll pops up there and it, it may not buy screen. No, if you, um, close the screen, it wouldn't mess it up. It would continue if it's already, and then if it's going to fail, it would fail. 
+
+But let me see. I think this is probably you. Let's do this. 
+
+There's a manual swap. So in case you guys are entering the contest, you have a little discount. I think that's all I got. 
+
+Um, again, please. I know I keep mentioning this because we keep getting stragglers. So if you think of anybody that friends, family, old coworkers, um, anybody that you even think may have used the app or just that you told about, um, FJB or once we switched to Patriot pay, uh, please let them know to just, you know, just quickly bring up, Hey, did you ever use the app? Uh, so that in case they did, they can transfer their funds or they can get their seed phrase. 
+
+Um, because once we lose access to that, there will be no way to access it again. There's, you know, the thing about, um, non custodial wallets and crypto is that there is no way for us to access it. If you can't access it, if you, if you didn't write down your seed phrase, um, and being that we depend on a third party for that, once we lose access, there's again, nothing we can do about it.
+
+(59:55 - 1:01:07)
+And I'd hate to see any of you lose, uh, any funds in those wallets. So make sure you do that. Uh, of course also make sure you don't ever share your personal information, especially with everybody, uh, sharing their bugs in the app bug reports. 
+
+Uh, I think you guys have been pretty good about that. Know that we will never DM you first. Um, we will never have anybody call you, uh, or anybody ever ask for your personal information. 
+
+Definitely. Nobody will ask for your code. Um, I guess that's something I need to get in the habit of reminding you all, um, you know, you put in your email in the app, you get an emailed code. 
+
+You should not enter that code anywhere else, but the app that asks you for it. And you should not ever send that to anybody, not me, not other admins, not Bannon, not Boris, not Jesus himself. Um, so just, uh, keep that in mind that you won't ever be sharing that emailed code with anybody.
+
+(1:01:08 - 1:01:19)
+Um, I will never ask you for it. Nobody that's ever, um, helping you through anything should ever ask you for it. Um, and then don't enter it in any other site, uh, besides the app.
+
+(1:01:19 - 1:01:36)
+If somebody sends you, you know, a link or something, uh, we might start getting scammers, uh, phishing, you know, people might start making who knows what pages that look like Patriot pay. Uh, be very, very careful of that. Uh, would hate to have you all lose your funds.
+
+(1:01:36 - 1:03:20)
+So nobody will call you. Nobody will DM you first. Nobody will text you, et cetera. 
+
+And nobody will ever ask for that code. Don't enter it into any other links. Um, and we'll, we'll make sure of course, that's all in the education section. 
+
+Um, once we launched that, but for the time being, hopefully we can start getting that out there. So nobody makes that mistake. Um, you said when we practice big things during testing, that you'll reimburse a tax. 
+
+Is that a reimbursement on just moving our PPI around or is that a reimbursement on doing big buys? Um, the reimbursement on, uh, tax. So we'll, we'll put, we'll put a small limit on there. Um, but that way we're not going to have you pay, you know, an 8% buy and sell tax because we definitely want you to stress test, um, the swaps, uh, to PPI and out of PPI. 
+
+Um, and then make sure that we're, you know, uh, swapping out to not just Matic, but the other ones. And then, um, again, basically we want to test not only the volume, but, uh, the stress test of having you all do it at once and, um, make sure that we're not getting errors. And then if we do get errors to have the, uh, devs or change now or both, uh, fix them.
+
+(1:03:28 - 1:04:05)
+There should be a series of boxes. Like when you go to get your seed and trust wallet, don't do this. Don't do it. 
+
+Yes. That is actually one of the features we're adding. Yeah, it'll be, um, and, and some of these features like, um, the adding, of course, your key into the app, um, will be probably here within the next seven days. 
+
+Um, same with like the spinning, getting that spinning circle so that you can, so it can notify you what's happening and then you can close it. So you're not stuck there. Um, those are definitely higher priority.
+
+(1:04:06 - 1:08:21)
+Um, but then there's some other ones like the, um, login email. Um, so you don't have to type your email every time. Um, like checking those check boxes to, you know, make sure hopefully help you all not get scammed. 
+
+Um, what's some other ones, transactions to make your transaction history a little bit, um, easier to read. Um, it's a little bit, it's a little bit messy right now with a little bit too much information on the screen. Um, so yeah, I can't seem to buy your trade Maddock for PPI in the app right now, just as a spinning thing. 
+
+Okay. I will definitely, um, Oh, so is your, um, I imagine then your app, your wallet is probably not sending the Maddox. Um, are you getting to, cause you said you're on the spinning circle, so I imagine you already got to the estimate and then confirmed on the estimate page and then get stuck after that on the trade doesn't show an estimate, but click confirm. 
+
+Okay. So yeah, after you get confirmed, so that means your wallet, uh, it's probably getting stuck in the send option. So likely a change now issue and you're not getting an error. 
+
+It's just getting stuck on the spinning circle, right? If you want, you can, um, Try, uh, to keep it up there and see if it just takes a few minutes. Um, that's happened to me. Um, or you can just try a little bit later. 
+
+Uh, another thing I actually also tried is if you enter a different amount, sometimes that'll help too, but, um, that's exactly what the devs are working on. So new users don't have to deal with that. Poor Rose. 
+
+And yeah, let me know if the different amount, um, that's almost always worked for me, uh, through testing. If I get an error, then usually if I enter a different amount, even if it's very, um, little difference. Tried buying Maddox with this time complete the purchase. 
+
+Oh, okay. Cool. Uh, bank size. 
+
+Awesome. I love them. Hmm. 
+
+Did you check the settings? And do you have, so I know it says, um, check the button below. Do you even see a button below? Okay. And you can't scroll down.
+
+(1:08:24 - 1:11:04)
+Let me see another screen issue. Uh, I joined late. Who won the last contest? Stacey hasn't, um, put the list together because the last contest didn't end until the beginning of voice chat. 
+
+So as soon as she gets those together, uh, we'll plug in the numbers. I wonder how many entries, I don't feel like there were that many entries, but maybe it's just because I honestly forgot the contest was running all week. Um, we will definitely get that figured out. 
+
+Thanks. That's a very important bug. It's Mike's birthday. 
+
+What? Happy birthday. Doing anything exciting? Friday night birthday. If you want bugs, just come to me, Mike. 
+
+Did you hear that? If you want bugs, just go to bendy boy and discord. He'll give you two for one bug specials because it's your birthday. I'll add that last part in my neighbor brought cupcakes by coincidence. 
+
+Ooh, that sounds delicious. I feel bad when my neighbors bring me baked stuff because I don't have the heart to tell them I'm celiac. Then they asked me how it was and I tell them how delicious, how delicious it was.
+
+(1:11:07 - 1:11:42)
+I'll usually smell it. I'm like, ah, it smells really good. Uh, Mike, are you on discord? What's your, uh, what's your handle on discord? Bendy boy wants to give you a two for one bug special.
+
+(1:11:46 - 1:11:55)
+Oh, shoot. Mike got muted. Damn. 
+
+Come on, bros. It's his birthday. Yeah.
+
+(1:11:56 - 1:16:14)
+Yeah, that's a smart wallet. I think that's everything I got. Wow. 
+
+So strange. Okay. Let me know if you guys need anything else. 
+
+In the meantime, if you find any new bugs, um, please let me know either DM me or, uh, post it in, make sure you post it in the, uh, bug channel. Uh, there is one on discord too. And, uh, the one in telegram, just so it doesn't get lost and we have them all in one place. 
+
+Um, you guys definitely found some new ones on the call that we were not aware of, so that'll be great. Um, yeah, I'm very excited. Uh, and I'm grateful for you guys, uh, figuring all these bugs out before we even start the official testing.
+
+(1:16:14 - 1:19:50)
+Um, hopefully that leaves a lot less bugs for us to find when we are, uh, stress testing. Um, and it turns out to be just a, um, more of a volume and stress test versus really finding more bugs. Uh, so this is great and definitely saves time. 
+
+Um, but I think that's all I got. If you all want to enter the contest, make sure you enter that. Uh, this one will end at 12 AM Eastern tonight. 
+
+So you have what? Two hours, two, a little bit over two hours. Um, and then we'll have Google pick the random number for last week's as soon as I get the numbers from Stacy. Um, yeah, I think that's everything for now. 
+
+I'm getting, um, super excited, a little bit surreal that everything is getting, uh, uh, closer and, uh, just having a really solid team and the app working better than it ever has and smoother than it ever has. Um, yeah. Uh, thank you all. 
+
+I will probably take me a second. I don't know why, uh, my internet has been really awful again lately. I think last week, I was trying to, um, upload that voice chat. 
+
+It seriously took more than an hour. Um, so I'm not sure if it's, I'm not sure if it's my computer. Um, just keep forgetting to order a new one. 
+
+Uh, yeah. Um, and, oh, actually one more thing. Um, um, we're really, really trying to get into the TPUSA, uh, event in June, I believe. 
+
+Um, what is it like 13th to 16th or 14th to 16th. Um, so we're really shooting for that, but again, we're not going to market an unfinished product out. Um, and of course we do want it to be a slower growth to figure out any more bugs. 
+
+Um, so we're not running into pissed off users. Um, but again, thank you all for even the bugs you figured out, uh, and shared during the voice call. We will add that to the devs list. 
+
+Um, I will give me a minute to, uh, get this call on a, to convert it. And then probably a while, hopefully not to get it actually uploaded. Uh, type some voice notes and you guys have a great rest of your night. 
+
+Uh, again, if you've reached out with, uh, an issue and I have not responded to you, uh, please reach out again and tag me because I'm all caught up on my end. So if I missed yours, um, yeah, tag me. Um, okay. 
+
+I think that's all you guys have a great night. Mike have a wonderful birthday. Enjoy your cupcakes and I'll see you guys in the general chat.

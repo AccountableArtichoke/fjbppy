@@ -1,0 +1,218 @@
+(0:00 - 3:11)
+Recording's on. Awesome. So, get right to it. 
+
+Still have not heard from Trust Wallet or CMC regarding the Trust Wallet price showing up. I will update you on that as soon as I hear from them. Good news is last night, changed now, fixed the issue on their end as of like 2 something a.m. my time. 
+
+So, dev's been working on that, which is great news. He's going to see if he can get that ready for you guys by the end of the weekend. I will keep you updated on that again. 
+
+Unfortunately, we don't have a time estimate because he's just debugging and doesn't know why it's not working, but the change now issue has been fixed. So, I will keep you all updated on that. Great news, though. 
+
+Apple, the Apple, I know they gave us a 24 hours at the beginning of the week. That was wrong. However, we were, just because of the account changes and their rules are a lot different than Google's. 
+
+However, that app is resubmitted. They just need a, there's nothing wrong with the app. It's the same exact app build, but they just need that again now with the new name change and with the way it works since they had us get a new account, new Apple developer account. 
+
+Anyway, that's all been submitted as of today, too. So, that's also great news. Let's see what else. 
+
+That's been the major of everything going on this morning. Let's see. We've been discussing a little bit more in depth about which marketing we're starting out with with our marketing guy. 
+
+So, I will keep you updated on that. We obviously want to start out small just to figure out the, any app bugs that way. So, not everybody's going to download it at once and having issues. 
+
+And I don't think, I don't think I've had, I think I've answered all DMs and stuff. I don't think I have any other questions. Sorry, the voice chat was a little bit of time difference today, too, than the usual. 
+
+I think since we, since you guys all had to change your time for daylight savings, everyone but me. Let's see. Okay, I don't see anything.
+
+(3:17 - 3:58)
+Oh, if you got the audio splitter software, I recommend you can send your speaker output directly to the Telegram audio input and avoid the shit music. Yeah, then I have Discord, too. Any more info on the intended burn? Yeah, we'll definitely.
+
+(3:59 - 6:27)
+It's actually funny. Voodoo Child says Discord doesn't need music, they need Jesus. You're not lying, especially Weg. 
+
+Any more info on intended burn? I will let you know as soon as I have more info on that. I don't have anything else to share right now, but we will have a burn before the end of the month for sure. Again, that's mainly, we don't have an exact amount there because, I mean, well one, we need BNB to get their wallets, which obviously we know how much we're transferring to them, but also we were hoping that by now we would have given out different promoters and stuff, tokens, but obviously with the Change Now issue backed us up, I think a few weeks now. 
+
+Anyway, now that it's worked out, I've tested it myself, it works. I don't know if you guys have seen any of the transactions, but as soon as we get that going, again, trying to get you all to test this weekend. I kissed, missed the first minute, are we testing the app soon? Change Now fixed what they needed to fix last night, early this morning, so the dev's working on that. 
+
+I will let you know as soon as he has it ready for you all to test. I will keep you updated on that. Same thing with Apple, we turned that in today and we're still waiting on the Trust Wallet CMC issue.
+
+(6:29 - 6:49)
+Again, I have a feeling that's definitely a CMC and not a Trust Wallet issue, but apparently still several other coins dealing with it, not just us. I will keep you updated on that. We will still do the burn.
+
+(7:03 - 8:22)
+CoinHolios's end of month is Sunday. Thank you. Testing, yes, the dev, his number one priority now is to get you guys to test the app. 
+
+That way we can get you all to move your Smart Wallet funds out of there so we can start rolling everything else out for you all to test. Did you say we may be able to test the app this weekend? You'll be able to test it as soon as the dev has it working for you all. The issue we've been waiting on the last, I think now it's been a few weeks, was an issue from ChangeNow's API, specifically with PatriotPay. 
+
+They did fix that late last night, so that part's working. I did test it out. So now he's going to go ahead and see if everything else can get worked out for you guys to test.
+
+(8:22 - 9:01)
+Oh goodness, I'm exhausted. Let's see. Don't use the app. 
+
+I know your coins are showing, not showing. Don't worry about that. Once we have the app ready for you to use, then we'll worry about if you have missing coins or not.
+
+(9:01 - 9:30)
+You should not have any missing coins once that happens, but I will ask you all to check to make sure everybody has their coins before we move on. Don't worry about that. Oh boy.
+
+(9:35 - 11:25)
+So testing is mainly to get people to transfer out of Smart Wallet. Yeah, we need the swap working so we can get everybody who has a Smart Wallet, get their funds out of there. So that's why we need the transfer, excuse me, the transfers, not swaps, working is so that everybody can get their funds out of their Smart Wallets. 
+
+As soon as that's done, we'll roll out the new login and wallet generation service. Account creation, wallet generation, and then we will still have a link in there for you to access your Vess wallet, but please, we'll get that out to you guys to do that. Get that out ASAP. 
+
+Get your funds out of your current Smart Wallets ASAP so that you don't lose those funds. But yeah, as soon as you guys transfer your funds out, we'll probably give you a day or two, a few days to do that. We will roll out the new login service. 
+
+With that company, we already have the contract. All we need to do is fill out the start date and sign. We already have it all integrated and built out. 
+
+So then you all will test that, make sure everything's working correctly as it should be. Once that's good, then we have our on-ramp deployment. We'll get that on, deployed, and have you all test that and basically, again, do the same thing there.
+
+(11:31 - 12:57)
+Once that's done, I'm going off the top of my head here. I should probably look at my notes. Once that's done, then we'll have the education. 
+
+Let's see, menu, education page, then the marketplace, and then it'll be all just the new additions to the app. Uh, what's the new deadline for quarter one delivery? Well, I don't have a date for you. Again, we've not been held up by our own choices or by our own fault.
+
+(13:01 - 14:05)
+So, once we hopefully have everything set up with, uh, with, um, sorry, I'm receiving DMs. Um, once we have everything set up, a lot of this hopefully will be easier, um, and not waiting weeks and weeks for Change Now or Apple or whoever else. And, um, I think, I think the team's done a good job at that and, uh, having, so even with Change Now, I know several of you have DMed me asking why can't we use another service provider, giving me, you know, a bunch of other swap sites. 
+
+Um, but Change Now really is, um, better for plenty of reasons that are way above my head. Um, so that's why. Um, that is why, uh, we've waited for Change Now.
+
+(14:07 - 15:18)
+It would be nice to get everything done ASAP, but we'd also just like to get everything done, um, the best we can, and I think that's kind of a little bit of how it was before, um, where everything, well, a lot of things were a little bit duct taped just to get it just to get it out and then deal with a mess later, so. I know it sucks and I've been very, uh, fatigued waiting, but I think it'll be, uh, I think the team's making the best decision. Um, did B&B get their wallets set up yet? We know they are boomers, but that's no excuse. 
+
+No, and if they don't get it set up soon, I'm just going to create the wallets for them. So I'm gonna, I'm gonna let them know that. Do you have time to create this or? No, I'm sure they'll be sure they'll be doing that or again, having me do that for them, which I hope, hope doesn't need to happen, but.
+
+(15:20 - 15:40)
+Oh, excuse me. Hello, Susan. I feel like I'm missing a few, uh, people.
+
+(15:44 - 16:29)
+Where are the Australians? I feel like we're missing a few Australians in voice chat. Okay. We're not even on the training videos yet. 
+
+We're still on like the, you know, educational. Um, I can create B&B wallets for them. I'll send you the address shortly. 
+
+Okay. Voodoo Child says we got the best Aussie. MP Bob is busy.
+
+(16:29 - 16:57)
+I thought you guys were just supposed to, uh, isn't Australia supposed to have the best farming practices? I feel like I'd want to move there just for that. I know MP's not a farmer, but I feel like, I feel like he's usually online on voice chat days. Netherlands has the best farming practices.
+
+(16:59 - 17:17)
+So basically everywhere we're here. I gotta look into that. Yeah.
+
+(17:25 - 18:18)
+Let's see. Oh, you know what? I did update my system and I'm going to turn on. Let me see. 
+
+I turned off my VPN for voice chat because I figured that's actually pretty sure that's what was causing it, but I just turned it back on. So hopefully it doesn't do disconnect. But yeah, that's all the updates I have. 
+
+Uh, also hounding our dev to get this. Uh, how quick is promo ready to fire up once ready? Uh, ASAP. When are you personally testing? I have been, I tested it this morning.
+
+(18:19 - 19:03)
+By this morning, I think I was testing actually into noontime. Disconnect me? Shoot. What the heck? Darn. 
+
+So it is my VPN is, I don't know why it does that. And I updated everything, but when should we give out our seed phrase? Never. Never give out your seed phrase, please.
+
+(19:10 - 19:20)
+Uh, don't share your seed phrase with anybody. Don't, uh, click on any weird links or anything. Enter your, um, seed phrase anywhere.
+
+(19:23 - 19:56)
+Uh, shoot. Why did it disconnect? It has VPN related. Darn. 
+
+Sorry about that. It did disconnect a minute ago. Uh, yeah, I guess there has been a few scammers. 
+
+I saw it a few days ago. And telegram. So do be careful, please.
+
+(19:58 - 21:08)
+It's been a while. It's been several weeks now, I think. So I feel like it's, it's like about that time. 
+
+Uh, so just be careful. And don't use the app, please. Yeah. 
+
+Don't use the app. You're welcome to DM me about anything. Just, I'd appreciate if you don't regarding the app. 
+
+We know it doesn't work. They do have a few, a few deployments now, which hopefully will be good. Hopefully it bugs, um, for you all to test so we can keep going. 
+
+Who's buying Nebraska? I've never been to Nebraska. Moving, but not to Nebraska. Um, okay. 
+
+I think, I think that's all I have. Uh, we'll keep the contest running. I don't think anybody's entered.
+
+(21:09 - 22:40)
+Uh, we'll keep the contest running till midnight if anybody wants to enter that. That's everything. Uh, quick seven day rundown, please. 
+
+Uh, well, our devs' number one priority is getting the transfers working so we can get that, um, pushed out to you guys. So depending on, well, to be honest, either way, if that works, if the transfers work to get your funds out of smart wallet, we'll probably give you guys, uh, two, two days max, probably I think should be plenty. Um, again, because we will have a link in the app for the stragglers, but there shouldn't be that many of you anyway, to get your funds out of smart wallets, but please get those out as soon as we instruct you to. 
+
+Um, and yeah, so we'll probably give you two days to do that as soon as max, I'd say this should be plenty of time. Um, and then we'll deploy the, oh my gosh. Um, sorry. 
+
+Exhausted. Um, then we'll deploy the new wallet generation slash login service. Um, give you guys a few days to test that again.
+
+(22:40 - 25:19)
+That should be very straightforward. Um, I don't want to jinx it, but it really should be so, so easy. Um, so we'll kind of get you all to do that ASAP. 
+
+I'll probably, um, push out a bunch of announcements and annoy the heck out of you for a few days. So everybody can do that at once just to, not cause there's a rush, but just to figure out if there's any glitches. Um, so yeah, I'll probably try to get everybody to do it like in a day, if that's possible, just to, so we can get some feedback on glitches as soon as, uh, that's at least okay to go. 
+
+Um, and then nothing, nothing detrimental, crazy. Then we'll go ahead and push our on-ramping service and test that. I'm assuming that'll probably have more bugs than anything else, but that's completely me just assuming, um, just, you know, there's, there's a lot more going on there. 
+
+Um, but yeah, and then as soon as, then we'll probably after that, uh, just test for a bit. Um, hopefully again, not more than a few days before we start pushing out the menu education page, um, and then marketplace. So I'm hounding our dev right now to do that. 
+
+Uh, let's see. I saw somebody say, is he working on Easter? Yes, he is. And if he, um, if he gets too busy for that, then we definitely have somebody ready as a backup to work on that. 
+
+So, um, yeah, I don't, I don't want to say, I don't want to say too much on that, but I really hope, uh, we can get you all at least getting that, uh, transferring your funds out so we can be done with that part. Now that change, now fix whatever they need to. So I'm finally out of dumb questions. 
+
+Yes, it's easy. I'm never a dumb question. Um, how many different devs do we have nowadays? Um, actively working right now? Two.
+
+(25:23 - 25:37)
+Uh, somebody working on the app additions and then the Apple issues. Did you get in touch with Millman and do you owe me money? Um, I did get in touch with Millman. I owe somebody money.
+
+(25:38 - 26:45)
+Not you, unfortunately. Somebody who got me a direct, um, phone number and, and other, other forms of contact. Um, do you spoke of a transfer tax not being possible, but could a reduction for a target date be possible? I'd love to get these PPY in cold storage. 
+
+So, unfortunately, not, um, not right now. I will let you know one that's definitely on the goal, or at least have a lower transfer tax, um, which the goal is really just to lower our tax altogether, uh, which I have no doubt will happen with volume. Who got you contact info? Um, I will have him share himself if he wants to.
+
+(26:45 - 27:13)
+I don't think I've seen him in voice chat. No, but if the person out there who got me contact info wants to, if you want to share that information, you're more than welcome. Oh, actually that makes me wonder because I haven't sent him the funds yet.
+
+(27:14 - 28:50)
+Makes me wonder if the wallet address, oh, I should probably check on that. Actually, I'm going to do that before I forget because I think I'm assuming the wallet address he gave me was probably, I'm assuming one everybody knows. There, let's see what he says. 
+
+Um, I'm just curious of what I had that I didn't, specifically if it was one, uh, I don't think so because it was pretty public, public info. No, no secret, no secret info, but now I'm curious what, what kind of, actually, when you said that, I was wondering about it and I never got to asking you. What kind of information would be like a privacy concern? What are we talking about here? When folks getting payout from last contacts, I already paid them out.
+
+(28:58 - 29:42)
+We all know who you are already, Nolan. What? Who is Nolan? We all do. How come I don't? What the heck? How come nobody's told me? I do want to know like what everybody looks like. 
+
+I'm just curious. That's how simple I guess my mind is. Like, I don't even want to know like specifically what you guys, like your own picture, even if there's like a, I don't know, not even a lookalike, but just like what kind of type of person. 
+
+Does that make sense? I don't know if that even makes sense. It wasn't you, buddy. She needs to work on herself.
+
+(30:00 - 33:18)
+Paige said I'm old and fat. Well, you know, I think a lot of us are here. Oh, who is the Nolan you speak of? I don't know. 
+
+I don't know. Dev should be good. I told the dev you guys are all asking about him. 
+
+I also told him you're, uh, or he's you guys' favorite person. I don't have dental insurance. Do people still have dental insurance? I don't know. 
+
+I feel like it's easier to pay or cheaper even to pay cash. Well, cheaper and easier. So am I, am I the only one? Hmm. 
+
+Oh boy. Actually, where is this? Workout time. Good for you. 
+
+I've been struggling to get to the gym. Have good night. Voodoo.
+
+(33:22 - 37:28)
+Um, okay. Well, I think that's everything we got, uh, again. I think it was all last, maybe all we needed was a good Friday. 
+
+Um, so I will keep you guys updated. I'm gonna go back. Actually, I have, uh, the dev says thank you. 
+
+Um, uh, yeah, I'll update you guys, uh, if I have any other updates. Uh, but again, I'm just glad that we got Change Now out of the way and then Apple out of the way. Everything in Google play store, as far as the app goes, should be updated. 
+
+Um, as far as everything on the app page, everything minus actually when you go to the app and open it up and it doesn't work as it's supposed to. Um, but if you find anything in the Google play store that needs an update, please let me know. They should now, as of today, everything looks like to me, if it's pushed through, I have to ask for screenshots because I don't have an Android phone, but, um, and then now just waiting on the Apple approval, which is annoying. 
+
+Cause I just need to leave, I need to leave like my, um, computer open my like with no screens savers so they can log in. Uh, so I'll know as soon as they do that, they do generally take longer than Google does. Google usually has it within like 20, a little bit over 24 hours. 
+
+Um, but I'm hoping that happens this weekend. I don't know how long that'll take for them. I'll update you guys as soon as that happens. 
+
+Actually, you'll be able to see it too, but, um, yeah, my expert wallet shows on trust wallets, smart showing PP pipe has not also, um, you're saying how many, you're saying how many PPI you have, right? I feel like, Oh, okay. Yeah. Yeah. 
+
+It'll show you, it should show you how many coins you have. Um, yeah, I still don't see, just doesn't show what it's worth dollar wise. Um, but yeah, I see that too should be all good. 
+
+And then, um, again, don't worry about anything in the actual Patriot pay wallet as far as your coins showing or not showing. Cause if you remember correctly, um, we did not airdrop to several smart wallets. Um, we will airdrop to you guys once everything's working in case we need to airdrop them to different wallets, but I will keep you updated on all the details. 
+
+I'll make sure those details are very clear. I will tag you all and put it in announcements again, several times. So don't worry. 
+
+You won't miss it. And we will have a best link inside the app, uh, for a while, hopefully until you all get your funds out. Um, but if you guys need anything else in the meantime, please reach out. 
+
+Um, I am going to test here and need to test something that the dev, um, is asking for. And then I will, uh, update with a few notes. So, um, again, please don't get scammed. 
+
+Don't send money to anybody or share your personal info. Uh, definitely ask in the general chat. Everybody's always, somebody's always around. 
+
+Um, I hope you guys have a blessed good Friday and a good weekend. I will be here. Talk to you guys soon.

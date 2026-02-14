@@ -1,0 +1,293 @@
+(0:03 - 0:23)
+Hello, happy Tuesday. Hope everybody's doing well. Sorry, I've been a little MIA.
+
+(0:24 - 0:42)
+Just working here in the background. Pretty freaking busy, especially after coming back from CPAC. Um, let's see.
+
+(0:43 - 0:56)
+TipCC in Discord is 100% live. So you're with Roz. And Deposits should be working now.
+
+(1:03 - 1:36)
+Checklist. Okay. Yeah, can everybody hear me? I just want to sound check, so.
+
+(1:37 - 1:48)
+Awesome. Okay, so TipCC is working. All of you on Android should have got an app update.
+
+(1:48 - 1:55)
+That just updated the logo. And some other things. Still don't use the app.
+
+(1:55 - 2:15)
+Please, in the meantime, don't use the app until you are instructed to. That way you don't get yourself into any trouble like some of you already have. Most things we could probably help you get yourself out of, but some things you've all found out that we could not.
+
+(2:16 - 2:29)
+So please hold tight. Apple App Store probably will take a bit longer, as usual. But I will keep you updated on that progress.
+
+(2:30 - 2:47)
+Trying to log into my iPad, because I need something from there. Yeah. There's not, I guess, really much I can share.
+
+(2:47 - 3:17)
+Lots of dev updates, lots of app updates. I don't think I've got any questions. Don't share your info with anybody, your seed phrase.
+
+(3:17 - 3:27)
+Don't click on any of our links. I know we've got somebody that got scammed a few days ago. Unfortunately, there's not much we can do about that.
+
+(3:27 - 3:46)
+So please, don't do that. If ever in doubt, do ask in chat or ask one of the admins. And if something does happen, let us know what exactly you did.
+
+(3:46 - 3:55)
+Don't be too embarrassed to do that, please. That way you can save others from doing it. We've all done stupid stuff.
+
+(3:55 - 4:10)
+So. I don't see anything in the inbox. As far as viewers go.
+
+(4:11 - 5:04)
+Let's see here. Can you give us a rundown of the next seven days ahead? Probably... I can't think of anything that would be on the front end. Probably continuing the last several days.
+
+(5:09 - 5:32)
+Which is... Dev meetings, partnership meetings. And... We might have another convention coming up. Actually, very shortly.
+
+(5:34 - 5:54)
+I'll have to make a decision on that in the next few days here. I'll definitely keep you updated on that. But yeah, looking... Looking really good.
+
+(5:55 - 6:18)
+Hoping to have the app update ready for you guys to test. We're waiting on one dev detail. But we're hoping to have that testing for you guys by the end of the week.
+
+(6:19 - 6:33)
+Definitely for the Android and web app. With the Apple... We're at the mercy of the App Store, so we can't really say there. But you can always use the web app with a link to test.
+
+(6:33 - 6:50)
+So that would be cool too. But we're hoping for this week again. Depends on how quickly our dev community will get in there.
+
+(6:58 - 7:12)
+You mentioned app testing last week. Is that still going ahead? Oh, I've been testing some things on the backend here. We've not started community testing.
+
+(7:12 - 7:36)
+I will let you know as soon as that begins. How well did the QPY gift cards go over at CPAC? People loved them. They were asking for them.
+
+(7:36 - 8:06)
+Apparently my new name is CryptoLady. Not sure how I feel about that, but I mean... I think that's a good thing for conservatives who have no idea about crypto to now label somebody a CryptoLady. So as long as PPY and crypto in general... I think that's a good thing.
+
+(8:07 - 8:23)
+I'll take it and change my handle on here to CryptoLady. There's plenty of people. A few people from War Room were telling me, Hey, people looking for the CryptoLady.
+
+(9:39 - 10:10)
+I'll definitely keep you updated of any updates that I can share as soon as you all can start testing. Otherwise, I'm going to hop off here and go back into Dev Chat. Let me know if you need anything else in the meantime.
+
+(10:18 - 10:29)
+Again, don't share your info with anybody. We won't DM you, call you, send you links, anything crazy like that. Always double check with the chat.
+
+(10:29 - 10:34)
+Somebody did that today, actually. I'll show you a screenshot. They probably weren't asking, but you know.
+
+(10:36 - 11:12)
+I think they kind of figured out it was a scam, but it never hurts to ask. Transfer tax? No, I'm sorry you can't do that. Just opens a can of worms and liability that I'm not willing to take on, unfortunately.
+
+(11:40 - 12:16)
+Oh, that's a cute building and a boat. What's the deal with trust wallet price showing, or should I say not showing? Yeah, apparently, so they pull it from CMC, but there's some technicalities. They first said they weren't able to do, but somebody says they're working on it from there.
+
+(12:16 - 12:33)
+But they've been very helpful. But your coins are still worth what they're worth. So if you go to swap, your coins will be worth what they are worth.
+
+(12:33 - 12:42)
+And your swap would, that'll be accurate. You got detached when you were on ramp. I did.
+
+(12:52 - 13:24)
+Has smart wallet's future been discussed yet? Hmm, not sure what you mean. We are keeping a smart wallet. Hmm, I saw that list.
+
+(13:28 - 13:52)
+Yeah, the smart wallet is actually pretty brilliant and self-reliant. Although there's a lot of services out there that we can add into with an API into the app that can do what the smart wallet does as far as the gas, handling the gas aspect. We do want to stay as self-reliant as possible.
+
+(13:55 - 15:36)
+So that's why we have continued to invest into the smart wallet. So the way the smart wallet works, I don't think you can get a seed for it. I can get more details for you guys there.
+
+(15:36 - 16:34)
+But the smart wallet doesn't actually generate a wallet address until you transfer out of it. Otherwise it's just, if you go and receive, it's going to look like the same address as your expert wallet. But as blockchain continues to evolve, and smart contracts continue to evolve, I have no doubt that we will also continue evolving and making sure we have and update the app the best we can.
+
+(16:35 - 16:55)
+To continue making it easier. And just, I guess, up to date with the rest of the industry. Oh, sorry, I didn't realize that was a question.
+
+(16:56 - 17:04)
+The team has completed a couple items in quarter one. They're still on plan to finish all of those. Yeah, we still have quite a bit of time left.
+
+(17:08 - 17:36)
+Definitely busy. We turned it already. You'll be able to transfer your funds out of your smart wallet soon.
+
+(17:38 - 17:59)
+Excuse me, wow. As soon as we push that specific update for the new wallet. Which right now is, it's not the most up to date one.
+
+(17:59 - 18:46)
+We have one more after that. We have several updates waiting to get deployed. Did you recap CPAC audio is poor quality? Yeah, service of the Gaylord was absolutely awful.
+
+(18:47 - 18:58)
+And so was Wi-Fi. So, I actually haven't listened to that recording. I think a few people have recorded it.
+
+(18:58 - 19:21)
+So I appreciate that because the service was better on my phone than it was on my MacBook. So I figured I would do the call through my phone. I'm glad I did because I still spoke to a few people actually during that time.
+
+(19:21 - 19:35)
+But to recap, oh my gosh. Yeah, CPAC was amazing. We have our first political donations candidate.
+
+(19:36 - 20:03)
+We have a few. Yeah, we have several other partners that should, at least some of them should work out. Fingers crossed.
+
+(20:04 - 20:14)
+Super excited. Everybody's super excited actually about their gift cards. Everybody I connected with.
+
+(20:16 - 20:36)
+Yeah, it was good. So I can't wait to share what comes out of everything that did happen there. More of the stated results of some of that networking that did happen as a result of CPAC.
+
+(20:38 - 21:03)
+I think it'll be wonderful for us. We do have another convention that I think actually might be a little bit more targeted into our industry. I just gotta make a little bit more time to sit down and dive a little deeper into it.
+
+(21:03 - 21:17)
+Read into that before I book everything just to make sure that it would be beneficial for us. But yeah, definitely not a fan of the cold in D.C. or the rain. CPAC.
+
+(21:22 - 21:42)
+Also, on my way out from here, Phoenix, I took a red eye. And the craziest thing happened at the airport. And I was so tired because my flight was at 1.07 or 1.10 a.m. Yeah, a.m. I was so tired that I didn't record any of it or take pictures.
+
+(21:42 - 21:55)
+And I have been up, I think, probably since 3 or 4 a.m. So I was exhausted. But the craziest thing happened. So I don't know if you guys have seen.
+
+(21:55 - 22:18)
+James O'Keefe has recorded on all these churches and schools here that they have. The hotels that they have full of migrants are bringing people straight from the border and filling these hotels, these churches, these schools, and then taking them to buses to the airport. Well, I saw it firsthand.
+
+(22:19 - 22:35)
+Not the buses, but as I'm waiting at the terminal, waiting for my flight. There's, I don't know, at least a dozen people waiting for standby. A few people I was chatting with that were saying they're waiting for the standby flight.
+
+(22:35 - 22:47)
+And all of a sudden they tell them, no, no standby tickets. The plane's actually full. Which was really weird because when I had just booked like a day and a half before, half of the flight was empty.
+
+(22:47 - 23:20)
+So that was very, very strange. And obviously it was when all these people, you know, came to get on standby, which is weird. All of a sudden, all of a sudden Hispanic women and their kids and Middle Eastern, like 20 to 30 year old men show up with papers in their hands, like laminated, not laminated, but like in sheet protectors, saying like, please help me, I don't speak English, carrying bags and everything.
+
+(23:20 - 23:26)
+And they got on a flight to DC. Then I asked my Uber driver. And he says that that's all he sees.
+
+(23:26 - 23:36)
+They like take them and drop them off at the White House, apparently, and give them everything there. At centers, they, in hotels, they put them there. It was the craziest thing.
+
+(23:38 - 24:11)
+But I'm really bummed I didn't get video or pictures of it. It was crazy. Will there be a tax to transfer out of Smart Wallet to New Wallet? There will be, but I'll have anybody who does that will confirm that it was a Smart Wallet transaction.
+
+(24:11 - 24:34)
+And then I'll have, we have a solution for it. So that'll be worked out for anybody transferring out of Smart Wallet. That way, we can get off those wallets onto our new wallets.
+
+(24:43 - 24:56)
+Yeah. I know, I am tired. My sleep schedule has just been all over.
+
+(24:56 - 25:06)
+It's wild. Yeah. Yeah, it's wild.
+
+(25:06 - 25:17)
+Everything's happening. Do you have any idea how many Smart Wallets need to be transferred out? Oh, yeah, it's under 20. Not many.
+
+(25:38 - 25:44)
+I hear Alaska's nice. I have several friends from there. I think they all need to.
+
+(25:58 - 26:07)
+Lots of Australians at CPAC. And then I guess there's CPAC Australia. Got to find out when that is.
+
+(26:07 - 26:37)
+They gave me a flyer. Have I gone through everything there? A baby child. Do you just don't want us to move there? Who knows? Did you get introduced to CPAC? Oh, CPAC was just full of everybody.
+
+(26:39 - 26:50)
+I did not get introduced to Trump. Unfortunately. Next.
+
+(27:13 - 27:24)
+So the faster we can get people to transfer out of their Smart Wallets, the quicker we can move on to the next step. Yes and no. We just want that.
+
+(27:25 - 27:50)
+It's not the end of the world, but we'd really rather get that taken care of. So we can move on. I would just rather not move on until we get that all squared away, everybody taken care of, and then have a clean transition.
+
+(27:52 - 28:20)
+Do we need to confirm Smart Wallet balances? Would 84 be okay? We can see everything, but I'll give you everybody with a Smart Wallet balance. Of course, for your other funds, everything else you have in Smart Wallet that is not PPY, you don't need to contact me for it. You can just move that over.
+
+(28:20 - 28:45)
+If it's BNB or QSCT or whatever else you may have in there, of course, go ahead and transfer that as soon as the app is functional again. But just with PPY, I'll have very specific directions for you. Did you meet cash or tab now? I don't normally go up to people.
+
+(28:47 - 29:10)
+I mean, obviously, if they're there, like a normal person, but yeah, I don't. Or unless it's Steve. I was totally embarrassed because somebody had just not given a gift card.
+
+(29:11 - 29:33)
+I forget what he does off the top of my head. But Poso was nearby, and he took it upon himself to introduce me and tell him who I was, which we text over FJD stuff, but obviously he's never met me. I've never met him in person.
+
+(29:35 - 30:00)
+That was the extent of that, but I like to stay in the background as far as that goes. Once it was the booth, I went in and introduced myself to everybody there. I have a few calls this week, so I'm super excited for that.
+
+(30:03 - 30:51)
+Did you get some new partners? Oh, yeah, I've seen that, Nolan. I didn't realize he has a podcast, though. It's wild.
+
+(31:26 - 32:03)
+So, who's going to the inauguration? I want to go. Go to Pleasanton, D.C. The girl I made friends with, actually, she'll be visiting in a few weeks. She'll be visiting here.
+
+(32:03 - 32:11)
+She went to Trump's inauguration ball. She said it was amazing. She said it was the best moment of her life.
+
+(32:12 - 32:35)
+She was cute. That blonde girl with the light. Yes, where did you guys see this? Oh.
+
+(32:47 - 33:35)
+Yeah, I bet. Actually, I think she sent me a few more pictures. If there's any... Did I ever share this one? I think I have shared this one already.
+
+(33:46 - 34:57)
+Yes, I did. See that one by Vennie. Yeah, I see it.
+
+(34:58 - 35:17)
+I see it. Will the new app be called P3P in the App Store? Yes, it will. Excuse me.
+
+(35:44 - 36:21)
+Can I DM you? Oh, yeah, for sure. For sure. Cool, me too.
+
+(36:22 - 36:34)
+That's awesome. I love making new friends. Time flows in a box.
+
+(36:34 - 37:03)
+What are you inboxing? Is that a scammer on Discord? Is that a scammer on Discord? Is it that time? Oh no, it's only 6 o'clock right here. I still have quite a bit of work to do. I feel like I'm going to miss this stuff.
+
+(37:03 - 37:31)
+It takes so long. Let's see. What do we have here? Oh, I need to do an Alphabet X again.
+
+(37:33 - 38:00)
+Screwed up our cards. They said they'd give us another sack. Did anyone ask if Barnaby will be getting their coins any closer? I will keep you guys updated.
+
+(38:03 - 38:08)
+Wake up at 3.30. I know. That's me too. I love you guys.
+
+(38:09 - 38:15)
+I can't sleep in if I tried. You might know already, but the app update to the new rebuild. But still, yes.
+
+(38:21 - 39:23)
+Even though the Google Play Store app is updated, the store listing is not yet. No clue. They tell you up to 7 days.
+
+(39:35 - 40:35)
+Let's see how long they actually take. I think that's everything. If you guys do need anything else, but you know, DM me.
+
+(40:35 - 40:42)
+Tag me if you DM me. Or you can do the ticket in Discord. Start a ticket.
+
+(40:43 - 40:55)
+That's usually the easiest, quickest way. Text call. Whatever you guys need to do, please don't get scanned.
+
+(40:55 - 41:00)
+Or share your info. Or click any weird links. Or use the app.
+
+(41:00 - 41:24)
+Do not use the app until you've made an announcement to do so. Oh, the old lady. She's always making some sometimes, I wonder how loud she is.
+
+(41:24 - 41:45)
+So you guys could hear her. I'm not sure what letters I need to read it. I wouldn't have learned to say Patriot Pair.
+
+(41:46 - 42:15)
+My boys would have probably learned it by now, because they look like girls that are a little bit older. Alright, I think that's everything I got. If you guys were waiting on the TixCC withdrawals or deposits, you can now do that.
+
+(42:16 - 42:28)
+TixCC should be all functional on Discord. And yeah. I'll probably post a contest tonight, actually.
+
+(42:28 - 42:43)
+Let's do that. Post a contest. Maybe for maybe we'll do one of the map maps contests.
+
+(42:45 - 43:04)
+But other than that, I'm going to let you guys go. I did record this, so I'll post that tonight. And I'll see you guys in the chat.
+
+(43:04 - 43:05)
+Have a great night.
