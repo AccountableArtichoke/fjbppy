@@ -13,7 +13,7 @@ Speakers: Grant Tragni, Ryan Fournier
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-15%2059D6D3B3-D57E-486F-B725-FA9DE4061FD9.txt
-Summary: Ryan Fournier, founder of Students for Trump with over 400,000 Instagram followers and personal connections to the Trump family, has joined the FJB cryptocurrency project as a key team member and committed to leveraging his political network to promote the coin to prominent influencers. The three-week-old cryptocurrency has accumulated over 5,300 holders and raised $30,000 for veteran charities including Tunnels to Towers and Wounded Warrior Project, with an active Discord community of over 1,000 daily participants out of 3,700 total members.
+Summary: The November 15, 2021 transcript features Ryan Fournier, founder of Students for Trump with 400,000+ Instagram followers, officially endorsing the Let's Go Brandon coin on day 24 of the project, confirming he personally vetted the project's legitimacy and will leverage his connections with prominent political figures including the Trump family. The project reported having 5,300 holders with over 1,000 daily active community members and $30,000 in charitable donations to veteran organizations, with Fournier predicting the coin would receive mainstream media attention and emphasizing its potential four-year relevance tied to the Biden administration.
 
 UUID: 3F8A1B2C-4D5E-6F7A-8B9C-0D1E2F3A4B5C
 Type: VOICE UPDATE
@@ -22,25 +22,25 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-17%203F8A1B2C-4D5E-6F7A-8B9C-0D1E2F3A4B5C.txt
-Summary: The FJB cryptocurrency project has secured listings on ProBit exchange scheduled for 1am Eastern Friday and is in final negotiations with WhiteBit exchange, while also having submitted applications to major exchanges including KuCoin, BitMart, and Gate.io. The project has grown to 6,216 holders in 26 days with the development team working on securing media publications and major influencer partnerships that are expected to be announced within seven days.
+Summary: The November 17, 2021 transcript documents the project leader reporting 6,216 holders on day 26, with pending exchange listings on ProBit (delayed to Friday 1am) and WhiteBit, while revealing active negotiations with 14 cryptocurrency influencers and media outlets for digital publications. The speaker teases major undisclosed news coming within seven days that will "blow your socks off," mentions Ryan Fournier's continued involvement in securing influencer partnerships, and notes the establishment of a 255-member Chinese Telegram group supporting the freedom movement aspect of the coin.
 
 UUID: B41B0003-A9BF-48E5-BF76-D83D40B81C42
 Type: VOICE UPDATE
-Date: 2021-11-18
+Date: 2021-11-18-1
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: transcripts/2021-11-18%20B41B0003-A9BF-48E5-BF76-D83D40B81C42.txt
-Summary: The FJB cryptocurrency project has donated $50,000 to charities within its first month, including a $20,000 donation to Helicopters for Heroes, a veterans organization that helps with PTSD and rehabilitation programs. The project leadership has scheduled a call with Newsmax for potential media coverage at 4 PM and is expecting the ProBit exchange listing to go live at 1 AM Eastern, approximately 13 hours from the time of the call.
+Transcript: transcripts/2021-11-18-2%20B41B0003-A9BF-48E5-BF76-D83D40B81C42.txt
+Summary: The November 18, 2021 transcript documents the project leader confirming a 4 PM call with Newsmax to arrange coverage, while celebrating the completion of a $20,000 donation to Helicopters for Heroes, bringing total charitable contributions to $50,000 in the project's first month. The speaker announces ProBit exchange listing is scheduled for 1 AM (13 hours away), confirms expansion into NFT communities led by developer "fanboy," and reveals the project has reached approximately 3,000-5,000 community members while targeting 10,000 token holders soon.
 
 UUID: 4D1751A0-4821-40BB-AA64-5642E4AA7496
 Type: VOICE UPDATE
-Date: 2021-11-18
+Date: 2021-11-18-2
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
-Transcript: transcripts/2021-11-18%204D1751A0-4821-40BB-AA64-5642E4AA7496.txt
-Summary: The FJB cryptocurrency project secured media coverage from The Post Millennial with an article expected that night or the following morning, following a Zoom call with Newsmax and the reporter's appearance on Dinesh D'Souza's podcast which received one million views. The project has grown to approximately 6,300 holders with 4,000 Discord members (700 constantly active) and 2,000 Telegram members, while expanding marketing efforts into NFT communities and international markets with ProBit exchange listing scheduled for 1 AM Friday.
+Transcript: transcripts/2021-11-18-1%204D1751A0-4821-40BB-AA64-5642E4AA7496.txt
+Summary: The November 18, 2021 transcript reveals the project leader announcing a $20,000 donation to Helicopters for Heroes on day 27, with the charity president inviting the team to a February event in Dallas, while confirming upcoming coverage from a Newsmax journalist who discovered the project through Tim Pool's mention. The speaker reports 6,300 holders with consistent daily growth, emphasizes Ryan Fournier's continued involvement in securing media coverage including The Post Millennial, and announces expansion into NFT communities while targeting 10,000 holders by Thanksgiving.
 
 UUID: 75A5C35C-AEEF-4DA0-B864-1CFA47F2E85D
 Type: VOICE UPDATE
@@ -49,7 +49,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-19%2075A5C35C-AEEF-4DA0-B864-1CFA47F2E85D.txt
-Summary: The FJB cryptocurrency project experienced a coordinated sell-off that the leadership attributed to multiple wallets planning a dump, causing a significant price dip despite maintaining 6,299 holders. The project's ProBit exchange listing was delayed due to technical issues with their developers being off on Friday, while The Post Millennial article publication was delayed due to Kyle Rittenhouse verdict coverage taking priority.
+Summary: The November 19, 2021 transcript reveals the project leader discussing ongoing negotiations with lawyers about an undisclosed "huge deal" while addressing a coordinated sell-off that appears to involve multiple wallets dumping simultaneously, which he characterizes as "catching their own knife." The speaker confirms 6,299 holders on day 28, mentions communication issues with ProBit exchange whose developers are off on Friday, and emphasizes that despite timeline delays the project has fulfilled every promise made while warning sellers they will regret their decision when pending news is announced.
 
 UUID: 14816370-95CD-409A-B16C-41CC7CC9540D
 Type: VOICE UPDATE
@@ -58,7 +58,7 @@ Speakers: Greant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-20-1%2014816370-95CD-409A-B16C-41CC7CC9540D.txt
-Summary: The FJB cryptocurrency project received media coverage from The Post Millennial highlighting their $50,000 in charitable donations over 28 days, while the leadership was in discussions with lawyers about undisclosed "huge news" pending finalization. The ProBit exchange listing remained delayed with ongoing communication issues, while WhiteBit exchange with 2 million active traders provided a preliminary listing date of Thursday (Thanksgiving), and the project maintained 6,300+ holders grown entirely through organic growth without purchased followers.
+Summary: The cryptocurrency project has donated $50,000 in 28 days to whistleblower relief efforts, with each whistleblower receiving 10% of the current total fund. The project is awaiting listings on two international exchanges, WhiteBit (with 2 million active traders) and ProBit, with WhiteBit tentatively scheduled for Thursday pending final implementation.
 
 UUID: 14A9AA5F-D596-4D64-93A9-1E72197738FF
 Type: VOICE UPDATE
@@ -67,7 +67,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-20-2%2014A9AA5F-D596-4D64-93A9-1E72197738FF.txt
-Summary: The FJB cryptocurrency project leader announced a weekly community member recognition program where he would donate $500 of his personal money to a charity chosen by the selected member, with the first $500 going to Breast Cancer Portrait charity chosen by community member Turok. Despite experiencing another "bloody Saturday" price drop typical of weekend trading patterns, the project maintained focus on StockTwits trending campaigns to reach 7,000 holders, with leadership expressing confidence in undisclosed upcoming news while acknowledging swing traders taking weekend profits.
+Summary: The project leader donated $500 of personal funds to Breast Cancer Portrait charity selected by community member Turok, establishing a weekly tradition of $500 donations to recognize outstanding community contributors. Despite typical Saturday sell-offs affecting cryptocurrency prices, the leader emphasized the project is 29 days old with significant developments in the pipeline and urged the community to trend on StockTwits to reach 7,000 holders.
 
 UUID: 5496FB92-1925-443A-A936-E04C54452805
 Type: VOICE UPDATE
@@ -76,7 +76,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-21-1%205496FB92-1925-443A-A936-E04C54452805.txt
-Summary: The FJB cryptocurrency project reached its 30-day milestone having donated $50,000 to charities, with leadership confirming ProBit exchange listing expected Monday or Tuesday and WhiteBit (2 million US traders) targeted for Thursday/Thanksgiving, while also announcing new meetings scheduled with BitMart and Bittrex exchanges for Monday. The project maintained nearly 7,000 holders with leadership emphasizing the long-term nature of the "Let's Go Brandon" movement tied to political cycles through 2024, positioning it as more than a meme but a sustained political movement that would outlast the current administration.
+Summary: The cryptocurrency project is on day 30 with confirmed listings coming on ProBit (Monday/Tuesday) and WhiteBit (Thursday) exchanges, with WhiteBit providing access to 2 million US traders. The project leader has scheduled meetings with BitMart and Bittrex exchanges for Monday, positioning the project to list on four major exchanges total while emphasizing the Let's Go Brandon movement will persist through the 2024 election cycle and beyond.
 
 UUID: CF69DCDD-26E8-4479-A37D-8D1A97AD74B4
 Type: VOICE UPDATE
@@ -85,7 +85,7 @@ Speakers: Grant Tragni
 Platform: 
 Audio File: 
 Transcript: transcripts/2021-11-21-2%20CF69DCDD-26E8-4479-A37D-8D1A97AD74B4.txt
-Summary: The FJB cryptocurrency project reached 6,400 holders after 30 days without being listed on any major exchanges, with Ryan Fournier disclosing he personally owns 5,000 tokens and plans to purchase another 5,000. The project secured sponsorship of a Turning Point USA conference party on December 19th in Arizona with an estimated 1,500-2,000 attendees, where Bryson Gray will perform and major conservative influencers will be present, with QR codes and branding throughout the event.
+Summary: The project will sponsor a party at the Turning Point USA conference on December 19th with 1,500-2,000 young conservative attendees, featuring Bryson Gray performing and providing an opportunity for mass QR code scanning and coin adoption. Ryan Fournier confirmed he holds 5,000 coins and plans to buy another 5,000 this week, while also revealing he's a Breitbart contributor and will write an article about the project for the nation's top conservative news site.
 
 UUID: 6DE8B58E-33B9-4686-87F4-0DBDB8DA4063
 Type: VOICE UPDATE
@@ -94,7 +94,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-22%206DE8B58E-33B9-4686-87F4-0DBDB8DA4063.txt
-Summary: The FJB cryptocurrency project planned to donate $15,000 directly to families affected by the Wisconsin tragedy while launching a major marketing campaign including CoinZilla ads across 10 sites and confirmed Gateway Pundit article publication for the following day. The project continued experiencing delays with ProBit and WhiteBit exchange listings despite paid expedited service, while conducting meetings with BitMart and Bittrex exchanges and preparing for sponsorship of both the Grand Young Party event on December 19th and Turning Point USA conference featuring Ted Cruz, Candace Owens, and Charlie Kirk.
+Summary: The project purchased extensive advertising through Coinzilla that will run on 10 cryptocurrency trading sites starting tomorrow, along with confirmed articles in Gateway Pundit and potentially Breitbart the same day. The team plans to donate $15,000 directly to families affected by the Waukesha, Wisconsin tragedy and is working on establishing a community donation fund through Give Send Go rather than GoFundMe.
 
 UUID: B007BB2C-A7EB-4A74-B084-08E6EA6DFFD2
 Type: VOICE UPDATE
@@ -103,7 +103,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-23%20B007BB2C-A7EB-4A74-B084-08E6EA6DFFD2.txt
-Summary: The FJB cryptocurrency project's major undisclosed news deal remained in final negotiations while the team secured confirmed publication from Gateway Pundit and scheduled a Breitbart interview, with CoinZilla ads across 10 sites still pending launch despite payment. The project planned a Twitter AMA with Ryan Fournier for Wednesday evening before Thanksgiving and continued pursuing a $15,000 donation for Wisconsin tragedy victims while expressing skepticism about GoFundMe platforms due to concerns about funds reaching intended recipients.
+Summary: The project is waiting for CoinZilla advertising to deploy across 10 cryptocurrency trading sites after payment was completed, with screenshots showing "pending" status as of 5:32 PM. A Twitter AMA with Ryan Fournier is scheduled for Wednesday evening (approximately 6-7 PM) ahead of Thanksgiving, while interviews with Breitbart and Gateway Pundit articles are expected to publish tomorrow despite earlier delays.
 
 UUID: AB7F1B54-46B1-4370-9C84-17F5A7DD49FC
 Type: VOICE UPDATE
@@ -112,7 +112,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-24%20AB7F1B54-46B1-4370-9C84-17F5A7DD49FC.txt
-Summary: The FJB cryptocurrency project leadership expressed extreme confidence in pending major news while confirming Gateway Pundit and Breitbart publications were secured, with the team coordinating a Twitter AMA with Ryan Fournier for early evening targeting 5:30-7PM. The project continued experiencing delays with ProBit and WhiteBit exchanges despite ongoing negotiations with additional exchanges, while leadership emphasized the next seven days through Thanksgiving would be "tremendous" for the project's growth trajectory.
+Summary: The project leader confirmed Gateway Pundit and Breitbart articles are still pending publication despite Wednesday travel delays, while expressing extreme confidence that major undisclosed news will not fall through and will make competing coins "absolutely irrelevant within 10 days." A Twitter AMA with Ryan Fournier is being coordinated for early evening (5:30-7:00 PM) to accommodate Thanksgiving travel schedules, with the leader predicting the seven days following Thanksgiving through Christmas will see the project "fucking explode."
 
 UUID: ADD9FFF1-300C-4AF3-A2C3-A1C772BC2F10
 Type: VOICE UPDATE
@@ -121,7 +121,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-28%20ADD9FFF1-300C-4AF3-A2C3-A1C772BC2F10.txt
-Summary: The FJB cryptocurrency project confirmed XT exchange listing for Monday (a US trading platform with 3 million users and $100 billion daily trading volume) alongside a Gateway Pundit article publication scheduled for the same day, while WhiteBit exchange was targeted for Tuesday the 30th. The project leadership, who scheduled LASIK surgery for Thursday, coordinated a major social media campaign targeting journalists including Ian Haworth of the Daily Caller and continued negotiations for paid TikTok promotions to coincide with the exchange listings.
+Summary: XT exchange listing is confirmed for Monday with access to 3 million US users and $100 billion USDT daily trading volume, coinciding with a Gateway Pundit article publication the same day. The project leader is scheduling LASIK surgery for Thursday and will be inactive for several hours, while WhiteBit exchange is expected to list on Tuesday (November 30th) after weekend delays from their team.
 
 UUID: FAFC7B4E-7D20-46FD-A261-7A42D39B06F0
 Type: VOICE UPDATE
@@ -130,11 +130,40 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-30%20FAFC7B4E-7D20-46FD-A261-7A42D39B06F0.txt
-Summary: The FJB cryptocurrency project leader delivered an impassioned speech on day 38, revealing the project had grown from 1,000 holders on November 4th to nearly 7,000 holders by November 30th while maintaining $50,000 in charitable donations. The leader promised that by the end of the week, major news would validate his vision that FJB would be one of the few "life-changing" cryptocurrencies among the 10,000 existing coins, positioning it as a historical movement that would be studied in textbooks by 2050.
+Summary: The project leader delivered an emotional speech on day 38, revealing the coin has grown from 1,000 holders on November 4th to nearly 7,000 holders by November 30th, while urging holders to wait until the end of the week for major news that will validate his vision. He expressed absolute confidence that FJB coin will be one of the few "life-changing" cryptocurrencies among the 10,000 existing coins, predicting it will appear in textbooks by 2050 as part of the Let's Go Brandon movement's historical significance.
 
 ~~~~~~~~~~~~~~
 2021 DECEMBER
 ~~~~~~~~~~~~~~
+
+UUID: 90A06E60-329F-41B2-A190-64AD5B57C0AB
+Type: OWNERSHIP CHANGE
+Date: 2021-12-02
+Reference: BB9BE200-AA8E-46BB-875E-C51B818AE18E Grant Tragni states that ownership transferred on 2021-12-02
+
+UUID: 3FC2A1FB-3C37-4E11-A635-B6B4D868B532
+Type: ROLE CHANGE
+Date: 2021-12-02
+Name: Grant Tragni
+Old Role: Project Owner
+New Role: [INCOMPLETE]
+Reference: 90A06E60-329F-41B2-A190-64AD5B57C0AB
+
+UUID: 
+Type: ROLE CHANGE
+Date: 2021-12-02
+Name: Stephen Bannon
+Old Role: NONE
+New Role: [INCOMPLETE]
+Reference: 90A06E60-329F-41B2-A190-64AD5B57C0AB
+
+UUID: 
+Type: ROLE CHANGE
+Date: 2021-12-02
+Name: Boris Epshteyn
+Old Role: NONE
+New Role: [INCOMPLETE]
+Reference: 90A06E60-329F-41B2-A190-64AD5B57C0AB
 
 UUID: EC1C3737-9FFC-4858-A8E5-9628D82677C7
 Type: VOICE UPDATE
@@ -143,7 +172,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-04%20EC1C3737-9FFC-4858-A8E5-9628D82677C7.txt
-Summary: The FJB cryptocurrency project experienced a significant price drop alongside broader crypto market declines on day 41 (December 4th), with leadership attributing the selloff to $2.6 billion in 401k liquidations affecting all cryptocurrencies including Bitcoin and Ethereum. The leadership confirmed WhiteBit exchange listing for Monday while emphasizing that the pending major news would be strategically released when market conditions improved, comparing FJB's potential trajectory to Dogecoin's rise from $0.0032 in December 2020 to over $0.70 in 2021.
+Summary: The project leader addressed the crypto market crash on day 41, comparing FJB's current price of 0.001 to Dogecoin's December 2020 price of 0.0032, which later reached over 70 cents by May 2021, while emphasizing strategic timing for the major news release. He confirmed WhiteBit exchange listing for Monday and assured holders that the pending news is "solidified" and will be heard through multiple media avenues, not just Discord, describing it as "one of the most historic news to ever hit crypto."
 
 UUID: 5ED7084C-52D0-4EAF-B546-157E46802AF3
 Type: VOICE UPDATE
@@ -152,7 +181,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-08%205ED7084C-52D0-4EAF-B546-157E46802AF3.txt
-Summary: The FJB cryptocurrency project distributed 800,000 tokens ($200,000 each) to four community members for their contributions including public sticker campaigns and social media management, while confirming WhiteBit exchange listing was fully paid and signed. The leadership indicated major news would be rolled out within seven days, describing it as bigger than the Tim Pool mention, with Breitbart and Gateway Pundit publications pending as part of a coordinated media strategy that would "all make sense" when revealed.
+Summary: The project distributed 800,000 FJB tokens total to four community members (Bob24, SunDevil28, Discord, and Pokey) for their exceptional contributions including public sticker distribution, social media management, and long-term commitment to the project. The leader confirmed the major news deal is "signed" and "done" with rollout planned within seven days, while Coin Gecko listing was achieved and WhiteBit exchange remains in communication delays due to time zone differences.
 
 UUID: 7E23A915-6E76-42CC-B4BC-B41EEA1905C4
 Type: VOICE UPDATE
@@ -161,7 +190,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-13%207E23A915-6E76-42CC-B4BC-B41EEA1905C4.txt
-Summary: The FJB cryptocurrency project confirmed their signed deal was complete with announcements pending within days, while the team worked on KuCoin exchange listing negotiations through contact "Mei Lang Wang" and struggled with technical issues on XT.com where $5,000 in Bitcoin remained stuck. The project launched their new website at FJBcoin.org with updated red, white, and blue branding, while leadership distributed hints about the upcoming news through images and emphasized that the rollout required significant backend preparation and funding to execute properly.
+Summary: The project leader confirmed the major news deal is "done" and "signed" with everything "squared away," but requires significant backend setup and funding for proper rollout, while also revealing active negotiations with KuCoin exchange (top-5 exchange) through representative Mei Lang Wang. The new website FJBcoin.org launched with a red, white, and blue color scheme, while XT.com exchange continues experiencing deposit/withdrawal issues despite active trading, with $5,000 of the leader's Bitcoin stuck on the platform for weeks.
 
 UUID: 363FD851-3D76-4C17-8F0F-F6704381C4A5
 Type: VOICE UPDATE
@@ -170,7 +199,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-15%20363FD851-3D76-4C17-8F0F-F6704381C4A5.txt
-Summary: The FJB cryptocurrency project launched an NFT auction created by community member Nonarchist with proceeds going to St. Jude's Children's Hospital, running until December 22nd at noon Eastern, while distributing 1 million tokens nightly including 250,000 each for Omegle promotional campaigns. The leadership reported continued work on KuCoin exchange listing through legal review processes and expressed frustration that the major news announcement remained delayed due to compliance issues despite being "two steps forward, one step back" for weeks.
+Summary: The project leader launched an NFT auction created by community member Nonarchist, with all proceeds going to St. Jude's Children's Hospital for Christmas, running until December 22nd at 12 PM Eastern. He distributed 1 million FJB to Nonarchist and 250,000 FJB to FJB Diamond Hand for bathroom sticker promotion, while launching an Omegle shilling contest offering 250,000 FJB to two winners who promote the coin on the platform.
 
 UUID: C5DB218A-3638-4317-83E6-FC27E1961582
 Type: VOICE UPDATE
@@ -179,7 +208,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-17%20C5DB218A-3638-4317-83E6-FC27E1961582.txt
-Summary: The Discord voice transcript from December 17, 2021 documents a cryptocurrency project leader announcing a $5,600 donation to Semper Fi charity which was matched to total $11,200, marking day 56 of their project with cumulative charitable donations reaching approximately $58,000. The speaker discusses ongoing community engagement, confirms their continued involvement despite ownership changes, and maintains enthusiasm for the "Let's Go Brandon Coin" cryptocurrency project while addressing holder concerns about project legitimacy.
+Summary: The speaker announces a $5,600 donation to Semper Fi charity on day 56 of their cryptocurrency project, which was matched by the organization to total $11,200. The project has donated approximately $58,000 total across multiple charities, averaging over $1,000 per day since inception.
 
 UUID: BB9BE200-AA8E-46BB-875E-C51B818AE18E
 Type: VOICE UPDATE
@@ -188,7 +217,7 @@ Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-19%20BB9BE200-AA8E-46BB-875E-C51B818AE18E.txt
-Summary: The Discord voice transcript from December 19, 2021 reveals the former president of the Let's Go Brandon cryptocurrency project confirming he sold ownership on December 2nd but remains actively involved as a community liaison and spokesperson, while emphasizing that major news from unnamed "big name" public figures is imminent before Christmas. The speaker distributed one million FJB tokens to community members during the session and defended the project's 58-day timeline against criticism, comparing it to Bitcoin's 30% decline and noting that Dogecoin took years to achieve success.
+Summary: The speaker addresses concerns about selling the project, confirming they remain actively involved despite transferring ownership on December 2nd and cannot dictate news timing anymore. They announce distributing one million FJB tokens to community members and express confidence that major news involving "public figures" and "movers and shakers" will be released before Christmas.
 
 ~~~~~~~~~~~~~~
 2022 JANUARY
@@ -201,7 +230,23 @@ Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-06%2045629FB3-091D-40F3-974E-CFC45AB13FDC.txt
-Summary: 
+Summary: Steve Bannon and Boris Epstein announced their partnership with FJB coin on January 6th, stating their goal to establish it as the official currency of the MAGA movement with major retailers accepting it by end of 2022. Bannon emphasized building FJB as an alternative to fiat currency that cannot be controlled by the current administration, while committing to develop a payment gateway and blockchain media utility exclusive to coin holders.
+
+UUID: B716D2A0-1AAE-4465-A112-EFE8E1954168
+Type: OWNERSHIP CHANGE
+Date: 2022-01-06
+Reference: BB9BE200-AA8E-46BB-875E-C51B818AE18E Grant Tragni states that ownership transferred on 2021-12-02
+Reference: 45629FB3-091D-40F3-974E-CFC45AB13FDC Grant Tragni, Stephen Bannon, Boris Epshteyn collectively announce a partnership with FJB Coin
+
+UUID: BCC43733-F4C1-4041-A71C-7CF6F9464CE1
+Type: GOAL STATEMENT
+Date: 2022-01-06
+Claim: establish it as the official currency of the MAGA movement
+Claim: major retailers accepting it by end of 2022
+Claim: building FJB as an alternative to fiat currency that cannot be controlled by the current administration
+Claim: committing to develop payment gateway
+Claim: committing to develop blockchain media utility exclusive to coin holders
+Reference: 45629FB3-091D-40F3-974E-CFC45AB13FDC
 
 UUID: 8B720706-6219-4A3E-8CCE-7B54495A0932
 Type: VOICE UPDATE
@@ -210,7 +255,23 @@ Speakers: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-18%208B720706-6219-4A3E-8CCE-7B54495A0932.txt
-Summary: 
+Summary: Erik Finman, the youngest Bitcoin millionaire, joined FJB coin as senior strategic advisor, emphasizing this is not a meme coin but a legitimate currency for the 75 million Trump voters to escape the traditional banking system that has banned conservatives. He revealed freedom phone will accept FJB as payment and major announcements about payment gateways and ease of use improvements will come the following Monday.
+
+UUID: ABB53A3F-1BCC-4025-B9E6-256BE3A62D31
+Type: ROLE CHANGE
+Date: 2022-01-18
+Name: Erik Finman
+Old Role: NONE
+New Role: Strategic Advisor
+Reference: 8B720706-6219-4A3E-8CCE-7B54495A0932
+
+UUID: 7775FE87-3832-4DC5-B871-E6AD52DF4D00
+Type: GOAL STATEMENT
+Date: 2022-01-18
+Claim: legitimate currency for the 75 million Trump voters to escape the traditional banking system that has banned conservatives
+Claim: freedom phone will accept FJB as payment
+Claim: major announcements about payment gateways and ease of use improvements will come the following Monday
+Reference: 8B720706-6219-4A3E-8CCE-7B54495A0932
 
 UUID: B92DFBC6-99D8-4F63-8161-0319D909E23C
 Type: VOICE UPDATE
@@ -219,7 +280,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-20%20B92DFBC6-99D8-4F63-8161-0319D909E23C.txt
-Summary: 
+Summary: The speaker addresses a Mother Jones article criticizing Steve Bannon's involvement with FJB coin, stating the outlet never contacted him for comment despite claiming he declined and that a rebuttal has been submitted. He announces the NFT drop has been postponed to Saturday due to technical difficulties and that Eric Finman will make a major announcement on Monday's War Room that will excite the entire crypto community.
 
 UUID: B564F5E9-6F3B-434E-866C-190EFBE573D7
 Type: VOICE UPDATE
@@ -228,7 +289,16 @@ Speakers: Grant Tragni, Erik Finman, Ryan Fournier
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-23%20B564F5E9-6F3B-434E-866C-190EFBE573D7.txt
-Summary: 
+Summary: Eric Finman announced FJB coin will launch a mobile app enabling direct USD-to-FJB purchases via credit card, making cryptocurrency accessible to the 75 million Trump voters without requiring technical knowledge of crypto exchanges. The app will be US-only initially, require KYC compliance, and also support Bitcoin and Ethereum purchases, with the goal of becoming the easiest crypto onramp for conservative Americans excluded from traditional banking systems.
+
+UUID: 63561DBF-1471-4FAB-9B21-B7FB38AB7DC5
+Type: GOAL STATEMENT
+Date: 2022-01-23
+Claim: FJB coin will launch a mobile app enabling direct USD-to-FJB purchases via credit card
+Claim: making cryptocurrency accessible to the 75 million Trump voters without requiring technical knowledge of crypto exchanges
+Claim: app will be US-only initially, require KYC compliance, and also support Bitcoin and Ethereum purchases
+Claim: goal of becoming the easiest crypto onramp for conservative Americans excluded from traditional banking systems
+Reference: B564F5E9-6F3B-434E-866C-190EFBE573D7
 
 UUID: F17CFB67-E36C-4A4C-9348-746371EE3C07
 Type: VOICE UPDATE
@@ -237,7 +307,7 @@ Speakers: Grant Tragni
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2022-01-23%20F17CFB67-E36C-4A4C-9348-746371EE3C07.txt
-Summary: 
+Summary: The speaker announces that Eric Finman will release major news on Monday, January 24th on War Room, emphasizing this represents a new chapter for the 90-day-old FJB coin project. He discusses the successful NFT launch for FJB holders through McNifty Art partnership and expresses extreme confidence that the upcoming announcement will fully reveal the project's vision to the community.
 
 UUID: 93343A01-6A7C-4F9F-A827-57C3ACE8A1EB
 Type: VOICE UPDATE
@@ -246,7 +316,16 @@ Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-27%2093343A01-6A7C-4F9F-A827-57C3ACE8A1EB.txt
-Summary: 
+Summary: The speakers positioned FJB coin as a long-term political and economic alternative to the U.S. dollar, with Steve Bannon emphasizing that cryptocurrency represents "a major foundational element for the liberty movement" that the government will try to regulate following the Federal Reserve's devaluation of the dollar by 98% since 1913. The project announced mock-ups for a new app to simplify coin purchases and transactions, with leadership stating they're building infrastructure to make FJB "the currency for the movement" and eventually have it accepted by retailers as an alternative store of value.
+
+UUID: 24C0F830-9FB7-4BA0-BE7B-178F23AC2B48
+Type: GOAL STATEMENT
+Date: 2022-01-27
+Claim: FJB coin as a long-term political and economic alternative to the U.S. dollar
+Claim: new app to simplify coin purchases and transactions
+Claim: leadership stating they're building infrastructure to make FJB "the currency for the movement"
+Claim: eventually have it accepted by retailers as an alternative store of value
+Reference: 93343A01-6A7C-4F9F-A827-57C3ACE8A1EB
 
 ~~~~~~~~~~~~~~
 2022 FEBRUARY
@@ -259,7 +338,14 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-02%2034A76104-CFE9-485D-81F7-709EB19FCA44.txt
-Summary: 
+Summary: The speaker announced that news originally planned for Tuesday was postponed due to Steve Bannon's father passing away, requiring schedule adjustments and backend cleanup. The main focus was reassuring the community about an upcoming app that will allow even "a 90 year old man" to easily purchase FJB coin, which the speaker positions as foundational infrastructure for becoming a "top 50 coin" rather than just a meme coin.
+
+UUID: 73F2460C-5F5F-42BA-B620-2E2C910B9AF0
+Type: GOAL STATEMENT
+Date: 2022-02-02
+Claim: upcoming app that will allow even "a 90 year old man" to easily purchase FJB coin
+Claim: becoming a "top 50 coin" rather than just a meme coin
+Reference: 34A76104-CFE9-485D-81F7-709EB19FCA44
 
 UUID: 9B5F65D1-E589-4ADB-9F7B-89BE9FD5F1C2
 Type: VOICE UPDATE
@@ -268,7 +354,22 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-07%209B5F65D1-E589-4ADB-9F7B-89BE9FD5F1C2.txt
-Summary: 
+Summary: The speaker announced FJB coin donated 10 million coins to the Canadian Freedom Convoy after being censored as the number one trending topic on StockTwits, which they plan to target again at 4 a.m. the following morning. He emphasized the upcoming app will make buying FJB coins "easier than buying toilet paper on Amazon" and reiterated his vision for FJB to become a top 10 cryptocurrency that will be mentioned alongside Bitcoin and Ethereum in future textbooks.
+
+UUID: 7095F967-9690-4DA6-B3D2-618432A08532
+Type: GOAL STATEMENT
+Date: 2022-02-07
+Claim: upcoming app will make buying FJB coins "easier than buying toilet paper on Amazon"
+Claim: reiterated his vision for FJB to become a top 10 cryptocurrency that will be mentioned alongside Bitcoin and Ethereum in future textbooks
+Reference: 9B5F65D1-E589-4ADB-9F7B-89BE9FD5F1C2
+
+UUID: 5192A8E7-0C25-4A0A-A968-7D2CCEBEA493
+Type: DONATION
+Date: 2022-02-07
+Sender: ?FJB Coin
+Recipient ?Canadian Freedom Convoy
+Amount: 10,000,000 FJB
+Evidence: [INCOMPLETE]
 
 UUID: 6A2BEBB1-CA00-46B1-A222-D626F6F0A2E8
 Type: VOICE UPDATE

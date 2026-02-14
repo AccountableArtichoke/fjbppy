@@ -7,12 +7,41 @@ contact fjbvoicetranscripts@proton.me with updates/suggestions
 ~~~~~~~~~~~~~~
 
 UUID: [UUID]
-Type: [VOICE UPDATE]
+Type: VOICE UPDATE
 Date: [DATE]
 Speakers: [1], [2], [3]
 Platform: [DISCORD], [TELEGRAM]
 Audio File: [URL]
 Transcript: [URL]
 Summary: [TEXT]
+
+UUID: [UUID]
+Type: OWNERSHIP CHANGE
+Date: [DATE]
+Reference: [UUID][SHORT EXPLANATION]
+Reference: [UUID][SHORT EXPLANATION]
+
+UUID: [UUID]
+Type: ROLE CHANGE
+Date: [2022-01-18]
+Name: [TEXT]
+Old Role: [TEXT]
+New Role: [TEXT]
+Reference: [UUID]
+
+UUID: [UUID]
+Type: GOAL STATEMENT
+Date: [DATE]
+Claim: [TEXT]
+Claim: [TEXT]
+Reference: [UUID]
+
+UUID: [UUID]
+Type: DONATION
+Date: [DATE]
+Sender: [TEXT]
+Recipient [TEXT]
+Amount: [NUMBER]
+Evidence: [UUID]
 
 ##############
