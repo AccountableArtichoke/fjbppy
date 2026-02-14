@@ -745,7 +745,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-02%2062024F37-B3F3-4637-B898-6705D209E95E.txt
-Summary: 
+Summary: Testing began Monday with the team awaiting Change Now and Transact to enable trading for full app integration testing, with community testing to follow within 24 hours if successful, after which trading will open with no limits and airdrops will be distributed. The primary development focus is simplifying app account creation to prevent user errors before War Room marketing launch, particularly addressing issues with users accessing wallets on new devices, with Steve planning extensive marketing once the app is sufficiently user-friendly.
 
 UUID: AF6E369F-3AB8-47E4-8243-D9D7EA8CCB57
 Type: VOICE UPDATE
@@ -754,7 +754,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-09%20AF6E369F-3AB8-47E4-8243-D9D7EA8CCB57.txt
-Summary: 
+Summary: Testing has progressed smoothly despite initial Polygon network issues, with Change Now expected to be ready within 12 hours and Transak awaiting final approval to enable trading, after which team testing of the app integration will begin before community testing opens. Once testing confirms no contract changes are needed, airdrops will be distributed and full trading will be enabled without the current $1,000 limit, followed by the release of the launch video and implementation of merchant onboarding guidelines.
 
 UUID: 3AF0682B-F9E3-4E7A-B899-C22F6F9ACC36
 Type: VOICE UPDATE
@@ -763,7 +763,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-19%203AF0682B-F9E3-4E7A-B899-C22F6F9ACC36.txt
-Summary: 
+Summary: The Transac integration is fully complete with buttons now live, while ChangeNow remains in final testing and is the last dependency blocking the PatriotPay app launch, which the team expects to finalize by the end of the weekend. A 24-hour notice will precede the airdrop once contract testing concludes, with developers actively working to resolve a transfer-fail issue that, while not critical to normal operations, is being addressed to ensure contract integrity before going live.
 
 UUID: 6B22A0D1-F5F9-4F05-8B6C-C926B09078D1
 Type: VOICE UPDATE
@@ -772,7 +772,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-23%206B22A0D1-F5F9-4F05-8B6C-C926B09078D1.txt
-Summary: 
+Summary: ChangeNow is expected to complete integration testing by Wednesday morning after final contract modifications were made this week, with the team planning to announce the airdrop with 24-hour notice once testing concludes. Monday's partner meeting yielded unexpectedly positive results regarding a new app feature that will support community growth, with the updated white paper to follow within the same week as the airdrop.
 
 UUID: 9A327FF4-B4B3-4353-B65A-E2BFC838BF69
 Type: VOICE UPDATE
@@ -781,7 +781,11 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-30%209A327FF4-B4B3-4353-B65A-E2BFC838BF69.txt
-Summary: 
+Summary: The airdrop is confirmed for this week pending ChangeNow's imminent completion of integration testing, with all airdrops to be distributed simultaneously via an automated process followed by a 24-hour notice before trading is enabled. Contract testing is complete and the team has added a new graphics designer to support social media growth, while a Monday partner meeting yielded significant progress on new app login and account creation features that will be required before the war room marketing phase begins.
+
+~~~~~~~~~~~~~~
+2024 FEBRUARY
+~~~~~~~~~~~~~~
 
 UUID: 86FB7A12-54DD-4FE1-9C2F-90D02A6A2420
 Type: VOICE UPDATE
@@ -790,11 +794,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-02%2086FB7A12-54DD-4FE1-9C2F-90D02A6A2420.txt
-Summary: 
-
-~~~~~~~~~~~~~~
-2024 FEBRUARY
-~~~~~~~~~~~~~~
+Summary: ChangeNow and Transact integrations are fully complete and awaiting the green light, with the airdrop scheduled for this week (ending Saturday) followed by a notice period that may be shorter than 24 hours depending on partner availability to enable trading simultaneously. A major app overhaul addressing long-requested community improvements is underway and nearly complete, pending final smart wallet integration fixes from the Vess development team, with all new features already built and contracts attorney-reviewed awaiting only a signature date.
 
 UUID: 62FD33C7-D414-4568-9903-DA80B104060D
 Type: VOICE UPDATE
@@ -803,7 +803,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-05%2062FD33C7-D414-4568-9903-DA80B104060D.txt
-Summary: 
+Summary: The airdrop has been completed with most holders receiving their PatriotPay coins, while remaining special cases and smart wallet holders will receive manual transfers in upcoming batches, followed by the token burn once all distributions are verified. The team's primary focus for February is completing app testing and signing a new login/account creation partnership contract, which Steve Bannon has identified as the prerequisite for War Room marketing to ensure the platform can handle the anticipated influx of first-time crypto users.
 
 UUID: 2CBE7FF6-74AF-4E53-B1A6-5E1673BE1CE1
 Type: VOICE UPDATE
@@ -812,7 +812,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-09%202CBE7FF6-74AF-4E53-B1A6-5E1673BE1CE1.txt
-Summary: 
+Summary: The development team is working on new on-ramp integrations with an estimated nine-day completion timeline, which will enable a partnership announcement that promises to be "bigger, better and inclusive of everything we've had before" with Transact and ChangeNow. The app completion—including smart wallet fixes, app store rebranding from FJB to PatriotPay, and stress testing—remains the sole prerequisite before War Room marketing can begin, with the team expecting these milestones to be achieved by the end of February.
 
 UUID: F3E5E23D-53E8-4505-8D41-C9487BA36AA2
 Type: VOICE UPDATE
@@ -821,7 +821,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-13%20F3E5E23D-53E8-4505-8D41-C9487BA36AA2.txt
-Summary: 
+Summary: The white paper is confirmed for release this week and includes details on "Patriot Perks," an umbrella program featuring reflections and other holder benefits, while the team finalizes a major partnership agreement currently under legal review. The roadmap reveals Q1 priorities including a significantly redesigned app with simplified wallet creation and login through a tier-one partner used by Disney and Nike, with War Room marketing expected by year-end only after the app is fully stress-tested through phased lower-volume campaigns.
 
 UUID: 6536A998-E43B-40B4-89A3-D22709BB41C3
 Type: VOICE UPDATE
@@ -830,7 +830,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-16%206536A998-E43B-40B4-89A3-D22709BB41C3.txt
-Summary: 
+Summary: The dev working on the new on-ramp integration remains on track to complete their portion by Tuesday, though the third-party vendor's processing may extend beyond that date, while the white paper is still scheduled for release by end of week. The team continues interviewing developers to accelerate app completion, with War Room marketing ruled out for March or April since multiple lower-volume marketing campaigns must first be conducted to stress-test the app and ensure it can handle high-volume wallet creation before the major push.
 
 UUID: 05539927-A905-4D4F-948D-8482B7AC144E
 Type: VOICE UPDATE
@@ -839,7 +839,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-20%2005539927-A905-4D4F-948D-8482B7AC144E.txt
-Summary: 
+Summary: The team has multiple app deployments ready to push sequentially, starting with PatriotPay integration testing expected within a week, followed by a new wallet creation system from a tier-one company (used by Disney and Nike) that will require users to create new accounts since existing seed phrases cannot be imported into the new system initially. The white paper's reflection mechanism has been clarified to involve a separate companion coin that earns PPY as reflections, rather than direct PPY reflections, while a new transfer integration will allow users to manage external exchange holdings directly within the app without visiting third-party sites.
 
 UUID: 0D697691-94C1-4FFE-9997-B2E3B6C2F7FC
 Type: VOICE UPDATE
@@ -848,7 +848,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-27%200D697691-94C1-4FFE-9997-B2E3B6C2F7FC.txt
-Summary: 
+Summary: TipCC deposits and withdrawals are now fully functional on Discord, and Android users have received an app update with the new logo, though Apple App Store approval is still pending and users are reminded not to use the app until officially instructed. Community app testing is targeted for the end of this week pending one remaining dev detail, while CPAC yielded the project's first political donations candidate and several promising partnership leads that will be announced as they finalize.
 
 ~~~~~~~~~~~~~~
 2024 MARCH
@@ -861,7 +861,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-01%2094B41CCF-5A5B-4A55-95EA-189152BF9E48.txt
-Summary: 
+Summary: The Google Play Store now displays the app as PatriotPay with reviews transferred over, while Apple's update is delayed pending creation of a new developer account and LLC review, with no estimated completion time. All pending app deployments—including the new login/wallet generation system and on-ramp integration—are scheduled to roll out in March, followed by marketplace and education features that must be complete before marketing begins, with several promising CPAC partnerships still in contract negotiations targeting Q1 completion.
 
 UUID: F1954122-CAD8-4C28-B99F-4057755A4A1F
 Type: VOICE UPDATE
@@ -870,7 +870,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-05%20F1954122-CAD8-4C28-B99F-4057755A4A1F.txt
-Summary: 
+Summary: The development team has completed the on-ramp integration and has three to four app deployments ready to roll out sequentially, pending resolution of issues with a former partner, with app testing targeted for the end of the week once known bugs are fixed. A morning call with a CPAC contact explored long-term plans (2025-2026) for PatriotPay to potentially operate its own on-ramp and banking services with proprietary licensing, while Apple App Store progress has improved with a new representative expediting LLC and DUNS verification expected within one to two days.
 
 UUID: 86D6FC09-8978-4980-A82B-D7A517A19A2E
 Type: VOICE UPDATE
@@ -879,7 +879,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-08%2086D6FC09-8978-4980-A82B-D7A517A19A2E.txt
-Summary: 
+Summary: Developers have committed to delivering outstanding app work by Monday, while Apple's verification process is progressing with an expected call within 24-48 hours followed by 5-7 business days for LLC verification before the App Store name change can proceed. The Replatform Payments conference sponsored by GapPay is yielding promising connections, including discussions with a physician interested in accepting PPY who is also engaged in a lawsuit against the FDA, and conversations with Bitcoin Magazine representatives for potential collaboration.
 
 UUID: 9F193AC4-E84E-4FBD-B11E-968DF0BCFABE
 Type: VOICE UPDATE
@@ -888,7 +888,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-12%209F193AC4-E84E-4FBD-B11E-968DF0BCFABE.txt
-Summary: 
+Summary: The Apple App Store verification is now progressing correctly after a previous representative provided incorrect instructions, with the verification partner estimating completion between April 1st and April 23rd, though it often resolves sooner. Developers believe the current app issues may be related to ChangeNow and are working with them to resolve it, while the team has found and tested an alternative to Vess for the new login and wallet creation system, with early discussions targeting Q3 2024 for a proprietary on-ramp solution to increase self-sufficiency.
 
 UUID: BE30C484-2E41-4A17-9EBD-EE1BAE65AB8D
 Type: VOICE UPDATE
@@ -897,7 +897,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-15%20BE30C484-2E41-4A17-9EBD-EE1BAE65AB8D.txt
-Summary: 
+Summary: Significant progress has been made on the app in the past 24-48 hours, though development is currently stalled waiting on a partner to resolve an error affecting both smart wallet and expert wallet functionality, which the dev has identified as originating from the partner's side. The educational video series is progressing well with two videos completed out of 15 planned, starting with cryptocurrency basics for newcomers, while the team remains on track to complete Q1 roadmap items including the marketplace integration that was prioritized due to merchant interest.
 
 UUID: 3E9AC28B-A4BA-4896-ADC8-3E7528DA1112
 Type: VOICE UPDATE
@@ -906,7 +906,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-19%203E9AC28B-A4BA-4896-ADC8-3E7528DA1112.txt
-Summary: 
+Summary: The team is currently blocked by a ChangeNow API issue affecting swap functionality in the app, which must be resolved before users can transfer funds out of smart wallets—a prerequisite for deploying the already-completed new authentication and wallet generation service, followed by the on-ramp integration. The roadmap has been reorganized to prioritize marketplace functionality over Patriot Perks this quarter due to merchant demand, while Apple's verification partner has approved all submitted documents with final verification expected soon to enable App Store name searchability.
 
 UUID: FE000719-E768-47F1-A545-20C0E8D0AAD2
 Type: VOICE UPDATE
@@ -915,7 +915,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-26%20FE000719-E768-47F1-A545-20C0E8D0AAD2.txt
-Summary: 
+Summary: Apple's verification system is complete with App Store listing updates expected within 24 hours, marking a major milestone required before marketing can begin since both Apple and Google Play stores will then show PatriotPay as searchable. The primary remaining blocker is the ChangeNow API issue, which once resolved will enable sequential deployment of the new login/wallet generation service and on-ramp integration, with users needing to transfer funds out of smart wallets (tax reimbursed) before the new authentication system goes live.
 
 UUID: 4A283810-9E31-4520-BAF4-B826064E3281
 Type: VOICE UPDATE
@@ -924,7 +924,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-29%204A283810-9E31-4520-BAF4-B826064E3281.txt
-Summary: 
+Summary: ChangeNow fixed their API issue overnight, and the developer is now working to get the app ready for community testing potentially by the end of the weekend, which will enable users to transfer funds out of smart wallets before the new login/wallet generation service is deployed. Apple App Store submission has been completed under the new developer account following the name change, with Google Play Store updates already live, clearing the path for marketing to begin once the app is functional and tested through sequential deployments of the authentication service, on-ramp integration, education page, and marketplace.
 
 ~~~~~~~~~~~~~~
 2024 APRIL
@@ -937,7 +937,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-02%20596F7B68-7B86-4C97-93B3-9F85E973C50D.txt
-Summary: 
+Summary: Apple App Store listing is now live as PatriotPay alongside the already-updated Google Play Store, completing a critical prerequisite for marketing to begin once the app is functional. The ChangeNow API fix is confirmed working, but the smart wallet is still throwing internal server errors related to gas estimation that the dev aims to resolve this week, after which users will have approximately two days to transfer funds out of smart wallets before the new login/wallet generation service and on-ramp integration are deployed sequentially for community testing.
 
 UUID: 60AAD3C6-5DCB-4347-B614-EFC313A0AA1C
 Type: VOICE UPDATE
@@ -946,7 +946,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-05%2060AAD3C6-5DCB-4347-B614-EFC313A0AA1C.txt
-Summary: 
+Summary: The Smart Wallet is now functioning after being fixed Wednesday night, but deployment is pending further testing to resolve a double-tax and gas calculation issue before users are asked to move funds and begin broader marketing. The team plans a phased rollout starting with controlled user testing and light marketing to avoid past launch failures, with additional features like on-ramp services and political donations to follow once the new wallet login system is stable.
 
 UUID: 7634DD5E-C461-47D3-A7D3-BB2A15B03EE0
 Type: VOICE UPDATE
@@ -955,7 +955,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-09%207634DD5E-C461-47D3-A7D3-BB2A15B03EE0.txt
-Summary: 
+Summary: The team must modify the smart contract to eliminate an unintended additional ~8% operator wallet charge causing double taxation in the Smart Wallet, delaying community testing until a permanent fix is implemented. They also plan to remove USDT and USDC on Ethereum from the Smart Wallet due to high gas fees and user confusion, shifting stablecoin support to Polygon while reimbursing users for taxes incurred when transferring from the old Smart Wallet.
 
 UUID: E574BFD1-C2F2-4252-A18B-253208D8BF1B
 Type: VOICE UPDATE
@@ -964,7 +964,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-12%20E574BFD1-C2F2-4252-A18B-253208D8BF1B.txt
-Summary: 
+Summary: The double-tax issue in the Smart Wallet has been successfully resolved, and the only remaining blocker before deployment is fixing failed USDT/stablecoin transfers so users can move funds out of existing Smart Wallets. Following that fix, the team plans a phased rollout including a new wallet generation system, on-ramp integration, and later marketplace and education features, prioritizing long-term stability over speed and reaffirming the strategic shift from BNB to Polygon.
 
 UUID: 1DDCC2BC-B733-46F0-9F35-3CF709D55060
 Type: VOICE UPDATE
@@ -973,7 +973,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-16%201DDCC2BC-B733-46F0-9F35-3CF709D55060.txt
-Summary: 
+Summary: The double-tax and stablecoin issues in the Smart Wallet are effectively resolved, with only a minor remaining bug before users are prompted to transfer funds out ahead of deploying the new wallet generation system and on-ramp integration, pending final details from an upcoming developer meeting. Steve’s and Boris’s new wallets will be funded by the end of the week, after which additional burns and partner allocations will be addressed as part of the broader phased rollout.
 
 UUID: 29BE78BA-FDF7-4461-8369-936723F2C9FD
 Type: VOICE UPDATE
@@ -982,7 +982,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-19-1%2029BE78BA-FDF7-4461-8369-936723F2C9FD.txt
-Summary: 
+Summary: Users are urgently instructed to transfer all assets, including PPY and stablecoins, out of their Smart Wallets by the end of the weekend to avoid complications before the new wallet creation service is deployed, with only limited backend recovery options available for stragglers. The team is finalizing a contract to activate the new account and wallet creation service next week, after which phased testing will continue with the new on-ramp integration and gradual marketing to prevent prior launch issues.
 
 UUID: A20174E0-9C14-4E5D-A790-83FF16123B17
 Type: VOICE UPDATE
@@ -991,7 +991,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-19-2%20A20174E0-9C14-4E5D-A790-83FF16123B17.txt
-Summary: 
+Summary: All users are again urged to transfer any remaining assets out of their Smart Wallets by the end of the weekend, as the team plans to send final reminders and proceed with the transition while limited recovery options remain available. A 24-hour buy contest was launched offering 500,000 PPY to one winner, alongside continued reimbursements for Smart Wallet PPY transfers and ongoing preparations for the next deployment phase.
 
 UUID: 2867E0E6-8E55-4826-B91A-AEDC1F55FDDF
 Type: VOICE UPDATE
@@ -1000,7 +1000,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-23%202867E0E6-8E55-4826-B91A-AEDC1F55FDDF.txt
-Summary: 
+Summary: All users must urgently transfer any remaining assets, including PPY and other tokens, out of their Smart Wallets and securely store their seed phrases, as the upcoming switch to a new wallet and login service will eliminate access to current in-app wallets and limit recovery options. The team is awaiting the final contract to deploy the new wallet creation system this week, after which phased testing will continue with the new on-ramp integration before broader marketing begins.
 
 UUID: 2180039B-4B34-44C8-86FB-E3A09209BF5B
 Type: VOICE UPDATE
@@ -1009,7 +1009,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-26%202180039B-4B34-44C8-86FB-E3A09209BF5B.txt
-Summary: 
+Summary: Deployment of the new login and wallet creation system is delayed due to additional security changes required when switching from VES after recent Magic updates, though the contract is signed and an additional developer has been brought on to accelerate completion. The team hired a conservative PR firm and initiated approximately 21 new marketing contracts, planning a phased promotional rollout once testing is complete to avoid prior launch issues and ensure the app functions smoothly before a larger push.
 
 UUID: F963793C-4BB7-47B4-BF95-5AF03686F452
 Type: VOICE UPDATE
@@ -1018,7 +1018,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-30%20F963793C-4BB7-47B4-BF95-5AF03686F452.txt
-Summary: 
+Summary: Deployment remains delayed while developers modify the Smart Wallet transaction-signing process to replace VES and comply with recent Magic security changes, with leadership emphasizing correctness over speed before any marketing push. The team is also updating the smart contract to allow partial team-token sales instead of all-or-nothing sells, onboarding an additional developer, preparing to add SimpleSwap alongside ChangeNow, and continuing gradual marketing preparations pending completion of security updates.
 
 ~~~~~~~~~~~~~~
 2024 MAY
@@ -1031,7 +1031,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-03%202573F1BC-1FCC-4AF1-8CA7-F2A3C4E1DD8E.txt
-Summary: 
+Summary: The FJB token has been permanently replaced by PPY through the completed fork, and no FJB will be reissued under any circumstances, with all Smart Wallet transfer refunds now processed and users urged to secure their seed phrases before the full transition to the new login system. Smart contract modifications enabling partial team-token sales are complete and under review, while the security upgrade to replace VESS is still in progress with the developer returning Sunday to continue work before deployment.
 
 UUID: 4080CABB-9A1D-4A2F-8EC4-49F7A7964966
 Type: VOICE UPDATE
@@ -1040,7 +1040,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-07%204080CABB-9A1D-4A2F-8EC4-49F7A7964966.txt
-Summary: 
+Summary: Smart contract upgrades have been fully implemented and the app is functioning well in internal testing, but developers are still resolving a few remaining bugs from the recent security changes before releasing it for community testing, with no timeline being provided. Users are urgently reminded to move all funds out of the current wallet and securely store their seed phrases, as access to existing wallets will be permanently lost after the upcoming deployment.
 
 UUID: D45BBBDE-B743-4645-A959-7D77788BF07C
 Type: VOICE UPDATE
@@ -1049,7 +1049,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-10%20D45BBBDE-B743-4645-A959-7D77788BF07C.txt
-Summary: 
+Summary: All modifications for the new wallet creation system are complete and internally tested, with stablecoins (USDT, USDC, WBTC) being migrated from Ethereum to Polygon to significantly reduce transaction costs before community testing begins. Political donations will be prioritized after the on-ramp rollout, and users are urgently reminded to move funds out of existing app wallets and secure their seed phrases before the irreversible transition to the new login system.
 
 UUID: 2B5A2241-0C14-488D-B30B-3CB14E9EDA01
 Type: VOICE UPDATE
@@ -1058,7 +1058,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-14%202B5A2241-0C14-488D-B30B-3CB14E9EDA01.txt
-Summary: 
+Summary: The development team is finalizing the migration of stablecoins (USDT, USDC, WBTC) from Ethereum to Polygon to reduce gas costs, after which community testing will begin, followed by rollout of the new on-ramp and then political donation features once all bugs are resolved. Users are urgently reminded to remove all funds from Smart Wallet, secure their Expert Wallet seed phrases, and request any eligible transfer-tax refunds before the irreversible transition away from the current VESS-based system.
 
 UUID: 9A47420D-6091-4F63-972D-AAA5DBABC63C
 Type: VOICE UPDATE
@@ -1067,7 +1067,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-17%209A47420D-6091-4F63-972D-AAA5DBABC63C.txt
-Summary: 
+Summary: Community testing of the newly deployed app version has officially begun, featuring Polygon-based stablecoins, a simplified email-based wallet creation system, and upgraded security, with users instructed to create entirely new accounts and report bugs via the provided templates. The old VESS-based wallets will not carry over balances, no seed phrase is currently available for the new wallets (private key export coming later), and users must ensure prior funds were moved and seed phrases saved, as access to legacy wallets will not be recoverable after the transition.
 
 UUID: 6BEE01E0-D770-485B-A5DC-F00A59702AA7
 Type: VOICE UPDATE
@@ -1076,7 +1076,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-21%206BEE01E0-D770-485B-A5DC-F00A59702AA7.txt
-Summary: 
+Summary: Developers are actively fixing a smart contract-related bug affecting certain Matic-to-PPY swaps while the new OnRamper integration is now live in the app, with limited testing ongoing and political donations set as the next major feature once transaction stability is confirmed. Users who failed to save their old wallet seed phrases will permanently lose access to those funds, as the non-custodial VESS-based accounts cannot be recovered, and new Magic-based wallets rely on secure email access with additional key export functionality still pending.
 
 UUID: 24428FB9-6DA4-4349-90C8-BB77DEDBA3AB
 Type: VOICE UPDATE
@@ -1085,7 +1085,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-24%2024428FB9-6DA4-4349-90C8-BB77DEDBA3AB.txt
-Summary: 
+Summary: The team has resolved roughly 80% of known app bugs, with most swap issues now fixed, though intermittent ChangeNOW-related transaction errors and certain on-ramp verification display issues remain under active development. Users are urgently reminded to secure their old wallet seed phrases before VESS access is permanently removed, as unrecoverable funds cannot be restored, and further stress testing will begin once remaining transaction errors are stabilized before any marketing push.
 
 UUID: 3E4253B6-C28E-44A8-96E2-281D90C9A302
 Type: VOICE UPDATE
@@ -1094,7 +1094,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-28%203E4253B6-C28E-44A8-96E2-281D90C9A302.txt
-Summary: 
+Summary: The team has pushed an update enabling users to export their new wallet’s private key (for the expert wallet), and all users are urged to securely record and test that key in a trusted third-party wallet, as access cannot be recovered if lost. Developers are finalizing remaining transaction and ChangeNOW-related bugs before initiating broader stress testing, after which political donation functionality will be prioritized and soft marketing can begin once the app proves stable.
 
 UUID: 0096A8AB-28B6-4E3E-9A96-03D0C423274E
 Type: VOICE UPDATE
@@ -1103,7 +1103,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-31%200096A8AB-28B6-4E3E-9A96-03D0C423274E.txt
-Summary: 
+Summary: The development team has resolved most transaction-related bugs and is now focused on final stress testing and optimizing swap speed, with additional updates improving login persistence, verification autofill, and private key export for the new wallet system. Political donations are actively in development and estimated for early next week pending final bug fixes, after which broader stress testing and gradual marketing can begin once transaction stability is confirmed.
 
 ~~~~~~~~~~~~~~
 2024 JUNE
@@ -1116,7 +1116,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-04%2047245CB7-C744-40FD-B521-6D72169A3CAD.txt
-Summary: 
+Summary: The development team has resolved all previously identified bugs and fixed the API-related transaction volume issue, with final stress testing underway before soft marketing begins and political donations (including KYC for contributions over $50) going live later this week. Users are urgently reminded to move any remaining funds out of the legacy VESS wallet and export and securely store their new app private key, as unrecoverable loss is possible once third-party access ends.
 
 UUID: 82DAD92B-C173-4047-A622-8FD4D42ED30A
 Type: VOICE UPDATE
@@ -1125,7 +1125,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-08%2082DAD92B-C173-4047-A622-8FD4D42ED30A.txt
-Summary: 
+Summary: All known app bugs have been identified and are being permanently fixed and refactored by the developers, with political donations (including KYC for contributions over $50) fully integrated and pending final design adjustments before launch. Marketing will begin once remaining transaction and performance optimizations are complete and the app can reliably handle higher volume, while users are again warned to immediately recover any funds from the legacy VESS wallet and never share their private keys or verification codes.
 
 UUID: 28424EDE-578C-4C4F-8BC8-08D13389ABA4
 Type: VOICE UPDATE
@@ -1134,7 +1134,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-11%2028424EDE-578C-4C4F-8BC8-08D13389ABA4.txt
-Summary: 
+Summary: Current focus remains on resolving the final transaction/auth optimization issues so the app can handle higher volume before soft marketing begins, while political donations (with KYC for contributions over $50) are fully built and pending final design updates. Marketplace onboarding has officially begun with the first signed vendor (a Shark Tank-featured conservative-owned business), and users are again urged to secure their private keys and help any remaining legacy VESS wallet holders recover funds before access is permanently lost.
 
 UUID: 7067D74F-9EB8-4DE3-B6D5-18838DDDB75C
 Type: VOICE UPDATE
@@ -1143,7 +1143,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-14%207067D74F-9EB8-4DE3-B6D5-18838DDDB75C.txt
-Summary: 
+Summary: Development is focused on final transaction/auth optimizations and stress testing before soft marketing begins, while political donations (with KYC for contributions over $50) are complete and pending final polish. The first marketplace vendor (a conservative-owned Shark Tank business) is onboarded, additional features and referral systems are in progress, and users are strongly reminded to never connect wallets to unknown sites or share private keys due to recent scams.
 
 UUID: 39199C15-B037-459B-9BAA-500EB8FD947D
 Type: VOICE UPDATE
@@ -1152,7 +1152,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-18%2039199C15-B037-459B-9BAA-500EB8FD947D.txt
-Summary: 
+Summary: All major app bugs are resolved except the Android camera permission issue (currently top priority), while code optimization and final auth improvements are nearing completion before stress testing resumes. Political donations (with $50 anonymous limit and KYC above that) are built, a new marketplace feature is finishing up, marketing preparations are underway (video finalized, email campaigns queued), and soft marketing will begin once final camera and stability checks pass.
 
 UUID: 95C75E61-2B0B-4078-8A1A-E18E5F23C727
 Type: VOICE UPDATE
@@ -1161,7 +1161,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-21%2095C75E61-2B0B-4078-8A1A-E18E5F23C727.txt
-Summary: 
+Summary: Most app functionality is now stable, with remaining priorities focused on fixing the Android camera permission bug and fully resolving the logout/spinning-screen auth issue before soft marketing begins later this month. Marketplace enhancements, live support integration, and admin controls are nearly complete, while political donations (with $50 anonymous limit and KYC above that) are ready pending final testing, and users are strongly reminded never to share private keys or email verification codes due to recent scam incidents.
 
 UUID: 320FA4F8-D271-4555-9876-78834E8C47C8
 Type: VOICE UPDATE
@@ -1170,7 +1170,7 @@ Speakers:
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-28%20320FA4F8-D271-4555-9876-78834E8C47C8.txt
-Summary: 
+Summary: Initial soft marketing has begun with Instagram reels and targeted mass texts, generating strong website traffic and brand exposure while helping surface and fix minor website and app bugs before scaling further. Two influencers (≈80k and ≈500k followers) are scheduled next week, additional direct on-ramp integration is progressing faster than expected, and the team remains focused on stabilizing login/logout performance before ramping up larger promotions and mailing list campaigns.
 
 ~~~~~~~~~~~~~~
 2024 JULY
