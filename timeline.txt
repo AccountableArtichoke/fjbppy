@@ -274,6 +274,15 @@ LocalArchive: publications/2021-12-24%209A7DED94-53ED-46C2-BC8F-1A52DA8BAE0C
 Publisher: Daily Reuters
 Author: Mike Francis
 
+UUID: E58A61D9-DB73-4F71-9749-0E47DD10D695
+Type: PUBLICATION
+Date: 2021-12-25
+Source: https://www.thegatewaypundit.com/2021/12/steve-bannon-boris-epshteyn-announce-strategic-ownership-positions-fjb-coin-blockchain-project/
+WebArchive: https://web.archive.org/web/20211225191138/https://www.thegatewaypundit.com/2021/12/steve-bannon-boris-epshteyn-announce-strategic-ownership-positions-fjb-coin-blockchain-project/
+LocalArchive: publications/2021-12-25%20E58A61D9-DB73-4F71-9749-0E47DD10D695
+Publisher: The Gateway Pundit
+Author: Jim Hoft
+
 ~~~~~~~~~~~~~~
 2022 JANUARY
 ~~~~~~~~~~~~~~
