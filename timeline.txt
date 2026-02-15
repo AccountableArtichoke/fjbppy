@@ -175,6 +175,12 @@ Audio File:
 Transcript: transcripts/2021-12-04%20EC1C3737-9FFC-4858-A8E5-9628D82677C7.txt
 Summary: The project leader addressed the crypto market crash on day 41, comparing FJB's current price of 0.001 to Dogecoin's December 2020 price of 0.0032, which later reached over 70 cents by May 2021, while emphasizing strategic timing for the major news release. He confirmed WhiteBit exchange listing for Monday and assured holders that the pending news is "solidified" and will be heard through multiple media avenues, not just Discord, describing it as "one of the most historic news to ever hit crypto."
 
+UUID: 6A013782-8A76-44F3-B046-F3BD76B6A658
+Type: EXCHANGE LISTING
+Date: 2021-12-04
+Exchange: CoinGecko
+Evidence: 5ED7084C-52D0-4EAF-B546-157E46802AF3 [INCOMPLETE]
+
 UUID: 5ED7084C-52D0-4EAF-B546-157E46802AF3
 Type: VOICE UPDATE
 Date: 2021-12-08
@@ -183,6 +189,22 @@ Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-08%205ED7084C-52D0-4EAF-B546-157E46802AF3.txt
 Summary: The project distributed 800,000 FJB tokens total to four community members (Bob24, SunDevil28, Discord, and Pokey) for their exceptional contributions including public sticker distribution, social media management, and long-term commitment to the project. The leader confirmed the major news deal is "signed" and "done" with rollout planned within seven days, while Coin Gecko listing was achieved and WhiteBit exchange remains in communication delays due to time zone differences.
+
+UUID: 98EFACDA-CF47-4949-8E91-6032BFF55876
+Type: DONATION
+Date: 2021-12-08
+Sender: Grant Tragnia, FJBCoin
+Recipient: Bob24, Sundevil28, Discord, Pokey
+Amount: 200,000 FJB x 4 = 800,000 FJB
+Evidence: 2021-12-08%205ED7084C-52D0-4EAF-B546-157E46802AF3
+
+UUID: 205CA41F6E-7BF7-45FA-AEBB-AAAAE122F5D3
+Type: IMAGE
+Date: 2021-12-12
+Summary: Screenshot taken 2026-02-14 of the ICANN Lookup Tool for fjbcoin.org domain name showing created: 2021-12-12
+Source: https://lookup.icann.org/en/lookup
+WebArchive: https://archive.org/details/screenshot-20260214-180124
+LocalArchive: images/2021-12-12%205CA41F6E-7BF7-45FA-AEBB-AAAAE122F5D3.png
 
 UUID: 7E23A915-6E76-42CC-B4BC-B41EEA1905C4
 Type: VOICE UPDATE
@@ -194,13 +216,20 @@ Transcript: transcripts/2021-12-13%207E23A915-6E76-42CC-B4BC-B41EEA1905C4.txt
 Summary: The project leader confirmed the major news deal is "done" and "signed" with everything "squared away," but requires significant backend setup and funding for proper rollout, while also revealing active negotiations with KuCoin exchange (top-5 exchange) through representative Mei Lang Wang. The new website FJBcoin.org launched with a red, white, and blue color scheme, while XT.com exchange continues experiencing deposit/withdrawal issues despite active trading, with $5,000 of the leader's Bitcoin stuck on the platform for weeks.
 
 UUID: 363FD851-3D76-4C17-8F0F-F6704381C4A5
-Type: VOICE UPDATE
 Date: 2021-12-15
 Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-15%20363FD851-3D76-4C17-8F0F-F6704381C4A5.txt
 Summary: The project leader launched an NFT auction created by community member Nonarchist, with all proceeds going to St. Jude's Children's Hospital for Christmas, running until December 22nd at 12 PM Eastern. He distributed 1 million FJB to Nonarchist and 250,000 FJB to FJB Diamond Hand for bathroom sticker promotion, while launching an Omegle shilling contest offering 250,000 FJB to two winners who promote the coin on the platform.
+
+UUID: CFF50712-C8CD-478F-ACE4-A0848014554D
+Type: DONATION
+Date: 2021-12-15
+Sender: Grant Tragni, FJBCoin
+Recipient: St Jude's Children's Hospital
+Amount: [INCOMPLETE]
+Evidence: 363FD851-3D76-4C17-8F0F-F6704381C4A5 No direct evidence just him saying he donated money
 
 UUID: C5DB218A-3638-4317-83E6-FC27E1961582
 Type: VOICE UPDATE
@@ -211,6 +240,14 @@ Audio File:
 Transcript: transcripts/2021-12-17%20C5DB218A-3638-4317-83E6-FC27E1961582.txt
 Summary: The speaker announces a $5,600 donation to Semper Fi charity on day 56 of their cryptocurrency project, which was matched by the organization to total $11,200. The project has donated approximately $58,000 total across multiple charities, averaging over $1,000 per day since inception.
 
+UUID: [UUID]
+Type: DONATION
+Date: [DATE]
+Sender: [TEXT]
+Recipient [TEXT]
+Amount: [NUMBER]
+Evidence: [UUID]
+
 UUID: BB9BE200-AA8E-46BB-875E-C51B818AE18E
 Type: VOICE UPDATE
 Date: 2021-12-19
@@ -219,6 +256,23 @@ Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-19%20BB9BE200-AA8E-46BB-875E-C51B818AE18E.txt
 Summary: The speaker addresses concerns about selling the project, confirming they remain actively involved despite transferring ownership on December 2nd and cannot dictate news timing anymore. They announce distributing one million FJB tokens to community members and express confidence that major news involving "public figures" and "movers and shakers" will be released before Christmas.
+
+UUID: [UUID]
+Type: DONATION
+Date: [DATE]
+Sender: [TEXT]
+Recipient [TEXT]
+Amount: [NUMBER]
+Evidence: [UUID]
+
+UUID: 9A7DED94-53ED-46C2-BC8F-1A52DA8BAE0C
+Type: PUBLICATION
+Date: 2021-12-24
+Source: https://dailyreuters.com/steve-bannon-touts-alternative-cryptocurrency-fjb-for-trump-supporters-to-f-joe-biden [INCOMPLETE]
+WebArchive: https://web.archive.org/web/20220625043715/https://dailyreuters.com/steve-bannon-touts-alternative-cryptocurrency-fjb-for-trump-supporters-to-f-joe-biden/
+LocalArchive: publications/2021-12-24%209A7DED94-53ED-46C2-BC8F-1A52DA8BAE0C
+Publisher: Daily Reuters
+Author: Mike Francis
 
 ~~~~~~~~~~~~~~
 2022 JANUARY
@@ -274,6 +328,15 @@ Claim: freedom phone will accept FJB as payment
 Claim: major announcements about payment gateways and ease of use improvements will come the following Monday
 Reference: 8B720706-6219-4A3E-8CCE-7B54495A0932
 
+UUID: 91F910C8-69E9-41DF-B07B-A992D691AA54
+Type: PUBLICATION
+Date: 2022-01-19
+Source: https://www.motherjones.com/politics/2022/01/steve-bannon-boris-epshteyn-fjb-crypto/
+WebArchive: https://web.archive.org/web/20220119120905/https://www.motherjones.com/politics/2022/01/steve-bannon-boris-epshteyn-fjb-crypto/
+LocalArchive: publications/2022-01-19%2091F910C8-69E9-41DF-B07B-A992D691AA54
+Publisher: Mother Jones
+Author: Ali Breland, David Corn
+
 UUID: B92DFBC6-99D8-4F63-8161-0319D909E23C
 Type: VOICE UPDATE
 Date: 2022-01-20
@@ -281,7 +344,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-20%20B92DFBC6-99D8-4F63-8161-0319D909E23C.txt
-Summary: The speaker addresses a Mother Jones article criticizing Steve Bannon's involvement with FJB coin, stating the outlet never contacted him for comment despite claiming he declined and that a rebuttal has been submitted. He announces the NFT drop has been postponed to Saturday due to technical difficulties and that Eric Finman will make a major announcement on Monday's War Room that will excite the entire crypto community.
+Summary: The speaker addresses a Mother Jones article criticizing Steve Bannon's involvement with FJB coin (91F910C8-69E9-41DF-B07B-A992D691AA54), stating the outlet never contacted him for comment despite claiming he declined and that a rebuttal has been submitted. He announces the NFT drop has been postponed to Saturday due to technical difficulties and that Eric Finman will make a major announcement on Monday's War Room that will excite the entire crypto community.
 
 UUID: B564F5E9-6F3B-434E-866C-190EFBE573D7
 Type: VOICE UPDATE

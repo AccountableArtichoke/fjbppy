@@ -45,7 +45,7 @@ Amount: [NUMBER]
 Evidence: [UUID]
 
 UUID: [UUID]
-Type: Publication
+Type: PUBLICATION
 Date: [DATE]
 Source: [URL]
 WebArchive: [URL]
@@ -72,5 +72,13 @@ Relief Sought: [TEXT]
 Relief Sought: [TEXT]
 Damages Claimed: [NUMBER/UNSPECIFIED]
 Filing Fee: [NUMBER]
+
+UUID: [UUID]
+Type: EXCHANGE LISTING
+Date: [DATE]
+Sender: [TEXT]
+Recipient [TEXT]
+Amount: [NUMBER]
+Evidence: [UUID]
 
 ##############

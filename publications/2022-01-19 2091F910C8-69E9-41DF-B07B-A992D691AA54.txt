@@ -1,0 +1,42 @@
+ motherjones.com
+Experts raise questions about Steve Bannon's new cryptocurrency
+David Corn
+7–9 minutes
+
+Tom Williams/CQ Roll Call/AP
+
+Get your news from a source that’s not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.
+
+Last month, Steve Bannon, the former Trump campaign manager and White House strategist, announced his participation in a new venture: a cryptocurrency marketed to Joe Biden haters and Donald Trump devotees. He and Boris Epshteyn, another ex-Trump adviser, boasted that they had taken a “strategic ownership position” in a crypto coin called $FJB. That stands for Fuck Joe Biden.
+
+On his podcast, Bannon began talking up the coin, of which they both had acquired significant amounts, as a “currency for the MAGA movement.” During one episode, Epshteyn hailed the $FJB coin as a tool to help Trump fanatics “let your feelings, your primal disapproval, your primal disgust with Biden be heard.” But $FJB buyers might want to beware. Not only does every purchase bolster the value of Bannon’s and Epshteyn’s holdings, crypto experts say the currency is designed in a way that affords its operators an unusual amount of discretion in blocking owners of coins from selling their tokens—a power that could cause problems for investors.
+
+Starting a cryptocurrency is surprisingly easy. Write up a bit of a code, have a programmer do it for you, or copy and maybe tweak some used elsewhere, and you’ve got a new currency. $FJB was originally created in October by Grant Tragni, a recent graduate of Rensselaer Polytechnic Institute. It was initially called the Let’s Go Brandon coin, named after the phrase conservatives have embraced as code for FJB. Its website claims that over 8,000 people own the coin.
+
+The code for $FJB allows the currency’s operators to manually lock an owner’s token balance, an unusual practice in a space that aims to avoid centralized authority. This would prevent an owner from selling coins, according to Simon de la Rouviere, who reviewed the code for Mother Jones. De la Rouviere is a digital artist and co-author of ERC-20, a coding standard used to program contracts on the Ethereum blockchain, which supports Ether, a cryptocurrency second only to Bitcoin in market capitalization.
+
+De la Rouviere points out that this restriction doesn’t apply to the operators of $FJB. “They can transfer as much as they want, whenever,” he says. De la Rouviere outlines a possible scenario: If $FJB’s price started to drop, the coin’s operators could freeze some token holders from selling to prevent a further spiral, while the operators remain free to sell off their own coins. By the time locked investors regained access, their tokens could be worth much less.
+
+An engineer with experience at major crypto companies—who asked not to be identified citing professional concerns—reviewed the currency’s code and agreed with de la Rouviere, confirming that “there is a lock that can arbitrarily be placed on almost any address,” with the only exception being the $FJB operators’ address.
+
+Locks are sometimes written into cryptocurrency codes as an “anti-whale” feature—a supposed safeguard tempering the influence of big investors. But unlike other cryptocurrencies with triggers that automatically apply locks to holders trying to carry out large transactions, $FJB’s operators can manually pick and choose whose wallets to lock. “It would’ve been better if it was an automated process,” de la Rouviere says. “It’s just bad code.”
+
+Given the coin’s lockup mechanism, crypto experts warn that owners of $FJB tokens lack full control over their investment. Indeed, some $FJB holders complain they have already been affected by arbitrary locks and unlocks. “My wallet has been locked now for the 4th time,” one user said in the $FJB chat on the Discord messaging app. “This time it’s locked by the new owners of $FJB. It’s an anxious time[. I’m] waiting for answers.”
+
+“My wallet has been locked three times, always after I sell,” another wrote. “The [developers] have unlocked it manually twice but this third time I’m getting the runaround. I do trust the devs and know they are super busy but it’s still got me on the edge of my seat.”
+
+Mother Jones sent a list of questions to Bannon and Epshteyn about the $FJB code and its locking mechanism. The two personally declined to comment. A statement provided by $FJB notes that the code is not secret but offered no further information about its use of locks:
+
+    For transparency and openness, the code is publicly available to everybody. Individuals interested in joining the community have complete access to the code and those who choose to purchase tokens accepts the terms of service laid out by FJB Coin. The contract code has been audited multiple times by various third-party organizations. The code was publicly edited (forked) twice to improve the code and ensure the coin is built for longevity. We are honored by the tremendous response to the FJB Coin the vibrant community being built.
+
+Bannon has touted the $FJB coin as a way for purchasers of the currency to show “your total and complete independence” from the government and “non-reliance on their financial system.” On one podcast, he sold the coin with a paranoid pitch, promising buyers that once they held the coin “they’re not going to be able to disappear you like the Chinese Communist Party, like the Bolsheviks, like the Nazis, like anybody—like any of these radicals that have ever taken control of these apparatuses.” It wasn’t clear how purchasing $FJB could save an owner from being disappeared by a repressive regime.
+
+Users must pay an 8 percent fee to $FJB operators when buying or selling tokens. The currency’s website claims these payments are used both to support “our marketing initiatives” and veteran and first responder charities. It doesn’t specify what portion goes to such organizations or name the recipients.
+
+Bannon and Epshteyn declined to specify their precise relationship to $FJB. The statement from $FJB only says the two had “formed a strategic partnership with FJB Coin.” In a December LinkedIn post, Tragni reported that he had sold “ownership of the coin.” According to the $FJB statement, Tragni is “still involved with its management and operation.” Tragni did not respond to a request for comment.
+
+The free-wheeling crypto space is rife with big promises and even scams, and Bannon is no stranger to financial controversies. In 2020, he was indicted for allegedly running a fraudulent scheme in which he siphoned for personal use $1 million raised privately to build a border wall. (He denied the charges and was pardoned by Trump before trial.)
+
+When $FJB debuted in October, each coin was worth $.0019, according to Coinbase. The price collapsed to $.000997 by December 22. After Bannon and Epshteyn announced their involvement and began hawking it to their MAGA audience, its price shot up to $.0046. Following that peak, it fell steadily and was at $.0016 on January 17.
+
+Bannon and Epshteyn declined to comment on whether they have sold any of their tokens. A second statement from $FJB said the two were “deeply committed to the $FJB community and are absolutely confident that this movement will continue to grow. Their holdings are fully transparent and have only grown.” The pair declined to provide Mother Jones links to their public wallets or other information that would disclose their $FJB holdings.
