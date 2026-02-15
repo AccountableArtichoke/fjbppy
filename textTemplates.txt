@@ -45,6 +45,14 @@ Amount: [NUMBER]
 Evidence: [UUID]
 
 UUID: [UUID]
+Type: GIVEAWAY
+Date: [DATE]
+Sender: [TEXT]
+Recipient [TEXT]
+Amount: [NUMBER]
+Evidence: [UUID]
+
+UUID: [UUID]
 Type: PUBLICATION
 Date: [DATE]
 Source: [URL]
@@ -80,5 +88,10 @@ Sender: [TEXT]
 Recipient [TEXT]
 Amount: [NUMBER]
 Evidence: [UUID]
+
+UUID: [UUID]
+Type: IMAGE
+Date: [DATE]
+Summary: [TEXT]
 
 ##############

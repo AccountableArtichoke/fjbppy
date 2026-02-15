@@ -240,13 +240,13 @@ Audio File:
 Transcript: transcripts/2021-12-17%20C5DB218A-3638-4317-83E6-FC27E1961582.txt
 Summary: The speaker announces a $5,600 donation to Semper Fi charity on day 56 of their cryptocurrency project, which was matched by the organization to total $11,200. The project has donated approximately $58,000 total across multiple charities, averaging over $1,000 per day since inception.
 
-UUID: [UUID]
+UUID: A3596A6C-02BD-459C-9FE6-D73C2DDA4CED
 Type: DONATION
-Date: [DATE]
-Sender: [TEXT]
-Recipient [TEXT]
-Amount: [NUMBER]
-Evidence: [UUID]
+Date: 2021-12-17
+Sender: Grant Tragni, FKBCoin
+Recipient Semper Fi Charity
+Amount: $5,600
+Evidence: C5DB218A-3638-4317-83E6-FC27E1961582 No direct evidence just him saying he donated money
 
 UUID: BB9BE200-AA8E-46BB-875E-C51B818AE18E
 Type: VOICE UPDATE
@@ -257,13 +257,13 @@ Audio File:
 Transcript: transcripts/2021-12-19%20BB9BE200-AA8E-46BB-875E-C51B818AE18E.txt
 Summary: The speaker addresses concerns about selling the project, confirming they remain actively involved despite transferring ownership on December 2nd and cannot dictate news timing anymore. They announce distributing one million FJB tokens to community members and express confidence that major news involving "public figures" and "movers and shakers" will be released before Christmas.
 
-UUID: [UUID]
-Type: DONATION
-Date: [DATE]
-Sender: [TEXT]
-Recipient [TEXT]
-Amount: [NUMBER]
-Evidence: [UUID]
+UUID: 22F37510-430C-4D0F-B5BC-716B449F9951
+Type: GIVEAWAY
+Date: 2021-12-19
+Sender: Grant Tragni, FJBCoin
+Recipient: [INCOMPLETE]
+Amount: 1,000,000 FJB
+Evidence: BB9BE200-AA8E-46BB-875E-C51B818AE18E
 
 UUID: 9A7DED94-53ED-46C2-BC8F-1A52DA8BAE0C
 Type: PUBLICATION
