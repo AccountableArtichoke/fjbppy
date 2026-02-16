@@ -1,188 +1,220 @@
-(0:00 - 1:00)
-And that's recording. So nothing that would be really impact us or shouldn't impact us much in real life and once we have our maximum transaction amount not so incredibly low. But our advisor likes everything to be perfect as instructed by Mr. Steve himself. 
+[Speaker 3]
+And that's recording.
 
-So that's why we're really trying to zero in on this issue. But I will keep you updated as far as that goes. I do have an update with Transac. 
+[Speaker 1]
+So nothing that would be really impact us or shouldn't impact us much in real life and once we have our maximum transaction amount not so incredibly low. But our advisor likes everything to be perfect as instructed by Mr. Steve himself. So that's why we're really trying to zero in on this issue.
 
-Transac is completely done and wrapped up. So now we have ChangeNow. Sorry, my days are all blurred and this week is also a very busy, busy week.
+But I will keep you updated as far as that goes. I do have an update with Transac. Transac is completely done and wrapped up.
 
-(1:01 - 2:42)
-So I don't know if I've already shared that with you, but ChangeNow was facing some issues with QuickSwap. First, not related to our coin specifically. And then some things they didn't realize with our token. 
+So now we have ChangeNow. Sorry, my days are all blurred and this week is also a very busy, busy week. So I don't know if I've already shared that with you, but ChangeNow was facing some issues with QuickSwap.
 
-So, can somebody help Bulldog? I'm not sure. Let's see. Does he have? So, Transac is done completely. 
+First, not related to our coin specifically. And then some things they didn't realize with our token. So, can somebody help Bulldog?
 
-Everything, I'm sure you guys have seen the buttons as of, I believe, yesterday morning, our time. ChangeNow is doing some final testing. That's why we've had trading enabled. 
+I'm not sure. Let's see. Does he have?
 
-But please only continue to test when trading is open to the community. You can always check the PatriotPay testing tab just to make sure. We just don't want to interfere, one, with the contract and everything that the devs are working on, but two, with any testing that our partners are doing. 
+So, Transac is done completely. Everything, I'm sure you guys have seen the buttons as of, I believe, yesterday morning, our time. ChangeNow is doing some final testing.
 
-So please make sure if you do want to test, make some swaps, purchases, transfers, that you do check the PatriotPay testing tab in both Telegram or Discord. They should always be updated. I have not forgot to update them yet.
+That's why we've had trading enabled. But please only continue to test when trading is open to the community. You can always check the PatriotPay testing tab just to make sure.
 
-(2:45 - 3:05)
-Let's see. What else? I think that's as far as our updates. Our social medias, all of our new pages should be set, so please follow those before We the People starts posting.
+We just don't want to interfere, one, with the contract and everything that the devs are working on, but two, with any testing that our partners are doing. So please make sure if you do want to test, make some swaps, purchases, transfers, that you do check the PatriotPay testing tab in both Telegram or Discord. They should always be updated.
 
-(3:06 - 9:23)
-Second, I keep hearing myself. That's better, hopefully. Okay. 
+I have not forgot to update them yet. Let's see. What else?
 
-So yeah. I think that's everything. All the DMs, I think I've gotten to most of them. 
+I think that's as far as our updates. Our social medias, all of our new pages should be set, so please follow those before We the People starts posting.
 
-Any of you having technical issues, if you are having issues testing or following directions and you're getting your wallet locked after a few times, I think it's just best to let your fellow holders test, just because we'd rather spend the devs' time working on the issues that we need fixed versus us pausing trading, going in to change the settings, to reset everything, to then resume trading and for everybody to start. So don't take offense to that. We're all still learning, but after a few tries, we just appreciate it if you just sit out, and then we'll get your wallet unlocked before we go live. 
+[Speaker 2]
+Second, I keep hearing myself. That's better, hopefully.
 
-Don't worry about that, but I think that's best for everybody now. Otherwise, if you have questions, feel free to answer the questions. If there's anything in the testing that you don't understand or are confused about, feel free to DM me and ask. 
+[Speaker 1]
+Okay. So yeah. I think that's everything.
 
-I have no issues with that. That's what I'm here for. Just don't fuck it up. 
+All the DMs, I think I've gotten to most of them. Any of you having technical issues, if you are having issues testing or following directions and you're getting your wallet locked after a few times, I think it's just best to let your fellow holders test, just because we'd rather spend the devs' time working on the issues that we need fixed versus us pausing trading, going in to change the settings, to reset everything, to then resume trading and for everybody to start. So don't take offense to that. We're all still learning, but after a few tries, we just appreciate it if you just sit out, and then we'll get your wallet unlocked before we go live.
 
-Okay. What else? I think that's a lot of the DMs I've been getting. Oh, there we go. 
+Don't worry about that, but I think that's best for everybody now. Otherwise, if you have questions, feel free to answer the questions. If there's anything in the testing that you don't understand or are confused about, feel free to DM me and ask.
 
-Thank you. Yeah, I think we're good. I think the rest of you have been here long enough to know about everything else. 
+I have no issues with that. That's what I'm here for. Just don't fuck it up.
 
-Let me see what other questions. Yeah. Sorry, I had to mute somebody on Discord. 
+Okay. What else? I think that's a lot of the DMs I've been getting.
 
-Sorry about that. I was hearing stuff. Okay, let's go through the questions. 
+Oh, there we go. Thank you. Yeah, I think we're good.
 
-Doesn't look like there's any on Discord. I will check Telegram. Sorry, I've been pretty short on Telegram today. 
+I think the rest of you have been here long enough to know about everything else. Let me see what other questions.
 
-Just kind of giving... Well, and Discord. Priority to get everything else done. How much more testing is involved before we go live? How close is the app to being fully functional for PPY? How much more testing is involved before we go live? Hasn't changed. 
+[Speaker 2]
+Yeah.
 
-So what we initially thought with the transfers failing that we just kind of let go. We're hoping to get that resolved. We expect by the end of the weekend, like I said, the dev and advisor have both been on that, I want to say most of the day yesterday, super late, super early this morning, 5am my time. 
+[Speaker 1]
+Sorry, I had to mute somebody on Discord. Sorry about that. I was hearing stuff.
 
-Other than that, we don't have not found any other issues. Don't see any issues or any changes. How close is the app to being fully functional for PatriotPay? So the app is complete. 
+Okay, let's go through the questions. Doesn't look like there's any on Discord. I will check Telegram.
 
-I think I shared that on the last voice too. Our PatriotPay integration has been complete for I want to say a few weeks now. Our login edition was completed this week. 
+Sorry, I've been pretty short on Telegram today. Just kind of giving... Well, and Discord.
 
-We are now just waiting on change now for the PatriotPay integration. As soon as that is complete, we can go ahead and test that. For our login integration, I have a meeting Monday, 9am, so I will get an update as far as that goes. 
+Priority to get everything else done. How much more testing is involved before we go live? How close is the app to being fully functional for PPY?
 
-But to have the app ready, we don't need the login integration to have the app ready. We just need that change now to be live. For that PatriotPay integration, we need to test it for a day or two, the team, to make sure everything is functional. 
+How much more testing is involved before we go live? Hasn't changed. So what we initially thought with the transfers failing that we just kind of let go.
 
-If everything is functional on our end, that's where we'll have you guys test because there's a lot more of you than there are of us. You also have different devices and you guys find ways and you guys find ways that don't work very quickly. So that usually helps us a ton. 
+We're hoping to get that resolved. We expect by the end of the weekend, like I said, the dev and advisor have both been on that, I want to say most of the day yesterday, super late, super early this morning, 5am my time. Other than that, we don't have not found any other issues.
 
-And obviously the volume. And then we'll go from there. When will TransAck be ready for buys? TransAck is ready as they completed their testing yesterday morning, my time. 
+Don't see any issues or any changes. How close is the app to being fully functional for PatriotPay? So the app is complete.
 
-However, since our limits are so low, that's technically why you can't buy from TransAck yet. Not on. Oh, shoot. 
+I think I shared that on the last voice too. Our PatriotPay integration has been complete for I want to say a few weeks now. Our login edition was completed this week.
 
-Okay. Don't worry. I'll write them in notes. 
+We are now just waiting on change now for the PatriotPay integration. As soon as that is complete, we can go ahead and test that. For our login integration, I have a meeting Monday, 9am, so I will get an update as far as that goes.
 
-I'm not on putting the kids to bed. I will have them ready once you're done putting the kids to bed. Kids should be listening to this bedtime story. 
+But to have the app ready, we don't need the login integration to have the app ready. We just need that change now to be live. For that PatriotPay integration, we need to test it for a day or two, the team, to make sure everything is functional.
 
-Oh, gosh. I know there's people have sent like some people's kids have sent me messages and little notes. So cute. 
+If everything is functional on our end, that's where we'll have you guys test because there's a lot more of you than there are of us. You also have different devices and you guys find ways and you guys find ways that don't work very quickly. So that usually helps us a ton.
 
-I feel like I should print them and put them on my fridge. You guys have some of the most encouraging, kindest kids. It's kind of cute.
+And obviously the volume. And then we'll go from there. When will TransAck be ready for buys?
 
-(9:26 - 10:07)
-Okay. Any idea how many more days testing before airdrop? We are hoping to make this change to integrate it into the app before the end of the weekend. This modification to the contract. 
+TransAck is ready as they completed their testing yesterday morning, my time. However, since our limits are so low, that's technically why you can't buy from TransAck yet. Not on.
 
-We did add another modification a few days ago. That was nothing. That modification wasn't anything wrong with the contract.
+Oh, shoot. Okay. Don't worry.
 
-(10:08 - 11:50)
-It was just something to help with the app. So kind of all over the place and covering all of our bases. My testing today went well. 
+I'll write them in notes. I'm not on putting the kids to bed. I will have them ready once you're done putting the kids to bed.
 
-Yes, the only issues we're having is that transfer, which again shouldn't impact us with our normal transaction limits, but just something. We just want the contract to be as perfect as we can make it with no known. Anything wrong? Any app on app store readiness? No. 
+Kids should be listening to this bedtime story. Oh, gosh. I know there's people have sent like some people's kids have sent me messages and little notes.
 
-What is claim legacy balance? That's if you had funds from before wire, if you remember wire. We had a change around that time, before that time actually, with how the app handled your coins. If that's something you're concerned about, go ahead and DM me. 
+So cute. I feel like I should print them and put them on my fridge. You guys have some of the most encouraging, kindest kids.
 
-Any update on app status? Any update on app testing? Yeah, I think just everything I updated. I don't have any other updates than what I just shared. Should I claim them? Yeah, if your app is showing you that, then go ahead and claim them.
+It's kind of cute. Okay. Any idea how many more days testing before airdrop?
 
-(11:51 - 14:49)
-You can't really, there's not much you can go wrong with there, but again, feel free to DM me. There's not much you can mess up there. Will we be told what causes the wallet lock post going live and is that something the contract automatically, or does someone manually lock it? We can. 
+We are hoping to make this change to integrate it into the app before the end of the weekend. This modification to the contract. We did add another modification a few days ago.
 
-I mean, just don't do anything shady. But I'll see what we can share about that. Where can we hear? Oh, gee. 
+That was nothing. That modification wasn't anything wrong with the contract. It was just something to help with the app.
 
-Okay. Will someone help Marky Mark? Oh, sorry. Okay. 
+So kind of all over the place and covering all of our bases. My testing today went well. Yes, the only issues we're having is that transfer, which again shouldn't impact us with our normal transaction limits, but just something.
 
-I think MP, I'm not sure if you're late. App is ready. Devs are, well, they have been done. 
+We just want the contract to be as perfect as we can make it with no known. Anything wrong? Any app on app store readiness?
 
-I'm pretty sure it's going on a few weeks now with a Patriot Pay integration, just waiting now, just waiting on change now to start that testing. And yeah, I guess that answers the next question. And then Dev also completed the new login portion of the app. 
+No. What is claim legacy balance? That's if you had funds from before wire, if you remember wire.
 
-I do have a meeting Monday at 9 AM or 9 30. I've checked my schedule to see when the third party, third party's portion of that login is completed, what the date on that is. Question, what happens to the coins that folks left on places like L Bank? Those are done. 
+We had a change around that time, before that time actually, with how the app handled your coins. If that's something you're concerned about, go ahead and DM me. Any update on app status?
 
-We gave people months and months of notices to remove your coins, transfer them off of L Bank and XT. So I definitely highly recommend you do not keep your coins on a centralized exchange. But yeah, I think we sent, I don't know how many notices we sent to get your coins off there. 
+Any update on app testing? Yeah, I think just everything I updated. I don't have any other updates than what I just shared.
 
-So yeah. What else? I have my double espresso. I have my water.
+Should I claim them? Yeah, if your app is showing you that, then go ahead and claim them. You can't really, there's not much you can go wrong with there, but again, feel free to DM me.
 
-(14:49 - 15:15)
-I do have my wine. I have my wine still from I think Tuesday's voice chat. Excuse me. 
+There's not much you can mess up there. Will we be told what causes the wallet lock post going live and is that something the contract automatically, or does someone manually lock it? We can.
 
-Why am I drinking my water so loud? I feel like when I'm on here, I feel like being very loud in general. Excuse me. What else? Let me see.
+I mean, just don't do anything shady. But I'll see what we can share about that. Where can we hear?
 
-(16:05 - 17:47)
-Dan's here while you guys think of more questions. Going live, launching next week. So okay. 
+Oh, gee. Okay. Will someone help Marky Mark?
 
-So if we don't, if we can't get the transfer fail issue we're facing, if we don't, if we, I should say, if we don't choose to make that change, you know, if you run into difficulties, what have you by the end of the weekend, then we will be moving on from that. Other than that, there are no issues with the contract as we know, as far as we know, no issues, nothing we've needed to change. Like I said, the modification to the contract we completed this week was unrelated to anything not working, I guess. 
+Oh, sorry. Okay. I think MP, I'm not sure if you're late.
+
+App is ready. Devs are, well, they have been done. I'm pretty sure it's going on a few weeks now with a Patriot Pay integration, just waiting now, just waiting on change now to start that testing.
+
+And yeah, I guess that answers the next question. And then Dev also completed the new login portion of the app. I do have a meeting Monday at 9 AM or 9 30.
+
+I've checked my schedule to see when the third party, third party's portion of that login is completed, what the date on that is. Question, what happens to the coins that folks left on places like L Bank? Those are done.
+
+We gave people months and months of notices to remove your coins, transfer them off of L Bank and XT. So I definitely highly recommend you do not keep your coins on a centralized exchange. But yeah, I think we sent, I don't know how many notices we sent to get your coins off there.
+
+So yeah. What else? I have my double espresso.
+
+I have my water. I do have my wine. I have my wine still from I think Tuesday's voice chat.
+
+Excuse me. Why am I drinking my water so loud? I feel like when I'm on here, I feel like being very loud in general.
+
+Excuse me.
+
+[Speaker 2]
+What else? Let me see.
+
+[Speaker 1]
+Dan's here while you guys think of more questions. Going live, launching next week. So okay.
+
+So if we don't, if we can't get the transfer fail issue we're facing, if we don't, if we, I should say, if we don't choose to make that change, you know, if you run into difficulties, what have you by the end of the weekend, then we will be moving on from that. Other than that, there are no issues with the contract as we know, as far as we know, no issues, nothing we've needed to change. Like I said, the modification to the contract we completed this week was unrelated to anything not working, I guess.
 
 It was more so to solve some issues with the app. So as it stands right now, we plan to have everything testing wise with just the contract completed by the end of the weekend. Excuse me.
 
-(17:52 - 18:30)
-Other than that, again, actually, let me check on change now. Still waiting on that. So I will keep you updated with any information.
+Other than that, again, actually, let me check on change now.
 
-(18:30 - 20:16)
-Just got off the phone with the advisor. He said we're okay to move forward. Anything on airdrop, just, nope, that's still as soon as testing's complete and we're sure we don't need to make any changes to the contract. 
+[Speaker 2]
+Still waiting on that.
 
-I'll give you 24 hours and then we'll have airdrop and actually, let me double check that too to see if we could do airdrop, 24-hour notice, and then airdrop, 24-hour notice, video, and then wait 24 hours to increase the trading limits. I'll double check if we can do that. Otherwise, the plan is to give you all a 24-hour notice, then get all that done at once. 
+[Speaker 1]
+So I will keep you updated with any information. Just got off the phone with the advisor. He said we're okay to move forward.
 
-But I'll see if I can get any of that done and then give you guys a notice. Awesome. Okay. 
+Anything on airdrop, just, nope, that's still as soon as testing's complete and we're sure we don't need to make any changes to the contract. I'll give you 24 hours and then we'll have airdrop and actually, let me double check that too to see if we could do airdrop, 24-hour notice, and then airdrop, 24-hour notice, video, and then wait 24 hours to increase the trading limits. I'll double check if we can do that.
 
-What else? I think that's everything. Let me see if I have any email questions. I feel like when I don't check it is when I do good.
+Otherwise, the plan is to give you all a 24-hour notice, then get all that done at once. But I'll see if I can get any of that done and then give you guys a notice. Awesome.
 
-(20:18 - 21:06)
-Nope. I think that's everything. I don't see any other questions from you all.
+[Speaker 2]
+Okay. What else?
 
-(21:18 - 22:13)
-Damn. What else? Be careful with sharing your personal info, logging in to weird extensions and apps. There's some people saying they have coins missing. 
+[Speaker 1]
+I think that's everything. Let me see if I have any email questions. I feel like when I don't check it is when I do good.
 
-Yeah, if your wallet is on trust, if you have a trust wallet or MetaMask, there shouldn't be any way for that to happen unless you got hacked maybe. By hacked, I mean, sorry, scammed. It's been a long day.
+[Speaker 3]
+Nope.
 
-(22:15 - 24:43)
-If you shared your seed phrase, if you downloaded an app, if you have a browser extension that was not a legit one, if you clicked on any weird links, something like that. So please be very careful of that. Ed is our new advisor, guys. 
+[Speaker 1]
+I think that's everything. I don't see any other questions from you all.
 
-See, you guys can stop asking who the advisor is. It's Ed. Glad everybody's feeling well. 
+[Speaker 2]
+Damn. What else?
 
-I know you guys are getting fatigued. I am too. But everything needs to be. 
+[Speaker 1]
+Be careful with sharing your personal info, logging in to weird extensions and apps. There's some people saying they have coins missing. Yeah, if your wallet is on trust, if you have a trust wallet or MetaMask, there shouldn't be any way for that to happen unless you got hacked maybe.
 
-We didn't come this far or wait this long to rush. There's always going to be a next something to rush to. And right now I understand it's airdrop, rightfully so. 
+By hacked, I mean, sorry, scammed. It's been a long day. If you shared your seed phrase, if you downloaded an app, if you have a browser extension that was not a legit one, if you clicked on any weird links, something like that.
 
-You can see liquidity sitting there. You can see it untouched. Yeah, or not. 
+So please be very careful of that. Ed is our new advisor, guys. See, you guys can stop asking who the advisor is.
 
-Again, the number one priority remains doing what's right for the success of the organization or holders. Obviously doing everything as secure as we possibly can. Yeah, time is definitely not the priority or number one priority. 
+It's Ed. Glad everybody's feeling well. I know you guys are getting fatigued.
 
-We'll always be looking to the next thing. But again, getting it right is the priority. My favorite question. 
+I am too. But everything needs to be. We didn't come this far or wait this long to rush.
 
-What do you see for the next seven days? Okay, so dev and advisor should by the end of the weekend have squared away the issue we're having with the transfers. Monday, oh, transact on change now. I'm hoping gets this wrapped by the end of the weekend.
+There's always going to be a next something to rush to. And right now I understand it's airdrop, rightfully so. You can see liquidity sitting there.
 
-(24:44 - 24:53)
+You can see it untouched. Yeah, or not. Again, the number one priority remains doing what's right for the success of the organization or holders.
+
+Obviously doing everything as secure as we possibly can. Yeah, time is definitely not the priority or number one priority. We'll always be looking to the next thing.
+
+But again, getting it right is the priority. My favorite question. What do you see for the next seven days?
+
+Okay, so dev and advisor should by the end of the weekend have squared away the issue we're having with the transfers. Monday, oh, transact on change now. I'm hoping gets this wrapped by the end of the weekend.
+
 I'll keep pinging them and see where that goes. Let's see. Actually, check something out.
 
-(25:06 - 25:14)
 Okay, then. So change now still a big one. Wow, you guys have it that far down.
 
-(25:16 - 26:17)
-Yeah, Stacey, I'm going through the days like Stacey. Monday, I have my morning meeting with our partner for the login function we're adding. So hopefully that'll give us a little bit of an update time wise on that. 
+Yeah, Stacey, I'm going through the days like Stacey. Monday, I have my morning meeting with our partner for the login function we're adding. So hopefully that'll give us a little bit of an update time wise on that.
 
-Just thought of just thought of something with the app testing. Speak to our advisor and see about that. See if we can get testing for app started sooner. 
+Just thought of just thought of something with the app testing. Speak to our advisor and see about that. See if we can get testing for app started sooner.
 
 Even yeah, I'll update you on that. Let's see, all our websites are should be forwarding now to PatriotPay. Sorry, I had to leave someone.
 
-(26:21 - 27:19)
-What else? What was I? Yeah, that's everything. Okay. Panic. 
+[Speaker 2]
+What else? What was I? Yeah, that's everything.
 
+Okay.
+
+[Speaker 3]
+Panic.
+
+[Speaker 1]
 Bulldog, I'll get back to your DM as soon as I'm off here. I think that's everything. If you all need anything else in the meantime, you know what to do.
 
-(27:22 - 28:27)
-DM me, tag me. If you DM me and I don't respond, especially if it's urgent, then most likely got buried in my inbox. So please tag me so I can check on that. 
+DM me, tag me. If you DM me and I don't respond, especially if it's urgent, then most likely got buried in my inbox. So please tag me so I can check on that.
 
-Email, call, text, you guys know. But other than that, I hope you all have a great weekend. We'll be here. 
+Email, call, text, you guys know. But other than that, I hope you all have a great weekend. We'll be here.
 
-We the people doing an awesome job on social media. Dogbone doing an awesome job on the website. Yeah, just getting on a change now to get that wrapped up with the some of the difficulties they've been facing. 
+We the people doing an awesome job on social media. Dogbone doing an awesome job on the website. Yeah, just getting on a change now to get that wrapped up with the some of the difficulties they've been facing.
 
-So I think that's it. I think that's all I got. But I hope you all have a safe night. 
+So I think that's it. I think that's all I got. But I hope you all have a safe night.
 
 I will get this recording up with some notes. So I gotta include Sam's questions in there too once he's back. I don't think I saw anybody answer him.
 
-(28:29 - 29:41)
-But yeah, keep your wallet safe in the meantime. Again, please don't share all that info with everybody. Be careful. 
+But yeah, keep your wallet safe in the meantime. Again, please don't share all that info with everybody. Be careful.
 
-Oh, we've had we have some requests today of somebody out there offering to pay for some of our websites and coming into the chats with a Patriot related handle. So be very, very wary of that. Do not reply to anybody just because their handle starts with Patriot or Patriot Pay. 
+Oh, we've had we have some requests today of somebody out there offering to pay for some of our websites and coming into the chats with a Patriot related handle. So be very, very wary of that. Do not reply to anybody just because their handle starts with Patriot or Patriot Pay.
 
-And don't worry, we'll take care of anything we need to like that accordingly to protect us and you the holders. But just be very wary of that. We don't want any of you guys getting scammed or anything like that. 
+And don't worry, we'll take care of anything we need to like that accordingly to protect us and you the holders. But just be very wary of that. We don't want any of you guys getting scammed or anything like that.
 
 There's not any secret Patriot Pay anything out there. So just be very, very wary of that in case you do get DMs or anything like that. Advertising asking you for info or anything like that.
 
-(29:44 - 29:53)
 All right, you all have a wonderful night. I will get these files converted and get them posted here shortly.

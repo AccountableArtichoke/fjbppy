@@ -1,337 +1,375 @@
-(0:01 - 2:09)
-Hope everybody had a good weekend. It seemed like many of you remembered your old wallets this weekend, so thank you for making yesterday a light day for me. All right, let's get right to it. 
+[Speaker 2]
+Hope everybody had a good weekend.
 
-Trump should be in town on Thursday. I'm hoping he doesn't cancel because I think it was last time that he canceled. I'm still trying to untie these. 
+[Speaker 1]
+It seemed like many of you remembered your old wallets this weekend, so thank you for making yesterday a light day for me.
 
-Canceled last minute, so I will keep you all updated. Got some cards printed. Let's see. 
+[Speaker 2]
+All right, let's get right to it.
 
-We have gift cards left from the old school way, but I'm going to see if we can get some new gift cards made for the app so they can actually use the app, and then we can actually easily see if they claim those. That's Thursday, I believe, at two, I think, is when my ticket's in. Should be exciting. 
+[Speaker 1]
+Trump should be in town on Thursday.
+
+[Speaker 2]
+I'm hoping he doesn't cancel because I think it was last time that he canceled. I'm still trying to untie these.
+
+[Speaker 1]
+Canceled last minute, so I will keep you all updated. Got some cards printed. Let's see.
+
+We have gift cards left from the old school way, but I'm going to see if we can get some new gift cards made for the app so they can actually use the app, and then we can actually easily see if they claim those. That's Thursday, I believe, at two, I think, is when my ticket's in. Should be exciting.
 
 Again, just praying it doesn't get canceled. Other than that, we got, actually, let me see. Yeah, so that's everything as far as that goes.
 
-(2:09 - 3:08)
-The app, I'm sure you've all seen the app updates. Last update should have been this morning. Yeah, I do need to know. 
+The app, I'm sure you've all seen the app updates. Last update should have been this morning. Yeah, I do need to know.
 
-Has anybody answered that? Let's see. I do need to know this. I'll pin it again and notify everybody. 
+Has anybody answered that? Let's see.
 
-I do need to know if you log into your app and then go into PPY under the PPY card. Under orders tab, do you see your order history? Trying to work out a bug with that. Thanks to all of you who tested this last round.
+[Speaker 2]
+I do need to know this. I'll pin it again and notify everybody.
 
-(3:10 - 4:44)
-Let's see, when was it? Was it yesterday or the day before? When I needed testers. The devs are working on some fixes. I'll let you know as soon as I need you to test again. 
+[Speaker 1]
+I do need to know if you log into your app and then go into PPY under the PPY card. Under orders tab, do you see your order history? Trying to work out a bug with that.
 
-Basically, right now the devs are working on some errors we're running into with volume, with higher volume, so that's a good problem to have and I'd much rather have it now. As far as all the other bugs, everything should be taken care of and caught up once we get this transaction issue, which is just an issue with our APIs. Basically, our volume is too high for the way the APIs are set up in the app. 
+Thanks to all of you who tested this last round. Let's see, when was it? Was it yesterday or the day before?
+
+When I needed testers. The devs are working on some fixes. I'll let you know as soon as I need you to test again.
+
+Basically, right now the devs are working on some errors we're running into with volume, with higher volume, so that's a good problem to have and I'd much rather have it now. As far as all the other bugs, everything should be taken care of and caught up once we get this transaction issue, which is just an issue with our APIs. Basically, our volume is too high for the way the APIs are set up in the app.
 
 So, the devs will continue fixing that and then optimizing the app is their next step. That's just making it work the best it can, the fastest it can, and also be able to handle volume volume increase. As soon as they're done with that, I'll have you get back to testing and, again, kind of stress testing the app too.
 
-(4:47 - 5:13)
 Our other dev is working on the political donations that should be wrapped up. He's actually working on the KYC portion of that. That way, if you want to donate more than once a year for $50, and that's the federal legal limit, then you will need to go through KYC.
 
-(5:14 - 5:44)
-So, he is working on that as of this morning. I think that's everything. Oh, PatriotPay coffee $50. 
+So, he is working on that as of this morning. I think that's everything. Oh, PatriotPay coffee $50.
 
 We're hoping to have by the end of the month. PatriotPay dog treats. I will let you know as soon as I get a time frame on that.
 
-(5:51 - 7:33)
-And then, as far as the seed freeze cards and stickers, I'll give you a date on those as soon as I have one. But that's what we'll begin with. Let's see. 
+And then, as far as the seed freeze cards and stickers, I'll give you a date on those as soon as I have one. But that's what we'll begin with. Let's see.
 
-We'll begin soft marketing as soon as our app can handle the volume. Again, we have one dev working on that full time. Yeah, that's the reason. 
+We'll begin soft marketing as soon as our app can handle the volume. Again, we have one dev working on that full time. Yeah, that's the reason.
 
-Some of you are still receiving transaction errors when you tested last, and then it's the reason that if you tried again, it went through. Again, just a volume issue with the different APIs. So, good news. 
+Some of you are still receiving transaction errors when you tested last, and then it's the reason that if you tried again, it went through. Again, just a volume issue with the different APIs. So, good news.
 
-Yeah, I think that's it. A lot of my time has been spent on talking to people who will market our app and businesses to get into our app. The video should be complete by the end of the week, which is nice. 
+Yeah, I think that's it. A lot of my time has been spent on talking to people who will market our app and businesses to get into our app. The video should be complete by the end of the week, which is nice.
 
 I'm waiting on a final version. I'm waiting on the first final version. So, from there, I'm sure I'll have some edits.
 
-(7:35 - 8:45)
-It should be exciting. It's kind of hard to go from mainly talking to you guys who you already know, you're already pretty crypto savvy to now going back to introducing PatriotPay to somebody who's not. Okay, let's go see here. 
+It should be exciting. It's kind of hard to go from mainly talking to you guys who you already know, you're already pretty crypto savvy to now going back to introducing PatriotPay to somebody who's not.
 
-I am drinking the coffee that we'll be selling as PatriotPay coffee. The first one. Let's see. 
+[Speaker 2]
+Okay, let's go see here.
+
+[Speaker 1]
+I am drinking the coffee that we'll be selling as PatriotPay coffee. The first one. Let's see.
 
 Order history under the new orders tab. Awesome. Awesome.
 
-(8:47 - 10:57)
-If you don't see your orders under the PatriotPay, specifically the PatriotPay one, please let me know. We're working on a bug and trying to figure out if it was just taking time to update or if it's just being a little glitchy on some accounts or some devices. So, even if you decide to go back in tonight or tomorrow or whenever and don't see your orders, specifically under PPY, please reach out so we can get that fixed. 
+If you don't see your orders under the PatriotPay, specifically the PatriotPay one, please let me know. We're working on a bug and trying to figure out if it was just taking time to update or if it's just being a little glitchy on some accounts or some devices. So, even if you decide to go back in tonight or tomorrow or whenever and don't see your orders, specifically under PPY, please reach out so we can get that fixed.
 
-Anything like that, we definitely want to get fixed now. And again, don't feel bad about pointing out bugs. Feel free to DM me if you'd rather do it privately. 
+Anything like that, we definitely want to get fixed now. And again, don't feel bad about pointing out bugs. Feel free to DM me if you'd rather do it privately.
 
-But we really need that now before we spend marketing money to then have people get on the app and not. So, I hope that makes sense. Yes, I will check DMs. 
+But we really need that now before we spend marketing money to then have people get on the app and not. So, I hope that makes sense. Yes, I will check DMs. Sorry, I've been out of the house for a lot of the day.
 
-Sorry, I've been out of the house for a lot of the day. Grab PatriotPay mail. Now it updates. 
+[Speaker 2]
+Grab PatriotPay mail. Now it updates. Thank you.
 
-Thank you. Um, having issues with that. Anything else? Oh, let's do, we haven't picked the contest winner.
+[Speaker 1]
+Um, having issues with that.
 
-(10:58 - 13:47)
-Let me see how many people, how many entries was there? I think you guys are giving Stacy a run for her money. Let's see. Um, 1 to 33. 
+[Speaker 2]
+Anything else?
 
-All right, Google. 13. 12 to 20. 
+[Speaker 1]
+Oh, let's do, we haven't picked the contest winner. Let me see how many people, how many entries was there? I think you guys are giving Stacy a run for her money.
 
-A760. I will send that prize tonight along with a few other. Transactions, I think. 
+Let's see. Um, 1 to 33. All right, Google.
 
-But nice job, whoever A760. So, that's for last week's contest that ended on Sunday. Let me put the fan on. 
+13. 12 to 20. A760.
 
-My gosh. If you all have any micro-influencers even that you like, feel free to send me those. Anybody that you think you'd like pitching PatriotPay.
+I will send that prize tonight along with a few other. Transactions, I think. But nice job, whoever A760.
 
-(15:14 - 22:09)
-When would we receive the tax paybacks for the testing we did? As soon as testing is over. Go through your wallets and calculate the taxes. Is there anything we can do to help? Not right now. 
+[Speaker 2]
+So, that's for last week's contest that ended on Sunday. Let me put the fan on. My gosh.
 
-I don't think so. I'll let you know as soon as it's time to test again. For now, we're aware of why some transactions are failing. 
+[Speaker 1]
+If you all have any micro-influencers even that you like, feel free to send me those. Anybody that you think you'd like pitching PatriotPay. When would we receive the tax paybacks for the testing we did?
 
-So, while the devs work on that, just sit back and sit tight. And then as soon as that's fixed, I'll have you again stress test. Once we do that, we'll start some marketing. 
+As soon as testing is over. Go through your wallets and calculate the taxes. Is there anything we can do to help?
 
-Some light social media marketing just to see what other bugs we can catch with volume. The chats actually starting this last weekend have been tightened up. This is not to censor you, blah, blah, blah. 
+Not right now. I don't think so. I'll let you know as soon as it's time to test again.
 
-This is to make sure that anybody coming in to check the chat, anybody we're talking to marketing wise, they're of course, if they're doing any kind of due diligence, they're going to come into the chats and check how the chats are doing. So, anything that's going to reflect poorly is going to be deleted. If that makes sense. 
+For now, we're aware of why some transactions are failing. So, while the devs work on that, just sit back and sit tight. And then as soon as that's fixed, I'll have you again stress test.
 
-Imagine if somebody was asking you to market their product and you go into their public chats, put yourself in that position. Anything that would be considered negative to that person, anything that would reflect poorly is going to be deleted. And honestly, by this point, you guys should know better. 
+Once we do that, we'll start some marketing. Some light social media marketing just to see what other bugs we can catch with volume. The chats actually starting this last weekend have been tightened up.
 
-So, just try not to do that. I don't want to have to kick people out of the chats or anything like that. It's not really benefiting your own wallets. 
+This is not to censor you, blah, blah, blah. This is to make sure that anybody coming in to check the chat, anybody we're talking to marketing wise, they're of course, if they're doing any kind of due diligence, they're going to come into the chats and check how the chats are doing. So, anything that's going to reflect poorly is going to be deleted.
 
-If you're doing that, it's not funny anymore. You know, it's not a joke. And again, it's going to reflect poorly on us and hurt everybody else's wallet. 
+If that makes sense. Imagine if somebody was asking you to market their product and you go into their public chats, put yourself in that position. Anything that would be considered negative to that person, anything that would reflect poorly is going to be deleted.
 
-So, just keep that in mind. Keep anything else you want to say, your event or joke about in the side chats you have. But please think of this, again, as a public forum. 
+And honestly, by this point, you guys should know better. So, just try not to do that. I don't want to have to kick people out of the chats or anything like that.
 
-It is a public chat, especially while we are trying to get people to market us. So, keep that in mind, please. When do you think we can start donating to Trump? As soon as KYC. 
+It's not really benefiting your own wallets. If you're doing that, it's not funny anymore. You know, it's not a joke.
 
-So, the donation pages, I'm sure you guys can see them on your end, have already been set up. The wallet for Trump has been set up. We have a photo. 
+And again, it's going to reflect poorly on us and hurt everybody else's wallet. So, just keep that in mind. Keep anything else you want to say, your event or joke about in the side chats you have.
 
-Once the photo gets on there, obviously the name and website changed. Just waiting on KYC. That way, in case you want to donate over $50, you do have the choice, but you need to go through KYC. 
+But please think of this, again, as a public forum. It is a public chat, especially while we are trying to get people to market us. So, keep that in mind, please.
 
-So, it'll definitely be this month. And I'd say the first half of this month. It's polite and friendly. 
+When do you think we can start donating to Trump? As soon as KYC. So, the donation pages, I'm sure you guys can see them on your end, have already been set up.
 
-It's business. Yeah, it's nothing personal. It's not censoring you. 
+The wallet for Trump has been set up. We have a photo. Once the photo gets on there, obviously the name and website changed.
 
-Again, I think it's for the best interest of everybody here, if you are still here. So, please, I know sometimes it's hard not to take it personal. I've been there, but it's totally not. 
+Just waiting on KYC. That way, in case you want to donate over $50, you do have the choice, but you need to go through KYC. So, it'll definitely be this month.
 
-And again, if you have a Patriot Pay wallet, then you should want that too. There's no other business or coin that I know of that's just going to sit there and let you trash talk their coin. Nobody's going to do that. 
+And I'd say the first half of this month. It's polite and friendly. It's business.
 
-They're going to kick you out. If you go into a war room and you're trash talking war room, are you going to be kicked out? Yes, you are. So, it's very simple. 
+Yeah, it's nothing personal. It's not censoring you. Again, I think it's for the best interest of everybody here, if you are still here.
+
+So, please, I know sometimes it's hard not to take it personal. I've been there, but it's totally not. And again, if you have a Patriot Pay wallet, then you should want that too.
+
+There's no other business or coin that I know of that's just going to sit there and let you trash talk their coin. Nobody's going to do that. They're going to kick you out.
+
+If you go into a war room and you're trash talking war room, are you going to be kicked out? Yes, you are. So, it's very simple.
 
 I appreciate you all. So, some products in the marketplace will be sold as Patriot Pay merchandise. Yes.
 
-(22:10 - 22:35)
 Starting off, coffee will be the first one, I think, by the dates I've been given. Stickers should be quick as soon as we get the designs complete. I'm hoping by early next week.
 
-(22:37 - 23:04)
 The seed phrase cards should also be by the end of the month. And then the dog treats are the only ones I haven't gotten a time frame on quite yet. It'll be beef liver and beef heart treats, single ingredients for your doggies, for your good boys and good girls.
 
-(23:09 - 24:01)
-Those are our products, and then I'll let you know as soon as we get products from other businesses. Coffee is great. I don't drink black coffee, and this black coffee is just better than black. 
+Those are our products, and then I'll let you know as soon as we get products from other businesses. Coffee is great. I don't drink black coffee, and this black coffee is just better than black.
 
 I did add my heavy cream once I got home. Take care of the dog. We need a jingle.
 
-(24:07 - 24:53)
-Jayrock, is that you and your dog? Looks like sign-ins and app or account creations are still going smoothly for everybody. Let me know if you find any bugs. I think we look pretty good.
+Jayrock, is that you and your dog? Looks like sign-ins and app or account creations are still going smoothly for everybody. Let me know if you find any bugs.
 
-(25:25 - 26:37)
-Should the order history only show a buy, sell, trade, or should transfers from another wallet to our app also be shown? Transfers were showing before. Are they not showing for you? Okay, awesome. I'll add that. 
+I think we look pretty good. Should the order history only show a buy, sell, trade, or should transfers from another wallet to our app also be shown? Transfers were showing before.
 
-I know we're still working on the type. I think it looks a lot cleaner this way, a lot less confusing. Are you going with Scott or David for president? I guess Scott because I went on a date with this David one time and that's what that name unfortunately reminds me of now.
+Are they not showing for you?
 
-(26:46 - 26:57)
-Bless his heart. He's very special. There's a cute doggy and I'm sure he likes treats.
+[Speaker 2]
+Okay, awesome.
 
-(27:01 - 27:24)
-I'm sure he likes beef liver and beef heart. Super great for him too. With coffee, do you guys prefer ground or beans? Crisis.
+[Speaker 1]
+I'll add that. I know we're still working on the type. I think it looks a lot cleaner this way, a lot less confusing.
 
-(27:30 - 28:14)
-I'm in crisis because I think or I'm assuming that most people prefer ground, but beans stay fresher. I just don't know if people are not wanting to put the effort to grind. I have someone who might be interested in selling her product on the marketplace. 
+Are you going with Scott or David for president? I guess Scott because I went on a date with this David one time and that's what that name unfortunately reminds me of now.
 
-How far out until it's ready? Pretty soon. Do you mind sending me her information or send her my information? Beans, okay. That's actually surprising.
+[Speaker 2]
+Bless his heart. He's very special.
 
-(28:17 - 28:57)
-I thought I'd be the only one. It's just a lot fresher that way. So I just didn't know if a lot of people didn't have a grinder or didn't want to go through the effort of grinding. 
+[Speaker 1]
+There's a cute doggy and I'm sure he likes treats. I'm sure he likes beef liver and beef heart. Super great for him too.
 
-I know it could be a pain. Whole bean or nothing. Two transfers from Trust Wallet, one Matic transfer and they went through. 
+With coffee, do you guys prefer ground or beans? Crisis. I'm in crisis because I think or I'm assuming that most people prefer ground, but beans stay fresher.
 
-No problem, but not showing up in history. Okay, thank you. Definitely send that over to the devs.
+I just don't know if people are not wanting to put the effort to grind. I have someone who might be interested in selling her product on the marketplace. How far out until it's ready?
 
-(29:03 - 30:15)
-Can USDT on Ethereum Network and Trust Wallet? You need to get back to the DMs. I'll walk you through it. What you'll want to do once you locate it in Trust Wallet, you'll need Ethereum in your Trust Wallet because USDT on Ethereum. 
+Pretty soon. Do you mind sending me her information or send her my information? Beans, okay.
 
-Oh, you did? Okay, congrats. Okay, so now you're going to need Ethereum in that wallet. Do you have some in your other Trust Wallet? If you have some, just transfer them there. 
+That's actually surprising. I thought I'd be the only one. It's just a lot fresher that way.
 
-You won't need a ton, but transfer it to your new Trust Wallet where you located the USDT. Try to do it in just one transaction, like send enough so that you don't have to do it and lose out again. And then once you do that, what I would do depending on what you want to do with it.
+So I just didn't know if a lot of people didn't have a grinder or didn't want to go through the effort of grinding. I know it could be a pain. Whole bean or nothing.
 
-(30:15 - 32:04)
-So if you just want to have USDT in the app, well, I guess there's several ways you can do it. Let me know, I guess. Do you have a plan? Are you wanting to buy PPY with it? Are you wanting to buy MATIC with it? What are you trying to do? That way we can find you the cheapest option. 
+Two transfers from Trust Wallet, one Matic transfer and they went through. No problem, but not showing up in history. Okay, thank you.
 
-All PPY. Okay, so having USDT on Ethereum, what I would do is because you get charged so much gas on Ethereum, right? So you don't want to transfer that into, like you don't want to swap it into MATIC and then swap it again into PatriotPay. I'd do it in all in one swap. 
+[Speaker 2]
+Definitely send that over to the devs.
 
-So I'd get on changenow.io and exchange that from USDT on Ethereum to PPY on the app using that address. Let me know if that makes sense. If not, I could walk you through it. 
+[Speaker 1]
+Can USDT on Ethereum Network and Trust Wallet? You need to get back to the DMs. I'll walk you through it. What you'll want to do once you locate it in Trust Wallet, you'll need Ethereum in your Trust Wallet because USDT on Ethereum.
 
-Just make sure you use the correct wallet addresses. And then what you'll do is send that Ethereum from TrustWallet, you're going to send it to the change now address that they give you. And then they'll be able to swap it. 
+Oh, you did? Okay, congrats. Okay, so now you're going to need Ethereum in that wallet.
 
-I'm not sure how much gas costs right now. Let me see. I'm not going to be able to, I mean, I wonder if you're assuming you're mining Ethereum gas.
+Do you have some in your other Trust Wallet? If you have some, just transfer them there. You won't need a ton, but transfer it to your new Trust Wallet where you located the USDT.
 
-(32:06 - 32:30)
-Just transfer into your TrustWallet. Could do bean but use fine ground normally. Really? Do you use that for espresso? Or just a fine ground for normal coffee? I do fine when I'm doing the Stovetop Espresso Maker.
+Try to do it in just one transaction, like send enough so that you don't have to do it and lose out again. And then once you do that, what I would do depending on what you want to do with it. So if you just want to have USDT in the app, well, I guess there's several ways you can do it.
 
-(32:32 - 33:02)
-I gave away my other espresso maker. I kind of miss it. I just have too many. 
+Let me know, I guess. Do you have a plan? Are you wanting to buy PPY with it?
 
-I have like way too many coffee machines on the counter. I was trying to declutter. Oh, I love the smell of fresh ground coffee in the morning. 
+Are you wanting to buy MATIC with it? What are you trying to do? That way we can find you the cheapest option.
 
-Yeah, that's true. I think my coffee maker machine grinds it too. I'm pretty sure.
+All PPY. Okay, so having USDT on Ethereum, what I would do is because you get charged so much gas on Ethereum, right? So you don't want to transfer that into, like you don't want to swap it into MATIC and then swap it again into PatriotPay.
 
-(33:04 - 33:36)
-Just logged in to desktop app and no confirmation of email. Very sweet and symptomatic within seconds zero transfer. Awesome. 
+I'd do it in all in one swap. So I'd get on changenow.io and exchange that from USDT on Ethereum to PPY on the app using that address. Let me know if that makes sense.
 
-Yeah, if you're signing into your device within a specific time frame, I think it's still an hour, you should be good to go. We need to better designate that all coins except Ethereum are on the polygon network. Um, let me see is our old.
+If not, I could walk you through it. Just make sure you use the correct wallet addresses. And then what you'll do is send that Ethereum from TrustWallet, you're going to send it to the change now address that they give you.
 
-(33:46 - 34:51)
-Do we not have that anymore? Is that what you're telling me? Question from artists out there, are they allowed to use SKB image and likeness? I've done it respectfully. I'm not his attorney, but I don't. Yeah, I'm not sure.
+And then they'll be able to swap it. I'm not sure how much gas costs right now. Let me see.
 
-(34:53 - 36:01)
-Definitely be something to ask him. What is this for? Can we consolidate app holdings from legacy wallet to new tax to do so? Okay, so if you have, if you still have holdings in your old Vess app, you need to move those ASAP. Once you move them, send me the transaction. 
+I'm not going to be able to, I mean, I wonder if you're assuming you're mining Ethereum gas. Just transfer into your TrustWallet. Could do bean but use fine ground normally.
 
-Don't try to send me different transactions because I will know if it's an app wallet or not. And I will reimburse you for the tax. That way, you can transfer those out. 
+Really? Do you use that for espresso? Or just a fine ground for normal coffee?
+
+I do fine when I'm doing the Stovetop Espresso Maker. I gave away my other espresso maker. I kind of miss it.
+
+I just have too many. I have like way too many coffee machines on the counter. I was trying to declutter.
+
+Oh, I love the smell of fresh ground coffee in the morning. Yeah, that's true. I think my coffee maker machine grinds it too.
+
+I'm pretty sure. Just logged in to desktop app and no confirmation of email. Very sweet and symptomatic within seconds zero transfer.
+
+Awesome. Yeah, if you're signing into your device within a specific time frame, I think it's still an hour, you should be good to go. We need to better designate that all coins except Ethereum are on the polygon network.
+
+Um, let me see is our old. Do we not have that anymore? Is that what you're telling me?
+
+Question from artists out there, are they allowed to use SKB image and likeness? I've done it respectfully. I'm not his attorney, but I don't.
+
+Yeah, I'm not sure. Definitely be something to ask him. What is this for?
+
+Can we consolidate app holdings from legacy wallet to new tax to do so? Okay, so if you have, if you still have holdings in your old Vess app, you need to move those ASAP. Once you move them, send me the transaction.
+
+Don't try to send me different transactions because I will know if it's an app wallet or not. And I will reimburse you for the tax. That way, you can transfer those out.
 
 But those need to be transferred out ASAP. Like ASAP, ASAP, like, like today ASAP, like right now. Because if you don't do that, and the third party we previously worked with removes their services, that there is nothing we can do for you.
 
-(36:04 - 36:21)
 So please do that ASAP. I've gotten quite a few people this weekend who still had funds in there, really need to be moved ASAP. Or you're at a huge, huge, huge risk of losing your funds in there.
 
-(36:22 - 38:32)
-Your funds need to be out of that Vess wallet ASAP. There is nothing we can do once the other company pulls their services and we have no clue. We hope that they would give us a notice, but do not count on that, please. 
+Your funds need to be out of that Vess wallet ASAP. There is nothing we can do once the other company pulls their services and we have no clue. We hope that they would give us a notice, but do not count on that, please.
 
-I hate seeing you guys or hearing you guys lose your money. Great limits. I had a badass 1500 at the time espresso machine that lasted 50 years and just died. 
+I hate seeing you guys or hearing you guys lose your money.
 
-Oh, what kind did you have? I've actually several times went into looking. I've looked at Jura, Jura, Jura, whatever. And the other one, what was the other one? I can't think of the other name. 
+[Speaker 2]
+Great limits.
+
+[Speaker 1]
+I had a badass 1500 at the time espresso machine that lasted 50 years and just died. Oh, what kind did you have? I've actually several times went into looking.
+
+I've looked at Jura, Jura, Jura, whatever. And the other one, what was the other one? I can't think of the other name.
 
 But why I decided, why I keep deciding against them every time I look into it, is that some users say it takes a lot of maintenance and I do not need one more thing to maintain. Which is why I just deal with my crappy espressos. Have the original line, the Vertuo line, and I settle for that.
 
-(38:37 - 38:49)
 Because there's no maintenance needed. I do descale them like, I don't know, once a month, but I use them both several times a day. If you guys can't tell as I'm drinking coffee.
 
-(38:56 - 42:04)
-All right. If we do, it's unclear regarding the app. Okay. 
+All right. If we do, it's unclear regarding the app. Okay.
 
-Hmm. Let me see. I was actually supposed to do that. 
+[Speaker 2]
+Hmm. Let me see. I was actually supposed to do that.
 
-Who did I get? So I think I got sidetracked by Discord. Let's see. Let's see what it says. 
+Who did I get? So I think I got sidetracked by Discord. Let's see.
 
-First, let's check my Patriot Pay orders. Okay, they show up. Nice. 
+[Speaker 1]
+Let's see what it says. First, let's check my Patriot Pay orders. Okay, they show up.
 
-Look how clean that looks. I saw your pop up that Bitcoin should be wrapped. Bitcoin gives you a pretty clear because you can receive both. 
+Nice. Look how clean that looks. I saw your pop up that Bitcoin should be wrapped.
 
-Technically, but it gets you like literally have to click it. But let me look at everything else you were talking about. I mean, think of something like USDC. 
+Bitcoin gives you a pretty clear because you can receive both. Technically, but it gets you like literally have to click it. But let me look at everything else you were talking about.
 
-Oh, I see what you're saying. Yeah, I feel like that would look a little messy. Plus when you go, does you know what we could have is maybe maybe we can add to the logo. 
+I mean, think of something like USDC. Oh, I see what you're saying. Yeah, I feel like that would look a little messy.
 
-But I mean, it's pretty obvious when you do receive and it says receive USDT on Polygon Network. And then it says again, Polygon address. And then of course, it has the message this addresses for receiving USDT on Polygon Network sending from Ethereum or any other network may lose funds. 
+Plus when you go, does you know what we could have is maybe maybe we can add to the logo. But I mean, it's pretty obvious when you do receive and it says receive USDT on Polygon Network. And then it says again, Polygon address.
 
-So perhaps we can have it in red too. Maybe that'll be stand out too. Did I miss any good updates? I don't know. 
+And then of course, it has the message this addresses for receiving USDT on Polygon Network sending from Ethereum or any other network may lose funds. So perhaps we can have it in red too. Maybe that'll be stand out too.
 
-What do you what do you consider good JPizzle? Any quick recap? devs are all done with all the bugs, but let me know if you catch any. There's some of your transactions were failing. Thank you all who tested a ton yesterday.
+Did I miss any good updates? I don't know. What do you what do you consider good JPizzle?
 
-(42:06 - 43:07)
-Those fails, the intermittent fails were due to the volume, essentially stress testing of the app. So the dev actually just DM to me that he just finished. Excuse me, he just finished working on that, which should help us with some traffic. 
+Any quick recap? devs are all done with all the bugs, but let me know if you catch any. There's some of your transactions were failing.
 
-So I'll get you guys back to testing. I think what we'll do is actually start having testing hours, similar to what we did when we were testing the contract. This way, we can really stress test everything because that's essentially what we're focusing on right now. 
+Thank you all who tested a ton yesterday. Those fails, the intermittent fails were due to the volume, essentially stress testing of the app. So the dev actually just DM to me that he just finished.
 
-All other bugs have been cleared. And this was will help us work on the volume issue because the errors we're receiving right now are due to the higher volume that our app has not experienced in the past. So that's that.
+Excuse me, he just finished working on that, which should help us with some traffic. So I'll get you guys back to testing. I think what we'll do is actually start having testing hours, similar to what we did when we were testing the contract.
 
-(43:08 - 43:26)
-The other dev is done with political donations. He is just adding the KYC now, which you all will need to do if you are donating more than $50 per federal law. That way, the donation can't be anonymous if it's over 50 bucks.
+This way, we can really stress test everything because that's essentially what we're focusing on right now. All other bugs have been cleared. And this was will help us work on the volume issue because the errors we're receiving right now are due to the higher volume that our app has not experienced in the past.
 
-(43:28 - 43:39)
-Estimate on that was about 10 hours as of this morning. So I'll keep you updated on that. We do have Patriot paid coffee on the way should be complete by the end of the month.
+So that's that. The other dev is done with political donations. He is just adding the KYC now, which you all will need to do if you are donating more than $50 per federal law.
 
-(43:40 - 44:37)
-Local family owned conservative business here will be roasting our coffee. Very excited about that. Dog treats, Patriot pay dog treats. 
+That way, the donation can't be anonymous if it's over 50 bucks. Estimate on that was about 10 hours as of this morning. So I'll keep you updated on that.
 
-Not sure the date for that. I'll let you know as soon as it is. Stickers, Patriot pay stickers. 
+We do have Patriot paid coffee on the way should be complete by the end of the month. Local family owned conservative business here will be roasting our coffee. Very excited about that.
 
-Other random stickers should be complete by early next week. And then I'll just have to get them to our printer. And our seed freeze cards should be by the end of the month. 
+Dog treats, Patriot pay dog treats. Not sure the date for that. I'll let you know as soon as it is.
 
-Trump will be in town Thursday. I will be there with marketing material and I'm hoping gift cards. Hoping, praying that Trump doesn't cancel this time.
+Stickers, Patriot pay stickers. Other random stickers should be complete by early next week. And then I'll just have to get them to our printer.
 
-(45:41 - 53:42)
-General statements that all coins are on polygon except where would the general statement be? Any ideas? So by the end of June, no promo yet or do you think we can get going spreading the coin by then? No, I think we can get going because we don't need the marketplace to begin marketing. But it would really 100% need is just the transactions and the app working. Again, we can't find any bugs on our side. 
+And our seed freeze cards should be by the end of the month. Trump will be in town Thursday. I will be there with marketing material and I'm hoping gift cards.
 
-But that's not to say, you know, we have, we only have a few devices to test on the team. And we can only test so much when you guys are testing from different devices, different browsers, different locations even, is when you're getting some bugs or sometimes you guys just, I don't know, do stuff that, you know, you do unexpected stuff, I think where we're testing, like how stuff works, because we know how it works kind of thing, which is why you guys are so much better at that. But yeah, as soon as transactions are 100% complete, having you guys stress test, we definitely don't want to pay for marketing and have people leave, you know, run into issues and then just have a negative connotation with Patriot Pay. 
+Hoping, praying that Trump doesn't cancel this time. General statements that all coins are on polygon except where would the general statement be? Any ideas?
 
-Definitely don't want to start out on that foot. So let's see. My DM do a thorough experience my experience with the app. 
+So by the end of June, no promo yet or do you think we can get going spreading the coin by then? No, I think we can get going because we don't need the marketplace to begin marketing. But it would really 100% need is just the transactions and the app working.
 
-Awesome. Thank you. Appreciate it. 
+Again, we can't find any bugs on our side. But that's not to say, you know, we have, we only have a few devices to test on the team. And we can only test so much when you guys are testing from different devices, different browsers, different locations even, is when you're getting some bugs or sometimes you guys just, I don't know, do stuff that, you know, you do unexpected stuff, I think where we're testing, like how stuff works, because we know how it works kind of thing, which is why you guys are so much better at that.
 
-Sounds good. Thanks. Awesome. 
+But yeah, as soon as transactions are 100% complete, having you guys stress test, we definitely don't want to pay for marketing and have people leave, you know, run into issues and then just have a negative connotation with Patriot Pay. Definitely don't want to start out on that foot.
 
-You're welcome. Looking forward to Patriot Coffee too. Not that I need to be enabled to have any more caffeine, but and also I learned today why, like, I prefer organic coffee. 
+[Speaker 2]
+So let's see. My DM do a thorough experience my experience with the app.
 
-But I noticed the difference even in like the Nespresso pods when they're organic, they just don't taste as good. And I guess when they're organic, they can't like grow to maturity. So they're harvested before that because pesticides help coffee grow, apparently. 
+[Speaker 1]
+Awesome. Thank you. Appreciate it.
 
-And then obviously organic will have a lot less pesticides. It's not make sense why organic coffee tastes like shit, basically. Sorry guys, trying to get the gift cards before Thursday. 
+Sounds good. Thanks. Awesome.
 
-Anything else? Don't think I've gotten any questions. Okay. Well, I think that's everything. 
+You're welcome. Looking forward to Patriot Coffee too. Not that I need to be enabled to have any more caffeine, but and also I learned today why, like, I prefer organic coffee.
 
-So again, for the remainder of the week, we have the hopefully the Trump visit. We'll do some soft marketing there, at least pass out some cards, but definitely some gift cards if we can. The dev number one has already wrapped up the API issues.
+But I noticed the difference even in like the Nespresso pods when they're organic, they just don't taste as good. And I guess when they're organic, they can't like grow to maturity. So they're harvested before that because pesticides help coffee grow, apparently.
 
-(53:42 - 54:46)
-So we'll have you guys stress test, but we'll start putting them in time blocks just to stress the system as much as we can to see if we still get errors, what errors we get and he'll continue. Otherwise, just optimizing the app to have it move a little bit quicker and deal with some issues. The login issue you guys, some of you dealt with should also be fixed now when you were opening your app and you probably hadn't logged out or closed it. 
+And then obviously organic will have a lot less pesticides. It's not make sense why organic coffee tastes like shit, basically. Sorry guys, trying to get the gift cards before Thursday.
 
-You just get a spinning circle that forever. That should also be fixed. All bugs should be fixed. 
+Anything else? Don't think I've gotten any questions. Okay.
 
-So if you are still experiencing a bug, even if you have mentioned it before, please let me know again. That way we know it's still happening. Otherwise we have no idea. 
+Well, I think that's everything. So again, for the remainder of the week, we have the hopefully the Trump visit. We'll do some soft marketing there, at least pass out some cards, but definitely some gift cards if we can.
 
-So again, all bugs have been fixed. If you are still dealing with any bugs, please let me know even if you have already mentioned it, because from our everything is fixed. And the other dev definitely should be done with the KYC for the donations.
+The dev number one has already wrapped up the API issues. So we'll have you guys stress test, but we'll start putting them in time blocks just to stress the system as much as we can to see if we still get errors, what errors we get and he'll continue. Otherwise, just optimizing the app to have it move a little bit quicker and deal with some issues.
 
-(54:47 - 56:21)
-So those should be actually live and running by the end of the week, but we'll have you guys test those. The nice thing about that is there's not much of a minimum. So and then other than that, have you guys do some good stress testing again. 
+The login issue you guys, some of you dealt with should also be fixed now when you were opening your app and you probably hadn't logged out or closed it. You just get a spinning circle that forever. That should also be fixed.
 
-See if any issues need to be solved there. Obviously the dev will continue working on any issues that come up. Otherwise we will start marketing again. 
+All bugs should be fixed. So if you are still experiencing a bug, even if you have mentioned it before, please let me know again. That way we know it's still happening.
 
-Start with the some micro influencer accounts, meme pages I'm sure you all are familiar with. We'll definitely have some contests for you guys when those Instagram posts or tweets are posted. We'll definitely have contests for you to of course like, comment, share those and help us spread the word. 
+Otherwise we have no idea. So again, all bugs have been fixed. If you are still dealing with any bugs, please let me know even if you have already mentioned it, because from our everything is fixed.
 
-Tag Steve and tag Trump and tag Boris. I think that's it'll be a good coming week. Gosh, it's only Tuesday.
+And the other dev definitely should be done with the KYC for the donations. So those should be actually live and running by the end of the week, but we'll have you guys test those. The nice thing about that is there's not much of a minimum.
 
-(56:24 - 57:20)
-Wow, excuse me. I need more coffee. Apparently it's only Tuesday. 
+So and then other than that, have you guys do some good stress testing again. See if any issues need to be solved there. Obviously the dev will continue working on any issues that come up.
 
-It feels like the end of the week already. All right, cool. I think that's everything. 
+Otherwise we will start marketing again. Start with the some micro influencer accounts, meme pages I'm sure you all are familiar with. We'll definitely have some contests for you guys when those Instagram posts or tweets are posted.
 
-Again, I can't believe how many DMs I got from you guys this weekend that have not moved your funds out of the app. You need to do that ASAP. Also to say because the longer time goes by, the more likely that you're going to go clear your catch or get new device and then you're not going to be able to log in on the Vess app. 
+We'll definitely have contests for you to of course like, comment, share those and help us spread the word. Tag Steve and tag Trump and tag Boris. I think that's it'll be a good coming week.
 
-Again, if you have tokens or any, I guess balances in your old Vess app, those need to be out ASAP. Please let everybody you know that ever used the app. Let them know even if you think they're crypto savvy, even if you think they didn't have, I mean, you lose nothing by letting them know.
+Gosh, it's only Tuesday. Wow, excuse me. I need more coffee.
 
-(57:23 - 59:47)
-Oh, I think that's everything I got on my end. Again, if you see any bugs, even ones that have been mentioned before, please let me know. Because on our end, all bugs are fixed. 
+Apparently it's only Tuesday. It feels like the end of the week already. All right, cool.
 
-So please let me know. We definitely we need to know this now would really suck to, you know, put out some marketing and have new users deal with it. So please do it now. 
+I think that's everything. Again, I can't believe how many DMs I got from you guys this weekend that have not moved your funds out of the app. You need to do that ASAP.
 
-If you need to DM me about it instead of posting it, go ahead and do that too. I will get to my DMs tonight. Again, tax refunds will be refunded at the end of the testing period. 
+Also to say because the longer time goes by, the more likely that you're going to go clear your catch or get new device and then you're not going to be able to log in on the Vess app. Again, if you have tokens or any, I guess balances in your old Vess app, those need to be out ASAP. Please let everybody you know that ever used the app.
 
-Oh my goodness, I can't stop yawning. I have been up since three. Okay, let me know if you guys need anything else. 
+Let them know even if you think they're crypto savvy, even if you think they didn't have, I mean, you lose nothing by letting them know. Oh, I think that's everything I got on my end. Again, if you see any bugs, even ones that have been mentioned before, please let me know.
 
-Thank you for all your testing. Again, I will post the next testing block here tonight. We'll just make it in a short block. 
+Because on our end, all bugs are fixed. So please let me know. We definitely we need to know this now would really suck to, you know, put out some marketing and have new users deal with it.
 
-That way you guys can stress the app and stress the dev and stress me. But we need that. That's what we're asking for. 
+So please do it now. If you need to DM me about it instead of posting it, go ahead and do that too. I will get to my DMs tonight.
 
-You all have a wonderful night. Again, don't send any funds to any random people, please. Remember that neither me or admins will ever ask you for your private keys. 
+Again, tax refunds will be refunded at the end of the testing period. Oh my goodness, I can't stop yawning. I have been up since three.
 
-We'll never ask you for a code sent to your email. Remember with the new login system, right? If anybody messages you asking for that code, you definitely don't want to share that with anybody, including me, including the admins. We'll never ask you. 
+Okay, let me know if you guys need anything else. Thank you for all your testing. Again, I will post the next testing block here tonight.
 
-There's no reason for us to do that. Again, if they're offering you free crap, they're probably scamming you, right? So don't fall for that. It would be a really bad time to lose your funds and I hate when that happens. 
+We'll just make it in a short block. That way you guys can stress the app and stress the dev and stress me. But we need that.
 
-So please watch out as the scammers come back, especially I feel like once the crypto market is doing well, we get like more scammers. All right. You guys have a wonderful night. 
+That's what we're asking for. You all have a wonderful night. Again, don't send any funds to any random people, please.
+
+Remember that neither me or admins will ever ask you for your private keys. We'll never ask you for a code sent to your email. Remember with the new login system, right?
+
+If anybody messages you asking for that code, you definitely don't want to share that with anybody, including me, including the admins. We'll never ask you. There's no reason for us to do that.
+
+Again, if they're offering you free crap, they're probably scamming you, right? So don't fall for that. It would be a really bad time to lose your funds and I hate when that happens.
+
+So please watch out as the scammers come back, especially I feel like once the crypto market is doing well, we get like more scammers. All right. You guys have a wonderful night.
 
 I will get this posted here in just a few minutes. If I don't fall asleep, oh my gosh, excuse me. All right.
 
-(59:48 - 1:01:02)
-Bye guys. Thank you. Oh, I'll post a contest tonight too. 
+Bye guys. Thank you. Oh, I'll post a contest tonight too.
 
-Let's see. What do we do? We'll do a testing contest. How about that? So let's see. 
+Let's see. What do we do? We'll do a testing contest.
 
-That's pretty simple. You don't need much to test. You can literally, you don't even, by the way, when you test, you don't need to test PPY. 
+How about that? So let's see. That's pretty simple.
 
-You can test with all the other tokens that have, you know, zero tax, that have like pennies, if that's sometimes less than penny to transfer. So also keep that in mind. Contest this week. 
+You don't need much to test. You can literally, you don't even, by the way, when you test, you don't need to test PPY. You can test with all the other tokens that have, you know, zero tax, that have like pennies, if that's sometimes less than penny to transfer.
 
-Let's see how much is, what are we running now? Let's do, let's do two prices. We'll do two prices of 250,000 PPY. So give or take about a hundred bucks right now.
+So also keep that in mind. Contest this week. Let's see how much is, what are we running now?
 
-(1:01:03 - 1:01:34)
-Um, and it's for everybody who tests. Um, between now and Friday before voice chat. Um, so I'll wallet and that'll include all your wallets, um, that you test with between now and Friday. 
+Let's do, let's do two prices. We'll do two prices of 250,000 PPY. So give or take about a hundred bucks right now.
+
+Um, and it's for everybody who tests. Um, between now and Friday before voice chat. Um, so I'll wallet and that'll include all your wallets, um, that you test with between now and Friday.
 
 Um, there'll be two winners, 250K PPY each. Uh, I think that's easy enough. I'll post that and I'll post the recordings right now.
 
-(1:01:34 - 1:01:34)
 You guys have good night.

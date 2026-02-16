@@ -1,292 +1,321 @@
-(0:00 - 0:10)
+[Speaker 1]
 order. Hope everybody had a great week. I have some good news and some not good news.
 
-(0:14 - 2:02)
-So, the not so good news, I'll do with that first, is that we're not ready to deploy for you guys to test the sign-in yet. The good news is this has nothing to do with the contract being signed. We are just switching from VESS. 
+So, the not so good news, I'll do with that first, is that we're not ready to deploy for you guys to test the sign-in yet. The good news is this has nothing to do with the contract being signed. We are just switching from VESS.
 
-There's just a security step that came up with the switch to VESS, so that just takes a few extra steps because of some recent changes that Magic has done on their end. So, that's what the devs are working on. We did get, and we're in the process of, getting a dev on this weekend to continue to work on everything. 
+There's just a security step that came up with the switch to VESS, so that just takes a few extra steps because of some recent changes that Magic has done on their end. So, that's what the devs are working on. We did get, and we're in the process of, getting a dev on this weekend to continue to work on everything.
 
-That way we just move a little bit quicker. We are super excited about this dev. We've also hired a PR firm this week, so that was very, very exciting. 
+That way we just move a little bit quicker. We are super excited about this dev. We've also hired a PR firm this week, so that was very, very exciting.
 
-It just feels a lot more. Are you whispering and crunching things? Oh, shit. Sorry, I don't know what that could have been. 
+It just feels a lot more. Are you whispering and crunching things? Oh, shit.
 
-I don't have anything in my hands right now. Unless it was, maybe it was my can. I have an energy drink.
+Sorry, I don't know what that could have been. I don't have anything in my hands right now. Unless it was, maybe it was my can.
 
-(2:04 - 2:37)
-It's so weird having the voice chat be like an hour later because of my Arizona time, but also because it's summer, so I feel like I'm waking up a lot earlier. I feel like it's almost bedtime, so I don't know if I'll be rolling that back, but yeah, let me know if sound is bad again and I'll adjust here. So, that's the good news and kind of, not so good news because we did expect to be having you guys test the new login service.
+I have an energy drink. It's so weird having the voice chat be like an hour later because of my Arizona time, but also because it's summer, so I feel like I'm waking up a lot earlier. I feel like it's almost bedtime, so I don't know if I'll be rolling that back, but yeah, let me know if sound is bad again and I'll adjust here.
 
-(2:44 - 4:55)
-And so, but yeah. Let's see. What else? We do have a winner for the contest from last Tuesday. 
+So, that's the good news and kind of, not so good news because we did expect to be having you guys test the new login service. And so, but yeah. Let's see.
 
-I'll share that in the chat and I'll send that over. Which one of you is this extra slow here? Okay. Hired that. 
+What else? We do have a winner for the contest from last Tuesday.
 
-Hired that. Oh, well. Along with the PR firm, we have, gosh, I can't count them. 
+[Speaker 4]
+I'll share that in the chat and I'll send that over.
 
-How many mark deals did we? Give me a second, let me count. Is everything moving so slow? Okay. We have, shoot, no, it's the other, the other Patriot Pay.
+[Speaker 3]
+Which one of you is this extra slow here?
 
-(4:57 - 5:11)
-Okay. All right. One, two, three, four, five, six, seven.
+[Speaker 2]
+Okay. Hired that.
 
-(5:22 - 6:20)
-This one was a long one. Eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 21. Okay. 
+[Speaker 1]
+Hired that. Oh, well. Along with the PR firm, we have, gosh, I can't count them.
 
-So approximately 21. Anyway, around that, around that number of new contracts that we sent out this week to start marketing. So that's been very, very exciting. 
+[Speaker 4]
+How many mark deals did we?
 
-We've still not received knock on wood. One, no. Everybody we've asked to promote us has said yes so far, which is great news.
+[Speaker 3]
+Give me a second, let me count. Is everything moving so slow? Okay.
 
-(6:21 - 6:29)
-Very excited about that. Boris is super excited. I've not talked to Steve.
+We have, shoot, no, it's the other, the other Patriot Pay.
 
-(6:30 - 8:46)
-But I'm sure he will be too. So that's mainly what I've been working on this week. The devs have, what is that? Sorry, let me bring that up too. 
+[Speaker 4]
+Okay. All right.
 
-Okay. I was just checking, pulling up the discord. Okay. 
+[Speaker 1]
+One, two, three, four, five, six, seven.
 
-Any updates as of yet? I'm assuming that's before I gave you some updates. Marketing companies will have to be stupid. No, it's been, it's been very exciting. 
+[Speaker 3]
+This one was a long one.
 
-So we just have to have them all lined up. And then just to make sure we start, like for the first few days, we definitely just have to start super slow. Just because if there are issues that haven't popped up for us in our community, then we definitely don't want to like blast out to, you know, we don't want to blast out every contract we have on the same day and have everybody, I mean, you guys know how it is in social media. 
+[Speaker 1]
+Eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 21. Okay. So approximately 21.
 
-I think a lot of the times when I'm scrolling, even if there's something I save to go back to later, I realistically rarely ever do. Just because that's, I mean, that's really how they've designed it to be for the majority of people. It's almost like the social media ADHD, you know, where you're on to the next thing.
+Anyway, around that, around that number of new contracts that we sent out this week to start marketing. So that's been very, very exciting. We've still not received knock on wood.
 
-(8:46 - 10:27)
-So we definitely just want to be wary of that. And again, this is why having you guys test everything is super important. But we also want to have others test that and slowly again, especially at the very, very beginning to make sure that everything is functioning like it should to make sure that we're not paying all this money and having people promote it for new people to come on, click on the link or try to make an account and it give them an error, them sign out and never go to it again. 
+One, no. Everybody we've asked to promote us has said yes so far, which is great news. Very excited about that.
 
-Or until they see it next time, which, you know, who knows when they'll see it next time. So we'll just be very mindful of that. Yeah, very excited about that. 
+Boris is super excited. I've not talked to Steve. But I'm sure he will be too.
 
-PR company, definitely a very conservative company. So they definitely align with our values and we'll continue to do that every everywhere we can. We definitely want your hard earned dollars to really stay in the realm of our community of others who believe in freedom and believe in not getting canceled. 
+So that's mainly what I've been working on this week. The devs have, what is that?
 
-And really just believe everything we stand for, I guess. So we'll continue to do that where we can very excited about this. They are.
+[Speaker 3]
+Sorry, let me bring that up too. Okay. I was just checking, pulling up the discord.
 
-(10:29 - 11:45)
-They've been in business for many years over a decade. They've helped countless businesses and they're, of course, contracted with Fox Newsmax, all the major players that would fit with our demographic. They are aware, though, that we do want to start marketing slowly to work out our very aware of that. 
+Okay. Any updates as of yet? I'm assuming that's before I gave you some updates.
 
-We have another meeting Monday morning, I believe. Very excited for that. Can you give us a hint of these promoters? It'll be promoters that will appeal to our exact audience and everybody we're looking for.
+Marketing companies will have to be stupid. No, it's been, it's been very exciting. So we just have to have them all lined up.
 
-(11:53 - 16:15)
-When can I sign up a new wallet on the updated app? I will update you as soon as we can. So everything's good with Magic. However, they have made some updates. 
+[Speaker 1]
+And then just to make sure we start, like for the first few days, we definitely just have to start super slow. Just because if there are issues that haven't popped up for us in our community, then we definitely don't want to like blast out to, you know, we don't want to blast out every contract we have on the same day and have everybody, I mean, you guys know how it is in social media. I think a lot of the times when I'm scrolling, even if there's something I save to go back to later, I realistically rarely ever do.
 
-So we have to make some security updates from our end. Sorry, I'm going to mute you. As we replace Vess, of course, security is one of our top priorities. 
+Just because that's, I mean, that's really how they've designed it to be for the majority of people. It's almost like the social media ADHD, you know, where you're on to the next thing. So we definitely just want to be wary of that.
 
-So I will update you guys as soon as that's complete. We do have another dev coming on who specializes in this. So I will keep you updated. 
+And again, this is why having you guys test everything is super important. But we also want to have others test that and slowly again, especially at the very, very beginning to make sure that everything is functioning like it should to make sure that we're not paying all this money and having people promote it for new people to come on, click on the link or try to make an account and it give them an error, them sign out and never go to it again. Or until they see it next time, which, you know, who knows when they'll see it next time.
 
-Very excited for this. I'm very excited to add another dev as we continue growing. What will the PR firm be doing and when will they start? As soon as we go live, and what will they be doing? So basically, most of what they will be doing, at least in the to promote our brand. 
+So we'll just be very mindful of that. Yeah, very excited about that. PR company, definitely a very conservative company.
 
-Again, we've told them how slow we want to start and the reasoning behind that. Press releases, they'll take care of that. And once we are ready, once we work out the bugs and we are ready for a bigger push, they'll go ahead and schedule interviews, schedule podcasts, schedule us to be in news articles. 
+So they definitely align with our values and we'll continue to do that every everywhere we can. We definitely want your hard earned dollars to really stay in the realm of our community of others who believe in freedom and believe in not getting canceled. And really just believe everything we stand for, I guess.
 
-So they're very excited about that. Super, super excited. And they're thrilled to get us on too. 
+So we'll continue to do that where we can very excited about this. They are. They've been in business for many years over a decade.
 
-They are very familiar with this space and I think that's a big deal. I think that's where WIRE helped us a ton. I think we learned a ton from that, not to only be as self-sufficient as possible, but also to make sure that everybody we're working with is very aware of our values and our history. 
+They've helped countless businesses and they're, of course, contracted with Fox Newsmax, all the major players that would fit with our demographic. They are aware, though, that we do want to start marketing slowly to work out our very aware of that. We have another meeting Monday morning, I believe.
 
-And yeah, nobody that's going to cancel us no matter what. Obviously, as long as we abide by, you know, their rules and everything like that, which we'll continue doing. Got to work the first time. 
+Very excited for that.
 
-Yeah, we need, we absolutely cannot afford, that is Steve's number one priority. He made sure to tell me that many times and he's, as long as, what is the word he used? What was the exact word? As long as we do that, then he will push it as much as we want and push anything we want and everything we want. But we need it working and that is his, that is the deal. 
+[Speaker 5]
+Can you give us a hint of these promoters?
 
-Which is why that takes priority, getting everything right. When do you think we will move ahead with the bigger push? We just got to make sure everything is working correctly. You guys have heard back when Velo, actually I wonder how Velo is doing.
+[Speaker 1]
+It'll be promoters that will appeal to our exact audience and everybody we're looking for. When can I sign up a new wallet on the updated app? I will update you as soon as we can.
 
-(16:16 - 16:29)
-You guys remember when Velo was around? I want to say it was one of the last voice chats he did with us. Maybe the last voice chat, I'm not sure. Either last or the second to last voice chat.
+So everything's good with Magic. However, they have made some updates. So we have to make some security updates from our end.
 
-(16:30 - 16:54)
-That really, that is the best way to figure out bugs, right? We can have our devs and the best devs do everything by the book and we can test all day. But we just need, that's the best way, that's going to be the best way to find the bugs. So that's from the professionals.
+Sorry, I'm going to mute you. As we replace Vess, of course, security is one of our top priorities. So I will update you guys as soon as that's complete.
 
-(16:56 - 18:59)
-We just need, obviously it's different people with different devices and different areas and doing different things, using different versions of everything and that's how we're going to find our bugs. So as soon as our major bugs are solved, any that we find, which I'm sure we will find some, then that's when we'll ramp up marketing, which again we'll have no problem with. We got everybody lined up. 
+We do have another dev coming on who specializes in this. So I will keep you updated. Very excited for this.
 
-I think our marketing guy will be huge. Our PR firm, huge. Yeah, feeling really good about it. 
+I'm very excited to add another dev as we continue growing. What will the PR firm be doing and when will they start? As soon as we go live, and what will they be doing?
+
+So basically, most of what they will be doing, at least in the to promote our brand. Again, we've told them how slow we want to start and the reasoning behind that. Press releases, they'll take care of that.
+
+And once we are ready, once we work out the bugs and we are ready for a bigger push, they'll go ahead and schedule interviews, schedule podcasts, schedule us to be in news articles. So they're very excited about that. Super, super excited.
+
+And they're thrilled to get us on too. They are very familiar with this space and I think that's a big deal. I think that's where WIRE helped us a ton.
+
+I think we learned a ton from that, not to only be as self-sufficient as possible, but also to make sure that everybody we're working with is very aware of our values and our history. And yeah, nobody that's going to cancel us no matter what. Obviously, as long as we abide by, you know, their rules and everything like that, which we'll continue doing.
+
+Got to work the first time. Yeah, we need, we absolutely cannot afford, that is Steve's number one priority. He made sure to tell me that many times and he's, as long as, what is the word he used?
+
+What was the exact word? As long as we do that, then he will push it as much as we want and push anything we want and everything we want. But we need it working and that is his, that is the deal.
+
+Which is why that takes priority, getting everything right. When do you think we will move ahead with the bigger push? We just got to make sure everything is working correctly.
+
+You guys have heard back when Velo, actually I wonder how Velo is doing. You guys remember when Velo was around? I want to say it was one of the last voice chats he did with us.
+
+Maybe the last voice chat, I'm not sure. Either last or the second to last voice chat. That really, that is the best way to figure out bugs, right?
+
+We can have our devs and the best devs do everything by the book and we can test all day. But we just need, that's the best way, that's going to be the best way to find the bugs. So that's from the professionals.
+
+We just need, obviously it's different people with different devices and different areas and doing different things, using different versions of everything and that's how we're going to find our bugs. So as soon as our major bugs are solved, any that we find, which I'm sure we will find some, then that's when we'll ramp up marketing, which again we'll have no problem with. We got everybody lined up.
+
+I think our marketing guy will be huge. Our PR firm, huge. Yeah, feeling really good about it.
 
 A reminder, if you have a business or know anybody with a that is interested on listing their business or product in the marketplace or even if you're, I don't know, even if you are some Etsy business or you don't have to be a huge business, definitely contact me. We have an amazing special that we're doing for super limited time, but it really is amazing, can't be beat. And yeah, we're going to offer that.
 
-(19:00 - 19:23)
 We're thinking to the first dozen businesses that list in the marketplace, but either way, contact me. We will have everything to the few of you who've already contacted me, we'll have everything sent out to you this weekend. I'm very excited about that.
 
-(19:24 - 22:08)
-Super, super excited about that. When will the tax be lowered? I think that'll be a big deterrent regardless of amazing marketing push. We haven't had trouble with that before. 
+Super, super excited about that. When will the tax be lowered? I think that'll be a big deterrent regardless of amazing marketing push.
 
-No. We had tax the last time we were around and our volume was over $50 million for the first year. So we'll be fine there. 
+We haven't had trouble with that before. No. We had tax the last time we were around and our volume was over $50 million for the first year.
 
-We don't have a set date. It's really going to depend more on a growth factor just because we have the 1% now going to LP, we have another 1% going to community and charity. Trying to think of, yeah, that's correct, right? So that's that right there. 
+So we'll be fine there. We don't have a set date. It's really going to depend more on a growth factor just because we have the 1% now going to LP, we have another 1% going to community and charity.
 
-We're down to six. So yeah, we don't have a date for that, but we need that currently to pay for everything because everything we're doing is not cheap. Sorry if this was answered already. 
+Trying to think of, yeah, that's correct, right? So that's that right there. We're down to six.
 
-Are we thinking next week for community testing? Community testing will start as soon as the devs wrap up the security. They're having to change something due to the security changes. I don't have a date on that yet. 
+So yeah, we don't have a date for that, but we need that currently to pay for everything because everything we're doing is not cheap. Sorry if this was answered already. Are we thinking next week for community testing?
 
-I hope to have one by the end of the weekend. We basically have to, yeah, we just have to change, which is actually great because, yeah, it'll be a security upgrade from VEST too. When someone buys something from the marketplace, do they get charged the 8%? When someone buys something from the marketplace, for starters, it'll be 6%. 
+Community testing will start as soon as the devs wrap up the security. They're having to change something due to the security changes. I don't have a date on that yet.
 
-And of course, as we we plan to lower that too. But this gives holders an incentive to spend their PPY in marketplace versus selling it. And again, we do plan on lowering that as we grow.
+I hope to have one by the end of the weekend. We basically have to, yeah, we just have to change, which is actually great because, yeah, it'll be a security upgrade from VEST too. When someone buys something from the marketplace, do they get charged the 8%?
 
-(22:09 - 22:27)
-And we expect to keep that lower than the selling tax. I think that's a great incentive to help continue to grow the community. But I think that's also why it's awesome for any businesses that are interested to get on there.
+When someone buys something from the marketplace, for starters, it'll be 6%. And of course, as we we plan to lower that too. But this gives holders an incentive to spend their PPY in marketplace versus selling it.
 
-(22:27 - 28:36)
-It really is a killer deal right now. If I was a small business, or I guess really any kind of business, I would definitely be signing up for that. How long will this new little issue take to get fixed? So they're having to change a security code in the app. 
+And again, we do plan on lowering that as we grow. And we expect to keep that lower than the selling tax. I think that's a great incentive to help continue to grow the community.
 
-But I don't have a time on that yet. I expect to have one by the end of the weekend. Regarding the tax, if it's explained in the marketing that it will help grow the Patriot parallel economy, I think people would be cool with it. 
+But I think that's also why it's awesome for any businesses that are interested to get on there. It really is a killer deal right now. If I was a small business, or I guess really any kind of business, I would definitely be signing up for that.
 
-Not cheap to build No, I don't think so at all. And again, we've done this before with almost zero substance. And we'll do it again. 
+How long will this new little issue take to get fixed? So they're having to change a security code in the app. But I don't have a time on that yet.
 
-Also keep in mind, guys, like we, many of us were so early that we came in and bought hundreds, thousands, tens of thousands in FJB or PPY. Now, really, ideally, we'd love to push this and, you know, I'd rather have, in my opinion, have 100,000 people buy 20 bucks each. So keeping that in mind, 8% is not going to be a big deal. 
+I expect to have one by the end of the weekend. Regarding the tax, if it's explained in the marketing that it will help grow the Patriot parallel economy, I think people would be cool with it. Not cheap to build No, I don't think so at all.
 
-Again, we've done it before. We hit over $50 million in FJB sales in the first 12 months. And we'll, we'll do that again, in my opinion. 
+And again, we've done this before with almost zero substance. And we'll do it again. Also keep in mind, guys, like we, many of us were so early that we came in and bought hundreds, thousands, tens of thousands in FJB or PPY.
 
-Wireday was over a thousand transactions in the first hour, to give you an idea. So you just got to think of it that way when, you know, we're not, most people aren't going to come in like we did and buy hundreds and thousands and they're going to come in and like, oh, that's cool. I'm going to buy 20 bucks. 
+Now, really, ideally, we'd love to push this and, you know, I'd rather have, in my opinion, have 100,000 people buy 20 bucks each. So keeping that in mind, 8% is not going to be a big deal. Again, we've done it before.
 
-I'm going to buy 100 bucks, which is exactly what we want, I'd say. I think the chart will help this too. Slow and steady. 
+We hit over $50 million in FJB sales in the first 12 months. And we'll, we'll do that again, in my opinion. Wireday was over a thousand transactions in the first hour, to give you an idea.
 
-I'll take a thousand. Don't think I have any questions in DMs, but I'll check my emails and I'm charging. Anything else? If the dev fixes the security issue over the weekend, would you push the update before next voice chat? Yeah, for sure.
+So you just got to think of it that way when, you know, we're not, most people aren't going to come in like we did and buy hundreds and thousands and they're going to come in and like, oh, that's cool. I'm going to buy 20 bucks. I'm going to buy 100 bucks, which is exactly what we want, I'd say.
 
-(28:39 - 29:05)
-Definitely. One just got back to me 10 minutes after I got on the voice chat, waiting on the other one now. Yeah, everything's ready for that.
+I think the chart will help this too. Slow and steady.
 
-(29:07 - 29:31)
-I think that'll be exciting. What we're doing after that is, oh, by the way, make sure you move your funds out of smart wallet. If you have not, if you did move your funds out of smart wallet, please DM me with your wallet or transaction hash so I can refund you the 8% tax for that transfer.
+[Speaker 2]
+I'll take a thousand. Don't think I have any questions in DMs, but I'll check my emails and I'm charging.
 
-(29:32 - 30:39)
-Please keep in mind that does not mean for transfers you did outside of the smart wallet or transfers you did a year ago or transfers you did a month ago. This is strictly a reimbursement for you to move your funds out of smart wallet. The whole point of that is just so you can get out of smart wallet. 
+[Speaker 4]
+Anything else?
 
-Obviously, we don't want to charge you to just move your funds out of smart wallet. If you've done that since I've announced it, and I think it's been a little bit, probably over a week, please DM me so I can refund you for that tax. I'm not going to be able to refund you after we complete the burn. 
+[Speaker 5]
+If the dev fixes the security issue over the weekend, would you push the update before next voice chat? Yeah, for sure. Definitely.
 
-I'm not going to be able to refund you weeks or months from now. So make sure you do do that ASAP, please. Again, I just need a wallet address or transaction hash. 
+[Speaker 4]
+One just got back to me 10 minutes after I got on the voice chat, waiting on the other one now.
 
-That way we can confirm the transaction and then we'll refund you the exact tax you paid to transfer those funds out of a smart wallet. Do keep in mind it's not just the Patriot Pay that you need to transfer out of smart wallet. You need to transfer all of your funds.
+[Speaker 1]
+Yeah, everything's ready for that. I think that'll be exciting. What we're doing after that is, oh, by the way, make sure you move your funds out of smart wallet.
 
-(30:39 - 32:27)
-If it is a native coin, you're good because the native coins in there are actually in your expert wallet, even though you see them in both smart and expert. So if you see the coin in your expert wallet, then you're good. But if you see it in only smart wallet, please make sure you do that. 
+If you have not, if you did move your funds out of smart wallet, please DM me with your wallet or transaction hash so I can refund you the 8% tax for that transfer. Please keep in mind that does not mean for transfers you did outside of the smart wallet or transfers you did a year ago or transfers you did a month ago. This is strictly a reimbursement for you to move your funds out of smart wallet.
 
-If you know anybody that has the app, definitely let them know. We'll probably do one more notice, um, including social media and the chats, we will not be sending any more emails regarding this. So just make sure you let everybody you know, know about that, please. 
+The whole point of that is just so you can get out of smart wallet. Obviously, we don't want to charge you to just move your funds out of smart wallet. If you've done that since I've announced it, and I think it's been a little bit, probably over a week, please DM me so I can refund you for that tax.
 
-Definitely don't want people to think we're scamming them, even though we don't have access to their smart wallet funds. After the magic update is pushed, how long before the on ramp is switched on? As soon as you all test it, and it's working as it should. Now the devs will also be switching our stable coins. 
+I'm not going to be able to refund you after we complete the burn. I'm not going to be able to refund you weeks or months from now. So make sure you do do that ASAP, please.
 
-They're currently on Ethereum where you guys are paying a very hefty gas fee. Those will all be changing to polygon too. So that'll be really awesome. 
+Again, I just need a wallet address or transaction hash. That way we can confirm the transaction and then we'll refund you the exact tax you paid to transfer those funds out of a smart wallet. Do keep in mind it's not just the Patriot Pay that you need to transfer out of smart wallet.
 
-Because then you can have stable coin without paying the insane gas fees. That'll be good for us in the smart wallet, paying gas and good for you. I'm actually very excited about that.
+You need to transfer all of your funds. If it is a native coin, you're good because the native coins in there are actually in your expert wallet, even though you see them in both smart and expert. So if you see the coin in your expert wallet, then you're good.
 
-(32:28 - 33:32)
-Because the Ethereum gas wallet runs out pretty quickly with it being such an expensive gas. The estimations when they're off sometimes are very off. So I'm excited to get off Ethereum for that. 
+But if you see it in only smart wallet, please make sure you do that. If you know anybody that has the app, definitely let them know. We'll probably do one more notice, um, including social media and the chats, we will not be sending any more emails regarding this.
 
-That'll be nice. Yeah. Devs just have to work on the way you guys are signing your transactions on the app. 
+So just make sure you let everybody you know, know about that, please. Definitely don't want people to think we're scamming them, even though we don't have access to their smart wallet funds. After the magic update is pushed, how long before the on ramp is switched on?
 
-So soon as that security issue is modified, then we'll be good to go. But again, I know it's kind of sucks waiting, but getting it done right. And of course, keeping your funds secure will continue to be a top priority.
+As soon as you all test it, and it's working as it should. Now the devs will also be switching our stable coins. They're currently on Ethereum where you guys are paying a very hefty gas fee.
 
-(33:49 - 34:14)
-Is the app functional? I set mine up before, but I lost my seed phrase. Can I just use different email? Yes, it is functional, but if you don't have any funds in there right now, I would not set one up. I would just wait until our new wallet creation system is live and then everybody will have to make an account then.
+Those will all be changing to polygon too. So that'll be really awesome. Because then you can have stable coin without paying the insane gas fees.
 
-(34:15 - 36:00)
-So if you do have your funds actually in an expert wallet, make sure that you have that seed phrase saved somewhere other than your wallet. Download, if it were me, I would download Trust Wallet and punch in your seed phrase, your 24 word seed phrase from the Patriot Pay app into Trust Wallet and test it. Make sure you see your funds there. 
+That'll be good for us in the smart wallet, paying gas and good for you. I'm actually very excited about that. Because the Ethereum gas wallet runs out pretty quickly with it being such an expensive gas.
 
-If you have PPY in there, you'll have to import it using the how to videos we have on the YouTube channel. They're also saved in Discord, Telegram, you can DM me. So make sure you have your seed phrase saved, written down, saved. 
+The estimations when they're off sometimes are very off. So I'm excited to get off Ethereum for that. That'll be nice.
 
-Even if you have an expert, your funds are in the expert wallet. Because once we have the new wallet and account creation update, you're not going to be able to access the expert wallet through the Patriot Pay app. I hope that makes sense. 
+Yeah. Devs just have to work on the way you guys are signing your transactions on the app. So soon as that security issue is modified, then we'll be good to go.
 
-If you need any more details, please reach out. But everybody will have to make a new account. Once we switch over, you're going to have to make a new app account. 
+But again, I know it's kind of sucks waiting, but getting it done right. And of course, keeping your funds secure will continue to be a top priority.
 
-So just want to be very clear about that. You're not going to be able to access your expert wallet anymore. So yeah, to answer your question, I would not especially if you have no puns in there. 
+[Speaker 5]
+Is the app functional? I set mine up before, but I lost my seed phrase. Can I just use different email?
 
-I definitely wouldn't make a new account right now. I'm just hold tight. I think you all love the new account creation system.
+[Speaker 1]
+Yes, it is functional, but if you don't have any funds in there right now, I would not set one up. I would just wait until our new wallet creation system is live and then everybody will have to make an account then. So if you do have your funds actually in an expert wallet, make sure that you have that seed phrase saved somewhere other than your wallet.
 
-(36:00 - 36:10)
-It'll be so easy. Your grandma literally can do it. And I'll be super easy to log in and recover.
+Download, if it were me, I would download Trust Wallet and punch in your seed phrase, your 24 word seed phrase from the Patriot Pay app into Trust Wallet and test it. Make sure you see your funds there. If you have PPY in there, you'll have to import it using the how to videos we have on the YouTube channel.
 
-(36:11 - 36:23)
-You just got to be careful though, to then keep your device secure. Very similar to the way you with a trust wallet. So obviously, make sure you have a lock on your phone.
+They're also saved in Discord, Telegram, you can DM me. So make sure you have your seed phrase saved, written down, saved. Even if you have an expert, your funds are in the expert wallet.
 
-(36:33 - 37:07)
-I actually have to send somebody the white paper and roadmap. So I was reviewing that a little bit earlier. And I was like, Wow, excited about this. 
+Because once we have the new wallet and account creation update, you're not going to be able to access the expert wallet through the Patriot Pay app. I hope that makes sense. If you need any more details, please reach out.
 
-Have to like switch into a different mode when you're talking to people who aren't in the crypto realm. Totally different. Will the new account be used by merchants new wallet? Yes.
+But everybody will have to make a new account. Once we switch over, you're going to have to make a new app account. So just want to be very clear about that.
 
-(37:11 - 37:46)
+You're not going to be able to access your expert wallet anymore. So yeah, to answer your question, I would not especially if you have no puns in there. I definitely wouldn't make a new account right now.
+
+I'm just hold tight. I think you all love the new account creation system. It'll be so easy.
+
+Your grandma literally can do it. And I'll be super easy to log in and recover. You just got to be careful though, to then keep your device secure.
+
+Very similar to the way you with a trust wallet. So obviously, make sure you have a lock on your phone. I actually have to send somebody the white paper and roadmap.
+
+So I was reviewing that a little bit earlier. And I was like, Wow, excited about this. Have to like switch into a different mode when you're talking to people who aren't in the crypto realm.
+
+Totally different. Will the new account be used by merchants new wallet? Yes.
+
 Yes, merchants. And again, if you guys do have a small business, or know somebody who does, you know, have a sister, brother, son, daughter, co worker, who does sell or provide a service that is wanting to accept PPI. And remember, it's really cool because they're, they're accepting PPI, but the payment they get is stable coin.
 
-(37:48 - 38:16)
-So it's super easy to pitch this to somebody if you guys want somebody to be on there. And really, for starters, everybody we're getting on right now, seriously does not benefit us. We're not making any money off of them. 
+So it's super easy to pitch this to somebody if you guys want somebody to be on there. And really, for starters, everybody we're getting on right now, seriously does not benefit us. We're not making any money off of them.
 
 It costs them nothing. So really, any business signing up right now is getting approved. is winning pretty big.
 
-(38:18 - 38:55)
-Because it costs them nothing right now to even get in or on in our marketplace. And they're getting all of you and everybody we're marketing to to see their business and marketplace. So that's a big deal. 
+Because it costs them nothing right now to even get in or on in our marketplace. And they're getting all of you and everybody we're marketing to to see their business and marketplace. So that's a big deal.
 
 And then they're getting an offer again, that really can't be beat. They seriously have nothing to lose. So and then we're also adding a few things in the marketplace that I think you all will love.
 
-(38:57 - 39:03)
 Few crypto related items. Super useful. I think you all will love them.
 
-(39:05 - 39:24)
 It's super kind of annoying. Some things are so hard or even impossible to find made in the USA, especially when they're crypto related. But we'll, as we grow, we'll definitely move towards that for the things that we can't source here for now.
 
-(39:30 - 40:32)
-But yeah, that's actually on our devs list. So right now when we start off, we'll we will be like our devs will be listing new merchants items. But we do have on our list once we knock out some higher priority dev items. 
+But yeah, that's actually on our devs list. So right now when we start off, we'll we will be like our devs will be listing new merchants items. But we do have on our list once we knock out some higher priority dev items.
 
-The devs have or will be adding a feature where the merchants will get on and add their own items. So that'll be really cool. And then adding a feature that will actually let wallets chat with each other, which will be really, really cool. 
+The devs have or will be adding a feature where the merchants will get on and add their own items. So that'll be really cool. And then adding a feature that will actually let wallets chat with each other, which will be really, really cool.
 
 Some some really awesome features. And really awesome ideas from everybody we have working with us. Super excited for that.
 
-(40:38 - 41:24)
 Also, if you guys know anybody, they don't have to have a huge, huge following could be even micro influencers. But if you know anybody that you yourself love, we'll be happy to check them out to work with them. Our video that will be posted for for to begin to kick off our marketing should be done soon.
 
-(41:26 - 42:30)
-In the next two weeks or so is the estimate I got yesterday, I think. So I am very excited for that. And again, that's gonna be it'll be from a very different angle, right? Because you all are crypto savvy. 
+In the next two weeks or so is the estimate I got yesterday, I think. So I am very excited for that. And again, that's gonna be it'll be from a very different angle, right?
 
-Even, you know, even some of you who claim like, Oh, I don't know anything about crypto, you definitely know more than the average person probably. So this the video that we'll have everybody post to get start getting the word out will definitely be different because it's not geared towards people like you all who are pretty familiar with crypto now. So I'm very excited to see it. 
+Because you all are crypto savvy. Even, you know, even some of you who claim like, Oh, I don't know anything about crypto, you definitely know more than the average person probably. So this the video that we'll have everybody post to get start getting the word out will definitely be different because it's not geared towards people like you all who are pretty familiar with crypto now.
 
-We'll share that with you before before we share it with everybody else. I think Bannon is making an appearance in there. We'll see.
+So I'm very excited to see it. We'll share that with you before before we share it with everybody else. I think Bannon is making an appearance in there.
 
-(42:31 - 44:30)
-We'll at least get one of his previous videos in there. Okay. Anything else? Okay. 
+We'll see. We'll at least get one of his previous videos in there.
 
-I think that's everything. If you all think of any other questions, feel free to tag or DM me. Yeah, I think that's everything. 
+[Speaker 6]
+Okay. Anything else?
 
-Pretty productive week. And I will update you on the dev progress. I am very excited to get an additional dev on. 
+[Speaker 5]
+Okay. I think that's everything.
 
-So I'll let you know how that's going. Yeah, I think all our devs are now in the US and Canada. So that's good news for me. 
+[Speaker 1]
+If you all think of any other questions, feel free to tag or DM me. Yeah, I think that's everything. Pretty productive week.
 
-So I need to get up in the middle of the night for meetings. Again, reminder, move your smart wallet funds out. If you know anybody that ever had the app, make sure they know or anybody that ever had FGB back then. 
+And I will update you on the dev progress. I am very excited to get an additional dev on. So I'll let you know how that's going.
 
-I haven't received a ton of emails back. I want to say I've received maybe six or seven emails back. So make sure I also have you guys.
+Yeah, I think all our devs are now in the US and Canada. So that's good news for me. So I need to get up in the middle of the night for meetings.
 
-(44:31 - 46:28)
-I'll make a post about this. But if you've already signed up, subscribe to the emails on our website. Get on there, please. 
+Again, reminder, move your smart wallet funds out. If you know anybody that ever had the app, make sure they know or anybody that ever had FGB back then. I haven't received a ton of emails back.
 
-And repeat that process and make sure you go to the very, very bottom of the page because there's one where you send us a message. That's not the one I want you to fill out. I want you to fill out the other one should look blue and it should be subscribe, subscribing to the list versus just contact us form. 
+I want to say I've received maybe six or seven emails back. So make sure I also have you guys. I'll make a post about this.
 
-We, we don't want to be. So this has happened before with our email service, right? If you get a high unsubscribe rate, or have a lot of emails bounce, then the company is going to think you're a spammer or scammer and suspend your account. So we've already ran into that. 
+But if you've already signed up, subscribe to the emails on our website. Get on there, please. And repeat that process and make sure you go to the very, very bottom of the page because there's one where you send us a message.
 
-So because so many emails bounced likely because our email list is honestly so old, it's a little bit over two and a half years old, and we haven't sent out emails for a start over. So please get back on there if you want our updates. And go ahead and do that. 
+That's not the one I want you to fill out. I want you to fill out the other one should look blue and it should be subscribe, subscribing to the list versus just contact us form. We, we don't want to be.
 
-But I'll I'll post about it. I'll make a post about it with all the details. And then you'll get a confirmation email. 
+So this has happened before with our email service, right? If you get a high unsubscribe rate, or have a lot of emails bounce, then the company is going to think you're a spammer or scammer and suspend your account. So we've already ran into that.
 
-So yeah, look out for that post. Once I post that, please go ahead and do that. Again, don't share your personal information with anybody. 
+So because so many emails bounced likely because our email list is honestly so old, it's a little bit over two and a half years old, and we haven't sent out emails for a start over. So please get back on there if you want our updates. And go ahead and do that.
+
+But I'll I'll post about it. I'll make a post about it with all the details. And then you'll get a confirmation email.
+
+So yeah, look out for that post. Once I post that, please go ahead and do that. Again, don't share your personal information with anybody.
 
 Don't send me your seed phrase. I will delete it right away. But I don't want you to get into the habit of that.
 
-(46:30 - 47:10)
-Because if you're sending it, sending it to me, I imagine you're sending it to others, and you really should never be sending it to anybody. I don't want you to do that and have your wallet emptied out. Other than that, I have nothing else I'm going to get back to sending these emails. 
+Because if you're sending it, sending it to me, I imagine you're sending it to others, and you really should never be sending it to anybody. I don't want you to do that and have your wallet emptied out. Other than that, I have nothing else I'm going to get back to sending these emails.
 
 Also, working on my office, I got a freaked out a little bit because I have so many like meetings coming up with, you know, where I have to see people on camera. And I'm like, oh my gosh, I need to put something on my wall. So I have to do that this weekend.
 
-(47:11 - 47:29)
-And clean my garage before it gets hot as heck. But if you need anything in the meantime, DM, email, call, text. Oh, actually, that reminds me, one of you text me and I think I was in a meeting or something. 
+And clean my garage before it gets hot as heck. But if you need anything in the meantime, DM, email, call, text. Oh, actually, that reminds me, one of you text me and I think I was in a meeting or something.
 
 I didn't respond. I need to respond to that. I'll do that right now.
 
-(47:29 - 48:42)
-Um, yeah, other than that, you guys have a good night. Have a good weekend. I'll see you back in general chat. 
+Um, yeah, other than that, you guys have a good night. Have a good weekend. I'll see you back in general chat.
 
-Give me a few minutes. Let me respond to this text I forgot about. And then I'll convert the audio for this and post some notes. 
+Give me a few minutes. Let me respond to this text I forgot about. And then I'll convert the audio for this and post some notes.
 
-Oh, we'll do a contest. Let's do let's do the same one. And then I don't know, should we have it run until Tuesday? That was a Ed's idea. 
+Oh, we'll do a contest. Let's do let's do the same one. And then I don't know, should we have it run until Tuesday?
 
-But I don't know if you guys want to run it for that long. Let's see. Friday night. 
+[Speaker 4]
+That was a Ed's idea. But I don't know if you guys want to run it for that long. Let's see.
 
-Let's see. Let's look at what the price is right now. Hey, my VPN is somewhere else and gives me PPI and country's price.
+[Speaker 3]
+Friday night. Let's see. Let's look at what the price is right now.
 
-(48:45 - 49:23)
-Okay, let's see. Let's do 50. You guys want to do 100 or 150 for the minimum by Ed says Tuesday.
+[Speaker 1]
+Hey, my VPN is somewhere else and gives me PPI and country's price. Okay, let's see.
 
-(51:05 - 51:45)
-Awesome. I think that's everything. Again, reach out. 
+[Speaker 4]
+Let's do 50. You guys want to do 100 or 150 for the minimum by Ed says Tuesday.
 
-And don't forget if you did transfer out of your smart wallet. Oh, shoot. I think I still have a few smart wallet airdrops to do. 
+[Speaker 1]
+Awesome. I think that's everything. Again, reach out.
 
-If you did transfer out of there. Or if you had, by the way, if you had FJB in your smart wallet that you don't see in there. Obviously, I don't know whose wallet to but go ahead and contact me so we can airdrop those for you, please. 
+And don't forget if you did transfer out of your smart wallet. Oh, shoot. I think I still have a few smart wallet airdrops to do.
+
+If you did transfer out of there. Or if you had, by the way, if you had FJB in your smart wallet that you don't see in there. Obviously, I don't know whose wallet to but go ahead and contact me so we can airdrop those for you, please.
 
 Okay, I'll see you guys in general chat. Give me a few minutes to get this person though. Thank you guys.

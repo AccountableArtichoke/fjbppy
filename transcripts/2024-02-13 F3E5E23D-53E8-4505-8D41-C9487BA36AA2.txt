@@ -1,470 +1,529 @@
-(0:02 - 0:08)
+[Speaker 1]
 So let's get right to it. Charts looking great. You guys didn't disappoint today.
 
-(0:11 - 3:43)
-Let's see, I don't think I've received, let me check the email first, I don't think I've received any questions in there. I have my vanilla CVM. Um, excuse me. 
+Let's see, I don't think I've received, let me check the email first, I don't think I've received any questions in there.
 
-Oh, okay. Nothing in the emails. We'll get back to the chats. 
+[Speaker 2]
+I have my vanilla CVM. Um, excuse me. Oh, okay.
 
-Cool. Doesn't look like there's anything. Ooh, look at that. 
+Nothing in the emails. We'll get back to the chats. Cool.
 
-It doesn't look like there's anything in my DMs either. I know there's a few of you with tickets and discord. I think I got back to everybody actually, um, from yesterday, but sorry, I've been, uh, I wouldn't say under the weather, but those all should have gotten, so if you did put a ticket in, I replied to those this morning. 
+Doesn't look like there's anything. Ooh, look at that. It doesn't look like there's anything in my DMs either.
 
-So, uh, reply to those from yesterday. Let's see, white paper release today. Uh, so our white paper, I told you guys, uh, last week I did share that we are waiting on one pretty big aspect. 
+[Speaker 1]
+I know there's a few of you with tickets and discord. I think I got back to everybody actually, um, from yesterday, but sorry, I've been, uh, I wouldn't say under the weather, but those all should have gotten, so if you did put a ticket in, I replied to those this morning. So, uh, reply to those from yesterday.
 
-Um, and we, the plan was to release the white paper before that decision's made. And, um, we're just not sure about that. Uh, but either way it will for sure, uh, if, if that aspect is not finalized this week, we will for sure, uh, release the white paper without that and then just modify it, uh, later. 
+Let's see, white paper release today. Uh, so our white paper, I told you guys, uh, last week I did share that we are waiting on one pretty big aspect. Um, and we, the plan was to release the white paper before that decision's made.
 
-Uh, yeah, we just want to make sure that's worked out to, uh, make you all happy. We don't want to upset anybody with that. Uh, and always want to keep the, our number one priority is, uh, to do whatever is in the best interest, of course, of the organization and the coin and the community.
+And, um, we're just not sure about that. Uh, but either way it will for sure, uh, if, if that aspect is not finalized this week, we will for sure, uh, release the white paper without that and then just modify it, uh, later. Uh, yeah, we just want to make sure that's worked out to, uh, make you all happy.
 
-(4:02 - 5:06)
-Oh, do I have to read all this, Nolan? Using export to XML. Okay. I will forward this. 
+We don't want to upset anybody with that. Uh, and always want to keep the, our number one priority is, uh, to do whatever is in the best interest, of course, of the organization and the coin and the community.
 
-Uh, I assume either Dogbone who works on the website or our designer will have a clue to what you're talking about, but I do not. So I'm not going to pretend like I do, but let me, uh, save this under. I'm going to put it in here just so it's saved.
+[Speaker 2]
+Oh, do I have to read all this, Nolan? Using export to XML.
 
-(5:11 - 5:43)
-So I don't lose it. Okay. Just wanted to finish reading that. 
+[Speaker 1]
+Okay. I will forward this. Uh, I assume either Dogbone who works on the website or our designer will have a clue to what you're talking about, but I do not.
 
-Uh, my brains always cannot keep up with our robot. So, uh, but yes, that's, I will forward that. Like I said, either, I assume either Dogbone or our graphic designer will know what that is.
+So I'm not going to pretend like I do, but let me, uh, save this under.
 
-(5:45 - 6:03)
-Progress report on the nine days the dev needs, uh, still going as planned. Uh, I will keep you updated if that changes. Uh, but again, it's pretty straightforward, uh, hoping testing will go as it's supposed to go.
+[Speaker 2]
+I'm going to put it in here just so it's saved. So I don't lose it. Okay.
 
-(6:10 - 6:36)
-Uh, burn will happen after we are done making payouts. So far we still have a few wallets, uh, B&B are getting new wallets. Um, and yeah, once that's all complete and it'll be time to burn.
+[Speaker 1]
+Just wanted to finish reading that. Uh, my brains always cannot keep up with our robot. So, uh, but yes, that's, I will forward that.
 
-(6:41 - 7:00)
-Uh, does Patriot pay perks in the roadmap? Meanstaking. Uh, so Patriot pay perks will, uh, be an umbrella to cover all Patriot pay perks. Um, but part of it will be a reflections mechanism.
+Like I said, either, I assume either Dogbone or our graphic designer will know what that is. Progress report on the nine days the dev needs, uh, still going as planned. Uh, I will keep you updated if that changes.
 
-(7:02 - 7:18)
-Um, yeah. And other cool features that will be outlined in the white paper. Does live in-person events begin mean Trump rallies? Yes, definitely.
+Uh, but again, it's pretty straightforward, uh, hoping testing will go as it's supposed to go. Uh, burn will happen after we are done making payouts. So far we still have a few wallets, uh, B&B are getting new wallets.
 
-(7:19 - 7:30)
+Um, and yeah, once that's all complete and it'll be time to burn. Uh, does Patriot pay perks in the roadmap? Meanstaking.
+
+Uh, so Patriot pay perks will, uh, be an umbrella to cover all Patriot pay perks. Um, but part of it will be a reflections mechanism. Um, yeah.
+
+And other cool features that will be outlined in the white paper. Does live in-person events begin mean Trump rallies? Yes, definitely.
+
 Super excited for that. This is the opposite of what happened exactly one year ago. Good day.
 
-(7:36 - 8:04)
-Going to CPAC, if not, is PPY. Uh, we, maybe that's still up in the air. What's up with the SAC? Uh, you will see in in seven-ish days now.
+Going to CPAC, if not, is PPY. Uh, we, maybe that's still up in the air. What's up with the SAC?
 
-(8:06 - 8:23)
-Six to seven days. B&B are each getting single wallets, not splitting up into small. Um, not sure about that.
+Uh, you will see in in seven-ish days now. Six to seven days. B&B are each getting single wallets, not splitting up into small.
 
-(8:26 - 8:59)
-I'm not sure. Not sure they want to make that public either. This is you guys' playlist.
+Um, not sure about that. I'm not sure. Not sure they want to make that public either.
 
-(9:18 - 9:34)
-Discord. Discord squad. Sarah buying back in? No.
+[Speaker 2]
+This is you guys' playlist. Discord. Discord squad.
 
-(9:48 - 10:06)
-Are the six days you just mentioned different from the nine, uh, days of dev work? No. I've just lost count. No, but he's on schedule to finish, uh, end of this week, early next week.
+[Speaker 1]
+Sarah buying back in? No. Are the six days you just mentioned different from the nine, uh, days of dev work?
 
-(10:11 - 10:42)
-Can we transfer 10 million coins again? We need Homie to buy 30k more. I don't think we have. Let's see. 
+No. I've just lost count. No, but he's on schedule to finish, uh, end of this week, early next week.
 
-I don't think we have 10 million to transfer. 62,000. Excuse me.
+Can we transfer 10 million coins again? We need Homie to buy 30k more. I don't think we have.
 
-(10:44 - 11:34)
-Um, what is the scheduled PPY by mentioned for third quarter? Uh, so we'll have a function in the app that you can schedule that reminds you, I don't know, every Friday at 7 p.m. after you have your not Bud Light, your favorite beverage of choice. Uh, it'll remind you to buy some PPY. No faith? Come on. 
+Let's see. I don't think we have 10 million to transfer.
 
-No, I don't. No, it's definitely not, uh, not about no faith. It just would be, I think, unethical.
+[Speaker 2]
+62,000. Excuse me.
 
-(11:34 - 12:36)
-Oh, wait, what team has to dump PPY to even buy PPY? Huh? Is that just a reminder and automatic reoccurring by? No, that is just a reoccurring reminder. When you set it up, we do not want the, uh, liability that can come with automatic recurring buys. Where the heck is Mayhem and has 21 questions? Mayhem's a good guy. 
+[Speaker 1]
+Um, what is the scheduled PPY by mentioned for third quarter? Uh, so we'll have a function in the app that you can schedule that reminds you, I don't know, every Friday at 7 p.m. after you have your not Bud Light, your favorite beverage of choice. Uh, it'll remind you to buy some PPY.
 
-I think he's in Discord. Is there a way to request to talk like how we used to raise hand to be recognized? Oh, you can, you can get on and talk anytime. You guys could take over the voice chats if you'd like.
+No faith? Come on. No, I don't.
 
-(12:37 - 12:43)
-But yeah, come on. Just let me know. Cause I usually have my sound on so I wouldn't hear you.
+No, it's definitely not, uh, not about no faith. It just would be, I think, unethical. Oh, wait, what team has to dump PPY to even buy PPY?
 
-(12:43 - 14:14)
-Otherwise I get distracted with all the alerts. What are Patriot perks? Uh, it'll be an umbrella that covers a few different, well, several different perks, uh, that we'll continuously keep adding on to. Uh, they'll also give you all each, like an example is giving you all a chance to try new features before anybody else does. 
+Huh? Is that just a reminder and automatic reoccurring by? No, that is just a reoccurring reminder.
 
-Um, but some pretty much cooler things on there that we'll keep, uh, for the white paper. Yes, we already have the website. Um, oh, well, just here, just unmute. 
+When you set it up, we do not want the, uh, liability that can come with automatic recurring buys. Where the heck is Mayhem and has 21 questions? Mayhem's a good guy.
 
-There you go, Mayhem. You're unmuted. What's up? Hi.
+I think he's in Discord. Is there a way to request to talk like how we used to raise hand to be recognized? Oh, you can, you can get on and talk anytime.
 
-(14:19 - 14:28)
-In telegram. I don't think that's hard to do in telegram. That's where all the OG hardcore holders are.
+You guys could take over the voice chats if you'd like. But yeah, come on. Just let me know.
 
-(14:39 - 16:18)
-Um, yes, but that would, so that would require a contract. So I'll say this for the telegram, uh, Mayhem's wondering if I read what he was, uh, explaining to Stacy regarding limit sales for the, uh, team wallets, uh, that would require a contract change, which isn't a big deal because we, uh, have actually a plan to add another, uh, function to the wallets, to the team wallets and how they're sold. Um, but we can't do that, like with the functions that are in place right now, but yes, that's a great idea. 
+Cause I usually have my sound on so I wouldn't hear you. Otherwise I get distracted with all the alerts. What are Patriot perks?
 
-And I'll definitely, uh, actually I should find it right now to, uh, save it. Did you save it in the suggestion box? Okay. I'll, yeah, no, for sure. 
+Uh, it'll be an umbrella that covers a few different, well, several different perks, uh, that we'll continuously keep adding on to. Uh, they'll also give you all each, like an example is giving you all a chance to try new features before anybody else does. Um, but some pretty much cooler things on there that we'll keep, uh, for the white paper.
 
-I'll, uh, put that in the suggestion box right now, just so I don't lose track of it. And, um, I'll definitely bring that up to our advisor and see what input he has and get back to you on the pros and cons, uh, of that. But sounds like a good idea, but I'm not, I'm not the expert when it comes to that. 
+[Speaker 2]
+Yes, we already have the website.
 
-So, uh, yeah, but that's definitely a good idea. Definitely. Again, what makes our contract so amazing, and I know it took a ton of time to add the proxy on there, um, but these are functions we can easily add.
+[Speaker 1]
+Um, oh, well, just here, just unmute. There you go, Mayhem. You're unmuted.
 
-(16:42 - 18:55)
-Right, right. Yeah. Cause right now the way it's set up, and I think I explained this on the last call a little bit, uh, the way we have it set up right now is you can only choose at what coin amount, at what token amount the sell happens. 
+What's up? Hi. In telegram.
 
-So, you know, we could do a million or, I mean, we could do it as low as a hundred, as well as, you know, one coin up to whatever. And once it reaches that, that's, we're setting a minimum. So as soon as it reaches that, the next transaction will take it over and take it to an auto swap. 
+I don't think that's hard to do in telegram. That's where all the OG hardcore holders are. Um, yes, but that would, so that would require a contract.
 
-So that's why right now, when we had it on like a million last week, and I think it was you and Telegram that wanted it set. So it wasn't selling every time it accumulated a million, uh, tokens. We tried that and we haven't sold since that. 
+So I'll say this for the telegram, uh, Mayhem's wondering if I read what he was, uh, explaining to Stacy regarding limit sales for the, uh, team wallets, uh, that would require a contract change, which isn't a big deal because we, uh, have actually a plan to add another, uh, function to the wallets, to the team wallets and how they're sold. Um, but we can't do that, like with the functions that are in place right now, but yes, that's a great idea. And I'll definitely, uh, actually I should find it right now to, uh, save it.
 
-And that's when I sold today. Uh, once I saw some volume, uh, I did not, I had a few specific questions that I answered regarding roadmap Q1. What do you got? Uh, let me see if I could do that off the top of my head here. 
+Did you save it in the suggestion box?
 
-Um, let's see. So the first few were pretty self explanatory here to have what the white paper release. Oh, that you're talking about last December.
+[Speaker 2]
+Okay.
 
-(18:59 - 21:42)
-Oh, I see what you're saying. No, we just put that on there. Uh, just because we figured, well, it hasn't happened yet. 
+[Speaker 1]
+I'll, yeah, no, for sure. I'll, uh, put that in the suggestion box right now, just so I don't lose track of it. And, um, I'll definitely bring that up to our advisor and see what input he has and get back to you on the pros and cons, uh, of that.
 
-And then the roadmap just got released. We obviously didn't put anything else that's been done since like the fork, we didn't do that. We didn't put the airdrop on there. 
+But sounds like a good idea, but I'm not, I'm not the expert when it comes to that. So, uh, yeah, but that's definitely a good idea. Definitely.
 
-Just figured that would be useless. Uh, so we didn't put that on quarter one of the roadmap, but no, uh, the white paper is not it being on quarter one is not pushing the date to the end of March. Uh, I think I put earlier in the call, I explained you probably, uh, we're off, but, um, we just have one, I explained this last week on last week's call. 
+Again, what makes our contract so amazing, and I know it took a ton of time to add the proxy on there, um, but these are functions we can easily add. Right, right. Yeah.
 
-We have one component partnership. We're kind of trying to straighten out before we get on there. And we were going to release the white paper without that detail and then just update it. 
+Cause right now the way it's set up, and I think I explained this on the last call a little bit, uh, the way we have it set up right now is you can only choose at what coin amount, at what token amount the sell happens. So, you know, we could do a million or, I mean, we could do it as low as a hundred, as well as, you know, one coin up to whatever. And once it reaches that, that's, we're setting a minimum.
 
-But we think it would be better to, uh, hold off and release it at once. We think that would be better for, uh, just to keep momentum and everything. However, if we don't get that partnership, uh, cleared up with our attorney, uh, this week, then white paper will definitely be released just without that. 
+So as soon as it reaches that, the next transaction will take it over and take it to an auto swap. So that's why right now, when we had it on like a million last week, and I think it was you and Telegram that wanted it set. So it wasn't selling every time it accumulated a million, uh, tokens.
 
-Um, then we can always add that back in. Uh-huh. It has been, yes, actually, uh, the coin burn along with, if you all notice the liquidity, uh, lock is also the LP lock is not on there. 
+We tried that and we haven't sold since that. And that's when I sold today. Uh, once I saw some volume, uh, I did not, I had a few specific questions that I answered regarding roadmap Q1.
 
-Uh, just because exactly we think, yeah, it's used as a, you know, a marketing ploy trust exercise, but truly, uh, even with an LP lock, okay. You know, if you lock it and then whatever it is, six months, three months, it's unlocked again and you can get rug pulled there. Uh, so especially in an organization like ours, uh, where we're a lot different than your typical crypto coin, um, you know, BNB and, uh, and I get, I read somewhere in your messages earlier in telegram, like, oh, well, every coin says, you know, nobody says you're going to get rug pulled.
+What do you got? Uh, let me see if I could do that off the top of my head here. Um, let's see.
 
-(21:42 - 22:20)
-Right. Um, but I think in, in our position, uh, BNB are definitely BNB and I definitely have a lot more to lose and we're not going to, uh, again, we're running it more like a business, um, in that aspect, um, and different than any other crypto coins. So that's why we won't be doing an LP lock, especially with, uh, LP lock entities going down. 
+So the first few were pretty self explanatory here to have what the white paper release. Oh, that you're talking about last December. Oh, I see what you're saying.
 
-We got, you know, we got spooked last time we were trying to pull the LP after the old management. Um, and that deep lock is down now. Um, so that would have been very scary, uh, had we had our LP locked in there.
+No, we just put that on there. Uh, just because we figured, well, it hasn't happened yet. And then the roadmap just got released.
 
-(22:20 - 30:06)
-And that's something we do not want to risk. Uh, so the same thing goes, yes, with the coin burn, uh, that is something the team is still considering. And I did say that last week regarding, you know, we're going to bring this out, the roadmap, the white paper. 
+We obviously didn't put anything else that's been done since like the fork, we didn't do that. We didn't put the airdrop on there. Just figured that would be useless.
 
-If we have changes along the way, we'll always do what's best, uh, in the best interest of the, uh, AppCoin organization. And of course the holders and community. Um, I'm not sure about that. 
+Uh, so we didn't put that on quarter one of the roadmap, but no, uh, the white paper is not it being on quarter one is not pushing the date to the end of March. Uh, I think I put earlier in the call, I explained you probably, uh, we're off, but, um, we just have one, I explained this last week on last week's call. We have one component partnership.
 
-So I, yeah, I spoke a little bit to our advisor about that. So for everybody in Telegram, he's asking if we added those, uh, coins that would be burned, if we added them to the LP instead, if that would increase market cap. Um, I'm not sure that's the case because you're not also depositing Matic in there. 
+We're kind of trying to straighten out before we get on there. And we were going to release the white paper without that detail and then just update it. But we think it would be better to, uh, hold off and release it at once.
 
-So those aren't backed by anything. Uh, so that's something I'd have to double check with, but he did, um, he did write up something that I shared and pinned earlier this week regarding, I know a few people in Telegram had questions regarding market cap and, um, its impact on price, uh, LP's impact, all of that. So I did pin a post on that, but I can, uh, go ahead and ask him to clarify that and pin that for you guys too. 
+We think that would be better for, uh, just to keep momentum and everything. However, if we don't get that partnership, uh, cleared up with our attorney, uh, this week, then white paper will definitely be released just without that. Um, then we can always add that back in.
 
-Right. So, so when we pulled, uh, so he's asking, Mayhem's asking when you pull the liquidity, that's rug pulling the coin. Yeah. 
+[Speaker 2]
+Uh-huh.
 
-So when we pulled the liquidity from FGB to bring it to this wallet, uh, for PPY exactly, but half of that is going to be in Matic and half of that is going to be in coins. So if you're going to deposit, at least my understanding, um, is if you're going to deposit just coins that shouldn't have an impact because it's not going to be backed by anything. You're not also depositing the Matic, uh, for that, the 50 50. 
+[Speaker 1]
+It has been, yes, actually, uh, the coin burn along with, if you all notice the liquidity, uh, lock is also the LP lock is not on there. Uh, just because exactly we think, yeah, it's used as a, you know, a marketing ploy trust exercise, but truly, uh, even with an LP lock, okay. You know, if you lock it and then whatever it is, six months, three months, it's unlocked again and you can get rug pulled there.
 
-Hmm. I'm not sure about that. Yeah. 
+Uh, so especially in an organization like ours, uh, where we're a lot different than your typical crypto coin, um, you know, BNB and, uh, and I get, I read somewhere in your messages earlier in telegram, like, oh, well, every coin says, you know, nobody says you're going to get rug pulled. Right. Um, but I think in, in our position, uh, BNB are definitely BNB and I definitely have a lot more to lose and we're not going to, uh, again, we're running it more like a business, um, in that aspect, um, and different than any other crypto coins.
 
-You'll have to, uh, put that in my inbox or the suggestion box and I'll go ahead and send it to the advisor. So I don't forget. Um, and let you know, cause yeah, he'll, he'll definitely have an answer for you. 
+So that's why we won't be doing an LP lock, especially with, uh, LP lock entities going down. We got, you know, we got spooked last time we were trying to pull the LP after the old management. Um, and that deep lock is down now.
 
-Um, but again, this is not my area. Right. Right. 
+Um, so that would have been very scary, uh, had we had our LP locked in there. And that's something we do not want to risk. Uh, so the same thing goes, yes, with the coin burn, uh, that is something the team is still considering.
 
-Yeah. Go ahead and shoot that to me and I'll, uh, he'll get back to me and I'll get that answered for you. But yeah, I'm not totally sure on that. 
+And I did say that last week regarding, you know, we're going to bring this out, the roadmap, the white paper. If we have changes along the way, we'll always do what's best, uh, in the best interest of the, uh, AppCoin organization. And of course the holders and community.
 
-Um, but we do have the 1% going to LP too, which in the long run will help. Uh, so no, we're going to be, those aren't the, so the little videos we have now for users, uh, we're going to be integrating that into the app. Um, just little snippets to help educate the public and your average user, um, on crypto in general, but also on of course, uh, PPY. 
+Um, I'm not sure about that. So I, yeah, I spoke a little bit to our advisor about that. So for everybody in Telegram, he's asking if we added those, uh, coins that would be burned, if we added them to the LP instead, if that would increase market cap.
 
-So there'll be the plan is to have little snippets, um, short, very short, very, uh, detailed, uh, little videos. Oh, absolutely. Yeah. 
+Um, I'm not sure that's the case because you're not also depositing Matic in there. So those aren't backed by anything. Uh, so that's something I'd have to double check with, but he did, um, he did write up something that I shared and pinned earlier this week regarding, I know a few people in Telegram had questions regarding market cap and, um, its impact on price, uh, LP's impact, all of that.
 
-So we're, um, we, and of course we've, we've already posted even just the community videos that we've been making and those you can find on YouTube, Rumble, um, and of course on the social media sites. Uh, that will depend on the app, uh, but by, we do want to make sure with War Room, uh, we will make sure to position that when we are confident that the app is working a hundred percent and when we've already had some volume, uh, and this is for everybody listening and telegram. This is regarding marketing phase one, uh, and really goes for marketing phase two, three, and four there. 
+So I did pin a post on that, but I can, uh, go ahead and ask him to clarify that and pin that for you guys too. Right. So, so when we pulled, uh, so he's asking, Mayhem's asking when you pull the liquidity, that's rug pulling the coin.
 
-Um, we will slowly, and you guys have heard other devs that have come on to speak on this before of how are we going to work out bugs, uh, especially ones that are more of a stress tester issues that happen. Uh, we'll make sure that we do a few, several marketing runs that will help us with volume to help us stress test, um, and work out any bugs well before War Room, just because we know you guys saw how it was even two years ago, what kind of, um, volume we got from just one War Room push. Uh, so that's definitely the goal. 
+Yeah. So when we pulled the liquidity from FGB to bring it to this wallet, uh, for PPY exactly, but half of that is going to be in Matic and half of that is going to be in coins. So if you're going to deposit, at least my understanding, um, is if you're going to deposit just coins that shouldn't have an impact because it's not going to be backed by anything.
 
-Uh, Steve wants everything a hundred percent. We absolutely cannot afford to have another wire situation. Uh, so we'll make sure to play that by year. 
+You're not also depositing the Matic, uh, for that, the 50 50. Hmm. I'm not sure about that.
 
-It will be once the app is a hundred percent functional with a decent volume to make sure we can, uh, work with that kind of volume. No, so the wallet, uh, for everybody listening and telegram, the wallet creation, a login process optimized, um, this is an integration that the dev has already completed, uh, with a very reputable, uh, company that will take care of the wallet creation and login process. Something we're very excited about, um, and will be super simple to log into your app and still have a non-custodial wallet. 
+Yeah. You'll have to, uh, put that in my inbox or the suggestion box and I'll go ahead and send it to the advisor. So I don't forget.
 
-Yeah, it's, yep, definitely a tier one. This is a company that, uh, Disney, Nike, uh, I mean, huge companies use, so definitely reputable. Um, you guys will really enjoy it and, uh, super, super easy, which is what we need to get on War Room.
+Um, and let you know, cause yeah, he'll, he'll definitely have an answer for you. Um, but again, this is not my area. Right.
 
-(30:14 - 31:14)
-No, it hasn't. Patriot Perks, uh, I don't think has been mentioned before today on the roadmap. So Patriot Perks will be an umbrella of different perks. 
+Right. Yeah. Go ahead and shoot that to me and I'll, uh, he'll get back to me and I'll get that answered for you.
 
-Uh, some of it will be reflections. Um, others will be different features that'll be explained in the white paper. Um, but yes, and that'll be ongoing. 
+But yeah, I'm not totally sure on that. Um, but we do have the 1% going to LP too, which in the long run will help. Uh, so no, we're going to be, those aren't the, so the little videos we have now for users, uh, we're going to be integrating that into the app.
 
-We'll continue adding to that, uh, just different perks of being a member and having an account on the app. Of what? I'm sorry, you cut out. Staking. 
+Um, just little snippets to help educate the public and your average user, um, on crypto in general, but also on of course, uh, PPY. So there'll be the plan is to have little snippets, um, short, very short, very, uh, detailed, uh, little videos. Oh, absolutely.
 
-Uh, not, not currently. That's not in the plans right now, but like I said, we'll, uh, continue adding to that. Uh, for now we have reflections on the docket.
+Yeah. So we're, um, we, and of course we've, we've already posted even just the community videos that we've been making and those you can find on YouTube, Rumble, um, and of course on the social media sites. Uh, that will depend on the app, uh, but by, we do want to make sure with War Room, uh, we will make sure to position that when we are confident that the app is working a hundred percent and when we've already had some volume, uh, and this is for everybody listening and telegram.
 
-(31:17 - 31:49)
-Yep. Uh, just like where you, like a reflection coin. So say you have, you know, you, you hold, uh, I don't know, 10 million coins. 
+This is regarding marketing phase one, uh, and really goes for marketing phase two, three, and four there. Um, we will slowly, and you guys have heard other devs that have come on to speak on this before of how are we going to work out bugs, uh, especially ones that are more of a stress tester issues that happen. Uh, we'll make sure that we do a few, several marketing runs that will help us with volume to help us stress test, um, and work out any bugs well before War Room, just because we know you guys saw how it was even two years ago, what kind of, um, volume we got from just one War Room push.
 
-You get a percentage back for holding it. Tax wise, I believe that works out, uh, better than staking. So the team decided that, uh, we do reflections first and leave, uh, stakings possibly for the future.
+Uh, so that's definitely the goal. Uh, Steve wants everything a hundred percent. We absolutely cannot afford to have another wire situation.
 
-(32:36 - 33:04)
-Oh, cool. Okay. Awesome. 
+Uh, so we'll make sure to play that by year. It will be once the app is a hundred percent functional with a decent volume to make sure we can, uh, work with that kind of volume. No, so the wallet, uh, for everybody listening and telegram, the wallet creation, a login process optimized, um, this is an integration that the dev has already completed, uh, with a very reputable, uh, company that will take care of the wallet creation and login process.
 
-Yeah. I'll add that to the list. Cool. 
+Something we're very excited about, um, and will be super simple to log into your app and still have a non-custodial wallet. Yeah, it's, yep, definitely a tier one. This is a company that, uh, Disney, Nike, uh, I mean, huge companies use, so definitely reputable.
 
-Yeah. Awesome. It sounds good.
+Um, you guys will really enjoy it and, uh, super, super easy, which is what we need to get on War Room. No, it hasn't. Patriot Perks, uh, I don't think has been mentioned before today on the roadmap.
 
-(33:07 - 35:41)
-That is end of March. Yep. So P2P functionality will be, um, uh, basically a marketplace, but not for businesses. 
+So Patriot Perks will be an umbrella of different perks. Uh, some of it will be reflections. Um, others will be different features that'll be explained in the white paper.
 
-Our marketplace launch in quarter three is, uh, our VIP wallets and businesses. Uh, P2P will be more as a marketplace for person to person. So you have something you want to sell right now. 
+Um, but yes, and that'll be ongoing. We'll continue adding to that, uh, just different perks of being a member and having an account on the app. Of what?
 
-You can post in the classified ad section, if you would, or like marketplace. So you can post in the classified on Facebook, um, and other members can go ahead and purchase that from you using, uh, PPY. Yes. 
+I'm sorry, you cut out. Staking. Uh, not, not currently.
 
-Political donations. Um, so legally this will be a 50, $50 limit per user. And, uh, our, on our end, what we need to make sure is that each user, um, on our clock is only, we, we got to make sure you guys are only donating that one time, which will not be a problem. 
+That's not in the plans right now, but like I said, we'll, uh, continue adding to that. Uh, for now we have reflections on the docket. Yep.
 
-Um, you're only donating $50 a donation, um, per person anonymously. Um, so that's, we'll just have, uh, you know, little check boxes you'll have to agree to and have it on your account where you're just not able to donate more than that from each anonymous wallet. Um, and I think that'll come, uh, with great timing. 
+Uh, just like where you, like a reflection coin. So say you have, you know, you, you hold, uh, I don't know, 10 million coins. You get a percentage back for holding it.
 
-Uh, I don't remember off the top of my head right now, to be honest, because we, uh, got the political donations aspect of this, the legal side of it done quite a while ago. Um, but I do remember that we're, we decided on, um, $50. That's the maximum, uh, for each, uh, anonymous person.
+Tax wise, I believe that works out, uh, better than staking. So the team decided that, uh, we do reflections first and leave, uh, stakings possibly for the future. Oh, cool.
 
-(36:05 - 51:05)
-No, this roadmap is not on the website. We just released it to you all, the community. I know Nolan said, uh, to, he suggested, uh, that it's, I think he said XLN, is that what it was? Um, format to put on the website. 
+Okay. Awesome. Yeah.
 
-So I'll definitely, uh, speak to our, uh, designer or our web dev, uh, to make sure that they know what that's all about. I have no doubt they will. One of them will. 
+I'll add that to the list. Cool. Yeah.
 
-Oh yeah, for sure. A ton of people have suggested that even on like getter. Um, I think once we start, once we have our app actually functioning, uh, I think that's a great idea to do, but really right now I just, it, a lot of it, um, is depending on getting that app name changed in the app store, getting rid of the FJB, getting the app functioning, which we're doing everything we can. 
+Awesome. It sounds good. That is end of March.
 
-Our advisor interviewed two different devs to add onto the team in the last 24, maybe not even 12 hours. Um, so as soon as we have that, then we can, uh, definitely make these calls on getter X and just, uh, hopefully get a wider audience. Cause a lot of the holders still are not in these chats. 
+Yep. So P2P functionality will be, um, uh, basically a marketplace, but not for businesses. Our marketplace launch in quarter three is, uh, our VIP wallets and businesses.
 
-And, uh, I think what's telling of that is that, uh, once this fork happened, we've had a influx of emails come in, uh, with holders that are not in these chats asking, you know, how to do everything and how to import the new coin and so on. Oh yeah, for sure. And I think, I think everybody knows who BNB are and I think most everybody here knows where I am. 
+Uh, P2P will be more as a marketplace for person to person. So you have something you want to sell right now. You can post in the classified ad section, if you would, or like marketplace.
 
-So thank you. Yeah, definitely. I appreciate that. 
+So you can post in the classified on Facebook, um, and other members can go ahead and purchase that from you using, uh, PPY. Yes. Political donations.
 
-I think that took a great, uh, team, uh, to accomplish that. And I'm glad that that's being recognized. I know a part of that has been daunting, uh, with the waiting, but, uh, yeah, I think it'll pay off in the long run. 
+Um, so legally this will be a 50, $50 limit per user. And, uh, our, on our end, what we need to make sure is that each user, um, on our clock is only, we, we got to make sure you guys are only donating that one time, which will not be a problem. Um, you're only donating $50 a donation, um, per person anonymously.
 
-Awesome. Yeah, no, uh, I'm glad you are and no, nothing is ever taken. We appreciate, uh, I think anything that, you know, any kind of input, um, is and continues to help us. 
+Um, so that's, we'll just have, uh, you know, little check boxes you'll have to agree to and have it on your account where you're just not able to donate more than that from each anonymous wallet. Um, and I think that'll come, uh, with great timing. Uh, I don't remember off the top of my head right now, to be honest, because we, uh, got the political donations aspect of this, the legal side of it done quite a while ago.
 
-So I know sometimes it can be not taken in the best way from others, but we welcome all input. And I think that will help us in the long run, uh, better become, become a better project. And, uh, again, always open to any input you guys have. 
+Um, but I do remember that we're, we decided on, um, $50. That's the maximum, uh, for each, uh, anonymous person. No, this roadmap is not on the website.
 
-Um, I think Nolan does the same too. So, uh, very helpful. We appreciate that. 
+We just released it to you all, the community. I know Nolan said, uh, to, he suggested, uh, that it's, I think he said XLN, is that what it was? Um, format to put on the website.
 
-And yeah, definitely, uh, looking long-term. So, you know, that, that took us so long to build the contract from scratch, no matter what anybody else tells you. Um, and that, that's, uh, that's still the goal. 
+So I'll definitely, uh, speak to our, uh, designer or our web dev, uh, to make sure that they know what that's all about. I have no doubt they will. One of them will.
 
-A long-term, uh, project is definitely what we, uh, continue striving for here. Yeah, I think, uh, for about, I want to say about a year and a half now, we've been doing, yeah, it started with the, so it's Tuesday and Friday, 7.30 PM Eastern. Uh, Tuesdays usually we're in Telegram, Fridays we're on Discord. 
+Oh yeah, for sure. A ton of people have suggested that even on like getter. Um, I think once we start, once we have our app actually functioning, uh, I think that's a great idea to do, but really right now I just, it, a lot of it, um, is depending on getting that app name changed in the app store, getting rid of the FJB, getting the app functioning, which we're doing everything we can.
 
-And then more recently we started doing both of the calls, Tuesday and Friday calls on both platforms. Um, so I think that as we grow and the app, um, is available to everybody and, uh, working as it should, we'll definitely have some changes there. Uh, as far as the voice chats, it'll definitely be a lot more, uh, formal, um, but we'll be moving in that direction to, uh, help protect, again, in the best interest of the organization, uh, the coin and obviously the holders and community as a result. 
+Our advisor interviewed two different devs to add onto the team in the last 24, maybe not even 12 hours. Um, so as soon as we have that, then we can, uh, definitely make these calls on getter X and just, uh, hopefully get a wider audience. Cause a lot of the holders still are not in these chats.
 
-Uh, so we will be slowly moving towards that, um, and then moving on towards, uh, platforms like Getter and X, but they will definitely be taking on a different, uh, structure moving forward and we'll, we'll gradually kind of move in that direction. Yeah, definitely. We used to post them, um, as announcements and tag everybody, but as I started having less updates, uh, probably in the last few months, I stopped, um, posting it unless I had some substantial, you know, news to share, um, just because I didn't want to waste people's time or, you know, uh, but yeah, before that we used to tag them. 
+And, uh, I think what's telling of that is that, uh, once this fork happened, we've had a influx of emails come in, uh, with holders that are not in these chats asking, you know, how to do everything and how to import the new coin and so on. Oh yeah, for sure. And I think, I think everybody knows who BNB are and I think most everybody here knows where I am.
 
-That's definitely something, uh, we can do as the community grows. Awesome. Cool. 
+[Speaker 3]
+So thank you.
 
-Yeah, no, I appreciate that. And, uh, again, I, uh, I'm glad that that's being, uh, recognized. Definitely, uh, the team's worked super hard on that and, uh, I know you guys hated waiting for so long and I know some of you thought maybe of work was never coming, uh, but I'm glad you guys are seeing everything we've been, uh, working on. 
+[Speaker 1]
+Yeah, definitely. I appreciate that. I think that took a great, uh, team, uh, to accomplish that.
 
-You'll continue to see that and I think, uh, you'll continue to be, most of the community will continue to be impressed by everything, uh, that the team's been working on. Cool. Awesome. 
+And I'm glad that that's being recognized. I know a part of that has been daunting, uh, with the waiting, but, uh, yeah, I think it'll pay off in the long run. Awesome.
 
-Thank you, Mayhem. We'll talk to you soon. All right. 
+Yeah, no, uh, I'm glad you are and no, nothing is ever taken. We appreciate, uh, I think anything that, you know, any kind of input, um, is and continues to help us. So I know sometimes it can be not taken in the best way from others, but we welcome all input.
 
-Sorry, guys. I'll get back to reading. Mass marketing, uh, quarter four. 
+And I think that will help us in the long run, uh, better become, become a better project. And, uh, again, always open to any input you guys have. Um, I think Nolan does the same too.
 
-I realize you said things should happen sooner, but could you elaborate at all on the definition of mass and does that include War Room? Uh, we definitely expect, so with the War Room, um, I, I mentioned earlier that we will slowly ramp up marketing up to War Room because we want to have the volume to make sure that our app, all bugs, issues, uh, are worked out, that our app can handle the volume, uh, of War Room. And the way to do that, as, uh, several devs have explained, and the best way to do that is really by just slowly bringing in volume and working out through those bugs and, uh, making sure we can handle that volume. So War Room will definitely be, we expect War Room to be, um, definitely live. 
+So, uh, very helpful. We appreciate that. And yeah, definitely, uh, looking long-term.
 
-We expect us to be live on War Room by the end of the year because we definitely expect to have those issues, uh, resolved and the app, uh, 100 percent, uh, working as it should. Z-Money says we are professional most of the time. Yeah, yeah. 
+So, you know, that, that took us so long to build the contract from scratch, no matter what anybody else tells you. Um, and that, that's, uh, that's still the goal. A long-term, uh, project is definitely what we, uh, continue striving for here.
 
-More talking about myself. Can WEG ask a question live? Just one question. No, yes. 
+Yeah, I think, uh, for about, I want to say about a year and a half now, we've been doing, yeah, it started with the, so it's Tuesday and Friday, 7.30 PM Eastern. Uh, Tuesdays usually we're in Telegram, Fridays we're on Discord. And then more recently we started doing both of the calls, Tuesday and Friday calls on both platforms.
 
-Thank you, Mayhem. Appreciate it and appreciate the input. I know you guys were having a little bit of going back and forth in, um, Telegram before. 
+Um, so I think that as we grow and the app, um, is available to everybody and, uh, working as it should, we'll definitely have some changes there. Uh, as far as the voice chats, it'll definitely be a lot more, uh, formal, um, but we'll be moving in that direction to, uh, help protect, again, in the best interest of the organization, uh, the coin and obviously the holders and community as a result. Uh, so we will be slowly moving towards that, um, and then moving on towards, uh, platforms like Getter and X, but they will definitely be taking on a different, uh, structure moving forward and we'll, we'll gradually kind of move in that direction.
 
-I actually appreciate that. I think that's good for the community as long as you guys keep it respectful, which I think you all did, uh, earlier. I think that could be very beneficial. 
+Yeah, definitely. We used to post them, um, as announcements and tag everybody, but as I started having less updates, uh, probably in the last few months, I stopped, um, posting it unless I had some substantial, you know, news to share, um, just because I didn't want to waste people's time or, you know, uh, but yeah, before that we used to tag them. That's definitely something, uh, we can do as the community grows.
 
-Um, and then we're always, again, as long as it's respectful, we are always open to, uh, constructive criticism. Um, that's, I think, definitely helped us actually more than, uh, any praise. So, um, just keep that in mind.
+Awesome. Cool. Yeah, no, I appreciate that.
 
-(51:08 - 51:33)
-Did I hear end of the year? By the end of the year. We definitely expect to have War Room by the end of the year. That does not mean, uh, that's when it's scheduled, but we definitely expect to be there by the end of the year. 
+And, uh, again, I, uh, I'm glad that that's being, uh, recognized. Definitely, uh, the team's worked super hard on that and, uh, I know you guys hated waiting for so long and I know some of you thought maybe of work was never coming, uh, but I'm glad you guys are seeing everything we've been, uh, working on. You'll continue to see that and I think, uh, you'll continue to be, most of the community will continue to be impressed by everything, uh, that the team's been working on.
 
-Uh, any goals after War Room? Yes. Many. We have many, many, many ideas.
+Cool. Awesome. Thank you, Mayhem.
 
-(51:33 - 52:28)
-Um, for this long term and, um, very excited for it. A little later than I expected, but appreciate the transparency. Again, not, um, I'm just saying by the end of the year that we expect to definitely have it done by then. 
+We'll talk to you soon. All right. Sorry, guys.
 
-So that's, I'm not saying that's when it'll happen. It'll happen as soon as our app is, uh, ready and functioning and stress tested, you know, by within 60 days, then, then that'll be more like it. So, uh, let me go into Telegram. 
+I'll get back to reading. Mass marketing, uh, quarter four. I realize you said things should happen sooner, but could you elaborate at all on the definition of mass and does that include War Room?
 
-Can we do another airdrop so we all have double the coins? Uh, I can't hear me. Yeah, sorry. He was on Discord. 
+Uh, we definitely expect, so with the War Room, um, I, I mentioned earlier that we will slowly ramp up marketing up to War Room because we want to have the volume to make sure that our app, all bugs, issues, uh, are worked out, that our app can handle the volume, uh, of War Room. And the way to do that, as, uh, several devs have explained, and the best way to do that is really by just slowly bringing in volume and working out through those bugs and, uh, making sure we can handle that volume. So War Room will definitely be, we expect War Room to be, um, definitely live.
 
-I don't think there's any way. Maybe there is a way for me to do that. I don't know.
+We expect us to be live on War Room by the end of the year because we definitely expect to have those issues, uh, resolved and the app, uh, 100 percent, uh, working as it should. Z-Money says we are professional most of the time. Yeah, yeah.
 
-(52:32 - 53:53)
-Q1 roadmap. Does it specifically say the app will be launched? There's a reference to a wallet creation and optimization. Does that imply new app launch? Uh, that'll be a major, major change with a new app. 
+More talking about myself. Can WEG ask a question live? Just one question.
 
-Uh, we heard you guys, we heard your complaints and we have, uh, work to change that. And I think you will very much like this change, uh, and that'll impact the wallet creation, account creation, uh, and account login be super easy, uh, while still secure. I hope the app looks completely different. 
+No, yes. Thank you, Mayhem. Appreciate it and appreciate the input.
 
-Any update on partnership you mentioned Friday that wasn't quite ready to be announced? Uh, yes. Our legal team is still working through that. Can you go into more details about phase one and phase two marketing? Uh, so we will slowly ramp up marketing, uh, just to make sure that, uh, we're working out app bugs and can handle the volume.
+I know you guys were having a little bit of going back and forth in, um, Telegram before. I actually appreciate that. I think that's good for the community as long as you guys keep it respectful, which I think you all did, uh, earlier.
 
-(53:59 - 55:11)
-Any chance you can repeat the question last week was being discussed? Oh, shoot. I'm sorry. I'm just, uh, reading these. 
+I think that could be very beneficial. Um, and then we're always, again, as long as it's respectful, we are always open to, uh, constructive criticism. Um, that's, I think, definitely helped us actually more than, uh, any praise.
 
-Nolan says, thank you for re-asking my questions. Mayhem. Who's she talking to? Sorry. 
+So, um, just keep that in mind. Did I hear end of the year? By the end of the year.
 
-Did it sound like I was talking to myself? Sorry. I should have, it's hard to repeat a question that's being asked not in writing, you know. Stories will be written about this community and coin book it. 
+We definitely expect to have War Room by the end of the year. That does not mean, uh, that's when it's scheduled, but we definitely expect to be there by the end of the year. Uh, any goals after War Room?
 
-Documentary, Tim. It's a documentary. We already have a name for it too. 
+Yes. Many. We have many, many, many ideas.
 
-Bet you didn't know that. And I am serious. Not kidding. 
+Um, for this long term and, um, very excited for it. A little later than I expected, but appreciate the transparency. Again, not, um, I'm just saying by the end of the year that we expect to definitely have it done by then.
 
-Mayhem says, one more question if possible. Shoot. As I'm, as I'm catching up on Telegram.
+So that's, I'm not saying that's when it'll happen. It'll happen as soon as our app is, uh, ready and functioning and stress tested, you know, by within 60 days, then, then that'll be more like it. So, uh, let me go into Telegram.
 
-(55:14 - 56:34)
-Um, sure. I will just have to say it out loud before I answer so Telegram can hear it. Okay. 
+Can we do another airdrop so we all have double the coins? Uh, I can't hear me. Yeah, sorry.
 
-So you're talking about direct sales. Okay. So Mayhem's asking basically, uh, for over the counter sales.
+He was on Discord. I don't think there's any way. Maybe there is a way for me to do that.
 
-(56:35 - 57:30)
-Uh, the reason we stopped doing those is their impact on the LP. So, and that's why we've stayed away from them, uh, especially after the fork. Uh, and why we so, cause we were doing them for a little bit while we needed, uh, the funds, uh, and the volume and to encourage some buying. 
+I don't know. Q1 roadmap. Does it specifically say the app will be launched?
 
-Um, but their impact on the LP, uh, is why we stopped doing them and why we haven't done them post fork. Uh, yeah. Especially when we're trying so hard, you know, we have 1% of the tax go to LP, uh, really trying to focus on some long-term positive, uh, impact and that would just hurt not having anything go to the LP in that, uh, sense.
+There's a reference to a wallet creation and optimization. Does that imply new app launch? Uh, that'll be a major, major change with a new app.
 
-(57:31 - 1:00:20)
-Cause that's just going from wallet to wallet. Can we schedule? Yeah. So the only issue, um, with like, I think it was a few weeks ago when I, uh, announced that I would, you know, we'd have a little sale coming up for anybody that was buying the only issue there's bad actors. 
+Uh, we heard you guys, we heard your complaints and we have, uh, work to change that. And I think you will very much like this change, uh, and that'll impact the wallet creation, account creation, uh, and account login be super easy, uh, while still secure. I hope the app looks completely different.
 
-Um, unfortunately, uh, and for telegram, he's asking if we can schedule a sale, like if I can say, Hey, we're gonna, you know, swap, we're going to swap team tokens at this time. Um, so, uh, that's, yeah, that's just encourages some bad actors cause then they're going to be selling, uh, right before we do, uh, which'll, you know, not be great for anybody really. Um, so that's, and I'll discourage people from buying too, to wait for that. 
+Any update on partnership you mentioned Friday that wasn't quite ready to be announced? Uh, yes. Our legal team is still working through that.
 
-Uh, so that's why we haven't done that either. Hope that makes sense. Well, say, say it's like price is a, say price is a 0 0 0 5 5. And that's when, you know, say I wanted to sell right now. 
+Can you go into more details about phase one and phase two marketing? Uh, so we will slowly ramp up marketing, uh, just to make sure that, uh, we're working out app bugs and can handle the volume. Any chance you can repeat the question last week was being discussed?
 
-Uh, well, any bad actors that have, I don't know, 20, 30, 40, 50 million coins might sell beforehand just to make sure they get that price. Um, and maybe even rebuy after we sell, you know what I mean? Yeah. And it's not really on, it's honestly not even about that versus like more so screwing with the charts. 
+Oh, shoot. I'm sorry. I'm just, uh, reading these.
 
-Right. Awesome. I appreciate that.
+Nolan says, thank you for re-asking my questions. Mayhem. Who's she talking to?
 
-(1:00:30 - 1:00:33)
-Awesome. I appreciate that. I'm glad you recognize that.
+Sorry. Did it sound like I was talking to myself? Sorry.
 
-(1:00:35 - 1:00:49)
+I should have, it's hard to repeat a question that's being asked not in writing, you know. Stories will be written about this community and coin book it. Documentary, Tim.
+
+It's a documentary. We already have a name for it too. Bet you didn't know that.
+
+And I am serious. Not kidding. Mayhem says, one more question if possible.
+
+Shoot. As I'm, as I'm catching up on Telegram. Um, sure.
+
+I will just have to say it out loud before I answer so Telegram can hear it. Okay. So you're talking about direct sales.
+
+Okay. So Mayhem's asking basically, uh, for over the counter sales. Uh, the reason we stopped doing those is their impact on the LP.
+
+So, and that's why we've stayed away from them, uh, especially after the fork. Uh, and why we so, cause we were doing them for a little bit while we needed, uh, the funds, uh, and the volume and to encourage some buying. Um, but their impact on the LP, uh, is why we stopped doing them and why we haven't done them post fork.
+
+Uh, yeah. Especially when we're trying so hard, you know, we have 1% of the tax go to LP, uh, really trying to focus on some long-term positive, uh, impact and that would just hurt not having anything go to the LP in that, uh, sense. Cause that's just going from wallet to wallet.
+
+Can we schedule? Yeah. So the only issue, um, with like, I think it was a few weeks ago when I, uh, announced that I would, you know, we'd have a little sale coming up for anybody that was buying the only issue there's bad actors.
+
+Um, unfortunately, uh, and for telegram, he's asking if we can schedule a sale, like if I can say, Hey, we're gonna, you know, swap, we're going to swap team tokens at this time. Um, so, uh, that's, yeah, that's just encourages some bad actors cause then they're going to be selling, uh, right before we do, uh, which'll, you know, not be great for anybody really. Um, so that's, and I'll discourage people from buying too, to wait for that.
+
+Uh, so that's why we haven't done that either.
+
+[Speaker 2]
+Hope that makes sense.
+
+[Speaker 1]
+Well, say, say it's like price is a, say price is a 0 0 0 5 5. And that's when, you know, say I wanted to sell right now. Uh, well, any bad actors that have, I don't know, 20, 30, 40, 50 million coins might sell beforehand just to make sure they get that price.
+
+Um, and maybe even rebuy after we sell, you know what I mean? Yeah. And it's not really on, it's honestly not even about that versus like more so screwing with the charts.
+
+[Speaker 4]
+Right.
+
+[Speaker 1]
+Awesome. I appreciate that. Awesome.
+
+I appreciate that. I'm glad you recognize that.
+
+[Speaker 4]
 I think mayhem. All right. I think that was it.
 
-(1:00:53 - 1:01:14)
-Okay. Thank you, sir. We'll see you soon. 
+Okay.
 
-Uh, let's see. Nolan says something popped up from Nolan. Read the whole question. 
+[Speaker 1]
+Thank you, sir. We'll see you soon. Uh, let's see.
 
-I'm not reading it. That's the thing. Mayhem actually got on voice.
+Nolan says something popped up from Nolan. Read the whole question. I'm not reading it.
 
-(1:01:15 - 1:01:32)
-You guys are all welcome to too. So sorry. That's why I had to kind of summarize what he was asking. 
+That's the thing. Mayhem actually got on voice. You guys are all welcome to too.
 
-Uh, okay. FYI, Boris isn't just a Trump attorney. He's the organizing attorney.
+So sorry. That's why I had to kind of summarize what he was asking. Uh, okay.
 
-(1:01:33 - 1:02:05)
-What? Uh, Boris does not practice. Uh, when will Bannon have Russ on the show? He alone probably kept this coin alive for months, if not a year. Uh, Disney and Nike. 
+FYI, Boris isn't just a Trump attorney. He's the organizing attorney. What?
 
-What? Uh, the same company, uh, we'll be using the same company that they use. Excuse me. The point is that it's a reputable, uh, company.
+Uh, Boris does not practice. Uh, when will Bannon have Russ on the show? He alone probably kept this coin alive for months, if not a year.
 
-(1:02:08 - 1:04:27)
-Somebody says I'm underwater now. No, can you not hear me? Is this better? Maybe my mic got under. Okay. 
+Uh, Disney and Nike. What? Uh, the same company, uh, we'll be using the same company that they use.
 
-Maybe got under the phone when I lifted it to read. Oh, I'm sorry about that. Uh, trying to read Telegram. 
+Excuse me. The point is that it's a reputable, uh, company.
 
-Catching up. Um, just need Bannon to have an exchange CEO on show for a free listing. Not sure why they paid under, huh? What is this partner that will cancel us? No, they will not cancel us. 
+[Speaker 2]
+Somebody says I'm underwater now. No, can you not hear me?
 
-Someone can explain to me what is this message? Uh, let's see. It's loading on my end. Uh, what are you trying to do? If that's you at the login, try to log out and log back in. 
+[Speaker 1]
+Is this better? Maybe my mic got under. Okay.
 
-You should be good if that's just your login screen, Nakia. Oh, thank you, Stacey. Ah, Stacey. 
+Maybe got under the phone when I lifted it to read. Oh, I'm sorry about that. Uh, trying to read Telegram.
 
-800 million left to buy. What is this partner that will can't, again, please do not spread fake news. Please don't do that. 
+Catching up. Um, just need Bannon to have an exchange CEO on show for a free listing. Not sure why they paid under, huh?
 
-Please do not do that. It helps nobody. It's not true. 
+What is this partner that will cancel us?
 
-Uh, that's how false fake news spreads. Uh, what is OBS, Nolan? Pierre and Nolan. I don't know. 
+[Speaker 2]
+No, they will not cancel us.
+
+[Speaker 1]
+Someone can explain to me what is this message? Uh, let's see. It's loading on my end.
+
+Uh, what are you trying to do? If that's you at the login, try to log out and log back in. You should be good if that's just your login screen, Nakia.
+
+Oh, thank you, Stacey. Ah, Stacey. 800 million left to buy.
+
+What is this partner that will can't, again, please do not spread fake news. Please don't do that. Please do not do that.
+
+It helps nobody. It's not true. Uh, that's how false fake news spreads.
+
+Uh, what is OBS, Nolan? Pierre and Nolan. I don't know.
 
 Talking about an answer. Literally an answer. Literally not.
 
-(1:04:27 - 1:05:45)
-What are we talking about? Oh my gosh. Sorry. I'm trying to get through this so I can catch up with you guys. 
+What are we talking about? Oh my gosh. Sorry.
 
-Is there an LP value point at which the team might want to stop adding to the LP? Uh, no, because as price increases, that gap, so as price of the coin increases, that gap will grow. So no, there's not really, I mean, we'd have to keep definitely getting consistent volume. Um, but no, I don't, you know, it's nice because we can always change that. 
+I'm trying to get through this so I can catch up with you guys. Is there an LP value point at which the team might want to stop adding to the LP? Uh, no, because as price increases, that gap, so as price of the coin increases, that gap will grow.
 
-The percentages that go to LP. Uh, so we have the three categories, right? We have the, uh, LP, which right now we have set at 1% and we can always set that back to zero if we want. And then we have the, uh, charity and community are into two or into the same category, which right now is also receiving 1% and that includes, um, charity, but also giving back to the community, our community, um, which if tip CC would, uh, hurry up, we can help move that along a little quicker.
+So no, there's not really, I mean, we'd have to keep definitely getting consistent volume. Um, but no, I don't, you know, it's nice because we can always change that. The percentages that go to LP.
 
-(1:05:45 - 1:08:19)
-Um, basically just to have a little bit more fun with you guys and a reward for being here and just being active, uh, here. Uh, and then of course we have the operations, uh, which right now is receiving that 6% to help cover, uh, our operational costs. And of course, again, with the volume, uh, our goal is definitely to decrease these percentages, uh, to encourage, uh, definitely more volume. 
+Uh, so we have the three categories, right? We have the, uh, LP, which right now we have set at 1% and we can always set that back to zero if we want. And then we have the, uh, charity and community are into two or into the same category, which right now is also receiving 1% and that includes, um, charity, but also giving back to the community, our community, um, which if tip CC would, uh, hurry up, we can help move that along a little quicker.
 
-So it's one of those more volume will help us decrease the taxes, which will I'm sure help us, uh, increase volume. Have you identified back to actor's wallets? Did you read the whole message? Pierre, don't even argue with the robot. I feel like the robot, the robot is just a robot. 
+Um, basically just to have a little bit more fun with you guys and a reward for being here and just being active, uh, here. Uh, and then of course we have the operations, uh, which right now is receiving that 6% to help cover, uh, our operational costs. And of course, again, with the volume, uh, our goal is definitely to decrease these percentages, uh, to encourage, uh, definitely more volume.
 
-So he isn't, he always going to be right. I'm not sure. I just assume he is. 
+So it's one of those more volume will help us decrease the taxes, which will I'm sure help us, uh, increase volume.
 
-Oh boy. We're getting into it here. Uh, sorry, discord. 
+[Speaker 2]
+Have you identified back to actor's wallets? Did you read the whole message?
 
-I am trying to catch up on the telegram. Be easier if y'all just got on voice, but then I don't know how. I don't think the recording will pick up other people's voices. 
+[Speaker 1]
+Pierre, don't even argue with the robot. I feel like the robot, the robot is just a robot. So he isn't, he always going to be right.
 
-I'm not sure about that. Actually, that's a really good question. I should ask you, Nolan, you probably know. 
+I'm not sure. I just assume he is. Oh boy.
 
-So it's super annoying when I have meetings and sometimes I want to record those meetings and voice calls that I have on my desktop because I want to save some of this information to refer back to. And I've tried everything and I can't get, I've downloaded different programs that claim they do it, but I can't get my computer to record both sides of the conversation. So I need to do that on a Mac, but I'm not sure it's possible.
+We're getting into it here. Uh, sorry, discord. I am trying to catch up on the telegram.
 
-(1:08:20 - 1:08:43)
-I don't know why I didn't ask or think about asking Nolan about that. Oh, Pierre says he just wanted to argue with Nolan. Okay.
+Be easier if y'all just got on voice, but then I don't know how. I don't think the recording will pick up other people's voices. I'm not sure about that.
 
-(1:09:02 - 1:10:21)
-Well, should I put it in the suggestion box, Nolan? Move forward of this. Asking question, not stating fact. You didn't answer. 
+Actually, that's a really good question. I should ask you, Nolan, you probably know. So it's super annoying when I have meetings and sometimes I want to record those meetings and voice calls that I have on my desktop because I want to save some of this information to refer back to.
 
-You couldn't hear what mayhem was asking. Not my fault. Oh, it's okay. 
+And I've tried everything and I can't get, I've downloaded different programs that claim they do it, but I can't get my computer to record both sides of the conversation.
 
-Uh, so it's, it's a, you guys, you'll, we'll share everything about it once the app is out, but no, we will not, we will not be canceled by this company. By mentioning Disney and Nike, I'm just trying to to convey, uh, the size and yeah, I'll, I'll leave it there. Uh, but it's a very reputable company that we'll be, uh, using that we've integrated into our current app.
+[Speaker 2]
+So I need to do that on a Mac, but I'm not sure it's possible. I don't know why I didn't ask or think about asking Nolan about that. Oh, Pierre says he just wanted to argue with Nolan.
 
-(1:10:27 - 1:11:38)
-So you could do a splash screen to stay in that. What's that? Uh, have you considered, have you considered an upper limit on amounts? The auto swap will clear within a given timeframe. Like if contract balance is 15 million, it will max auto swap 3 million and set a timestamp to not clear again for 15 minutes, something like that. 
+Okay.
 
-Um, I don't think we have actually considered that. And I'm thinking off the top of my head. Um, I know we're adding one feature that lets us keep some of the coins and actually transfer tokens into the wallets. 
+[Speaker 1]
+Well, should I put it in the suggestion box, Nolan?
 
-Um, we have moved T from this point forward. We're, uh, moving all of our team members to pay them in, to not pay them in tokens. Um, so generally USDT or what have you.
+[Speaker 2]
+Move forward of this.
 
-(1:11:38 - 1:12:06)
-Um, but, uh, I can definitely save this to the, I'll forward it right now before I forget to the suggestion box and present that to our advisor. Oh, no one says there wasn't a suggestion box over. My DMS are always a suggestion box, but you probably did send it there in your defense.
+[Speaker 1]
+Asking question, not stating fact. You didn't answer. You couldn't hear what mayhem was asking.
 
-(1:12:10 - 1:12:14)
-Could the magic dump number be reduced? Say a few million. It will auto sell. Yeah.
+Not my fault. Oh, it's okay. Uh, so it's, it's a, you guys, you'll, we'll share everything about it once the app is out, but no, we will not, we will not be canceled by this company.
 
-(1:12:15 - 1:14:05)
-So that's what we had it set. So we had to just wait for her to get down to it. Now we know I get Nolan very, I don't know if that's excited or frustrated or OMFG. 
+By mentioning Disney and Nike, I'm just trying to to convey, uh, the size and yeah, I'll, I'll leave it there. Uh, but it's a very reputable company that we'll be, uh, using that we've integrated into our current app. So you could do a splash screen to stay in that.
 
-Uh, could the magic dump number be reduced? Say a few million. It will auto sell. Yes, we had it last week. 
+What's that? Uh, have you considered, have you considered an upper limit on amounts? The auto swap will clear within a given timeframe.
 
-I believe we had it set at 1 million. Um, and that's when mayhem, uh, was saying in telegram that he wants it to stop selling to help price, uh, get, you know, get above that. I want to say it was in the high fours when he was saying that last week. 
+Like if contract balance is 15 million, it will max auto swap 3 million and set a timestamp to not clear again for 15 minutes, something like that. Um, I don't think we have actually considered that. And I'm thinking off the top of my head.
 
-And I said, here, you guys try it out. We'll do that. No problem. 
+Um, I know we're adding one feature that lets us keep some of the coins and actually transfer tokens into the wallets. Um, we have moved T from this point forward. We're, uh, moving all of our team members to pay them in, to not pay them in tokens.
 
-So we turned, uh, we turned off the auto swap just to give you guys some time, see what that happens. And I think we hadn't sold until today when I swapped right when I, uh, shared the roadmap. So yeah, as a, and team wise, uh, we figured we'd, uh, kind of experiment with it as, you know, also depend a lot of it also depends on volume, how that's going. 
+Um, so generally USDT or what have you. Um, but, uh, I can definitely save this to the, I'll forward it right now before I forget to the suggestion box and present that to our advisor. Oh, no one says there wasn't a suggestion box over.
+
+My DMS are always a suggestion box, but you probably did send it there in your defense. Could the magic dump number be reduced? Say a few million.
+
+It will auto sell. Yeah. So that's what we had it set.
+
+So we had to just wait for her to get down to it. Now we know I get Nolan very, I don't know if that's excited or frustrated or OMFG. Uh, could the magic dump number be reduced?
+
+Say a few million. It will auto sell. Yes, we had it last week.
+
+I believe we had it set at 1 million. Um, and that's when mayhem, uh, was saying in telegram that he wants it to stop selling to help price, uh, get, you know, get above that. I want to say it was in the high fours when he was saying that last week.
+
+And I said, here, you guys try it out. We'll do that. No problem.
+
+So we turned, uh, we turned off the auto swap just to give you guys some time, see what that happens. And I think we hadn't sold until today when I swapped right when I, uh, shared the roadmap. So yeah, as a, and team wise, uh, we figured we'd, uh, kind of experiment with it as, you know, also depend a lot of it also depends on volume, how that's going.
 
 Um, but we are again, uh, with the proxy and having an upgradable contract, we're already adding, uh, another feature to it. That feature is to allow us to, um, transfer the PPY coins straight into say the, uh, operations or the charity community wallet. So we have those to use, uh, in case we want to use those, we don't have to buy back coins.
 
-(1:14:05 - 1:16:04)
-If we want to, uh, send right now it's easy cause we haven't burned, uh, the coins and we still have coins, uh, say with partners and stuff like that. We want to get on, we can easily, uh, send them manually, send them some coins, but that would be hard to do after burn. Super important question. 
+If we want to, uh, send right now it's easy cause we haven't burned, uh, the coins and we still have coins, uh, say with partners and stuff like that. We want to get on, we can easily, uh, send them manually, send them some coins, but that would be hard to do after burn. Super important question.
 
-When will the Shopify domain not have Shopify in it? I think you bought the domain already. Yes, we have actually, uh, probably something dog bone has on his, uh, docket. I think we need to clean up. 
+When will the Shopify domain not have Shopify in it? I think you bought the domain already. Yes, we have actually, uh, probably something dog bone has on his, uh, docket.
 
-We did clean it up a little bit, the checkout for the Shopify store, but yes, we do have a few different domains for that. All the stuff from this company is great. Hmm. 
+I think we need to clean up. We did clean it up a little bit, the checkout for the Shopify store, but yes, we do have a few different domains for that.
 
-Is this the audio hijack? Is this, oh, is this the one that's going to help me record calls and actually record the other person? That will be a game changer. So, uh, I think, look, Stacy, mainly that she talks to a professional broadcaster that has a support team who would probably set it up in an hour. Wait, who? What? Are you the professional broadcaster? I feel like you wouldn't be giving us that much information about yourself.
+[Speaker 2]
+All the stuff from this company is great.
 
-(1:16:10 - 1:16:55)
-Oh, I thought that as I said that. Oh, I can ask that. I can send that to them tonight, actually, but that's not. 
+[Speaker 5]
+Hmm.
 
-So this rogamo, am I reading this right? This website I'm assuming is for the recorder and the first one is for the broadcasting one. Uh, thanks for the voice call. Thank you, Eric.
+[Speaker 1]
+Is this the audio hijack? Is this, oh, is this the one that's going to help me record calls and actually record the other person? That will be a game changer.
 
-(1:16:56 - 1:21:09)
-Uh, thank you, Glass. Respect the Nolan. I do. 
+So, uh, I think, look, Stacy, mainly that she talks to a professional broadcaster that has a support team who would probably set it up in an hour. Wait, who? What?
 
-He's like my, Nolan's like my favorite robot child. It's funny though, cause I did get like DMs a while ago from like, not from Nolan, from others who like through the, uh, through, I don't know who, like rumors were being spread that Nolan gets on my nerves. And I thought it was funny cause I was like, what? That's one of like my favorites. 
+Are you the professional broadcaster? I feel like you wouldn't be giving us that much information about yourself.
 
-I mean, yes, Nolan annoys everybody every once in a while, but it was funny cause I was like, where did he get that? I don't know if I told Nolan about that. Um, oh, any plans for an exchange listings? Uh, so definitely in the future. And I think definitely when we, uh, can afford that. 
+[Speaker 2]
+Oh, I thought that as I said that. Oh, I can ask that. I can send that to them tonight, actually, but that's not.
 
-Cause I don't think it would hurt to broaden our reach, but again, um, we really want to put in those resources into our own app because, uh, I think that's, I think that's, uh, definitely would be better spent, but with volume. And, uh, I do believe that in my opinion, we will have the volume where a hundred K won't be an issue for us to spend, uh, like it has before won't be a huge deal for us to drop on an exchange. Um, I do believe that that's not a bad idea. 
+[Speaker 1]
+So this rogamo, am I reading this right? This website I'm assuming is for the recorder and the first one is for the broadcasting one. Uh, thanks for the voice call.
 
-Exchange listings are valuable. And, uh, again, um, just putting yourself out there to make the coin more available can't hurt. Makes sense. 
+Thank you, Eric. Uh, thank you, Glass. Respect the Nolan.
 
-Do all exchanges require capital to get on board? Uh, the exchanges that are worth it, I'd say. Uh, yeah. Like somebody sent me the, excuse me, Mexi, uh, like a message a few days ago, but, you know, we've already spoken to those guys, uh, back a few years ago. 
+I do. He's like my, Nolan's like my favorite robot child. It's funny though, cause I did get like DMs a while ago from like, not from Nolan, from others who like through the, uh, through, I don't know who, like rumors were being spread that Nolan gets on my nerves.
 
-And it was over with, uh, with, uh, the MM funds coupled with the listing funds were definitely over a hundred K there, uh, which was a similar with, you know, XDE and LBank. And, uh, sadly that's why we couldn't stay on those either. That was a big, a big reason there was cost. 
+And I thought it was funny cause I was like, what? That's one of like my favorites. I mean, yes, Nolan annoys everybody every once in a while, but it was funny cause I was like, where did he get that?
 
-They wanted us, uh, if we've worked, they wanted new listing fees. And unfortunately that's expensive. You want, you know, 65K in upwards and then another 35 to 40 to 50 grand, um, in the MM, uh, accounts. 
+I don't know if I told Nolan about that. Um, oh, any plans for an exchange listings? Uh, so definitely in the future.
 
-Start over. Oh boy. Oh boy. 
+And I think definitely when we, uh, can afford that. Cause I don't think it would hurt to broaden our reach, but again, um, we really want to put in those resources into our own app because, uh, I think that's, I think that's, uh, definitely would be better spent, but with volume. And, uh, I do believe that in my opinion, we will have the volume where a hundred K won't be an issue for us to spend, uh, like it has before won't be a huge deal for us to drop on an exchange.
 
-How about I just post a recording and you can listen to that. But yeah, I think that's all I got. Uh, so this week we have a few more dev meetings.
+Um, I do believe that that's not a bad idea. Exchange listings are valuable. And, uh, again, um, just putting yourself out there to make the coin more available can't hurt.
 
-(1:21:10 - 1:21:54)
-Um, it's funny, I think after Ed asked these questions, I'm in a, I'm in a habit of, um, thinking about them to wrap up on the end, at the end. Um, we have a few more dev interviews, uh, definitely hoping to add a dev by the end of the week. And this is for the app. 
+Makes sense. Do all exchanges require capital to get on board? Uh, the exchanges that are worth it, I'd say.
 
-If, if you guys know, uh, any other projects with good devs, um, or know any devs that specialize in react specifically, uh, reach out to me. Uh, we just definitely need somebody who specializes in react. Um, definitely send me that info.
+Uh, yeah. Like somebody sent me the, excuse me, Mexi, uh, like a message a few days ago, but, you know, we've already spoken to those guys, uh, back a few years ago. And it was over with, uh, with, uh, the MM funds coupled with the listing funds were definitely over a hundred K there, uh, which was a similar with, you know, XDE and LBank.
 
-(1:21:57 - 1:24:12)
-White paper will a hundred percent be released this week. Um, let's see. Yeah. 
+And, uh, sadly that's why we couldn't stay on those either. That was a big, a big reason there was cost. They wanted us, uh, if we've worked, they wanted new listing fees.
 
-And then our, uh, our dev who's working on the integration that we discussed should be done by the end of this week or early next week is the plan there. Uh, so we hope to be testing by the end of this week. I hope, uh, looks really cool. 
+And unfortunately that's expensive. You want, you know, 65K in upwards and then another 35 to 40 to 50 grand, um, in the MM, uh, accounts. Start over.
 
-The mock-up looks awesome. Uh, yeah, I'm excited. It feels, it feels really good to be back in this place. 
+Oh boy. Oh boy. How about I just post a recording and you can listen to that.
 
-And, um, I have a really good feeling about this year and we finally have a great team. Uh, and I think we'll do good things together. Uh, CPAC is up in the air. 
+But yeah, I think that's all I got. Uh, so this week we have a few more dev meetings. Um, it's funny, I think after Ed asked these questions, I'm in a, I'm in a habit of, um, thinking about them to wrap up on the end, at the end.
 
-Um, I actually need to decide on that in the next 24 hours or so. Um, and it wouldn't be so nothing, it wouldn't be anything. It would be all behind the scenes, um, work that we're doing there. 
+Um, we have a few more dev interviews, uh, definitely hoping to add a dev by the end of the week. And this is for the app. If, if you guys know, uh, any other projects with good devs, um, or know any devs that specialize in react specifically, uh, reach out to me.
 
-Uh, if that makes sense. Um, no, no booths or presentations or anything like that. Uh, more of networking. 
+Uh, we just definitely need somebody who specializes in react. Um, definitely send me that info. White paper will a hundred percent be released this week.
 
-Um, but I should know in the next, yeah, 24 by the end of tomorrow. So I will keep you updated on that. Uh, again, if you need anything in the meantime, please feel free to reach out. 
+Um, let's see. Yeah. And then our, uh, our dev who's working on the integration that we discussed should be done by the end of this week or early next week is the plan there.
 
-Email, DM, tag me, text, call. I do see a few DMs in Discord. Sorry, my, I don't know what it was. 
+Uh, so we hope to be testing by the end of this week. I hope, uh, looks really cool. The mock-up looks awesome.
 
-I'm not sure if it's my kidneys or what. We're on fire for the last, like, two days. So, um, but I am catching up on those. 
+Uh, yeah, I'm excited. It feels, it feels really good to be back in this place. And, um, I have a really good feeling about this year and we finally have a great team.
 
-We'll get back to everybody tonight. Um, yeah, I appreciate it. And I appreciate you guys taking care of all the, uh, people coming in, asking about their airdrops and stuff like that.
+Uh, and I think we'll do good things together. Uh, CPAC is up in the air. Um, I actually need to decide on that in the next 24 hours or so.
 
-(1:24:12 - 1:24:27)
-Uh, I know the admins have been a huge help, but you all have too. So teamwork, uh, I love it and I think it'll work for the benefit of everybody. Um, you guys have a great night.
+Um, and it wouldn't be so nothing, it wouldn't be anything. It would be all behind the scenes, um, work that we're doing there. Uh, if that makes sense.
 
-(1:24:27 - 1:24:45)
-Uh, give me a few minutes here to convert this and type up some notes. Um, wow, this turned out to be a pretty long one. Uh, and I'll get this posted within the next 30, 32, 33 minutes here.
+Um, no, no booths or presentations or anything like that. Uh, more of networking. Um, but I should know in the next, yeah, 24 by the end of tomorrow.
 
-(1:24:46 - 1:24:48)
-All right. I'll see you guys back in general.
+So I will keep you updated on that. Uh, again, if you need anything in the meantime, please feel free to reach out. Email, DM, tag me, text, call.
+
+I do see a few DMs in Discord. Sorry, my, I don't know what it was. I'm not sure if it's my kidneys or what.
+
+We're on fire for the last, like, two days. So, um, but I am catching up on those. We'll get back to everybody tonight.
+
+Um, yeah, I appreciate it. And I appreciate you guys taking care of all the, uh, people coming in, asking about their airdrops and stuff like that. Uh, I know the admins have been a huge help, but you all have too.
+
+So teamwork, uh, I love it and I think it'll work for the benefit of everybody. Um, you guys have a great night. Uh, give me a few minutes here to convert this and type up some notes.
+
+Um, wow, this turned out to be a pretty long one. Uh, and I'll get this posted within the next 30, 32, 33 minutes here. All right.
+
+I'll see you guys back in general.

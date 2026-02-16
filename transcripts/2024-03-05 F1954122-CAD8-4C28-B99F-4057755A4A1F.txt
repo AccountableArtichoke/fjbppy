@@ -1,339 +1,290 @@
-(0:01 - 2:10)
-Hello, happy Tuesday. Awesome. Hope everybody's had a good week so far. 
+[Speaker 1]
+Hello, happy Tuesday. Awesome. Hope everybody's had a good week so far.
 
-You guys have been busy. I just wanted to jump on here and yeah, update you a bit, I think. I forget who it was, Instagram, that added for a few or asked for a few updates. 
+You guys have been busy. I just wanted to jump on here and yeah, update you a bit, I think. I forget who it was, Instagram, that added for a few or asked for a few updates.
 
-I think I've pretty much shared everything I had, which is app is being worked on. We just, we could not test this past weekend because one of our past partners, yeah, we're just having some issues there with them. But that's being worked on. 
+I think I've pretty much shared everything I had, which is app is being worked on. We just, we could not test this past weekend because one of our past partners, yeah, we're just having some issues there with them. But that's being worked on.
 
-I'll let you know as soon as app is ready for you to test. From our end, dev is done with everything so far. We have, I think, three or four deployments now to push out, which that feels great to have that just waiting to deploy as soon as one by one. 
+I'll let you know as soon as app is ready for you to test. From our end, dev is done with everything so far. We have, I think, three or four deployments now to push out, which that feels great to have that just waiting to deploy as soon as one by one.
 
-We just want to test them, make sure the first one is fine, and then go on with the next deployment and so on. We are live on SimpleSwap, I believe, as of yesterday or maybe the day before. So we're on there now. 
+We just want to test them, make sure the first one is fine, and then go on with the next deployment and so on. We are live on SimpleSwap, I believe, as of yesterday or maybe the day before. So we're on there now.
 
 You can use that or change now if you're trying to swap into a PPY. Probably add a widget on our website for that too. Makes it super easy.
 
-(2:12 - 3:07)
-Okay, sorry, give me a second. I don't know why my dog sounds like he's about to die. My girl's in a heat, so he's freaking out. 
+Okay, sorry, give me a second. I don't know why my dog sounds like he's about to die. My girl's in a heat, so he's freaking out.
 
-Okay, other than that, let's see, dev's good. We have our event this weekend at the convention in Vegas. If anybody's around there, feel free to tag or DM me. 
+Okay, other than that, let's see, dev's good. We have our event this weekend at the convention in Vegas. If anybody's around there, feel free to tag or DM me.
 
-I'd love to meet up. We may have another convention, I feel like, in about two weeks. That's in two weeks. 
+I'd love to meet up. We may have another convention, I feel like, in about two weeks. That's in two weeks.
 
 I'm not sure about that one yet. That one's, I believe, in Dallas. It's an RA convention, so that's great.
 
-(3:07 - 5:21)
-I had a really good call this morning, actually, with somebody I met at CPAC, basically now going into 2025 roadmap. I think that's why CPAC was great. Some great people there, some great connections. 
+I had a really good call this morning, actually, with somebody I met at CPAC, basically now going into 2025 roadmap. I think that's why CPAC was great. Some great people there, some great connections.
 
-This one in particular, we are discussing, actually, just, and again, this would be 2025, possibly into 2026, having our own on-ramp, our own bank, and licensing everything that way, which would actually help alleviate a lot of most everything we're dealing with now, which would be really cool. But obviously, I'll update you on that as that progresses and as volume picks up. It'd be really cool. 
+This one in particular, we are discussing, actually, just, and again, this would be 2025, possibly into 2026, having our own on-ramp, our own bank, and licensing everything that way, which would actually help alleviate a lot of most everything we're dealing with now, which would be really cool. But obviously, I'll update you on that as that progresses and as volume picks up. It'd be really cool.
 
-The idea there, again, is being completely self-reliant. Also, less restrictions, strangely enough. And also, it even goes on to, like, then you can have your own credit cards. 
+The idea there, again, is being completely self-reliant. Also, less restrictions, strangely enough. And also, it even goes on to, like, then you can have your own credit cards.
 
-Yeah, it's just super cool, so I'll keep you updated on that. That was this morning. Yeah, and then the convention this weekend should also be pretty pretty super focused, although there are a few people from CPAC that will still actually be there, so that'll be nice. 
+Yeah, it's just super cool, so I'll keep you updated on that. That was this morning. Yeah, and then the convention this weekend should also be pretty pretty super focused, although there are a few people from CPAC that will still actually be there, so that'll be nice.
 
 Marketing, we are, I think I've already kind of shared a little bit about that, starting with TPUSA events on college campuses, some influencers on social media. Yeah, and I'll keep you updated as far as that goes. Apple, we have some progress there.
 
-(5:22 - 7:55)
-They actually were, we've been transferred to somebody else. She seems to be moving a lot quicker, and I'm pretty sure she's super conservative. She was saying she uses proton mail and a few other things, so that was nice. 
+They actually were, we've been transferred to somebody else. She seems to be moving a lot quicker, and I'm pretty sure she's super conservative. She was saying she uses proton mail and a few other things, so that was nice.
 
-But yeah, we moved a little bit this morning. Now, Apple is just waiting on a third party that has to verify basically the new business information, including the LLC, DUNS, and all that. So, as soon as that happens, what we'll do is transfer ownership of the app again. 
+But yeah, we moved a little bit this morning. Now, Apple is just waiting on a third party that has to verify basically the new business information, including the LLC, DUNS, and all that. So, as soon as that happens, what we'll do is transfer ownership of the app again.
 
-I just had to make, like, another Apple ID, so it's just, it's, Apple's such a mess. I don't know why I use them with all my devices either, but anyway. Should be good there. 
+I just had to make, like, another Apple ID, so it's just, it's, Apple's such a mess. I don't know why I use them with all my devices either, but anyway. Should be good there.
 
-Should, they said it should just be a day, day or two to get this verification, but I will keep you updated as soon as that happens. The listing will be updated in the app store, like the Google Play listing has been. So, that's very nice. 
+Should, they said it should just be a day, day or two to get this verification, but I will keep you updated as soon as that happens. The listing will be updated in the app store, like the Google Play listing has been. So, that's very nice.
 
-Let me see. Getting, again, lots of questions. I'm sure I'm preaching to the choir here because I'm sure it's none of you that are in here probably, but regarding PPY price not showing up, we are still waiting on, excuse me, I was going to say trust, yeah, trust law and CoinMarketCap just spoke to this morning. 
+Let me see. Getting, again, lots of questions. I'm sure I'm preaching to the choir here because I'm sure it's none of you that are in here probably, but regarding PPY price not showing up, we are still waiting on, excuse me, I was going to say trust, yeah, trust law and CoinMarketCap just spoke to this morning.
 
-So, again, they have not forgotten about us. Just on a very long list apparently. Other than that, anybody trying to transact with the app, please don't do that. 
+So, again, they have not forgotten about us. Just on a very long list apparently. Other than that, anybody trying to transact with the app, please don't do that.
 
-Wait for an announcement to use the app, just to make sure you don't do anything weird. Just wait for instructions. Hold tight there. 
+Wait for an announcement to use the app, just to make sure you don't do anything weird. Just wait for instructions. Hold tight there.
 
-Your coins, even though they don't show the correct amount in the app, if you want to swap them, if you need to sell, buy, however, it'll still populate the correct value of your coins when you do swap. So, don't worry about that. I don't have anything in email, but I think I did it. 
+Your coins, even though they don't show the correct amount in the app, if you want to swap them, if you need to sell, buy, however, it'll still populate the correct value of your coins when you do swap. So, don't worry about that. I don't have anything in email, but I think I did it.
 
 Let's see. I think it was Telegram fans. And I think I answered most of these.
 
-(7:57 - 8:29)
-I'm not sure when the community will be testing the app. I can't give you a timeline. We've just had, unfortunately, working with partners, sometimes stuff. 
+I'm not sure when the community will be testing the app. I can't give you a timeline. We've just had, unfortunately, working with partners, sometimes stuff.
 
-This is why we're trying to be as self-reliant as possible. There has been some breadcrumbing that thus is being removed. If this is true, when will this be completed? I'll update you on that.
+This is why we're trying to be as self-reliant as possible. There has been some breadcrumbing that thus is being removed. If this is true, when will this be completed?
 
-(8:30 - 9:21)
-A lot of these questions. Is marketing in March? Marketing will be as soon as our app is up and running and bugs are worked out. So, I unfortunately don't have a time for you. 
+I'll update you on that. A lot of these questions. Is marketing in March?
 
-But as soon as that's complete, there's no use in spending our money on marketing right now when we really want to push the majority of the app. And we're still doing a little bit, obviously, as far as social media, the gift cards, stuff like that, in very concentrated communities. But otherwise, it's best to wait for the app and then less people we have to transition over to.
+Marketing will be as soon as our app is up and running and bugs are worked out. So, I unfortunately don't have a time for you. But as soon as that's complete, there's no use in spending our money on marketing right now when we really want to push the majority of the app.
 
-(9:28 - 9:50)
-TPUSA functions, are those still happening? Yes, we just need the app to go and then we'll start advertising on campuses. That's also another reason we needed to change our name. Okay, all the other questions, I think I hit on trust wallet.
+And we're still doing a little bit, obviously, as far as social media, the gift cards, stuff like that, in very concentrated communities. But otherwise, it's best to wait for the app and then less people we have to transition over to. TPUSA functions, are those still happening?
 
-(9:52 - 10:20)
-White paper, when will the missing pages be published once the app is complete? Okay, I think that's everything. On-ramp, any update that's complete. The dev has completed that. 
+Yes, we just need the app to go and then we'll start advertising on campuses. That's also another reason we needed to change our name. Okay, all the other questions, I think I hit on trust wallet.
 
-We've tested that. It is ready to deploy as soon as we can. Just got to do it in order.
+White paper, when will the missing pages be published once the app is complete? Okay, I think that's everything. On-ramp, any update that's complete.
 
-(10:26 - 11:11)
-What do you need to move this forward faster? I need partners or past partners to word it nicely to do what they're supposed to. But yeah, it should be good. I'll definitely keep you updated. 
+The dev has completed that. We've tested that. It is ready to deploy as soon as we can.
 
-Let's go in Discord. Discord's been quiet, I feel like. I can't hear anything.
+Just got to do it in order. What do you need to move this forward faster? I need partners or past partners to word it nicely to do what they're supposed to.
 
-(11:12 - 13:03)
-You can't hear anything on Discord? Let's see. Looks like it. I am. 
+But yeah, it should be good. I'll definitely keep you updated. Let's go in Discord.
 
-The screen tells me you can hear. Whose walkie is that? Do you think we'll be able to test the app this weekend? I honestly couldn't tell you. That's the plan, but that's the answer I've gotten. 
+Discord's been quiet, I feel like. I can't hear anything. You can't hear anything on Discord?
 
-But you guys know how that goes with dev work. There will not be a spending limit. I mean, why should I say that? I think the spending limit with on-rampers is depending. 
+Let's see. Looks like it. I am.
 
-It depends on your account a lot of times from what I've seen too. And like the specific form of payment you're using to on-ramp. No. 
+The screen tells me you can hear. Whose walkie is that? Do you think we'll be able to test the app this weekend?
+
+I honestly couldn't tell you. That's the plan, but that's the answer I've gotten. But you guys know how that goes with dev work.
+
+There will not be a spending limit. I mean, why should I say that? I think the spending limit with on-rampers is depending.
+
+It depends on your account a lot of times from what I've seen too. And like the specific form of payment you're using to on-ramp. No.
 
 Logins will be, account creation and logins will be super, super easy that truly your grandma can do it. You just, now basically we just need you guys to be careful of phishing because it'll be so easy that we don't want you to get scammed by some fake emails and somehow you know give somebody else permission to log into your app. But no, it'll be definitely worth the wait and worth the pretty penny we're spending on it.
 
-(13:07 - 14:17)
-Be it more of a monthly or yearly contact actually. The monthly payment should be very well, very well worth it. Who's buying? I want it to buy, but I want to buy. 
+Be it more of a monthly or yearly contact actually. The monthly payment should be very well, very well worth it. Who's buying?
 
-Was it last night or the night before? But then I don't know. I don't know if that's fair. Who's Coinholio? Oh, it's Crypto Funpans.
+I want it to buy, but I want to buy. Was it last night or the night before? But then I don't know.
 
-(14:21 - 14:47)
+I don't know if that's fair. Who's Coinholio? Oh, it's Crypto Funpans.
+
 I see. Let's see. So the NRA convention is, no, this isn't the one I was thinking of.
 
-(14:55 - 16:21)
-This one's in May. Maybe it is the one I was thinking, because I'm like, I thought it was in March. Maybe it is in May. 
+This one's in May. Maybe it is the one I was thinking, because I'm like, I thought it was in March. Maybe it is in May.
 
-Maybe March was basically the latest one I was thinking about. VDchild says it's fair to buy away. Yeah, what else? I don't know. 
+Maybe March was basically the latest one I was thinking about. VDchild says it's fair to buy away. Yeah, what else?
 
-What's going on? You guys are side-chats. Why was everybody on edge yesterday or yesterday, today, Sunday? I feel like all my days are just blurry. What's going on there? Therapy sessions. 
+I don't know. What's going on? You guys are side-chats.
 
-Oh boy. That sounds right. Bug Mike's fault.
+Why was everybody on edge yesterday or yesterday, today, Sunday? I feel like all my days are just blurry. What's going on there?
 
-(16:22 - 16:51)
-Sounds about right. The crickets eating all the bugs. Okay, yesterday helped everybody's nerves.
+Therapy sessions. Oh boy. That sounds right.
 
-(16:52 - 17:26)
-We just had an update on Friday, though. Was I the only one on that Friday live chat? Boy, oh boy. Ain't nobody listening to you on Friday.
+Bug Mike's fault. Sounds about right. The crickets eating all the bugs.
 
-(17:26 - 17:43)
-Okay, so I guess from now on, move the Friday voice chats, because by Sunday, Monday, you guys are freaking out. Everybody's drunk on Fridays, on Friday night. Oh boy.
+Okay, yesterday helped everybody's nerves. We just had an update on Friday, though. Was I the only one on that Friday live chat?
 
-(17:54 - 20:10)
-Yeah, Apple. I'm surprised that Apple moves so slow, I've noticed. Somebody said that we're moving up on the Google Play Store if we search it. 
+Boy, oh boy. Ain't nobody listening to you on Friday. Okay, so I guess from now on, move the Friday voice chats, because by Sunday, Monday, you guys are freaking out.
 
-Now, I don't know if that happens because you're on your phone and you keep searching it, so it's going up that list just on your phone, or if that just works with everybody. And we do have an on-ramper, but the thing is, they're not available in the U.S. or Canada yet, so I guess for all you, for all you overseas people, you might still do it. We'll see. 
+Everybody's drunk on Fridays, on Friday night. Oh boy. Yeah, Apple.
 
-I don't think, we don't really need any more on-rampers for the time being, but they're pretty easy one that they work with our other partners, too. Oh, here it is. Let's see. 
+I'm surprised that Apple moves so slow, I've noticed. Somebody said that we're moving up on the Google Play Store if we search it. Now, I don't know if that happens because you're on your phone and you keep searching it, so it's going up that list just on your phone, or if that just works with everybody.
 
-Yeah, it doesn't give me set time. It's the third on my Apple list now. Hmm, okay. 
+And we do have an on-ramper, but the thing is, they're not available in the U.S. or Canada yet, so I guess for all you, for all you overseas people, you might still do it. We'll see. I don't think, we don't really need any more on-rampers for the time being, but they're pretty easy one that they work with our other partners, too.
 
-I could fire up my Android phone, too. I actually have one right here on the charger, but my screen is broken. I think that's why I stopped using this. 
+Oh, here it is. Let's see. Yeah, it doesn't give me set time.
 
-I miss the clipboard, by the way. I don't know why Apple doesn't have that. Super annoying.
+It's the third on my Apple list now. Hmm, okay. I could fire up my Android phone, too.
 
-(20:12 - 20:33)
-Super convenient with you guys to just put stuff in the clipboard and lock them, especially when I'm answering the same question a dozen times a day. Let's see. I just saw it light up.
+I actually have one right here on the charger, but my screen is broken. I think that's why I stopped using this. I miss the clipboard, by the way.
 
-(20:35 - 21:08)
-Um, would you consider doing an extra bullet style update like you did last night on Sunday evening? I could, but I just feel like that's like Friday, Sunday, Tuesday. That's a lot of updates. What is it about the weekend that gets you all riled up? Or is it the weekends being quiet? The weekends are like the only time I leave my house.
+I don't know why Apple doesn't have that. Super annoying. Super convenient with you guys to just put stuff in the clipboard and lock them, especially when I'm answering the same question a dozen times a day.
 
-(21:08 - 22:28)
-I did leave today, actually, because I had to go to dry cleaners. I guess I have to wash my professional clothes. Uh, I just searched Petri Pan, my wife's phone, which I've never searched for before. 
+Let's see. I just saw it light up. Um, would you consider doing an extra bullet style update like you did last night on Sunday evening?
 
-It was the third on the list. Oh, okay. Oh, there it is. 
+I could, but I just feel like that's like Friday, Sunday, Tuesday. That's a lot of updates. What is it about the weekend that gets you all riled up?
 
-Let's see. Let's see if I can search it on my app store. Uh, okay. 
+Or is it the weekends being quiet? The weekends are like the only time I leave my house. I did leave today, actually, because I had to go to dry cleaners.
 
-I can see that. Thing's not going as planned. With the app testing, it starts to feel like scrolling next time. 
+I guess I have to wash my professional clothes. Uh, I just searched Petri Pan, my wife's phone, which I've never searched for before. It was the third on the list.
 
-Yeah. Let's see, where's my... Nope. Trying to get into my Google Play store.
+Oh, okay. Oh, there it is. Let's see.
 
-(22:28 - 23:05)
+Let's see if I can search it on my app store. Uh, okay. I can see that.
+
+Thing's not going as planned. With the app testing, it starts to feel like scrolling next time. Yeah.
+
+Let's see, where's my... Nope. Trying to get into my Google Play store.
+
 I'm curious to see if it shows up. Third. Oh, my screen doesn't really want to work all the way.
 
-(23:06 - 23:25)
-It's probably going to stop choosing it. Doesn't make me want to see anything. So, somebody else will have to check because, yeah, my screen will already... It's that broken.
+It's probably going to stop choosing it. Doesn't make me want to see anything. So, somebody else will have to check because, yeah, my screen will already...
 
-(23:25 - 23:52)
-Oh, there we go. Actually, well, hopefully it's showing up third for everybody. It'll continue to pop up higher on the list.
+It's that broken. Oh, there we go. Actually, well, hopefully it's showing up third for everybody.
 
-(23:54 - 24:57)
-I think that's... Oh, there's a, um, pro-life convention. It's like celebrate life or a conference. Same thing in DC this summer.
+It'll continue to pop up higher on the list. I think that's... Oh, there's a, um, pro-life convention.
 
-(24:58 - 25:23)
-They emailed me today, but I think I met them at CPAP too, but I need to figure out how many people are there for that conference. See if it's... But they do have a non-profit organization, and they were actually interested in being added to our app as a non-profit. So that's pretty cool.
+It's like celebrate life or a conference. Same thing in DC this summer. They emailed me today, but I think I met them at CPAP too, but I need to figure out how many people are there for that conference.
 
-(25:23 - 26:01)
-Just got to figure out how many people can expect that. I think they've been around for a while too. Anything you can share on how the buy experience is envisioned to work? Assuming in my app with your on-ramper, it will all be on one page.
+See if it's... But they do have a non-profit organization, and they were actually interested in being added to our app as a non-profit. So that's pretty cool.
 
-(26:02 - 26:32)
-When you click Patriot Pay, when you first get into your wallet and it shows the cards, that first one is Patriot PPY, you click on it, click buy, and it should all be from that one page. It'll have a pop-up browser if you need to on-ramp your funds, and then it'll take you right back. Should be very, very simple.
+Just got to figure out how many people can expect that. I think they've been around for a while too. Anything you can share on how the buy experience is envisioned to work?
 
-(26:36 - 26:56)
-I'm not sure how quickly we can get this, but we are working on our own on-ramper. Discussing that, I should say. So that we're not relying on an on-ramp service.
+Assuming in my app with your on-ramper, it will all be on one page. When you click Patriot Pay, when you first get into your wallet and it shows the cards, that first one is Patriot PPY, you click on it, click buy, and it should all be from that one page. It'll have a pop-up browser if you need to on-ramp your funds, and then it'll take you right back.
 
-(27:03 - 27:20)
-Will the reflection coin get airdropped to us? Maybe a percentage of total coins for the diamond hand wallets? Maybe, but I don't... There's not that many diamond hand holders. I can literally count them. Track every single one of you.
+Should be very, very simple. I'm not sure how quickly we can get this, but we are working on our own on-ramper. Discussing that, I should say.
 
-(27:22 - 27:46)
-So that wouldn't be much. I guess some of you may have diamond-handed wallets, but then you have like several wallets and many of them are not. So, but yeah, diamond-handed holders, which, hey, there are your coins.
+So that we're not relying on an on-ramp service. Will the reflection coin get airdropped to us? Maybe a percentage of total coins for the diamond hand wallets?
 
-(27:46 - 28:26)
-You can do whatever, but there's not that many of you. Oh boy. Boy, oh boy.
+Maybe, but I don't... There's not that many diamond hand holders. I can literally count them.
 
-(28:27 - 29:03)
-But no, that's a good idea. We'll definitely... Yeah, we'll definitely update you. Again, just making sure that it's the best for our... And the best, whatever, however we're setting it up, however we're doing it, it's in the best interest of our holders and our organization as always.
+Track every single one of you. So that wouldn't be much. I guess some of you may have diamond-handed wallets, but then you have like several wallets and many of them are not.
 
-(29:17 - 29:30)
-Oh, he's back. I didn't realize that. Universal Fund's back? When did he join? I didn't realize he was in this chat.
+So, but yeah, diamond-handed holders, which, hey, there are your coins. You can do whatever, but there's not that many of you. Oh boy.
 
-(29:38 - 30:11)
-Oh boy. That's funny. Oh, I guess I'm not sure.
+Boy, oh boy. But no, that's a good idea. We'll definitely...
 
-(30:13 - 30:59)
-Is that him? Oh, I guess that's Tony Spruce. He might be right. Anyone else having quick swap issues on Trust Wallet? What kind of issues are you having? You guys, oh my gosh.
+Yeah, we'll definitely update you. Again, just making sure that it's the best for our... And the best, whatever, however we're setting it up, however we're doing it, it's in the best interest of our holders and our organization as always.
 
-(31:00 - 31:18)
+Oh, he's back. I didn't realize that. Universal Fund's back?
+
+When did he join? I didn't realize he was in this chat. Oh boy.
+
+That's funny. Oh, I guess I'm not sure. Is that him?
+
+Oh, I guess that's Tony Spruce. He might be right. Anyone else having quick swap issues on Trust Wallet?
+
+What kind of issues are you having?
+
+[Speaker 2]
+You guys, oh my gosh.
+
+[Speaker 1]
 Stop it. Oh boy. Oh, you guys, you should join the contest that I posted in Contest.
 
-(31:20 - 31:43)
 You just got to follow. Oh, that was actually really nice. We had to, we were able to switch our handles on Twitter X so that we basically put the Patriot Pay app handle on our old account, which is awesome because we had five or six thousand followers there.
 
-(31:45 - 32:03)
 So that was great. And we're just, now we're just, the reason we can't update our profile photo it's because Twitter is reviewing it. So we're not allowed to change our name or our photo again until they're done reviewing it.
 
-(32:03 - 32:11)
 Once they do that, we'll put our logo on there. Same with CMC. I've been bugging them about that.
 
-(32:12 - 32:30)
 They've approved our new logo in the system and the profile it shows is approved, but did not update it. So I think that was also this morning. But yeah, I was just taking, not everybody does that.
 
-(32:31 - 32:57)
 I think Getter won't let you change your name. I think Truth Social won't let you either, but oh, that's what I was going to do. Reminding me of the contest.
 
-(32:58 - 33:23)
-Let's tip. Why are you guys tipping? Will we just be testing with Matic only? No. We have the old username.
+Let's tip. Why are you guys tipping? Will we just be testing with Matic only?
 
-(33:57 - 34:30)
-Thank you. Have a good night. Is there going to be a push on Instagram and maybe TikTok? Yeah, so Instagram's tough because any time we get up to 80,000, 90,000 views on a post, then we'll get shadow banned right after.
+No. We have the old username. Thank you.
 
-(34:31 - 34:41)
+Have a good night. Is there going to be a push on Instagram and maybe TikTok? Yeah, so Instagram's tough because any time we get up to 80,000, 90,000 views on a post, then we'll get shadow banned right after.
+
 The only ones we don't get shadow banned on, obviously, are X, Getter, and Truth. Same with TikTok. We've had too many people get shadow banned.
 
-(34:41 - 35:05)
 Pretty sure it's two accounts banned off there for reposting videos. One was of Obama speaking, which I guess TikTok didn't like us sharing that and what he was saying. And the other was somebody committing a crime, I forget.
 
-(35:07 - 35:22)
 But we've been banned there before. So basically, we just don't want to waste our marketing money on accounts that we're shadow banned or banned completely off of. But yeah, Twitter, Getter, and Truth.
 
-(35:27 - 35:44)
 All the averages seem to find their crypto on TikTok, really. Hmm. There's constantly crypto TikTok pages contacting me to try to get us to promote with them.
 
-(35:46 - 36:01)
 But no, I think more concentrated, like Teeth USA on college campuses, conservative influencers. Yeah. Well, I gotta see.
 
-(36:02 - 36:44)
 Poso said he was still interested in, let's see. I don't know if you guys, I don't know how many of you have been around for that long, but back when he was promoting FJB coin. You are welcome.
 
-(36:45 - 36:51)
 I think that's all I got. Do be careful. Again, please don't share your seed phrase.
 
-(36:51 - 36:55)
 Don't click on any weird links. Download any apps. There's not a quick swap app.
 
-(36:55 - 37:13)
 Please wait for directions. I know some of you are a little bit more advanced than everybody else, so just be careful. Because what happens is when you guys find an update before we announce it or something like that, then it gets other people who may not be as knowledgeable as you in trouble.
 
-(37:14 - 37:22)
 So just be careful of that. If ever in doubt, please ask in the general chat. Yes, never share your seed phrase.
 
-(37:23 - 37:38)
 Never enter it in any weird links or apps. Again, if you're ever in doubt, just ask the chat. And don't DM because you might accidentally DM, you know, a scammer account.
 
-(37:39 - 37:44)
 So just share it in chat. I'm sure we're all usually around. There's many of us usually around, so make sure you do that.
 
-(37:46 - 37:53)
 Yeah. We won't ever call you or anything crazy like that. And yeah, hold tight.
 
-(37:53 - 38:05)
 I will update you. Actually, the next voice chat, I'll see. I'm not sure if we'll do Friday because I'll be, I think I'll leave here in the morning.
 
-(38:07 - 38:16)
 And then I have that conference. So I don't know. Or maybe we will do it like we did at CPAC, but then it's noisy.
 
-(38:17 - 38:25)
 And I don't know, it actually might not be as noisy as CPAC. I don't think this one's definitely not that large of a conference. So we'll see how that goes.
 
-(38:25 - 38:34)
 I might need to reschedule Friday's conference. If I do, it'll be Thursday night likely. But I will keep you all updated.
 
-(38:35 - 38:46)
 App testing will be as soon. The devs are telling me by the end of this week. Like I said, we have some new devs busy.
 
-(38:46 - 39:05)
 We have our attorneys busy. So I'll let you know as soon as that's ready for you all to test. So we could, I mean, technically we could have you all test it right now.
 
-(39:05 - 39:12)
 We just already have the bugs. Like we've tested it as a team. So we already know some bugs.
 
-(39:12 - 39:26)
 So then we don't want you all to test it knowing these bugs. We'd rather fix these bugs and then have you all test it to see if you can find any new bugs, if that makes sense. But yeah.
 
-(39:28 - 39:34)
-Did I do live audio? I don't know. I don't think it was good last time. Well, I haven't listened to the recorded.
+Did I do live audio? I don't know. I don't think it was good last time.
 
-(39:35 - 39:46)
-I think the one posted. I haven't listened to that to see how bad it was. But everybody said it was like the best voice chat ever, probably because they heard other people and realized that I wasn't making it all up.
+Well, I haven't listened to the recorded. I think the one posted. I haven't listened to that to see how bad it was.
 
-(39:49 - 39:56)
-Mine said it was video chat. Was that true? Yeah, it says that on Telegram. But no, I don't think I've ever done a video chat.
+But everybody said it was like the best voice chat ever, probably because they heard other people and realized that I wasn't making it all up. Mine said it was video chat. Was that true?
 
-(39:56 - 40:09)
-I think when we do them on Getter, which I know we need to, once the app is ready, we will move on to Getter. Then I think then they are video. I'm not sure.
+Yeah, it says that on Telegram. But no, I don't think I've ever done a video chat. I think when we do them on Getter, which I know we need to, once the app is ready, we will move on to Getter.
 
-(40:09 - 40:22)
-But I actually have to get ready though. So I don't know about that. But yeah, Mike, where are you? He's probably cooking his bugs for dinner.
+Then I think then they are video. I'm not sure. But I actually have to get ready though.
 
-(40:29 - 40:51)
-No, it's not. But it's not a race. But I'm just like, is anybody else very like cautiously optimistic? Like you're just like, what are they going to do? Because you know, you know, they're doing everything they can.
+So I don't know about that. But yeah, Mike, where are you? He's probably cooking his bugs for dinner.
 
-(40:53 - 41:07)
-They will do everything they can. So that does worry me. They're going to make us like think that, you know, it's like a landslide like it was last time.
+No, it's not. But it's not a race. But I'm just like, is anybody else very like cautiously optimistic?
 
-(41:07 - 41:16)
-And then they'll do what they need to do. Cheaters. Marshall, I'll just stop and watch it.
+Like you're just like, what are they going to do? Because you know, you know, they're doing everything they can. They will do everything they can.
 
-(41:16 - 41:32)
-I honestly don't put anything past them. Oh, yeah, who was it? I think that was you, the people posted the beef article. Not so bad for you after all, as if we didn't know that.
+So that does worry me. They're going to make us like think that, you know, it's like a landslide like it was last time. And then they'll do what they need to do.
 
-(41:41 - 41:48)
+Cheaters. Marshall, I'll just stop and watch it. I honestly don't put anything past them.
+
+Oh, yeah, who was it? I think that was you, the people posted the beef article. Not so bad for you after all, as if we didn't know that.
+
 I think that's everything. If you need anything, please start. If you're in Discord, definitely start a ticket.
 
-(41:48 - 42:13)
 That's a lot better because it doesn't go to my filtered box. Um, but if you do DM me and feel free to DM me, just tag me so I know you have sometimes it goes into the archives or it's just very quickly goes down to the list if a bunch of chats pop up on top. And then I have a few like team chats pinned.
 
-(42:13 - 42:21)
 So anyway, just tag me. Um, or text or call. I think you all have my number.
 
-(42:22 - 42:24)
 Stay healthy. People make you sick. I know.
 
-(42:25 - 42:35)
-You know what it is? It's actually, um, the winter. I was thinking about that today while walking my dogs in the sun. Like as soon as I don't, because I do a lot of, um, fats.
+You know what it is? It's actually, um, the winter. I was thinking about that today while walking my dogs in the sun.
 
-(42:36 - 42:51)
-I eat like 70, 80% fats in the days I'm in ketosis. So it's usually six days a week. Um, I think not getting all the vitamin D, not laying out since that's the UV during, um, wintertime.
+Like as soon as I don't, because I do a lot of, um, fats. I eat like 70, 80% fats in the days I'm in ketosis. So it's usually six days a week.
 
-(42:52 - 42:59)
-So yeah, I'm excited that the sun's back out. Healthy again. Um, but yeah, thank you all so much.
+Um, I think not getting all the vitamin D, not laying out since that's the UV during, um, wintertime. So yeah, I'm excited that the sun's back out. Healthy again.
 
-(42:59 - 43:03)
-Let me know if you need anything else in the meantime. Uh, chill out. If you have any questions, please ask.
+Um, but yeah, thank you all so much. Let me know if you need anything else in the meantime. Uh, chill out.
 
-(43:04 - 43:20)
-Um, I think that's everything. Gosh, you guys. Oh boy, you do.
+If you have any questions, please ask. Um, I think that's everything. Gosh, you guys.
 
-(43:20 - 43:35)
-You need sunlight, especially if you're eating lots of beef and fat. Lots of sunlight to, uh, turn that cholesterol into vitamin D. Goodness. All right.
+Oh boy, you do. You need sunlight, especially if you're eating lots of beef and fat. Lots of sunlight to, uh, turn that cholesterol into vitamin D.
 
-(43:36 - 43:44)
-Um, yeah, I think that's everything. I will post the recording. 43 minutes.
+Goodness. All right. Um, yeah, I think that's everything.
 
-(43:44 - 43:54)
-Okay. I'll post that actually right now before I go on to dinner, because I've been getting distracted by everything else. And then I forget to post it until somebody mentions it.
+I will post the recording. 43 minutes. Okay.
 
-(43:54 - 44:00)
-Uh, so I'll do that right now with a few points. And I'll see you guys in general chat. Have a good night.
+I'll post that actually right now before I go on to dinner, because I've been getting distracted by everything else. And then I forget to post it until somebody mentions it. Uh, so I'll do that right now with a few points.
+
+And I'll see you guys in general chat. Have a good night.

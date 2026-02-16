@@ -1,137 +1,94 @@
-(0:00 - 0:20)
+[Speaker 1]
 I hope everybody's doing well. Hope you all had a good weekend. Let's get right to it.
 
-(0:22 - 0:40)
 The change now issue, actually, I don't think we were aware of the issue last voice chat, or maybe I had just. I'm not sure if I shared that, but that's been fixed. We had change now had an issue with our update on the contract.
 
-(0:41 - 1:06)
 That's all good now, so gift cards are all good. The onRamper wallet bug should be almost complete. We tested it and we're still having the issue because, again, neither me or the devs can reproduce it, but a few of the users in the community are getting it.
 
-(1:06 - 1:14)
 So we're using them to test. As late as a few hours ago. So the devs are working on that.
 
-(1:14 - 1:24)
 Our other dev has been working on the Patriot Perks. You can see a little bit of that. We deployed some of that to the front end a few hours ago.
 
-(1:24 - 1:42)
 So you should see more of the. You'll start seeing more of the functions that we're building on to then integrate into Patriot Perks. I'll let you guys find those.
 
-(1:43 - 2:18)
 But that was pushed a few hours ago for you all to test. Yeah, let me know if you have any issues, because, again, we've tested everything is good on our end. Change now the onRamper bug that we're we got down now to it's happening in a very.
 
-(2:20 - 2:46)
 Very much less often than it was happening before, so we're just covering all this, and it's something that we can easily bandaid, but we are not doing that. The devs are building for, I mean, a lot of it is really just to. It's not just to bandaid it.
 
-(2:46 - 2:52)
 So that's what's taking longer than expected there. And the fact that we can't test it right now. We're gonna have to do it ourselves.
 
-(2:54 - 3:12)
 Let's see. I think we should all be good there. Oh, as far as getting your, for those of you who have sent Matic to the Smart Wallet PPY address.
 
-(3:14 - 3:27)
 The devs, one of the devs is still working on that. Again, just a lot going on there with the Freedom Factory and the Smart Wallet. So I'll let you know as soon as that's complete.
 
-(3:27 - 3:36)
 Estimate was this week. If that changes, I'll definitely let you know. But that's all what the devs are working on.
 
-(3:37 - 3:54)
 You'll start seeing more of the Patriot Pay or the Patriot Perks update soon, and then also the native coins in the Smart Wallet. Let's see. Coffee will be ready this week.
 
-(3:55 - 4:24)
 We are just waiting on a tax form to pick that up. Chancellor's. From the side, it looks like he doesn't have like his dentures in.
 
-(4:25 - 4:32)
 But then I saw a few pictures of him speaking and it seems like he did. I don't know. He sounds how I do with my retainer on.
 
-(4:41 - 4:53)
 These are really good, by the way. I'm hoping they don't, I don't think they should kick me out of ketosis. Waterloo Sparkling Water, but it's a peach flavor.
 
-(4:55 - 5:12)
 Not a big fan of the other flavors, but I also tried the mocktails this weekend. If anybody's into that, they have like a mojito one and a pina colada one at Whole Foods. They also had a like rosé one, but that's kind of weird.
 
-(5:12 - 5:39)
 I don't really want that in a soda water. Shark Tank product, the Shark Tank product owners, we have that and it is all ready. We are just waiting on the coins to be added, the native coins to be added in the wallet.
 
-(5:46 - 6:09)
 We can also, when we post the coffee up, we could also post them with the coffee and just put a coming soon. Give you guys time to start looking into that. Oh, be careful on Discord.
 
-(6:10 - 6:40)
-Apparently there's somebody, actually they messaged me too. Lucy, Lucy something messaging people. Doesn't it show in my messages? Because I removed her as a friend and blocked.
+Apparently there's somebody, actually they messaged me too. Lucy, Lucy something messaging people. Doesn't it show in my messages?
 
-(6:43 - 7:01)
-They got a few DMs from people saying they got a message from Lucy. I have a dog named Lucy, Lucy Lou. Okay, other than that, we haven't really had any tickets.
+Because I removed her as a friend and blocked. They got a few DMs from people saying they got a message from Lucy. I have a dog named Lucy, Lucy Lou.
 
-(7:05 - 7:20)
-The ones I have, I haven't received any response to. Let's see. Our on-ramp, we are, so we're just testing that, the direct on-ramp.
+Okay, other than that, we haven't really had any tickets. The ones I have, I haven't received any response to. Let's see.
 
-(7:23 - 8:14)
-We've been just testing that to make sure that the wallet address issue doesn't happen. Definitely be made this week. Yeah, so it's looking like this month we'll still be able to send out a few emails, probably like in the seven, several hundred, a thousand range, and then we're hoping that if we get enough testing that we can then get advertised on the rally at the end of the month.
+Our on-ramp, we are, so we're just testing that, the direct on-ramp. We've been just testing that to make sure that the wallet address issue doesn't happen. Definitely be made this week.
 
-(8:21 - 8:50)
-Network that televises the rally at the end of the month. Several hundred, thousand emails, sorry, not 700. My brain and eyes are fried from doing paperwork all day.
+Yeah, so it's looking like this month we'll still be able to send out a few emails, probably like in the seven, several hundred, a thousand range, and then we're hoping that if we get enough testing that we can then get advertised on the rally at the end of the month. Network that televises the rally at the end of the month. Several hundred, thousand emails, sorry, not 700.
 
-(9:13 - 9:28)
-Yeah, that's everything on my end. We haven't, thankfully, ran into any dev issues, so hopefully that continues. Go ahead and test out the app.
+My brain and eyes are fried from doing paperwork all day. Yeah, that's everything on my end. We haven't, thankfully, ran into any dev issues, so hopefully that continues.
 
-(9:31 - 9:51)
-The new function added. We'll continue testing that as a dev starts to work on the rest of the Patriot Perks. So that way he can make any changes that he needs to.
+Go ahead and test out the app. The new function added. We'll continue testing that as a dev starts to work on the rest of the Patriot Perks.
 
-(9:53 - 10:11)
-I'm hoping to have the on-ramper bug done within the next 24 hours. We got it down now to only happening in one instance that we know of, and it's pretty specific, so yeah. I think that's it.
+So that way he can make any changes that he needs to. I'm hoping to have the on-ramper bug done within the next 24 hours. We got it down now to only happening in one instance that we know of, and it's pretty specific, so yeah.
 
-(10:12 - 10:33)
-We got a few things printed. We're waiting on those from our designer. Those will be going out with your orders, whether it's coffee or dog treats, stickers, pens.
+I think that's it. We got a few things printed. We're waiting on those from our designer.
 
-(10:33 - 10:54)
-We'll include all that in there. So hopefully by the end of the week, we'll have, if we're still on this schedule that we're on, hopefully the devs don't run into anything major. Then we should have the on-ramper bug fixed completely.
+Those will be going out with your orders, whether it's coffee or dog treats, stickers, pens. We'll include all that in there. So hopefully by the end of the week, we'll have, if we're still on this schedule that we're on, hopefully the devs don't run into anything major.
 
-(10:57 - 11:13)
-We should have the native coins added to smart wallet. We should have at least the coffee listed. Still waiting on the packaging for the dog treats.
+Then we should have the on-ramper bug fixed completely. We should have the native coins added to smart wallet. We should have at least the coffee listed.
 
-(11:13 - 11:34)
-Coffee packages came much sooner. We'll list a few other items too. Yeah, and then again, have you all start testing.
+Still waiting on the packaging for the dog treats. Coffee packages came much sooner. We'll list a few other items too.
 
-(11:37 - 12:24)
-We'll probably have just some mock items that are very, very low priced, and then we will reimburse you. I'm gonna try to get your testing tax refunded too, since after some work I have to do for educational videos, I should be mostly free to do that kind of stuff for the rest of the week, as long as the devs don't need me. We're still waiting on banking, which we'd really like, because I think I told you guys we'll be adding gap pay for gift cards.
+Yeah, and then again, have you all start testing. We'll probably have just some mock items that are very, very low priced, and then we will reimburse you. I'm gonna try to get your testing tax refunded too, since after some work I have to do for educational videos, I should be mostly free to do that kind of stuff for the rest of the week, as long as the devs don't need me.
 
-(12:25 - 12:43)
-But first, we gotta get through Old Glory Bank, so it's just a lot harder with anything crypto-related. So we just have another meeting with them, actually waiting on them to reschedule it. We've had a few meetings.
+We're still waiting on banking, which we'd really like, because I think I told you guys we'll be adding gap pay for gift cards. But first, we gotta get through Old Glory Bank, so it's just a lot harder with anything crypto-related. So we just have another meeting with them, actually waiting on them to reschedule it.
 
-(12:44 - 12:58)
-They just need to do their due diligence, which we understand. But that's everything on my docket. We'll be making the payment for sure this week for the direct on Rambler.
+We've had a few meetings. They just need to do their due diligence, which we understand. But that's everything on my docket.
 
-(13:01 - 13:13)
-Tax forms done. BitQuery, I think I updated you guys last week. That's all on the front end now, those changes.
+We'll be making the payment for sure this week for the direct on Rambler. Tax forms done. BitQuery, I think I updated you guys last week.
 
-(13:14 - 13:43)
-We're doing away with BitQuery. That is everything. P-Bot, thank you.
+That's all on the front end now, those changes. We're doing away with BitQuery. That is everything.
 
-(13:44 - 14:00)
-Oh, oh, that post-audio compression for Mac. Yeah, I read that. It's funny that some people had nothing else to critique, so that was the one thing.
+P-Bot, thank you. Oh, oh, that post-audio compression for Mac. Yeah, I read that.
 
-(14:00 - 14:22)
-Hey, that's good. Kind of hope he keeps going with the same energy he did last night, just because sometimes I feel like he gets a little too excited, which we all love, but trying to get to the mainstream folks. Stacy's still working on the testing refund.
+It's funny that some people had nothing else to critique, so that was the one thing. Hey, that's good. Kind of hope he keeps going with the same energy he did last night, just because sometimes I feel like he gets a little too excited, which we all love, but trying to get to the mainstream folks.
 
-(14:22 - 14:59)
-I didn't think Stacy was working on those. I will ask Stacy to work on the contests, but it's me with the testing refunds. Anything else? Okay, I think that's everything.
+Stacy's still working on the testing refund. I didn't think Stacy was working on those. I will ask Stacy to work on the contests, but it's me with the testing refunds.
 
-(15:02 - 15:11)
-I thought of something, though. We should add an ISO. That would be cool.
+Anything else? Okay, I think that's everything. I thought of something, though.
 
-(15:11 - 15:51)
-What if you're searching to buy something in Marketplace? All right, well, that's all I got. I will update you if I have any updates before Friday, if I have any major updates before then, but we'll probably keep pushing updates your way this week. Yeah, and then go test out the feature in menus.
+We should add an ISO. That would be cool. What if you're searching to buy something in Marketplace?
 
-(15:54 - 16:08)
+All right, well, that's all I got. I will update you if I have any updates before Friday, if I have any major updates before then, but we'll probably keep pushing updates your way this week. Yeah, and then go test out the feature in menus.
+
 I will upload this. I'll upload this with notes right now, but let me know if you need anything else. In the meantime, as always, don't share your info.
 
-(16:09 - 16:29)
 Anybody generally asking to send you free coins is probably a scam, but either way, if it were me, I would just make a new wallet to connect to any other sites and coins and stuff. That way, you just don't lose all your holdings. Let me know if you have any questions.
 
-(16:29 - 16:36)
 You guys know where to find me. Gotta get back to work now. I already had dinner, actually.
 
-(16:36 - 16:45)
 I had dinner a little bit early. So yeah. Thank you all.
 
-(16:45 - 16:47)
 Have a great rest of your week.

@@ -1,27 +1,26 @@
-(0:01 - 1:10)
-Hello, happy Friday. Hope everybody had a great week. We've had a pretty productive week in PatriotPay world. 
+[Speaker 1]
+Hello, happy Friday. Hope everybody had a great week. We've had a pretty productive week in PatriotPay world.
 
-Let's get right to it. So our first education video will be posted this weekend on social media and to the app. The first several videos probably won't be very educational for any of you all because we are starting out very basic, super super basic, based on questions that we're receiving in email or through the live chat in the app of all the new users that have been signing up. 
+Let's get right to it. So our first education video will be posted this weekend on social media and to the app. The first several videos probably won't be very educational for any of you all because we are starting out very basic, super super basic, based on questions that we're receiving in email or through the live chat in the app of all the new users that have been signing up.
 
 But that should be pretty exciting since that's, like we've discussed before, that's what we plan to set us apart from other DeFi apps but also to provide value through social media. Hopefully help make a difference and introduce a lot of new users to DeFi and help them understand DeFi a little bit better. So I'll let you know as soon as those are posted.
 
-(1:11 - 4:15)
-As far as the direct on-ramp into the app, we are waiting on a third party for a minor issue on their end with the API. I will keep you updated as soon as that's complete. That is the final step to get that direct on-ramp integrated into the app. 
+As far as the direct on-ramp into the app, we are waiting on a third party for a minor issue on their end with the API. I will keep you updated as soon as that's complete. That is the final step to get that direct on-ramp integrated into the app.
 
-With the marketplace purchases, I have sent the few of you who are having issues DMs. If you could please check your DMs and reply with the information needed, that would help us out. We're not getting those bugs on our end so we really need to log what's happening on your end to get that information and see what's happening. 
+With the marketplace purchases, I have sent the few of you who are having issues DMs. If you could please check your DMs and reply with the information needed, that would help us out. We're not getting those bugs on our end so we really need to log what's happening on your end to get that information and see what's happening. I've tried, or the devs have tried rather, logging it with the information you've all provided us so far.
 
-I've tried, or the devs have tried rather, logging it with the information you've all provided us so far. We just need a little bit more information. So again, please check your DMs for me that I've replied to your other DMs and just requested some more info. 
+We just need a little bit more information. So again, please check your DMs for me that I've replied to your other DMs and just requested some more info. That would really help us out.
 
-That would really help us out. We are waiting on you for that so we can list some other items in the marketplace. The winner for the last contest was wallet number seven, or purchase number seven, ending in CB89. 
+We are waiting on you for that so we can list some other items in the marketplace. The winner for the last contest was wallet number seven, or purchase number seven, ending in CB89. If those were the last four of your wallet, please reach out and provide a mailing address where you'd like the coffee sent.
 
-If those were the last four of your wallet, please reach out and provide a mailing address where you'd like the coffee sent. Congrats on that. The last thing is the auto PPY buys that code is still being tweaked by our team. 
+Congrats on that. The last thing is the auto PPY buys that code is still being tweaked by our team. I will let you know as soon as that's complete and as soon as it's live for you all to test.
 
-I will let you know as soon as that's complete and as soon as it's live for you all to test. That's everything on my end. Go ahead and if you guys want to check out Conservative Ant's post, if you want to like, comment on that, or share it, that would really help us out. 
+That's everything on my end. Go ahead and if you guys want to check out Conservative Ant's post, if you want to like, comment on that, or share it, that would really help us out. If you know anybody that's been wanting to buy PPY recently, we do have a buy 20 get 20 for all new users.
 
-If you know anybody that's been wanting to buy PPY recently, we do have a buy 20 get 20 for all new users. We will manually go through those to send that extra $20 worth of PPY. It'll just be for new users. 
+We will manually go through those to send that extra $20 worth of PPY. It'll just be for new users. Again, if you know anybody, go ahead and take advantage of that.
 
-Again, if you know anybody, go ahead and take advantage of that. That's all I have. I will let you know if I get any updates before the next voice chat. 
+That's all I have. I will let you know if I get any updates before the next voice chat. Let me know if you have any questions.
 
-Let me know if you have any questions. In the meantime, we will be moving towards this style of updates. Of course, I'm still here to answer any issues you're having. 
+In the meantime, we will be moving towards this style of updates. Of course, I'm still here to answer any issues you're having. As far as updates, this is the style we'll be moving to for the best interest of everybody.
 
-As far as updates, this is the style we'll be moving to for the best interest of everybody. I hope you guys have a great weekend. I'll see you in general chat.
+I hope you guys have a great weekend. I'll see you in general chat.

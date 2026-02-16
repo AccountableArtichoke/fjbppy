@@ -1,110 +1,90 @@
-(0:13 - 0:26)
+[Speaker 1]
 It's a pretty productive week here, actually. Just a solid path, but in a good way. Everything's gone exactly as planned for the most part.
 
-(0:27 - 0:44)
 And got a lot done. You've all seen the email that went out today. We'll have more and more of those going out to all of our app users.
 
-(0:45 - 1:14)
-And everybody who's signed up. We also should still be getting our coffee before the end of the month. Same with the dog treats. 
+And everybody who's signed up. We also should still be getting our coffee before the end of the month. Same with the dog treats.
 
 I'm very excited about that. I actually just need to order the labels. I think that's everything we should be Everyone should be here in time.
 
-(1:14 - 1:26)
 I will let you know if that changes. Our direct on ramp. We're waiting on a little detail from the third party regarding that.
 
-(1:28 - 2:11)
-We're also still dealing with a bug with the third party. Some of you are experiencing a bug that when you go in the app to purchase Matic it doesn't auto populate your wallet. So we're still working with the third party to solve that bug. 
+We're also still dealing with a bug with the third party. Some of you are experiencing a bug that when you go in the app to purchase Matic it doesn't auto populate your wallet. So we're still working with the third party to solve that bug.
 
 Because we've had some new users already running into that issue, then they're going in and grabbing the wrong wallet address and causing a little bit of a mess. I think that's everything. I think that's all the updates.
 
-(2:12 - 2:47)
-We've been testing a bit today as you all have seen. All the changes in the app should be live now. So now you all can list items in the classified section. 
+We've been testing a bit today as you all have seen. All the changes in the app should be live now. So now you all can list items in the classified section.
 
 Anything that you want to sell or list and sell to anybody else. Anything you want to ship. If you list an item, other users should be able to message you to ask questions.
 
-(2:48 - 3:11)
-I do recommend having We'll add more details to make it a little bit more automated. But I do recommend figuring out your shipping costs. Whether you want to include that in there and make that just a flat shipping rate for anywhere in the U.S. for example.
-
-(3:12 - 3:36)
-Or if it's a heavier item. If you want to have users message you their zip code and figure it out that way. I recommend getting little details like that out of the way just to make it a little bit easier for anybody looking at your item. 
+I do recommend having We'll add more details to make it a little bit more automated. But I do recommend figuring out your shipping costs. Whether you want to include that in there and make that just a flat shipping rate for anywhere in the U.S. for example. Or if it's a heavier item. If you want to have users message you their zip code and figure it out that way. I recommend getting little details like that out of the way just to make it a little bit easier for anybody looking at your item.
 
 They're going to be more likely to purchase your item. All that information is there. Give as many details as possible.
 
-(3:40 - 3:49)
 I think that's about it. We'll see how it goes. We'll definitely be adding more features to just keep everybody protected.
 
-(3:51 - 4:04)
 You are welcome to start using that. I'm excited to see what items come for sale on the classifieds. I want to buy some stuff.
 
-(4:07 - 4:18)
 As far as businesses, I think I updated you guys on Tuesday. We've actually had a few more businesses reach out since then. So that's been really, really cool.
 
-(4:18 - 4:34)
 I wasn't really expecting that. I'm assuming a lot of these people are actually users. We are getting from advertising the app to social media versus current users.
 
-(4:47 - 5:15)
-Any questions and DMs other than pretty high priority stuff that we've all taken care of? It looks like some of you have had friends, whether they're banks or the app is telling them that the purchase went through and then it doesn't actually hit their bank. So if that's the case, then definitely have your friends contact their banks. I got a few of those on Discord today.
+Any questions and DMs other than pretty high priority stuff that we've all taken care of? It looks like some of you have had friends, whether they're banks or the app is telling them that the purchase went through and then it doesn't actually hit their bank. So if that's the case, then definitely have your friends contact their banks.
 
-(5:17 - 5:28)
-Some banks have, again, two departments you need to go through. One, just to make sure it's not a fraud transaction, but another to actually just locate crypto. Just make sure people are aware of that.
+I got a few of those on Discord today. Some banks have, again, two departments you need to go through. One, just to make sure it's not a fraud transaction, but another to actually just locate crypto.
 
-(5:29 - 7:10)
-And credit cards in general. As far as I know, most credit cards won't let you buy crypto, so it definitely does need to be a debit card. You also should be able to now purchase items in the marketplace. 
+Just make sure people are aware of that. And credit cards in general. As far as I know, most credit cards won't let you buy crypto, so it definitely does need to be a debit card.
 
-If you do run into any issues now, then please let me know. The transactions will take a while because you'll see the spinning circle on your screen processing. It might take a minute or two just because when you are paying the business that has to Oh God, not done. 
+You also should be able to now purchase items in the marketplace. If you do run into any issues now, then please let me know. The transactions will take a while because you'll see the spinning circle on your screen processing.
 
-Please no. That PPY does have to swap into USDT. So all that takes a few seconds.
+It might take a minute or two just because when you are paying the business that has to Oh God, not done. Please no. That PPY does have to swap into USDT.
 
-(7:10 - 7:27)
-So just be patient with that. But if you do receive any errors, please let me know. I know a few of you were testing before we actually had that live.
+So all that takes a few seconds. So just be patient with that. But if you do receive any errors, please let me know.
 
-(7:27 - 7:49)
-So definitely, if you did do that and make a payment, reach out to me so I know who you are. And if you made more than one transaction, that way I can refund you. So please reach out in DMs with either the transaction hash or your wallet address so we can get you squared away there.
+I know a few of you were testing before we actually had that live. So definitely, if you did do that and make a payment, reach out to me so I know who you are. And if you made more than one transaction, that way I can refund you.
 
-(7:50 - 8:14)
-But just a reminder, try not to test until we ask you to. Usually with some of the marketplace listings, those are seen as we actually list them in the development app. They also become live in the production app on you guys on the live end.
+So please reach out in DMs with either the transaction hash or your wallet address so we can get you squared away there. But just a reminder, try not to test until we ask you to. Usually with some of the marketplace listings, those are seen as we actually list them in the development app.
 
-(8:14 - 8:55)
-So that's why there's not a way around that for us right now. That's why you all see those listings as soon as they're live, even though we were still working on them and testing. When will we be able to buy more than $600 worth of PPY at a time with the app and chain? So this is likely a change now.
+They also become live in the production app on you guys on the live end. So that's why there's not a way around that for us right now. That's why you all see those listings as soon as they're live, even though we were still working on them and testing.
 
-(8:55 - 9:37)
-Last time I checked at least. A change now limit, but I will check on that for you and I'll also see what we can do on our end so users are correctly so that users are correctly loaded, I thought. Awesome. 
+When will we be able to buy more than $600 worth of PPY at a time with the app and chain? So this is likely a change now. Last time I checked at least.
 
-Thank you. Yeah, I appreciate that. I definitely appreciate this input because we've all been here for so long that we're not running into that.
+A change now limit, but I will check on that for you and I'll also see what we can do on our end so users are correctly so that users are correctly loaded, I thought. Awesome. Thank you.
 
-(9:41 - 10:07)
-So yeah, I'll definitely get back to you on that as soon as I can. No, Donnie, sorry. Anybody else would like to speak? Anybody but Donnie.
+Yeah, I appreciate that. I definitely appreciate this input because we've all been here for so long that we're not running into that. So yeah, I'll definitely get back to you on that as soon as I can.
 
-(10:09 - 10:24)
-Feel free to raise your hand. So is it safe to pre-order the copy on the app now? Yes. Yes, and if you have any issues, please let me know.
+No, Donnie, sorry. Anybody else would like to speak? Anybody but Donnie.
 
-(10:24 - 11:11)
-If you already made a payment and had your order go through, you do not need to do that again. If you already made multiple orders and need a refund, definitely contact me if you've just made your one order. Make sure you, when you put in an order though, make sure you message that item with your address and your wallet address. 
+Feel free to raise your hand. So is it safe to pre-order the copy on the app now? Yes.
 
-Your wallet address should populate, but just again, if you want to be extra safe and just skip this step. I'll put in your shipping address there and we will, of course, let you know as soon as we get that in. Again, we're still on track to have everything before the end of the month.
+Yes, and if you have any issues, please let me know. If you already made a payment and had your order go through, you do not need to do that again. If you already made multiple orders and need a refund, definitely contact me if you've just made your one order.
 
-(11:38 - 12:23)
-How do I access Marketplace? So in your app, go into the menu that should be on the top right and from there you should see a drop down and you should be able to hit on Marketplace now and you'll be able to see the business and classifieds. If you all do list classifieds, it does need to be approved and the pop-up will let you know. It is so freaking hot today.
+Make sure you, when you put in an order though, make sure you message that item with your address and your wallet address. Your wallet address should populate, but just again, if you want to be extra safe and just skip this step. I'll put in your shipping address there and we will, of course, let you know as soon as we get that in.
 
-(12:33 - 13:11)
-Excuse me. Can we expect to see more influencers introduced this month? Not sure about that because our issue right now is not getting people to try the app. It's getting people to actually buy once they are in the app.
+Again, we're still on track to have everything before the end of the month. How do I access Marketplace? So in your app, go into the menu that should be on the top right and from there you should see a drop down and you should be able to hit on Marketplace now and you'll be able to see the business and classifieds.
 
-(13:13 - 13:38)
+If you all do list classifieds, it does need to be approved and the pop-up will let you know. It is so freaking hot today.
+
+[Speaker 2]
+Excuse me.
+
+[Speaker 1]
+Can we expect to see more influencers introduced this month? Not sure about that because our issue right now is not getting people to try the app. It's getting people to actually buy once they are in the app.
+
 So we are using different strategies to get that to happen because the issue is not getting people. We're getting plenty of people getting on the app and touring the app, I would say. I'll keep you updated on that.
 
-(13:41 - 14:19)
-Are there any ways to have some kind of pop-up or marketplace to add to our ship address in Marketplace? We are working and will continue working to make the marketplace steps more user friendly and just more intuitive and more automated. So we're not sure exactly yet how that's going to happen but that's something we're working on just because it's so many factors. One example being the messaging system for the wallets.
+Are there any ways to have some kind of pop-up or marketplace to add to our ship address in Marketplace? We are working and will continue working to make the marketplace steps more user friendly and just more intuitive and more automated. So we're not sure exactly yet how that's going to happen but that's something we're working on just because it's so many factors.
 
-(14:20 - 15:26)
-That only works a very specific way but like us growing, a lot of these companies like for example in this instance the messaging system, they're actually adding the feature that we want or that we need to make it a little bit more intuitive on our end and that's something they're discussing on their platforms and their websites and their educational material right now so we're hoping that that happens as soon as they're hoping that that doesn't take too much longer. Definitely we'll continue making that as easy as possible so that people aren't coming in or emailing like hey I paid for this a week ago I still haven't received anything and that you all don't need to be answering these kinds of questions. I don't need to be answering these kinds of questions.
+One example being the messaging system for the wallets. That only works a very specific way but like us growing, a lot of these companies like for example in this instance the messaging system, they're actually adding the feature that we want or that we need to make it a little bit more intuitive on our end and that's something they're discussing on their platforms and their websites and their educational material right now so we're hoping that that happens as soon as they're hoping that that doesn't take too much longer. Definitely we'll continue making that as easy as possible so that people aren't coming in or emailing like hey I paid for this a week ago I still haven't received anything and that you all don't need to be answering these kinds of questions. I don't need to be answering these kinds of questions.
 
-(15:33 - 28:05)
-So what's the marketing plan to increase volume? We will continue to see that as it goes live. Let's see, has anybody listed a shout out to our devs by the way for doing an excellent job recently and putting in a hell of a lot of hours to make sure everything is running smoothly as you all see it on the front end. We haven't classified products yet. 
+So what's the marketing plan to increase volume? We will continue to see that as it goes live. Let's see, has anybody listed a shout out to our devs by the way for doing an excellent job recently and putting in a hell of a lot of hours to make sure everything is running smoothly as you all see it on the front end.
 
-Got excited I thought I was going to have listings to approve. Thank you. I am glad. 
+We haven't classified products yet. Got excited I thought I was going to have listings to approve. Thank you.
 
-Everybody's been amazing. Devs influencers partners who've done so much for us our marketing team our graphic designer our advisor everybody that's been amazing anything else I have to work on some things with devs I'll take a rest for the night devs have to talk to some business owners asking for their items to be listed some educational video material we're waiting on the third party to work out this bug so we can get a how to by the way even in the app. We'll get pictures of the beans of the actual packages as soon as we get those in please get Pulso's book listed you can contact him. 
+I am glad. Everybody's been amazing. Devs influencers partners who've done so much for us our marketing team our graphic designer our advisor everybody that's been amazing anything else I have to work on some things with devs I'll take a rest for the night devs have to talk to some business owners asking for their items to be listed some educational video material we're waiting on the third party to work out this bug so we can get a how to by the way even in the app.
 
-He's actually Pulso was one of our guys before when we were FJB so he wants to send us his book here we'd be more than happy to do that why are your wallets block listed a couple days ago? wallets are always block listed for the correct reasons although we don't always give people details I don't think there's any reason to nobody gets block listed unless it's been proven to be a naughty, naughty wallet to protect the holders so we have the contest. Don't forget the contest going to share Lydia's post from today her reel. If you like, comment share that. 
+We'll get pictures of the beans of the actual packages as soon as we get those in please get Pulso's book listed you can contact him. He's actually Pulso was one of our guys before when we were FJB so he wants to send us his book here we'd be more than happy to do that why are your wallets block listed a couple days ago? wallets are always block listed for the correct reasons although we don't always give people details I don't think there's any reason to nobody gets block listed unless it's been proven to be a naughty, naughty wallet to protect the holders so we have the contest.
 
-Each one of those is an entry but we're also going to do another contest if you list your item in marketplace let's start that one after the other contest is over just because we're working on a security feature to keep you all protected so let's run that I think we'll start that out Sunday but you can start thinking about any items you'd like to list again, these can't be business items so these are for classified just like a marketplace and offer up ebay not business items it'll be fun look through and see if you have anything to say okay, I think that's everything I have. Oh no, you don't have to wait, Mike I mean, yeah, okay, I guess probably a good idea to wait until we have the security feature spoke too soon okay, I think that's everything I got as always, please remember to be very careful, don't send funds to anybody so, do we put the US dollar amount for the sell amount for classifieds? Yes so the dollar amount that you want it to sell at keep in mind that percentage will go to tax when they transfer that over and then keep in mind, of course, shipping so definitely keep that in mind, and then you can always lower the price people can always offer you a lower price, so keep that in mind listings will expire automatically 30 days if they're not sold, and then you're welcome to delete your listing you're welcome to re-list your listing by re-listing, you actually have to re-list it versus just the re-list button for now but yeah, the reason we're putting the US dollar amount on there is for the same reasons we're putting that on the coffees and the dog treats and the stickers, is just that as PPY fluctuates that way, for the time being, you can still get the amount that you want um, yeah I think it'll be really fun so we're just having the devs really get every little detail of this down, along with obviously working on other bugs behind the scenes here we have with the basic functions of the app that we're still working on that direct listing, we should still be good for very very soon, compared to the initial 6 month timeline that we were given which is awesome I will keep you all updated on that I think that should make everything even easier but again, we will, as soon as that little bug is worked out, having to enter your Matic wallet address or whatever coin you're purchasing, we'll have a video go out of how to purchase even from the app, just because I think we've been here for so long that even to us that's easy, but you'd be surprised how many people are still getting stuck there which is where the direct listing, I think we'll take care of that and the how-to videos and just adding little notes and steps in the app to help with that our little chat feature has been really helpful too because, you know, it's a lot quicker, I think people, if they have a chat icon there to go ahead and type to that and go through an email but, I think that's everything I got please keep your account secure, don't share any information don't send anybody any money, be very careful with that yeah, let me know if you need anything else, in the meantime, I'm gonna grab a bite to eat, I have been, I don't know, I've been starving after surgery, I don't, it's so weird so after I eat dinner, I will get back to this stuff, and also get the recording with some notes posted let me know if you guys need anything else, in the meantime, have a great weekend don't forget to like, share, and comment on Lydia's post, I saw some comments and questions from other people on there, it always looks better if you guys answer those type of questions versus, like, me doing it, right, because if I'm doing it from the Patriot Pay account, it's like, ah, of course, versus you the supporters and believers of the project doing that, so, if you have a minute, do that may as well, and it also gets you an entry for the contest you all have a wonderful night, and we will talk soon, I'll let you know if I have any updates, obviously, before Tuesday I'll definitely update you here, and ask you if I need anything specifically to be tested too have a great night
+Don't forget the contest going to share Lydia's post from today her reel. If you like, comment share that. Each one of those is an entry but we're also going to do another contest if you list your item in marketplace let's start that one after the other contest is over just because we're working on a security feature to keep you all protected so let's run that I think we'll start that out Sunday but you can start thinking about any items you'd like to list again, these can't be business items so these are for classified just like a marketplace and offer up ebay not business items it'll be fun look through and see if you have anything to say okay, I think that's everything I have.
+
+Oh no, you don't have to wait, Mike I mean, yeah, okay, I guess probably a good idea to wait until we have the security feature spoke too soon okay, I think that's everything I got as always, please remember to be very careful, don't send funds to anybody so, do we put the US dollar amount for the sell amount for classifieds? Yes so the dollar amount that you want it to sell at keep in mind that percentage will go to tax when they transfer that over and then keep in mind, of course, shipping so definitely keep that in mind, and then you can always lower the price people can always offer you a lower price, so keep that in mind listings will expire automatically 30 days if they're not sold, and then you're welcome to delete your listing you're welcome to re-list your listing by re-listing, you actually have to re-list it versus just the re-list button for now but yeah, the reason we're putting the US dollar amount on there is for the same reasons we're putting that on the coffees and the dog treats and the stickers, is just that as PPY fluctuates that way, for the time being, you can still get the amount that you want um, yeah I think it'll be really fun so we're just having the devs really get every little detail of this down, along with obviously working on other bugs behind the scenes here we have with the basic functions of the app that we're still working on that direct listing, we should still be good for very very soon, compared to the initial 6 month timeline that we were given which is awesome I will keep you all updated on that I think that should make everything even easier but again, we will, as soon as that little bug is worked out, having to enter your Matic wallet address or whatever coin you're purchasing, we'll have a video go out of how to purchase even from the app, just because I think we've been here for so long that even to us that's easy, but you'd be surprised how many people are still getting stuck there which is where the direct listing, I think we'll take care of that and the how-to videos and just adding little notes and steps in the app to help with that our little chat feature has been really helpful too because, you know, it's a lot quicker, I think people, if they have a chat icon there to go ahead and type to that and go through an email but, I think that's everything I got please keep your account secure, don't share any information don't send anybody any money, be very careful with that yeah, let me know if you need anything else, in the meantime, I'm gonna grab a bite to eat, I have been, I don't know, I've been starving after surgery, I don't, it's so weird so after I eat dinner, I will get back to this stuff, and also get the recording with some notes posted let me know if you guys need anything else, in the meantime, have a great weekend don't forget to like, share, and comment on Lydia's post, I saw some comments and questions from other people on there, it always looks better if you guys answer those type of questions versus, like, me doing it, right, because if I'm doing it from the Patriot Pay account, it's like, ah, of course, versus you the supporters and believers of the project doing that, so, if you have a minute, do that may as well, and it also gets you an entry for the contest you all have a wonderful night, and we will talk soon, I'll let you know if I have any updates, obviously, before Tuesday I'll definitely update you here, and ask you if I need anything specifically to be tested too have a great night

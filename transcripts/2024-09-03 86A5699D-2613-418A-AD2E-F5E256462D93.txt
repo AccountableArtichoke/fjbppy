@@ -1,140 +1,98 @@
-(0:04 - 0:15)
+[Speaker 1]
 I hope everybody had a safe Labor Day. Hope you most of you probably enjoyed the day off with you in the States. Hope you enjoyed yourselves.
 
-(0:16 - 0:33)
 All right, let's get right to it. So let's get this knocked out first. So we obviously continue to do voice chats because we know the majority of you love them and appreciate them.
 
-(0:35 - 0:47)
 Your enthusiasm, your participation. It's what makes the community what it is. This is, this goes back years for those of you that have been here that long, months.
 
-(0:48 - 1:10)
 Actually, it's been over a year now, even since Steve and Boris were, you know, discussing different options. And this is all why we're still here because of all you guys. But to continue providing the valuable updates and just to make sure we maintain the standards and confidentiality that we've set.
 
-(1:10 - 1:32)
 We're just going to refocus these calls on delivering important updates and announcements. If you have questions, feel free to send them to my DM box from now on to make sure I cover what I can cover in the voice chats. This is just kind of let us, you know, keep you all informed.
 
-(1:32 - 1:43)
 But also protect the best interest of the organization and the community. You know, there are some things. I mean, it's standard practice in the industry.
 
-(1:43 - 1:57)
 For example, developers, other team members to remain anonymous. And we're going to continue upholding that to protect both the team and the integrity of our work. You know, we've said this since the beginning.
 
-(1:57 - 2:28)
 Since we made changes, we're committed to doing things the right way and always just prioritizing the best interest of the organization and therefore you guys, the community. Our decisions will continue to be guided by our team that has a combined several decades of experience in this specific industry. So while I understand most of you all are brilliant in your specific fields, you know, business owner, what have you.
 
-(2:29 - 2:54)
 We'll continue using, you know, our team members who have very specific experience in our industry to make the decisions and we'll rely on that. That's who we trust to continue, you know, steering us forward. And of course, again, that's not to say we don't all appreciate you being here.
 
-(2:54 - 3:08)
 We don't appreciate all your input. You guys, there's so many ideas even, you know, going back all the way to the fork. We used so much of your input to create that contract and even move forward.
 
-(3:10 - 3:24)
-So, want to get that out of the way? I feel like we need a little reminder every once in a while. You know, it's not, we of course appreciate you all but on the same token, we don't force anybody to be here. We don't lock wallets.
+So, want to get that out of the way? I feel like we need a little reminder every once in a while. You know, it's not, we of course appreciate you all but on the same token, we don't force anybody to be here.
 
-(3:24 - 3:30)
-We don't restrict access and I've seen people say like, oh, we should be happy. You know, you're saying we should be happy. You don't lock wallets.
+We don't lock wallets. We don't restrict access and I've seen people say like, oh, we should be happy. You know, you're saying we should be happy.
 
-(3:30 - 4:00)
-No, but that's something that was done before that is still done in many of these tokens. That's just to say it like we are not forcing you to be here. So if you do, you know, if you do not trust the team or if you don't trust the experts that we use to make these decisions, then if it were me, I would probably find a project where I do trust the team to make the decisions they're making and not to say again, we timeline issues.
+You don't lock wallets. No, but that's something that was done before that is still done in many of these tokens. That's just to say it like we are not forcing you to be here.
 
-(4:00 - 4:30)
-I mean again, this is not only in the software development world, but in the crypto world in general with these even the biggest of companies have these issues. You know, we've repeated again and again that our number one goal, number one priority is to do things the right way and build the correct foundation. I think we've said for probably at least over a year now that our number one priority is not timelines.
+So if you do, you know, if you do not trust the team or if you don't trust the experts that we use to make these decisions, then if it were me, I would probably find a project where I do trust the team to make the decisions they're making and not to say again, we timeline issues. I mean again, this is not only in the software development world, but in the crypto world in general with these even the biggest of companies have these issues. You know, we've repeated again and again that our number one goal, number one priority is to do things the right way and build the correct foundation.
 
-(4:31 - 5:09)
-We're still doing everything we can do within our resources, you know, sure if we had, you know, millions of dollars, would we be able to get it done faster? Sure, if we had a huge, you know, much more volume with these companies prioritize us. I'm sure yes, because when we did have more volume they did but just feel like that's a little reminder. I know open communication is key and I think I've been as transparent as I could be with you all and I understand as the face of the organization.
+I think we've said for probably at least over a year now that our number one priority is not timelines. We're still doing everything we can do within our resources, you know, sure if we had, you know, millions of dollars, would we be able to get it done faster? Sure, if we had a huge, you know, much more volume with these companies prioritize us.
 
-(5:09 - 6:00)
-Of course, it's my job to you know, take the hits of when these timelines don't get hit, but we do for the most part work with humans. Some of our team members like question because they're so freaking perfect, but for the most part we're working with humans including other organizations and that includes even people we're advertising with that drop the ball sometimes like it's happening and just because I don't share that with you all on you know again in the best interest of our organization doesn't mean that it's not happening. So personal attacks towards me and threats won't be tolerated a reminder there, you know, you're more than welcome.
+I'm sure yes, because when we did have more volume they did but just feel like that's a little reminder. I know open communication is key and I think I've been as transparent as I could be with you all and I understand as the face of the organization. Of course, it's my job to you know, take the hits of when these timelines don't get hit, but we do for the most part work with humans.
 
-(6:00 - 6:16)
-I don't care what you know, DM's whatever stuff like that, but threat won't be tolerated. So that's all about that. Let's move on to the updates.
+Some of our team members like question because they're so freaking perfect, but for the most part we're working with humans including other organizations and that includes even people we're advertising with that drop the ball sometimes like it's happening and just because I don't share that with you all on you know again in the best interest of our organization doesn't mean that it's not happening. So personal attacks towards me and threats won't be tolerated a reminder there, you know, you're more than welcome. I don't care what you know, DM's whatever stuff like that, but threat won't be tolerated.
 
-(6:17 - 6:34)
-I shared with you all before that our direct on-ramp is still on track to be very comfortably be done in September. That is still the case. Yeah, I will keep you updated on that.
+So that's all about that. Let's move on to the updates. I shared with you all before that our direct on-ramp is still on track to be very comfortably be done in September.
 
-(6:34 - 6:52)
-Very happy with how that's going. Let's see our one of our developers is completely done with a function. We will start testing that I'll let you know how that goes.
+That is still the case. Yeah, I will keep you updated on that. Very happy with how that's going.
 
-(6:52 - 7:14)
-We both you all can start testing it as soon as they work out any bugs with the team testing it. As far as marketing goes we so we have the two spots for the Candace Owens events. Those are in the second half of September.
+Let's see our one of our developers is completely done with a function. We will start testing that I'll let you know how that goes. We both you all can start testing it as soon as they work out any bugs with the team testing it.
 
-(7:14 - 7:40)
-We just got an email about two hours ago regarding something in the first half of September and we will know tomorrow. Hoping that they keep their word on their end. I'll let you know as soon as that is finalized date on that.
+As far as marketing goes we so we have the two spots for the Candace Owens events. Those are in the second half of September. We just got an email about two hours ago regarding something in the first half of September and we will know tomorrow.
 
-(7:41 - 7:57)
-That should be great. They already have our script or graphics everything for that. And then we have emails going out to some pretty big lists mid-September.
+Hoping that they keep their word on their end. I'll let you know as soon as that is finalized date on that. That should be great.
 
-(7:58 - 8:21)
-That'll be in the first first second half. We should be you should be seeing some influencer posts and I'll go ahead and share those this week. Last time we got some pretty good signups from this one.
+They already have our script or graphics everything for that. And then we have emails going out to some pretty big lists mid-September. That'll be in the first first second half.
 
-(8:21 - 9:04)
-So I expect a really good deal there. We're also going to be running a contest so that hopefully let's or encourages users to buy PPY. Don't even care that people are mean to me.
+We should be you should be seeing some influencer posts and I'll go ahead and share those this week. Last time we got some pretty good signups from this one. So I expect a really good deal there.
 
-(9:04 - 9:21)
-I think it's just spreading that into other side chats with conspiracies. They think that it starts hurting your own wallets. I'd rather you all be mean to me than each other.
+We're also going to be running a contest so that hopefully let's or encourages users to buy PPY. Don't even care that people are mean to me. I think it's just spreading that into other side chats with conspiracies.
 
-(9:26 - 9:33)
-Dev wallet has been deploying the scheduled contracts. Looks like auto buys of PPY. Can you elaborate? Yes.
+They think that it starts hurting your own wallets. I'd rather you all be mean to me than each other. Dev wallet has been deploying the scheduled contracts.
 
-(9:33 - 9:48)
+Looks like auto buys of PPY. Can you elaborate? Yes.
+
 So I think I answered a little bit on that on the last call. We'll be adding this to Patriot perks. Our goal with the scheduled PPY buys is for users to schedule example every Friday.
 
-(9:48 - 10:20)
 I want my PPY wallet to buy I don't know 1 million PPY you set the amount and your wallet will automatically buy 1 million PPY every Friday. We are working on some discounts for users that use that function. So I think that's fun a little bit of the like I said the with the roadmap.
 
-(10:21 - 10:43)
 We did switch quite a few things around just with the way they worked into priority. So Patriot perks is one of those and we'll we'll add the specifics of the Patriot perks as far as the levels go right now. We have five levels which all start at Patriot.
 
-(11:06 - 11:25)
 Yeah, everything everything devs wise they're working on getting or accessing that Matic if you all are sending it to the wrong address again, still not sure if we're going to be able to do that still working on it doing everything. We can if it is possible. We will get it done.
 
-(11:27 - 12:21)
 Also the on-ramp some items on our end for the direct on-ramp and off-ramp which should be super super exciting. Most everything else has just been marketing work. Dog treats update on dog treats are in so with those just working on the price point that we had with the shipping they were a lot heavier than we thought.
 
-(12:23 - 12:44)
-Do you know how to catch a mouse? Oh my gosh. Remember when I got one and that turned into two? I think they ended up eating. What was it? I don't remember how those cheeses and then a crap ton of peppermint put like peppermint in it.
+Do you know how to catch a mouse? Oh my gosh. Remember when I got one and that turned into two?
 
-(12:44 - 12:55)
+I think they ended up eating. What was it? I don't remember how those cheeses and then a crap ton of peppermint put like peppermint in it.
+
 Well, if you don't have like be careful of other animals peppermint in a diffuser you have to go. I don't know gross me out. Okay.
 
-(12:56 - 13:30)
 Well, I think that's everything again. If you have any questions during the week, please feel free to go ahead and send those in from now on I will be posting the updates along with the voice chats and and posting those directly after a little bit more than Q&A. If you DM me your questions, I will answer what I can.
 
-(13:33 - 13:57)
 So other than that, yeah, we'll go back to that. It's like the question answer part is causing a lot more trouble than it is helping. So there is a reminder to with the remember tomorrow is the scheduled polygon switch.
 
-(13:57 - 14:15)
 So instead of Matic, it'll show as polygon should go smoothly, but you never know. Please be aware of that. If your Matic or your coins are not showing up in your wallets, I would hold tight.
 
-(14:15 - 15:00)
-I would not delete my app or uninstall my app or disconnect. So just hold tight and I think that'll be a lot less chance of anything wrong happening again when some trust wallet changes or app changes have happened before users have gone to delete the app, you know thinking it's something on their phone and then when they go back to reinstall have either reinstalled the wrong app or connected to a wrong extension that ended up being the phishing app or a phishing extension meant to scam you. So please be very careful.
+I would not delete my app or uninstall my app or disconnect. So just hold tight and I think that'll be a lot less chance of anything wrong happening again when some trust wallet changes or app changes have happened before users have gone to delete the app, you know thinking it's something on their phone and then when they go back to reinstall have either reinstalled the wrong app or connected to a wrong extension that ended up being the phishing app or a phishing extension meant to scam you. So please be very careful. We'll be around if you have any questions, but yeah, I would I would hold tight and just not mess with it just in case it doesn't go as planned or if they have any bugs or glitches.
 
-(15:00 - 15:20)
-We'll be around if you have any questions, but yeah, I would I would hold tight and just not mess with it just in case it doesn't go as planned or if they have any bugs or glitches. Will app update automatically to show polygon? No, not automatically. The devs will be pushing that through to show polygon on their client.
+Will app update automatically to show polygon? No, not automatically. The devs will be pushing that through to show polygon on their client.
 
-(15:22 - 15:51)
 But the your tokens and everything should be automatic and that is per per polygon. So hopefully it goes as smooth as they say it will but again, we'll be around if you have any questions, but I would just not mess with it and just wait for it to work itself out. If you do see any wonky stuff in your wallet.
 
-(15:52 - 16:27)
 Less chance of messing anything up that way. That's everything I got I will post this right now with some updates. And then we'll run some contest to send somebody coffee.
 
-(16:29 - 16:37)
 Or coffee and dog treats. I know there's a few DMS actually. I'm not ignoring you all.
 
-(16:38 - 16:48)
 I'm just waiting on answers. A few of the DMS that have come in. So as soon as I get answers for you.
 
-(16:50 - 17:16)
 Asked I don't want to say complicated really, but not the same old questions that I have answers to. I will get back to you as soon as I have those answers for you. In the meantime, if you have any questions again, feel free to tag DM, call text.
 
-(17:20 - 17:33)
 Yeah, and again, look the polygon switch. You do not need to do anything RLP. We shouldn't need to do anything on our end either.
 
-(17:34 - 17:45)
 Just the front end of the app just so it doesn't say matic in your app. Our devs will be working on that. Thank you all so much.
 
-(17:46 - 18:22)
 Have a great night. I will let you know if I have any updates before Friday because So we're if I hear back tonight or tomorrow, it should be the marketing for next week. But we'll see what the team thinks about that is everything.
 
-(18:23 - 18:25)
 You all have a great night. Thank you.

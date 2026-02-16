@@ -1,275 +1,250 @@
-(0:01 - 0:20)
+[Speaker 1]
 An amazing Father's Day for all you fathers. I think most of you are, let's see. Been pretty busy in PatriotPay world.
 
-(0:21 - 0:40)
 So, all app bugs minus the camera issue should be resolved now. Everything that's deployed anyway. The dev is working on the camera issue that some of you are experiencing with the Android phones.
 
-(0:41 - 0:54)
 Seems to be fine on Apple. So, we have the one dev working on that as the number one priority. I will keep you updated.
 
-(0:55 - 1:16)
 Everything else should be good now. You may or may not have noticed some updates for the pop-up estimates. Some updates for when you go to send or swap now.
 
-(1:16 - 1:25)
 You can send in an increment. For example, you wanna send $20 worth of PatriotPay. You don't have to calculate it on your own.
 
-(1:25 - 1:37)
 That should all be complete. Looks beautiful. I think it'll be very, very useful, especially for the way we want and plan for everybody to use PatriotPay.
 
-(1:37 - 2:07)
-So, I think that'll come very useful. Just a second, please. I gotta, let's see.
+So, I think that'll come very useful.
 
-(3:00 - 3:07)
-Let's see, I might need to step aside. Sorry for the silence. All right, you guys want it done.
+[Speaker 2]
+Just a second, please. I gotta, let's see. Let's see, I might need to step aside.
 
-(3:07 - 3:15)
-So, I gotta get back to the devs ASAP. Okay. So, if you guys don't mind the silence, I can stay on.
+[Speaker 1]
+Sorry for the silence. All right, you guys want it done. So, I gotta get back to the devs ASAP.
 
-(3:15 - 3:35)
-Okay, so yeah, you may have noticed a few of the updates. Let's see, what else do I have here? Optimizing the code. That's almost complete.
+Okay. So, if you guys don't mind the silence, I can stay on. Okay, so yeah, you may have noticed a few of the updates.
 
-(3:36 - 3:48)
+Let's see, what else do I have here? Optimizing the code. That's almost complete.
+
 Should be about a day, maybe. Before that's done, the political donations. Some of you are having issues that should be fixed now.
 
-(3:48 - 4:00)
 Let me know if you are still having issues. We've been working on the updates to the marketplace. That's complete as of this morning.
 
-(4:00 - 6:00)
 Just trying to work out a bug that I was, the devs didn't experience, that I'm experiencing when I test. So, as soon as that's complete, we'll actually push that live for you all to test. Check my message.
 
-(6:00 - 6:36)
-An app bug report on Telegram. Let's see. 28, doesn't make sense on the second screen.
+An app bug report on Telegram. Let's see.
 
-(6:44 - 7:18)
-Well, let's do the math. 15, huh, although that first estimate is a little off. Oh, well, I think I did the 15.
+[Speaker 2]
+28, doesn't make sense on the second screen. Well, let's do the math. 15, huh, although that first estimate is a little off.
 
-(7:20 - 7:55)
-Did you push that transaction through? No, okay. I'll test it after I'm done with voice. But, should be correct.
+Oh, well, I think I did the 15.
 
-(7:55 - 8:29)
-Double text, we fixed a while ago. So, I wonder if it's the calculation. Okay, yeah, so I'll test it after voice.
+[Speaker 1]
+Did you push that transaction through? No, okay. I'll test it after I'm done with voice.
 
-(8:30 - 8:57)
-Oh, sorry, is this? Is this better? I'll test it after voice chat, and I will update you. Transactions are fine, so it might just be the estimation on there. Okay, but thank you for catching that.
+But, should be correct. Double text, we fixed a while ago. So, I wonder if it's the calculation.
 
-(8:57 - 9:17)
+Okay, yeah, so I'll test it after voice. Oh, sorry, is this? Is this better?
+
+I'll test it after voice chat, and I will update you. Transactions are fine, so it might just be the estimation on there. Okay, but thank you for catching that.
+
 That's definitely, yeah, except looks like it could be around, it might be the calculation from before. But yeah, I'll let you know as soon as I figure it out. Tonight, okay.
 
-(9:20 - 9:44)
-Are you making any further changes or additions prior to launch? Yeah, what we absolutely have to have is the camera permissions working for Android. For some reason, it's not popping up for some of you. And then you can't take a picture of your ID.
+Are you making any further changes or additions prior to launch? Yeah, what we absolutely have to have is the camera permissions working for Android. For some reason, it's not popping up for some of you.
 
-(9:48 - 10:08)
-When do you think we'll be able to use our seed phrases to sign external wallets into the P3Pay? So that's depending on a third party. So as soon as Magic is done integrating that, then we can do that. They estimate it'll be by the end of the year.
+And then you can't take a picture of your ID. When do you think we'll be able to use our seed phrases to sign external wallets into the P3Pay? So that's depending on a third party.
 
-(10:10 - 10:26)
-So you guys know how that goes. They have been pretty good, actually, with their dates so far. It's not always, you know, still a little bit of work to get it all updated on the website and everything.
+So as soon as Magic is done integrating that, then we can do that. They estimate it'll be by the end of the year. So you guys know how that goes.
 
-(10:27 - 10:43)
-But they're growing so, so quickly. And I think doing a great job. So yeah, as soon as Magic integrates that, we'll be able to use it in our app.
+They have been pretty good, actually, with their dates so far. It's not always, you know, still a little bit of work to get it all updated on the website and everything. But they're growing so, so quickly.
 
-(10:43 - 11:16)
-But that's completely dependent on them. We'll definitely keep you updated. You are welcome.
+And I think doing a great job. So yeah, as soon as Magic integrates that, we'll be able to use it in our app. But that's completely dependent on them.
 
-(11:28 - 11:46)
+We'll definitely keep you updated.
+
+[Speaker 2]
+You are welcome.
+
+[Speaker 1]
 DMs, emails. I got a DM regarding, like reflection tokens. We are not partnering with anybody else.
 
-(11:48 - 11:59)
 We are not partnered with anybody else. With any reflection tokens whatsoever. And the one in the white paper will be our own.
 
-(12:00 - 12:07)
 So I just wanna clear that up again. I think we already cleared that up a few months ago. But it seems some people are still curious.
 
-(12:08 - 12:26)
 So again, we are not partnering up with anybody. We're no longer partnered up with anybody. And any reflection tokens will be our own new reflection token.
 
-(12:28 - 12:52)
-Giving everybody the same opportunity to go ahead and buy into that. Anything interesting on the marketing front? Yeah, I actually, I'm trying to remember when I updated you guys last. So I had a few meetings last week.
+Giving everybody the same opportunity to go ahead and buy into that. Anything interesting on the marketing front? Yeah, I actually, I'm trying to remember when I updated you guys last.
 
-(12:53 - 13:03)
-Then I had a meeting Monday, well yesterday. That went really well. I think we'll be great there.
+So I had a few meetings last week. Then I had a meeting Monday, well yesterday. That went really well.
 
-(13:03 - 13:31)
-We won't have any issues. Our video looks amazing. What other updates do I have on that front? The labels, I'm finalizing the labels for the coffee and dog treats.
+I think we'll be great there. We won't have any issues. Our video looks amazing.
 
-(13:32 - 13:37)
-So many decisions. Was working on that today. Well, I wasn't working on it.
+What other updates do I have on that front? The labels, I'm finalizing the labels for the coffee and dog treats. So many decisions.
 
-(13:37 - 14:02)
-I was, I guess, making, working with the graphic designers to work on those. What else? Oh, you know what? Actually, give me a second. Cause I got in here and set up my computer and that's when the dev contacted me.
+Was working on that today. Well, I wasn't working on it. I was, I guess, making, working with the graphic designers to work on those.
 
-(14:02 - 14:44)
-So I didn't have my clipboards in the other room. Let me grab that really quick. Kind of like my whole flow in a little bit.
+What else? Oh, you know what? Actually, give me a second.
 
-(14:44 - 14:57)
-I usually come in here, set up, and then I go grab the rest of my stuff. So, the meeting went, yesterday went really, really well. I'm waiting on another email from them.
+Cause I got in here and set up my computer and that's when the dev contacted me. So I didn't have my clipboards in the other room. Let me grab that really quick.
 
-(14:59 - 15:34)
-Let's see, what did I have? We have a follow-up meeting with our new direct on-ramper, which should be really exciting. Very excited for that. And it's looking that should actually be a lot quicker than, well, a lot kind of, I don't know about a lot quicker, but I'd say substantially quicker than the on-ramper initially.
+Kind of like my whole flow in a little bit. I usually come in here, set up, and then I go grab the rest of my stuff. So, the meeting went, yesterday went really, really well.
 
-(15:35 - 15:50)
-How long they initially said it would take? They initially said about, give or take, six months. It's definitely looking like it'll be quicker than that. So, we're hoping that goes well.
+I'm waiting on another email from them. Let's see, what did I have? We have a follow-up meeting with our new direct on-ramper, which should be really exciting.
 
-(15:50 - 16:21)
+Very excited for that. And it's looking that should actually be a lot quicker than, well, a lot kind of, I don't know about a lot quicker, but I'd say substantially quicker than the on-ramper initially. How long they initially said it would take?
+
+They initially said about, give or take, six months. It's definitely looking like it'll be quicker than that. So, we're hoping that goes well.
+
 We're working with them to make sure that you guys don't run into the issues that some of you, or a lot of you, ran into with Transac. I think just our demographic. Yeah, so I think this company, we are making more kind of a conscious effort to do everything we can on our part ahead of getting listed with them to make sure that you guys' accounts aren't getting disabled left and right.
 
-(16:21 - 16:53)
 Of course, we understand the very strict regulations they have to comply with, but just really going out of our way to find a company that will do everything they can for willing to make sure that all your accounts don't get disabled so often. I will keep you updated on that. Yeah, that's been great so far.
 
-(16:55 - 17:09)
 Yeah. Dev list, we already went through that. Hoping that the camera permissions issue gets resolved sooner than later.
 
-(17:11 - 17:51)
 Really, other than the latest issues bug that was reported on the beginning of the call, the incorrect estimation. Other than that, I haven't gotten or experienced myself any other bugs in the app right now. As soon as the dev wraps up, the one dev that's working on the camera permissions, as soon as he's done with that, he'll go back to the code, like reconfiguring the code kind of, which again, should be about a day left on that.
 
-(17:52 - 18:15)
 So as soon as he's done with that is when we'll have you all log in at once, log out at once, just to kind of see how the system handles that. I'll make sure to schedule that maybe like a day in advance and we can do it for a few days, but I'll make sure to give you guys a heads up. I know some of you mayhem, want like a notice.
 
-(18:16 - 18:36)
 So that way, if you could do that, that would be very helpful. The other dev, like I said, did wrap up the really cool feature in Marketplace, just trying to work out the bug today. As soon as that's worked out, we'll go ahead and deploy it for you all to test.
 
-(18:38 - 19:29)
-And then as soon as we have that, then we'll go ahead and hide the education section. And then depending on how far we've gotten with our products in the Marketplace, whether that needs to be temporarily hidden while the devs continue working on it, or whether that can stay, we can begin marketing then. Have you tried the coffee or dog treats? Yes, I actually have been trying the coffee.
+And then as soon as we have that, then we'll go ahead and hide the education section. And then depending on how far we've gotten with our products in the Marketplace, whether that needs to be temporarily hidden while the devs continue working on it, or whether that can stay, we can begin marketing then. Have you tried the coffee or dog treats?
 
-(19:29 - 19:51)
-I'm more of an espresso person, but I have been like double brewing the coffee to make it pretty much my own espresso. And it's really good. The dog treats, don't laugh, but yes, I have, because I have liver every day anyway.
+Yes, I actually have been trying the coffee. I'm more of an espresso person, but I have been like double brewing the coffee to make it pretty much my own espresso. And it's really good.
 
-(19:51 - 20:09)
-I eat it raw, but it is just freeze-dried liver. So actually you can have it, it's human grade. And then we'll be adding the chews.
+The dog treats, don't laugh, but yes, I have, because I have liver every day anyway. I eat it raw, but it is just freeze-dried liver. So actually you can have it, it's human grade.
 
-(20:09 - 20:37)
-I just, I'm having a little bit of a hard time making that decision because I just don't know how, I think I need to do a little survey on that. For the dog chews, for the bully sticks, you know how there's like no odor, low odor, and then like the full like stinky ones. I can't do like the full odor ones.
+And then we'll be adding the chews. I just, I'm having a little bit of a hard time making that decision because I just don't know how, I think I need to do a little survey on that. For the dog chews, for the bully sticks, you know how there's like no odor, low odor, and then like the full like stinky ones.
 
-(20:37 - 20:50)
-I cannot, that's way too much for my dogs to chew on. The low odor is fine, like just stay away from me. So I don't know, gotta decide between the no, cause they don't always like the no odor ones.
+I can't do like the full odor ones. I cannot, that's way too much for my dogs to chew on. The low odor is fine, like just stay away from me.
 
-(20:50 - 21:12)
-And the low odor ones, like they're still pretty strong, but again, like as long as you tell your dog to get away from you and go chew it over there, it's fine. Where the ones with the full odor, like, oh, you can't, like you can't get away from. Has the photo shoot been conducted? Yes.
+So I don't know, gotta decide between the no, cause they don't always like the no odor ones. And the low odor ones, like they're still pretty strong, but again, like as long as you tell your dog to get away from you and go chew it over there, it's fine. Where the ones with the full odor, like, oh, you can't, like you can't get away from.
 
-(21:18 - 21:36)
-Sam feels like he should be on the front of all PPY promotions and marketing. Deal. When will the educational videos be posted? Once we have like a good amount for it to make sense on there.
+Has the photo shoot been conducted? Yes. Sam feels like he should be on the front of all PPY promotions and marketing.
 
-(21:39 - 22:06)
-What's the word I'm thinking of? Kind of like a, I don't know, kind of like a short book. Then we can post them there at once, but we're definitely not gonna hold up marketing to wait for that. I just tossed a human grade vomit in my, what, you guys don't eat liver? What is wrong with you? Ouch.
+Deal. When will the educational videos be posted? Once we have like a good amount for it to make sense on there.
 
-(22:08 - 22:40)
-I'm sorry, I don't know why it sounds robotic. That's, oh, you know what? I think it might be my connection, let me see. Is this better? Yeah, because my music cut out too, which means we have awful internet here.
+What's the word I'm thinking of? Kind of like a, I don't know, kind of like a short book. Then we can post them there at once, but we're definitely not gonna hold up marketing to wait for that.
 
-(22:43 - 22:53)
-So I turned off the wifi on my phone. So Discord should be better. But I'm not sure if Telegram is.
+I just tossed a human grade vomit in my, what, you guys don't eat liver? What is wrong with you? Ouch.
 
-(22:58 - 23:26)
-If it's still bad, I can turn on, I can turn off my wifi and do my hotspot. And Jason's okay. Cool, is Telegram okay? Awesome.
+I'm sorry, I don't know why it sounds robotic. That's, oh, you know what?
 
-(23:30 - 23:38)
-That's crazy, you guys don't eat liver. You'll have great benefits. I'm telling you, it'll change your life.
+[Speaker 2]
+I think it might be my connection, let me see.
 
-(23:39 - 24:05)
-And if any of your wives are pregnant, definitely give them liver. Will there be any further candidates prior to launch? Yes. Shoot, I think Telegram, not hearing me.
+[Speaker 1]
+Is this better? Yeah, because my music cut out too, which means we have awful internet here. So I turned off the wifi on my phone.
 
-(24:13 - 25:37)
-There is no worse wifi. Let's see, let me connect to, yeah, I'm working on it, waiting for it. The internet going out is like the worst thing that can happen in my house.
+So Discord should be better. But I'm not sure if Telegram is. If it's still bad, I can turn on, I can turn off my wifi and do my hotspot.
 
-(26:03 - 26:40)
-Hotspot should be good. Can everybody hear me on Telegram? Can everybody hear me again? Awesome, yeah. Internet's out, so I have to connect to the hotspot.
+[Speaker 2]
+And Jason's okay.
 
-(26:42 - 27:25)
-Okay, my neighborhood literally has the worst wifi, especially in the past, I wanna say, I don't know, maybe six to nine months, it's been so bad. Okay, so where were we? Will there be any further candidates prior to launch? Yes, well, definitely. That's fairly easy to add more candidates on there and should take no time.
+[Speaker 1]
+Cool, is Telegram okay? Awesome. That's crazy, you guys don't eat liver.
 
-(27:26 - 28:18)
-Our biggest priority is just getting that, there goes the wifi, I think, back. Biggest priority is getting that camera working right because if we have these users go ahead and download the app and then they try to buy and that doesn't work, then that's a waste of everybody's time. Is marketing still on track to begin in June? Yeah, I think we're pushing it, but yeah, definitely, again, the camera, what we need really is just the camera permissions.
+You'll have great benefits. I'm telling you, it'll change your life. And if any of your wives are pregnant, definitely give them liver.
 
-(28:20 - 29:18)
-And then as long as having you guys stress test the app by logging in at once, logging out at once, performing a swap or a send all at once, and that goes fine with no major issues, then we can continue. And again, we are starting pretty small with micro-influencers, some really large accounts, but you know how the algorithm works and the algorithm is getting smarter to reading, even being able to read what they're posting. But yeah, I think, again, we're pushing it, but we're still in June as long as we get that camera working then we can easily hide the marketplace and easily hide the education section and go with that.
+Will there be any further candidates prior to launch? Yes. Shoot, I think Telegram, not hearing me.
 
-(29:19 - 30:00)
-When will the first of the influencers be commencing their advertising? As soon as the app is ready. Goodness. I hope you guys are somewhere much cooler.
+There is no worse wifi.
 
-(30:13 - 31:17)
-How far apart will each influencer advertise? That's gonna just depend on their fall, in the beginning, especially the first few days, we're just gonna see how it goes and either ramp it up or slow it down from there. But I don't think we should run into any major issues again. Let's see.
+[Speaker 2]
+Let's see, let me connect to, yeah, I'm working on it, waiting for it.
 
-(31:19 - 31:37)
-The video is awesome. I think you guys will love it. Oh, still, still.
+[Speaker 1]
+The internet going out is like the worst thing that can happen in my house.
 
-(31:40 - 32:00)
+[Speaker 2]
+Hotspot should be good.
+
+[Speaker 1]
+Can everybody hear me on Telegram? Can everybody hear me again? Awesome, yeah.
+
+Internet's out, so I have to connect to the hotspot. Okay, my neighborhood literally has the worst wifi, especially in the past, I wanna say, I don't know, maybe six to nine months, it's been so bad. Okay, so where were we?
+
+Will there be any further candidates prior to launch? Yes, well, definitely. That's fairly easy to add more candidates on there and should take no time.
+
+Our biggest priority is just getting that, there goes the wifi, I think, back. Biggest priority is getting that camera working right because if we have these users go ahead and download the app and then they try to buy and that doesn't work, then that's a waste of everybody's time. Is marketing still on track to begin in June?
+
+Yeah, I think we're pushing it, but yeah, definitely, again, the camera, what we need really is just the camera permissions. And then as long as having you guys stress test the app by logging in at once, logging out at once, performing a swap or a send all at once, and that goes fine with no major issues, then we can continue. And again, we are starting pretty small with micro-influencers, some really large accounts, but you know how the algorithm works and the algorithm is getting smarter to reading, even being able to read what they're posting.
+
+But yeah, I think, again, we're pushing it, but we're still in June as long as we get that camera working then we can easily hide the marketplace and easily hide the education section and go with that. When will the first of the influencers be commencing their advertising? As soon as the app is ready.
+
+[Speaker 2]
+Goodness.
+
+[Speaker 1]
+I hope you guys are somewhere much cooler. How far apart will each influencer advertise? That's gonna just depend on their fall, in the beginning, especially the first few days, we're just gonna see how it goes and either ramp it up or slow it down from there.
+
+But I don't think we should run into any major issues again. Let's see. The video is awesome.
+
+I think you guys will love it.
+
+[Speaker 2]
+Oh, still, still.
+
+[Speaker 1]
 Perfecting the email that will go out. I should say emails. It's just, we just basically need to perfect like an email template that has the video and everything that'll go out to a ton of mailing lists.
 
-(32:08 - 32:46)
 But I think the contract modification, we have one more contract modification for the smart contract. We'll push that through right before going live too, once we have you all test and make sure everything is going as expected. Should be fine with all the testing we've done so far, but better be safe than sorry.
 
-(32:46 - 33:32)
-Okay. Have regular segments, advertising space been contracted with War Room? No, we don't need a contract with War Room and that usually happens like literally the week, the day of and then it gets moved like several times that day. Is it just our mailing list being used or has other mail? Ed, our mailing list has like 100 and something people.
+Okay. Have regular segments, advertising space been contracted with War Room? No, we don't need a contract with War Room and that usually happens like literally the week, the day of and then it gets moved like several times that day.
 
-(33:34 - 33:52)
-What? I hope not. No, we have several mailing lists, totaling like right under 10 million altogether. Obviously we are not gonna be sending those all at once.
+Is it just our mailing list being used or has other mail? Ed, our mailing list has like 100 and something people. What?
 
-(33:56 - 34:14)
+I hope not. No, we have several mailing lists, totaling like right under 10 million altogether. Obviously we are not gonna be sending those all at once.
+
 We will start with some of the smaller accounts on social media. Then we will start with the smaller mailing lists. Everybody is aware.
 
-(34:15 - 35:06)
 Well, the influencers not really, I shouldn't say that, but as far as the mailing lists and the larger advertisers, everybody's aware on how we want to kick things off and why we want to kick things off that way so we don't break the app and so our devs can be on standby to fix any high priority issues. Yeah, and then ramp it up from there. But you guys do need to join the mailing list if you haven't and please send it to everybody you know that does have the app or has PPY coins.
 
-(35:08 - 35:23)
 Dog Bone is also making some modifications to the website. That should be really awesome and just kind of help clean everything up. We'll continue making a few more changes there.
 
-(35:25 - 35:40)
 We have a team member working on wrapping up the last piece of the white paper. That's depending on the smart contract changes. So that'll be posted on the website too before we launch.
 
-(35:43 - 35:54)
-Yeah, let's see what else is on. What else is on my list on here? That's not on my clipboard. Fun.
+Yeah, let's see what else is on. What else is on my list on here? That's not on my clipboard.
 
-(35:59 - 36:12)
-Oh, I did lie. There is one more thing we're adding to the app that needs to happen before we go live but it's pretty simple. That when you don't have gas, the app will tell you.
+Fun. Oh, I did lie. There is one more thing we're adding to the app that needs to happen before we go live but it's pretty simple.
 
-(36:37 - 37:41)
-Is there an estimate to fix the Android camera bug? I don't have an estimate on that yet. Hoping it'll be done by the end of the day today. Yeah.
+That when you don't have gas, the app will tell you. Is there an estimate to fix the Android camera bug? I don't have an estimate on that yet.
 
-(37:43 - 38:06)
-Because it's not just on our end, we are working with two third parties to figure this out and yeah, hopefully it's done here shortly but that would be awesome. But I'll keep you guys updated. Okay.
+Hoping it'll be done by the end of the day today. Yeah. Because it's not just on our end, we are working with two third parties to figure this out and yeah, hopefully it's done here shortly but that would be awesome.
 
-(38:11 - 40:10)
-Is anybody obsessed with Celsius? I know it's so bad for me. Can we get a special mention for MP Bob? He's MIA. Oh, is he okay? Is he busy working? Is he on vacation? Is he taking a break? It's good to take a break sometimes.
+[Speaker 2]
+But I'll keep you guys updated. Okay. Is anybody obsessed with Celsius?
 
-(40:10 - 40:31)
-Sometimes it's good to have just a good old break down too. Like my main fridge broke this weekend and the part was supposed to be here today, did not come today. So now they're thinking it's tomorrow.
+[Speaker 1]
+I know it's so bad for me. Can we get a special mention for MP Bob? He's MIA.
 
-(40:33 - 40:47)
-And when you're feeding four dogs raw, a lot of meat and organs goes bad. A lot of meat and organs goes bad. Milk went bad and it all smells.
+Oh, is he okay? Is he busy working? Is he on vacation?
 
-(40:48 - 41:16)
-I hate like, the worst thing is like a dirty smelling fridge and even though there's nothing open, nothing spilled, you know, it's just the smell of a closed fridge, the worst. Okay, I think that's everything. Let me know if you have any other issues.
+Is he taking a break? It's good to take a break sometimes. Sometimes it's good to have just a good old break down too.
 
-(41:16 - 41:40)
-Feel free to again, DM, email. Be like half decent, please. If you are like semi-abusive in your DMs or emails, you will get blocked.
+Like my main fridge broke this weekend and the part was supposed to be here today, did not come today. So now they're thinking it's tomorrow. And when you're feeding four dogs raw, a lot of meat and organs goes bad.
 
-(41:40 - 41:48)
-I know that's probably none of you guys in here. But definitely not putting up with that. Okay.
+A lot of meat and organs goes bad. Milk went bad and it all smells. I hate like, the worst thing is like a dirty smelling fridge and even though there's nothing open, nothing spilled, you know, it's just the smell of a closed fridge, the worst.
 
-(41:51 - 41:59)
-Other than that, make sure you don't enter your information anywhere. Don't give anybody your seed phrase. Don't give anybody your private key.
+Okay, I think that's everything. Let me know if you have any other issues. Feel free to again, DM, email.
 
-(41:59 - 42:03)
-It's your private key. Nobody needs that. We'll never ask for it.
+Be like half decent, please. If you are like semi-abusive in your DMs or emails, you will get blocked. I know that's probably none of you guys in here.
 
-(42:05 - 42:12)
-Please don't get scammed. If you guys need anything else in the meantime, let me know. I will keep you updated.
+But definitely not putting up with that. Okay. Other than that, make sure you don't enter your information anywhere.
 
-(42:13 - 42:27)
-Yeah, I think it's a lot of moving parts and finally a lot of stuff that had to wait till the very end now. Yeah, happening now. So it's fun.
+Don't give anybody your seed phrase. Don't give anybody your private key. It's your private key.
 
-(42:27 - 42:42)
-I just need my fridge working back so I can eat like normal meals instead of like potato chips with chocolate. Which is a great combo, by the way, if you like sweet and salty. But probably not great for you.
+Nobody needs that. We'll never ask for it. Please don't get scammed.
 
-(42:43 - 42:59)
-I will get this up. Give me some time to finish up some dev stuff and then I'll post this along with some notes. I'll also actually get the contest winner.
+If you guys need anything else in the meantime, let me know. I will keep you updated. Yeah, I think it's a lot of moving parts and finally a lot of stuff that had to wait till the very end now.
 
-(43:01 - 43:17)
-I'll post whatever wallet it is from the transactions and then we'll have a new contest. I'm not sure what the new contest is. I know our app needs some reviews.
+Yeah, happening now. So it's fun. I just need my fridge working back so I can eat like normal meals instead of like potato chips with chocolate.
 
-(43:17 - 43:32)
-Maybe, maybe we'll have, that's kind of tricky though. Yeah, maybe we'll have everybody leave an app review. That'll be the entry to the contest.
+Which is a great combo, by the way, if you like sweet and salty. But probably not great for you. I will get this up.
 
-(43:32 - 43:55)
-So you'll have to leave it, whether it's in the Apple Store or in the Google Store, leave your honest review and we'll pick a random winner from the reviews. If you already have reviewed it, I think you could just update your review. I'll have to check on that, but let me know if not.
+Give me some time to finish up some dev stuff and then I'll post this along with some notes. I'll also actually get the contest winner. I'll post whatever wallet it is from the transactions and then we'll have a new contest.
 
-(43:57 - 44:02)
-Okay, you all have a good one. I will see you in chat.
+I'm not sure what the new contest is. I know our app needs some reviews. Maybe, maybe we'll have, that's kind of tricky though.
+
+Yeah, maybe we'll have everybody leave an app review. That'll be the entry to the contest. So you'll have to leave it, whether it's in the Apple Store or in the Google Store, leave your honest review and we'll pick a random winner from the reviews.
+
+If you already have reviewed it, I think you could just update your review. I'll have to check on that, but let me know if not. Okay, you all have a good one.
+
+I will see you in chat.

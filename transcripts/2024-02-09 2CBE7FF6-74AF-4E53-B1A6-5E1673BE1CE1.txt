@@ -1,314 +1,382 @@
-(0:00 - 1:03)
-Happy Friday! Good to see everybody. I figured I'd get on here. I want to make sure everybody's muted and Discord. 
+[Speaker 1]
+Happy Friday! Good to see everybody. I figured I'd get on here.
 
-Oh, looks like it. Cool. Awesome. 
+[Speaker 2]
+I want to make sure everybody's muted and Discord. Oh, looks like it. Cool.
 
-Let me know if you guys hear anything and need me to mute. All right. Yeah, I just got on here to answer some questions. 
+[Speaker 3]
+Awesome.
 
-It's been a long week, a productive week. I just had to take a nap, actually, because I've been up since too early. But I will start off. 
+[Speaker 2]
+Let me know if you guys hear anything and need me to mute.
 
-Seems like a lot of you called me this week. Everybody is feeling like phone calls. Not everyone, but a lot of you asking if we need investors.
+[Speaker 1]
+All right. Yeah, I just got on here to answer some questions. It's been a long week, a productive week.
 
-(1:04 - 3:05)
-It's definitely been considered. However, we don't at the time. We will keep you updated on that. 
+I just had to take a nap, actually, because I've been up since too early. But I will start off. Seems like a lot of you called me this week.
 
-Another question by several people is if we the people who does all our social media is related to a rug pull coin from back in the day, which I was actually very rug pulled on myself. And that's not the case. He is not related to that we the people coin in any way. 
+Everybody is feeling like phone calls. Not everyone, but a lot of you asking if we need investors. It's definitely been considered.
 
-He just happens to have the handle we the people. So rest assured there. I think the biggest everybody's biggest questions been regarding transact. 
+However, we don't at the time. We will keep you updated on that. Another question by several people is if we the people who does all our social media is related to a rug pull coin from back in the day, which I was actually very rug pulled on myself.
 
-I will share with you everything as soon as I'm able to. What I can say right now is that what we have in the works is will be bigger, better and inclusive of everything we've had before. So don't worry about that. 
+And that's not the case. He is not related to that we the people coin in any way. He just happens to have the handle we the people.
 
-I will update you as soon as I can. That may be the time of when I can update you on that. Maybe once the dev completes that work. 
+So rest assured there. I think the biggest everybody's biggest questions been regarding transact. I will share with you everything as soon as I'm able to.
 
-Right now, we're estimated at about nine days. But I will keep you updated on that. It seems like the most complicated part of that is complete. 
+What I can say right now is that what we have in the works is will be bigger, better and inclusive of everything we've had before. So don't worry about that. I will update you as soon as I can.
 
-The rest of it should be pretty straightforward. And that is having our dev work on that full time. But I will keep you updated on that progress.
+That may be the time of when I can update you on that. Maybe once the dev completes that work. Right now, we're estimated at about nine days.
 
-(3:09 - 5:00)
-Somebody's I know somebody asked, I think it was Bobby asked earlier, well, how did you just think transact and then dump them? But that's not the case. Transact still amazing, and has been amazing, as well as change now. Oh, I see. 
+But I will keep you updated on that. It seems like the most complicated part of that is complete. The rest of it should be pretty straightforward.
 
-Karen, I read that wrong. Okay. Give me a second here. 
+And that is having our dev work on that full time. But I will keep you updated on that progress. Somebody's I know somebody asked, I think it was Bobby asked earlier, well, how did you just think transact and then dump them?
 
-Making sure I think everybody on both should hear me. I should have asked. Oh, you guys are having a little bit of a thing in telegram. 
+But that's not the case. Transact still amazing, and has been amazing, as well as change now.
 
-Please don't go at each other. Feel free to go at me. FJB didn't have the price. 
+[Speaker 2]
+Oh, I see. Karen, I read that wrong. Okay.
 
-Yes, trust wallet still will not show your price. CoinMarketCap is moving along on our listing. They are just very backed up. 
+Give me a second here. Making sure I think everybody on both should hear me. I should have asked.
 
-That's their answer is that we're super backed up. They are working on a self reporting dashboard, which is really cool. They've invited us to be a part of that. 
+[Speaker 1]
+Oh, you guys are having a little bit of a thing in telegram. Please don't go at each other. Feel free to go at me.
 
-But to get set up for that self reporting dashboard, you have to wait for them to get you through all the steps too. So we are working on that. That way, future changes should go a lot quicker, a lot more smoothly there.
+FJB didn't have the price. Yes, trust wallet still will not show your price. CoinMarketCap is moving along on our listing.
 
-(5:02 - 5:38)
-Okay. Is that all that is left before the app is complete? Somebody's asking. The OnRamp updates. 
+They are just very backed up. That's their answer is that we're super backed up. They are working on a self reporting dashboard, which is really cool.
 
-We also have our devs working on the smart wallet. We have a small issue with that. Those are the two factors being worked on as far as the smart wallet goes.
+They've invited us to be a part of that. But to get set up for that self reporting dashboard, you have to wait for them to get you through all the steps too. So we are working on that.
 
-(5:45 - 5:55)
-Here's another. Some questions. What's the status of the app? I think I answered that.
+That way, future changes should go a lot quicker, a lot more smoothly there. Okay. Is that all that is left before the app is complete?
 
-(5:56 - 6:24)
-Will the app be community test? Will the app community testing be done in February? I think is what they're referring to. We do expect, yeah, so what the devs are working on right now with the nine days left over should be very straightforward. There really shouldn't be much testing involved with that.
+Somebody's asking. The OnRamp updates. We also have our devs working on the smart wallet.
 
-(6:24 - 6:40)
-If any, team testing should be enough to suffice. Again, very straightforward there. As far as the smart wallet testing, yes, we will have you guys test just to make sure that the smart wallet flows like it should.
+We have a small issue with that. Those are the two factors being worked on as far as the smart wallet goes.
 
-(6:41 - 7:37)
-What's happened in the past is that because the smart wallet handles the gas, if the estimation isn't estimated correctly, then the agent wallets will run out of gas, so it'll be good for X amount of transactions, and then it'll start failing. For that, we'll need you, the community, to test to make sure that that can handle the stress and estimating correctly enough, overestimating, that way it's not running out of gas. The smart wallet has truly been the biggest, probably the biggest hurdle app-wise, but when it is working as intended, it's also probably one of the best parts of our app.
+[Speaker 2]
+Here's another.
 
-(7:42 - 8:23)
-Reading some more questions here. App store, what are we waiting for? Mainly has to do with getting everything in the app store fixed first. Does the app need to be finished before the app store update logo? Pretty much. 
+[Speaker 1]
+Some questions. What's the status of the app? I think I answered that.
 
-Those are very closely related because we're not just updating the logo. Will this be done? I can't tell you that it will be done before the end of February, because you guys have seen how it goes, but that's definitely the plan. That's now that we're done.
+Will the app be community test? Will the app community testing be done in February? I think is what they're referring to.
 
-(8:23 - 10:42)
-With everything fork-related, this is everything that the devs, we have multiple teams of devs working on this. Everything contract-related, even some changes that are nice to have that we would like to add on, are being held off. Just because the contract works as intended, we like it. 
+We do expect, yeah, so what the devs are working on right now with the nine days left over should be very straightforward. There really shouldn't be much testing involved with that. If any, team testing should be enough to suffice.
 
-We'll focus on the app being the number one priority before we move back to the contract and adding some more nice-to-have functions that we'd like to have there. This has been a long road. When do you think the first War Room segment will be? February, March? I couldn't give you a timeline. 
+Again, very straightforward there. As far as the smart wallet testing, yes, we will have you guys test just to make sure that the smart wallet flows like it should. What's happened in the past is that because the smart wallet handles the gas, if the estimation isn't estimated correctly, then the agent wallets will run out of gas, so it'll be good for X amount of transactions, and then it'll start failing.
 
-The first War Room segment will be once we are running smoothly and very much stress-tested everything. I think we're doing an excellent job at that. Down to reviewing and revisiting our contracts with parties as far as our partners go. 
+For that, we'll need you, the community, to test to make sure that that can handle the stress and estimating correctly enough, overestimating, that way it's not running out of gas. The smart wallet has truly been the biggest, probably the biggest hurdle app-wise, but when it is working as intended, it's also probably one of the best parts of our app.
 
-We really cannot afford to have another wire situation. We're doing everything we can in the meantime to make sure that we are shielding ourselves and preparing for anything like that. Do you know if this is close to being live as far as the trust wallet price? We are closer as of a few nights ago. 
+[Speaker 2]
+Reading some more questions here.
+
+[Speaker 1]
+App store, what are we waiting for? Mainly has to do with getting everything in the app store fixed first. Does the app need to be finished before the app store update logo?
+
+Pretty much. Those are very closely related because we're not just updating the logo. Will this be done?
+
+I can't tell you that it will be done before the end of February, because you guys have seen how it goes, but that's definitely the plan. That's now that we're done. With everything fork-related, this is everything that the devs, we have multiple teams of devs working on this.
+
+Everything contract-related, even some changes that are nice to have that we would like to add on, are being held off. Just because the contract works as intended, we like it. We'll focus on the app being the number one priority before we move back to the contract and adding some more nice-to-have functions that we'd like to have there.
+
+This has been a long road.
+
+[Speaker 2]
+When do you think the first War Room segment will be?
+
+[Speaker 1]
+February, March? I couldn't give you a timeline. The first War Room segment will be once we are running smoothly and very much stress-tested everything.
+
+I think we're doing an excellent job at that. Down to reviewing and revisiting our contracts with parties as far as our partners go. We really cannot afford to have another wire situation.
+
+We're doing everything we can in the meantime to make sure that we are shielding ourselves and preparing for anything like that. Do you know if this is close to being live as far as the trust wallet price? We are closer as of a few nights ago.
 
 CoinMarketCap is, again, they just moved very, very slow. They, in their words, they are just very backed up. Maybe one of you should make some sort of CoinMarketCap, I guess another alternative option.
 
-(10:45 - 11:19)
-White paper and roadmap. We were expecting these to be delivered by now. I sent by end of week, it's not end of week yet. 
+White paper and roadmap. We were expecting these to be delivered by now. I sent by end of week, it's not end of week yet.
 
-When will you release them? White paper still by end of week and maybe we'll have a roadmap on there too. I think that's everything. I will check the email one more time because I don't think I've checked it since I just woke up from my nap.
+When will you release them? White paper still by end of week and maybe we'll have a roadmap on there too. I think that's everything.
 
-(11:19 - 12:29)
-I didn't think I'd make it to voice chat if I didn't take a nap. It'd be very nice if I got a normal schedule. Okay, nothing in the emails. 
+[Speaker 2]
+I will check the email one more time because I don't think I've checked it since I just woke up from my nap.
 
-Oh, let's check the other one. Oh, we did get everything we needed to send out the second batch, which was the larger batch of sticker orders. Those were sent out today before noon, so you all should have those in the next few days. 
+[Speaker 1]
+I didn't think I'd make it to voice chat if I didn't take a nap. It'd be very nice if I got a normal schedule. Okay, nothing in the emails.
 
-If you don't get them, please contact me. We'll make sure to get those to you. Okay, nothing there. 
+Oh, let's check the other one. Oh, we did get everything we needed to send out the second batch, which was the larger batch of sticker orders. Those were sent out today before noon, so you all should have those in the next few days.
 
-Let me get back in chat. Can we edit the About Patriot Pay page on CMC? Yes, that's, again, that just was taken taken CMC a little bit to move on that. Again, they say that they are very backed up and going as quickly as they do.
+If you don't get them, please contact me. We'll make sure to get those to you. Okay, nothing there.
 
-(12:33 - 12:40)
-Bob says February 24th is his birthday. Let's go full rollout by then. Let's see, that's four.
+Let me get back in chat. Can we edit the About Patriot Pay page on CMC? Yes, that's, again, that just was taken taken CMC a little bit to move on that.
 
-(12:40 - 13:00)
-Oh, okay. Well, for some reason in my head I was thinking 14. How can you stress test? Get everybody to get on the app, log in at the same time, and get transactions going all at the same time.
+Again, they say that they are very backed up and going as quickly as they do. Bob says February 24th is his birthday. Let's go full rollout by then.
 
-(13:07 - 13:26)
-Is the team still working? Leads for new merchants for launch, or is that on hold until app is further along? No, we are actively working on that. All of the platforms need an update. Yes, we'll be about sections.
+Let's see, that's four. Oh, okay. Well, for some reason in my head I was thinking 14.
 
-(13:29 - 14:35)
-I don't think there's anything in Discord. Yeah, I think that's good. A few of you are DMing me regarding having been shorted coins. 
+How can you stress test? Get everybody to get on the app, log in at the same time, and get transactions going all at the same time. Is the team still working?
 
-That's not the case. What happened is if you have baby FJB and you got a reflection, so baby FJB gives you a FJB reflection. If you got that reflection after snapshot, what will happen is that you didn't get that amount airdropped to the reflection amount. 
+Leads for new merchants for launch, or is that on hold until app is further along? No, we are actively working on that. All of the platforms need an update.
 
-What happened is that baby FJB received those PatriotPay coins because they had them and they own them in their wallet at the time of snapshot. So basically it's just going to be, we basically pretend that those reflections never happened and they will continue. I think they need to make some contract changes on their end.
+Yes, we'll be about sections.
 
-(14:38 - 19:07)
-But it should be pretty, yeah, I think February in this nine days, while the dev works on the latest integrations and the other dev team works on getting the smart wallet situated, what I and the advisor will be working on along with social media and our website developer is more heavily on more of the marketing side of everything, partners and fun stuff. I think quite a bit of it will be in the white paper. That's all I got on my end. 
+[Speaker 2]
+I don't think there's anything in Discord.
 
-Charts looking great. Don't forget we had that contest, so I'll go through the answers and see who won that. Rainman, was Rainman Fuego. 
+[Speaker 1]
+Yeah, I think that's good. A few of you are DMing me regarding having been shorted coins. That's not the case.
 
-Could you confirm the merchant's app supports payment swapping into stablecoins that aren't just USDT? Yes, so we can modify what stablecoin it is, but when we modify it, that's what stablecoin it's going to be for all merchants. Of course, we can always make changes as we go, but to the contract, which is what makes the contract so amazing. But for example, if we did put a USDT, so all merchants, all their payments for all merchants would be getting swapped into USDT. 
+What happened is if you have baby FJB and you got a reflection, so baby FJB gives you a FJB reflection. If you got that reflection after snapshot, what will happen is that you didn't get that amount airdropped to the reflection amount. What happened is that baby FJB received those PatriotPay coins because they had them and they own them in their wallet at the time of snapshot.
 
-Merchant A and Merchant B wouldn't have a different stablecoin, if that makes sense. Any truth to the rumors that PPY is intending on competing with PayPal as a payment system? I think we'll wait and find out a little bit more details on that. Rainman says, cool, I get you. 
+So basically it's just going to be, we basically pretend that those reflections never happened and they will continue. I think they need to make some contract changes on their end. But it should be pretty, yeah, I think February in this nine days, while the dev works on the latest integrations and the other dev team works on getting the smart wallet situated, what I and the advisor will be working on along with social media and our website developer is more heavily on more of the marketing side of everything, partners and fun stuff.
 
-For merchants in different jurisdictions, they will want stable tied to their fiat, you would expect. Otherwise, they're subject to FX movements. Yes, and we understand that, and we also understand crypto relatively being so young, right? So there are many changes that we anticipate will happen, and I think that's why having an upgradable contract was an excellent idea, and why it's super valuable. 
+I think quite a bit of it will be in the white paper. That's all I got on my end. Charts looking great.
 
-That way we can continue to make any modifications we need to, to keep up without having to fork in. It's really, it's awesome, and I think it was worth all the extra time to get that addition added. If you guys don't agree, I think you will, once you see more of the changes happening there.
+Don't forget we had that contest, so I'll go through the answers and see who won that. Rainman, was Rainman Fuego. Could you confirm the merchant's app supports payment swapping into stablecoins that aren't just USDT?
 
-(19:12 - 19:39)
-Are we still partnering with BabyFJB? I think so. I think we have some plans coming up. What you guys will like? Consider per VIP wallet selection of stable offered on Quickswap.
+Yes, so we can modify what stablecoin it is, but when we modify it, that's what stablecoin it's going to be for all merchants. Of course, we can always make changes as we go, but to the contract, which is what makes the contract so amazing. But for example, if we did put a USDT, so all merchants, all their payments for all merchants would be getting swapped into USDT.
 
-(19:43 - 20:25)
-Sorry, I don't understand what you're asking. Should be USDC, because at least it's not Chinese-affiliated, like USDT. Could I suggest a feature that a percentage of a payment can be swapped into a crypto investment vehicle? Example, stable, coin pool, etc. 
+Merchant A and Merchant B wouldn't have a different stablecoin, if that makes sense. Any truth to the rumors that PPY is intending on competing with PayPal as a payment system? I think we'll wait and find out a little bit more details on that.
 
-Yeah, absolutely. I think that's a great idea. If you do have any ideas, make sure you add them in the Q&A, and we'll see what we can do.
+Rainman says, cool, I get you. For merchants in different jurisdictions, they will want stable tied to their fiat, you would expect. Otherwise, they're subject to FX movements.
 
-(20:25 - 22:30)
-Oh shoot, did I add a suggestion box? Sorry, I'm gonna mute somebody here. I'm not sure I added a suggestion box on Discord. I may have forgot. 
+Yes, and we understand that, and we also understand crypto relatively being so young, right? So there are many changes that we anticipate will happen, and I think that's why having an upgradable contract was an excellent idea, and why it's super valuable. That way we can continue to make any modifications we need to, to keep up without having to fork in.
 
-I'll have to go look in there so I don't add a second one, but make sure you put any of your ideas in there. End of the dollar empire. Can we buy Burj Gold with PPY? So there's a lot of really cool ideas that the devs have discussed, that the advisor has discussed, and again, as we grow, I think the possibilities are endless and we're very, very excited for that. 
+It's really, it's awesome, and I think it was worth all the extra time to get that addition added. If you guys don't agree, I think you will, once you see more of the changes happening there. Are we still partnering with BabyFJB?
 
-I think you all will be too. Maybe hot dog eating contest? Could you imagine? Oh, I see how your sentence was worded, Nalfarcus. Sorry, a little slow here. 
+I think so. I think we have some plans coming up. What you guys will like?
 
-My morning. I do have my coffee. I should probably drink that. 
+Consider per VIP wallet selection of stable offered on Quickswap. Sorry, I don't understand what you're asking. Should be USDC, because at least it's not Chinese-affiliated, like USDT.
+
+Could I suggest a feature that a percentage of a payment can be swapped into a crypto investment vehicle? Example, stable, coin pool, etc. Yeah, absolutely.
+
+I think that's a great idea. If you do have any ideas, make sure you add them in the Q&A, and we'll see what we can do.
+
+[Speaker 2]
+Oh shoot, did I add a suggestion box? Sorry, I'm gonna mute somebody here. I'm not sure I added a suggestion box on Discord.
+
+I may have forgot. I'll have to go look in there so I don't add a second one, but make sure you put any of your ideas in there.
+
+[Speaker 1]
+End of the dollar empire. Can we buy Burj Gold with PPY? So there's a lot of really cool ideas that the devs have discussed, that the advisor has discussed, and again, as we grow, I think the possibilities are endless and we're very, very excited for that.
+
+I think you all will be too.
+
+[Speaker 3]
+Maybe hot dog eating contest?
+
+[Speaker 1]
+Could you imagine? Oh, I see how your sentence was worded, Nalfarcus. Sorry, a little slow here.
+
+My morning. I do have my coffee. I should probably drink that.
 
 So allow the VIP wallets entities to pick a stable coin offered on QuickSwap to settle transactions. 24-hour gain on PPY just surpassed 25% hour gain on Bitcoin. Stripe has been deplatforming, Substack authors.
 
-(22:30 - 22:36)
 Yes, we have. And we have quite the solution. I think you all will love it.
 
-(22:40 - 22:46)
 Excuse me. My straw cracked on the way down. Shoot.
 
-(22:47 - 23:42)
-Another one. Jrock, you didn't realize? I thought that was your name. That's why I asked you the other day if your closet lived, but you never replied to me. 
+[Speaker 4]
+Another one.
 
-I didn't realize somebody changed it for you. Did somebody really change it for you? I asked you and I never heard back from you, so I figured it was an inside joke for somebody else. Switched my straw the other way. 
+[Speaker 1]
+Jrock, you didn't realize? I thought that was your name. That's why I asked you the other day if your closet lived, but you never replied to me.
 
-I wonder if it'll work this time. Back PPY with Birch Gold. It's actually been discussed, I'd say in depth.
+I didn't realize somebody changed it for you. Did somebody really change it for you?
 
-(23:47 - 25:29)
-Just to clarify, Jrock, you wouldn't be the first liberal holder if you are a liberal. Hey, we do welcome everybody. Yes, someone changed it. 
+[Speaker 2]
+I asked you and I never heard back from you, so I figured it was an inside joke for somebody else. Switched my straw the other way. I wonder if it'll work this time.
 
-Probably that Winston. Winston's not a mod in here. I don't think so, at least. 
+[Speaker 1]
+Back PPY with Birch Gold.
 
-Just to clarify, is Saturday or Sunday the end of the week for white paper? That's a good question. Just because we've had so many changes. But what we'll do is, like I've said before, at this point instead of holding it off from you guys because there's some pretty cool new stuff there, we'll just release it if we ever need to make modifications and that's what we do. 
+[Speaker 2]
+It's actually been discussed, I'd say in depth.
 
-And that's, I think that's as a result of the upgradeable contract, that will continue to happen as we keep going. Yeah, I don't think Winston can change your name, Jrock. I know, I know, everybody said, I did say last time that from now on I feel like Sunday should be the end of the week because I'm, in my mind, that's like the end of the week, Monday's a new start.
+[Speaker 1]
+Just to clarify, Jrock, you wouldn't be the first liberal holder if you are a liberal. Hey, we do welcome everybody. Yes, someone changed it.
 
-(25:31 - 26:29)
-I did, I did say that last time after our last deadline. I don't know if it was after, actually I think it was right before, but I did say for this purpose it'll be Saturday but from now on it will be Sunday. I think it'll be, yeah, it'll be good. 
+Probably that Winston. Winston's not a mod in here. I don't think so, at least.
 
-A few things, a few new things on there and yeah, I'm excited for it. We have some more dev interviews happening in the next 24 hours. But just because we want to continue having some excellent devs on deck.
+Just to clarify, is Saturday or Sunday the end of the week for white paper? That's a good question. Just because we've had so many changes.
 
-(26:33 - 27:08)
+But what we'll do is, like I've said before, at this point instead of holding it off from you guys because there's some pretty cool new stuff there, we'll just release it if we ever need to make modifications and that's what we do. And that's, I think that's as a result of the upgradeable contract, that will continue to happen as we keep going.
+
+[Speaker 2]
+Yeah, I don't think Winston can change your name, Jrock.
+
+[Speaker 1]
+I know, I know, everybody said, I did say last time that from now on I feel like Sunday should be the end of the week because I'm, in my mind, that's like the end of the week, Monday's a new start. I did, I did say that last time after our last deadline. I don't know if it was after, actually I think it was right before, but I did say for this purpose it'll be Saturday but from now on it will be Sunday.
+
+I think it'll be, yeah, it'll be good. A few things, a few new things on there and yeah, I'm excited for it. We have some more dev interviews happening in the next 24 hours.
+
+[Speaker 2]
+But just because we want to continue having some excellent devs on deck.
+
+[Speaker 1]
 I should have an announcement for you guys in the next few days. We were planning to have it actually tonight for tonight's voice chat but due to some unforeseen circumstances by our partners we did not, but I do expect to have that. Depending on our partner's schedule, I expect to have that to you all within the next few days.
 
-(27:09 - 27:33)
-So that's a nice bit of an announcement. Let's see, we have covered a few of you asking if we need investors. New on-ramps, yeah.
+[Speaker 2]
+So that's a nice bit of an announcement.
 
-(27:39 - 28:10)
-Here's the new partnership we talked about last week. I need to keep notes of what we spoke about because we've had a few different ones so I'm trying to think of who, what context we were speaking about. But I'll be able to, either way, I'll be able to share as soon as our dev is done integrating this again in the estimated nine days.
+[Speaker 1]
+Let's see, we have covered a few of you asking if we need investors. New on-ramps, yeah.
 
-(28:11 - 28:41)
-I'll be able to share those set of partners and then with this as soon as the other party, as soon as they're available and ready to, we will share that. Goldenrock's guess on contest. Yes, Goldenrock got the second contest.
+[Speaker 2]
+Here's the new partnership we talked about last week. I need to keep notes of what we spoke about because we've had a few different ones so I'm trying to think of who, what context we were speaking about.
 
-(28:41 - 29:02)
-I have not checked the first contest yet so I'm not sure who won that one. How many devs do we have? So we have our major contract dev. We have one there.
+[Speaker 1]
+But I'll be able to, either way, I'll be able to share as soon as our dev is done integrating this again in the estimated nine days. I'll be able to share those set of partners and then with this as soon as the other party, as soon as they're available and ready to, we will share that. Goldenrock's guess on contest.
 
-(29:04 - 29:35)
-Our other team of two devs working on the smart wallet issue, a different version. Then we have another three devs working on another version of the smart wallet in the app. That's what we have working on everything right now.
+Yes, Goldenrock got the second contest. I have not checked the first contest yet so I'm not sure who won that one. How many devs do we have?
 
-(29:36 - 29:47)
-We are interviewing for one more full-time dev. Should be in the next 24 hours. I was just on a call this morning.
+So we have our major contract dev. We have one there. Our other team of two devs working on the smart wallet issue, a different version.
 
-(29:53 - 30:46)
-How soon after app completion will marketing begin? Immediately. As soon as we stress test that, make sure everything is working perfectly because again we cannot afford for it to not be working like that and this is why we're making some of the modifications that we are. Is the app being done and ready the only thing needed for us to start marketing? Yes, sir. 
+Then we have another three devs working on another version of the smart wallet in the app. That's what we have working on everything right now. We are interviewing for one more full-time dev.
 
-We are done with the fork now. We're done with the airdrops. Everything contract-wise is complete on our end.
+[Speaker 2]
+Should be in the next 24 hours. I was just on a call this morning.
 
-(30:47 - 31:22)
-The only thing we're waiting for now is the app to begin marketing. Oh, I will say a part of that is the app changed in the app store just to make that clear. We do need to have that switched over to PatriotPay. 
+[Speaker 1]
+How soon after app completion will marketing begin? Immediately. As soon as we stress test that, make sure everything is working perfectly because again we cannot afford for it to not be working like that and this is why we're making some of the modifications that we are.
 
-That's a very, very big deal. We don't want to be associated with anything FJB. Oh, I do know MJ had a concern regarding the launch video of FJB.
+Is the app being done and ready the only thing needed for us to start marketing? Yes, sir. We are done with the fork now.
 
-(31:22 - 31:28)
-Yeah, don't worry. That'll be easily edited. You know that video was for you guys community.
+We're done with the airdrops. Everything contract-wise is complete on our end. The only thing we're waiting for now is the app to begin marketing.
 
-(31:30 - 31:56)
-But yeah, no worries there. That's a big part of why we need the app rebranded, renamed in the app stores, and functioning as it should before we can begin marketing. Okay, I'm just gonna stay with 1776.
+Oh, I will say a part of that is the app changed in the app store just to make that clear. We do need to have that switched over to PatriotPay. That's a very, very big deal.
 
-(32:07 - 32:35)
-Do you need new investors? We do not need new investors. Oh, somebody did ask for the classified ads. We do have that coming on the app, but I did add the topics and channels, so you should have that in Telegram and Discord.
+We don't want to be associated with anything FJB. Oh, I do know MJ had a concern regarding the launch video of FJB. Yeah, don't worry.
 
-(32:37 - 34:20)
-To post some stuff on there. Maybe I can find some stuff to post on there. I'm not sure what you guys would want to buy. 
+That'll be easily edited. You know that video was for you guys community. But yeah, no worries there.
 
-I was very excited because I thought my Telegram, well it did update on my desktop, so I finally can see my reactions and my mentions, but it's back to not working. I don't know what the issue is. There's not everything. 
+That's a big part of why we need the app rebranded, renamed in the app stores, and functioning as it should before we can begin marketing.
 
-I think that's everything. Any hints on marketing? So with marketing, we don't want to go in straight into War Room because we do want to, so somebody asked how we're stress testing earlier. You know, that's having you all get on the app at the same exact time, go ahead and purchase, trade, all at the same time, just kind of stress test the app, but a lot of that is also going to happen with ongoing volume.
+[Speaker 3]
+Okay, I'm just gonna stay with 1776. Do you need new investors? We do not need new investors.
 
-(34:21 - 35:18)
-So we do want to start marketing with something a little bit lower volume than War Room to make any modifications that we need to make and work out any bugs that I'm sure we will have. So we'll definitely start with more steady marketing because it would be awful for War Room to be our first marketing campaign and to have 1,500 people come on and sign into the app in an hour and have it in a break in that hour. So the plan is to begin with a little bit lighter marketing than what War Room brings for that reason so we can have the devs on to fix anything that needs to be fixed.
+[Speaker 1]
+Oh, somebody did ask for the classified ads. We do have that coming on the app, but I did add the topics and channels, so you should have that in Telegram and Discord. To post some stuff on there.
 
-(35:23 - 36:21)
-Can you blast emails to subscribers of PatriotPay.org? Yes, absolutely, of course. We are still waiting on a few more wallets just of team members, other people we need to make, whether it's payments or some sort of promotional coins that we need to send them. So we're waiting on, I believe we have one more batch of payments to make and once everybody has their coins we will make sure to send, that actually should be by the end of the week I believe, to send an email with all those links and videos to let everybody know that we have worked and go ahead and import their coins and hold tight until we have the app ready.
+[Speaker 2]
+Maybe I can find some stuff to post on there. I'm not sure what you guys would want to buy.
 
-(36:24 - 38:44)
-I expect to get an influx of people in the chats possibly with that. You can crush it one pebble at a time. How long do you think it will be until War Room? I definitely expect to have our smart wallet and our other integrations complete by the end and tested by the end of February. 
+[Speaker 1]
+I was very excited because I thought my Telegram, well it did update on my desktop, so I finally can see my reactions and my mentions, but it's back to not working. I don't know what the issue is. There's not everything.
 
-We are interviewing one more full-time dev to have on hand, that way if the devs we already have have not, yeah, that's all I'll say there. It does feel good, quite a relief and I do appreciate all the DMs and calls and texts. Very grateful for this community, super grateful for that. 
+I think that's everything. Any hints on marketing? So with marketing, we don't want to go in straight into War Room because we do want to, so somebody asked how we're stress testing earlier.
 
-You guys are the best. Who has bigger reach? War Room, Tucker, Alex Jones, Bungie. There's probably, is that Tucker from that? I'm taking a complete guess out of that list.
+You know, that's having you all get on the app at the same exact time, go ahead and purchase, trade, all at the same time, just kind of stress test the app, but a lot of that is also going to happen with ongoing volume. So we do want to start marketing with something a little bit lower volume than War Room to make any modifications that we need to make and work out any bugs that I'm sure we will have. So we'll definitely start with more steady marketing because it would be awful for War Room to be our first marketing campaign and to have 1,500 people come on and sign into the app in an hour and have it in a break in that hour.
 
-(38:46 - 39:03)
-I'd say Tucker's probably like the household name because I think it's on Fox, right? I'm sure somebody will correct me. But Bungino I think. I'm pretty sure FJB tried him.
+So the plan is to begin with a little bit lighter marketing than what War Room brings for that reason so we can have the devs on to fix anything that needs to be fixed. Can you blast emails to subscribers of PatriotPay.org? Yes, absolutely, of course.
 
-(39:03 - 39:12)
+We are still waiting on a few more wallets just of team members, other people we need to make, whether it's payments or some sort of promotional coins that we need to send them. So we're waiting on, I believe we have one more batch of payments to make and once everybody has their coins we will make sure to send, that actually should be by the end of the week I believe, to send an email with all those links and videos to let everybody know that we have worked and go ahead and import their coins and hold tight until we have the app ready. I expect to get an influx of people in the chats possibly with that.
+
+You can crush it one pebble at a time. How long do you think it will be until War Room? I definitely expect to have our smart wallet and our other integrations complete by the end and tested by the end of February.
+
+We are interviewing one more full-time dev to have on hand, that way if the devs we already have have not, yeah, that's all I'll say there. It does feel good, quite a relief and I do appreciate all the DMs and calls and texts. Very grateful for this community, super grateful for that.
+
+You guys are the best. Who has bigger reach? War Room, Tucker, Alex Jones, Bungie.
+
+There's probably, is that Tucker from that? I'm taking a complete guess out of that list. I'd say Tucker's probably like the household name because I think it's on Fox, right?
+
+I'm sure somebody will correct me. But Bungino I think. I'm pretty sure FJB tried him.
+
 If I'm not mistaken. And he was not interested. Someone will correct me if I'm wrong.
 
-(39:13 - 39:52)
 Seems like it's been like a lifetime since FJB when we were getting the air jobs done and of course we had our blockchain forensics specialist doing what he needs to do, looking at the days like in the wallets, you know, when it's this many days since. I'm like, oh my gosh, I've been here for this many days. Temple, oh yeah, Black Eagle, Joe Rogan wasn't on that list when I was reading off.
 
-(39:52 - 40:10)
 But in my head I did think Joe Rogan probably, but he's not on the list. I saw a Spotify made him a nice offer. Correct.
 
-(40:13 - 41:01)
-Okay, I will. Sorry, today's been one I was up a lot of the night very early, but it was full of meetings here and like calls and a bunch of stuff with our partners. Then I had to go to post office which took forever. 
+Okay, I will. Sorry, today's been one I was up a lot of the night very early, but it was full of meetings here and like calls and a bunch of stuff with our partners. Then I had to go to post office which took forever.
 
-So if I did miss your DM, my DM must be buried because I don't, I don't see it. Did you just DM me? I'm seeing unread DMs for today. I don't think yours should be in archives.
+[Speaker 2]
+So if I did miss your DM, my DM must be buried because I don't, I don't see it.
 
-(41:09 - 43:33)
-So you're saying there's a chance? Hey, you never know. You know, some of the influencers are a little bit, I think they're a little bit gun-shy to do anything crypto because a few influencers got in trouble for that. I can't remember off the top of my head. 
+[Speaker 3]
+Did you just DM me?
 
-I want to say a few. I don't want to say the wrong names, but I think there's still a lot of room for growth there being so early. Some websites still mention FGB. 
+[Speaker 2]
+I'm seeing unread DMs for today. I don't think yours should be in archives.
 
-Yeah, a lot of those websites just take forever. What I actually did is get on X Twitter and contact a lot of those. I've heard back from some of them, but not others. 
+[Speaker 1]
+So you're saying there's a chance? Hey, you never know. You know, some of the influencers are a little bit, I think they're a little bit gun-shy to do anything crypto because a few influencers got in trouble for that.
 
-How long do you think it'll be until War Room? I couldn't give you a guess just because it really depends on first getting our app complete and getting the new name released in the app stores. Elon. Yeah. 
+I can't remember off the top of my head. I want to say a few. I don't want to say the wrong names, but I think there's still a lot of room for growth there being so early.
 
-I know for any of you that do social media, that are pretty active on social media, I definitely highly recommend if you are reaching out to anybody or tagging anybody with some reach to do that in the middle of the night, like super early, usually like 3, 4, 5 a.m. It's a little trick there when nobody else is online, but their team is just getting online and that your mentions and DMs will get right to them a lot of the time. Just an idea. When do you think Trust Wallet will list price? I couldn't tell you, but I have been pinging them like crazy. 
+Some websites still mention FGB. Yeah, a lot of those websites just take forever. What I actually did is get on X Twitter and contact a lot of those.
 
-They probably think I'm a crazy person. I'm not mean or rude about it though. Always very nice and appreciated, but I do.
+I've heard back from some of them, but not others. How long do you think it'll be until War Room? I couldn't give you a guess just because it really depends on first getting our app complete and getting the new name released in the app stores.
 
-(43:40 - 44:58)
-Did I just hear Elon Musk will use PPY on X or did I just wish that? I think you just wished it, but again, tag him. Tag him in the middle of the night when nobody else is tagging him, so if somebody's on or he's on and he sees it. Do devs get paid in PPY? Yeah, actually more of our devs than not get paid in PPY, which has been like my brain at 3 a.m. Oh, did somebody change the BubbleBot photo? It's actually... or is that just because it's based on the amount? I'd have to ask.
+Elon. Yeah. I know for any of you that do social media, that are pretty active on social media, I definitely highly recommend if you are reaching out to anybody or tagging anybody with some reach to do that in the middle of the night, like super early, usually like 3, 4, 5 a.m. It's a little trick there when nobody else is online, but their team is just getting online and that your mentions and DMs will get right to them a lot of the time. Just an idea.
 
-(45:02 - 45:39)
-Yeah, that's a nice wallet. Great idea. I'm up on that. 
+When do you think Trust Wallet will list price? I couldn't tell you, but I have been pinging them like crazy. They probably think I'm a crazy person.
 
-Yeah, actually, the person who gave me that idea a few years ago, he specialized in conservative social media, conservative accounts. That was his job. I don't know what happened to him. 
+I'm not mean or rude about it though. Always very nice and appreciated, but I do. Did I just hear Elon Musk will use PPY on X or did I just wish that?
 
-He's in the FJP community. I have to reach out. I reached out to him a few months ago.
+I think you just wished it, but again, tag him. Tag him in the middle of the night when nobody else is tagging him, so if somebody's on or he's on and he sees it. Do devs get paid in PPY?
 
-(45:47 - 46:13)
-Well, I think that's everything I got. I'm gonna try to finish my coffee. I will get the recording up. 
+Yeah, actually more of our devs than not get paid in PPY, which has been like my brain at 3 a.m. Oh, did somebody change the BubbleBot photo?
+
+[Speaker 2]
+It's actually... or is that just because it's based on the amount? I'd have to ask.
+
+[Speaker 1]
+Yeah, that's a nice wallet. Great idea. I'm up on that.
+
+Yeah, actually, the person who gave me that idea a few years ago, he specialized in conservative social media, conservative accounts. That was his job.
+
+[Speaker 2]
+I don't know what happened to him. He's in the FJP community. I have to reach out.
+
+I reached out to him a few months ago.
+
+[Speaker 1]
+Well, I think that's everything I got. I'm gonna try to finish my coffee. I will get the recording up.
 
 Oh, we did not post those buying videos that I was gonna post on the last voice chat, I believe we had. I think it was on the last one. Yes.
 
-(46:14 - 47:28)
-Because we have some changes happening. I actually decided that that night, so it just wouldn't make sense. But if you guys do need anything else or have any difficulties with anything else, we'd be happy to make a quick instructional video and add that online to help you out. 
+Because we have some changes happening. I actually decided that that night, so it just wouldn't make sense. But if you guys do need anything else or have any difficulties with anything else, we'd be happy to make a quick instructional video and add that online to help you out.
 
-Or if I know a lot of you have like friends, families who have wallets, just let me know. Shoot me a DM and we'll do that. I think that's everything I got. 
+Or if I know a lot of you have like friends, families who have wallets, just let me know. Shoot me a DM and we'll do that. I think that's everything I got.
 
-If you do want some stickers, go ahead and either fill out the form on the website or send me your info in a DM or email and I'll get those sent out to you. I think I sent out almost 100 of them today. So that was nice. 
+If you do want some stickers, go ahead and either fill out the form on the website or send me your info in a DM or email and I'll get those sent out to you.
 
-Thank you. Thank you all. Yeah, I think we're in a good place and I'm very, very excited.
+[Speaker 2]
+I think I sent out almost 100 of them today. So that was nice. Thank you.
 
-(47:34 - 47:46)
+Thank you all. Yeah, I think we're in a good place and I'm very, very excited.
+
+[Speaker 1]
 Yes, fill out the form on the site, or you can just email me your address. Either way works. Either way will come to my Patriot Pay email.
 
-(47:50 - 48:19)
-Cool. You ordered Black Eagle stickers too. $1.39. What's that, Sam? What's $1.39? Oh yeah, I'll look at the price at 7.30 Eastern to see what that was and then I'll tag whoever is the winner.
+[Speaker 2]
+Cool. You ordered Black Eagle stickers too.
 
-(48:27 - 48:31)
-Awesome. All for his glory. Yeah, see, me and you can just work the night shift.
+[Speaker 1]
+$1.39. What's that, Sam? What's $1.39? Oh yeah, I'll look at the price at 7.30 Eastern to see what that was and then I'll tag whoever is the winner. Awesome. All for his glory. Yeah, see, me and you can just work the night shift.
 
-(48:32 - 48:39)
 Staying up so I could chat with you. No, it's very much worth it. It's been very rewarding.
 
-(48:46 - 50:58)
-Excellent. Well, you all have a great night. So weird because it does not feel like a Friday to me. 
+Excellent. Well, you all have a great night. So weird because it does not feel like a Friday to me.
 
-Have a safe, fun weekend. And I'll be here. I'll see you in general chat. 
+Have a safe, fun weekend. And I'll be here. I'll see you in general chat.
 
-I will post the recording right now. Let me know if you need anything in the meantime. Oh, I feel like I should say this because we haven't gotten any of you scammed recently. 
+I will post the recording right now. Let me know if you need anything in the meantime. Oh, I feel like I should say this because we haven't gotten any of you scammed recently.
 
-And it always happens when you're under the weather or sick or going through a divorce, etc. So please make sure not to share your info with anybody. Please make sure that admins, including me, we never need your seed phrase. 
+And it always happens when you're under the weather or sick or going through a divorce, etc. So please make sure not to share your info with anybody. Please make sure that admins, including me, we never need your seed phrase.
 
-We never need money from you. It's a huge red flag. If any profile that looks like mine or the admins messages you to ask you for a huge favor and to send us some money, we will never do that. 
+We never need money from you. It's a huge red flag. If any profile that looks like mine or the admins messages you to ask you for a huge favor and to send us some money, we will never do that.
 
-We do not want your money. Please keep that safe in your wallets. So be very wary of that and don't ever share your seed phrase. 
+We do not want your money. Please keep that safe in your wallets. So be very wary of that and don't ever share your seed phrase.
 
-Make sure to always ask in the general chat if you have any doubt. If it's a browser extension, you know, that's how a lot of people get scammed. If there's some sometimes even apps you download from the app store are actually scammer apps that haven't been removed yet. 
+Make sure to always ask in the general chat if you have any doubt. If it's a browser extension, you know, that's how a lot of people get scammed. If there's some sometimes even apps you download from the app store are actually scammer apps that haven't been removed yet.
 
-So please just be very, very careful of that. No dev of ours will contact you and definitely nobody will call you. If we ever need me or the admins to contact you, we'll make sure to tag you in the general chat asking you to DM us. 
+So please just be very, very careful of that. No dev of ours will contact you and definitely nobody will call you. If we ever need me or the admins to contact you, we'll make sure to tag you in the general chat asking you to DM us.
 
-So please be very, very careful of that. I would hate for any of you to get scammed at this time. And again, I know you guys know better, but it seems to always happen when we're just, you know, not thinking right or sick or something like that. 
+So please be very, very careful of that. I would hate for any of you to get scammed at this time. And again, I know you guys know better, but it seems to always happen when we're just, you know, not thinking right or sick or something like that.
 
-So that's all I got and I'll make sure to post that in the notes because I feel like it's been a few since I've reminded you all. Just again, be very careful and just ask in the general chat. I think that's really the best way to go about it. 
+So that's all I got and I'll make sure to post that in the notes because I feel like it's been a few since I've reminded you all. Just again, be very careful and just ask in the general chat. I think that's really the best way to go about it.
 
 Take a screenshot or whatever and post in the general chat. We can, there's always somebody there to answer that for you. But thank you all.
 
-(51:00 - 51:01)
 Have a good night.

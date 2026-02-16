@@ -1,260 +1,266 @@
-(0:01 - 0:29)
-So yes, Airdrop is planned for this week. I will let you know as soon as it happens. We'll post an announcement and tag everyone. 
+[Speaker 1]
+So yes, Airdrop is planned for this week. I will let you know as soon as it happens. We'll post an announcement and tag everyone.
 
 And I think that's all I have. Everything's going very well. We have just been busy preparing everything.
 
-(0:29 - 2:23)
-I did get some questions in DMs. I'll go through those. Okay, this is the first. 
+I did get some questions in DMs. I'll go through those. Okay, this is the first. Sorry if you hear my parrot yelling, Bob.
 
-Sorry if you hear my parrot yelling, Bob. So, change now. Change now is very close to being done. 
+So, change now. Change now is very close to being done. Very, very, very close.
 
-Very, very, very close. I will update you as soon as that's complete. Will the Airdrop be an automatic process? And will it be immediate? I.e., all Airdrops done at the same time? And will the Airdrop be completed in January? Yes, they are. 
+I will update you as soon as that's complete. Will the Airdrop be an automatic process? And will it be immediate?
 
-What we're using, it will be automated and all Airdrops will be completed at the same time. What's the status of logo and update from the app store? This seems to be months waiting. Is that normal? Has it been escalated? No, it's, I mean, it depends. 
+I.e., all Airdrops done at the same time? And will the Airdrop be completed in January? Yes, they are.
 
-I don't know what you call normal. Apple is harder to get through than the Google Play Store, and we wanted to get them completed and live at the same time. But yeah, I don't have an update about it, and I can't really share any more details on that. 
+What we're using, it will be automated and all Airdrops will be completed at the same time. What's the status of logo and update from the app store? This seems to be months waiting.
+
+Is that normal? Has it been escalated? No, it's, I mean, it depends.
+
+I don't know what you call normal. Apple is harder to get through than the Google Play Store, and we wanted to get them completed and live at the same time. But yeah, I don't have an update about it, and I can't really share any more details on that.
 
 It is not anything, it's not anything like as far as us getting cancelled off Apple or anything like that. I will say that. Just some, yeah, just some other issues on the back end.
 
-(2:26 - 5:45)
-Has contract testing finished? Yes, contract testing is complete, and we will continue making additions to the contract as we see fit. That's what's really awesome about the contract that our devs built, is that it is upgradable, so anything that doesn't go the way we like, or anything additional that we need, we can, for the most part, pretty easily modify the contract, which is super, super, super cool. Without forking, which is generally what happens. 
+Has contract testing finished? Yes, contract testing is complete, and we will continue making additions to the contract as we see fit. That's what's really awesome about the contract that our devs built, is that it is upgradable, so anything that doesn't go the way we like, or anything additional that we need, we can, for the most part, pretty easily modify the contract, which is super, super, super cool.
 
-You generally would need to fork to make those modifications. Sorry, hold on, I think I need to, I think I gotta change that to mute. Okay, contract testing went for close to two weeks. 
+Without forking, which is generally what happens. You generally would need to fork to make those modifications. Sorry, hold on, I think I need to, I think I gotta change that to mute.
 
-Will app testing follow the same time frame? We don't know. There's no way really to know with testing, right? Contract and app are completely different. Obviously the app is going to use the contract, yes, but there's really no telling on that. 
+Okay, contract testing went for close to two weeks. Will app testing follow the same time frame? We don't know.
 
-If everything goes as expected, of course we expect a few days, but if that's not the case and changes need to be made, there's not really a time frame I can give you. I'd be lying if I was giving you a time, and you know, even devs, I mean, a lot of times if something's not functioning correctly, they can check and see, but sometimes they don't know why, and that takes a lot of time to kind of debug everything. So no telling on that, but we'll know once we start. 
+There's no way really to know with testing, right? Contract and app are completely different. Obviously the app is going to use the contract, yes, but there's really no telling on that.
 
-We just need ChangeNow and Transact both to be working to be able to test the app. When do you anticipate trading being enabled? I will update you. Information. 
+If everything goes as expected, of course we expect a few days, but if that's not the case and changes need to be made, there's not really a time frame I can give you. I'd be lying if I was giving you a time, and you know, even devs, I mean, a lot of times if something's not functioning correctly, they can check and see, but sometimes they don't know why, and that takes a lot of time to kind of debug everything. So no telling on that, but we'll know once we start.
 
-When do you anticipate war room? When do you anticipate marketing? War room will be after our app is not only functional with the Patriot Pay integrations, but also with our new login and account creation process. Once that's complete, then we will be stress testing it to make sure everything is 100% before war room. We definitely don't want a repeat of wire, not only in the sense of wire canceling us, we have made sure of that, but more so really anything preventing the app from crashing or anything like that.
+We just need ChangeNow and Transact both to be working to be able to test the app. When do you anticipate trading being enabled? I will update you.
 
-(5:48 - 6:06)
-Um, the other questions, yeah, I think I've answered. Let's see, I have another set in here. I will run through those, then I'll go through DMs.
+Information. When do you anticipate war room? When do you anticipate marketing?
 
-(6:13 - 7:57)
-Update on the new full-time hire, role in the team, background and experience, start date. So it's not a full-time, but he is on the payroll, super MAGA, his role in the team is he will be working side-by-side by We the People to help with graphics. I think uh, We the People is doing a ton and I think this will definitely help him focus on social media, which has been great. 
+War room will be after our app is not only functional with the Patriot Pay integrations, but also with our new login and account creation process. Once that's complete, then we will be stress testing it to make sure everything is 100% before war room. We definitely don't want a repeat of wire, not only in the sense of wire canceling us, we have made sure of that, but more so really anything preventing the app from crashing or anything like that.
 
-He already started this weekend, he's done some work for us before, but not on, you know, not on the team as ongoing everyday work. He's done a few, several of our graphics and stuff like that. So, very excited for that, hoping that definitely helps We the People focus on social media growth, very excited for that. 
+Um, the other questions, yeah, I think I've answered. Let's see, I have another set in here. I will run through those, then I'll go through DMs. Update on the new full-time hire, role in the team, background and experience, start date. So it's not a full-time, but he is on the payroll, super MAGA, his role in the team is he will be working side-by-side by We the People to help with graphics. I think uh, We the People is doing a ton and I think this will definitely help him focus on social media, which has been great. He already started this weekend, he's done some work for us before, but not on, you know, not on the team as ongoing everyday work.
 
-And I think they've been, seems like they've been working very well together so far, so that's been great. Background, role on the team, okay, so graphics and design, background and experience. I want to say, off the top of my head, I want to say roughly about 20 years of, wow, sorry I just drew a blank, 20 years of design experience.
+He's done a few, several of our graphics and stuff like that. So, very excited for that, hoping that definitely helps We the People focus on social media growth, very excited for that. And I think they've been, seems like they've been working very well together so far, so that's been great.
 
-(7:58 - 8:28)
-He does do this for a living, full-time. Okay, third party progress and readiness for final decision to go live, change now, update, integration, quick swap, and transact, integration. Yeah, I'm not sure what that means, you'll have to explain that if you're in chat.
+Background, role on the team, okay, so graphics and design, background and experience. I want to say, off the top of my head, I want to say roughly about 20 years of, wow, sorry I just drew a blank, 20 years of design experience. He does do this for a living, full-time.
 
-(8:29 - 10:35)
-That's, that's a lot of words for one question, but I think I did answer the change now. Update, Patriot Pay app, development, progress, key functions, features complete, add-on features, stat, I think I've answered everything there. Stiff neck reduction plan, looking up days on end for air droppers, cause cervical stiffness, and reduce mobility, need cure ASAP, probably sleep on a heating pad, I don't know, that seems to work. 
+Okay, third party progress and readiness for final decision to go live, change now, update, integration, quick swap, and transact, integration. Yeah, I'm not sure what that means, you'll have to explain that if you're in chat. That's, that's a lot of words for one question, but I think I did answer the change now.
 
-And lots, lots of, I don't know, I have this peppermint oil stuff, I think it's like peppermint and spearmint, try that, should help. Uh, okay, let me go to the champs. Yes, We The People does an amazing job. 
+Update, Patriot Pay app, development, progress, key functions, features complete, add-on features, stat, I think I've answered everything there. Stiff neck reduction plan, looking up days on end for air droppers, cause cervical stiffness, and reduce mobility, need cure ASAP, probably sleep on a heating pad, I don't know, that seems to work. And lots, lots of, I don't know, I have this peppermint oil stuff, I think it's like peppermint and spearmint, try that, should help.
 
-He's been working his butt off. By the way, I'm trying this gluten-free beer for the first time and it's actually not bad. It's the ultimate golden ale. 
+Uh, okay, let me go to the champs. Yes, We The People does an amazing job. He's been working his butt off.
 
-Hey, you guys are on one. Hey, Sun Devil, you can't look at Russell's list. I know, I haven't, and I muted my chat yesterday when that was going on because I didn't want to know any names, but somebody should send me the list. 
+By the way, I'm trying this gluten-free beer for the first time and it's actually not bad. It's the ultimate golden ale. Hey, you guys are on one.
 
-Can somebody do that? Send me the list with like the names blocked out. I'm just curious to see the guesses. Or maybe that way I can, but make sure you don't send me the names.
+Hey, Sun Devil, you can't look at Russell's list. I know, I haven't, and I muted my chat yesterday when that was going on because I didn't want to know any names, but somebody should send me the list. Can somebody do that?
 
-(10:36 - 12:18)
-Or maybe I can look at the guesses and see if, if like one of them fits in the schedule we're thinking. Then we can pick exactly that time, whichever one is like the closest. Okay, I don't see any questions. 
+Send me the list with like the names blocked out. I'm just curious to see the guesses. Or maybe that way I can, but make sure you don't send me the names.
 
-One Patriot Pay logo hat. Can we go live tomorrow and launch Thursday and Friday? Wait, so you mean airdrop tomorrow and enable trading Thursday or Friday? Maybe. When next PPY by night? Last Tuesday, Change Now said 24 hours. 
+Or maybe I can look at the guesses and see if, if like one of them fits in the schedule we're thinking. Then we can pick exactly that time, whichever one is like the closest. Okay, I don't see any questions.
 
-Is there another estimate from them? Yeah, that took longer than 24 hours, but they have moved much closer. That's all I can really say on that, but just through the testing phases, they have to go through and exactly just all the steps. That's all I can tell you.
+One Patriot Pay logo hat. Can we go live tomorrow and launch Thursday and Friday? Wait, so you mean airdrop tomorrow and enable trading Thursday or Friday?
 
-(12:40 - 13:22)
-They said 24 hours and gave them 160. I know, but they did give us, they did give us quite the discount. They were having some issues, so we appreciate that. 
+Maybe. When next PPY by night? Last Tuesday, Change Now said 24 hours.
 
-And they're continuing to and willing to work with us. And hopefully with volume, we plan to work up, you know, up that totem pole where we're not so tiny down here. And I have no doubt with volume that we'll get a higher priority on, you know, on lists of companies like Transact, Change Now, etc.
+Is there another estimate from them? Yeah, that took longer than 24 hours, but they have moved much closer. That's all I can really say on that, but just through the testing phases, they have to go through and exactly just all the steps.
 
-(13:33 - 15:00)
-I'm not sure if this is a question. Let's check. Linda, how do you call me pretty often? I miss calls from you pretty often. 
+That's all I can tell you. They said 24 hours and gave them 160. I know, but they did give us, they did give us quite the discount.
 
-I think you call me by accident though. Hmm. It's weird. 
+They were having some issues, so we appreciate that. And they're continuing to and willing to work with us. And hopefully with volume, we plan to work up, you know, up that totem pole where we're not so tiny down here.
 
-Discord needs to like automatically, maybe there's some setting you need to change in here. It doesn't automatically mute people and I get easily distracted by that. Probably need to chill out on the caffeine. 
+And I have no doubt with volume that we'll get a higher priority on, you know, on lists of companies like Transact, Change Now, etc. I'm not sure if this is a question. Let's check.
 
-Is Boris still fired up? Yes, Boris. Boris is very excited for his airdrop. Very, very excited for his airdrop. 
+Linda, how do you call me pretty often? I miss calls from you pretty often. I think you call me by accident though.
 
-He's also asking, when, when, when? Yes. Cars and Crypto. Cars and Crypto, have you made it in the chat yet? I feel like you've been having difficulties joining the chat.
+Hmm. It's weird. Discord needs to like automatically, maybe there's some setting you need to change in here.
 
-(15:03 - 15:44)
-Oh, I'm sure Tim's fired up. Nobody's sent me the list yet. I need to see it. 
+It doesn't automatically mute people and I get easily distracted by that. Probably need to chill out on the caffeine. Is Boris still fired up?
 
-I currently have pink eye, oi, that sucks. Hopefully you feel better very soon. Hopefully an airdrop will make you feel better.
+Yes, Boris. Boris is very excited for his airdrop. Very, very excited for his airdrop.
 
-(15:46 - 15:58)
-Also, don't die. That must be MJ's hot wife. Sorry, MJ, I'm here to do.
+He's also asking, when, when, when? Yes. Cars and Crypto.
 
-(16:03 - 16:19)
-Okay, I think that's everything. That's all I got for now. Unless you all have anything else.
+Cars and Crypto, have you made it in the chat yet? I feel like you've been having difficulties joining the chat. Oh, I'm sure Tim's fired up.
 
-(16:21 - 16:45)
-Let's see. Yeah, that's, that's everything on my end. Okay.
+Nobody's sent me the list yet. I need to see it. I currently have pink eye, oi, that sucks.
 
-(16:45 - 17:50)
-Hi, James. Okay, any other questions before I head out? When buy my pillow with P.P.Y.? I think your first, your first buy will be bumper stickers with P.P.Y. Okay. Well, well, you don't need to buy them either. 
+Hopefully you feel better very soon. Hopefully an airdrop will make you feel better. Also, don't die.
+
+That must be MJ's hot wife. Sorry, MJ, I'm here to do. Okay, I think that's everything.
+
+That's all I got for now. Unless you all have anything else. Let's see.
+
+Yeah, that's, that's everything on my end. Okay. Hi, James.
+
+Okay, any other questions before I head out? When buy my pillow with P.P.Y.? I think your first, your first buy will be bumper stickers with P.P.Y. Okay. Well, well, you don't need to buy them either.
 
 We'll send them out to you guys, but there's just a shipping charge to help with shipping. But you can use P.P.Y. to pay, to pay a few bucks to help out with shipping. Oh yeah, James has all the pillows.
 
-(17:52 - 20:01)
-You can never have too many pillows. And do you have a dog? They make amazing dog beds. And what else? I heard their sheets are good, but I'm in the desert, so I have to have cooling sheets, and I don't know if they have those. 
+You can never have too many pillows. And do you have a dog? They make amazing dog beds.
 
-The bamboo cooling sheets are a lot cooler, and I sleep hot. I'm usually freezing, but I sleep really hot. When buy a war room merch with P.P.Y.? Sheets are the, shh, James says, oh not, okay, not the MyPillow ones. 
+And what else? I heard their sheets are good, but I'm in the desert, so I have to have cooling sheets, and I don't know if they have those. The bamboo cooling sheets are a lot cooler, and I sleep hot.
 
-I don't know what brand that is. But bamboo ones are super cooling if you live somewhere super hot like I do. Untax the smart wallets? Why? Decentralized everything, says those sheets. 
+I'm usually freezing, but I sleep really hot. When buy a war room merch with P.P.Y.? Sheets are the, shh, James says, oh not, okay, not the MyPillow ones. I don't know what brand that is.
 
-How come I've never heard of those? At least I don't think I have. Oh, they are the MyPillow sheets, okay. I didn't realize that. 
+But bamboo ones are super cooling if you live somewhere super hot like I do. Untax the smart wallets? Why?
 
-I've not ever, uh, bought their sheets. Can you tell Steve to stop trashing digital currency? I know he means CBDCs, but if he, if doing, excuse me, if going to make selling P.P.Y. more difficult when we flick the switch? It's, it's Steve. He can, you know, he, he knows what to say.
+Decentralized everything, says those sheets. How come I've never heard of those? At least I don't think I have.
 
-(20:02 - 20:15)
-Though his viewers, the war room viewers, know that he wouldn't steer them wrong, in my opinion. I wouldn't worry about that too much. I think we'll be fine.
+Oh, they are the MyPillow sheets, okay. I didn't realize that. I've not ever, uh, bought their sheets.
 
-(20:21 - 20:31)
-James says, yeah. Towels rock. I don't, I don't think I have any of their towels either.
+Can you tell Steve to stop trashing digital currency? I know he means CBDCs, but if he, if doing, excuse me, if going to make selling P.P.Y. more difficult when we flick the switch? It's, it's Steve.
 
-(20:33 - 20:44)
-I do need any towels though, actually. Maybe I should try them. Apparently the slippers are baller.
+He can, you know, he, he knows what to say. Though his viewers, the war room viewers, know that he wouldn't steer them wrong, in my opinion. I wouldn't worry about that too much.
 
-(20:52 - 21:06)
-I'll have to try them. Costco has, uh, one of their towels, but they haven't had it in for a while, because I've been checking, because I need towels. They're like super thick towels, and they have not had them for a while.
+I think we'll be fine. James says, yeah. Towels rock.
 
-(21:08 - 21:38)
-I don't really leave, Costco's not too far from the house, so I can go there, but I don't really go out shopping other than, uh, Amazon. I don't know if I want to order towels off Amazon. 30 bucks for a set of towels from Mike, James says. 
+I don't, I don't think I have any of their towels either. I do need any towels though, actually. Maybe I should try them.
 
-He won't be sorry. Let's fix shipping. I'm starting to think James has a, uh, MyPillow code.
+Apparently the slippers are baller. I'll have to try them. Costco has, uh, one of their towels, but they haven't had it in for a while, because I've been checking, because I need towels.
 
-(21:45 - 23:11)
-Bendy boy. Yeah, I don't, I think the war room viewers know. They know what Steve, me, and he'll, hey, they know. 
+They're like super thick towels, and they have not had them for a while. I don't really leave, Costco's not too far from the house, so I can go there, but I don't really go out shopping other than, uh, Amazon. I don't know if I want to order towels off Amazon.
 
-Yeah, I think we'll be good. All right, I think that's everything. Uh, airdrop for sure this week, um, unless something crazy out of our control happens, um, but otherwise, uh, airdrop this week, and, yeah, I think it'll be a good week. 
+30 bucks for a set of towels from Mike, James says. He won't be sorry. Let's fix shipping.
 
-Uh, change now, you know, just took a little bit, a lot longer than expected, but again, they are taking care of us and, uh, gave us a super, super nice discount, so that's wonderful. Um, Mike says he has the towels too. Well, maybe I'm sold. 
+I'm starting to think James has a, uh, MyPillow code. Bendy boy. Yeah, I don't, I think the war room viewers know.
 
-Maybe I'm sold. I am in the middle of redoing the bathroom, so I don't know. That's like the next decisions. 
+They know what Steve, me, and he'll, hey, they know. Yeah, I think we'll be good. All right, I think that's everything.
 
-Colors, gotta make choices. Um, Voodoo Child says go live February 4th. That seems like a long time from now.
+Uh, airdrop for sure this week, um, unless something crazy out of our control happens, um, but otherwise, uh, airdrop this week, and, yeah, I think it'll be a good week. Uh, change now, you know, just took a little bit, a lot longer than expected, but again, they are taking care of us and, uh, gave us a super, super nice discount, so that's wonderful. Um, Mike says he has the towels too.
 
-(23:12 - 24:01)
-Tuesday. Oh, that's Saturday too. 11 a.m. That's exactly when I'm probably not going to be home Saturday morning. 
+Well, maybe I'm sold. Maybe I'm sold. I am in the middle of redoing the bathroom, so I don't know.
 
-Uh, go live trade soon. Yes. Um, I know, you know, we just want to make sure that both Change Now and Transact are 100% ready, uh, before we go live, just so those of you who do want to make some purchases can, so that's why that's a big deal.
+That's like the next decisions. Colors, gotta make choices. Um, Voodoo Child says go live February 4th.
 
-(24:01 - 24:19)
-Uh, Russ agrees that the towels are bomb. James says tomorrow 4 p.m. Is this Eastern? Are all these times Eastern? Tomorrow 4 p.m. means what? Two, my time. Okay.
+That seems like a long time from now. Tuesday. Oh, that's Saturday too.
 
-(24:21 - 24:55)
-Voodoo Child says, oh, that's, oh yeah, it's January 31 days. That's even worse. Sunday are like my late days. 
+11 a.m. That's exactly when I'm probably not going to be home Saturday morning. Uh, go live trade soon. Yes.
 
-I don't get home till 1 32. That means everybody's going to be at church. Are you trying to get people, what? What are you trying to do, Voodoo Child? Central.
+Um, I know, you know, we just want to make sure that both Change Now and Transact are 100% ready, uh, before we go live, just so those of you who do want to make some purchases can, so that's why that's a big deal. Uh, Russ agrees that the towels are bomb. James says tomorrow 4 p.m. Is this Eastern? Are all these times Eastern? Tomorrow 4 p.m. means what? Two, my time.
 
-(25:04 - 25:46)
-Voodoo Child to the church says that's God answering their prayers. Oh, gosh. Will the app look like the advertisements finally? I mean, the app, the app's pretty close. 
+Okay. Voodoo Child says, oh, that's, oh yeah, it's January 31 days. That's even worse.
 
-The current screenshots are pretty close to what the app is right now. James says not really. Are we looking at the same app, James? Or maybe you're talking about the screenshots on the website, just the details.
+Sunday are like my late days. I don't get home till 1 32. That means everybody's going to be at church.
 
-(25:49 - 26:59)
-The graphics are pretty in the window. Patriot Pay Brandon. Not that I can make an app or anything. 
+Are you trying to get people, what? What are you trying to do, Voodoo Child? Central.
 
-I'm sure you could do anything you put your mind to, James. I noticed in the app, FJB is called, I assume, Patriot Pay. Will you be changing FJB back to FJB in the app so that the new coin deposited in the app will be Patriot Pay? What? Your Patriot Pay will be deposited in the app, and you will have Patriot Pay instead of FJB.
+Voodoo Child to the church says that's God answering their prayers. Oh, gosh. Will the app look like the advertisements finally?
 
-(27:12 - 27:59)
-Okay, that answers that. So any FJB in the app is gone? No. So FJB will live on. 
+I mean, the app, the app's pretty close. The current screenshots are pretty close to what the app is right now. James says not really.
 
-As far as the app goes, never know. Steve really likes the FJB, you know, part of FJB. But yes, for now, FJB will be gone, although it lives forever there because there is no way for us to kill it.
+Are we looking at the same app, James? Or maybe you're talking about the screenshots on the website, just the details. The graphics are pretty in the window.
 
-(28:02 - 28:16)
-Yeah, but yes, you will get Patriot Pay instead of FJB. Correct. Yes, sir.
+Patriot Pay Brandon. Not that I can make an app or anything. I'm sure you could do anything you put your mind to, James.
 
-(28:41 - 28:57)
-So the Smart Wallet FJB coins are gone. No, they're still there. We would just have to add FJB back to the app.
+I noticed in the app, FJB is called, I assume, Patriot Pay. Will you be changing FJB back to FJB in the app so that the new coin deposited in the app will be Patriot Pay? What?
 
-(29:01 - 29:09)
-So FJB won't reappear. FJB will not reappear right now. In the future, we might add it back to the app.
+Your Patriot Pay will be deposited in the app, and you will have Patriot Pay instead of FJB. Okay, that answers that. So any FJB in the app is gone?
 
-(29:10 - 30:52)
-I feel like I highly doubt that. But maybe Biden will get a second term. My god. 
+No. So FJB will live on. As far as the app goes, never know.
 
-Oh, I don't know. I'm over the FJB thing. I mean, yes, we know. 
+Steve really likes the FJB, you know, part of FJB. But yes, for now, FJB will be gone, although it lives forever there because there is no way for us to kill it. Yeah, but yes, you will get Patriot Pay instead of FJB.
 
-We all believe FJB. But I think it's... I don't know. I think everybody's kind of... If they're not in the app, then how do we access them? Exactly. 
+Correct. Yes, sir. So the Smart Wallet FJB coins are gone.
 
-There is no way to access them unless we add them back in. It will still be there. Yeah, it is. 
+No, they're still there. We would just have to add FJB back to the app. So FJB won't reappear.
 
-Your FJB coins are still out there. But the coin count of FJB in the Patriot Pay app is gone. Correct. 
+FJB will not reappear right now. In the future, we might add it back to the app. I feel like I highly doubt that.
 
-Because that's... we replaced it in the app. We replaced the code the devs have. So it's not showing in your app. 
+But maybe Biden will get a second term. My god. Oh, I don't know.
 
-But they are still there. Does that make sense? They're there. They're just not showing up for you on the front end. 
+I'm over the FJB thing. I mean, yes, we know. We all believe FJB.
 
-We just, we have it hidden, if you will. Can you send them out? No, because you're getting your... we do not owe you the FJB. You are getting Patriot Pay.
+But I think it's... I don't know. I think everybody's kind of...
 
-(30:53 - 31:29)
-That is your payment for the FJB you have. Any update from Transac or ChangeNow? Miles, Travis, where have you been? ChangeNow is definitely a lot closer than they were last week. And they will be done this week.
+If they're not in the app, then how do we access them? Exactly. There is no way to access them unless we add them back in.
 
-(31:31 - 34:36)
-That's what is what we've been told. I'm sure some of you saw one of their employees accidentally, prematurely posted something that they were done testing, but they are not. They're very close, but definitely closer than they were last week. 
+It will still be there. Yeah, it is. Your FJB coins are still out there.
 
-But they are not. So the app is all ready for the airdrop then? I mean, the app doesn't need to be complete, or even functional for the airdrop, right? Because your wallets are still there on the blockchain. So no to answer your question. 
+But the coin count of FJB in the Patriot Pay app is gone. Correct. Because that's...
 
-The app is still being worked on. But that has... that's not dependent. Like when we airdrop, they will still go to your wallets that are in the app. 
+we replaced it in the app. We replaced the code the devs have. So it's not showing in your app.
 
-With that, please don't, I don't recommend using your app. I know I feel like I haven't said that in a while. So just a reminder, even when the airdrop does happen, and even when trading is live, I would not use the app if I were you. 
+But they are still there. Does that make sense? They're there.
 
-I don't think that's a good idea yet. Since the devs are still working on it. How does reducing the tax so we can transfer out a smart wallet effect change now? Uh, I don't remember the details. 
+They're just not showing up for you on the front end. We just, we have it hidden, if you will. Can you send them out?
 
-Or I don't really... I don't know if I don't remember. I don't think I understand the full details of that. But I trust our devs and our advisor who have made that decision on that. 
+No, because you're getting your... we do not owe you the FJB. You are getting Patriot Pay.
 
-And due to that, only thing will change is the value. Only difference we will see. Yeah, you should be able to. 
+That is your payment for the FJB you have. Any update from Transac or ChangeNow? Miles, Travis, where have you been?
 
-People want to see their balance of PPY in the app. I'm pretty sure you will. Please get an explanation. 
+ChangeNow is definitely a lot closer than they were last week. And they will be done this week. That's what is what we've been told.
 
-I don't think I will be giving an explanation. Not because we're trying to keep things secretive from you. But there are some things I think, yeah, that for the best interest of everybody are not shared. 
+I'm sure some of you saw one of their employees accidentally, prematurely posted something that they were done testing, but they are not. They're very close, but definitely closer than they were last week. But they are not.
 
-And it's all, you know, it's all public. So anybody who can find out the info for themselves, of course can. But I think it protects us from bad actors.
+So the app is all ready for the airdrop then? I mean, the app doesn't need to be complete, or even functional for the airdrop, right? Because your wallets are still there on the blockchain.
 
-(34:40 - 35:52)
-Have Transact completed their integration on the contract? So it's been a hard day today. I feel like I've not drank this much water in such a long time. Transact is complete, yes. 
+So no to answer your question. The app is still being worked on. But that has...
 
-They have not enabled anybody to buy yet. But yeah, we were told quite a bit ago, I feel like, relatively, that they are done. Sorry, I think some of you are still having trouble joining via new telegram designed to keep spammers out.
+that's not dependent. Like when we airdrop, they will still go to your wallets that are in the app. With that, please don't, I don't recommend using your app.
 
-(36:08 - 37:15)
-When to PatriotPay and Discord? What do you mean? You can tip PatriotPay right now. I've been tipping you guys PatriotPay in there. Okay. 
+I know I feel like I haven't said that in a while. So just a reminder, even when the airdrop does happen, and even when trading is live, I would not use the app if I were you. I don't think that's a good idea yet.
 
-Your ability to transfer your tips in and out will happen. So as soon as we airdrop when it said FJB. What? Oh, it has. 
+Since the devs are still working on it. How does reducing the tax so we can transfer out a smart wallet effect change now? Uh, I don't remember the details.
 
-Oh, I see what you're saying. Okay. It'll change. 
+Or I don't really... I don't know if I don't remember. I don't think I understand the full details of that.
 
-So as soon as we airdrop the tip.cc, we'll get their airdrop. And then we'll let them know to go ahead and enable trading. As soon as their dev does that, that will be complete. 
+But I trust our devs and our advisor who have made that decision on that. And due to that, only thing will change is the value. Only difference we will see.
 
-It's already all done. So they just need to turn it on and off. And then you guys can transfer in and out of there again.
+Yeah, you should be able to. People want to see their balance of PPY in the app. I'm pretty sure you will.
 
-(37:20 - 38:19)
-Shit. James got muted. I guess I'll unmute you. 
+Please get an explanation. I don't think I will be giving an explanation. Not because we're trying to keep things secretive from you.
 
-What did you do? What did you do? Anything else? See where you are, James. I can't find you. Okay.
+But there are some things I think, yeah, that for the best interest of everybody are not shared. And it's all, you know, it's all public. So anybody who can find out the info for themselves, of course can.
 
-(38:22 - 39:43)
-Will someone unmute James, please? Oh, boy. Love these cinnamon gummies right now. All right. 
+But I think it protects us from bad actors. Have Transact completed their integration on the contract? So it's been a hard day today.
 
-Is that everything? I think that's everything. Oh, Discord. Okay. 
+I feel like I've not drank this much water in such a long time. Transact is complete, yes. They have not enabled anybody to buy yet.
 
-If I hold FJB on MetaMask, is it wise to transfer to my wallet on the app? Or will the PatriotPay get airdropped to MetaMask when I just transfer to the app? No, I would not transfer. I would not transfer anything right now. Your PatriotPay will get airdropped to your MetaMask wallet.
+But yeah, we were told quite a bit ago, I feel like, relatively, that they are done. Sorry, I think some of you are still having trouble joining via new telegram designed to keep spammers out. When to PatriotPay and Discord?
 
-(39:45 - 41:00)
-Yeah, I would not transfer that to the wallet, because you will get charged a 8% transfer fee. Cool. I think that's everything, then. 
+What do you mean? You can tip PatriotPay right now. I've been tipping you guys PatriotPay in there.
 
-All right. As usual, please don't share your seed phrase or any other personal information with anybody. Remember, admins and I will never message you first. 
+Okay. Your ability to transfer your tips in and out will happen. So as soon as we airdrop when it said FJB.
 
-We also will never ask you for money. So be very wary of that. If you get a profile that looks like mine or one of the admins, that is probably a scammer. 
+What? Oh, it has. Oh, I see what you're saying.
 
-If you ever are in doubt, please ask in the general chat. That's really the best thing to do, I think. There's always somebody around, and then, you know, it's not a scammer.
+Okay. It'll change. So as soon as we airdrop the tip.cc, we'll get their airdrop. And then we'll let them know to go ahead and enable trading. As soon as their dev does that, that will be complete. It's already all done.
 
-(41:03 - 41:32)
-If there's anything else you need in the meantime, please go ahead and contact me through DMs, emails, calls, texts. I think you guys know what to do, or any of the other admins. Yeah, again, do not use the app right now. 
+So they just need to turn it on and off. And then you guys can transfer in and out of there again. Shit.
 
-I highly do not recommend it. Um, yeah, please wait on that. Please wait for an announcement.
+James got muted. I guess I'll unmute you. What did you do?
 
-(41:34 - 42:11)
-And I think that's all I got. I will record, or I will post this recording with some notes, and I will see you guys in general chat if you need anything else. Yeah, I think this will be wrapped up very soon, and then we can finally move to the next phase. 
+What did you do? Anything else? See where you are, James.
 
-Then you guys can ask the next win questions. You all have a wonderful night. Talk to you soon.
+I can't find you.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
+Will someone unmute James, please? Oh, boy. Love these cinnamon gummies right now.
+
+All right. Is that everything? I think that's everything.
+
+Oh, Discord. Okay. If I hold FJB on MetaMask, is it wise to transfer to my wallet on the app?
+
+Or will the PatriotPay get airdropped to MetaMask when I just transfer to the app? No, I would not transfer. I would not transfer anything right now.
+
+Your PatriotPay will get airdropped to your MetaMask wallet. Yeah, I would not transfer that to the wallet, because you will get charged a 8% transfer fee.
+
+[Speaker 2]
+Cool.
+
+[Speaker 1]
+I think that's everything, then. All right. As usual, please don't share your seed phrase or any other personal information with anybody.
+
+Remember, admins and I will never message you first. We also will never ask you for money. So be very wary of that.
+
+If you get a profile that looks like mine or one of the admins, that is probably a scammer. If you ever are in doubt, please ask in the general chat. That's really the best thing to do, I think.
+
+There's always somebody around, and then, you know, it's not a scammer. If there's anything else you need in the meantime, please go ahead and contact me through DMs, emails, calls, texts. I think you guys know what to do, or any of the other admins.
+
+Yeah, again, do not use the app right now. I highly do not recommend it. Um, yeah, please wait on that.
+
+Please wait for an announcement. And I think that's all I got. I will record, or I will post this recording with some notes, and I will see you guys in general chat if you need anything else.
+
+Yeah, I think this will be wrapped up very soon, and then we can finally move to the next phase. Then you guys can ask the next win questions. You all have a wonderful night.
+
+Talk to you soon.

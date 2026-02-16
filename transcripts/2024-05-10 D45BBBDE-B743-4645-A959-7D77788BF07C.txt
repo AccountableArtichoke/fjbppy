@@ -1,188 +1,200 @@
-(0:00 - 0:07)
-I hope everybody's doing well. I had to grab a drink today because you guys have DMs. Oh man.
+[Speaker 1]
+I hope everybody's doing well. I had to grab a drink today because you guys have DMs. Oh man. An extra strong one.
 
-(0:11 - 0:29)
-An extra strong one. All right, let's get to it. App-wise, the devs have made all the modifications they need to for the new wallet creation.
+All right, let's get to it. App-wise, the devs have made all the modifications they need to for the new wallet creation. Yeah, so they're done with that.
 
-(0:34 - 2:06)
-Yeah, so they're done with that. I am waiting to test it. We're actually also gonna add on the... I think I shared with you guys already that we are moving... Let me make sure I'm on Discord. 
+I am waiting to test it. We're actually also gonna add on the... I think I shared with you guys already that we are moving...
 
-I'm assuming everybody can hear me. So we are, I think I already mentioned to you guys, we are moving from the Ethereum network on the app to the Polygon network. This will... Basically what this means is now the USDT we have in the app and the USDC, the stablecoins, will now be... And actually also the WBTC, which is the wrapped Bitcoin. 
+Let me make sure I'm on Discord. I'm assuming everybody can hear me. So we are, I think I already mentioned to you guys, we are moving from the Ethereum network on the app to the Polygon network.
+
+This will... Basically what this means is now the USDT we have in the app and the USDC, the stablecoins, will now be... And actually also the WBTC, which is the wrapped Bitcoin.
 
 Those will all be on the Polygon network now instead of the Ethereum network. What that means for you guys is it will be a lot cheaper for you to transact with those. A few of you before learned the hard way when you tried to convert into stablecoin that it was very, very expensive to transact on the Ethereum network.
 
-(2:07 - 3:52)
-So that'll be great. Ethereum will stay on Ethereum. So yeah, that'll stay. 
+So that'll be great. Ethereum will stay on Ethereum. So yeah, that'll stay.
 
-So the devs are actually gonna go ahead and make that change. And then you all will get to test. The reason we're doing that is because the next update is gonna be the next version of the app that we have you all test. 
+So the devs are actually gonna go ahead and make that change. And then you all will get to test. The reason we're doing that is because the next update is gonna be the next version of the app that we have you all test.
 
-The next update is going to have our new onRamper. And we definitely want, once we made the decision to move the app to the Polygon network instead of having the Ethereum network on there as far as the stablecoins go, it makes more sense for us to do that now before you all test the onRamper. That way when you test the onRamper, that you'll be testing it on the Polygon network when you swap in and out. 
+The next update is going to have our new onRamper. And we definitely want, once we made the decision to move the app to the Polygon network instead of having the Ethereum network on there as far as the stablecoins go, it makes more sense for us to do that now before you all test the onRamper. That way when you test the onRamper, that you'll be testing it on the Polygon network when you swap in and out.
 
-So yeah, that will be great. Sarah, explain what? What are we talking about here? I'm sure I'm not the only one confused. Help me understand. 
+So yeah, that will be great. Sarah, explain what? What are we talking about here?
 
-The LLC was formed after the or during the fork if I'm not mistaken. It was before, during, yeah. Um, so if that's the case, how was the two billion for the LLC paid for? I understand that the one billion for the Bannon and Boris wallet may have been there before the fork and airdrop.
+I'm sure I'm not the only one confused. Help me understand. The LLC was formed after the or during the fork if I'm not mistaken.
 
-(3:53 - 4:14)
+It was before, during, yeah. Um, so if that's the case, how was the two billion for the LLC paid for? I understand that the one billion for the Bannon and Boris wallet may have been there before the fork and airdrop.
+
 The two billion LLC wallet, however, doesn't make sense to me. So for the more technical explanation, I definitely refer you to ask your question in the tab for the advisor questions. And he'll go ahead and explain that to you in great detail and with much more technically and correctly, I'm sure, than I can.
 
-(4:16 - 7:37)
-However, again, with the fork, we decided, I think we also actually shared that with the community that we will do what's best for the organization. And we said from the beginning, we probably won't be burning, um, as many coins that were burned before, um, because we need to pay for things. Um, so that doesn't, um, instead of those coins being burnt, they were sent to, um, the LLC wallet. 
+However, again, with the fork, we decided, I think we also actually shared that with the community that we will do what's best for the organization. And we said from the beginning, we probably won't be burning, um, as many coins that were burned before, um, because we need to pay for things. Um, so that doesn't, um, instead of those coins being burnt, they were sent to, um, the LLC wallet.
 
-Uh, we did a similar, um, well, I guess we weren't, I was going to say we did similar when we did the fork before, uh, which now it's been a few years back, um, with the, uh, Bannon and Boris, uh, wallets. But again, I'd refer you to ask that in the, um, crypto advisor questions channel. I'm sure you'll get a much more, um, correct, concise answer there. 
+Uh, we did a similar, um, well, I guess we weren't, I was going to say we did similar when we did the fork before, uh, which now it's been a few years back, um, with the, uh, Bannon and Boris, uh, wallets. But again, I'd refer you to ask that in the, um, crypto advisor questions channel. I'm sure you'll get a much more, um, correct, concise answer there.
 
-Um, exchange operator exchange payout and recipient, uh, with fee new variables in the latest contract. Yes. Can you explain how they are used? Um, this was mainly for change now and other exchanges. 
+Um, exchange operator exchange payout and recipient, uh, with fee new variables in the latest contract. Yes. Can you explain how they are used?
 
-Um, those of you before, which I'm sure you probably noticed that some transactions were getting, um, double taxed some buys or some sells, um, because, um, uh, exchanges specifically like change now, um, the way they use, um, their operator wallet and their payout wallet, um, they didn't always use it. The, their wallets, uh, they didn't always, they didn't always follow the flow, um, that they're supposed to follow. Um, if that makes sense. 
+Um, this was mainly for change now and other exchanges. Um, those of you before, which I'm sure you probably noticed that some transactions were getting, um, double taxed some buys or some sells, um, because, um, uh, exchanges specifically like change now, um, the way they use, um, their operator wallet and their payout wallet, um, they didn't always use it. The, their wallets, uh, they didn't always, they didn't always follow the flow, um, that they're supposed to follow.
 
-Um, so we, uh, tweak the contract to prevent, uh, transactions from being helped, prevent, uh, transactions from being double taxed. Uh, this gave us a little bit more control over, uh, how the 8% is taxed. Um, but if you want a more technical, uh, answer, definitely, uh, you're welcome to ask in the crypto advisor questions there. 
+Um, if that makes sense. Um, so we, uh, tweak the contract to prevent, uh, transactions from being helped, prevent, uh, transactions from being double taxed. Uh, this gave us a little bit more control over, uh, how the 8% is taxed.
 
-And then I'll definitely ask the advisor to go in there and, uh, answer you all. I hope that makes some kind of sense in my non-technical, uh, terms. Do you have any marketplace signups? We do.
+Um, but if you want a more technical, uh, answer, definitely, uh, you're welcome to ask in the crypto advisor questions there. And then I'll definitely ask the advisor to go in there and, uh, answer you all. I hope that makes some kind of sense in my non-technical, uh, terms.
 
-(7:37 - 7:49)
-Who won the vote? Oh, it was a number. Let me see if I still have the window. Oh no, I just restarted my computer a little bit ago, so it wouldn't freeze during voice.
+Do you have any marketplace signups? We do. Who won the vote?
 
-(7:50 - 8:58)
-By the way, I still haven't gotten a new one. Uh, I think I'm pretty sure it was JB and the number was, was it 82 or 86? Let me see. 82 was the number winner. 
+Oh, it was a number. Let me see if I still have the window. Oh no, I just restarted my computer a little bit ago, so it wouldn't freeze during voice.
 
-Oh, actually JB, would you mind, um, sending me a wallet address for that prize? Hmm. Okay. Uh, I did already answer that. 
+By the way, I still haven't gotten a new one. Uh, I think I'm pretty sure it was JB and the number was, was it 82 or 86? Let me see.
 
-You guys will get the test once, um, we make the switch over from Ethereum to, uh, Polygon in the app. Uh, the dev is off for the weekend, um, as of like an hour ago. Um, but as soon as that's complete, you all will get to test. 
+82 was the number winner. Oh, actually JB, would you mind, um, sending me a wallet address for that prize? Hmm.
 
-I've been testing, um, everything so far and it's, uh, great. So far, so good. Can't, can't get any easier than this.
+Okay. Uh, I did already answer that. You guys will get the test once, um, we make the switch over from Ethereum to, uh, Polygon in the app.
 
-(8:59 - 11:02)
-You can't, um, yeah, can't F that up. Oh, got it. Awesome. 
+Uh, the dev is off for the weekend, um, as of like an hour ago. Um, but as soon as that's complete, you all will get to test. I've been testing, um, everything so far and it's, uh, great.
 
-Do you have an estimated? No, no more estimates said. Um, I do expect you all to be testing, um, very soon. Um, so again, repeating, please, please, please make sure you have your seed phrase written down from the app. 
+So far, so good. Can't, can't get any easier than this. You can't, um, yeah, can't F that up.
 
-Um, if you are using expert wallet in there, if you do have funds in your expert wallet, because you will not be able to access those any longer. And if you have any funds in smart wallet or know anybody that does get those out, um, once we switch networks to a, um, yeah, you're definitely a very high risk for losing your funds. Um, given plenty of notices now sent out an email, made announcements. 
+Oh, got it. Awesome. Do you have an estimated?
 
-Um, so please, please, please, please. I don't like hearing you all lose funds. It sucks when there's really nothing we can do about it. 
+No, no more estimates said. Um, I do expect you all to be testing, um, very soon. Um, so again, repeating, please, please, please make sure you have your seed phrase written down from the app.
 
-So, um, anybody you can think of, okay. Um, pretty please. How has the security patch fix gone? Yes. 
+Um, if you are using expert wallet in there, if you do have funds in your expert wallet, because you will not be able to access those any longer. And if you have any funds in smart wallet or know anybody that does get those out, um, once we switch networks to a, um, yeah, you're definitely a very high risk for losing your funds. Um, given plenty of notices now sent out an email, made announcements.
 
-Everything, um, is done there and it works beautifully. You guys can F it up, uh, sign up with your email really much, much, much easier. Uh, will be great for anybody, really for your grandma to sign up. 
+Um, so please, please, please, please. I don't like hearing you all lose funds. It sucks when there's really nothing we can do about it.
 
-Even my mom can't mess it up. Um, pretty, pretty, please. Um, I would, I would expect you all to test this coming week.
+So, um, anybody you can think of, okay. Um, pretty please. How has the security patch fix gone?
 
-(11:02 - 12:15)
-Okay. I will let you know as soon as I'm testing the switch to polygon. I will let you guys know as soon as I'm testing that again, um, our dev that's working on that. 
+Yes. Everything, um, is done there and it works beautifully. You guys can F it up, uh, sign up with your email really much, much, much easier.
 
-Well, actually both of them don't really work weekends. Um, but specifically the devs that's working on that just got off about an hour ago or so. Um, so you might be able to work a few hours on Sunday, but I'll definitely keep you updated when I am testing that. 
+Uh, will be great for anybody, really for your grandma to sign up. Even my mom can't mess it up. Um, pretty, pretty, please.
 
-Um, let's see. Discord Sunday is mother's day. I know I still need to stop and go get a gift certificate.
+Um, I would, I would expect you all to test this coming week. Okay. I will let you know as soon as I'm testing the switch to polygon.
 
-(12:15 - 12:30)
-Yep. I bought the biggest balloon I can find cause my mom's being a huge brat. And so I think the biggest balloon I've seen, the biggest non-commercial balloon I've ever seen.
+I will let you guys know as soon as I'm testing that again, um, our dev that's working on that. Well, actually both of them don't really work weekends. Um, but specifically the devs that's working on that just got off about an hour ago or so.
 
-(12:32 - 17:55)
-Um, so we'll see. Uh, this is a numb question, but a lot, are you drinking? But a lot of us feel the momentum has really dried up. Is that bothering you? Or do you feel promo interest is strong from other PR peeps? And do you think we'll catch some of this Trump desire for crypto? Um, no, I don't think the momentum has dried up. 
+Um, so you might be able to work a few hours on Sunday, but I'll definitely keep you updated when I am testing that. Um, let's see.
 
-I just think you guys, uh, act more emotional than women do sometimes. Um, and I get it. It's been a long road, but, uh, no, I think we saw this with the fork. 
+[Speaker 2]
+Discord Sunday is mother's day.
 
-I saw this, um, we saw this with other big weights. Um, before that, I think the same people who, um, who lose that momentum gain it just as quickly. I think there's a lot of people probably on the sidelines, if I have to guess in my opinion, um, who are still watching. 
+[Speaker 1]
+I know I still need to stop and go get a gift certificate. Yep. I bought the biggest balloon I can find cause my mom's being a huge brat.
 
-Um, and every single person we've asked to, uh, work with us knowing everything they do and knowing every, you know, way the media has tried to put us down, um, is, uh, completely ecstatic to work with us. So yeah, I don't, I don't think so. I think we are very, very early. 
+And so I think the biggest balloon I've seen, the biggest non-commercial balloon I've ever seen. Um, so we'll see. Uh, this is a numb question, but a lot, are you drinking?
 
-Um, and then our number one, as far as your question with, um, the Trump desire for crypto, um, that's our number one roadmap item after, um, after we go ahead and wrap up the app, we have, let's see, let's look at my latest list. Dev list, uh, magic web bot. Um, uh, so as soon as we deploy the, our new onRamper, um, and then fix any and all bugs there, have you guys test it? Uh, well, first we would test it, uh, to work on those bugs and have you guys test it, uh, work on any bugs that come up. 
+But a lot of us feel the momentum has really dried up. Is that bothering you? Or do you feel promo interest is strong from other PR peeps?
 
-Then, um, the next step there is for the devs, uh, to incorporate the political donations and charitable organizations, um, into the hamburger menu located in the top corner of the app. Um, we're actually going to have that, uh, prioritize that versus the, um, marketplace. Um, so we'll probably temporarily hide, uh, the marketplace and then, um, we'll see if we can also get the education videos out at that time. 
+And do you think we'll catch some of this Trump desire for crypto? Um, no, I don't think the momentum has dried up. I just think you guys, uh, act more emotional than women do sometimes.
 
-If not, um, that'll need to be hidden while the, uh, political donations, uh, takes priority there. Um, but yeah, there's not, um, I don't think so. I think that's a lot of those people are easy, easy come, easy go. 
+Um, and I get it. It's been a long road, but, uh, no, I think we saw this with the fork. I saw this, um, we saw this with other big weights.
 
-Mike is thirsty. What are we drinking? I have a big old water here because I am in the desert and it's hot. And then I have a little margarita here with a little lime I dehydrated. 
+Um, before that, I think the same people who, um, who lose that momentum gain it just as quickly. I think there's a lot of people probably on the sidelines, if I have to guess in my opinion, um, who are still watching. Um, and every single person we've asked to, uh, work with us knowing everything they do and knowing every, you know, way the media has tried to put us down, um, is, uh, completely ecstatic to work with us.
 
-Actually, I think this was a blood horn. Oh no, I think this was the line. How has marketplace vendor signups? Um, good. 
+So yeah, I don't, I don't think so. I think we are very, very early. Um, and then our number one, as far as your question with, um, the Trump desire for crypto, um, that's our number one roadmap item after, um, after we go ahead and wrap up the app, we have, let's see, let's look at my latest list.
 
-Uh, we still need to send out, I know several of you have asked, do you want a document to send to your business owner friends? Um, still, uh, haven't sent that out to all of you guys. Excuse me. Um, will there be any way to weed out the quality of vendors represented not using weed? Uh, yes, absolutely. 
+Dev list, uh, magic web bot. Um, uh, so as soon as we deploy the, our new onRamper, um, and then fix any and all bugs there, have you guys test it? Uh, well, first we would test it, uh, to work on those bugs and have you guys test it, uh, work on any bugs that come up.
 
-Um, yeah, for sure. Uh, we're very open to small businesses. You know, if you, I don't know, stuff is you sell your sourdough or you sell your, um, raw milk at your, you know, little family farm with your one little cow.
+Then, um, the next step there is for the devs, uh, to incorporate the political donations and charitable organizations, um, into the hamburger menu located in the top corner of the app. Um, we're actually going to have that, uh, prioritize that versus the, um, marketplace. Um, so we'll probably temporarily hide, uh, the marketplace and then, um, we'll see if we can also get the education videos out at that time.
 
-(17:56 - 21:49)
-Um, but, uh, yes, definitely. We're not putting anybody and everybody on there. Just to make sure that our values align. 
+If not, um, that'll need to be hidden while the, uh, political donations, uh, takes priority there. Um, but yeah, there's not, um, I don't think so. I think that's a lot of those people are easy, easy come, easy go.
 
-Um, how many of the educational videos have been made? I think there's seven, if I'm not mistaken. Political donations. Trump talked about that this week. 
+Mike is thirsty. What are we drinking? I have a big old water here because I am in the desert and it's hot.
 
-I hope he only accepts PPI. Um, will you be launching promo before the political donation stuff? Uh, that'll depend on how you guys' testing goes. Uh, we definitely will continue again, um, to do what's best, uh, for the projects. 
+And then I have a little margarita here with a little lime I dehydrated. Actually, I think this was a blood horn. Oh no, I think this was the line.
 
-So we're not going to put out, um, or market an app that is not ready to be marketed. And, um, of course, you know, that doesn't mean there's bugs that will come up as we continue, um, marketing rate, um, as volume increases, um, and the number of users and the number of different devices from different locations, um, you know, and, and different users feel like sometimes I'm like, well, how do you guys get to that bug? Um, so within, within reason, obviously there's always, you know, even surprises me. Some of these biggest sites and biggest partners that I deal with just surprises me with the bugs they have to deal with, like on their websites and their email systems. 
+How has marketplace vendor signups? Um, good. Uh, we still need to send out, I know several of you have asked, do you want a document to send to your business owner friends?
 
-It's so crazy. Uh, so after our on-ramper works, we can get going. Yes, definitely. 
+Um, still, uh, haven't sent that out to all of you guys. Excuse me. Um, will there be any way to weed out the quality of vendors represented not using weed?
 
-Um, and that's why we decided to, uh, actually switch the Ethereum, um, make that network change on this version of the app that way. Um, yeah, that way we can test that, um, and then make, while you guys test that, make a few changes to our on-ramper. Are you able to read your DMs yet? Yes, I think. 
+Uh, yes, absolutely. Um, yeah, for sure. Uh, we're very open to small businesses.
 
-I thought I got back to you. Oh, I did. I think I may have done the last, the last voice chat. 
+You know, if you, I don't know, stuff is you sell your sourdough or you sell your, um, raw milk at your, you know, little family farm with your one little cow. Um, but, uh, yes, definitely. We're not putting anybody and everybody on there.
 
-Okay. So there's not a particular, um, set of businesses we're looking to add. So if you do have an idea, um, go ahead and shoot me your, uh, type of business, as long as it's something that, you know, as long as it's something that aligns somewhat. 
+Just to make sure that our values align. Um, how many of the educational videos have been made? I think there's seven, if I'm not mistaken.
 
-Um, but there's not, there's not a specific, uh, list of what we have in mind or don't, um, as long as it's, it is a legitimate business. Um, yeah, do our due diligence to, of course, protect, um, our community and our brand. Um, but yeah, go ahead and send me any ideas you have and we'll go from there.
+Political donations. Trump talked about that this week. I hope he only accepts PPI.
 
-(21:58 - 24:28)
-How many planned in total? Uh, that's an unlimited, assuming that's for the educational videos. That's an ongoing effort with the ever-changing, ever-evolving world of, uh, crypto. So I don't think there'll ever be a cap on that, if you will. 
+Um, will you be launching promo before the political donation stuff? Uh, that'll depend on how you guys' testing goes. Uh, we definitely will continue again, um, to do what's best, uh, for the projects.
 
-Hmm. Oh, I don't think I have any. Oh, excuse me. 
+So we're not going to put out, um, or market an app that is not ready to be marketed. And, um, of course, you know, that doesn't mean there's bugs that will come up as we continue, um, marketing rate, um, as volume increases, um, and the number of users and the number of different devices from different locations, um, you know, and, and different users feel like sometimes I'm like, well, how do you guys get to that bug? Um, so within, within reason, obviously there's always, you know, even surprises me.
+
+Some of these biggest sites and biggest partners that I deal with just surprises me with the bugs they have to deal with, like on their websites and their email systems. It's so crazy. Uh, so after our on-ramper works, we can get going.
+
+Yes, definitely. Um, and that's why we decided to, uh, actually switch the Ethereum, um, make that network change on this version of the app that way. Um, yeah, that way we can test that, um, and then make, while you guys test that, make a few changes to our on-ramper.
+
+Are you able to read your DMs yet? Yes, I think. I thought I got back to you.
+
+Oh, I did. I think I may have done the last, the last voice chat. Okay.
+
+So there's not a particular, um, set of businesses we're looking to add. So if you do have an idea, um, go ahead and shoot me your, uh, type of business, as long as it's something that, you know, as long as it's something that aligns somewhat. Um, but there's not, there's not a specific, uh, list of what we have in mind or don't, um, as long as it's, it is a legitimate business.
+
+Um, yeah, do our due diligence to, of course, protect, um, our community and our brand. Um, but yeah, go ahead and send me any ideas you have and we'll go from there. How many planned in total?
+
+Uh, that's an unlimited, assuming that's for the educational videos. That's an ongoing effort with the ever-changing, ever-evolving world of, uh, crypto. So I don't think there'll ever be a cap on that, if you will.
+
+Hmm. Oh, I don't think I have any. Oh, excuse me.
 
 Let's draw a break. You guys are funny. I have somebody in Discord saying their business stores seed freezes safely for people and you can pay them in PPY.
 
-(24:36 - 25:02)
-Can you explain how a user of PPY will transact using the coin with regards to task? Person buys 8%, correct. Buy taxes 8% right now, then buys something and pays 8%. No, the, um, buy tax or like buying an item from the marketplace will be lower than the selling tax.
+Can you explain how a user of PPY will transact using the coin with regards to task? Person buys 8%, correct. Buy taxes 8% right now, then buys something and pays 8%.
 
-(25:03 - 27:33)
-That will, uh, always be the case, um, for the foreseeable future, uh, which we hope will encourage people to use their PPY, um, for goods or services. Um, encourage people to do that versus just, uh, selling it and help build a patriot economy. Bulldog, did I not answer your question earlier? Pretty sure I spent like a few minutes answering it. 
+No, the, um, buy tax or like buying an item from the marketplace will be lower than the selling tax. That will, uh, always be the case, um, for the foreseeable future, uh, which we hope will encourage people to use their PPY, um, for goods or services. Um, encourage people to do that versus just, uh, selling it and help build a patriot economy.
 
-So, um, I want to pay the locksmith in PPY like Zelle. And they receive USDT or whatever stablecoin we have it set to. Have war room and info wars. 
+Bulldog, did I not answer your question earlier? Pretty sure I spent like a few minutes answering it. So, um, I want to pay the locksmith in PPY like Zelle.
 
-That's not a bad idea. Do they have an option to just hoard PPY or does it auto sell to stablecoins? Um, we, I don't see us, um, that's definitely an option for us to add in the future. Um, for now we will keep that feature turned on, um, for merchants to, for the, your payment to merchants to auto swap into stablecoins.
+And they receive USDT or whatever stablecoin we have it set to. Have war room and info wars. That's not a bad idea.
 
-(27:34 - 28:52)
-Um, the idea of this is definitely to encourage, especially right now, right? A lot of these vendors, I think we've only spoken to one that actually currently takes, um, crypto as payment anyway. Um, outside of that, a lot of these businesses we're talking to, uh, crypto is completely new to them. Um, I think that's, you know, something to keep in mind, especially in the conservative world. 
+Do they have an option to just hoard PPY or does it auto sell to stablecoins? Um, we, I don't see us, um, that's definitely an option for us to add in the future. Um, for now we will keep that feature turned on, um, for merchants to, for the, your payment to merchants to auto swap into stablecoins.
 
-Um, so having that feature and keeping it turned on at least to start off, um, is definitely to, um, incentivize businesses, um, to, you know, to learn and get with the program. I think, um, it'll make it an easier transition. Um, and what's great about our upgradable contract is that, um, we can make modifications as we go. 
+Um, the idea of this is definitely to encourage, especially right now, right? A lot of these vendors, I think we've only spoken to one that actually currently takes, um, crypto as payment anyway. Um, outside of that, a lot of these businesses we're talking to, uh, crypto is completely new to them.
 
-Um, so that's definitely an option for the future for now. Um, for now, that's not an option. Uh, we have, we'll definitely keep, uh, the auto swap on, uh, for those VIP wallets.
+Um, I think that's, you know, something to keep in mind, especially in the conservative world. Um, so having that feature and keeping it turned on at least to start off, um, is definitely to, um, incentivize businesses, um, to, you know, to learn and get with the program. I think, um, it'll make it an easier transition.
 
-(28:58 - 30:51)
-Can we send floppy disks out to the public as AOL back in the early internet days? It can be a form of burning and the amended disk gets ripped away. Do I have to check? I'm like, okay, I have to check. I have to check, um, my computer to see if they even had a CD. 
+Um, and what's great about our upgradable contract is that, um, we can make modifications as we go. Um, so that's definitely an option for the future for now. Um, for now, that's not an option.
 
-I don't think most of them even have that now. Um, but yeah, definitely our gift card, uh, feature, I think we'll continue doing that. Um, I think that'll be even better once our app is working that way. 
+Uh, we have, we'll definitely keep, uh, the auto swap on, uh, for those VIP wallets. Can we send floppy disks out to the public as AOL back in the early internet days? It can be a form of burning and the amended disk gets ripped away.
 
-We're not asking them to go through all these steps, um, on trust wallet. I do remember receiving those, uh, AOL CDs though. Uh, please make sure you have your seed phrase written down. 
+Do I have to check? I'm like, okay, I have to check. I have to check, um, my computer to see if they even had a CD.
+
+I don't think most of them even have that now. Um, but yeah, definitely our gift card, uh, feature, I think we'll continue doing that. Um, I think that'll be even better once our app is working that way.
+
+We're not asking them to go through all these steps, um, on trust wallet. I do remember receiving those, uh, AOL CDs though. Uh, please make sure you have your seed phrase written down.
 
 If you have funds in your expert wallet, um, again, you won't be able to access that. Once we make the switch over, you're all going to have to make new accounts on the, um, new wallet creation service or through it on the app. Um, so please make sure you write down that seed phrase, plug it in and do something like trust wallet to go ahead and test it.
 
-(30:51 - 31:02)
 Make sure you see your funds. Uh, go ahead and contact me if you have any questions. The sooner the better, please don't have your friends or your coworkers or your family members.
 
-(31:03 - 31:48)
-Um, don't have them realize that once it's too late, we've given plenty of notice now, but, um, I just, I feel awful when you guys lose access to funds. You're welcome. Good night. 
+Um, don't have them realize that once it's too late, we've given plenty of notice now, but, um, I just, I feel awful when you guys lose access to funds. You're welcome. Good night.
 
-Bulldog. I haven't read that yet. A statement from Steve Bannon's attorney.
+Bulldog.
 
-(32:01 - 37:02)
-Um, anything else? Don't forget if you know anybody, um, who has organizations, nonprofit organization, 501c3, um, who would, I mean, who doesn't like donations, right? Um, have them reach out to, or if there's an organization that's near and dear to your heart, um, go ahead and shoot me that too. Preferably smaller ones. Everything. 
+[Speaker 2]
+I haven't read that yet.
 
-Uh, all right. If you guys need anything else, uh, please reach out in the meantime. Um, DM, tag me, call, text. 
+[Speaker 1]
+A statement from Steve Bannon's attorney. Um, anything else? Don't forget if you know anybody, um, who has organizations, nonprofit organization, 501c3, um, who would, I mean, who doesn't like donations, right?
 
-I'm still in Telegram timeout. I had a few people asking, there's a few people asking about that. Um, it's Telegram who, um, I think when I was making, when you guys had all the, um, smart wallet transfers, that was a lot of DMs. 
+Um, have them reach out to, or if there's an organization that's near and dear to your heart, um, go ahead and shoot me that too. Preferably smaller ones. Everything.
 
-Um, and even though I was replying to DMs, I wasn't soliciting DMs. Um, Telegram thought I was spamming. So, um, that's why I'm in Telegram jail. 
+Uh, all right. If you guys need anything else, uh, please reach out in the meantime. Um, DM, tag me, call, text.
 
-Um, so, but again, if you add me as a contact, then I can reply to you. Otherwise I am unable to reply to people that don't have me added as a contact on there. Otherwise there's email, um, discord calls, texts, um, anywhere, social media accounts. 
+I'm still in Telegram timeout. I had a few people asking, there's a few people asking about that. Um, it's Telegram who, um, I think when I was making, when you guys had all the, um, smart wallet transfers, that was a lot of DMs. Um, and even though I was replying to DMs, I wasn't soliciting DMs. Um, Telegram thought I was spamming. So, um, that's why I'm in Telegram jail. Um, so, but again, if you add me as a contact, then I can reply to you. Otherwise I am unable to reply to people that don't have me added as a contact on there.
 
-There's lots, lots and lots of ways to contact me. Um, but yeah, other than that, I will go ahead and give me a little bit, I got to feed the dogs. Um, and I'll go ahead and write some notes. 
+Otherwise there's email, um, discord calls, texts, um, anywhere, social media accounts. There's lots, lots and lots of ways to contact me. Um, but yeah, other than that, I will go ahead and give me a little bit, I got to feed the dogs.
 
-Oh, do you guys want to do, we can do a buy contest. Um, if anybody wants to do that, we could do a buy contest. Um, yeah. 
+Um, and I'll go ahead and write some notes. Oh, do you guys want to do, we can do a buy contest. Um, if anybody wants to do that, we could do a buy contest.
 
-Otherwise I will, uh, keep you all updated if I have any updates before Tuesday. Um, to clarify bugs are fixed. Yes. 
+Um, yeah. Otherwise I will, uh, keep you all updated if I have any updates before Tuesday. Um, to clarify bugs are fixed.
 
-Bugs were fixed as of a few days ago. You are right to jail. All right. 
+Yes. Bugs were fixed as of a few days ago. You are right to jail.
 
-You're welcome. You guys have a good one. Oh, Dogbone, uh, posted, um, uh, power jam. 
+All right. You're welcome. You guys have a good one.
 
-So by 30, what is that? Let's see. Three, three, 90,000. Okay. 
+Oh, Dogbone, uh, posted, um, uh, power jam. So by 30, what is that? Let's see.
 
-So let's do by a hundred thousand. And, uh, when let's do until midnight Eastern and when 500 K P P Y. How about that? That's a good deal. Um, okay. 
+Three, three, 90,000. Okay. So let's do by a hundred thousand.
 
-So we'll do starting now, um, for every hundred thousand P P Y purchase. Um, that's an entry for a 500,000 P P Y price one winner, um, before midnight Eastern. Um, so good luck. 
+And, uh, when let's do until midnight Eastern and when 500 K P P Y. How about that? That's a good deal.
 
-I will, uh, post the recordings right now. Thank you guys. Have a wonderful night.
+Um, okay. So we'll do starting now, um, for every hundred thousand P P Y purchase. Um, that's an entry for a 500,000 P P Y price one winner, um, before midnight Eastern.
+
+Um, so good luck. I will, uh, post the recordings right now. Thank you guys.
+
+Have a wonderful night.

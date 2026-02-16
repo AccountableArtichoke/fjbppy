@@ -40,7 +40,7 @@ UUID: [UUID]
 Type: DONATION
 Date: [DATE]
 Sender: [TEXT]
-Recipient [TEXT]
+Recipient: [TEXT]
 Amount: [NUMBER]
 Evidence: [UUID]
 
@@ -48,7 +48,7 @@ UUID: [UUID]
 Type: GIVEAWAY
 Date: [DATE]
 Sender: [TEXT]
-Recipient [TEXT]
+Recipient: [TEXT]
 Amount: [NUMBER]
 Evidence: [UUID]
 
@@ -84,14 +84,15 @@ Filing Fee: [NUMBER]
 UUID: [UUID]
 Type: EXCHANGE LISTING
 Date: [DATE]
-Sender: [TEXT]
-Recipient [TEXT]
-Amount: [NUMBER]
+Exchange: [TEXT]
 Evidence: [UUID]
 
 UUID: [UUID]
 Type: IMAGE
 Date: [DATE]
+Source: [URL]
+WebArchive: [URL}
+LocalArchive: [URL]
 Summary: [TEXT]
 
 UUID: [UUID]

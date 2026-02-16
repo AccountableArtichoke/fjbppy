@@ -1,490 +1,490 @@
-(0:00 - 0:07)
+[Speaker 1]
 Awesome. All right, so happy Tuesday. Thank you all for meeting me here as usual.
 
-(0:09 - 2:59)
-Is everybody, is everybody on voice chat? I'm just seeing Wolverine's message. Okay, well I have it recording anyway, so should be good. All right, yeah, happy Tuesday. 
+Is everybody, is everybody on voice chat? I'm just seeing Wolverine's message. Okay, well I have it recording anyway, so should be good.
 
-Thank you for joining me. TASC is not live yet, will not be live today, but we have made some amazing progress within the last 24 hours. I do have some things ready for you all to test if you'd like. 
+All right, yeah, happy Tuesday. Thank you for joining me. TASC is not live yet, will not be live today, but we have made some amazing progress within the last 24 hours.
 
-However, big disclaimer, I would prefer that you all test this with a dummy account. I just don't want you to delete your browser. You're totally fine if you have your seed phrase, then you guys know you can always get into your account that way. 
+I do have some things ready for you all to test if you'd like. However, big disclaimer, I would prefer that you all test this with a dummy account. I just don't want you to delete your browser.
 
-I just don't want you, one of the steps is to delete your VEST keys from your browser. I just don't want you to do that for your real account if you don't, if you haven't written down your seed phrase, if that makes sense. So if you have your seed phrase, which you all should have your seed phrase written down somewhere that's not, you know, on your computer, have it written down on piece of paper. 
+You're totally fine if you have your seed phrase, then you guys know you can always get into your account that way. I just don't want you, one of the steps is to delete your VEST keys from your browser. I just don't want you to do that for your real account if you don't, if you haven't written down your seed phrase, if that makes sense.
 
-If you have your seed phrase written, like any other wallet, you are safe. So before we start testing, let's see, I'll share a link here. And again, just make sure you please have your seed phrase written down. 
+So if you have your seed phrase, which you all should have your seed phrase written down somewhere that's not, you know, on your computer, have it written down on piece of paper. If you have your seed phrase written, like any other wallet, you are safe. So before we start testing, let's see, I'll share a link here.
 
-But have you test this? What'd I miss? We're going down with the VNB share. What is VNB down to? 229. Meh. 
+And again, just make sure you please have your seed phrase written down. But have you test this? What'd I miss?
 
-We've been down worse than that past, what, a year? Two years? Okay, so this is the link. I just dropped in general. So you can, sorry, my dogs are growling because I'm, I'm not home. 
+We're going down with the VNB share. What is VNB down to? 229.
+
+Meh. We've been down worse than that past, what, a year? Two years?
+
+Okay, so this is the link. I just dropped in general. So you can, sorry, my dogs are growling because I'm, I'm not home.
 
 I'm not at home-home. So I'm not in the office. I guess I should have gone in the office here though.
 
-(3:01 - 6:01)
-Let me know if that gets too loud and I can move. Okay. So let me know, any of you that get to that link, you can either make a new account or if you have a current account, if you have your seed phrase written down somewhere, you can feel free to use this link. 
+Let me know if that gets too loud and I can move. Okay. So let me know, any of you that get to that link, you can either make a new account or if you have a current account, if you have your seed phrase written down somewhere, you can feel free to use this link.
 
-I just don't want you to delete that off the browser. So first, if you'd like, you can test how it is going to be to create a new account, which I think is amazing. So if you don't have an email address that you haven't used yet, you can use, if it's a Gmail address, you can just add a period. 
+I just don't want you to delete that off the browser. So first, if you'd like, you can test how it is going to be to create a new account, which I think is amazing. So if you don't have an email address that you haven't used yet, you can use, if it's a Gmail address, you can just add a period.
 
-For example, mine is like Sarah, last name at Gmail. I can do Sarah dot last name at Gmail and it still arrive in my Gmail inbox. I'm not sure if Proton and other email addresses do that. 
+For example, mine is like Sarah, last name at Gmail. I can do Sarah dot last name at Gmail and it still arrive in my Gmail inbox. I'm not sure if Proton and other email addresses do that.
 
-Or you can add a plus one or something like that at the end of your email on Gmail and you will still receive that email in your inbox. But first start by creating a new account and see how awesome that process is. Let me know if something does not work for you. 
+Or you can add a plus one or something like that at the end of your email on Gmail and you will still receive that email in your inbox. But first start by creating a new account and see how awesome that process is. Let me know if something does not work for you.
 
-Just try to grab a screenshot if that's the case, just so it's easier for us to identify what you're talking about. A white screen of white, still supposed to happen for existing accounts. So existing accounts are, yes. 
+Just try to grab a screenshot if that's the case, just so it's easier for us to identify what you're talking about. A white screen of white, still supposed to happen for existing accounts. So existing accounts are, yes.
 
 Yes. So if you can't currently access your account because we haven't deployed it, this is just a test, you'll still have the same issue. But try, give me a second here.
 
-(6:10 - 6:56)
-Decentralize. Do you have your seed phrase? Okay. So if you have your seed phrase, try accessing your account with your seed phrase and let me know what happens then.
+Decentralize. Do you have your seed phrase? Okay.
 
-(7:00 - 7:39)
-So you're going to access it through your seed. So you'll reset your pin. Looking for me on the web app, love the enter seed phrase. 
+So if you have your seed phrase, try accessing your account with your seed phrase and let me know what happens then. So you're going to access it through your seed. So you'll reset your pin.
 
-Yes, me too. So if you've already tried to create a new account, got that out of the way, seeing how that all works, which is really, really cool. You can pretend you forgot your pin and try that out and see how that works out for you.
+Looking for me on the web app, love the enter seed phrase. Yes, me too. So if you've already tried to create a new account, got that out of the way, seeing how that all works, which is really, really cool.
 
-(7:44 - 8:18)
-So you can either right away click on forgot pin or just enter a wrong pin and it'll give you, so let's see if I enter a wrong pin. It'll say incorrect pin, which before it gave us like a page for that message. So that's awesome. 
+You can pretend you forgot your pin and try that out and see how that works out for you. So you can either right away click on forgot pin or just enter a wrong pin and it'll give you, so let's see if I enter a wrong pin. It'll say incorrect pin, which before it gave us like a page for that message.
 
-And then if you do forgot your pin, enter your seed phrase to reset your pin. Continue. I will enter my dummy seed phrase here.
+So that's awesome. And then if you do forgot your pin, enter your seed phrase to reset your pin. Continue.
 
-(8:25 - 8:58)
-And then you'll continue. And over when you do that, it'll show your whole address and your balance, which is pretty cool. And then it should send you an email to your inbox.
+I will enter my dummy seed phrase here. And then you'll continue. And over when you do that, it'll show your whole address and your balance, which is pretty cool.
 
-(8:59 - 9:10)
-But let me know if any of those steps give you an issue. Yes, I have my seed phrase. Okay, awesome.
+And then it should send you an email to your inbox. But let me know if any of those steps give you an issue. Yes, I have my seed phrase.
 
-(9:14 - 9:47)
-Thank you. I just want to see how that works for you. And to reset your pin should be a fairly quick option.
+Okay, awesome. Thank you. I just want to see how that works for you.
 
-(9:50 - 10:50)
-Can I do this when I have my account logged into another device? Yes, you should absolutely be able to. If it gives you a hard time, please let me know. That's why we're having a few of you test it out. 
+And to reset your pin should be a fairly quick option. Can I do this when I have my account logged into another device? Yes, you should absolutely be able to.
 
-But yes, you should be able with your seed phrase, you should be able to enter your account no matter what, like you would be able to do on any of the bigger wallets we know of. Let me know once you've all tried the forgot pin option, and then we can move on to our last one. But I think it's pretty amazing. 
+If it gives you a hard time, please let me know. That's why we're having a few of you test it out. But yes, you should be able with your seed phrase, you should be able to enter your account no matter what, like you would be able to do on any of the bigger wallets we know of.
 
-Actually, the devs were not supposed to have it ready for a few days. So I'm very excited that they finished ahead of schedule. Super cool.
+Let me know once you've all tried the forgot pin option, and then we can move on to our last one. But I think it's pretty amazing. Actually, the devs were not supposed to have it ready for a few days.
 
-(11:02 - 18:46)
-Yay, worked for me using a new dummy account reset pin just fine using seed phrase. Amazing. Okay. 
+So I'm very excited that they finished ahead of schedule. Super cool. Yay, worked for me using a new dummy account reset pin just fine using seed phrase.
 
-So if any of you would like to test our last one, our last option, which happens very often with you guys either trying a new browser or when you get new devices, which a lot of you do or use multiple devices, which I totally understand because I'm all over the place. You'll go on the screen, the same link that I just gave above. You'll press the sandwich menu bar at the very top left of the screen, the three little lines, and you'll go down to advanced options. 
+Amazing. Okay. So if any of you would like to test our last one, our last option, which happens very often with you guys either trying a new browser or when you get new devices, which a lot of you do or use multiple devices, which I totally understand because I'm all over the place.
 
-Now, again, if you're using your real account with funds in there, you want to make sure that you have your seed phrase or other ways to access your accounts first. So again, I'll say, if you are using your real wallet account with funds in there, make sure you have your seed phrase written down before doing this, because if you delete this key from the app and this is the only way you have to access it, you might be in trouble. So click on the top left on the link I just put in chat, top left, three lines go all the way down to delete key from this app that will remove it. 
+You'll go on the screen, the same link that I just gave above. You'll press the sandwich menu bar at the very top left of the screen, the three little lines, and you'll go down to advanced options. Now, again, if you're using your real account with funds in there, you want to make sure that you have your seed phrase or other ways to access your accounts first.
 
-You'll enter your pin. It gives you this message warning you, of course, that you either have access to this account somewhere else, or you have your keys. And this is this screen with the vest keys is being changed to include seed phrase. 
+So again, I'll say, if you are using your real wallet account with funds in there, make sure you have your seed phrase written down before doing this, because if you delete this key from the app and this is the only way you have to access it, you might be in trouble. So click on the top left on the link I just put in chat, top left, three lines go all the way down to delete key from this app that will remove it. You'll enter your pin.
 
-So if you are, if you do have your seed phrase written down somewhere else, you can go ahead and enter your pin and disconnect. After you do that, I'll have you go back in to the link and try to access your account, because this would be what happens if you go to a new browser or get a new device. And then you can see again, how easy it's going to be for you to do that if you just have your seed phrase. 
+It gives you this message warning you, of course, that you either have access to this account somewhere else, or you have your keys. And this is this screen with the vest keys is being changed to include seed phrase. So if you are, if you do have your seed phrase written down somewhere else, you can go ahead and enter your pin and disconnect.
 
-Let me know if you guys have any questions. You know, I'm sitting here in silence, just waiting for you all to test it in case you have any real, any real time updates for us, but should be good. What are we using this time? Redundant. 
+After you do that, I'll have you go back in to the link and try to access your account, because this would be what happens if you go to a new browser or get a new device. And then you can see again, how easy it's going to be for you to do that if you just have your seed phrase. Let me know if you guys have any questions.
 
-So you should be able to do it with just your seed phrase. Still get the white screen on the Android app though. Ed, you're talking the actual app, not the browser, correct? Actual app. 
+You know, I'm sitting here in silence, just waiting for you all to test it in case you have any real, any real time updates for us, but should be good. What are we using this time? Redundant.
 
-Yes. So this is actually a different link. This is, we're still testing it. 
+So you should be able to do it with just your seed phrase. Still get the white screen on the Android app though. Ed, you're talking the actual app, not the browser, correct?
 
-It hasn't been pushed live to app.fjbcoin.org, so it hasn't even been pushed to our actual browser app or our mobile app. Hi, Flute. So that third step, acting as if you got a new device after you go ahead and delete it, delete the account from your browser. 
+Actual app. Yes. So this is actually a different link.
 
-And again, make sure if it's your real account, you have your seed phrase ran down first. You'll enter your email. I always forget that sounds. 
+This is, we're still testing it. It hasn't been pushed live to app.fjbcoin.org, so it hasn't even been pushed to our actual browser app or our mobile app. Hi, Flute.
 
-Just typing. Yes. App login, make sure. 
+So that third step, acting as if you got a new device after you go ahead and delete it, delete the account from your browser. And again, make sure if it's your real account, you have your seed phrase ran down first. You'll enter your email.
 
-Okay. So make sure with testing, this hasn't been deployed on app. So with this testing, you're going to want to log in here.
+I always forget that sounds. Just typing. Yes.
 
-(18:51 - 20:26)
-Thanks, Matt. Let me know if you have any issues. So, well, let me see. 
+App login, make sure. Okay. So make sure with testing, this hasn't been deployed on app.
 
-Hmm. Good news, truth, did you get that by just trying to click on that link? Or is that after you entered an email address? Okay. Interesting. 
+So with this testing, you're going to want to log in here. Thanks, Matt. Let me know if you have any issues.
 
-Okay. Thank you. Let me forward this. 
+So, well, let me see.
 
-Can you back up and try it one more time? Just to make sure it wasn't a complete one-off. It's not me. I'm not his mom.
+[Speaker 2]
+Hmm.
 
-(20:44 - 21:54)
-Is Boris aware and concerned when BNB moves? No, I don't think so. I think we're good. Hmm. 
+[Speaker 1]
+Good news, truth, did you get that by just trying to click on that link? Or is that after you entered an email address? Okay.
 
-How about BNN? I don't think so. Although now, can you give a general update on what's happening with task? We are closer. So as far as general update, yeah, we're very close.
+Interesting. Okay. Thank you.
 
-(21:54 - 25:54)
-Hmm. The silver lining is everything else is really down to, I mean, very, very close to completion. So this phase of the app should be wrapped up by tonight, which is our logins fix, which is huge. 
+Let me forward this. Can you back up and try it one more time? Just to make sure it wasn't a complete one-off.
 
-If you haven't tested it, please go ahead and test it. But that's a very, very, very big deal. Super excited about that. 
+It's not me. I'm not his mom. Is Boris aware and concerned when BNB moves?
 
-And then, yeah, the task will be the biggest change, I think. We are still hoping to make it in in November. Bobby, when does that happen? When do you get that screen? And that's using the link I put in here. 
+No, I don't think so. I think we're good. Hmm.
 
-I was able to log in, which is good. However, it shows my money that I bought outside of smart wallet. It does not show that I bought with smart wallet on. 
+How about BNN? I don't think so.
 
-Perfect. Yes, your balances will be separated now, which they weren't before, which that'll help. With any confusions. 
+[Speaker 2]
+Although now, can you give a general update on what's happening with task?
 
-Confusion, confusions. You, uh, hold on. Hold on, I need to respond to something.
+[Speaker 1]
+We are closer. So as far as general update, yeah, we're very close. Hmm.
 
-(25:54 - 27:02)
-Okay. No, Winston, it won't be scary anymore. But yes, do not, yes, don't share your seed phrase either, but definitely don't disconnect your account, even in this test wallet. 
+The silver lining is everything else is really down to, I mean, very, very close to completion. So this phase of the app should be wrapped up by tonight, which is our logins fix, which is huge. If you haven't tested it, please go ahead and test it.
 
-Don't disconnect your account from your browser unless you have your seed phrase written down somewhere. Don't want you to lose access to your account because you're testing. If you don't have all that written down, which you should have that written down.
+But that's a very, very, very big deal. Super excited about that. And then, yeah, the task will be the biggest change, I think.
 
-(27:09 - 27:18)
-Don't share your seed phrase and don't reply to any DMs. I'll never DM you first, neither will the other admins. Don't click on any weird links or anything like that.
+We are still hoping to make it in in November. Bobby, when does that happen? When do you get that screen?
 
-(27:20 - 30:59)
-Okay. Click on estimated account value. Okay. 
+And that's using the link I put in here. I was able to log in, which is good. However, it shows my money that I bought outside of smart wallet.
 
-Thank you for that. I will try to get my account to do the same. So thanks for that. 
+It does not show that I bought with smart wallet on.
 
-Now my Vess account is out of sync and won't sync no matter what I do. Okay. What, what do you mean my Vess account is out of sync? Because you have your seed phrase, right? Okay. 
+[Speaker 2]
+Perfect.
 
-Is this from the link, the test link, or is this from your actual app.fjbcoin.org link? This is the actual admin website now. I went to test link and I unsynced this account. Okay. 
+[Speaker 1]
+Yes, your balances will be separated now, which they weren't before, which that'll help. With any confusions. Confusion, confusions.
 
-I'm looking at your screenshot. First, don't panic or worry because the test link is going to go live so that this, so you can do what you're doing in the test link on all the other accounts. So don't stress because anything app related, we will take care of you. 
+You, uh, hold on. Hold on, I need to respond to something. Okay.
 
-But looking at your screenshot, so we are changing this page. This is why this page is going to be changed. I know it's super confusing. 
+No, Winston, it won't be scary anymore. But yes, do not, yes, don't share your seed phrase either, but definitely don't disconnect your account, even in this test wallet. Don't disconnect your account from your browser unless you have your seed phrase written down somewhere.
 
-The out of sync basically is just saying your browser, your account's been deleted from your browser. Let me save this actually to send to the devs. But honestly, this is not an issue we're going to be dealing with because they're pushing this through for everybody. 
+Don't want you to lose access to your account because you're testing. If you don't have all that written down, which you should have that written down. Don't share your seed phrase and don't reply to any DMs. I'll never DM you first, neither will the other admins. Don't click on any weird links or anything like that. Okay. Click on estimated account value.
 
-You guys are just testing. If that makes sense. You guys are testing this to make it go live so this issue wouldn't affect many other people since they're going to push it through the app.
+Okay. Thank you for that. I will try to get my account to do the same.
 
-(31:01 - 34:03)
-But I am still going to send it to them and don't stress because yeah, anything app related, this will take care of you if anything happens. But it doesn't matter. As long as you have your seed phrase, you are safe. 
+So thanks for that. Now my Vess account is out of sync and won't sync no matter what I do. Okay.
 
-That's why I didn't want you guys to delete your account from your browser if you do not have your seed phrase written down. What's the difference between expert wallet and smart wallet? So expert wallet will work like traditional wallets work, like trust wallet does. So if you need to make transactions, especially like on Ethereum, you're going to have to have Ethereum in your wallet for your gas, which gets a little tedious because there's times example on the wallet on expert mode, which is our vanilla classic version one wallet where I've had to send users gas to their wallet because there's no other way for them. 
+What, what do you mean my Vess account is out of sync? Because you have your seed phrase, right? Okay.
 
-Unless you're transferring it in, there's not any other way to do that. The smart wallet does all the gas, handles all the gas in the background. So that makes it a lot easier for anybody that's not crypto savvy. 
+Is this from the link, the test link, or is this from your actual app.fjbcoin.org link? This is the actual admin website now. I went to test link and I unsynced this account.
 
-They don't need to have anything transferred in for gas. The smart wallet takes care of it and charges the user at the end. So if you have some FJB in your wallet, you buy FJB on the wallet and now you want to swap that into, I don't know, Ethereum, the gas will be taken care of for you and then it'll just charge you from your FJB. 
+Okay. I'm looking at your screenshot. First, don't panic or worry because the test link is going to go live so that this, so you can do what you're doing in the test link on all the other accounts.
 
-So you don't have to worry about getting gas in your wallet by having somebody transfer it for you or you transferring it in from a different wallet. That's what I didn't do. That's why I didn't do the test app. 
+So don't stress because anything app related, we will take care of you. But looking at your screenshot, so we are changing this page. This is why this page is going to be changed.
 
-The warning scared me. I don't know what warning. Oh, the experimental app. 
+I know it's super confusing. The out of sync basically is just saying your browser, your account's been deleted from your browser. Let me save this actually to send to the devs.
 
-I told you it was testing. I put my seed freeze in and it said invalid. You put your seed phrase or did you put your vest key? And do you have a screenshot? Obviously not.
+But honestly, this is not an issue we're going to be dealing with because they're pushing this through for everybody. You guys are just testing. If that makes sense.
 
-(34:04 - 35:27)
-Don't put your seed phrase in the screenshot. Just the message that I gave you. Gas fees are equal. 
+You guys are testing this to make it go live so this issue wouldn't affect many other people since they're going to push it through the app. But I am still going to send it to them and don't stress because yeah, anything app related, this will take care of you if anything happens. But it doesn't matter.
 
-No, you do get charged because the smart wallet, there's going to be more gas spent because of other wallets handling it and it goes through a few different wallets first. You will be charged a little extra. That's why it's called community testing. 
+As long as you have your seed phrase, you are safe. That's why I didn't want you guys to delete your account from your browser if you do not have your seed phrase written down. What's the difference between expert wallet and smart wallet?
 
-Will not be the case in the live version. Yeah, that the experimental app will not be. But again, that's why we're asking you to use your either dummy account or if it is your real account, make sure you have your seed phrase written down. 
+So expert wallet will work like traditional wallets work, like trust wallet does. So if you need to make transactions, especially like on Ethereum, you're going to have to have Ethereum in your wallet for your gas, which gets a little tedious because there's times example on the wallet on expert mode, which is our vanilla classic version one wallet where I've had to send users gas to their wallet because there's no other way for them. Unless you're transferring it in, there's not any other way to do that.
 
-If you have your seed phrase written down, you're okay. If you don't, please don't test it. Whether I use smart wallet or X, oh, Ed. 
+The smart wallet does all the gas, handles all the gas in the background. So that makes it a lot easier for anybody that's not crypto savvy. They don't need to have anything transferred in for gas.
 
-Sorry, Ed is being naughty. Um, no, I think I already answered that. I don't know if you typed that after I answered that.
+The smart wallet takes care of it and charges the user at the end. So if you have some FJB in your wallet, you buy FJB on the wallet and now you want to swap that into, I don't know, Ethereum, the gas will be taken care of for you and then it'll just charge you from your FJB. So you don't have to worry about getting gas in your wallet by having somebody transfer it for you or you transferring it in from a different wallet.
 
-(35:27 - 39:11)
-Good news. Okay. Awesome. 
+That's what I didn't do. That's why I didn't do the test app. The warning scared me.
 
-Yeah. For, so the gas fees, for example, like a BNB are so, or even Matic are so minimal. So I don't know. 
+I don't know what warning. Oh, the experimental app. I told you it was testing.
 
-I'm off the top of my head. Maybe instead of 15 cents, you get charged 30 cents. Uh, but for Ethereum, they will be a little bit higher because Ethereum gas fees are quite a bit higher than a few pennies. 
+I put my seed freeze in and it said invalid. You put your seed phrase or did you put your vest key? And do you have a screenshot?
 
-Uh, so there's, we don't have a percentage of, uh, difference because gas fees are always changing with like, Hey, I can, I can have the same transaction. I can get that to succeed right now. And if I do it 10 minutes or if you do the same exact transaction, you know, and if we're live doing it at the same time, we might get charged something different. 
+Obviously not. Don't put your seed phrase in the screenshot. Just the message that I gave you.
 
-Um, a lot of that is going to depend on the traffic and also just the market price of what example Ethereum is going for. Or, um, you know, whatever it is, or, uh, what BNB is going for. So I hope that answers the question. 
+Gas fees are equal. No, you do get charged because the smart wallet, there's going to be more gas spent because of other wallets handling it and it goes through a few different wallets first. You will be charged a little extra.
 
-That's why there's not really a percentage difference, but for, um, what we use it for, which is the BNB is really going to be minimal for the most part, because most BNB transactions again are in the pennies. So that shouldn't be very much, but, and that's the price that, you know, you pay for the convenience. And this isn't us, this isn't like FJB charging extra for the convenience. 
+That's why it's called community testing. Will not be the case in the live version. Yeah, that the experimental app will not be.
 
-It's just because at Pat, there's basically wallets on the backend handling that gas for you. So when it goes through so many wallets, well, those wallets have to pay gas from somewhere to handle that, those transactions for you. Can I move money from my smart wallet to my expert wallet and vice versa safely right now? Um, I would not do that in the testing link I just sent just, just because it is a testing link. 
+But again, that's why we're asking you to use your either dummy account or if it is your real account, make sure you have your seed phrase written down. If you have your seed phrase written down, you're okay. If you don't, please don't test it.
 
-So I would not do that. Oh, and did you, um, not that I have any doubt that it wouldn't work, but just because it is a testing or a testing link. Um, and then, yeah, actually, thanks Ed. 
+Whether I use smart wallet or X, oh, Ed. Sorry, Ed is being naughty. Um, no, I think I already answered that.
 
-I was, that reminded me of somebody just asked and then I went to answer it. I think I got sidetracked, uh, about the tax and yes, you would be charged tax because those are two different wallet addresses. And again, that's, that's why, that's why when you all go to trust wallet and enter your seed phrase from your X, your seed phrase from your expert wallet, that's why you don't see your smart wallet balance.
+I don't know if you typed that after I answered that. Good news. Okay.
 
-(39:13 - 39:51)
-And we have that, that is something we will do our best to get handled with a smart, uh, with the app in general, um, in the upcoming phases. There's a lot of work, but this was a major, major step that took weeks and thousands upon thousands of dollars to complete, which sounds crazy. Cause you're going from something so complicated to something so simple. 
+Awesome. Yeah. For, so the gas fees, for example, like a BNB are so, or even Matic are so minimal.
 
-Um, but it's only simple for you guys on the front end. Um, but that's, I think did an awesome job. I'm very excited about this stuff.
+So I don't know. I'm off the top of my head. Maybe instead of 15 cents, you get charged 30 cents.
 
-(40:02 - 41:27)
-Is there a way to whitelist the smart wallet app when going to another FJB wallet? No, no. And the reason that is, is not, is not because we want to make money off you guys combining your wallets. Um, but one, I personally, it's my opinion that I don't think having separate wallets is a bad idea. 
+Uh, but for Ethereum, they will be a little bit higher because Ethereum gas fees are quite a bit higher than a few pennies. Uh, so there's, we don't have a percentage of, uh, difference because gas fees are always changing with like, Hey, I can, I can have the same transaction. I can get that to succeed right now.
 
-I think in my opinion, that's a good idea. Um, just to keep your records and keep your seed phrases and keep all your accounts written down and organized. Um, but in my opinion, I don't think that's a bad idea because in case you get hacked, in case anything happens, then you have separate wallets and you're not just SOL because there's, you know, you had one wallet, they had everything in. 
+And if I do it 10 minutes or if you do the same exact transaction, you know, and if we're live doing it at the same time, we might get charged something different. Um, a lot of that is going to depend on the traffic and also just the market price of what example Ethereum is going for. Or, um, you know, whatever it is, or, uh, what BNB is going for.
+
+So I hope that answers the question. That's why there's not really a percentage difference, but for, um, what we use it for, which is the BNB is really going to be minimal for the most part, because most BNB transactions again are in the pennies. So that shouldn't be very much, but, and that's the price that, you know, you pay for the convenience.
+
+And this isn't us, this isn't like FJB charging extra for the convenience. It's just because at Pat, there's basically wallets on the backend handling that gas for you. So when it goes through so many wallets, well, those wallets have to pay gas from somewhere to handle that, those transactions for you.
+
+Can I move money from my smart wallet to my expert wallet and vice versa safely right now? Um, I would not do that in the testing link I just sent just, just because it is a testing link. So I would not do that.
+
+Oh, and did you, um, not that I have any doubt that it wouldn't work, but just because it is a testing or a testing link. Um, and then, yeah, actually, thanks Ed. I was, that reminded me of somebody just asked and then I went to answer it.
+
+I think I got sidetracked, uh, about the tax and yes, you would be charged tax because those are two different wallet addresses. And again, that's, that's why, that's why when you all go to trust wallet and enter your seed phrase from your X, your seed phrase from your expert wallet, that's why you don't see your smart wallet balance. And we have that, that is something we will do our best to get handled with a smart, uh, with the app in general, um, in the upcoming phases.
+
+There's a lot of work, but this was a major, major step that took weeks and thousands upon thousands of dollars to complete, which sounds crazy. Cause you're going from something so complicated to something so simple. Um, but it's only simple for you guys on the front end.
+
+Um, but that's, I think did an awesome job. I'm very excited about this stuff. Is there a way to whitelist the smart wallet app when going to another FJB wallet?
+
+No, no. And the reason that is, is not, is not because we want to make money off you guys combining your wallets. Um, but one, I personally, it's my opinion that I don't think having separate wallets is a bad idea.
+
+I think in my opinion, that's a good idea. Um, just to keep your records and keep your seed phrases and keep all your accounts written down and organized. Um, but in my opinion, I don't think that's a bad idea because in case you get hacked, in case anything happens, then you have separate wallets and you're not just SOL because there's, you know, you had one wallet, they had everything in.
 
 Um, but to, um, again, it's not to make money off you guys combining wallets, but just other stuff, basically bad actors. Um, and that's why that's, that's why we will not be doing it. So I hope that answers that.
 
-(41:34 - 42:28)
-But let me know if any, was everybody, when will we get to test all the new features? Very soon. As soon as the devs are done. I am, uh, ecstatic to share all of that. 
+But let me know if any, was everybody, when will we get to test all the new features? Very soon. As soon as the devs are done.
 
-And it looks like you guys will be helping us test all that too with, uh, the task and everything. So hopefully there's, hopefully everything goes as it should though. Let me know if everybody is able to reset using their seed phrase or if there's anything you're confused about.
+I am, uh, ecstatic to share all of that. And it looks like you guys will be helping us test all that too with, uh, the task and everything. So hopefully there's, hopefully everything goes as it should though.
 
-(42:56 - 46:45)
-Uh, good news, truth. This is still through the test link where you're getting that screen through this link. And no newcomers won't cause this will be pushed. 
+Let me know if everybody is able to reset using their seed phrase or if there's anything you're confused about. Uh, good news, truth. This is still through the test link where you're getting that screen through this link.
 
-We're just having you guys test it before it's pushed through the app. I think Ed's phone is just sensitive, but I like to, uh, tease him about it. Hi, Chad. 
+And no newcomers won't cause this will be pushed. We're just having you guys test it before it's pushed through the app. I think Ed's phone is just sensitive, but I like to, uh, tease him about it.
 
-If you click on that link, you can test out the new login process or the account creation process, both for the app. But if you're using your real account with funds in it, please make sure your seed phrase is written down on a piece of paper first. Okay. 
+Hi, Chad. If you click on that link, you can test out the new login process or the account creation process, both for the app. But if you're using your real account with funds in it, please make sure your seed phrase is written down on a piece of paper first.
 
-So good news, truth. Were you, did you try creating a new account or were you trying to access your old account, your current account with an old PIN? Because yes, if you're entering your current account and PIN through the test link, that should not work. Have confidence in yourself, Chad. 
+Okay. So good news, truth. Were you, did you try creating a new account or were you trying to access your old account, your current account with an old PIN?
 
-It's that easy now, I promise. But do have your seed phrase written down like you should already. Will we be able to access our accounts the old way? Uh, that's a good question. 
+Because yes, if you're entering your current account and PIN through the test link, that should not work. Have confidence in yourself, Chad. It's that easy now, I promise.
 
-I'm assuming, wait, okay. So do you mean by the best redundancies or do you mean after this upgrade is pushed through, is your app not going to recognize your account in the browser? Because, oh, excuse me. I'm tired. 
+But do have your seed phrase written down like you should already. Will we be able to access our accounts the old way? Uh, that's a good question.
 
-Um, it's only six two. Um, so you will be able to still access your account through all the best redundancies. And that's what's so amazing.
+I'm assuming, wait, okay. So do you mean by the best redundancies or do you mean after this upgrade is pushed through, is your app not going to recognize your account in the browser? Because, oh, excuse me.
 
-(46:46 - 48:00)
-And what this puts our app above others, right? Because you still have the use or the ease of entering in your seed phrase and logging in. However, you still have the security and backup uh, options of this. Say you're a little paranoid like I am and I don't know, I'm afraid that my fire safe box is still going to catch fire if my house catches on fire. 
+I'm tired. Um, it's only six two. Um, so you will be able to still access your account through all the best redundancies.
 
-I don't know. I think about fires way too much, which I don't know where, I don't know. I think there's a lot more but, um, so fire safety is huge in our house anyway. 
+And that's what's so amazing. And what this puts our app above others, right? Because you still have the use or the ease of entering in your seed phrase and logging in.
 
-Um, and say you just, you know, you're having your seed phrase written down. It's just not enough for you. Well, then you can have the best redundancy options. 
+However, you still have the security and backup uh, options of this. Say you're a little paranoid like I am and I don't know, I'm afraid that my fire safe box is still going to catch fire if my house catches on fire. I don't know.
 
-You can set those up that way. If you do lose your seed phrase, there are still ways for you to get into your account, which is awesome. I think this is a huge step and it's actually really easy.
+I think about fires way too much, which I don't know where, I don't know. I think there's a lot more but, um, so fire safety is huge in our house anyway. Um, and say you just, you know, you're having your seed phrase written down.
 
-(48:05 - 50:04)
-Will we have an opportunity to move our money from expert wallet to smart wallet without the 6% tax? Tax is 8% and sorry, but no. Um, again, this isn't because we're trying to charge you guys holders a tax for combining wallets, but again, because in my opinion, it's really not a bad idea to have separate wallets to have your funds in separate wallets. I don't think that's a bad idea as long as you have access to those accounts and keep that organized. 
+It's just not enough for you. Well, then you can have the best redundancy options. You can set those up that way.
 
-Um, but number two, just because, uh, it opens the door to bad actors and just, uh, over the counter sales and people buying wallets and just stuff like that, which is in the end is not great for the community as a whole. Why does it feel like I'm getting a long lost promise Christmas present this year? Sam, I don't have a timeline. If I had one, I'd give it to you. 
+If you do lose your seed phrase, there are still ways for you to get into your account, which is awesome. I think this is a huge step and it's actually really easy. Will we have an opportunity to move our money from expert wallet to smart wallet without the 6% tax?
 
-I hate timelines, but I still give it to you. Yeah, not tonight. I guess that's true. 
+Tax is 8% and sorry, but no. Um, again, this isn't because we're trying to charge you guys holders a tax for combining wallets, but again, because in my opinion, it's really not a bad idea to have separate wallets to have your funds in separate wallets. I don't think that's a bad idea as long as you have access to those accounts and keep that organized.
 
-And probably not tomorrow. That's probably true too. I will go with that. 
+Um, but number two, just because, uh, it opens the door to bad actors and just, uh, over the counter sales and people buying wallets and just stuff like that, which is in the end is not great for the community as a whole. Why does it feel like I'm getting a long lost promise Christmas present this year? Sam, I don't have a timeline.
 
-Yes, you do deserve to know. I deserve a lot of things, but you know, we are, we are getting, um, we are getting closer and, uh, you guys will get to test it. I know the time to reveal Sam's says, um, trust me, keeping this task.
+If I had one, I'd give it to you. I hate timelines, but I still give it to you. Yeah, not tonight.
 
-(50:05 - 53:13)
-I wish like at this point, and who knows, maybe if we had things would have gone different, but at this point I definitely wish, uh, we were able to share all that with you. I think, uh, it would have, I don't know. I'm sure there's pros and cons. 
+I guess that's true. And probably not tomorrow. That's probably true too.
 
-There are to both, but I think it would have been a lot less. Sam is ready in case anybody didn't know. Okay. 
+I will go with that. Yes, you do deserve to know. I deserve a lot of things, but you know, we are, we are getting, um, we are getting closer and, uh, you guys will get to test it.
 
-So voodoo child, as long as your mom doesn't get scammed, we're good. Okay. Do I have two different seed phrases for each wallet? You should only have one seed phrase per wallet. 
+I know the time to reveal Sam's says, um, trust me, keeping this task. I wish like at this point, and who knows, maybe if we had things would have gone different, but at this point I definitely wish, uh, we were able to share all that with you. I think, uh, it would have, I don't know.
 
-So yes, your seed phrase for your smart wallet will be different than your seed phrase for your expert wallet. That's why when I click on the reveal tab, it only shows the same seed to phrase, even if I'm in the other wallet. Correct. 
+I'm sure there's pros and cons. There are to both, but I think it would have been a lot less. Sam is ready in case anybody didn't know.
 
-So your wallets are, do have different seed phrases. That's why when you click or when you enter your seed phrase into your trust wallet, you're only going to see your expert wallet balance. Okay. 
+Okay. So voodoo child, as long as your mom doesn't get scammed, we're good. Okay.
 
-A lot of this is because of the wallets that handle the gas in on the backend with the smart wallet. So that's why you can't see a seed phrase or that wallet. That is something that is on our list for in the next few phases coming up to work, get a workaround around this so that you could possibly have a seed phrase for your smart wallet too. 
+Do I have two different seed phrases for each wallet? You should only have one seed phrase per wallet. So yes, your seed phrase for your smart wallet will be different than your seed phrase for your expert wallet.
 
-So that is something that is coming. If there is a way, the devs will find a way for that. But that is why we don't basically, why you don't have a seed phrase for your smart wallet is because of how that gas is handled in the back. 
+That's why when I click on the reveal tab, it only shows the same seed to phrase, even if I'm in the other wallet. Correct. So your wallets are, do have different seed phrases.
 
-But if the devs can find a way to get you a seed phrase to that and still be able to handle the gas the way it's handled now, or to get the same end result that is on our list of tasks to complete. We told you you can have it once you finish your vegetables. Yeah.
+That's why when you click or when you enter your seed phrase into your trust wallet, you're only going to see your expert wallet balance. Okay. A lot of this is because of the wallets that handle the gas in on the backend with the smart wallet.
 
-(53:13 - 53:37)
-Don't, don't have those heavy metals. I don't care if it's organic. I don't care if you grew it yourself or soil is full of heavy metals. 
+So that's why you can't see a seed phrase or that wallet. That is something that is on our list for in the next few phases coming up to work, get a workaround around this so that you could possibly have a seed phrase for your smart wallet too. So that is something that is coming.
 
-And so is the air. Don't eat your vegetables. Eat your meat, eat your meat and eat your liver.
+If there is a way, the devs will find a way for that. But that is why we don't basically, why you don't have a seed phrase for your smart wallet is because of how that gas is handled in the back. But if the devs can find a way to get you a seed phrase to that and still be able to handle the gas the way it's handled now, or to get the same end result that is on our list of tasks to complete.
 
-(53:40 - 54:13)
-Watch out for the chicken. Try to eat it raw while you're at it too. No, eat your meat. 
+We told you you can have it once you finish your vegetables. Yeah. Don't, don't have those heavy metals.
 
-Oh my goodness. So if you give out your seed phrase, they can only take your expert wallet coins without themselves logging into the FJB app. You're saying if you give your seed phrase to a scammer, I'm assuming, which please don't give your seed phrase to anybody, including admins or any customer support.
+I don't care if it's organic. I don't care if you grew it yourself or soil is full of heavy metals. And so is the air.
 
-(54:15 - 55:11)
-Yes, I believe so. Yes. Unless they have a login. 
+Don't eat your vegetables. Eat your meat, eat your meat and eat your liver. Watch out for the chicken.
 
-I'm not sure if there's any other ways for them to access your funds and your smart wallet. But yes, they cannot enter right now with the way everything is set up right now. They cannot access your funds through your seed phrase on a third party wallet, like a trust wallet. 
+Try to eat it raw while you're at it too. No, eat your meat. Oh my goodness.
 
-Is most of this task reveal revolving around the app or is there some other stuff we don't know about yet? I think there's some other stuff we don't know about yet. Are you taking questions? Yes. Oh, maybe MP's not listening.
+So if you give out your seed phrase, they can only take your expert wallet coins without themselves logging into the FJB app. You're saying if you give your seed phrase to a scammer, I'm assuming, which please don't give your seed phrase to anybody, including admins or any customer support. Yes, I believe so.
 
-(55:14 - 55:43)
-Yeah, or I should say some questions. Some questions regarding the task, I can't. Oh, that's funny. 
+Yes. Unless they have a login. I'm not sure if there's any other ways for them to access your funds and your smart wallet.
 
-Russ said BRB. Who's buying? Who's buying? Who's buying? See, I was right in stepping away to get a glass of wine. Somebody's buying like we're celebrating already.
+But yes, they cannot enter right now with the way everything is set up right now. They cannot access your funds through your seed phrase on a third party wallet, like a trust wallet. Is most of this task reveal revolving around the app or is there some other stuff we don't know about yet?
 
-(55:46 - 55:56)
-Oh, let's see what the dev just texted. Ah, the dev says he's good. That's good news.
+I think there's some other stuff we don't know about yet. Are you taking questions? Yes.
 
-(56:09 - 56:35)
-Are we going to be ready in November or December? We're still good for November right now. If that changes, I will let you know. I do not want it to change, trust me.
+Oh, maybe MP's not listening. Yeah, or I should say some questions. Some questions regarding the task, I can't.
 
-(56:37 - 57:48)
-But if it does, I have to be honest with you guys. But right now, we are still good for November. Still got a good chunk of November done, left. 
+Oh, that's funny. Russ said BRB. Who's buying?
 
-And then, wait, what was the other question? And then how long after reveal is war room segments? That we are not sure of yet. A lot of that lately, we're just, legal's been busy getting stuff squared away. Sorry, we're not. 
+Who's buying? Who's buying? See, I was right in stepping away to get a glass of wine.
 
-Dogs are all out and barking. Having a blast. Whose pool do I have to clean to get a piece of that wall? Is that what you do, pools? I have a pool. 
+Somebody's buying like we're celebrating already. Oh, let's see what the dev just texted. Ah, the dev says he's good.
+
+That's good news. Are we going to be ready in November or December? We're still good for November right now.
+
+If that changes, I will let you know. I do not want it to change, trust me. But if it does, I have to be honest with you guys.
+
+But right now, we are still good for November. Still got a good chunk of November done, left. And then, wait, what was the other question?
+
+And then how long after reveal is war room segments? That we are not sure of yet. A lot of that lately, we're just, legal's been busy getting stuff squared away.
+
+Sorry, we're not. Dogs are all out and barking. Having a blast.
+
+Whose pool do I have to clean to get a piece of that wall? Is that what you do, pools? I have a pool.
 
 You're welcome to clean it. Oh, thanks, Russ. And I have a canal behind my house, so it's a pain.
 
-(57:48 - 57:55)
 I don't have any trees that go in there, though. The palm trees and all that stuff is too big, too. No messy trees.
 
-(58:19 - 1:00:37)
-Give me a second, guys. Answering Dev's question, if you want tasks to be... Let me answer this real quick. Let's see. 
+Give me a second, guys. Answering Dev's question, if you want tasks to be... Let me answer this real quick.
 
-That's a good question. Um, sorry, I have to check something for our Dev working on the task. No, just seeing... Oh, hey, I thought you were a pool man. 
+[Speaker 2]
+Let's see.
 
-Pool people here make good living. We always need them. But in Phoenix, most everybody has a pool because it's too hot. 
+[Speaker 1]
+That's a good question. Um, sorry, I have to check something for our Dev working on the task. No, just seeing...
 
-There's not much else to do in the summer than sit in your hot bath water feeling pool. Is my dog howling like a wolf outside? Boris, Boris. I gotta screenshot that.
+Oh, hey, I thought you were a pool man. Pool people here make good living. We always need them.
 
-(1:00:45 - 1:01:49)
-That's a little late. I'll send that over tomorrow. So, yeah, my little golden doodle was raised with a wolf dog, and so he howls. 
+But in Phoenix, most everybody has a pool because it's too hot. There's not much else to do in the summer than sit in your hot bath water feeling pool. Is my dog howling like a wolf outside?
 
-She taught him how to howl. I'm sorry, my phone died while you were answering, so not sure if you answered. Can I access my seed phrase for my SmartWall account? No, not right now. 
+Boris, Boris. I gotta screenshot that. That's a little late.
+
+I'll send that over tomorrow. So, yeah, my little golden doodle was raised with a wolf dog, and so he howls. She taught him how to howl.
+
+I'm sorry, my phone died while you were answering, so not sure if you answered. Can I access my seed phrase for my SmartWall account? No, not right now.
 
 This is something we have in the in future phases for some changes we have coming up with the app to make that happen. If there is a way, the Devs will make it happen. Right now, for everything built the way it is, no, you cannot access your seed phrase for your SmartWallet account.
 
-(1:01:51 - 1:04:01)
-This is why when you put your seed phrase from your FJB app, when you enter that into TrustWallet, for example, you'll only see the balance of your Expert Mode wallet, and this is because the SmartWallet gas is handled by our other Freedom wallets in the back, our Freedom Factory wallets in the back, on the back end. But it's not a bad idea to have your wallet's balances separated, in my opinion. I don't think that's an awful idea because, I don't know, say God forbid you get scammed, click on a link or something like that, and you're only out one wallet instead of all your wallets. 
+This is why when you put your seed phrase from your FJB app, when you enter that into TrustWallet, for example, you'll only see the balance of your Expert Mode wallet, and this is because the SmartWallet gas is handled by our other Freedom wallets in the back, our Freedom Factory wallets in the back, on the back end. But it's not a bad idea to have your wallet's balances separated, in my opinion. I don't think that's an awful idea because, I don't know, say God forbid you get scammed, click on a link or something like that, and you're only out one wallet instead of all your wallets.
 
-That's the way at least I think about it. Yes, Freedom Factory wallet. Freedom Factory is what handles our gas for the SmartWallets, and we'll have a new diagram, an updated diagram for you all for how everything is working. 
+That's the way at least I think about it. Yes, Freedom Factory wallet. Freedom Factory is what handles our gas for the SmartWallets, and we'll have a new diagram, an updated diagram for you all for how everything is working.
 
 That's what Velo worked on much of building in the very beginning. Sorry, I'm just answering a DM. This week or next week to test the new app features.
 
-(1:04:06 - 1:05:23)
-I'm not sure what you're talking about. You're not talking about task, I'm assuming. You're talking about the app rebrand the devs are working on, or are you talking about this portion with the app logins? Okay, found seed phrase finally and got it set up. 
+I'm not sure what you're talking about. You're not talking about task, I'm assuming. You're talking about the app rebrand the devs are working on, or are you talking about this portion with the app logins?
 
-Looks like old wallet. Was there supposed to be something crazy that happens? Yes, something crazy that happens is how simple the app is going to be is to log in now. That includes if you get a new device, try to log into a different browser. 
+Okay, found seed phrase finally and got it set up. Looks like old wallet. Was there supposed to be something crazy that happens?
 
-Example, you have the app on your phone, but now you want to log into your desktop or vice versa, or you forget your PIN. You don't have to go through all the best options that you needed to go through before that. A lot of people found very confusing, especially if they switched browsers or devices.
+Yes, something crazy that happens is how simple the app is going to be is to log in now. That includes if you get a new device, try to log into a different browser. Example, you have the app on your phone, but now you want to log into your desktop or vice versa, or you forget your PIN.
 
-(1:05:25 - 1:07:22)
-There was no way to sign in using just your seed phrase or recover your wallet just with your seed phrase, so that's a huge step to make it easy enough for your grammar. You said our app will have features that other apps do not have. Do we get to test that soon? Yes. 
+You don't have to go through all the best options that you needed to go through before that. A lot of people found very confusing, especially if they switched browsers or devices. There was no way to sign in using just your seed phrase or recover your wallet just with your seed phrase, so that's a huge step to make it easy enough for your grammar.
 
-Once this testing is added and pushed through the app, for starters, you're going to have the option to not only log into your app using your PIN, your browser, your seed phrase, but also you can set up the different redundancies through VEST. What that is, is you can set up different browsers, you can have your friends help you, your sister, brother, wife, mom, dad, help you. That way, in case you lose your seed phrase, you have other ways to recover it, which is awesome because wallets like TrustWallet don't have that. 
+You said our app will have features that other apps do not have. Do we get to test that soon? Yes.
 
-If you lose your seed phrase, you're just SOL. Of course, if you don't have those VEST redundancies set up, then you are screwed. So, of course, always just have your seed phrase in a safe place.
+Once this testing is added and pushed through the app, for starters, you're going to have the option to not only log into your app using your PIN, your browser, your seed phrase, but also you can set up the different redundancies through VEST. What that is, is you can set up different browsers, you can have your friends help you, your sister, brother, wife, mom, dad, help you. That way, in case you lose your seed phrase, you have other ways to recover it, which is awesome because wallets like TrustWallet don't have that. If you lose your seed phrase, you're just SOL.
 
-(1:07:35 - 1:11:53)
-Is there anything more you can tell us about the task? What more can I tell you? I don't know. Oh, so sneaky, Ed. Has phase three of the app been completed? When can we expect full app deployment? Everything has been completed, yes, as far as the functions added. 
+Of course, if you don't have those VEST redundancies set up, then you are screwed. So, of course, always just have your seed phrase in a safe place. Is there anything more you can tell us about the task?
 
-It's more so deploying it that's causing an issue. Oh, now I can tell you guys a little bit about that. So, a lot of the issues some of the users have been experiencing with the spinning circles, for example, onto the app upgrades, the current app when you're going to app.fjbcoin.org, is due to some VEST issues. 
+What more can I tell you? I don't know. Oh, so sneaky, Ed.
 
-So, pushing this portion that you all are testing right now through should fix most, if not all, of those issues. So, that'll be great. We are just waiting on VEST to make a few little changes with just as far as some of the text on some of the pages that you're testing right now. 
+Has phase three of the app been completed? When can we expect full app deployment? Everything has been completed, yes, as far as the functions added.
 
-But everything is working beautifully as far as I've tested and it looks like for most of you testing. I think any issues you're having are happening are beyond of what the purpose of what this login process is supposed to do and how easy it's supposed to do. Speaking of pools, water is fine. 
+It's more so deploying it that's causing an issue. Oh, now I can tell you guys a little bit about that. So, a lot of the issues some of the users have been experiencing with the spinning circles, for example, onto the app upgrades, the current app when you're going to app.fjbcoin.org, is due to some VEST issues. So, pushing this portion that you all are testing right now through should fix most, if not all, of those issues. So, that'll be great. We are just waiting on VEST to make a few little changes with just as far as some of the text on some of the pages that you're testing right now.
 
-Just cold plunge it. That's what I've been doing now but my pool's not like bath water. So, if you use your seed phrase, you can recover your wallet through your family if we approve them as a recovery safety net. 
+But everything is working beautifully as far as I've tested and it looks like for most of you testing. I think any issues you're having are happening are beyond of what the purpose of what this login process is supposed to do and how easy it's supposed to do. Speaking of pools, water is fine.
 
-If you use your seed phrase, you can recover your wallet with just your seed phrase. That is the very big deal here. Because before, and I understand because if you've never ran into it, I think it's one of those things, if you've never gotten a new device or you've never tried to log in from a different browser, you haven't seen how difficult VEST was for us. 
+Just cold plunge it. That's what I've been doing now but my pool's not like bath water. So, if you use your seed phrase, you can recover your wallet through your family if we approve them as a recovery safety net.
 
-Because they do, oh my gosh, they're amazing at security. They want your account to be secure and they do a wonderful job at that. So, if you lose, oh sorry, I misread that. 
+If you use your seed phrase, you can recover your wallet with just your seed phrase. That is the very big deal here. Because before, and I understand because if you've never ran into it, I think it's one of those things, if you've never gotten a new device or you've never tried to log in from a different browser, you haven't seen how difficult VEST was for us.
 
-I don't see what you corrected first. So, if you lose your seed phrase, you can recover your wallet through your family if you approve them as a recovery safety net. Yes, so you have the VEST redundancies that I do highly, highly, highly recommend setting up. 
+Because they do, oh my gosh, they're amazing at security. They want your account to be secure and they do a wonderful job at that. So, if you lose, oh sorry, I misread that.
 
-And those also, so those are outside of our control, the VEST redundancy options. However, VEST is working on simplifying those two. They, I am told, they're adding fingerprint login, face recognition, and text. 
+I don't see what you corrected first. So, if you lose your seed phrase, you can recover your wallet through your family if you approve them as a recovery safety net. Yes, so you have the VEST redundancies that I do highly, highly, highly recommend setting up.
 
-So, you'll be able to log in using your fingerprint, log in using face recognition, and also having your phone number be one of the recovery options. So, it doesn't need to be an email. So, I know they are growing a ton too. 
+And those also, so those are outside of our control, the VEST redundancy options. However, VEST is working on simplifying those two. They, I am told, they're adding fingerprint login, face recognition, and text.
+
+So, you'll be able to log in using your fingerprint, log in using face recognition, and also having your phone number be one of the recovery options. So, it doesn't need to be an email. So, I know they are growing a ton too.
 
 Very excited for that. But setting up your redundancies, I think it's awesome because, I don't know, say fires. I don't know, I always say fires because I'm just terrified of fires.
 
-(1:11:55 - 1:22:15)
-And you don't have your seed phrase in a fire safe box, then you can still go ahead and recover your wallets, even if you happen to delete them off your browsers or say your devices catch on fire too. I don't know. Somebody's buying. 
+And you don't have your seed phrase in a fire safe box, then you can still go ahead and recover your wallets, even if you happen to delete them off your browsers or say your devices catch on fire too. I don't know. Somebody's buying.
 
-Gee. So, what does that mean when looking at app deployment? So, a lot of issues that users were experiencing, like the login circle of death, was happening because of just inconsistencies happening. Like VEST being too secure. 
+Gee. So, what does that mean when looking at app deployment? So, a lot of issues that users were experiencing, like the login circle of death, was happening because of just inconsistencies happening.
 
-But just it the steps that VEST was working with our app weren't in the correct order because of the way VEST works. You have, you know, a VEST vault, and then you have the wallet, and then you have the app, and these are all layers of security. It was just very complicated. 
+Like VEST being too secure. But just it the steps that VEST was working with our app weren't in the correct order because of the way VEST works. You have, you know, a VEST vault, and then you have the wallet, and then you have the app, and these are all layers of security.
 
-And I think sometimes, well, I know that sometimes what was happening when you logged in and say you reset your PIN, and VEST wasn't recognizing it because there's different levels of security. You would, for example, reset your PIN, which should have let you through then to your wallet, but it did not. So, that was a lot of the difficulties and error messages that you guys were having were because of that. 
+It was just very complicated. And I think sometimes, well, I know that sometimes what was happening when you logged in and say you reset your PIN, and VEST wasn't recognizing it because there's different levels of security. You would, for example, reset your PIN, which should have let you through then to your wallet, but it did not.
 
-So, now that we have this being deployed into the app, that should get all that fixed. They went ahead and changed the way we still have the same level of security that we had before, but the way the different layers worked, they made that so it makes it a lot easier for our users and works a lot better within our app and our wallet because those are two different layers as far as VEST sees it. When I pull down on the app and the refresh animation happens, it logs me out of my account. 
+So, that was a lot of the difficulties and error messages that you guys were having were because of that. So, now that we have this being deployed into the app, that should get all that fixed. They went ahead and changed the way we still have the same level of security that we had before, but the way the different layers worked, they made that so it makes it a lot easier for our users and works a lot better within our app and our wallet because those are two different layers as far as VEST sees it.
 
-Yes. We are aware of this. Thank you. 
+When I pull down on the app and the refresh animation happens, it logs me out of my account. Yes. We are aware of this.
 
-So, you're thinking app deployment in November. Yes. For app, definitely. 
+Thank you. So, you're thinking app deployment in November. Yes.
 
-Again, the app right now, we're just waiting for this VEST integration to go live, and that should fix the issue that's happening right now with you only being able to use... Some users are actually... I'm able to use... That's why we think it's... Oh, give me just a second. Sorry. I got a question from the dev. 
+For app, definitely. Again, the app right now, we're just waiting for this VEST integration to go live, and that should fix the issue that's happening right now with you only being able to use... Some users are actually...
 
-Give me a second. I'll answer the dev. I think he has to get back to me. 
+I'm able to use... That's why we think it's... Oh, give me just a second.
 
-So, yes. We'll know more tomorrow as far as the app deployment goes, but right now, and that's why we think it's a VEST issue along with the error logs, I'm able to log into the actual mobile app, but this is with a dummy account and with a new one, too. And I know some users are able to, but this might be... Sorry. 
+Sorry. I got a question from the dev. Give me a second.
 
-I'm just answering something for the dev, but this might be an advisor question. We have a kindest dev. Okay. 
+I'll answer the dev. I think he has to get back to me. So, yes.
 
-I'm done with that for now. All right. MP, I cannot answer any more task questions. 
+We'll know more tomorrow as far as the app deployment goes, but right now, and that's why we think it's a VEST issue along with the error logs, I'm able to log into the actual mobile app, but this is with a dummy account and with a new one, too. And I know some users are able to, but this might be... Sorry.
 
-Well, not that one. Sneaky, sneaky. All right. 
+I'm just answering something for the dev, but this might be an advisor question. We have a kindest dev. Okay.
 
-Well, I'm ready, too. Trust me. I am... This is gonna be... I don't even... I don't even know what I'm gonna do with myself. 
+I'm done with that for now. All right. MP, I cannot answer any more task questions.
 
-What are you guys gonna do with yourselves? Like, after tasks, it's just gonna be like... I'll be on to the next task. I'll tell you what, though. Anytime the team wants to not share a task or keep it secret from this point forward, I'm not doing that. 
+Well, not that one. Sneaky, sneaky. All right.
 
-I will be protesting. I'll lead the protest. I think that's everything I got. 
+Well, I'm ready, too. Trust me. I am...
 
-Yeah. I'm very excited for this. This was, like I said, a huge, huge, huge step for our app, anyway, because this definitely mainstreams it and makes it a lot easier for anybody to access their account. 
+This is gonna be... I don't even... I don't even know what I'm gonna do with myself.
 
-And it integrates the security of Vess, which they have amazing security. I believe they are really some of the best at that. But integrating it for better use for crypto, anyway. 
+What are you guys gonna do with yourselves? Like, after tasks, it's just gonna be like... I'll be on to the next task.
 
-So I think, yeah, we're moving in the right direction. If you guys want to continue testing it, let me know if you haven't tested it yet. Again, please don't test it. 
+I'll tell you what, though. Anytime the team wants to not share a task or keep it secret from this point forward, I'm not doing that. I will be protesting.
 
-Don't delete your key from the browser if you have funds in those accounts, in the account that you're deleting the key from. Do not do that unless you have your seed phrase. Again, if you have your seed phrase, you have nothing to worry about.
+I'll lead the protest. I think that's everything I got. Yeah.
 
-(1:22:15 - 1:23:02)
-You're good. But let me know if anything else you run into. So far, it looks like they've changed most things we worked on in today's meeting. 
+I'm very excited for this. This was, like I said, a huge, huge, huge step for our app, anyway, because this definitely mainstreams it and makes it a lot easier for anybody to access their account. And it integrates the security of Vess, which they have amazing security.
 
-I imagine they're working on the other two. I'll just double check to make sure that they didn't accidentally skip through those. But yeah, and we're definitely closer to task reveal. 
+I believe they are really some of the best at that. But integrating it for better use for crypto, anyway. So I think, yeah, we're moving in the right direction.
 
-We are still very much into November so far. And I promise if that does change, or even if my confidence, my personal confidence towards that changes, I will let you know. But as it is right now, we're still good in November.
+If you guys want to continue testing it, let me know if you haven't tested it yet. Again, please don't test it. Don't delete your key from the browser if you have funds in those accounts, in the account that you're deleting the key from.
 
-(1:23:02 - 1:23:26)
-I can't wait for you guys to see all those features that will set up our new foundation that I'm very, very, very excited for. And also have some changes coming to our socials. I think you guys will love our video for the task announcement too.
+Do not do that unless you have your seed phrase. Again, if you have your seed phrase, you have nothing to worry about. You're good.
 
-(1:23:27 - 1:24:39)
-And then some other stuff we're working on, just hoping to get that through legal. But that's, I think that wraps it up for now. I am very, very, very excited for this. 
+But let me know if anything else you run into. So far, it looks like they've changed most things we worked on in today's meeting. I imagine they're working on the other two.
 
-This is, again, it's taken a few weeks, thousands and thousands of dollars. And it'll be a huge step to make sure that grandma can easily get into her app instead of going through the VESS, you know, the old VESS process that we had. This is definitely a great step. 
+I'll just double check to make sure that they didn't accidentally skip through those. But yeah, and we're definitely closer to task reveal. We are still very much into November so far.
 
-And again, VESS will continue changing things on their end for the better, which will continue helping us. Even as far as the redundancies, they're outside of our control, right? Because those are not app related. Those are 100% VESS related. 
+And I promise if that does change, or even if my confidence, my personal confidence towards that changes, I will let you know. But as it is right now, we're still good in November. I can't wait for you guys to see all those features that will set up our new foundation that I'm very, very, very excited for.
+
+And also have some changes coming to our socials. I think you guys will love our video for the task announcement too. And then some other stuff we're working on, just hoping to get that through legal.
+
+But that's, I think that wraps it up for now. I am very, very, very excited for this. This is, again, it's taken a few weeks, thousands and thousands of dollars.
+
+And it'll be a huge step to make sure that grandma can easily get into her app instead of going through the VESS, you know, the old VESS process that we had. This is definitely a great step. And again, VESS will continue changing things on their end for the better, which will continue helping us.
+
+Even as far as the redundancies, they're outside of our control, right? Because those are not app related. Those are 100% VESS related.
 
 And like a VESS process with the VESS messages and error messages and all that and popups. But even those will get easier. So I'm excited for that.
 
-(1:24:42 - 1:25:06)
-Ed's still trying. Task any day now. Boris, beware. 
+Ed's still trying. Task any day now. Boris, beware.
 
-Father, thank you for our continued grace and the gift of this project. To you goes all honor and glory. Amen. 
+Father, thank you for our continued grace and the gift of this project. To you goes all honor and glory. Amen.
 
 Thank you. We need all the prayers we can get still. Very excited for that.
 
-(1:25:08 - 1:25:41)
-When you say legal, I'm hoping that isn't the legal from this past year. Not sure what that means. When this guy passes Boris, does he get to join the conference call? I haven't seen. 
+When you say legal, I'm hoping that isn't the legal from this past year. Not sure what that means. When this guy passes Boris, does he get to join the conference call?
 
-Where is he? Oh, wow. Quite almost there. I don't know what you mean legal from this past year.
+I haven't seen. Where is he? Oh, wow.
 
-(1:25:41 - 1:25:58)
-I'm thinking everything. Dumb guys work like turtles. Well, they have to make sure we're, you know, they've done everything to the best of their knowledge.
+Quite almost there. I don't know what you mean legal from this past year. I'm thinking everything.
 
-(1:26:04 - 1:26:56)
-I think we have to be extra careful, obviously, just being in this space. But you guys have seen why that is. All right. 
+Dumb guys work like turtles. Well, they have to make sure we're, you know, they've done everything to the best of their knowledge. I think we have to be extra careful, obviously, just being in this space.
 
-Okay. Well, I think that's everything. Oh, let's do our reminders. 
+But you guys have seen why that is. All right. Okay.
 
-I don't think I've done this call. Please get your funds off XT and please get your funds off L Bank. Do please, very pretty please get your funds not only off XT, but off L Bank.
+Well, I think that's everything. Oh, let's do our reminders. I don't think I've done this call.
 
-(1:26:57 - 1:27:14)
-We are in the process of being delisted from there soon. Sooner than later. So if you know anybody who does have coins off L Bank, please get them off there too.
+Please get your funds off XT and please get your funds off L Bank. Do please, very pretty please get your funds not only off XT, but off L Bank. We are in the process of being delisted from there soon.
 
-(1:27:18 - 1:28:05)
-So get that off. If you need any help doing that, please reach out to me. If you DM me, generally, especially if I'm like sleeping, make sure you tag me just because my inbox is just loaded with mostly scammers really. 
+Sooner than later. So if you know anybody who does have coins off L Bank, please get them off there too. So get that off.
 
-Make sure you tag me because I always get the tags. And that way I can then check your DM. Also, if you ever bought using wire and never got those coins, like if you paid your few hundred dollars or how much ever it was, but you never received the coins for those funds that you paid out, please reach out to me or reach out to wire. 
+If you need any help doing that, please reach out to me. If you DM me, generally, especially if I'm like sleeping, make sure you tag me just because my inbox is just loaded with mostly scammers really. Make sure you tag me because I always get the tags.
 
-You also need to do that by December 3rd. So we got a few weeks left. I would do it as soon as possible because nobody moves slower than wire.
+And that way I can then check your DM. Also, if you ever bought using wire and never got those coins, like if you paid your few hundred dollars or how much ever it was, but you never received the coins for those funds that you paid out, please reach out to me or reach out to wire. You also need to do that by December 3rd.
 
-(1:28:09 - 1:28:30)
-What will happen to 55? Yeah, that's why you need to get your coins off XT and L Bank now. Because if you don't get your funds off there, there is nothing we can do for you. So I will repeat, if you don't get your funds off L Bank or XT, there is nothing we can do for you.
+So we got a few weeks left. I would do it as soon as possible because nobody moves slower than wire. What will happen to 55?
 
-(1:28:30 - 1:28:56)
+Yeah, that's why you need to get your coins off XT and L Bank now. Because if you don't get your funds off there, there is nothing we can do for you. So I will repeat, if you don't get your funds off L Bank or XT, there is nothing we can do for you.
+
 So please do get your funds off there. If they decide it's too late for you to do that, then it's too late and we cannot help you and I'd hate for that to happen to any of you who've spent your hard earned money on some FJD coins. So please make sure if you know anybody that has funds on XT or L Bank to get them off.
 
-(1:28:56 - 1:29:32)
-I'm hoping everybody here is getting their coins off L Bank. I assume most of you don't have your coins on there, but there's quite a bit of coins still on both of those platforms. So please do that. 
+I'm hoping everybody here is getting their coins off L Bank. I assume most of you don't have your coins on there, but there's quite a bit of coins still on both of those platforms. So please do that.
 
-Again, don't share your seed phrase with anybody. Don't click on any weird links. If anybody DMs you a link, I just thought of something. 
+Again, don't share your seed phrase with anybody. Don't click on any weird links. If anybody DMs you a link, I just thought of something.
 
 Maybe somebody will start making links that look like our app logins. Be very careful of that. Do not click on any weird links.
 
-(1:29:32 - 1:30:18)
-I won't ever DM you any links unless you DM me first asking for help. So outside of that, link that I posted a few times in general, please do not click on any other links in case a scammer makes a page that looks like our app login page that is not. Be very careful of that and I'll actually add that to my list to start making that disclaimer just so you all aren't entering your seed phrase into a fake FJB browser. 
+I won't ever DM you any links unless you DM me first asking for help. So outside of that, link that I posted a few times in general, please do not click on any other links in case a scammer makes a page that looks like our app login page that is not. Be very careful of that and I'll actually add that to my list to start making that disclaimer just so you all aren't entering your seed phrase into a fake FJB browser.
 
 So again, just be very wary of links and giving anybody. Nobody will ever ask your seed phrase. Nobody who's helping you with anything.
 
-(1:30:22 - 1:30:51)
-Yes, and you won't be charged the 8% for moving your coins from L Bank or XT, so you don't have to worry about that. You can combine your wallets. You can put it on a new FJB or trust wallet, but you don't have to worry about being charged the 8%, so please just do that sooner than later. 
+Yes, and you won't be charged the 8% for moving your coins from L Bank or XT, so you don't have to worry about that. You can combine your wallets. You can put it on a new FJB or trust wallet, but you don't have to worry about being charged the 8%, so please just do that sooner than later.
 
 If you need any help, go ahead and message me. I will not message you first, so just be wary of that. No other admins should be messaging you first either.
 
-(1:30:52 - 1:32:21)
-Be very wary of that, please. I feel like we haven't gotten anybody get scammed in several weeks and that I always start getting worried because that's always when it means us getting closer. Yes, as we pick up steam, I'm sure scammers will come back. 
+Be very wary of that, please. I feel like we haven't gotten anybody get scammed in several weeks and that I always start getting worried because that's always when it means us getting closer. Yes, as we pick up steam, I'm sure scammers will come back.
 
-I forget who was who wasn't that got last got scammed. I feel like it wasn't that long ago. Oh, I know who was. 
+I forget who was who wasn't that got last got scammed. I feel like it wasn't that long ago. Oh, I know who was.
 
-It was one of you guys's friends. That was really sad. All right, I think that's everything. 
+It was one of you guys's friends. That was really sad. All right, I think that's everything.
 
-If you all need anything else while it's getting your coins off XT or L Bank or Wire or any other issues you're having, please DM me. Again, I won't DM you first. We do not have a scammer or excuse me, we do not have a support bot that will DM you. 
+If you all need anything else while it's getting your coins off XT or L Bank or Wire or any other issues you're having, please DM me. Again, I won't DM you first. We do not have a scammer or excuse me, we do not have a support bot that will DM you.
 
 We don't have anybody named support that will DM you, so just be very wary of that. But let me know if you need anything else. In the meantime, I promise we are doing everything we can and paying everybody we can to get this moving as quickly as we can without impacting the quality of it.
 
-(1:32:21 - 1:32:49)
 But we will continue doing what's best for our community and our holders. I think it'll be amazing. I'm gonna go eat dinner and then I'll post this in the voice notes with a few notes for you all who, gosh this was kind of a long one, we don't want to stay on for an hour and a half to listen to it.
 
-(1:32:50 - 1:33:57)
-I will post the link again too for all of you who haven't tested who still want to test with some testing instructions. Just please remember I don't want you to use your current app account if you do not have your seed phrase written down. Make sure your seed phrase is written down. 
+I will post the link again too for all of you who haven't tested who still want to test with some testing instructions. Just please remember I don't want you to use your current app account if you do not have your seed phrase written down. Make sure your seed phrase is written down.
 
-You should be doing that anyway, but I just don't want you to delete your VEST keys from your browser if you do not have those written down. All right, I'll keep you guys updated on when this is going live, along with the other app updates and our video that I'm really excited for. Thank you so much for helping us and if you have any issues or it logged you out of your other account, don't worry. 
+You should be doing that anyway, but I just don't want you to delete your VEST keys from your browser if you do not have those written down. All right, I'll keep you guys updated on when this is going live, along with the other app updates and our video that I'm really excited for. Thank you so much for helping us and if you have any issues or it logged you out of your other account, don't worry.
 
-Anything app related, we're taking care of you either way, so don't stress. Again, if you have your seed phrase written down, that's all you need. We'll take care of you, but thank you guys for helping us test. 
+Anything app related, we're taking care of you either way, so don't stress. Again, if you have your seed phrase written down, that's all you need. We'll take care of you, but thank you guys for helping us test.
 
 I will talk to you soon. Have a great night.

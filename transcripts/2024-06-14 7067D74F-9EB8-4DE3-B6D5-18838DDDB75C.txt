@@ -1,214 +1,236 @@
-(0:02 - 0:25)
+[Speaker 1]
 It's been a great week on our end, minus just a little bit ago. I think a member of the community got hacked and their wallet cleaned out of their coins. So, we'll begin this one by saying please remember to not connect to anything.
 
-(0:25 - 1:05)
-Anything. Anybody promising you free coins? Anybody promising you anything? Generally, anything in the crypto world you're getting for free, you probably don't want. Don't risk it. 
+Anything. Anybody promising you free coins? Anybody promising you anything?
 
-Or if you're going to do that, just make some throwaway wallet with no balances in there. I just would recommend not doing it at all. Just be very, very, very careful just because it really sucks when this happens.
+Generally, anything in the crypto world you're getting for free, you probably don't want. Don't risk it. Or if you're going to do that, just make some throwaway wallet with no balances in there.
 
-(1:06 - 1:47)
-It's awful. Obviously, we can't control the hackers' wallets. So, please, please, please. 
+I just would recommend not doing it at all. Just be very, very, very careful just because it really sucks when this happens. It's awful.
 
-I know we say it all the time, but I know, you know, it always happens obviously on an off day when we're not thinking straight. You know, we have stuff going on. Humans, we're humans, right? We're all not perfect. 
+Obviously, we can't control the hackers' wallets. So, please, please, please. I know we say it all the time, but I know, you know, it always happens obviously on an off day when we're not thinking straight.
+
+You know, we have stuff going on. Humans, we're humans, right? We're all not perfect.
 
 So, just keep it in mind that no matter what and tell everybody else, you know, too, if you have, you know, a mom or dad or uncle or friend or co-worker, too. Just always keep that in mind, please. So, get that out of the way.
 
-(1:49 - 4:39)
-The contest ends right now for the testing phase and we'll go through the entries and the transactions to send a winner. We still haven't sent out those two prizes, but I promise I will do that today. Just have a very, very full week or so taking care of other stuff. 
+The contest ends right now for the testing phase and we'll go through the entries and the transactions to send a winner. We still haven't sent out those two prizes, but I promise I will do that today. Just have a very, very full week or so taking care of other stuff.
 
-So, I feel like community has taken a back seat. So, we'll start the other contest right now and we'll just do a buy contest. We'll do the same one winner. 
+So, I feel like community has taken a back seat. So, we'll start the other contest right now and we'll just do a buy contest. We'll do the same one winner.
 
-I think we'll put a dollar amount on that now that we are adding a feature in the app for that. So, we'll do the same deal with every, what is it, 50,000 usually is one entry. And I'll post it after the chat and the contest channels. 
+I think we'll put a dollar amount on that now that we are adding a feature in the app for that. So, we'll do the same deal with every, what is it, 50,000 usually is one entry. And I'll post it after the chat and the contest channels.
 
-Okay, on to, let me go. I know I don't have any emails. I know I went through all of those. 
+Okay, on to, let me go. I know I don't have any emails. I know I went through all of those.
 
-So, if you emailed, you've got to reply back. That's funny, Bob. I don't really, it's funny. 
+So, if you emailed, you've got to reply back. That's funny, Bob. I don't really, it's funny.
 
-I had a, I had a close friend who video games became a huge issue in their marriage. I don't really mind that. Maybe I've, maybe I've dealt with worse. 
+I had a, I had a close friend who video games became a huge issue in their marriage. I don't really mind that. Maybe I've, maybe I've dealt with worse.
 
-So, it's like, I don't know. It's like, oh, you're going to be a nerd that's on your computer. Sure, that's fine. 
+So, it's like, I don't know. It's like, oh, you're going to be a nerd that's on your computer. Sure, that's fine.
 
-Just get out of my hair. Let's see. Status of the app. 
+Just get out of my hair. Let's see. Status of the app.
 
-Is the app ready to launch? No, devs are still working on the app. We have the one dev that should be fairly close to adding the marketplace feature. And the second dev that's working on pretty much reorganizing the code for lack of better terms.
+Is the app ready to launch? No, devs are still working on the app. We have the one dev that should be fairly close to adding the marketplace feature.
 
-(4:41 - 6:10)
-And he's already, I'm not sure how much I updated you all on that. He's already, let's see. Let's go in here. 
+And the second dev that's working on pretty much reorganizing the code for lack of better terms. And he's already, I'm not sure how much I updated you all on that. He's already, let's see.
 
-Already cleared out all API errors, logs, auth issues should all be good now. A few other features we've added in for, into features that have to do with the general transactions and swaps just to make that super, super easy for anybody using the app for the first time or dealing with crypto for the first time. Let's see. 
+Let's go in here. Already cleared out all API errors, logs, auth issues should all be good now. A few other features we've added in for, into features that have to do with the general transactions and swaps just to make that super, super easy for anybody using the app for the first time or dealing with crypto for the first time.
 
-And then what else? That includes the way the swaps show up. That includes the confirmation page that pops up that was a little bit messy before. That includes you being able to send somebody $50 of PPY instead of having to calculate the PPY.
+Let's see. And then what else? That includes the way the swaps show up.
 
-(6:38 - 8:24)
-I think I need to share from you for this one. Can we go back in the chats? Just joined late and just caught the end of that. But can the wallet that received the scammed PPY be blacklisted? Can get them back if they can't do anything with them? Yes. 
+That includes the confirmation page that pops up that was a little bit messy before. That includes you being able to send somebody $50 of PPY instead of having to calculate the PPY.
 
-We're thinking the wallet probably had trouble selling. It has been blacklisted. Marketplace, will there be items in there for purchase prior to any launch? Yes. 
+[Speaker 2]
+I think I need to share from you for this one. Can we go back in the chats?
 
-We actually received our first item today, which will be really cool. That's the owners who are on Shark Tank. So I got to get that photo shoot scheduled for that. 
+[Speaker 1]
+Just joined late and just caught the end of that. But can the wallet that received the scammed PPY be blacklisted? Can get them back if they can't do anything with them?
 
-And yeah, that'll be the first item. Of course, the Patriot Pay coffee will be coming. My Bully Bully Bulls should be done for that. 
+Yes. We're thinking the wallet probably had trouble selling. It has been blacklisted.
 
-Bags should be in soon. Just waiting on the coffee. And then the dog treats, same deal with that.
+Marketplace, will there be items in there for purchase prior to any launch? Yes. We actually received our first item today, which will be really cool.
 
-(8:26 - 9:22)
-And then, yeah, we should have those. Those ones are to begin with. Any word on getting our logo updated on the Coinbase app? You know, we've contacted them several times and not heard back. 
+That's the owners who are on Shark Tank. So I got to get that photo shoot scheduled for that. And yeah, that'll be the first item.
 
-But I can definitely send a follow up. I don't know if they're just too busy or what. Let me actually search my mailbox in case. 
+Of course, the Patriot Pay coffee will be coming. My Bully Bully Bulls should be done for that. Bags should be in soon.
 
+Just waiting on the coffee. And then the dog treats, same deal with that. And then, yeah, we should have those.
+
+Those ones are to begin with. Any word on getting our logo updated on the Coinbase app? You know, we've contacted them several times and not heard back.
+
+But I can definitely send a follow up. I don't know if they're just too busy or what. Let me actually search my mailbox in case.
+
+[Speaker 2]
 Nope, never heard back from them. Another message though. Let's do it.
 
-(9:34 - 9:52)
-Do that while I'm here with you guys. Last time I wrote them looks like early May. Nothing.
+Do that while I'm here with you guys.
 
-(9:53 - 9:57)
-So we'll see. Just remind them again. But yeah, definitely.
+[Speaker 1]
+Last time I wrote them looks like early May. Nothing. So we'll see.
 
-(10:07 - 10:21)
-Donations. Will there be any further candidates prior to launch? Yes, there will be. Once the devs wrap up what they're working on, that'll be the first thing to do.
+Just remind them again. But yeah, definitely. Donations.
 
-(10:22 - 10:45)
+Will there be any further candidates prior to launch? Yes, there will be. Once the devs wrap up what they're working on, that'll be the first thing to do.
+
 It'll actually, it's a nice feature. It'll enable admin to go in there and add candidates and add marketplace items. That way, devs don't need to do that and they can focus on all the other work.
 
-(11:07 - 12:24)
-Do you know if Bannon is speaking tomorrow or Sunday yet? I have a schedule actually, but I wouldn't even count on that because to be honest, every time I've been to an event, even before PPY, schedules get changed around all the time. But I could see if I have that schedule because it's been a while. I don't remember off the top of my head though. 
+Do you know if Bannon is speaking tomorrow or Sunday yet? I have a schedule actually, but I wouldn't even count on that because to be honest, every time I've been to an event, even before PPY, schedules get changed around all the time. But I could see if I have that schedule because it's been a while.
 
-I'm sorry. If he's not working for PPY, I'd imagine not considering. I'm not quite ready. 
+I don't remember off the top of my head though. I'm sorry. If he's not working for PPY, I'd imagine not considering.
 
-I did have a ton of meetings this week, mostly for advertising. I had some that weren't for advertising. What were those? Escapes me now, but yeah, mostly marketing, advertising.
+I'm not quite ready. I did have a ton of meetings this week, mostly for advertising. I had some that weren't for advertising.
 
-(12:28 - 14:35)
-Will marketing in June extend beyond social media? Example X. I thought I knew what you meant, but after the example X, I'm not sure what you mean, sir. Marketing in June extend beyond social media. And then we list the social media platform. 
+What were those?
 
-I'm not sure what you're asking, but we will market on different social media outlets. We'll also start with different mailing lists. And then as we ramp up the volume from there, we'll do a podcast. 
+[Speaker 2]
+Escapes me now, but yeah, mostly marketing, advertising.
 
-Start with that. That should have excellent turnout, but we definitely will begin with the soft social media, which includes us, you guys, and then the mailing lists. It should also get a really good turnout.
+[Speaker 1]
+Will marketing in June extend beyond social media? Example X. I thought I knew what you meant, but after the example X, I'm not sure what you mean, sir.
 
-(14:38 - 15:25)
-Depending on the volume we're getting, we don't want to go too slow. If everything's working, we're having no issues whatsoever. That's great. 
+Marketing in June extend beyond social media. And then we list the social media platform. I'm not sure what you're asking, but we will market on different social media outlets.
 
-We definitely want to keep going, but also if we send out a mailing list and, I don't know, say we check and, I don't know, we got five new users today, then we're going to want to ramp that up and move on to several mailing lists or larger mailing lists to see how that goes. Kind of just move quickly from there as long as we can. As long as the app is cooperating and we don't need, we don't have a ton to fix.
+We'll also start with different mailing lists. And then as we ramp up the volume from there, we'll do a podcast. Start with that.
 
-(15:27 - 15:43)
-Definitely don't want to push our luck with that. I think the devs have done an excellent job. We're also still working with other parties to make sure we have backups and backups and backups.
+That should have excellent turnout, but we definitely will begin with the soft social media, which includes us, you guys, and then the mailing lists. It should also get a really good turnout. Depending on the volume we're getting, we don't want to go too slow.
 
-(15:44 - 16:09)
-That way we're not depending on one party. If something, you know, something like wire or the other. I think that'll also help us too and make sure just to be prepared as prepared as we can be.
+If everything's working, we're having no issues whatsoever. That's great. We definitely want to keep going, but also if we send out a mailing list and, I don't know, say we check and, I don't know, we got five new users today, then we're going to want to ramp that up and move on to several mailing lists or larger mailing lists to see how that goes.
 
-(16:10 - 16:54)
-And again, stuff will come up that's part of the game and I think we'll, we have the team, I think, or I'm confident we have the team to really deal with whatever. I think we've thought of every scenario possible and yeah, we'll work with whatever comes up and stuff will come up. Put some billboards up in where? I don't know why I want to say Ozark when I see that.
+Kind of just move quickly from there as long as we can. As long as the app is cooperating and we don't need, we don't have a ton to fix. Definitely don't want to push our luck with that.
 
-(16:57 - 17:29)
-Social media advertising on Facebook, Insta, correct? Yes, it'll depend on if we want to do like specific influencers. But again, start off, yeah, start off with our own social media, start off with you guys. That'll be like the really soft and then mailing lists and then influencers and then the podcast.
+I think the devs have done an excellent job. We're also still working with other parties to make sure we have backups and backups and backups. That way we're not depending on one party.
 
-(17:29 - 18:22)
-Matthew, thank you. Yeah, I'm kind of bummed I'm going to Detroit, but there'll be next time. It's just such a busy time right now that I think my time will be better spent here on trying to get everything ready for our website, trying to get the photo shoot done for the product we got in today and then yeah, just prep some other stuff.
+If something, you know, something like wire or the other. I think that'll also help us too and make sure just to be prepared as prepared as we can be. And again, stuff will come up that's part of the game and I think we'll, we have the team, I think, or I'm confident we have the team to really deal with whatever.
 
-(19:03 - 20:27)
-Feel free to keep sending me any other businesses that want to be listed on the app so we can kind of see if there's room and you know, if it aligns with what we're doing and if we don't already have somebody doing that or if we're not already doing that. Will there be influencers, partners, marketing in June? I'm not sure. I think we'll know as that gets closer.
+I think we've thought of every scenario possible and yeah, we'll work with whatever comes up and stuff will come up. Put some billboards up in where? I don't know why I want to say Ozark when I see that.
 
-(20:29 - 21:29)
-At this rate, we're definitely, as of today, we'll definitely be soft marketing by the end of June. I think realistically the app is the only thing we have you guys to do is to stress test it and we're waiting on the dev to finish. Kind of reorganizing, optimizing the code and then we'll just get on and have you all just try to log in at the same time, try to log out at the same time, try to perform a transaction all at the same time. 
+Social media advertising on Facebook, Insta, correct? Yes, it'll depend on if we want to do like specific influencers. But again, start off, yeah, start off with our own social media, start off with you guys.
+
+That'll be like the really soft and then mailing lists and then influencers and then the podcast.
+
+[Speaker 2]
+Matthew, thank you.
+
+[Speaker 1]
+Yeah, I'm kind of bummed I'm going to Detroit, but there'll be next time. It's just such a busy time right now that I think my time will be better spent here on trying to get everything ready for our website, trying to get the photo shoot done for the product we got in today and then yeah, just prep some other stuff. Feel free to keep sending me any other businesses that want to be listed on the app so we can kind of see if there's room and you know, if it aligns with what we're doing and if we don't already have somebody doing that or if we're not already doing that.
+
+Will there be influencers, partners, marketing in June? I'm not sure. I think we'll know as that gets closer.
+
+At this rate, we're definitely, as of today, we'll definitely be soft marketing by the end of June. I think realistically the app is the only thing we have you guys to do is to stress test it and we're waiting on the dev to finish. Kind of reorganizing, optimizing the code and then we'll just get on and have you all just try to log in at the same time, try to log out at the same time, try to perform a transaction all at the same time.
 
 Hopefully we can have as many of you as possible do that at one time just to make sure that the dev checks the logs and everybody checks their phone and everything goes like it's supposed to. I won't go from there. The dev should be nearing the end of that.
 
-(21:30 - 24:03)
-We've added like a few other functions that he's going out of the way but with the timeline he gave us, I think that would be completed early to mid next week. And then the other dev who is working on the marketplace function, just super cool, was estimating yesterday completion but that's taking a little bit longer than expected. So yeah, I'll keep you guys updated. 
+We've added like a few other functions that he's going out of the way but with the timeline he gave us, I think that would be completed early to mid next week. And then the other dev who is working on the marketplace function, just super cool, was estimating yesterday completion but that's taking a little bit longer than expected. So yeah, I'll keep you guys updated.
 
-I missed first 15 minutes. What did I miss? Don't connect your wallet to any other sites, like any. Please, if you want a wallet to mess with other chats or other websites or anything else, just make a throwaway wallet. 
+I missed first 15 minutes. What did I miss? Don't connect your wallet to any other sites, like any.
 
-Don't connect the wallet that your coins are in. It sucks. Super heartbreaking when any of you get scammed but just please keep that in mind. 
+Please, if you want a wallet to mess with other chats or other websites or anything else, just make a throwaway wallet. Don't connect the wallet that your coins are in. It sucks.
 
-Tell everybody you know who has a wallet. Unfortunately there's only so much we can do to prevent that and again I understand that happens on an off day. I understand that's generally that you all know better but just you know. 
+Super heartbreaking when any of you get scammed but just please keep that in mind. Tell everybody you know who has a wallet. Unfortunately there's only so much we can do to prevent that and again I understand that happens on an off day.
 
-Other than that, this week we've had other partner meetings, we've had advertising meetings, and we got our first product in the mail today of the Shark Tank owners. So that's exciting. We'll have that photo shoot for that probably this weekend. 
+I understand that's generally that you all know better but just you know. Other than that, this week we've had other partner meetings, we've had advertising meetings, and we got our first product in the mail today of the Shark Tank owners. So that's exciting.
 
-Schedule that today. I need to order some more stuff for Marketplace. I need to off-ramp.
+We'll have that photo shoot for that probably this weekend. Schedule that today. I need to order some more stuff for Marketplace.
 
-(24:03 - 24:25)
-I'll have some funds to pay stuff. I need to get ready for a Monday meeting. That should be a pretty big meeting also.
+I need to off-ramp. I'll have some funds to pay stuff. I need to get ready for a Monday meeting.
 
-(25:08 - 25:29)
-Two meetings early next week. Okay. Do you think we will get a war room spot before the November general elections? I think that'll, I think there's several factors involved there.
+That should be a pretty big meeting also. Two meetings early next week. Okay.
 
-(25:31 - 27:30)
-But if the app continues to work as smoothly and we don't have any major hiccups, I would think that's pretty doable. I do think though with other marketing efforts that I think that'll, that won't be as big of a deal as, I don't know, as it's been made out to be. Like I just feel like by the time we are ready for war room volume, we would have had enough volume that I don't think I would be waiting for it. 
+Do you think we will get a war room spot before the November general elections? I think that'll, I think there's several factors involved there. But if the app continues to work as smoothly and we don't have any major hiccups, I would think that's pretty doable.
 
-But that's just my opinion. Just because we need it that perfect to get on war room. Oh, this is so loud. 
+I do think though with other marketing efforts that I think that'll, that won't be as big of a deal as, I don't know, as it's been made out to be. Like I just feel like by the time we are ready for war room volume, we would have had enough volume that I don't think I would be waiting for it. But that's just my opinion.
 
-I feel like it's like a little better. Oh, T-City. Is that Texas City? I don't know. 
+Just because we need it that perfect to get on war room. Oh, this is so loud. I feel like it's like a little better.
 
-What are you referring to? Aussie, Australia. I thought about billboards actually. I wonder how those would do.
+[Speaker 2]
+Oh, T-City. Is that Texas City? I don't know.
 
-(27:38 - 29:56)
-To find a really good spot. Oh, I'm that person in voice chat who just popped out. You scared them away. 
+What are you referring to?
 
-What? Oh, there we go. Somebody posted an itinerary. Has to be somebody here that's at the event. 
+[Speaker 1]
+Aussie, Australia. I thought about billboards actually. I wonder how those would do.
 
-I assume. How frequent will PPY ads be? Example, daily, weekly. That's just going to depend on like what I was saying earlier. 
+[Speaker 2]
+To find a really good spot.
 
-It's going to depend on the volume you get. And we'll kind of gauge it from there on whether we need to slow down or speed it up. Just because we don't want to go too slow. 
+[Speaker 1]
+Oh, I'm that person in voice chat who just popped out. You scared them away. What?
 
-Trying to definitely ramp it up before the elections, which gives us what? July, August, September, October, five, four months. So don't want to go too slow. Don't want to go too quickly. 
+[Speaker 2]
+Oh, there we go. Somebody posted an itinerary.
 
-I think we'll find that balance. I think we won't have trouble finding that balance. I think we'll find that pretty quickly with everybody that we've spoken to. 
+[Speaker 1]
+Has to be somebody here that's at the event. I assume. How frequent will PPY ads be?
+
+Example, daily, weekly. That's just going to depend on like what I was saying earlier. It's going to depend on the volume you get.
+
+And we'll kind of gauge it from there on whether we need to slow down or speed it up. Just because we don't want to go too slow. Trying to definitely ramp it up before the elections, which gives us what?
+
+July, August, September, October, five, four months. So don't want to go too slow. Don't want to go too quickly.
+
+I think we'll find that balance. I think we won't have trouble finding that balance. I think we'll find that pretty quickly with everybody that we've spoken to.
 
 And these people specialize. That's what they do all day, every day. And there's several different people we're working with.
 
-(29:58 - 30:58)
-I think that gives us a little bit of better coverage too. Yeah. No, that's actually, that's what else? I was trying to name everything that's on my docket for the weekend. 
+I think that gives us a little bit of better coverage too. Yeah.
 
-It'll be getting with the designer to get that email, basically a launch email that we'll use to go out to the mailing lists. I'm definitely not a designer. But I'll still have on here.
+[Speaker 2]
+No, that's actually, that's what else?
 
-(31:00 - 31:19)
+[Speaker 1]
+I was trying to name everything that's on my docket for the weekend. It'll be getting with the designer to get that email, basically a launch email that we'll use to go out to the mailing lists. I'm definitely not a designer.
+
+[Speaker 2]
+But I'll still have on here.
+
+[Speaker 1]
 I got to send out prizes. I got to organize, revisit the dead list and see if that needs any modifications. Yeah.
 
-(31:27 - 31:47)
-Okay. Anything else? I think that's everything. If you do know anybody that ever bought PPY or has the app, please have them add themselves to the mailing list.
+[Speaker 2]
+Okay. Anything else?
 
-(31:48 - 32:52)
-That way that's the quickest way to get updates from now on the major updates. Yeah. Again, please don't connect your wallets to any weird chats or sites or apps. 
+[Speaker 1]
+I think that's everything. If you do know anybody that ever bought PPY or has the app, please have them add themselves to the mailing list. That way that's the quickest way to get updates from now on the major updates.
 
-Again, if you want to do that, maybe just even make a dedicated app that's for whatever else, even if you want to trade or get into other like altcoins or whatever it is you want to do. But that way your PPY is just, you know, in a different app that you don't connect or in a different wallet, excuse me, that you don't connect to anything else. And it just sits there unless you need to do anything PPY related. 
+Yeah. Again, please don't connect your wallets to any weird chats or sites or apps. Again, if you want to do that, maybe just even make a dedicated app that's for whatever else, even if you want to trade or get into other like altcoins or whatever it is you want to do.
 
-Maybe that's kind of the safest way to just handle that. That way, even if you are having an off day and you go against your better judgment, then, you know, there's just like not a way you're just, you have a different wallet to do whatever with. And that wallet can be, you know, wallet that you don't keep much in there whatsoever.
+But that way your PPY is just, you know, in a different app that you don't connect or in a different wallet, excuse me, that you don't connect to anything else. And it just sits there unless you need to do anything PPY related. Maybe that's kind of the safest way to just handle that.
 
-(32:55 - 33:14)
-Just because again, that just makes us all very, very sad. But yeah, I think that's everything I got. Um, you gotta get, I have to get a desk chair, but I love this chair so much.
+That way, even if you are having an off day and you go against your better judgment, then, you know, there's just like not a way you're just, you have a different wallet to do whatever with. And that wallet can be, you know, wallet that you don't keep much in there whatsoever. Just because again, that just makes us all very, very sad.
 
-(33:14 - 33:34)
-I love like everything, but I don't know why this keeps like creaking. Makes me wonder how this chair would do with a larger person. Gee, um, I guess I can look for the same exact chair, but basically I need a chair recommendation.
+But yeah, I think that's everything I got. Um, you gotta get, I have to get a desk chair, but I love this chair so much. I love like everything, but I don't know why this keeps like creaking.
 
-(33:39 - 38:35)
-Um, yeah, let me know if you need anything else. In the meantime, I will be here. I do have to go through DMs. 
+Makes me wonder how this chair would do with a larger person. Gee, um, I guess I can look for the same exact chair, but basically I need a chair recommendation. Um, yeah, let me know if you need anything else.
 
-I think I've gone to the super urgent ones, but otherwise I might need to go through my box. Again, all emails have been answered. Let me know if you need anything else. 
+In the meantime, I will be here. I do have to go through DMs. I think I've gone to the super urgent ones, but otherwise I might need to go through my box. Again, all emails have been answered.
 
-In the meantime, if you know anybody, um, or if you yourself offer a product or a service, or if there's a business that you just love, um, please feel free to pass that info over. Again, we do want to make sure that the businesses align with our values and just feel like it would actually, you know, be a good fit, um, and definitely be quality products. We're not looking for the cheapest. 
+Let me know if you need anything else. In the meantime, if you know anybody, um, or if you yourself offer a product or a service, or if there's a business that you just love, um, please feel free to pass that info over. Again, we do want to make sure that the businesses align with our values and just feel like it would actually, you know, be a good fit, um, and definitely be quality products.
 
-Um, also not necessarily looking for the most expensive, somewhere kind of in the middle, um, that makes sense. And it's a decent quality product again, or service. Um, I know service is a little bit different because that's a little bit more localized, but you know, there's, I think in the first like few months of FJB, there's like three or four people that live within like a two mile radius of me. 
+We're not looking for the cheapest. Um, also not necessarily looking for the most expensive, somewhere kind of in the middle, um, that makes sense. And it's a decent quality product again, or service.
 
-I know I live in like a super conservative town, but still that's, that's pretty wild. Um, so even that, I think we're adding, I believe a photographer, videographer in North Carolina, and then possibly in talks with somebody who is more of like a, I want to say like a therapist. I'm not sure if that's the technical term. 
+Um, I know service is a little bit different because that's a little bit more localized, but you know, there's, I think in the first like few months of FJB, there's like three or four people that live within like a two mile radius of me. I know I live in like a super conservative town, but still that's, that's pretty wild. Um, so even that, I think we're adding, I believe a photographer, videographer in North Carolina, and then possibly in talks with somebody who is more of like a, I want to say like a therapist.
 
-So don't quote me on that. Um, cause they do a lot. Um, but that's in talks. 
+I'm not sure if that's the technical term. So don't quote me on that. Um, cause they do a lot.
 
-Um, so yeah, definitely let me know, especially, I was actually thinking the other day, like of some services that don't need you to be localized. So if, for example, if you're like a web developer, um, then a lot of people in the community might want a website, whether like it's a hobby or whether they have a business or whether they're starting a small business, um, that would probably be a really good one. Um, any graphic designers, any videographers, um, you know, there's a lot of, uh, developers. 
+Um, but that's in talks. Um, so yeah, definitely let me know, especially, I was actually thinking the other day, like of some services that don't need you to be localized. So if, for example, if you're like a web developer, um, then a lot of people in the community might want a website, whether like it's a hobby or whether they have a business or whether they're starting a small business, um, that would probably be a really good one.
 
-Uh, there's a lot of services you can offer that you don't need to be there in person. So that would also be a great idea if you want to, again, you don't even need to accept a PPY, right? Um, so keep that in mind and you can, by the way, you can, um, accept PPY. So if you're a, if you want to be a merchant and you don't want that USDT, we can, we can set that up too. 
+Um, any graphic designers, any videographers, um, you know, there's a lot of, uh, developers. Uh, there's a lot of services you can offer that you don't need to be there in person. So that would also be a great idea if you want to, again, you don't even need to accept a PPY, right?
 
-So that's not a big issue. Um, but yeah, keep that in mind if you do offer a service or if you have a wife that, I don't know, sells her dehydrated sourdough starter on Instagram. Um, keep that in mind because I really think, uh, that would be awesome. 
+Um, so keep that in mind and you can, by the way, you can, um, accept PPY. So if you're a, if you want to be a merchant and you don't want that USDT, we can, we can set that up too. So that's not a big issue.
 
-And the deal we have going on really gives the merchant nothing to lose. Um, so, uh, I think that's all I have. I'm going to get back to work. 
+Um, but yeah, keep that in mind if you do offer a service or if you have a wife that, I don't know, sells her dehydrated sourdough starter on Instagram. Um, keep that in mind because I really think, uh, that would be awesome. And the deal we have going on really gives the merchant nothing to lose.
 
-I'm sitting here like in my blanket. Um, let me know if you need anything else in the meantime. Again, please, please, please tell everybody, you know, who has PPY, who has any crypto, um, to just, just store. 
+Um, so, uh, I think that's all I have. I'm going to get back to work. I'm sitting here like in my blanket.
 
-I think that's probably the easiest way to do it is honestly, just store your PPY in a wallet that you don't touch unless you're transacting with PPY. That's probably a good way to do it. That way they don't catch you on a bad day. 
+Um, let me know if you need anything else in the meantime. Again, please, please, please tell everybody, you know, who has PPY, who has any crypto, um, to just, just store. I think that's probably the easiest way to do it is honestly, just store your PPY in a wallet that you don't touch unless you're transacting with PPY.
 
-They don't catch you on a day you're not feeling well, um, and do something against your better judgment, um, just because we really hate. And that's happened a few times lately in the last few weeks. So it makes me super, super sad. 
+That's probably a good way to do it. That way they don't catch you on a bad day. They don't catch you on a day you're not feeling well, um, and do something against your better judgment, um, just because we really hate.
 
-Um, I love when it like goes months without it happening to anybody. So, um, okay. I think that's everything though. 
+And that's happened a few times lately in the last few weeks. So it makes me super, super sad. Um, I love when it like goes months without it happening to anybody.
 
-I will get off and I will, um, get these files converted and get them uploaded. I'll also post the details of the contest. We will get those, uh, prizes out tonight. 
+So, um, okay. I think that's everything though. I will get off and I will, um, get these files converted and get them uploaded.
 
-Also, if there's anything else, uh, I need to send to that'll all be taken care of tonight. Um, actually I'll probably do it right now before I get carried away and all the other work. Uh, but yeah, tag me if you need anything else or DM me or text or call, you know, the deal. 
+I'll also post the details of the contest. We will get those, uh, prizes out tonight. Also, if there's anything else, uh, I need to send to that'll all be taken care of tonight.
 
-Thank you all so much. Have a good weekend and be safe.
+Um, actually I'll probably do it right now before I get carried away and all the other work. Uh, but yeah, tag me if you need anything else or DM me or text or call, you know, the deal. Thank you all so much.
+
+Have a good weekend and be safe.

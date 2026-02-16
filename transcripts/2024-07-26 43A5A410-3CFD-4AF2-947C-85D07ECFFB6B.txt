@@ -1,305 +1,301 @@
-(0:03 - 0:30)
+[Speaker 1]
 Hope everybody had a great week. We've had a pretty productive week again here. All right, yeah, we've had a pretty productive week here.
 
-(0:31 - 0:56)
 So, devs are still working on some app changes, including the change now, changes for limits. Some of you are trying to purchase over the change now limit and you don't get an error, you just get a transaction failed in the app. They are still working on that with change now.
 
-(0:56 - 1:24)
 Still waiting on the bug from onRamper to be fixed. And that's when sometimes when you go to buymatic, it has you manually enter your wallet address, which is kind of a pain because by that point, you've already gone through a few steps. And if you go back, then you have to go back through all the steps if you go back unless you have your wallet address saved somewhere, which most people don't.
 
-(1:25 - 1:53)
 So, that's only happening with a few onRampers through onRamper, but we are still, the latest update I did get today was today from onRamper and they are still working on that. So, I'll definitely keep you updated on that. That is, seems like a tiny little detail, but it's actually a big deal, especially for first time or beginner crypto users.
 
-(1:54 - 2:39)
 Other than that, you may or may have not seen, we have been making some contract changes or additions, modifications. That'll continue as we make a few more edits just to perfect the addition, the escrow addition to the contract. And that's for the classified sections, not for the business section, to give you all some more, a lot more security and peace of mind when purchasing on there on the app and also to discourage anybody with bad intentions.
 
-(2:40 - 2:58)
 So, that'll be great. Again, we already made some changes, but we're adding a little bit more details just to kind of perfect that and add a little bit more privacy and security to the buyers and sellers on there. It's pretty, pretty, pretty neat.
 
-(3:03 - 3:17)
 I think that's all the app stuff. The bug where some of you are still not able to add items to the marketplace. Our dev is looking into that.
 
-(3:19 - 3:41)
 If anybody else is experiencing that issue, specifically from a desktop, because that would just help us better. Yeah, definitely contact me, please, so we can get that. Yeah, I'll get that all fixed for you all.
 
-(3:41 - 3:52)
 We will continue the contest, since I know a few of you had that issue. We'll continue that once that's fixed. So, I do see some items listed in the marketplace, though, pretty cool.
 
-(3:54 - 4:25)
 As far as the marketplace items from our end, the coffee and treats, fortunately, we are looking at a few more days. I got an update from the coffee company, distributor, roaster, actually, just a few hours ago, and I'll get a more detailed update. One day, I will keep you updated on that.
 
-(4:30 - 4:38)
+[Speaker 2]
 Let's see. Everything, there we go. Let's see.
 
-(4:40 - 6:02)
-I don't think I have anything in emails. Emails, I think we've taken care of all of you who have had open tickets. A few of you, or your friends, maybe, just waiting on replies to our chat system.
+I don't think I have anything in emails. Emails, I think we've taken care of all of you who have had open tickets.
 
-(6:04 - 6:26)
-Up to date on my end, though, it seems. Oh, there is a rally here on Wednesday, evening, evening. Patriot Pay will be there.
+[Speaker 1]
+A few of you, or your friends, maybe, just waiting on replies to our chat system.
 
-(6:28 - 7:44)
-And we'll get gift cards, probably some stickers passed out there, too. That's Wednesday at 6 p.m. Any plans to start introducing new or more influencers? Yes, we've actually gotten a ton of foot traffic from our current influencers, especially our larger influencer. We will have him get going again once we fix a few details in the app, but should be this coming week.
+[Speaker 2]
+Up to date on my end, though, it seems.
 
-(7:46 - 8:35)
-Just to find that sweet spot between a lot of people are just not, they're following us, they're signing up for the app. Like I said, our users have now more than tripled since before we started the influencer marketing. And we've had, we've actually had several buys, but I think there's still, with the emails and chat questions I'm getting, there's still a disconnect of people just don't get the idea of crypto, don't quite grasp the basics.
+[Speaker 1]
+Oh, there is a rally here on Wednesday, evening, evening. Patriot Pay will be there.
 
-(8:35 - 9:00)
-It's almost like what we're having our influencers push out is too detailed, that it needs to be even more basic before we go on with the details. Hopefully that makes sense. Might not, because a lot of you have been around for a while now.
+[Speaker 2]
+And we'll get gift cards, probably some stickers passed out there, too. That's Wednesday at 6 p.m. Any plans to start introducing new or more influencers?
 
-(9:01 - 9:45)
-Also hoping that our education videos kind of help with that and also actually having us add even more basic education videos because even though, I guess we thought they were pretty darn basic, I think we need to have more videos on the actual initial idea of crypto. Definitely seems that that's where a little bit of the hangup is. We kind of get that with some of the comments you've probably seen on the influencer videos.
+[Speaker 1]
+Yes, we've actually gotten a ton of foot traffic from our current influencers, especially our larger influencer. We will have him get going again once we fix a few details in the app, but should be this coming week. Just to find that sweet spot between a lot of people are just not, they're following us, they're signing up for the app.
 
-(9:46 - 11:37)
-I think the right is a little bit behind the left, definitely as far as that goes, but that's where the pros and cons of being one of the first ones in the space. How's the traffic for marketing been? Any new app buys? Yes, so yeah, our numbers have, I actually haven't checked them all week, but last time I checked, our numbers have doubled since we started the influencers and let's see, and just from the support tickets I've received of new buyers, I know there's been several. Oh, seems to have been today, probably with Lydia's post, quite a few signups today, all for his glory.
+Like I said, our users have now more than tripled since before we started the influencer marketing. And we've had, we've actually had several buys, but I think there's still, with the emails and chat questions I'm getting, there's still a disconnect of people just don't get the idea of crypto, don't quite grasp the basics. It's almost like what we're having our influencers push out is too detailed, that it needs to be even more basic before we go on with the details.
 
-(11:38 - 12:09)
-Almost 1,500 video views on XG, nice job little crypto lady. How are the education videos coming along? Good. Although thinking we need to go to have more videos focusing on just the point of crypto, seems to be a little disconnect there.
+Hopefully that makes sense. Might not, because a lot of you have been around for a while now. Also hoping that our education videos kind of help with that and also actually having us add even more basic education videos because even though, I guess we thought they were pretty darn basic, I think we need to have more videos on the actual initial idea of crypto.
 
-(12:11 - 14:16)
-Did you say we're gonna be at a rally? Yes, Vans rally in Glendale this coming Wednesday. Okay, 6 p.m., oh, sorry if I missed this. Any details on workflow for escrow? How will confirmation and dispute resolution work handled by you? Yeah, so we're, ultimately we'd love to use a third party escrow service, but with the way we have everything built right now, there are some updates we'd want, like the escrow services that we've looked into, there's some updates that we would like from them before we integrate one of them into the app, and those changes should be coming, and these companies, again, if everybody's growing and changing so much right now, these companies plan on adding the features that we need, so once they do that, we'd like to use a third party escrow service and integrate that into the app, but for the time being, yeah, it'll be entering transaction, or excuse me, goodness, entering your confirmation, your delivery confirmations, tracking numbers, we'll be adding some privacy there to keep that all private, so that only admin, buyer and seller can see that.
+Definitely seems that that's where a little bit of the hangup is. We kind of get that with some of the comments you've probably seen on the influencer videos. I think the right is a little bit behind the left, definitely as far as that goes, but that's where the pros and cons of being one of the first ones in the space.
 
-(14:24 - 15:49)
-We hope there won't be many disputes, but yeah, when we can, what's nice about the Upgradeable Contract is we can change that as we need to, yes, yes, that is super exciting. Glad it's a little bit later in the day, it's not gonna be much cooler, but hopefully it's not super humid, it's been super humid here, like insanely humid. Will there be a way to filter our search items when there are thousands of items? Yes, absolutely, there's a lot of features, I know, I'm not sure now if it was you or somebody else who also suggested email notifications, there's definitely a ton of features that we plan on adding into both the Marketplace and the Classifieds, but we'll do that as we continue to grow.
+How's the traffic for marketing been? Any new app buys? Yes, so yeah, our numbers have, I actually haven't checked them all week, but last time I checked, our numbers have doubled since we started the influencers and let's see, and just from the support tickets I've received of new buyers, I know there's been several.
 
-(15:51 - 16:42)
-Yeah, because that's a great, great idea. Definitely don't want you scrolling forever. Popolito, I saw a confirmation number on the contract, glad to hear it will be obstructed for non-participants, yes, absolutely, there's a few other things we'll be adding, what the dev is working on, so we'll be adding like a add product document function, add proof of delivery, add dispute evidence, yeah, they'll access it through IPFS hash.
+Oh, seems to have been today, probably with Lydia's post, quite a few signups today, all for his glory. Almost 1,500 video views on XG, nice job little crypto lady. How are the education videos coming along?
 
-(16:47 - 17:31)
-Dev's working on that, but it'll be some sort of encryption, that way the tracking number, some sort of encryption before it goes into the contract. Anything specifically planned to increase volume apart from influencers, yes. It'll definitely be in this coming month that we have other forms of advertisements on some major networks.
+Good. Although thinking we need to go to have more videos focusing on just the point of crypto, seems to be a little disconnect there. Did you say we're gonna be at a rally?
 
-(17:32 - 18:53)
-Influencers are definitely helping us, though, as far as honing in on exactly where like a little bit of a disconnect is with our target audience. Can you tell us more about what's planned, pretty please? It'll be some conservative networks, I'll say that. Some will be mailing lists, like email lists of pretty prominent communities, and some will be on perks, as we'll say for now.
+Yes, Vans rally in Glendale this coming Wednesday.
 
-(18:58 - 19:32)
-In the meantime, though, I definitely want that wallet address bug fixed. I think I just received a chat inquiry about that either today or yesterday, and that's a major one. And then definitely the marketplace issue that some of you all are dealing with, radio or TV networks, both.
+[Speaker 2]
+Okay, 6 p.m., oh, sorry if I missed this.
 
-(19:36 - 20:59)
-Majorly TV slash talk show, a few radio podcast ones. Give us a rundown of August 2nd. Okay, so our escrow function was scheduled to be completed mid-next week.
+[Speaker 1]
+Any details on workflow for escrow? How will confirmation and dispute resolution work handled by you? Yeah, so we're, ultimately we'd love to use a third party escrow service, but with the way we have everything built right now, there are some updates we'd want, like the escrow services that we've looked into, there's some updates that we would like from them before we integrate one of them into the app, and those changes should be coming, and these companies, again, if everybody's growing and changing so much right now, these companies plan on adding the features that we need, so once they do that, we'd like to use a third party escrow service and integrate that into the app, but for the time being, yeah, it'll be entering transaction, or excuse me, goodness, entering your confirmation, your delivery confirmations, tracking numbers, we'll be adding some privacy there to keep that all private, so that only admin, buyer and seller can see that.
 
-(21:00 - 21:28)
-However, with a few extra functions, we've added security functions. I think that might definitely push it into later next week, or if I'm being honest, a week after that. This is not because the dev has not updated the timeline, but I can probably tell you that just with the details and functions we've added yesterday and today that he's working on.
+We hope there won't be many disputes, but yeah, when we can, what's nice about the Upgradeable Contract is we can change that as we need to, yes, yes, that is super exciting. Glad it's a little bit later in the day, it's not gonna be much cooler, but hopefully it's not super humid, it's been super humid here, like insanely humid. Will there be a way to filter our search items when there are thousands of items?
 
-(21:32 - 22:12)
-What else? Coffee, I'll get an update on Monday. For that, I know something they're waiting on, or a component of that. Please, honestly, if you text it to me.
+Yes, absolutely, there's a lot of features, I know, I'm not sure now if it was you or somebody else who also suggested email notifications, there's definitely a ton of features that we plan on adding into both the Marketplace and the Classifieds, but we'll do that as we continue to grow. Yeah, because that's a great, great idea. Definitely don't want you scrolling forever.
 
-(22:18 - 22:36)
-I wanna say it was August 5th, but it's a call. Anyway, I'll update you on that. I know one of the components was August 5th, I believe.
+Popolito, I saw a confirmation number on the contract, glad to hear it will be obstructed for non-participants, yes, absolutely, there's a few other things we'll be adding, what the dev is working on, so we'll be adding like a add product document function, add proof of delivery, add dispute evidence, yeah, they'll access it through IPFS hash. Dev's working on that, but it'll be some sort of encryption, that way the tracking number, some sort of encryption before it goes into the contract. Anything specifically planned to increase volume apart from influencers, yes.
 
-(22:42 - 23:10)
-So that takes us, what, not this coming Monday, it's Monday after that. What else? A little, some new window stickers will be added to Marketplace. Dog treats will also be added, I think, for the second week of August.
+It'll definitely be in this coming month that we have other forms of advertisements on some major networks. Influencers are definitely helping us, though, as far as honing in on exactly where like a little bit of a disconnect is with our target audience. Can you tell us more about what's planned, pretty please?
 
-(23:13 - 23:29)
+It'll be some conservative networks, I'll say that. Some will be mailing lists, like email lists of pretty prominent communities, and some will be on perks, as we'll say for now. In the meantime, though, I definitely want that wallet address bug fixed.
+
+I think I just received a chat inquiry about that either today or yesterday, and that's a major one. And then definitely the marketplace issue that some of you all are dealing with, radio or TV networks, both. Majorly TV slash talk show, a few radio podcast ones.
+
+[Speaker 2]
+Give us a rundown of August 2nd.
+
+[Speaker 1]
+Okay, so our escrow function was scheduled to be completed mid-next week. However, with a few extra functions, we've added security functions. I think that might definitely push it into later next week, or if I'm being honest, a week after that.
+
+This is not because the dev has not updated the timeline, but I can probably tell you that just with the details and functions we've added yesterday and today that he's working on. What else? Coffee, I'll get an update on Monday.
+
+For that, I know something they're waiting on, or a component of that.
+
+[Speaker 3]
+Please, honestly, if you text it to me.
+
+[Speaker 2]
+I wanna say it was August 5th, but it's a call.
+
+[Speaker 1]
+Anyway, I'll update you on that. I know one of the components was August 5th, I believe. So that takes us, what, not this coming Monday, it's Monday after that.
+
+What else? A little, some new window stickers will be added to Marketplace. Dog treats will also be added, I think, for the second week of August.
+
 Gift cards from the rally. Hopefully we get a little bit of that volume, especially now that we've changed gift cards a bit. Hopefully we'll definitely get some traffic from that.
 
-(23:35 - 23:50)
 Definitely continue with the influencers. We really need the on-ramper bug fixed. Oh, big one, the direct on-ramp.
 
-(23:51 - 24:09)
 I should have an update relatively very soon. Definitely sooner than six months. I think that's something we'll be looking forward to in quarter three, solid quarter three.
 
-(24:12 - 24:54)
-I think that'll be a major, major addition. Let's see. Is the target audience non-crypto users? MP, where have you been? What? Is that a real question? Is that a real question, MP? When are you thinking of the refund testing phase? I know, I need to do that.
+I think that'll be a major, major addition.
 
-(24:55 - 25:18)
-Actually, I need to ask Stacey to help me out with the, because I am behind two on prizes for you all, and I'm sorry that's taken a backseat to everything else. Thankfully, it's all on the blockchain, so that's there forever. MP says yes.
+[Speaker 2]
+Let's see.
 
-(25:19 - 25:45)
-That's a real question. Is the target audience non-crypto users? Yes. Yes, our app was basically built on that to make crypto super, super easy and accessible for users who generally would not go into crypto because it's just too complicated.
+[Speaker 1]
+Is the target audience non-crypto users? MP, where have you been? What?
 
-(25:47 - 26:24)
+Is that a real question?
+
+[Speaker 2]
+Is that a real question, MP?
+
+[Speaker 1]
+When are you thinking of the refund testing phase? I know, I need to do that. Actually, I need to ask Stacey to help me out with the, because I am behind two on prizes for you all, and I'm sorry that's taken a backseat to everything else.
+
+Thankfully, it's all on the blockchain, so that's there forever. MP says yes. That's a real question.
+
+Is the target audience non-crypto users? Yes. Yes, our app was basically built on that to make crypto super, super easy and accessible for users who generally would not go into crypto because it's just too complicated.
+
 As you all probably, as most of you probably have seen, especially if it was your first time buying crypto, how complicated and detail-oriented everything had to be, having gas, moving money from your bank account to Coinbase, to Trust Wallet. Now you can get some things on Trust Wallet, but then you have to go to QuickSwap and PancakeSwap, and so yes. Our target audience is first-time crypto users, definitely.
 
-(26:29 - 27:14)
 This is also, once we add Wallet Connect into the app, and then add the other third-party integration where you can just access all your accounts, including Binance and Coinbase and everything, you'll be able to access it all from the app without having to leave and deal with all the security issues. That's kind of an addition for not first-time crypto users, but just to make it all easier and have everything all in one place. Hopefully that makes sense.
 
-(27:14 - 27:52)
-But yes, that will remain our target audience, people who generally probably would not go into crypto. How's the coffee pre-order working now? So, some people are having issues with it. We will, we gotta do some testing actually this weekend to see if some changes that the dev has made will solve those issues for some of you.
+But yes, that will remain our target audience, people who generally probably would not go into crypto. How's the coffee pre-order working now? So, some people are having issues with it.
 
-(27:54 - 28:32)
-That makes sense. Are there plans to advertise to crypto users? I mean, we're not, you know, when we're advertising, we're advertising to conservatives, MAGA, Republicans, independents even. So, some of those people could be crypto users, probably not many.
+We will, we gotta do some testing actually this weekend to see if some changes that the dev has made will solve those issues for some of you.
 
-(28:33 - 29:02)
-Will we be advertising, for example, on like crypto websites? No, not right now, not in the near future. Anyway, any volume we've gotten from sites like that is not really the volume we want. Not much more I wanna say about that, but hopefully you get what I'm saying there.
+[Speaker 2]
+That makes sense. Are there plans to advertise to crypto users?
 
-(29:06 - 30:00)
-The integration you just mentioned about being able to access the wallets, when is that scheduled to be implemented? I believe that after the, I don't have the roadmap in front of me, or like the way we updated everything, kind of moved things around. But I believe that's after the like gamification part of the app, which is having users get certain points for certain tasks in the app and have certain levels, which is in, I believe last we moved it was quarter three. It's a pretty cool integration, but pretty basic actually from like a dev perspective.
+[Speaker 1]
+I mean, we're not, you know, when we're advertising, we're advertising to conservatives, MAGA, Republicans, independents even. So, some of those people could be crypto users, probably not many. Will we be advertising, for example, on like crypto websites?
 
-(30:03 - 31:57)
-But it's really cool to be able to access everything from just one app, and a little bit more secure too, that way you're not putting it in your browser, clicking on links, clicking like, I remember we had a user download the wrong QuickSwap app, and it just happened to be that that week there was a scammer fake QuickSwap app. So to kind of prevent that from happening, but also make it so we can access everything in one app. For any way we can accelerate the dev's integrations, faster development with adding another dev, et cetera.
+No, not right now, not in the near future. Anyway, any volume we've gotten from sites like that is not really the volume we want. Not much more I wanna say about that, but hopefully you get what I'm saying there.
 
-(31:58 - 32:44)
-Yeah, we have several devs on board now. Our biggest hurdle there is, well, getting several devs to work together and trust all those devs, and to find devs that have everything we need. That's actually probably been the most challenging part in finding devs that are qualified.
+The integration you just mentioned about being able to access the wallets, when is that scheduled to be implemented? I believe that after the, I don't have the roadmap in front of me, or like the way we updated everything, kind of moved things around. But I believe that's after the like gamification part of the app, which is having users get certain points for certain tasks in the app and have certain levels, which is in, I believe last we moved it was quarter three.
 
-(32:48 - 33:29)
-But then having the dev query, it's not one of those where you just, somebody could do this part, and somebody could do this part, and just because of all their code, you don't want somebody else messing up somebody else's code. But I think we've got a solid, solid team. Out most everything, and we've finally found some trustworthy devs.
+It's a pretty cool integration, but pretty basic actually from like a dev perspective. But it's really cool to be able to access everything from just one app, and a little bit more secure too, that way you're not putting it in your browser, clicking on links, clicking like, I remember we had a user download the wrong QuickSwap app, and it just happened to be that that week there was a scammer fake QuickSwap app. So to kind of prevent that from happening, but also make it so we can access everything in one app.
 
-(33:31 - 34:03)
-Hardworking and trustworthy devs. As we continue to grow, something that's also helped us is to have devs on deck is to bring in other devs that are, whether it's colleagues or friends of the current devs we have. That seems to work pretty well.
+For any way we can accelerate the dev's integrations, faster development with adding another dev, et cetera. Yeah, we have several devs on board now. Our biggest hurdle there is, well, getting several devs to work together and trust all those devs, and to find devs that have everything we need.
 
-(34:04 - 34:21)
-Since the dev, you know, if they're friends, or coworkers, or colleagues, since they've worked together. But yeah. Saw a lot of moving, lots of moving parts.
+That's actually probably been the most challenging part in finding devs that are qualified. But then having the dev query, it's not one of those where you just, somebody could do this part, and somebody could do this part, and just because of all their code, you don't want somebody else messing up somebody else's code. But I think we've got a solid, solid team.
 
-(34:25 - 34:42)
-Do you know offhand what the date timeline was for the testing? I don't know that offhand, I'm sorry. Okay, I write down almost everything. That's also because I'm doing like a million things a day.
+Out most everything, and we've finally found some trustworthy devs. Hardworking and trustworthy devs. As we continue to grow, something that's also helped us is to have devs on deck is to bring in other devs that are, whether it's colleagues or friends of the current devs we have.
 
-(34:45 - 35:19)
-Whenever I served and then bartended, I would always, even once I started like managing, I would always, if I was taking an order down, always write it down. Literally if it was like a water, and sometimes when I'm making a big order and the server doesn't write it down, I'm just wondering, oh, my order's gonna be wrong. That happened actually really recently.
+That seems to work pretty well. Since the dev, you know, if they're friends, or coworkers, or colleagues, since they've worked together. But yeah.
 
-(35:19 - 35:25)
-When was it? It was last time I went out. And I was like, oh, she's not writing it down. And sure enough, like there was something.
+Saw a lot of moving, lots of moving parts. Do you know offhand what the date timeline was for the testing? I don't know that offhand, I'm sorry.
 
-(35:27 - 35:41)
+Okay, I write down almost everything. That's also because I'm doing like a million things a day. Whenever I served and then bartended, I would always, even once I started like managing, I would always, if I was taking an order down, always write it down.
+
+Literally if it was like a water, and sometimes when I'm making a big order and the server doesn't write it down, I'm just wondering, oh, my order's gonna be wrong. That happened actually really recently. When was it?
+
+It was last time I went out. And I was like, oh, she's not writing it down. And sure enough, like there was something.
+
 Oh, I know what it was. It was a wings I was ordering at like my weekly place. And she was new, so I knew she wasn't gonna remember my, like everybody else just asks like, oh, is this, you want the usual, da, da, da, da, yep.
 
-(35:42 - 35:49)
-And it was her first time and she didn't write it down. And then she, what was it? Did she bring, oh, it was the sauce on the wings. And I always get the sauce inside.
+And it was her first time and she didn't write it down. And then she, what was it? Did she bring, oh, it was the sauce on the wings.
 
-(35:50 - 36:08)
-And I felt so bad, but I'm like, eh. I served at a, trust is essential, yeah. Probably here.
+And I always get the sauce inside. And I felt so bad, but I'm like, eh.
 
-(36:10 - 36:15)
-I served at a fancy sushi restaurant and I had to write down everything. Some would remember it without writing it. Not me, nope.
+[Speaker 3]
+I served at a, trust is essential, yeah.
 
-(36:16 - 36:55)
-Even the ones that would remember everything, it's like, there's just so many room, so much room for error that I just, nope, no thank you. Everything I have, finished all my meetings this week. I think I have one meeting Monday, two meetings Monday, actually, next week.
+[Speaker 1]
+Probably here. I served at a fancy sushi restaurant and I had to write down everything. Some would remember it without writing it.
 
-(36:56 - 37:07)
-But other than that, pretty light so far. Yeah. Should be adding, like I said, a few stickers to the marketplace.
+Not me, nope. Even the ones that would remember everything, it's like, there's just so many room, so much room for error that I just, nope, no thank you. Everything I have, finished all my meetings this week.
 
-(37:08 - 37:14)
-Coffee as soon as we get that. The dog. Oh, I should drop that.
+I think I have one meeting Monday, two meetings Monday, actually, next week. But other than that, pretty light so far. Yeah.
 
-(37:14 - 37:24)
-I can drop the coffee. Let me see. Drop the coffee label for you all.
+Should be adding, like I said, a few stickers to the marketplace. Coffee as soon as we get that. The dog.
 
-(37:25 - 37:59)
-Coffee bag. This is the proof for roughly this. We've made, made a few changes since this.
+Oh, I should drop that. I can drop the coffee. Let me see.
 
-(38:06 - 38:13)
-This is what you can expect from the coffee one. And then, I'll get you guys the dog. The dog one has another logo.
+Drop the coffee label for you all. Coffee bag. This is the proof for roughly this.
 
-(38:17 - 38:40)
-Shoot. Coffee. Oh shoot, I forgot about this one.
+We've made, made a few changes since this. This is what you can expect from the coffee one. And then, I'll get you guys the dog.
 
-(38:40 - 38:55)
-How's the traffic been for marketing? Oh, I think it answered that in the telegram. We'll drop this here too. Oh, and again, made a little bit of changes to that, including the text.
+The dog one has another logo.
 
-(38:56 - 39:27)
-Some corrections there, but you know. MP, I made sure to put the make mornings great again there just for you, because I know you are so mega. Are people starting to buy in the app yet? Yeah, there's been a few buys in there, actually.
+[Speaker 3]
+Shoot.
 
-(39:35 - 40:00)
+[Speaker 2]
+Coffee. Oh shoot, I forgot about this one. How's the traffic been for marketing?
+
+Oh, I think it answered that in the telegram. We'll drop this here too.
+
+[Speaker 1]
+Oh, and again, made a little bit of changes to that, including the text.
+
+[Speaker 2]
+Some corrections there, but you know.
+
+[Speaker 1]
+MP, I made sure to put the make mornings great again there just for you, because I know you are so mega. Are people starting to buy in the app yet? Yeah, there's been a few buys in there, actually.
+
 So, I know you're out of the states, MP, but I will personally, personally mail you one as a gift from me to you to have as a souvenir forever. Maybe I'll have, maybe I can get Trump to sign it. For sure, Steve or Boris, but maybe even Trump, if we get lucky.
 
-(40:08 - 40:27)
-Can we take a peek at the dog one? Yes. Show this one. See if I need to drop it after chat.
+Can we take a peek at the dog one? Yes. Show this one.
 
-(40:27 - 40:47)
-I know I have it in here somewhere. Gotta spread between. But I'll get you guys the logo that we have with the dog bone.
+See if I need to drop it after chat. I know I have it in here somewhere.
 
-(40:47 - 41:15)
-Still not perfected, but. So, I did see all the chat about, sorry, I was in meetings all day today, so I didn't have time to catch up on a lot of the conversation that went in the chats about the 8%. Definitely want to address that.
+[Speaker 3]
+Gotta spread between. But I'll get you guys the logo that we have with the dog bone. Still not perfected, but.
 
-(41:17 - 42:12)
-Right, so we've said repeatedly and that stands that we do plan on lowering tax as volume picks up, right? Not only to encourage, of course, buying and selling, but I think with a certain volume, we really don't need, at least right now, we don't feel that we will need 8%, even with the charity percentage and the community percentage out. But also remember how far we've come, where now we have a percentage going to the LP, then we have the community percentage, the charity and charity that we rolled back to one, which again, with volume, that'll still be plenty, and then the operations. So I know I saw some talk from Mayhem saying like, well, you should use the LLC coins to run the business.
+[Speaker 1]
+So, I did see all the chat about, sorry, I was in meetings all day today, so I didn't have time to catch up on a lot of the conversation that went in the chats about the 8%. Definitely want to address that. Right, so we've said repeatedly and that stands that we do plan on lowering tax as volume picks up, right?
 
-(42:13 - 42:56)
+Not only to encourage, of course, buying and selling, but I think with a certain volume, we really don't need, at least right now, we don't feel that we will need 8%, even with the charity percentage and the community percentage out. But also remember how far we've come, where now we have a percentage going to the LP, then we have the community percentage, the charity and charity that we rolled back to one, which again, with volume, that'll still be plenty, and then the operations. So I know I saw some talk from Mayhem saying like, well, you should use the LLC coins to run the business.
+
 I think there's a lot of details there that we're not going to share and don't plan to share, just like many businesses don't share the details the way their finances and payments work. I don't imagine that any of you would like to work for free and there are a lot of costs that we have. Right now, it's mainly, I'd say most of our costs are development costs and marketing, like even just the marketing we've done so far is very expensive.
 
-(42:56 - 43:59)
-And we understand that'll be parabolic where you just gotta keep marketing and as soon as that ball gets rolling, we have no doubt that'll, again, we've done it before with a scamming crew, right? So we have no doubt that'll get the ball rolling and the nice part is with Steve is that that marketing doesn't cost us money and that's the most successful kind of marketing that at least from everything we've tried. But right now, we're just, I mean, paying out thousands and thousands of dollars in straight cash to just get something to stick, right? And again, going back to like marketing, most of these people need to see something, what, an average of seven times before even looking into it. But yeah, everything costs a lot.
+And we understand that'll be parabolic where you just gotta keep marketing and as soon as that ball gets rolling, we have no doubt that'll, again, we've done it before with a scamming crew, right? So we have no doubt that'll get the ball rolling and the nice part is with Steve is that that marketing doesn't cost us money and that's the most successful kind of marketing that at least from everything we've tried. But right now, we're just, I mean, paying out thousands and thousands of dollars in straight cash to just get something to stick, right?
 
-(43:59 - 44:26)
-If we were, if our goal was just to be greedy and that's the reason we have taxes at 8%, then we would actually lower taxes so that we encourage traders so that we would have more taxes coming in. That would benefit us the most if we were just trying to make the most tax dollars. But again, we will continue.
+And again, going back to like marketing, most of these people need to see something, what, an average of seven times before even looking into it. But yeah, everything costs a lot. If we were, if our goal was just to be greedy and that's the reason we have taxes at 8%, then we would actually lower taxes so that we encourage traders so that we would have more taxes coming in.
 
-(44:26 - 44:36)
-This is something that's been constant from the beginning. Our goal is to build a foundation. Our goal is to build something long-lasting and long-term.
+That would benefit us the most if we were just trying to make the most tax dollars. But again, we will continue. This is something that's been constant from the beginning.
 
-(44:37 - 45:16)
-And we totally understand that that means that's gonna, that's gonna really kick out a bunch of old holders and we are okay with that as much as we love you all, as much as we love the community that built this, that stayed with us for so long. We are okay if it's at the cost of us doing everything right, doing everything the correct way. And building a foundation that we believe is going to be something long-lasting and long-term.
+Our goal is to build a foundation. Our goal is to build something long-lasting and long-term. And we totally understand that that means that's gonna, that's gonna really kick out a bunch of old holders and we are okay with that as much as we love you all, as much as we love the community that built this, that stayed with us for so long.
 
-(45:17 - 45:42)
-We've stayed true to that and I think the results show. I think the facts show. Going, I was going through screenshots recently this week for some stuff and it's, you know, I think I've personally proven myself and I think we as a team have more than proven ourself.
+We are okay if it's at the cost of us doing everything right, doing everything the correct way. And building a foundation that we believe is going to be something long-lasting and long-term. We've stayed true to that and I think the results show.
 
-(45:42 - 46:07)
-Keep in mind that our devs along with our advisor have couple, several actually decades of experience specifically in this field. So that's something to keep in mind. That is a team we've worked hard as hell to find and to build and it was not easy.
+I think the facts show. Going, I was going through screenshots recently this week for some stuff and it's, you know, I think I've personally proven myself and I think we as a team have more than proven ourself. Keep in mind that our devs along with our advisor have couple, several actually decades of experience specifically in this field.
 
-(46:08 - 46:30)
-Some days are still not easy but that is something we will continue doing even when it is harder than just taking the easy way out. Even when it's, even when it was awful and you guys didn't know, you know, most of you didn't know the fork was going on. I was getting hate mail all day, every day.
+So that's something to keep in mind. That is a team we've worked hard as hell to find and to build and it was not easy. Some days are still not easy but that is something we will continue doing even when it is harder than just taking the easy way out.
 
-(46:30 - 46:56)
-Again, we will continue to do what's right even if it's the hard way. So I do want to keep you all to keep that in mind. And again, we will continue that and we are very sorry if that means that some holders are going to leave but we've not changed, we've not changed that.
+Even when it's, even when it was awful and you guys didn't know, you know, most of you didn't know the fork was going on. I was getting hate mail all day, every day. Again, we will continue to do what's right even if it's the hard way.
 
-(46:56 - 47:46)
-We told you guys that from the beginning at least of when I started making those decisions and I think we've stayed true to that and our work will continue to show that. I think there's a lot of things that could have gone wrong that and that sometimes I understand that. Sometimes may be taken for granted and I understand sometimes you guys, when you have no idea what's going on in the background, you don't realize all the sacrifices being made there just like you and, you know, and I totally understand with that being said that all the sacrifices that you've all made, I get, especially when money's involved, I totally get the emotional part of that and I don't underestimate that.
+So I do want to keep you all to keep that in mind. And again, we will continue that and we are very sorry if that means that some holders are going to leave but we've not changed, we've not changed that. We told you guys that from the beginning at least of when I started making those decisions and I think we've stayed true to that and our work will continue to show that.
 
-(47:49 - 48:31)
-But yeah, I think we'll, again, we've stayed true to our word and we will continue doing what's right even if that means it takes longer, even if that means it's harder, even if, you know, whatever the case may be, that will still be our goal to have to just get volume and traders and advertise to crypto users. Again, that would be the best way for us just to get tax dollars if that's what we're after but that's not so. That's all I have to say on that.
+I think there's a lot of things that could have gone wrong that and that sometimes I understand that. Sometimes may be taken for granted and I understand sometimes you guys, when you have no idea what's going on in the background, you don't realize all the sacrifices being made there just like you and, you know, and I totally understand with that being said that all the sacrifices that you've all made, I get, especially when money's involved, I totally get the emotional part of that and I don't underestimate that. But yeah, I think we'll, again, we've stayed true to our word and we will continue doing what's right even if that means it takes longer, even if that means it's harder, even if, you know, whatever the case may be, that will still be our goal to have to just get volume and traders and advertise to crypto users.
 
-(48:34 - 49:08)
-Does the team consider the holders as top heavy? I don't think so. I think we have a few definitely whales but I think they'll continue to sell and we're fine with that as you all probably have seen. I'm chewed, apparently.
+Again, that would be the best way for us just to get tax dollars if that's what we're after but that's not so. That's all I have to say on that. Does the team consider the holders as top heavy?
 
-(49:09 - 49:32)
-Chewed my free glasses. Whatever, what's the piece that goes behind your ear? We are winners and we win big. Yeah, I think time will continue to show.
+I don't think so. I think we have a few definitely whales but I think they'll continue to sell and we're fine with that as you all probably have seen. I'm chewed, apparently.
 
-(49:38 - 49:58)
+Chewed my free glasses. Whatever, what's the piece that goes behind your ear?
+
+[Speaker 2]
+We are winners and we win big.
+
+[Speaker 3]
+Yeah, I think time will continue to show.
+
+[Speaker 1]
 When does the 500K PPU icon, oh, so we're extending that just because there's a few users that are getting error messages when they try to post. We just want the dev to fix that, obviously, for those users so keep on posting. I had to make another edit.
 
-(49:58 - 50:12)
-Oh, okay. Not something. Notifications so that I don't have to.
+Oh, okay. Not something.
 
-(50:20 - 51:08)
-Let's see. Should be all good. Ooh, who posted a vintage violin? And please include discord or team.
+[Speaker 3]
+Notifications so that I don't have to. Let's see. Should be all good.
 
-(51:33 - 51:53)
-Have you received many classified submissions? I see four up right now. I've received several. I've approved all of them minus one I just wrote because the poster forgot to include their discord and telegram handle until we get the escrow service.
+Ooh, who posted a vintage violin? And please include discord or team.
 
-(51:53 - 52:16)
-We just wanna have that on there just for a little bit until the devs have the escrow. I'm very excited about it, super. I'll never not be fascinated by the upgradable contract we have.
+[Speaker 1]
+Have you received many classified submissions? I see four up right now. I've received several.
 
-(52:19 - 53:10)
-It's definitely worth the wait. If you all need anything else, you know where to find me. I am watching my niece so I'm not a TV or movie person like whatsoever.
+I've approved all of them minus one I just wrote because the poster forgot to include their discord and telegram handle until we get the escrow service. We just wanna have that on there just for a little bit until the devs have the escrow.
 
-(53:11 - 53:22)
-Like sitting still is just not my thing. So pray for me as she chooses a movie tonight again for movie night. Boy.
+[Speaker 2]
+I'm very excited about it, super.
 
-(53:25 - 53:34)
+[Speaker 1]
+I'll never not be fascinated by the upgradable contract we have. It's definitely worth the wait. If you all need anything else, you know where to find me.
+
+I am watching my niece so I'm not a TV or movie person like whatsoever. Like sitting still is just not my thing. So pray for me as she chooses a movie tonight again for movie night.
+
+[Speaker 2]
+Boy.
+
+[Speaker 1]
 As always, please don't share any of your personal information. If you're ever in doubt, please ask in the general chat. Better to be safe than sorry.
 
-(53:37 - 53:56)
 And then please remember that never will I or the admins ask you for money or ask you to click on any links or DM you first. Just be very wary of that. I'm sure as volume picks back up, we'll get some more scammers in the chat.
 
-(53:56 - 54:06)
 So just be very careful of that. Generally, when you're being offered free anything, it's probably too good to be true. But again, if you're ever in doubt, please make sure you ask.
 
-(54:07 - 54:27)
 We're all here to help and we'd rather you do that than lose money. And then again, if you are doing anything with other coins or other chats, just make sure I would. So for me, I would just make a new wallet and work with that wallet and other chats.
 
-(54:27 - 54:42)
 I wouldn't use the one that I have any sizable funds in. Just in case you connect to something shady and lose your funds, you're not losing everything you have. Just make a wallet that you wanna mess around with.
 
-(54:44 - 55:00)
 I will keep you updated on the Wednesday rally. I will make the gift cards. So I'll see actually haven't planned that out, but it'll probably be this weekend.
 
-(55:03 - 55:12)
 I don't know, I wonder, I don't think we've done it this way before. So I wonder if you all will see it on the blockchain. You'll see while I'm making all the gift cards.
 
-(55:14 - 55:23)
 But yeah, it'll be nice making some little packages. Haven't done that for a bit. So I'll tell you all how that goes.
 
-(55:23 - 55:33)
 I'll make sure to take some photos. Hopefully it doesn't get canceled. We've had a few concerts and stuff canceled this week.
 
-(55:33 - 55:47)
 That's what happens when it rains in the desert where everything is outside. This is inside, but I know sometimes it just, Trump has like canceled a rally. So I'm not sure if Vance will do the same.
 
-(55:47 - 55:56)
 Hopefully not. If not, we'll just be at the next one. We do plan on being at a few more rallies depending on the location.
 
-(55:56 - 56:06)
 Definitely willing to travel for that. I will keep you all updated. We will get back to events now that I'm all done with my surgery, yay.
 
-(56:09 - 56:21)
 So again, let me know if you all need anything else or if you run into any issues. You all have a good night. I will pause the recording here.
 
-(56:21 - 56:26)
 Give me just a few minutes and I will get that posted. Thank you guys, have a good night.

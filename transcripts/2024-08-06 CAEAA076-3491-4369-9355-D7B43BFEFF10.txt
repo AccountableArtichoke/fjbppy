@@ -1,266 +1,237 @@
-(0:00 - 0:29)
+[Speaker 1]
 I'm going to scan something for Old Glory Bank. I love my printer, scanner, device, but I think I might need to actually copy. Let me put that down.
 
-(0:41 - 0:59)
 Everybody had a great weekend. Let's see. Sunday was pretty eventful, as most of you probably saw, starting with a whale's dump and then kind of continued from there, which is kind of nice.
 
-(0:59 - 1:13)
 We got rid of a few larger whales, and then you guys bought them right up, though. I think a lot of them. Obviously, crypto market's down.
 
-(1:13 - 1:35)
 Everybody else is too. It's actually looking pretty good as far as a long-term chart goes. Hopefully, none of you held that Trump coin that a few of you were talking up a few weeks ago.
 
-(1:38 - 1:57)
 But again, our goal is to build something long-lasting. So I think as things take longer than people expect, I think the holders are also evolving. Of course, a lot of you, like me, have been here since the beginning.
 
-(1:58 - 2:44)
-Actually, a lot of the non-regulars in the chat rooms, a lot of the quiet ones, have been here for quite a bit. But I think that'll continue a little bit to change just the type of holders we have versus the meme coin crowd, which, again, that's what we started as, right? As far as updates, devs are doing really well. Our BitQuery update, I don't know if you guys remember, that's more of how the app pulls price quotes in the chart.
+Actually, a lot of the non-regulars in the chat rooms, a lot of the quiet ones, have been here for quite a bit. But I think that'll continue a little bit to change just the type of holders we have versus the meme coin crowd, which, again, that's what we started as, right? As far as updates, devs are doing really well.
 
-(2:45 - 3:00)
-We're just changing that to a different service. And now the charts and the price on top should match up with everything. That's complete.
+Our BitQuery update, I don't know if you guys remember, that's more of how the app pulls price quotes in the chart. We're just changing that to a different service. And now the charts and the price on top should match up with everything.
 
-(3:00 - 3:29)
-You guys shouldn't really notice much of a difference on the front end, but I still am testing it on the dev app. So once that's all good, then we'll go ahead and push it to the production app. For you all to test and just make sure there's no bugs that result from it, even though you won't really see a difference otherwise.
+That's complete. You guys shouldn't really notice much of a difference on the front end, but I still am testing it on the dev app. So once that's all good, then we'll go ahead and push it to the production app.
 
-(3:32 - 3:44)
-As far as our onRamper bug, they did finally get back to us. Well, it's been a lot of back and forth, but they figured it out. They got back to us a few hours ago.
+For you all to test and just make sure there's no bugs that result from it, even though you won't really see a difference otherwise. As far as our onRamper bug, they did finally get back to us. Well, it's been a lot of back and forth, but they figured it out.
 
-(3:44 - 4:09)
-I've sent it over to the dev, and I will let you guys know as soon as I hear back from him. I think he's busy working on the gift cards that should be complete by Thursday. Just updating some gift cards, just to make gift cards a little bit easier for users, a little bit more user friendly.
+They got back to us a few hours ago. I've sent it over to the dev, and I will let you guys know as soon as I hear back from him. I think he's busy working on the gift cards that should be complete by Thursday.
 
-(4:09 - 4:39)
-And then we'll continue adding to those in the future, a few functions we have on the list there. Our other dev that just completed the bit query will start on something tonight. So I will update you on that as soon as I have a talk to Boris today.
+Just updating some gift cards, just to make gift cards a little bit easier for users, a little bit more user friendly. And then we'll continue adding to those in the future, a few functions we have on the list there. Our other dev that just completed the bit query will start on something tonight.
 
-(4:39 - 4:56)
-I'm trying to get something for you all, so I'll keep you updated on that. I got a marketing meeting tomorrow. I'll let you know how that goes.
+So I will update you on that as soon as I have a talk to Boris today. I'm trying to get something for you all, so I'll keep you updated on that. I got a marketing meeting tomorrow.
 
-(4:57 - 5:26)
-I think that's all. I just finished uploading this, I need to send this to the bank for our bank account. That's important, mostly because we're trying to get some payment processing, other than the Scribe that we have, or excuse me, Square that we have right now, for live in-person events.
+I'll let you know how that goes. I think that's all. I just finished uploading this, I need to send this to the bank for our bank account.
 
-(5:26 - 5:47)
-That way we can add some more things in our app and our marketplace for the gift cards to give you guys other easier options, hopefully. We'll be using GabPay, very excited for that. I think that's all the updates we have.
+That's important, mostly because we're trying to get some payment processing, other than the Scribe that we have, or excuse me, Square that we have right now, for live in-person events. That way we can add some more things in our app and our marketplace for the gift cards to give you guys other easier options, hopefully. We'll be using GabPay, very excited for that.
 
-(5:48 - 6:02)
-Oh, devs will also be working. If there's a loophole in the app on how somebody can make an error, you guys find it. Which is good, because we'd much rather have that happen now.
+I think that's all the updates we have. Oh, devs will also be working. If there's a loophole in the app on how somebody can make an error, you guys find it.
 
-(6:03 - 6:41)
-Just be careful though, when you are in your app and you're trying to make a transfer to your app, make sure that you pay attention to if you're in Smart Wallet or Expert Wallet. With Matic, you only have Matic in the Expert Wallet. If you go ahead and send Matic to your Smart Wallet Patriot Pay address, you're not going to see that Matic in your wallet.
+Which is good, because we'd much rather have that happen now. Just be careful though, when you are in your app and you're trying to make a transfer to your app, make sure that you pay attention to if you're in Smart Wallet or Expert Wallet. With Matic, you only have Matic in the Expert Wallet.
 
-(6:43 - 7:29)
-We are working on something, we were planning on something to take care of that's down the road, but now that it's, once we add more tokens and stuff like that, but since we already kind of have mistakes happening there from users, that'll be taken care of sooner than later, and I will update you on that. Just be careful though, just be careful right now if you are, again, transferring Matic into the app, make sure you're taking the address of the Matic wallet, don't just take the Patriot Pay wallet. They generally, usually, are the same address, but between Smart Wallet and Expert Wallet, that's not the case, since there's only one Matic address in your app, so I hope that makes sense.
+If you go ahead and send Matic to your Smart Wallet Patriot Pay address, you're not going to see that Matic in your wallet. We are working on something, we were planning on something to take care of that's down the road, but now that it's, once we add more tokens and stuff like that, but since we already kind of have mistakes happening there from users, that'll be taken care of sooner than later, and I will update you on that. Just be careful though, just be careful right now if you are, again, transferring Matic into the app, make sure you're taking the address of the Matic wallet, don't just take the Patriot Pay wallet.
 
-(7:34 - 8:09)
-Let's see... Last, I don't know, maybe... Holy, the people, happy, very good Tuesday to you. R.I.P. Robot, oh yeah, somebody said no one left a few days ago. Taking a break.
+They generally, usually, are the same address, but between Smart Wallet and Expert Wallet, that's not the case, since there's only one Matic address in your app, so I hope that makes sense.
 
-(8:12 - 8:31)
-There's Old Glory Bank, Goodwood Crypto. They, actually, from a user perspective, I'll get back to you on that. Make sure to ask our rep.
+[Speaker 2]
+Let's see... Last, I don't know, maybe...
 
-(8:40 - 9:00)
+[Speaker 1]
+Holy, the people, happy, very good Tuesday to you. R.I.P. Robot, oh yeah, somebody said no one left a few days ago. Taking a break.
+
+There's Old Glory Bank, Goodwood Crypto. They, actually, from a user perspective, I'll get back to you on that.
+
+[Speaker 2]
+Make sure to ask our rep.
+
+[Speaker 1]
 Yes, unfortunately, hopefully none of you, but it is a nice reminder for everybody who is talking up that coin a few weeks or so. I feel like it's been several weeks now. That pump and dump is the easiest, one of the easiest things to do, I think.
 
-(9:00 - 9:27)
-Again, on the voice chat, pump and repeat. That is not our... How will we be able to buy the gift cards and how much can we put on them? The amount, I don't have an answer for you yet. More, I don't have an answer of a maximum, is what I should say.
+Again, on the voice chat, pump and repeat. That is not our... How will we be able to buy the gift cards and how much can we put on them?
 
-(9:28 - 9:51)
-And how you buy them will have different options. Is there any update on the coffee and dog treats? The coffee, last week, I was told two weeks. After she said they had a death in the family.
+The amount, I don't have an answer for you yet. More, I don't have an answer of a maximum, is what I should say. And how you buy them will have different options.
 
-(9:55 - 10:16)
+Is there any update on the coffee and dog treats? The coffee, last week, I was told two weeks. After she said they had a death in the family.
+
 So, I'm assuming that would mean next week. She did tell me that late, I want to say mid to later in the week. The dog treats, still waiting on the packaging.
 
-(10:17 - 10:32)
-I'll let you know as soon as I receive that. Only giving coffee to friends that have the app. Any update on that? The shirts and hats should be close, I will let you know.
+I'll let you know as soon as I receive that. Only giving coffee to friends that have the app. Any update on that?
 
-(10:36 - 11:23)
-Is War Room still selling there? Didn't they start the shirts a little bit ago? I wonder if they're still selling those. Just made me think when I was thinking of what brand they were. How is the listing development coming along? Where we won't have to buy Matic to purchase? Yeah, for the direct listing.
+The shirts and hats should be close, I will let you know. Is War Room still selling there? Didn't they start the shirts a little bit ago?
 
-(11:28 - 11:44)
-We're waiting for them to tell us how they want the payment. On what chain? As of 3 a.m. this morning, 3 something. So, hoping to make that payment within the next 24 hours.
+I wonder if they're still selling those. Just made me think when I was thinking of what brand they were. How is the listing development coming along?
 
-(11:46 - 11:58)
+Where we won't have to buy Matic to purchase? Yeah, for the direct listing. We're waiting for them to tell us how they want the payment.
+
+On what chain? As of 3 a.m. this morning, 3 something. So, hoping to make that payment within the next 24 hours.
+
 Very excited about that. I think I did share that everything was signed. Agreed upon.
 
-(12:00 - 12:25)
-Should be good. Any further development with the marketplace and classifieds? I am waiting on the photos to be edited. Actually, I haven't checked.
+Should be good. Any further development with the marketplace and classifieds? I am waiting on the photos to be edited.
 
-(12:31 - 13:12)
-I think everybody was kind of busy with everything that was happening with the charts. I haven't listed anything. I'm just waiting to get the code.
+[Speaker 2]
+Actually, I haven't checked.
 
-(14:10 - 14:23)
-Decentralized, 425, Freedom 2020. We the People, Good News, Truth. How you doing? JB, Argumentum, and Ed.
+[Speaker 1]
+I think everybody was kind of busy with everything that was happening with the charts.
 
-(14:49 - 15:05)
-After payment is made, how long before you think you can go live with direct on-ramp? Nice try, Ed. Nice try. But after payment is made, we should be very comfortably in this quarter.
+[Speaker 2]
+I haven't listed anything. I'm just waiting to get the code. Decentralized, 425, Freedom 2020.
 
-(15:09 - 15:23)
-If everything goes as planned. Doing good, just multitasking. Come on, just go live.
+[Speaker 1]
+We the People, Good News, Truth. How you doing? JB, Argumentum, and Ed.
 
-(15:24 - 16:20)
-See, if I was still drinking margaritas during my voice chats, I may have. But I'm trying to work on my liver health. Do you have an agenda for the Boris meeting? What? Which Boris meeting? Not drinking, Ed? It was Sunday, actually.
+After payment is made, how long before you think you can go live with direct on-ramp? Nice try, Ed. Nice try.
 
-(16:21 - 16:28)
-I was like, I deserve dinner. And the place I love opened. They opened a new location.
+But after payment is made, we should be very comfortably in this quarter. If everything goes as planned. Doing good, just multitasking.
 
-(16:29 - 16:42)
-Well, it's been like maybe a year or two. Right next to my house, and I love it. I was talking to Boris today.
+Come on, just go live. See, if I was still drinking margaritas during my voice chats, I may have. But I'm trying to work on my liver health.
 
-(16:42 - 17:02)
-I have a marketing meeting. I am trying to get something planned for Boris for you guys. Marketing is planned.
+Do you have an agenda for the Boris meeting? What? Which Boris meeting?
 
-(17:03 - 17:17)
-So I can't say timing-wise. But marketing, as soon as our on-ramper bug is fixed. Then I just need to go through and test everything.
+Not drinking, Ed? It was Sunday, actually. I was like, I deserve dinner.
 
-(17:18 - 17:23)
-And make sure that all still works with that fix. Because we have a few updates now. We have the bit query.
+And the place I love opened. They opened a new location. Well, it's been like maybe a year or two.
 
-(17:23 - 17:30)
-We have the once that bug is fixed. And sometimes that's just the way it works. They fix one thing, something else goes wrong.
+Right next to my house, and I love it. I was talking to Boris today. I have a marketing meeting.
 
-(17:30 - 17:35)
-So I just have to make sure to go through. Test everything. Test a few on-rampers.
+I am trying to get something planned for Boris for you guys. Marketing is planned. So I can't say timing-wise.
 
-(17:36 - 17:46)
-Have you all test a few of them. Just to make sure everything is working smoothly. Then we have a few things planned as soon as that's done.
+But marketing, as soon as our on-ramper bug is fixed. Then I just need to go through and test everything. And make sure that all still works with that fix.
 
-(17:47 - 17:55)
-We still have the mailing lists. And that's not our mailing list. That's some other combined.
+Because we have a few updates now. We have the bit query. We have the once that bug is fixed.
 
-(17:55 - 18:11)
-It's like a few, several million people on that. Then we have the news network with the rallies. Trump rallies.
+And sometimes that's just the way it works. They fix one thing, something else goes wrong. So I just have to make sure to go through.
 
-(18:12 - 18:41)
-And then we have the podcasts. I guess is what I'll say. In addition to our social media.
+Test everything. Test a few on-rampers. Have you all test a few of them.
 
-(18:46 - 19:09)
-Yeah. Reasonably confident for that stuff in August. So I'm not sure.
+Just to make sure everything is working smoothly. Then we have a few things planned as soon as that's done. We still have the mailing lists.
 
-(19:09 - 19:25)
-I'm still waiting on the dev, to be honest, because that's definitely not my area. But what it is on the on-ramper. So what's happening is when you go to on-ramp from a specific on-ramper.
+And that's not our mailing list. That's some other combined. It's like a few, several million people on that.
 
-(19:26 - 19:39)
-It's sometimes not auto-populating your wallet address. And it makes you want to manually copy and paste it in there. Now, that's not happening to everyone.
+Then we have the news network with the rallies. Trump rallies. And then we have the podcasts.
 
-(19:39 - 19:54)
-It's not happening every time. So on-ramper finally figured out it was an actually timing issue. I know we've had a timing issue as far as when you guys were getting like the white screens and those spinning circles.
+I guess is what I'll say. In addition to our social media.
 
-(19:56 - 20:07)
-But other than that, that's all I can tell you that I know of that. So I'll definitely have more info on that if you guys want. As soon as I hear from the dev.
+[Speaker 2]
+Yeah.
 
-(20:14 - 20:27)
-Basically, it's a smart wallet related. But as soon as I do find out, I'll let you know. It is still very, very early August.
+[Speaker 1]
+Reasonably confident for that stuff in August. So I'm not sure. I'm still waiting on the dev, to be honest, because that's definitely not my area.
 
-(20:29 - 20:48)
-So I'm hoping it's not a huge bug. Dawn Jr. was talking about something big in crypto is coming. How do you think that might affect PBY? I'm not sure.
+But what it is on the on-ramper. So what's happening is when you go to on-ramp from a specific on-ramper. It's sometimes not auto-populating your wallet address.
 
-(20:48 - 20:54)
+And it makes you want to manually copy and paste it in there. Now, that's not happening to everyone. It's not happening every time.
+
+So on-ramper finally figured out it was an actually timing issue. I know we've had a timing issue as far as when you guys were getting like the white screens and those spinning circles. But other than that, that's all I can tell you that I know of that.
+
+So I'll definitely have more info on that if you guys want. As soon as I hear from the dev. Basically, it's a smart wallet related.
+
+But as soon as I do find out, I'll let you know. It is still very, very early August. So I'm hoping it's not a huge bug.
+
+Dawn Jr. was talking about something big in crypto is coming. How do you think that might affect PBY? I'm not sure.
+
 I saw that. I think somebody posted it. So I'm not sure exactly what he's talking about.
 
-(20:54 - 21:20)
 If that's just another token. But I think that what we've built is unique enough. I think just the education part alone will set us apart.
 
-(21:22 - 21:47)
-But yeah, I'm not sure what they're talking about. Is that a token? Is that a, I don't know. Any timeline on that? I also think, you know, I think I heard somebody say something before.
+But yeah, I'm not sure what they're talking about. Is that a token? Is that a, I don't know.
 
-(21:47 - 21:57)
-There was, like, another wallet. And somebody said, like, oh, we're toast now. And I think that's so not true.
+Any timeline on that? I also think, you know, I think I heard somebody say something before. There was, like, another wallet.
 
-(21:57 - 22:26)
-I think it's good. Anybody that's, anything that's going to basically be crypto focused, that's going to get the word out to conservatives or Republicans will be good. As long as it's not something like that Trump coin, where then people just hear the, you know, bad things about it.
+And somebody said, like, oh, we're toast now. And I think that's so not true. I think it's good.
 
-(22:27 - 23:10)
-But I think even if it is a token or if it's a wallet, I think we're so early that I think it's good to get that out there and get more people basically familiar with crypto. Because as you all see through some of the social media comments on some of the posts we had or some of the influencer posts we have, there's still so much just wrong info there. I hate the term misinformation, but I don't know.
+Anybody that's, anything that's going to basically be crypto focused, that's going to get the word out to conservatives or Republicans will be good. As long as it's not something like that Trump coin, where then people just hear the, you know, bad things about it. But I think even if it is a token or if it's a wallet, I think we're so early that I think it's good to get that out there and get more people basically familiar with crypto.
 
-(23:10 - 23:30)
-People saying, like, oh, well, the government can freeze that because it's digital, all while they're saying this on a cell phone. And most likely probably have a bank account they're logged into. But I definitely think our education system alone will set us apart.
+Because as you all see through some of the social media comments on some of the posts we had or some of the influencer posts we have, there's still so much just wrong info there. I hate the term misinformation, but I don't know. People saying, like, oh, well, the government can freeze that because it's digital, all while they're saying this on a cell phone.
 
-(23:30 - 23:59)
-And, of course, all the other marketplace, I think that's a big one. But, yeah, if more people out there can get conservatives familiar with and familiarize them with crypto, I think that would benefit us. Pros and cons of being so early.
+And most likely probably have a bank account they're logged into. But I definitely think our education system alone will set us apart. And, of course, all the other marketplace, I think that's a big one.
 
-(24:08 - 24:54)
-We've been doing a lot of brainstorming on the social media aspect to come to an agreement because you want to provide value, right? That's what people are going to share. That's what people are going to save. And I think we're pretty set at having that be the majority of our social media now, along, of course, with the viral news updates that come up and stuff like that.
+But, yeah, if more people out there can get conservatives familiar with and familiarize them with crypto, I think that would benefit us. Pros and cons of being so early. We've been doing a lot of brainstorming on the social media aspect to come to an agreement because you want to provide value, right?
 
-(24:54 - 25:14)
+That's what people are going to share. That's what people are going to save. And I think we're pretty set at having that be the majority of our social media now, along, of course, with the viral news updates that come up and stuff like that.
+
 The lighthearted posts every once in a while. But I think that's kind of what we've come to an agreement, pretty much, is to provide value in the educational videos, even on social media. I think that's definitely missing.
 
-(25:15 - 25:37)
 So I think we can definitely do that. Nobody else has an app like this. Yeah.
 
-(25:38 - 26:16)
 I think we're coming up on, like, 200K, probably, on what we've spent on this app. And lots of time and lots of devs that we've finally let our one dev we've had for a bit over a year now, our main dev, definitely grateful to have a solid team. That took a lot.
 
-(26:36 - 27:25)
-Even this nut job is getting on board. Boy. Oh, we still need to pick.
+[Speaker 3]
+Even this nut job is getting on board.
 
-(27:25 - 27:50)
-Let me see. Let's do it while we're here. So we had 1,378 contest entries.
+[Speaker 5]
+Boy.
 
-(27:51 - 28:07)
-OK, so let's put this into 1,378. Maximum. Get that right.
+[Speaker 1]
+Oh, we still need to pick. Let me see. Let's do it while we're here.
 
-(28:07 - 28:11)
+So we had 1,378 contest entries. OK, so let's put this into 1,378.
+
+[Speaker 2]
+Maximum. Get that right.
+
+[Speaker 1]
 I want to make sure. 1,378. OK.
 
-(28:12 - 28:17)
 Generate. 340. Let's see who that was.
 
-(28:17 - 28:29)
-This is the list from Stacy. OK. 345 to 3. OK, so it's definitely not a change.
+This is the list from Stacy. OK. 345 to 3.
 
-(28:29 - 28:32)
-Now what? Oh, no. That's not it. That's 345.
+OK, so it's definitely not a change. Now what? Oh, no.
 
-(28:32 - 28:38)
-That's OK. 3... Where is it? OK, the one before. 307 to 344.
+That's not it. That's 345. That's OK.
 
-(28:38 - 28:43)
-OK, so that's not a change. Now 38 entries. Gee.
+3... Where is it? OK, the one before.
 
-(29:05 - 30:01)
+307 to 344. OK, so that's not a change. Now 38 entries.
+
+Gee.
+
+[Speaker 2]
 Post this here so I don't lose the contest. Put it in here. I think I'm still a few contests behind, too, actually.
 
-(30:42 - 31:21)
-So I sent this one. At least I'll stay caught up to not add any more. Trust Wallet was having issues today.
+So I sent this one. At least I'll stay caught up to not add any more.
 
-(31:21 - 32:42)
-I heard from several of you. It is sent to that winner. That's all I got.
+[Speaker 1]
+Trust Wallet was having issues today. I heard from several of you.
 
-(32:46 - 32:55)
-Definitely just be careful with your wallets. Connecting to different sites. All that.
+[Speaker 2]
+It is sent to that winner.
 
-(32:55 - 33:02)
-We've gone through that many, many, many times. Just be very careful. I know it usually happens when you're all having a bad day.
+[Speaker 1]
+That's all I got. Definitely just be careful with your wallets. Connecting to different sites.
 
-(33:03 - 33:12)
-Or not the best day. Or, you know, busy. And always remember that neither me or the admins will message you first or ask you for any money.
+All that. We've gone through that many, many, many times. Just be very careful.
 
-(33:12 - 33:17)
-Or just send anything. Or your seed phrase. You never want to share that.
+I know it usually happens when you're all having a bad day. Or not the best day. Or, you know, busy.
 
-(33:18 - 33:30)
-If you need anything else, again, you all know how to contact me. Yeah. I will update you if I have any updates before Friday.
+And always remember that neither me or the admins will message you first or ask you for any money. Or just send anything. Or your seed phrase.
 
-(33:35 - 33:57)
-I'll update you as soon as I get an update too from the dev regarding the timing issue for that bug. So I'm just going to continue testing. And then I'll let you know once some stuff is live on your end to test.
+You never want to share that. If you need anything else, again, you all know how to contact me. Yeah.
 
-(33:58 - 34:03)
-Yeah. That's all I got for now. We'll do another contest.
+I will update you if I have any updates before Friday. I'll update you as soon as I get an update too from the dev regarding the timing issue for that bug. So I'm just going to continue testing.
 
-(34:03 - 34:11)
-Let's do the same contest. Let's see what it is. Pretty freaking cheap.
+And then I'll let you know once some stuff is live on your end to test. Yeah. That's all I got for now.
 
-(34:11 - 34:26)
-Let's see. Holy smoke. That's crazy.
+We'll do another contest. Let's do the same contest. Let's see what it is.
 
-(34:31 - 34:36)
-So we'll do 300. Okay. So 300 is about 30 bucks.
+Pretty freaking cheap. Let's see.
 
-(34:39 - 34:44)
-Or let's do 250. That way you're doubling. So we'll do 250.
+[Speaker 4]
+Holy smoke.
 
-(34:44 - 35:00)
-Every 250k buy is 1 enchi to win 500. And then we'll do the same thing. Have it end on... Let's have it end by Friday voice chat.
+[Speaker 1]
+That's crazy. So we'll do 300. Okay.
 
-(35:03 - 35:14)
-Yeah. I'll let you know if any updates before Friday. Other than that, I will get this converted and uploaded right now.
+So 300 is about 30 bucks. Or let's do 250. That way you're doubling.
 
-(35:15 - 35:21)
-You all have a wonderful week. Let me know if you need anything in the meantime.
+So we'll do 250. Every 250k buy is 1 enchi to win 500. And then we'll do the same thing.
+
+Have it end on... Let's have it end by Friday voice chat. Yeah.
+
+I'll let you know if any updates before Friday. Other than that, I will get this converted and uploaded right now. You all have a wonderful week.
+
+Let me know if you need anything in the meantime.

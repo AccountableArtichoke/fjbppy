@@ -1,446 +1,368 @@
-(0:05 - 0:15)
+[Speaker 1]
 All right, recorder's going. It should be on both in Telegram and Discord. Let me double check.
 
-(0:17 - 0:26)
 Perfect, everybody can hear, awesome. Happy Friday. I am feeling better, although this freaking cough is still not going away.
 
-(0:28 - 0:54)
-But everything is great. We stayed up working super late last night, started early this morning, and wrapped up, I want to say, about, what, an hour, two hours ago? This is the part we were waiting on Velo for. We just had to go in and kind of, well, just start everything we needed from him from scratch.
+But everything is great. We stayed up working super late last night, started early this morning, and wrapped up, I want to say, about, what, an hour, two hours ago? This is the part we were waiting on Velo for.
 
-(0:54 - 1:11)
-That took us a day or two, but that's all wrapped up. We have sent it to the devs. Devs are now working on just integrating that into the app, and we expect them to be done within the 24 hours.
+We just had to go in and kind of, well, just start everything we needed from him from scratch. That took us a day or two, but that's all wrapped up. We have sent it to the devs.
 
-(1:12 - 1:25)
-Once that is complete, we can finally begin testing. Super cool, I'm very excited to do that. Timing is working out actually pretty well as far as that goes.
+Devs are now working on just integrating that into the app, and we expect them to be done within the 24 hours. Once that is complete, we can finally begin testing. Super cool, I'm very excited to do that.
 
-(1:27 - 1:59)
-And then once we're done testing, it's time for you all to test, and then we can airdrop finally. So that's everything, all the updates on my end while we're waiting for the devs to get the updated Smart Wallet integrated into the app. I will be working on some other administrative stuff, so that'll be actually pretty fun.
+Timing is working out actually pretty well as far as that goes. And then once we're done testing, it's time for you all to test, and then we can airdrop finally. So that's everything, all the updates on my end while we're waiting for the devs to get the updated Smart Wallet integrated into the app.
 
-(1:59 - 2:13)
-A few more things for launch. Yeah, everything should be good. Let me see, I know I'm still a little behind on DMs.
+I will be working on some other administrative stuff, so that'll be actually pretty fun. A few more things for launch. Yeah, everything should be good.
 
-(2:14 - 2:27)
-I think I got to your most urgent ones. But let me check. If I have any questions.
+Let me see, I know I'm still a little behind on DMs. I think I got to your most urgent ones. But let me check. If I have any questions.
 
-(2:33 - 2:57)
 Mm-hmm, I don't have any at the top of my inbox, so I'm gonna assume none of those are urgent, but I will get to those tonight. If you do have an urgent DM, please tag me so I can get back to you on that. Just checked emails, that should be good, nothing there.
 
-(2:59 - 3:09)
 Let's see. Everybody's messing with the holder's number. Excuse me.
 
-(3:12 - 3:29)
-All right, any other question? Music, that's weird. I don't know where you're hearing the music from, James. Does everybody else hear it? I have my sound off, so I can't hear.
+All right, any other question? Music, that's weird. I don't know where you're hearing the music from, James.
 
-(3:32 - 3:47)
-Anything. Oh boy. Those next steps sound like possible.
+Does everybody else hear it? I have my sound off, so I can't hear. Anything.
 
-(3:47 - 4:01)
-Go louder, half of next week. Really depends on how testing goes. We don't take days off around here, so we'll be working through the weekend if it's ready for us to text.
+[Speaker 2]
+Oh boy.
 
-(4:02 - 4:30)
-And I'm sure you all are ready to test through the weekend if given the opportunity to. So no way to really tell us, you know, to know how testing will go, especially since we have a new smart wallet agent and admin. So yeah, we're hoping that actually fixes a lot of issues, but it'll be good.
+[Speaker 1]
+Those next steps sound like possible. Go louder, half of next week. Really depends on how testing goes.
 
-(4:30 - 4:50)
-It's a fresh start all around. So that's great news. Will we be given notice of airdrop, or do we wake up and find the coins in the wallet? No, I'll give you, I'll give you guys a heads up.
+We don't take days off around here, so we'll be working through the weekend if it's ready for us to text. And I'm sure you all are ready to test through the weekend if given the opportunity to. So no way to really tell us, you know, to know how testing will go, especially since we have a new smart wallet agent and admin.
 
-(4:51 - 5:01)
-Give you guys a heads up. I'll try to give you a heads up with most everything I can and instructions for you all to do what you need to do. It'll be very simple.
+So yeah, we're hoping that actually fixes a lot of issues, but it'll be good. It's a fresh start all around. So that's great news.
 
-(5:01 - 5:09)
-We will walk you through everything. Please don't stress, don't freak out. Relax, take a seat, and just enjoy.
+Will we be given notice of airdrop, or do we wake up and find the coins in the wallet? No, I'll give you, I'll give you guys a heads up. Give you guys a heads up.
 
-(5:10 - 5:19)
-There's not much you can do wrong. Just please do not get scammed. Don't enter your seed phrase anywhere, anywhere, anywhere, anywhere.
+I'll try to give you a heads up with most everything I can and instructions for you all to do what you need to do. It'll be very simple. We will walk you through everything.
 
-(5:20 - 5:37)
-Unless you're getting a new device and you're, you know, re-downloading your trust wallet or you're re-signing in to the FJB app, and it's asking you on a new device and it's asking you for your seed phrase, please don't do that. Do not download. There's a QuickSwap app.
+Please don't stress, don't freak out. Relax, take a seat, and just enjoy. There's not much you can do wrong.
 
-(5:37 - 5:42)
-It is a scammer app. I'm not sure if it's still on the App Store. Have not checked.
+Just please do not get scammed. Don't enter your seed phrase anywhere, anywhere, anywhere, anywhere. Unless you're getting a new device and you're, you know, re-downloading your trust wallet or you're re-signing in to the FJB app, and it's asking you on a new device and it's asking you for your seed phrase, please don't do that.
 
-(5:43 - 5:59)
-But QuickSwap on their Telegram group has posted about it. Please just wait for instructions so that you don't get scammed out of your coins, all right? Ah. Ah.
+Do not download. There's a QuickSwap app. It is a scammer app.
 
-(6:00 - 6:03)
+I'm not sure if it's still on the App Store. Have not checked. But QuickSwap on their Telegram group has posted about it.
+
+Please just wait for instructions so that you don't get scammed out of your coins, all right? Ah. Ah.
+
 Ah. Ah. Ah.
 
-(6:04 - 6:12)
 Ah. Ah. Dogs snuck in after me really quickly so we didn't want to be locked out.
 
-(6:12 - 6:45)
-Of course, they start barking. All right, after trading is open for everyone, how long before White Paper and Roadmap to be released? Very, very, very, very soon. Is the parrot barking? No, but the parrots do bark.
+Of course, they start barking. All right, after trading is open for everyone, how long before White Paper and Roadmap to be released? Very, very, very, very soon.
 
-(6:45 - 7:03)
-And then they say, bad dog. One says bad bird, one says bad dog. They do the same if the dogs fight.
+Is the parrot barking? No, but the parrots do bark. And then they say, bad dog.
 
-(7:04 - 7:11)
-The dogs are fighting. The little, the preacher's daughter will, bad dog. Or she'll say, help, help.
+One says bad bird, one says bad dog. They do the same if the dogs fight. The dogs are fighting.
 
-(7:14 - 7:26)
-So imagine her little ladies do that. When see video? Very freaking soon. Once trading, once trading's live, I think that'll be.
+The little, the preacher's daughter will, bad dog. Or she'll say, help, help. So imagine her little ladies do that.
 
-(7:28 - 7:49)
-Or maybe once you guys start testing one of those. I'm most excited for the video. Will the FJB here and there on the app be changed to PPY? Sound like a flight attendant.
+When see video? Very freaking soon. Once trading, once trading's live, I think that'll be.
 
-(7:52 - 8:17)
-Yes, the FJB on the app will be changed to PPY. Page right there. How long will it be before we can see any media ads? I think we'll definitely start with the best ones and those will be War Room.
+Or maybe once you guys start testing one of those. I'm most excited for the video. Will the FJB here and there on the app be changed to PPY?
 
-(8:17 - 8:26)
-Mm-hmm. Most excited for those. All the socials on this page need to be reviewed and some need to be updated.
+Sound like a flight attendant. Yes, the FJB on the app will be changed to PPY. Page right there.
 
-(8:27 - 8:44)
-Awesome, thank you. Airdrop will have to, after testing is complete. War Room ad deal signed already.
+How long will it be before we can see any media ads? I think we'll definitely start with the best ones and those will be War Room. Mm-hmm.
 
-(8:45 - 9:31)
-I don't really need ad deals because we have Steve. And after TPUSA, well, I don't know now after the beginning, so damn sick part, but I'm just going to start seeing what Steve's itinerary looks like and I'm just gonna show up wherever he is. Is that bad? Do you think community testing will be this weekend? No, considering it's already Friday night and we want around two days of team testing, it probably won't be this weekend.
+Most excited for those. All the socials on this page need to be reviewed and some need to be updated. Awesome, thank you.
 
-(9:32 - 9:56)
-Has Dogbone already completed a correctly branded website with updated info? Yes. Nolan, why do you keep tagging me? Get your OPP ready, buddy. Oh my gosh, I think Crypto Mayhem used to always post the GIFs of that guy.
+Airdrop will have to, after testing is complete. War Room ad deal signed already. I don't really need ad deals because we have Steve.
 
-(9:56 - 11:00)
-I don't know who that is. Have you confirmed publicly that the Polygon contract that has been linked via CoinGecko is a legitimate contract? If you have not, is there a reason? I'll wait till we have tested it and do not need to make any changes and are 100% positive that that's the contract. If you must know, will we be able to use PancakeSwap or perhaps BuySwapOut PPY in app? You will use QuickSwap, is that what you're talking about? Are you talking through TrustWallet app because you say PancakeSwap at the end? I'm not sure what you're asking, James.
+And after TPUSA, well, I don't know now after the beginning, so damn sick part, but I'm just going to start seeing what Steve's itinerary looks like and I'm just gonna show up wherever he is. Is that bad? Do you think community testing will be this weekend?
 
-(11:07 - 11:31)
-So no, we won't be on PancakeSwap. We will be on QuickSwap. And yes, we'll be on our own app and ChangeNow and Transac and SimpleSwap.
+No, considering it's already Friday night and we want around two days of team testing, it probably won't be this weekend. Has Dogbone already completed a correctly branded website with updated info? Yes.
 
-(11:42 - 12:17)
-Yes, sir. We're not compatible with Uniswap right now, but with the changes they have coming up, we should be in the future. We'll be available on ChangeNow as soon as we tell them to hit that green light.
+Nolan, why do you keep tagging me? Get your OPP ready, buddy. Oh my gosh, I think Crypto Mayhem used to always post the GIFs of that guy.
 
-(12:23 - 12:51)
-Do you mean to say that if there were changes that have to be made to the contract, the contract address would have to be changed depending on the changes that need to be changed? What's really awesome is we added an upgradable function to the contract. So some changes we can actually make without needing to ever fork a contract. Then, which is really, really cool.
+I don't know who that is. Have you confirmed publicly that the Polygon contract that has been linked via CoinGecko is a legitimate contract? If you have not, is there a reason?
 
-(12:54 - 13:11)
-Have you heard from Sandy? I have not, isn't it? I think Roach is friends with her. James says, okay, Sandy, you win. Hide and seek master.
+I'll wait till we have tested it and do not need to make any changes and are 100% positive that that's the contract. If you must know, will we be able to use PancakeSwap or perhaps BuySwapOut PPY in app? You will use QuickSwap, is that what you're talking about?
 
-(13:16 - 13:54)
-Stop, I'm trying not to cough and I feel like if I talk too loud or laugh, then I want to cough, which I'm not trying to do. So how much US dollars can I spend on PatriotPay within the PatriotPay app within the 24-hour testing stage? I think I heard 1,500, but I think I also heard 1,500 PatriotPay, excuse me. Um, it'll be, each transaction will be limited to about 15,000 PatriotPay currently.
+Are you talking through TrustWallet app because you say PancakeSwap at the end? I'm not sure what you're asking, James. So no, we won't be on PancakeSwap.
 
-(13:54 - 14:22)
+We will be on QuickSwap. And yes, we'll be on our own app and ChangeNow and Transac and SimpleSwap. Yes, sir.
+
+We're not compatible with Uniswap right now, but with the changes they have coming up, we should be in the future. We'll be available on ChangeNow as soon as we tell them to hit that green light. Do you mean to say that if there were changes that have to be made to the contract, the contract address would have to be changed depending on the changes that need to be changed?
+
+What's really awesome is we added an upgradable function to the contract. So some changes we can actually make without needing to ever fork a contract. Then, which is really, really cool.
+
+Have you heard from Sandy? I have not, isn't it? I think Roach is friends with her.
+
+James says, okay, Sandy, you win. Hide and seek master. Stop, I'm trying not to cough and I feel like if I talk too loud or laugh, then I want to cough, which I'm not trying to do.
+
+So how much US dollars can I spend on PatriotPay within the PatriotPay app within the 24-hour testing stage? I think I heard 1,500, but I think I also heard 1,500 PatriotPay, excuse me. Um, it'll be, each transaction will be limited to about 15,000 PatriotPay currently.
+
 That may change as we do the team testing. Excuse me, my gosh. Tried to clean the kitchen super quickly with the 30 minutes I had after my last meeting and this, and I feel like I inhaled like too much Blue Dawn or something.
 
-(14:25 - 14:42)
 Win zero tax. Hey, with enough volume. Airdrop 2023, mm, I hate to say that's becoming very unlikely since we are December 29th now.
 
-(14:43 - 15:08)
 Let me see. Oh, dev, excuse, excuse me, gosh. Our dev who's working on integrating this into the app.
 
-(15:11 - 15:50)
-Sounding like he'll have it done tonight, but you guys don't know how that goes. Is PPY going to be sent to the Smart Wallet? You're going to inquire to VoiceChat prior, yep. I will update you on everything with instructions as soon as it's time for those airdrops and time for you all to do what you need to do.
+Sounding like he'll have it done tonight, but you guys don't know how that goes. Is PPY going to be sent to the Smart Wallet? You're going to inquire to VoiceChat prior, yep.
 
-(15:52 - 16:17)
-Whiskey and honey, I need to check if I have whiskey. Whiskey, not exactly usually like a whiskey drinker, maybe a few times a year. Can you ask whoever did voiceover for a commercial video if they want to hang out next weekend? Okay, I'm so confused.
+I will update you on everything with instructions as soon as it's time for those airdrops and time for you all to do what you need to do. Whiskey and honey, I need to check if I have whiskey. Whiskey, not exactly usually like a whiskey drinker, maybe a few times a year.
 
-(16:17 - 16:40)
-I don't know what you're talking about. Airdrop within first week of January, that's seeming very likely. I wouldn't make any promises because, again, you know how testing goes, but tell them to chill out.
+Can you ask whoever did voiceover for a commercial video if they want to hang out next weekend? Okay, I'm so confused. I don't know what you're talking about.
 
-(16:40 - 17:13)
-What are they freaking out over? We're getting, I think most of us, what most of us have wanted, so gotta get this right. Again, it remains, you know, I understand maybe if they haven't been through fork, but top priority is always making sure we get everything done correctly. Unfortunately, a lot of stuff wasn't done the way it should have before.
+Airdrop within first week of January, that's seeming very likely. I wouldn't make any promises because, again, you know how testing goes, but tell them to chill out. What are they freaking out over?
 
-(17:15 - 17:43)
-So although that's taking more time, I'm very proud to say that we are doing it correctly this time around. At the expense of having you guys waiting in your patience. Why does a lower temporary transfer tax effect change now as stated previously? Actually, let me see if I have that in my notes very quickly.
+We're getting, I think most of us, what most of us have wanted, so gotta get this right. Again, it remains, you know, I understand maybe if they haven't been through fork, but top priority is always making sure we get everything done correctly. Unfortunately, a lot of stuff wasn't done the way it should have before.
 
-(17:48 - 18:15)
-If I don't, I will check on it or add it to the advisor questions, which actually I haven't gotten any questions from you guys for the advisor, for those of you that said that you wanted to. Let me see. Let me see if I have it quickly.
+So although that's taking more time, I'm very proud to say that we are doing it correctly this time around. At the expense of having you guys waiting in your patience. Why does a lower temporary transfer tax effect change now as stated previously?
 
-(18:44 - 20:02)
-Sorry, I'm just searching. Give me a second here. Okay, because our app buys and sells, the way we have it integrated with the ChangeNow sub-wallet, I'll get more details for you, but it has to do with that.
+Actually, let me see if I have that in my notes very quickly. If I don't, I will check on it or add it to the advisor questions, which actually I haven't gotten any questions from you guys for the advisor, for those of you that said that you wanted to. Let me see.
 
-(20:07 - 20:53)
-So if we have the zero transfer tax, it'll affect the taxes for the app buys and sells. Since we use the tax from the transfers to that ChangeNow sub-wallet to remedy some of the, I don't wanna say issues. Oh boy, what am I getting DMs for? Okay, but I will get you a better answer if you're interested in that.
+Let me see if I have it quickly. Sorry, I'm just searching. Give me a second here.
 
-(20:53 - 21:22)
-Either way, we're not going with the lower tax transfers, unfortunately, or transferring. I know I've gotten a few DMs of transferring your airdrop or airdropping your airdrop to a different wallet than what your FJB is currently in to try to consolidate that. I really tried, but we're unable to do that just because it gets out of hand very quickly.
+Okay, because our app buys and sells, the way we have it integrated with the ChangeNow sub-wallet, I'll get more details for you, but it has to do with that. So if we have the zero transfer tax, it'll affect the taxes for the app buys and sells. Since we use the tax from the transfers to that ChangeNow sub-wallet to remedy some of the, I don't wanna say issues.
 
-(21:37 - 22:04)
-Is the testing phase limited to the app? No, it is not, but I will keep you updated on that. This code only works to if no honey. Okay, actually, I'm gonna try some tea tonight.
+Oh boy, what am I getting DMs for? Okay, but I will get you a better answer if you're interested in that. Either way, we're not going with the lower tax transfers, unfortunately, or transferring.
 
-(22:04 - 22:28)
+I know I've gotten a few DMs of transferring your airdrop or airdropping your airdrop to a different wallet than what your FJB is currently in to try to consolidate that. I really tried, but we're unable to do that just because it gets out of hand very quickly. Is the testing phase limited to the app?
+
+No, it is not, but I will keep you updated on that. This code only works to if no honey. Okay, actually, I'm gonna try some tea tonight.
+
 I don't know, it's like wild oregano leaf tea, but apparently my, so my uncle does beekeeping as his hobby, and he says he gives this to his bees if they're ever sick, and it works wonders. So I'm gonna try that tonight, and apparently it's supposed to work for coffee. Okay, Tito's, good gluten-free.
 
-(22:33 - 23:10)
 I love white Russians, I haven't had one. I like to have them in the wintertime. To swap an app, we don't need to have transact account, do we, can't use transact to do where I live.
 
-(23:11 - 23:28)
 To swap in the app, we use change now. So you should be good. Let me know if you have any issues there.
 
-(23:29 - 23:54)
-Will this thing be gone from app? This has their place, but we are hoping to add a really cool feature to the app very, very soon, actually, and I think you guys will love it. Definitely adding this before war room. We'll see how long it takes.
+Will this thing be gone from app? This has their place, but we are hoping to add a really cool feature to the app very, very soon, actually, and I think you guys will love it. Definitely adding this before war room.
 
-(23:54 - 24:22)
-It's supposed to take one to two days. Colorado Bulldog, oh yeah, there's a, what is it? Holiday, is that a Colorado brewery? But I wanna go actually pick that up. It's supposed to be like a, I don't wanna say a border.
+We'll see how long it takes. It's supposed to take one to two days. Colorado Bulldog, oh yeah, there's a, what is it?
 
-(24:24 - 24:47)
+Holiday, is that a Colorado brewery? But I wanna go actually pick that up. It's supposed to be like a, I don't wanna say a border.
+
 Oh, excuse me, a porter, I was reading something. Um, come on, try it at home, excuse me. But it's a gluten-free port, that's what it is.
 
-(24:48 - 25:14)
-And it's supposed to taste just like a Guinness, so you could have a snake bite. Any good using Diet Coke? A Coke or Pepsi with heavy cream. Usually we'll have a ZVN instead, though, but with lots of heavy cream, so good.
+And it's supposed to taste just like a Guinness, so you could have a snake bite. Any good using Diet Coke? A Coke or Pepsi with heavy cream.
 
-(25:18 - 25:25)
-Facial recognition login. Ah, we'll probably eventually get there. I don't see that in the super near future, though.
+Usually we'll have a ZVN instead, though, but with lots of heavy cream, so good. Facial recognition login. Ah, we'll probably eventually get there.
 
-(25:28 - 25:51)
-Yeah, that's the issue we ran into with Simplix and Mercury. That's why it took the app the first time around and took us so long. James was because all these platforms would tell us that they would work with our app and then it was not the case, so we got tricked.
+I don't see that in the super near future, though. Yeah, that's the issue we ran into with Simplix and Mercury. That's why it took the app the first time around and took us so long.
 
-(25:52 - 26:36)
-Somebody sent James a invite, please. Oh, I see, some arguments in the Discord, huh? One part bourbon, one part Columa, splashing here and there. Ooh, that looks delicious.
+James was because all these platforms would tell us that they would work with our app and then it was not the case, so we got tricked. Somebody sent James a invite, please. Oh, I see, some arguments in the Discord, huh?
 
-(26:37 - 27:43)
-Wow, what do you have there at the top? Is that the shaved chocolate? Wow, my neighbor, somebody sounds like super close. What the heck? That looks delicious. Are you back in here, James? Oh.
+One part bourbon, one part Columa, splashing here and there. Ooh, that looks delicious. Wow, what do you have there at the top?
 
-(27:43 - 28:32)
+Is that the shaved chocolate? Wow, my neighbor, somebody sounds like super close. What the heck?
+
+That looks delicious. Are you back in here, James? Oh.
+
 Excuse me. He's still hearing the porn music, James. Mood music.
 
-(28:52 - 29:11)
-I think we'll do some launch day giveaways, do some swag. What else? Do some swag. I think we'll do that by giving you guys codes that will make stuff free on the store, on our merch store.
+I think we'll do some launch day giveaways, do some swag. What else? Do some swag.
 
-(29:11 - 29:45)
-That way you can keep your privacy and you don't need to give me your address and you can just have them ship it to you. Excuse me. I can't see.
+I think we'll do that by giving you guys codes that will make stuff free on the store, on our merch store. That way you can keep your privacy and you don't need to give me your address and you can just have them ship it to you. Excuse me.
 
-(30:15 - 30:26)
-Oh, just got an email. Any idea when the air drop is going to happen? Lots of you DMing and emailing that. I do not know.
+I can't see. Oh, just got an email. Any idea when the air drop is going to happen?
 
-(30:27 - 30:44)
-I don't have a time, but as soon as we're done testing, go ahead and air drop that. Please don't get scammed from now and then. Then somebody else will have access to your wallet, so don't do that.
+Lots of you DMing and emailing that. I do not know. I don't have a time, but as soon as we're done testing, go ahead and air drop that.
 
-(30:45 - 31:01)
-Don't give anybody your C-Phrase, not even your mom, and don't close your account. Click on any weird links. You guys know the deal, but I feel like we still have people get scammed often, so usually they catch you on a bad day.
+Please don't get scammed from now and then. Then somebody else will have access to your wallet, so don't do that. Don't give anybody your C-Phrase, not even your mom, and don't close your account.
 
-(31:02 - 31:19)
-I think that's honestly usually what happens, whether you're sick or just not feeling like yourself and not thinking straight, so just keep that in mind. Again, always, always, always just ask in the general chat. If it were me, that's honestly what I'd do, but just make sure.
+Click on any weird links. You guys know the deal, but I feel like we still have people get scammed often, so usually they catch you on a bad day. I think that's honestly usually what happens, whether you're sick or just not feeling like yourself and not thinking straight, so just keep that in mind.
 
-(31:20 - 31:46)
-Don't DM an admin, because you may not be DMing the right one. Just ask in the general chat. What was that noise? I'm not sure.
+Again, always, always, always just ask in the general chat. If it were me, that's honestly what I'd do, but just make sure. Don't DM an admin, because you may not be DMing the right one.
 
-(31:46 - 31:52)
+Just ask in the general chat. What was that noise? I'm not sure.
+
 I hear birds outside. I think they'll be going to bed soon. It's five o'clock here.
 
-(31:57 - 32:28)
-Will USDT switch to Matic soon in app? I'm actually not sure about that. If all Uniswap version three contracts are deployed on Polygon, then why can't we set up a pool within Uniswap? Let's set our pools everywhere so we have no funds to operate the coiner league. Sure, something.
+Will USDT switch to Matic soon in app? I'm actually not sure about that. If all Uniswap version three contracts are deployed on Polygon, then why can't we set up a pool within Uniswap?
 
-(32:31 - 33:08)
-Oh, boy. Oh, would you guys, this is, would you guys be interested in, I know some of you want in. The reason we can't be on Uniswap is the features that our app has, which is actually what took a lot of time to make.
+Let's set our pools everywhere so we have no funds to operate the coiner league. Sure, something. Oh, boy.
 
-(33:08 - 33:48)
-We wanted two features, one required Uniswap version three, one required version two, and there's a lot of work the devs had to do to make that work, so. We will be PatriotPay on Polygon before two. Yes and no, it'll be a few years with Matic and Polygon if they actually enforce that and make everything, everybody move over.
+Oh, would you guys, this is, would you guys be interested in, I know some of you want in. The reason we can't be on Uniswap is the features that our app has, which is actually what took a lot of time to make. We wanted two features, one required Uniswap version three, one required version two, and there's a lot of work the devs had to do to make that work, so.
 
-(33:48 - 34:21)
-So yes, if they force us to, then we will be, it will be PpyPolygon. Swag gonna be high quality. I think our shirts are really some of the nicest shirts you can get on there, at least for the price, and they're American made.
+We will be PatriotPay on Polygon before two. Yes and no, it'll be a few years with Matic and Polygon if they actually enforce that and make everything, everybody move over. So yes, if they force us to, then we will be, it will be PpyPolygon.
 
-(34:21 - 34:41)
-What we have now, I'm not a fan of the hats. There's just not, I don't think they're awful. There's just not a lot of them on there, a lot of options, so I actually have one sitting here at my desk, and I need to type this down.
+Swag gonna be high quality. I think our shirts are really some of the nicest shirts you can get on there, at least for the price, and they're American made. What we have now, I'm not a fan of the hats.
 
-(34:42 - 34:56)
-I have a Trump one I got. But there's not a lot of options there, so I would like some different hats. We can find a different supplier for those.
+There's just not, I don't think they're awful. There's just not a lot of them on there, a lot of options, so I actually have one sitting here at my desk, and I need to type this down. I have a Trump one I got.
 
-(34:57 - 35:46)
-But it is nice for a few different reasons to get our swag from where we get it from. Can't we swap the B&B bot for Matic? Are you talking about the buy bot? We'll definitely update the buy bot, yes. Is anybody here good with bots? If anybody is, feel free to DM me.
+But there's not a lot of options there, so I would like some different hats. We can find a different supplier for those. But it is nice for a few different reasons to get our swag from where we get it from.
 
-(35:47 - 35:54)
-Of course, I'll pay you for yours. Anytime. Because we'll need a few things switched over.
+Can't we swap the B&B bot for Matic? Are you talking about the buy bot? We'll definitely update the buy bot, yes.
 
-(35:54 - 36:18)
-Otherwise, we'll just have to hire someone. I think that's actually all I have to do this weekend. Same question for me.
+Is anybody here good with bots? If anybody is, feel free to DM me. Of course, I'll pay you for yours.
 
-(36:19 - 36:36)
-What should I have in the app, and how much, and for gas fees? Don't worry. I will give you at least a 24-hour notice to get everything prepared. That way, if you would like to prepare to buy Patriot Pay, you will have at least a 24-hour notice.
+Anytime. Because we'll need a few things switched over. Otherwise, we'll just have to hire someone.
 
-(36:36 - 36:46)
+I think that's actually all I have to do this weekend. Same question for me. What should I have in the app, and how much, and for gas fees?
+
+Don't worry. I will give you at least a 24-hour notice to get everything prepared. That way, if you would like to prepare to buy Patriot Pay, you will have at least a 24-hour notice.
+
 That won't change. I'll post it in announcements. I will tag everybody so that if you want to do that, you can.
 
-(36:46 - 37:16)
 Probably just make sure you have some funds in crypto, if you're moving fiat to crypto, because that can take a few days. Nolan quit playing with bots a long time ago, probably in first grade. Probably, because he is a bot.
 
-(37:21 - 37:29)
 I think all Discord listeners should get tip 1,000,000 FBV. It would really help the way. You don't have to tell me that, don't get me.
 
-(37:30 - 37:45)
-Maybe we save that for launch day. How about that? I'm loading up and transferring Matic ASAP. Yeah, for sure, since we are on Matic, that's not a bad idea.
+Maybe we save that for launch day. How about that? I'm loading up and transferring Matic ASAP.
 
-(37:47 - 37:53)
-Some of you have already done that. I think I've made some nice gains in the past few days. That's not bad.
+Yeah, for sure, since we are on Matic, that's not a bad idea. Some of you have already done that. I think I've made some nice gains in the past few days.
 
-(37:55 - 38:07)
-But yeah, probably a good idea if you're trying to get fiat into crypto. You may want to do that sooner than later. But I will give you that 24-hour notice with instructions.
+That's not bad. But yeah, probably a good idea if you're trying to get fiat into crypto. You may want to do that sooner than later.
 
-(38:39 - 39:12)
-What did you miss? I don't know. What did you miss? Mainly that we just wrapped up, I want to say in the last two hours maybe. What we need to, basically a contract, an agent contract, a new admin agent contract for the smart wallet to get that integrated into the app that we expect to be done within, I'd say, 12 hours.
+But I will give you that 24-hour notice with instructions. What did you miss? I don't know.
 
-(39:13 - 39:26)
+What did you miss? Mainly that we just wrapped up, I want to say in the last two hours maybe. What we need to, basically a contract, an agent contract, a new admin agent contract for the smart wallet to get that integrated into the app that we expect to be done within, I'd say, 12 hours.
+
 Once that's complete, the team will begin testing and then the community can begin testing after that and then you all get the airdrop. Sure, we can wait. Sounds like a good estimate.
 
-(40:25 - 40:37)
-False. What do we need to do for the airdrop? You need to do nothing. Just chill out and we will hold your hand through it.
+False. What do we need to do for the airdrop? You need to do nothing.
 
-(40:37 - 40:45)
-It'll be super simple. We'll have instructions for you. Very, very simple, easy instructions.
+Just chill out and we will hold your hand through it. It'll be super simple. We'll have instructions for you.
 
-(40:47 - 41:04)
-And there's really not much you can do to effortlessly mess up, just don't, just don't get scammed. For the time being, that's probably the worst thing you could do, I mean, I guess for any time, but especially right now. Don't, just wait for instructions.
+Very, very simple, easy instructions. And there's really not much you can do to effortlessly mess up, just don't, just don't get scammed. For the time being, that's probably the worst thing you could do, I mean, I guess for any time, but especially right now.
 
-(41:05 - 41:30)
-I don't want you guys, some of you who have gone out and tried to do your own thing and get ahead of the game have gotten scammed, so please, please, please don't do that, just wait for instructions. Will Finn be cutting the ribbon? No. Why are you guys obsessed with Finn? Finn's a very nice guy, I love him more.
+Don't, just wait for instructions. I don't want you guys, some of you who have gone out and tried to do your own thing and get ahead of the game have gotten scammed, so please, please, please don't do that, just wait for instructions. Will Finn be cutting the ribbon?
 
-(41:32 - 41:51)
-Kind of creepy, kind of creepy, leave the guy alone. And what happens to the FJB? Well, Steve really loves the FJB. So, you know, who knows, we'll see.
+No. Why are you guys obsessed with Finn? Finn's a very nice guy, I love him more.
 
-(41:54 - 42:42)
-It seems some of you all just don't wanna let it die either, so we'll see, maybe it'll be like our meme coin forever. Instructions being new contract address, yes, and how to add that to your wallet and get all ready and you can practice and add somatic to your wallet if you wanna do that, if you're trying to buy PPY, soon as we enable trading, all the good stuff. Egg doesn't like him, oh, Finn, I don't know why, what did he ever do to Egg? It all sat next to me.
+Kind of creepy, kind of creepy, leave the guy alone. And what happens to the FJB? Well, Steve really loves the FJB.
 
-(42:45 - 43:03)
-It all sat next to your Rona. I don't know, you know, you know what, James? I feel, I don't know, I'm like a little offended by that. You're gonna compare FJB to Rona? Oof, that literally got rug pulled.
+So, you know, who knows, we'll see. It seems some of you all just don't wanna let it die either, so we'll see, maybe it'll be like our meme coin forever. Instructions being new contract address, yes, and how to add that to your wallet and get all ready and you can practice and add somatic to your wallet if you wanna do that, if you're trying to buy PPY, soon as we enable trading, all the good stuff.
 
-(43:05 - 43:49)
-Didn't it, isn't that what happened? Is FJB going to continue trading on Pancake? No, he will be on QuickSwap and do not download the app, the app is a scam. They will ask for your seed phrase and they will steal your funds within minutes like we have happened to users already, so please don't do that, just wait for instructions. No, but I can see it in the address bar.
+Egg doesn't like him, oh, Finn, I don't know why, what did he ever do to Egg? It all sat next to me. It all sat next to your Rona.
 
-(43:53 - 44:41)
-Brielle, William, I actually always liked the name Brielle. Never entered my seed phrase in TrustWallet. Well, if you get a new device, you probably have to, right? What else? Boris is excited, he keeps asking when.
+I don't know, you know, you know what, James? I feel, I don't know, I'm like a little offended by that. You're gonna compare FJB to Rona?
 
-(44:42 - 44:59)
-Steve's excited, because he wants to get this going. Oh yeah, that's also, I'll share on probably, launch day or keep it for launch week. Some stuff from TPUSA weekend, I think that'll be good.
+Oof, that literally got rug pulled. Didn't it, isn't that what happened? Is FJB going to continue trading on Pancake?
 
-(45:12 - 45:39)
-When SKB and Boris do a voice chat, trying, they just, they want to make sure you guys are good before they do that. Steve especially is super, super excited. Very, very happy.
+No, he will be on QuickSwap and do not download the app, the app is a scam. They will ask for your seed phrase and they will steal your funds within minutes like we have happened to users already, so please don't do that, just wait for instructions. No, but I can see it in the address bar.
 
-(45:44 - 46:42)
-WEG better not, no. Is Steve going to own this or refer to us as our friends over at PatreonPay like they do with other products? No, I don't think he'll refer to us as our friends over at PatreonPay. It's TrustWallet, the best place to hold our PPY outside of the app, I would say so, right? Is that what most people here use outside the app? Probably TrustWallet, MetaMask maybe.
+Brielle, William, I actually always liked the name Brielle. Never entered my seed phrase in TrustWallet. Well, if you get a new device, you probably have to, right?
 
-(46:43 - 46:58)
-I feel like TrustWallet's a lot more user friendly than MetaMask. MetaMask, I guess I haven't used the phone app, the MetaMask for a very long time, actually. I don't even know if I have it on this phone.
+What else? Boris is excited, he keeps asking when. Steve's excited, because he wants to get this going.
 
-(47:00 - 47:16)
-Let's see. Oh yeah, I do, okay. We'll try that to see how well it works.
+Oh yeah, that's also, I'll share on probably, launch day or keep it for launch week. Some stuff from TPUSA weekend, I think that'll be good. When SKB and Boris do a voice chat, trying, they just, they want to make sure you guys are good before they do that.
 
-(47:25 - 47:45)
-What will be the best swap service for TrustWallet users? A quick swap, I will let you guys know. I'll give you a few different options with instructions. We'll do written instructions, we'll do video recordings because I know a lot of you just like to follow that way.
+Steve especially is super, super excited. Very, very happy. WEG better not, no.
 
-(47:48 - 48:24)
+Is Steve going to own this or refer to us as our friends over at PatreonPay like they do with other products? No, I don't think he'll refer to us as our friends over at PatreonPay. It's TrustWallet, the best place to hold our PPY outside of the app, I would say so, right?
+
+Is that what most people here use outside the app? Probably TrustWallet, MetaMask maybe. I feel like TrustWallet's a lot more user friendly than MetaMask.
+
+MetaMask, I guess I haven't used the phone app, the MetaMask for a very long time, actually. I don't even know if I have it on this phone. Let's see.
+
+Oh yeah, I do, okay. We'll try that to see how well it works. What will be the best swap service for TrustWallet users?
+
+A quick swap, I will let you guys know. I'll give you a few different options with instructions. We'll do written instructions, we'll do video recordings because I know a lot of you just like to follow that way.
+
 But it'll be pretty simple and give you, again, keep the 24 hour so you'll have, you know, we'll tag everybody in the announcements with that 24 hour notice so you'll have plenty of time if you want to buy at launch to do that. No need to worry about that. Some like safe pal, James says.
 
-(48:40 - 49:13)
-I think that's everything I've got though. Just got a lot of administrative stuff to catch up on after feeling like I'm dying for a while. Any word about our friend coin? What is that? What is that, James? Excuse me.
+I think that's everything I've got though. Just got a lot of administrative stuff to catch up on after feeling like I'm dying for a while. Any word about our friend coin?
 
-(49:16 - 49:47)
-Since Polygon is up, will the coin open higher? Should we're up, what, at least 30% by now, I think, right? Come on, no, can't be leaving the baby in the hot car. Not in Phoenix. That is, yeah, that's actually, it's very sad, but every summer we have a few or several deaths happen that way, so definitely don't forget the baby or the dog in the car.
+What is that? What is that, James? Excuse me.
 
-(49:51 - 50:46)
-But, you know, I think it'll be good. There's a plan, there's a plan for everything, I feel like. Do you know an approximate percentage of the FJB coin that will not be converted to PPY because they acted too late? I'm assuming you're talking about holders who held coins on centralized exchanges that didn't convert or didn't move their coins? Yeah, XT, LB, and the like.
+Since Polygon is up, will the coin open higher? Should we're up, what, at least 30% by now, I think, right? Come on, no, can't be leaving the baby in the hot car.
 
-(50:48 - 51:18)
-Is it two to 3% or greater? That seems very high. But, yeah, the good news is the coin is not dead. It will live there forever with some liquidity, so if I was one of those people, I would either keep it or I would just sell it, even if it is not very little.
+Not in Phoenix. That is, yeah, that's actually, it's very sad, but every summer we have a few or several deaths happen that way, so definitely don't forget the baby or the dog in the car. But, you know, I think it'll be good.
 
-(51:18 - 51:32)
-I mean, it's something, depending on how much they have. But I think, I mean, you guys got tired of me and how many times I mentioned over and over and over to get your coins off there. Yeah.
+There's a plan, there's a plan for everything, I feel like. Do you know an approximate percentage of the FJB coin that will not be converted to PPY because they acted too late? I'm assuming you're talking about holders who held coins on centralized exchanges that didn't convert or didn't move their coins?
 
-(51:41 - 52:11)
-Okay, I feel like I have a notification pop up. Where is that? Oh, shoot, I see it. Tim, was there a mention of Boris and voice chat? These dinnertime voice chats are hard for me to make with 3Pig.
+Yeah, XT, LB, and the like. Is it two to 3% or greater? That seems very high.
 
-(52:12 - 52:40)
-I know, I'm sorry. We can always, we can move to a different time or, again, you know, just keep recording them to be available for you all, but I'm pretty flexible as the time goes. I think it just did a little bit earlier tonight because last night my cough got like really, really bad as the night went on, so, and it has gotten worse today as the day went on, so.
+But, yeah, the good news is the coin is not dead. It will live there forever with some liquidity, so if I was one of those people, I would either keep it or I would just sell it, even if it is not very little. I mean, it's something, depending on how much they have.
 
-(52:42 - 53:06)
-Wanted to get this done before I was coughing all over the place. Hmm, hmm, hmm. I know, I don't take many meds.
+But I think, I mean, you guys got tired of me and how many times I mentioned over and over and over to get your coins off there. Yeah. Okay, I feel like I have a notification pop up.
 
-(53:06 - 53:29)
-I try to go the holistic way. Uh, I did not used to believe in all that, but after getting so sick from Big Pharma, I now do mostly everything holistic. I have been taking ivermectin, though, which actually helped tremendously.
+Where is that? Oh, shoot, I see it. Tim, was there a mention of Boris and voice chat?
 
-(53:37 - 54:00)
-All right, I think, looks like that's everything. Oh, you guys didn't answer. The few of you who wanted our advisor to get on voice chat, I know we discussed last time I told you guys, I'll take questions from you that I will relay to him, and then I'll post back with his answers.
+These dinnertime voice chats are hard for me to make with 3Pig. I know, I'm sorry. We can always, we can move to a different time or, again, you know, just keep recording them to be available for you all, but I'm pretty flexible as the time goes.
 
-(54:01 - 54:21)
-Are you guys interested in that? Or no, if you are, I'll just open topics. Probably be easier to keep it in one place with questions if you guys want to do that. That way I can gather a few of your questions for him.
+I think it just did a little bit earlier tonight because last night my cough got like really, really bad as the night went on, so, and it has gotten worse today as the day went on, so. Wanted to get this done before I was coughing all over the place.
 
-(54:22 - 54:44)
-And get that ready probably this week. Hottie Tottie, don't know what that is, but I hear it helps. Win Fuego, oh yeah, where is he? Has he been around? I feel like I've seen a few screen names that might be him.
+[Speaker 2]
+Hmm, hmm, hmm.
 
-(54:47 - 55:17)
-Isn't he like the Rain Man or something? Okay, cool, so do open up a topic, but don't ruin it with you guys' little side conversations in the middle, okay? I need to find a way. I wonder if there's a... I wonder if there's a way to do that. I looked into it, but I haven't had a ton of time to look into it.
+[Speaker 1]
+I know, I don't take many meds. I try to go the holistic way. Uh, I did not used to believe in all that, but after getting so sick from Big Pharma, I now do mostly everything holistic.
 
-(55:17 - 55:34)
-Every time I have looked into it, I think the answer is no. To make one of these topics not available for everybody to post in, like an announcement channel. So I have to go in and delete all of your guys' side conversations you like to have.
+I have been taking ivermectin, though, which actually helped tremendously. All right, I think, looks like that's everything. Oh, you guys didn't answer.
 
-(55:40 - 55:48)
-Boris, shabbat shalom. Hmm, questions for undercover advisor. Yeah, I guess rumor is that the advisor is Finn.
+The few of you who wanted our advisor to get on voice chat, I know we discussed last time I told you guys, I'll take questions from you that I will relay to him, and then I'll post back with his answers. Are you guys interested in that? Or no, if you are, I'll just open topics.
 
-(55:48 - 56:25)
-That is not true, but I mean, I guess that's, I guess that's a good thing that our advisor is undercover. Finn is still doing very well, but he is not our advisor. Didn't you say before that you may know the crypto advisor? Is there someone in the Discord, Finn, lol? No, it's not Finn.
+Probably be easier to keep it in one place with questions if you guys want to do that. That way I can gather a few of your questions for him. And get that ready probably this week.
 
-(56:25 - 56:38)
+Hottie Tottie, don't know what that is, but I hear it helps. Win Fuego, oh yeah, where is he? Has he been around?
+
+I feel like I've seen a few screen names that might be him. Isn't he like the Rain Man or something? Okay, cool, so do open up a topic, but don't ruin it with you guys' little side conversations in the middle, okay?
+
+I need to find a way. I wonder if there's a... I wonder if there's a way to do that.
+
+I looked into it, but I haven't had a ton of time to look into it. Every time I have looked into it, I think the answer is no. To make one of these topics not available for everybody to post in, like an announcement channel.
+
+So I have to go in and delete all of your guys' side conversations you like to have. Boris, shabbat shalom. Hmm, questions for undercover advisor.
+
+Yeah, I guess rumor is that the advisor is Finn. That is not true, but I mean, I guess that's, I guess that's a good thing that our advisor is undercover. Finn is still doing very well, but he is not our advisor.
+
+Didn't you say before that you may know the crypto advisor? Is there someone in the Discord, Finn, lol? No, it's not Finn.
+
 I wonder if you typed that right after. Yeah, you may, I mean. I feel like anybody connected to Boris and Steve, you all probably know somehow, so I wouldn't doubt it.
 
-(56:42 - 57:03)
 But, you know, some of you all watch War Room, like 30 times a day, so. But no, it is not Finn. James says it's Sandy.
 
-(57:04 - 57:15)
 Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha. That's the reason for such the long absent. Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha.
 
-(57:16 - 57:36)
 I'm not sure if, I mean, maybe, maybe that's why. Maybe that's why Sandy wants to type out. Well, if that is the case, you guys will know if it is Sandy, because I think we all know how Sandy types, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha.
 
-(57:36 - 57:51)
 That's her heart. A Himalaya coin, dude. No, all right, I pray nothing happens.
 
-(57:51 - 58:15)
-Well, I thought, James, I thought, who was it? Oh my gosh, why can't I think? Oh, I thought Roach said she's all good. Has he not confirmed that lately? Oh. Oh, shoot, okay.
+Well, I thought, James, I thought, who was it? Oh my gosh, why can't I think? Oh, I thought Roach said she's all good.
 
-(58:18 - 58:32)
+Has he not confirmed that lately? Oh. Oh, shoot, okay.
+
 It's in December 2022, Roach says. That's been a year. I could have sworn you've like confirmed her existence more recent than that.
 
-(58:34 - 58:57)
-But then again, we've all been here for like a few years now, so. Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha. Oh my God, why'd you do that to the poor cat? Where's Donnie? I'm not sure.
+But then again, we've all been here for like a few years now, so. Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha. Oh my God, why'd you do that to the poor cat?
 
-(58:59 - 59:23)
-Uh, is he the one that did that? Maybe. James, wait, what, are you serious? Last time family got killed in Himalaya? Is that real? Oh, gee. Oh gosh, I hope she's okay.
+Where's Donnie? I'm not sure. Uh, is he the one that did that?
 
-(59:23 - 59:38)
-I just remember she like lived in the middle of nowhere in the middle of her own land. What the heck? Well, I hope she's okay. Hopefully we hear from her maybe after launch.
+Maybe. James, wait, what, are you serious? Last time family got killed in Himalaya?
 
-(59:38 - 59:50)
-That's really scary, I didn't realize that. Oh, boy. Hmm, thanks for the update.
+Is that real? Oh, gee. Oh gosh, I hope she's okay.
 
-(59:50 - 1:00:11)
-God, that's really scary. Oh yeah, do any of you all live in Tennessee? I'll be visiting Tennessee soon, looking at moving there. More like in the middle of nowhere, but it'll be more West Tennessee.
+I just remember she like lived in the middle of nowhere in the middle of her own land. What the heck? Well, I hope she's okay.
 
-(1:00:15 - 1:00:37)
-In the middle of nowhere, but like a few hours away from life. No, not in Memphis, closely. Eastern Tennessee is amazing.
+Hopefully we hear from her maybe after launch. That's really scary, I didn't realize that. Oh, boy.
 
-(1:00:37 - 1:00:57)
-Hmm, keep calm, enjoy a cat massage. No, thanks. I would have a Persian cat, though, if I wasn't allergic to cats.
+Hmm, thanks for the update. God, that's really scary. Oh yeah, do any of you all live in Tennessee?
 
-(1:00:58 - 1:01:19)
-I also can't stand like hair, like animal hair. All my dogs don't shed, and I don't think I could have dogs that shed. I like James's theory that Sandy got deep into Q and her family made her unplugged.
+I'll be visiting Tennessee soon, looking at moving there. More like in the middle of nowhere, but it'll be more West Tennessee. In the middle of nowhere, but like a few hours away from life.
 
-(1:01:19 - 1:01:33)
-Hmm, okay. I suppose that's a better case scenario than the others. I can't stop looking at that cat with the pineapple.
+No, not in Memphis, closely. Eastern Tennessee is amazing. Hmm, keep calm, enjoy a cat massage.
 
-(1:01:45 - 1:01:53)
-And her kid found out she was buying crypto, and they shut her down. Maybe. Oh boy, oh yi yi yi.
+No, thanks. I would have a Persian cat, though, if I wasn't allergic to cats. I also can't stand like hair, like animal hair.
 
-(1:01:55 - 1:02:04)
-All right. Well, I think that's everything. If you guys have any questions, please DM me, especially if it's urgent.
+All my dogs don't shed, and I don't think I could have dogs that shed. I like James's theory that Sandy got deep into Q and her family made her unplugged. Hmm, okay.
 
-(1:02:04 - 1:02:26)
-Tag me, just because I get so many DMs, and they get buried with all that and the channels. Or again, email, call, text, whatever you need to do. In the meantime, I will keep you updated as soon as the dev is done here, and we begin testing.
+I suppose that's a better case scenario than the others. I can't stop looking at that cat with the pineapple. And her kid found out she was buying crypto, and they shut her down.
 
-(1:02:26 - 1:02:48)
-I'll definitely let you all know. But I think that's everything. Again, just doing everything correctly, and keeping security, everything super secure, remains a number one priority.
+Maybe. Oh boy, oh yi yi yi. All right.
 
-(1:02:49 - 1:03:00)
-So getting this foundation set, almost done, almost there. Appreciate you guys' patience. Please stay safe for the new year.
+Well, I think that's everything. If you guys have any questions, please DM me, especially if it's urgent. Tag me, just because I get so many DMs, and they get buried with all that and the channels.
 
-(1:03:02 - 1:03:10)
-Don't go do anything stupid. But yeah, let me know if you need anything else. Don't share your seed phrase.
+Or again, email, call, text, whatever you need to do. In the meantime, I will keep you updated as soon as the dev is done here, and we begin testing. I'll definitely let you all know.
 
-(1:03:10 - 1:03:19)
-Don't click on links. We won't have any devs, or me, or any admins ask you to transfer money. Please be very wary of that.
+But I think that's everything. Again, just doing everything correctly, and keeping security, everything super secure, remains a number one priority. So getting this foundation set, almost done, almost there.
 
-(1:03:20 - 1:03:30)
-That would be a very bad time for that to happen right now. So if ever in doubt, just ask in the general chat so we can all help you out. There's always somebody around to help.
+Appreciate you guys' patience. Please stay safe for the new year. Don't go do anything stupid.
 
-(1:03:31 - 1:03:52)
-So please, the safest thing to do, better to be safe than sorry. So don't be afraid of looking stupid or anything like that. It's better than losing your money, right? So yeah, we'll get on StockWits, do Twits, do some shills on there on our fancy new page.
+But yeah, let me know if you need anything else. Don't share your seed phrase. Don't click on links.
 
-(1:03:53 - 1:04:03)
+We won't have any devs, or me, or any admins ask you to transfer money. Please be very wary of that. That would be a very bad time for that to happen right now.
+
+So if ever in doubt, just ask in the general chat so we can all help you out. There's always somebody around to help. So please, the safest thing to do, better to be safe than sorry.
+
+So don't be afraid of looking stupid or anything like that. It's better than losing your money, right? So yeah, we'll get on StockWits, do Twits, do some shills on there on our fancy new page.
+
 That CMC page should be up soon. We have the CoinGecko page up. Yeah, I think that's everything.
 
-(1:04:03 - 1:04:22)
 You all have a great night, a safe night, and I'll see you in general chat. Give me a few minutes to get this transferred over into both formats, and then I will go ahead and post it with some notes. I will talk to you guys soon.

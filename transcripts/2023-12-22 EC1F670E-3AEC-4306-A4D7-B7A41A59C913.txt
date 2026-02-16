@@ -1,310 +1,330 @@
-(0:00 - 0:44)
-All right, happy Friday. Thank you all for joining me. I apologize in advance. 
+[Speaker 1]
+All right, happy Friday. Thank you all for joining me. I apologize in advance.
 
-I'm a little bit under the weather. It's been a long week, a good week, but a long one. So I figured I'd get on to answer some questions. 
+I'm a little bit under the weather. It's been a long week, a good week, but a long one. So I figured I'd get on to answer some questions.
 
-I've been barely able to keep up with DMs. If I've not gotten back to your DM, it's likely because I'm still waiting for an answer or a resolution. But I think I've gotten back to everything that I have an answer to.
+I've been barely able to keep up with DMs. If I've not gotten back to your DM, it's likely because I'm still waiting for an answer or a resolution. But I think I've gotten back to everything that I have an answer to. Okay, so late to the...
 
-(0:44 - 1:05)
-Okay, so late to the... James, I am trying both Telegram and Discord at the same time tonight. So far, I think it seems to be okay, working all right. So we'll see how that works.
+James, I am trying both Telegram and Discord at the same time tonight. So far, I think it seems to be okay, working all right. So we'll see how that works.
 
-(1:06 - 2:02)
-I don't have any major announcements. We did get the green light from change now. So that's great news. 
+I don't have any major announcements. We did get the green light from change now. So that's great news.
 
-We expect in the next 24 hours to move LP and get the pairing. So that's great news. From there, the team will do a little bit of testing on our end once that's complete. 
+We expect in the next 24 hours to move LP and get the pairing. So that's great news. From there, the team will do a little bit of testing on our end once that's complete.
 
 Best case scenario, that'll be 24 to 48 hours, depending on how testing goes. We have been testing a test contract that is pretty much identical to the PPY contract. So everything should go smoothly, but again, it's testing and you never know.
 
-(2:02 - 3:20)
-So again, we expect testing on our end to take 24 to 48 hours. Once that is complete and everything's good, we will have you, the community, begin testing and I'll keep you updated on all that. Everything going smoothly. 
+So again, we expect testing on our end to take 24 to 48 hours. Once that is complete and everything's good, we will have you, the community, begin testing and I'll keep you updated on all that. Everything going smoothly.
 
-Marifest went great. Better than I ever expected. Can't wait to share everything from there. 
+Marifest went great. Better than I ever expected. Can't wait to share everything from there.
 
-Super, super cool. Other than that, it's just been meetings this week on mostly really our app, mostly app-related meetings. Yeah. 
+Super, super cool. Other than that, it's just been meetings this week on mostly really our app, mostly app-related meetings. Yeah.
 
 Let me see if I have any questions before I cover some more points. Let me, okay, so I've been getting a lot of DMs regarding holders asking if they're safe to sell their FJB coins. I cannot give you advice on that.
 
-(3:20 - 3:46)
-That is up to you. I do not recommend it before airdrop, but that is up to you. I cannot give you that advice. 
+That is up to you. I do not recommend it before airdrop, but that is up to you. I cannot give you that advice.
 
 Again, I don't recommend doing that, especially before airdrop. We have taken the snapshot, but yeah, I'll leave that there. Let me see.
 
-(3:55 - 7:24)
-A few of the other questions. Yeah, I'm just not able to answer, guys. We have a great team with a wonderful advisor that is more knowledgeable in this space than anybody else I know. 
+A few of the other questions. Yeah, I'm just not able to answer, guys. We have a great team with a wonderful advisor that is more knowledgeable in this space than anybody else I know.
 
-So, appreciate some of your input. I ask that if you are purchasing in a coin that you do trust the team. If you don't, then we're probably not the coin for you. 
+So, appreciate some of your input. I ask that if you are purchasing in a coin that you do trust the team. If you don't, then we're probably not the coin for you.
 
-So, some of these questions, again, I'm sorry I cannot answer, but I do trust our team and I trust our advisor. I hope that with time you do, and again, if you don't, then I definitely suggest that this probably is not the coin for you. I would definitely suggest that you trust the team of whatever coin you're buying into. 
+So, some of these questions, again, I'm sorry I cannot answer, but I do trust our team and I trust our advisor. I hope that with time you do, and again, if you don't, then I definitely suggest that this probably is not the coin for you. I would definitely suggest that you trust the team of whatever coin you're buying into.
 
-I mean that in the best way possible. So, hopefully that's not taken the wrong way, but I think that's all the other questions I've received. Okay, let me see. 
+I mean that in the best way possible. So, hopefully that's not taken the wrong way, but I think that's all the other questions I've received. Okay, let me see.
 
-Oh, okay. So, as far as I see, James, I've gotten a few of you asking for tax-free transfers for just a little bit to move some of your coins around cold storage and so on. So, unfortunately we can not do that. 
+Oh, okay. So, as far as I see, James, I've gotten a few of you asking for tax-free transfers for just a little bit to move some of your coins around cold storage and so on. So, unfortunately we can not do that.
 
-That decision was just made because it would impact just the way everything is integrated with Change Now and Transact. It would impact the charts. It would impact the taxes. 
+That decision was just made because it would impact just the way everything is integrated with Change Now and Transact. It would impact the charts. It would impact the taxes.
 
-It would just impact too much for us to be able to do that. So, I'm really sorry. I tried everything I could to make that happen, but that is not something we can do while keeping the best interest of the coin and the holders in mind. 
+It would just impact too much for us to be able to do that. So, I'm really sorry. I tried everything I could to make that happen, but that is not something we can do while keeping the best interest of the coin and the holders in mind.
 
-So, yeah, for anybody that wanted to do that, I think the best route to take right now would just be keeping your coins in their current wallets. That's what I would do. In my opinion, that's what I would do. 
+So, yeah, for anybody that wanted to do that, I think the best route to take right now would just be keeping your coins in their current wallets. That's what I would do. In my opinion, that's what I would do.
 
-I would not transfer them and pay the 8%, but of course that's up to you. Um, Nolan says, are Vestavol login verification emails working properly for app logins on a new device to a pre-existing account? Yeah, they shouldn't be. Are you having a different experience? Are you not receiving the verification email? Hmm, okay, uh, let me forward this. 
+I would not transfer them and pay the 8%, but of course that's up to you. Um, Nolan says, are Vestavol login verification emails working properly for app logins on a new device to a pre-existing account? Yeah, they shouldn't be.
+
+Are you having a different experience? Are you not receiving the verification email? Hmm, okay, uh, let me forward this.
 
 We are working on simplifying. Okay, thanks. That's good to know.
 
-(7:25 - 8:23)
-We're working on simplifying the login process even further. Um, so I will forward that. Yeah, mine usually lands in spam or trash. 
+We're working on simplifying the login process even further. Um, so I will forward that. Yeah, mine usually lands in spam or trash.
 
-How is Apple App Store going? I'm not sure what that means. The update, I'm assuming we're just, uh, waiting on Apple. Does the airdrop go to smart and expert wallets separately? And if so, will we be able to get the seed phrases for both? Uh, so with the way, uh, that's a good question. 
+How is Apple App Store going? I'm not sure what that means. The update, I'm assuming we're just, uh, waiting on Apple.
+
+Does the airdrop go to smart and expert wallets separately? And if so, will we be able to get the seed phrases for both? Uh, so with the way, uh, that's a good question.
 
 As far as the airdrop, as far as, um, somebody laughed at that. I imagine Nolan did check spam. I imagine the robot probably did that.
 
-(8:23 - 9:11)
-Um, so I'm not sure as far as the airdrop, as far as smart wallet or expert wallet. Good question. I'll check on that. 
+Um, so I'm not sure as far as the airdrop, as far as smart wallet or expert wallet. Good question. I'll check on that.
 
-Um, but with the way the seed phrase works is, uh, no, you only have the seed phrase for the expert wallet. But I will update you on the first part of that question as soon as I get an answer. Okay, let me see. 
+Um, but with the way the seed phrase works is, uh, no, you only have the seed phrase for the expert wallet. But I will update you on the first part of that question as soon as I get an answer. Okay, let me see.
 
-Who is the advisor? Uh, he is anonymous. No sheepdog. Not yet.
+Who is the advisor? Uh, he is anonymous. No sheepdog.
 
-(9:14 - 10:30)
-Roadmap, uh, will be out the same week as airdrops. Hmm. Music. 
+Not yet. Roadmap, uh, will be out the same week as airdrops. Hmm.
 
-I don't, I don't think we have any music going on. Wait, what's James talking about? Airdrop before or after testing. Um, likely before testing. 
+Music. I don't, I don't think we have any music going on. Wait, what's James talking about?
 
-But I'm not positive on that yet. Hmm. That looks right, James. 
+Airdrop before or after testing. Um, likely before testing. But I'm not positive on that yet.
 
-Yeah, it looks like he's in the right voice channel. Airdrop in 2023. Yes, absolutely.
+Hmm. That looks right, James. Yeah, it looks like he's in the right voice channel.
 
-(10:37 - 10:47)
-I'm not sure about airdrop in the next 24 hours. I was assuming you meant, uh, community testing. I will update you guys on that.
+Airdrop in 2023. Yes, absolutely. I'm not sure about airdrop in the next 24 hours.
 
-(10:53 - 12:35)
-LP and pairing will be, is scheduled to be in the next 24 hours. I always got to be careful with that now because Murphy's Law, FJB curse, hopefully once we're completely transitioned to PPY. But again, our number one priority is getting this done right. 
+I was assuming you meant, uh, community testing. I will update you guys on that. LP and pairing will be, is scheduled to be in the next 24 hours.
 
-That's what Steve needs. Um, and that, that will always take priority, getting it done right and doing everything for the best interest of the coin versus getting it in a time crunch. I know you guys are not fans of that, but that will remain. 
+I always got to be careful with that now because Murphy's Law, FJB curse, hopefully once we're completely transitioned to PPY. But again, our number one priority is getting this done right. That's what Steve needs.
 
-Can we send other crypto to app? Yes, depending on what crypto. If it shows up in your wallet and has a receiving address, then you can send crypto there. Will the updated Patriot Pay app replace the current app listing in the app stores or will it have a new listing ID potentially with a different owner account name? So Google Play Store and Apple do things a little bit differently.
+Um, and that, that will always take priority, getting it done right and doing everything for the best interest of the coin versus getting it in a time crunch. I know you guys are not fans of that, but that will remain. Can we send other crypto to app?
 
-(12:36 - 15:42)
-It's likely that in the Google Play Store, it'll stay the same. Um, might not be the same for the Apple Store. If we add to the LP, it appears it would get taxed as a sell anyway to exempt LV contributions. 
+Yes, depending on what crypto. If it shows up in your wallet and has a receiving address, then you can send crypto there. Will the updated Patriot Pay app replace the current app listing in the app stores or will it have a new listing ID potentially with a different owner account name?
 
-Likewise, collecting fees from the pool would get taxed as a buy. Uh, good question. I will check with our advisor and I'll get back to you on that. 
+So Google Play Store and Apple do things a little bit differently. It's likely that in the Google Play Store, it'll stay the same. Um, might not be the same for the Apple Store.
 
-This question and Pablito's question so far. What will the marketing look like moving forward, mainly BNB or does the team have ideas? Will we do any group shows like the old days? Yes, absolutely. Um, our main marketing, um, I think, uh, stays as war room. 
+If we add to the LP, it appears it would get taxed as a sell anyway to exempt LV contributions. Likewise, collecting fees from the pool would get taxed as a buy. Uh, good question.
 
-Uh, we just gotta get the app to be very, very user friendly, uh, which by the looks of it, even after adding the seed freeze, you guys, some of you, uh, enough of you are still having issues with, and that's something we've been actively working on to simplify further and make absolutely dummy proof. I, uh, definitely sympathize with the frustrations you guys are having there. Uh, usually happens when you get a new device, or something of the like, and then it just starts a whole thing. 
+I will check with our advisor and I'll get back to you on that. This question and Pablito's question so far. What will the marketing look like moving forward, mainly BNB or does the team have ideas?
+
+Will we do any group shows like the old days? Yes, absolutely. Um, our main marketing, um, I think, uh, stays as war room.
+
+Uh, we just gotta get the app to be very, very user friendly, uh, which by the looks of it, even after adding the seed freeze, you guys, some of you, uh, enough of you are still having issues with, and that's something we've been actively working on to simplify further and make absolutely dummy proof. I, uh, definitely sympathize with the frustrations you guys are having there. Uh, usually happens when you get a new device, or something of the like, and then it just starts a whole thing.
 
 Um, but that will be our main marketing goal is war room. Um, mainly because there's really no better, uh, demographic for us to shill to basically, but yes, we'll definitely do our own group shills and then other marketing efforts. Um, I think war room will definitely be at the top of that list.
 
-(15:59 - 16:21)
-Are the wallets for XT and L bank being burnt? Um, so the way we look at it is for a total. The, we have 40 billion to start with. From there, we figure out what we need to airdrop and then, um, other payments we need to make.
+Are the wallets for XT and L bank being burnt? Um, so the way we look at it is for a total. The, we have 40 billion to start with.
 
-(16:23 - 19:06)
-We're not, that's basically how it's calculated or how we're calculating it. So to clarify, so LP is being set up before the airdrop. Again, guys, I will clarify. 
+From there, we figure out what we need to airdrop and then, um, other payments we need to make. We're not, that's basically how it's calculated or how we're calculating it. So to clarify, so LP is being set up before the airdrop.
 
-I don't have an answer. And once we have it, I will let you know. Either way, the contract, we have a function on the contract that disables and enables trading. 
+Again, guys, I will clarify. I don't have an answer. And once we have it, I will let you know.
 
-So trading will be disabled whether LP is in there or not, whether airdrops have happened or not. You guys will all get 24 hour notice, um, before trading is enabled. That way, uh, it's, we're not just enabling trading right away as soon as LP is in there or as soon as airdrops happen. 
+Either way, the contract, we have a function on the contract that disables and enables trading. So trading will be disabled whether LP is in there or not, whether airdrops have happened or not. You guys will all get 24 hour notice, um, before trading is enabled.
 
-And, uh, it's not, you know, that way everybody has a fair uh, notice. So will I be able to buy PPY through ChangeNow? Yes, absolutely. ChangeNow, Transac, SymbolSwap. 
+That way, uh, it's, we're not just enabling trading right away as soon as LP is in there or as soon as airdrops happen. And, uh, it's not, you know, that way everybody has a fair uh, notice. So will I be able to buy PPY through ChangeNow?
 
-Will there be a countdown clock? We could do the 24 hours for you guys to start testing. Sure. We'll set, uh, the maximum amount pretty low and then that way you all can test with, you know, the minimum. 
+Yes, absolutely. ChangeNow, Transac, SymbolSwap. Will there be a countdown clock?
 
-I believe the minimum is 8,000 PPY. Could that 24 hour notice happen at 3 a.m.? You know, that actually might be the case if that's what time we, uh, end up doing what we need to do. But again, it's not an issue. 
+We could do the 24 hours for you guys to start testing. Sure. We'll set, uh, the maximum amount pretty low and then that way you all can test with, you know, the minimum.
+
+I believe the minimum is 8,000 PPY. Could that 24 hour notice happen at 3 a.m.? You know, that actually might be the case if that's what time we, uh, end up doing what we need to do. But again, it's not an issue.
 
 The awesome thing about the contract is we added a ton of functions that will help us, uh, better manage everything. So that's, uh, great. The team really thought of every detail, which makes, uh, this a lot easier.
 
-(19:15 - 19:24)
-Who's going to be the face of FJB? You, James. You. The face of FJB needs to be Steve.
+Who's going to be the face of FJB? You, James. You.
 
-(19:31 - 19:53)
-During that 24 hour period, uh, I'm, I don't know if you're referring to the testing period. The coin limit will be the minimum, which is around 8,000 PPY. Uh, trading enabled by Christmas? Uh, we should at least be testing by Christmas.
+The face of FJB needs to be Steve. During that 24 hour period, uh, I'm, I don't know if you're referring to the testing period. The coin limit will be the minimum, which is around 8,000 PPY.
 
-(19:54 - 20:17)
-Yes. And again, I say that just because even though we've been testing, uh, an identical contract, you just never know, right? You just never know if once we get the LP and pairing in there that it'll, something will function differently. Uh, so that's why I say that.
+Uh, trading enabled by Christmas? Uh, we should at least be testing by Christmas. Yes.
 
-(20:17 - 22:39)
-You never know with testing, but, uh, we estimate that it will take us a day, 24 to 48 hours to test, and then take you guys another 24, 48 hours to test. And then after that, we're good. Does the enable, disable trading function exist in only the test contract or also in the final contract as well? It does exist in the final contract. 
+And again, I say that just because even though we've been testing, uh, an identical contract, you just never know, right? You just never know if once we get the LP and pairing in there that it'll, something will function differently. Uh, so that's why I say that.
 
-That's how we'll be able to get the pairing LP in there and, uh, have the team test before we get you all to test. 3 a.m. Phoenix time, Sam. I said that and Sam was like, mountain time, but it's not always mountain time. 
+You never know with testing, but, uh, we estimate that it will take us a day, 24 to 48 hours to test, and then take you guys another 24, 48 hours to test. And then after that, we're good. Does the enable, disable trading function exist in only the test contract or also in the final contract as well?
 
-Like, half the year, our time is mountain time, even though our time doesn't change, and then half the year, I think it's like, central. Or, I don't know, or just Arizona time. I don't know. 
+It does exist in the final contract. That's how we'll be able to get the pairing LP in there and, uh, have the team test before we get you all to test. 3 a.m. Phoenix time, Sam. I said that and Sam was like, mountain time, but it's not always mountain time. Like, half the year, our time is mountain time, even though our time doesn't change, and then half the year, I think it's like, central. Or, I don't know, or just Arizona time.
 
-We don't ever have to think about that here. We just have to Google Phoenix time. Is there a chance airdrop will happen this weekend or do they not work? Who's they? Because we, because we all work on the weekends. 
+I don't know. We don't ever have to think about that here. We just have to Google Phoenix time.
+
+Is there a chance airdrop will happen this weekend or do they not work? Who's they? Because we, because we all work on the weekends.
 
 Um, although it is Christmas Eve, uh, Christmas Eve weekend, I should say. Um, so, but yes, I think, uh, again, I'll update you as I find out more about that. It's, you know, a little tough because it is around Christmas, but I'm here and a few others on the team are here, so this person needs to try eight percent.
 
-(22:45 - 24:19)
-Are you going to use the Join Our Patriot mailing list emails collected on the website to give us the 24-hour notice? Um, we can. I have a feeling that might confuse some of the non-regulars, though. When is the BNB bot going to be swapped out from AtticBot? Oh yeah, um, I think one of the admins was on that, but I'm catching up. 
+Are you going to use the Join Our Patriot mailing list emails collected on the website to give us the 24-hour notice? Um, we can. I have a feeling that might confuse some of the non-regulars, though.
 
-I'm a little behind being under the weather, uh, with that kind of stuff, but we'll catch up on it. Can we push the airdrop to January? I have to pay tax on airdrops this year in my country as if it's all profit. I think we have to do that here. 
+When is the BNB bot going to be swapped out from AtticBot? Oh yeah, um, I think one of the admins was on that, but I'm catching up. I'm a little behind being under the weather, uh, with that kind of stuff, but we'll catch up on it.
 
-Excuse me. Do you have an opening price? 8,000 PPY seems a bit small. Yeah, that's why we're using that to test. 
+Can we push the airdrop to January? I have to pay tax on airdrops this year in my country as if it's all profit. I think we have to do that here.
 
-I think you'd have to make like 100 transactions to make like $300 in buys or something. Am I sleepy? No, I'm not sleepy, but I am definitely under the weather. Yeah, 8,000 will be the minimum and the maximum for the testing phase.
+Excuse me. Do you have an opening price? 8,000 PPY seems a bit small.
 
-(24:21 - 25:35)
-We'll have to adjust it if the maximum needs to be a little bit over that 8,000, but it'll be basically as low as we can get it as close as to that 8,000 that it will allow us while still giving us successful transactions. I know, I wonder how many other people got sick. It's the only place I ever went, left my house to, so... Any burn? Yes, of course there'll be a burn. 
+Yeah, that's why we're using that to test. I think you'd have to make like 100 transactions to make like $300 in buys or something. Am I sleepy?
 
-We're not sure how much we're burning yet. I'll let you guys know as soon as we have that. James has been on one.
+No, I'm not sleepy, but I am definitely under the weather. Yeah, 8,000 will be the minimum and the maximum for the testing phase. We'll have to adjust it if the maximum needs to be a little bit over that 8,000, but it'll be basically as low as we can get it as close as to that 8,000 that it will allow us while still giving us successful transactions.
 
-(25:40 - 28:27)
-Yeah, if you are waiting, if you have a... Okay, if you... Yes, I do not recommend... I definitely don't recommend selling your FJB if you're waiting. There's others who did not move their coins from LBANK or XT. I have been suggesting that that is an option for them since Snapshot was taken while their coins were in XT and LBANK. 
+I know, I wonder how many other people got sick. It's the only place I ever went, left my house to, so... Any burn?
 
-That's an option for them since FJB is still alive to sell their coins. That's what I would do and then just wait till PPY is live to buy PPY. For those of you who had your FJB coins in a DEX wallet like Trust Wallet or Metamask, I do not recommend selling your coins. 
+Yes, of course there'll be a burn. We're not sure how much we're burning yet. I'll let you guys know as soon as we have that.
 
-I would not until you've received your airdrop, but that's just me. 8,000 per person in the 24 hours or can we buy 8,000 several times? No, we want you guys to test it so you'll be able to buy, sell, trade those 8,000 just 8,000 at a time. We just want to confirm that everything works as intended. 
+James has been on one. Yeah, if you are waiting, if you have a... Okay, if you...
 
-Again, we've been testing it on an identical contract, but you know, you can never be too careful. You want to make sure everything's working correctly. So if we want to load up, we can't until the testing is over and we go live. 
+Yes, I do not recommend... I definitely don't recommend selling your FJB if you're waiting. There's others who did not move their coins from LBANK or XT.
 
-Correct. Yeah, we'll have the max around the 8,000 coins until testing is complete. Then you can buy as much as you'd like. 
+I have been suggesting that that is an option for them since Snapshot was taken while their coins were in XT and LBANK. That's an option for them since FJB is still alive to sell their coins. That's what I would do and then just wait till PPY is live to buy PPY.
 
-What about FJB and cold storage? Did the Snapshot capture those as well? And how will we receive the airdrop and cold storage? I mean, cold storage, you're still on the blockchain. So I will double check on this question. But yes, you should be fine for that airdrop.
+For those of you who had your FJB coins in a DEX wallet like Trust Wallet or Metamask, I do not recommend selling your coins. I would not until you've received your airdrop, but that's just me. 8,000 per person in the 24 hours or can we buy 8,000 several times?
 
-(28:29 - 29:25)
-8,000 minimum and max buy or just 8,000 minimum? 8,000 minimum and the max will be very close to that 8,000 if it needs to be any much higher. This is referring to testing, but you'll be able to test with as many transactions as you'd like just for us to figure out any bugs that need to be taken care of or any adjustments we need to make. What's really cool about our very custom contract that was built from scratch is that it's an upgradable contract, which is really fascinating and took a ton more time, but I'm very glad we did that.
+No, we want you guys to test it so you'll be able to buy, sell, trade those 8,000 just 8,000 at a time. We just want to confirm that everything works as intended. Again, we've been testing it on an identical contract, but you know, you can never be too careful.
 
-(29:30 - 30:24)
-This project will only be as good as we can market it. Who's in charge of thinking outside the box and presenting this as something more valuable than a pump and dump or will only take What? Sir, are you familiar with Warren? Do you know how many followers Steve has? I'm not saying we don't have any other marketing, but I really am not sure. Other than than Trump himself, I'm not sure that anybody would market a product like this better than Steve himself. 
+You want to make sure everything's working correctly. So if we want to load up, we can't until the testing is over and we go live. Correct.
+
+Yeah, we'll have the max around the 8,000 coins until testing is complete. Then you can buy as much as you'd like. What about FJB and cold storage?
+
+Did the Snapshot capture those as well? And how will we receive the airdrop and cold storage? I mean, cold storage, you're still on the blockchain.
+
+So I will double check on this question. But yes, you should be fine for that airdrop. 8,000 minimum and max buy or just 8,000 minimum?
+
+8,000 minimum and the max will be very close to that 8,000 if it needs to be any much higher. This is referring to testing, but you'll be able to test with as many transactions as you'd like just for us to figure out any bugs that need to be taken care of or any adjustments we need to make. What's really cool about our very custom contract that was built from scratch is that it's an upgradable contract, which is really fascinating and took a ton more time, but I'm very glad we did that.
+
+This project will only be as good as we can market it. Who's in charge of thinking outside the box and presenting this as something more valuable than a pump and dump or will only take What? Sir, are you familiar with Warren?
+
+Do you know how many followers Steve has? I'm not saying we don't have any other marketing, but I really am not sure. Other than than Trump himself, I'm not sure that anybody would market a product like this better than Steve himself.
 
 Steve has 6 million followers on Getter. Probably more now. That's the last time I checked.
 
-(30:35 - 31:03)
-Has the PPY price during the testing period been determined yet? Will that be opening launch bid? No, because that will literally depend. The price is going to depend on literally that the exact time we are transferring the LPN and pairing it. That's not something that could be done ahead of time.
+Has the PPY price during the testing period been determined yet? Will that be opening launch bid? No, because that will literally depend.
 
-(31:04 - 33:40)
-I mean, it can be, but it's not going to be the most accurate. Any time for tax-free moving? Nope, I reviewed that at the beginning of the call. I'm sorry, I did everything I could, but if we were to do tax-free transfers, that would really impact a few major things negatively, mainly with change now. 
+The price is going to depend on literally that the exact time we are transferring the LPN and pairing it. That's not something that could be done ahead of time. I mean, it can be, but it's not going to be the most accurate.
 
-That is definitely not in the best interest of the coin or the holders. Unfortunately, I'm really sorry. I promise I seriously tried my hardest, but unfortunately, we cannot do that. 
+Any time for tax-free moving? Nope, I reviewed that at the beginning of the call. I'm sorry, I did everything I could, but if we were to do tax-free transfers, that would really impact a few major things negatively, mainly with change now.
 
-We can't do the... My idea was just doing a temporary 0% on transfers to give you guys the ability to do that, but we can't do that without impacting the coin negatively. It depends on how willing Bannon is to show this. Yes, and Steve just needs this done right, hence all the time we've taken to make sure everything is done correctly, no matter how much time it's taken. 
+That is definitely not in the best interest of the coin or the holders. Unfortunately, I'm really sorry. I promise I seriously tried my hardest, but unfortunately, we cannot do that.
 
-We just need it done. We're almost done with the blockchain part of it, and we're getting close on the app front of it. Didn't you say we'll go live only after the updated PPY app is available in Google, Apple, and Play Store? As far as marketing, yes, because that would be very confusing for users to download an app that's called Freedom Jobs Business, and it pops up with Patriot Pay, and a lot of confusion there. 
+We can't do the... My idea was just doing a temporary 0% on transfers to give you guys the ability to do that, but we can't do that without impacting the coin negatively. It depends on how willing Bannon is to show this.
 
-We're not trying to confuse new users, but... Okay. Sorry, this is moving. James says I was stuck in the damn... Excuse me. 
+Yes, and Steve just needs this done right, hence all the time we've taken to make sure everything is done correctly, no matter how much time it's taken. We just need it done. We're almost done with the blockchain part of it, and we're getting close on the app front of it.
 
-Excuse me. Wow. James says I was stuck in the damn music room.
+Didn't you say we'll go live only after the updated PPY app is available in Google, Apple, and Play Store? As far as marketing, yes, because that would be very confusing for users to download an app that's called Freedom Jobs Business, and it pops up with Patriot Pay, and a lot of confusion there. We're not trying to confuse new users, but...
 
-(33:47 - 34:02)
-James has been really funny lately. Will we have to buy BNB... Will we have to buy BNB first, then... Wait. It's moving too fast.
+Okay. Sorry, this is moving. James says I was stuck in the damn...
 
-(34:03 - 36:04)
-Will we have to buy BNB first, then transfer to FJB? It doesn't appear that we can buy FJB directly. You can't right now, but you will be able to once we hit the button on our end. Okay, then. 
+Excuse me. Excuse me. Wow.
 
-Will all my PPY be put to one wallet or separate like FJB was an app? If you're talking about Smart Wallet and Expert Wallet, they will still be separate. What else? Let's see. What will the tax rates be set to? We're still starting at eight, and I believe off the top of my head we're doing 611, but again, once that's live, you guys will get that before testing. 
+James says I was stuck in the damn music room. James has been really funny lately. Will we have to buy BNB...
 
-Before you begin testing. Gwen Swigety. Who is Swigety? I need to know. 
+Will we have to buy BNB first, then... Wait. It's moving too fast.
 
-It's somebody who really passionately hates LC. I haven't seen him say much about me, so I don't know if it's somebody that like passionately hates me. I'm not sure if I've seen him mention my name much.
+Will we have to buy BNB first, then transfer to FJB? It doesn't appear that we can buy FJB directly. You can't right now, but you will be able to once we hit the button on our end.
 
-(36:15 - 38:04)
-Any communication with Info or Store about integration? Maybe. Since Polygon is going up in price, is P2P's price going up too? I guess we'll find out. LP hasn't been added, so PPY doesn't have a price at the moment. 
+Okay, then. Will all my PPY be put to one wallet or separate like FJB was an app? If you're talking about Smart Wallet and Expert Wallet, they will still be separate.
 
-If the LP is split 50-50, then a rise in the price of MATIC should cause a rise in the total value of the LP unless a higher market cap of PBY and a higher price per token. Can we name James Chief Technology Officer? That's a pretty good one. James, what the F did I do to you? Which is better to use, Smart Wallet or Expert Wallet? I think that depends on... I think there's a few factors to that on how much crypto you know.
+What else? Let's see. What will the tax rates be set to?
 
-(38:06 - 39:47)
-I personally prefer the Expert Wallet, but you're going to have to have gas like you would any other wallet. I like it because you have your seed phrase there that you can go and plug into, trust wallet, and access your wallet from there too. And I just use a service like ChangeNow or SimpleSwap to get gas into my wallet. 
+We're still starting at eight, and I believe off the top of my head we're doing 611, but again, once that's live, you guys will get that before testing. Before you begin testing. Gwen Swigety.
 
-But a lot of people, if they don't use, if they don't have other wallets, then it gets confusing. Then you have to find somebody to send you gas into your wallet, and it gets complicated. I'm sure others have their own opinions too. 
+Who is Swigety? I need to know. It's somebody who really passionately hates LC.
 
-The Smart Wallet is nice because it takes care of all of that for you. But me personally, I prefer the Expert Wallet. Do we have any idea about the value of the PBY token when it drops? Will it start from where FJB left off at around 0.00032? It should be close to that. 
+I haven't seen him say much about me, so I don't know if it's somebody that like passionately hates me. I'm not sure if I've seen him mention my name much. Any communication with Info or Store about integration?
 
-It's going to depend on how much the LP has moved. I'm pretty sure it increased a bit. So yeah, it should be fairly close to there.
+Maybe. Since Polygon is going up in price, is P2P's price going up too? I guess we'll find out.
 
-(39:52 - 40:06)
-But I'll let you guys know. And you'll have all this information before trading is enabled. Again, I will give you a 24-hour notice before trading is enabled.
+LP hasn't been added, so PPY doesn't have a price at the moment. If the LP is split 50-50, then a rise in the price of MATIC should cause a rise in the total value of the LP unless a higher market cap of PBY and a higher price per token. Can we name James Chief Technology Officer?
 
-(40:12 - 42:16)
-1%, 2 LP. Yes, very excited about a percentage to LP. This is actually V1, correct, since it forked, FJB dead, PBY version 1. Yes. 
+That's a pretty good one. James, what the F did I do to you? Which is better to use, Smart Wallet or Expert Wallet?
 
-FJB is still alive though. Will you please post instructions for using Polygonmatic for those in TrustWallet? Yes, absolutely. We'll likely post written instructions and a screen recording. 
+I think that depends on... I think there's a few factors to that on how much crypto you know. I personally prefer the Expert Wallet, but you're going to have to have gas like you would any other wallet.
 
-We just can't do the screen recording until the pairing's done, LP's in there, to have it be as accurate as possible. What are we needing for gas so we can be ready for the 24-hour blitz? Matic, Matic, Matic, Matic. I thought in the days of Velo, we were told the gas in the Smart Wallet would be taken care of automatically. 
+I like it because you have your seed phrase there that you can go and plug into, trust wallet, and access your wallet from there too. And I just use a service like ChangeNow or SimpleSwap to get gas into my wallet. But a lot of people, if they don't use, if they don't have other wallets, then it gets confusing.
 
-Did you just confirm that? Yes. The Smart Wallet idea is to have the wallet take care of gas. For example, if you have PBY in there and you go sell it for USDT, and generally for USDT, say you want to then transfer that out, you're going to need Ethereum and the Smart Wallet, what it does is it allows you to do that by taking the little bit of that USDT you have to pay for that gas.
+Then you have to find somebody to send you gas into your wallet, and it gets complicated. I'm sure others have their own opinions too. The Smart Wallet is nice because it takes care of all of that for you.
 
-(42:20 - 43:26)
-Basically, a wallet in the background pays it for you and then you pay it back out of your transaction. What else? Sorry, I'm trying to go through. Where will instructional information be posted? Will you post those videos and dedicated channels as files so that we can forward them easily? Yes, we can also post them on the website as long as Dogbone lets us.
+But me personally, I prefer the Expert Wallet. Do we have any idea about the value of the PBY token when it drops? Will it start from where FJB left off at around 0.00032?
 
-(43:35 - 45:28)
-Oh yeah, where is Turok? Turok, where are you? That's what my African Grey says. Where are you? Flute, what is wrong with you? Why are you guys always- you and Egg are always trying to make me throw up, I think. When moving FJBPPY from one wallet to another, will we then still have to pay sales tax or will this bug be fixed? That's not a bug and no, you will still need to pay tax, so I encourage leaving your coins in the wallets. 
+It should be close to that. It's going to depend on how much the LP has moved. I'm pretty sure it increased a bit.
 
-Ew, oh my gosh, what is wrong with you? Why do you guys do this? Why do you guys do that to me? Oh, Turok, oh yeah, I'll have to check. I know he was a baby FJB fan. He's a good guy, like most of you all are, until you have a crazy day.
+So yeah, it should be fairly close to there. But I'll let you guys know. And you'll have all this information before trading is enabled.
 
-(45:44 - 46:17)
-What else? I know a few of you are still waiting on Transac accounts. They've been busy with our other tasks at hand, so I did ping them a few times in the past few days. Uh, we do have somebody on that and we'll likely have a new internal.
+Again, I will give you a 24-hour notice before trading is enabled. 1%, 2 LP. Yes, very excited about a percentage to LP.
 
-(46:32 - 48:01)
-Uh, excuse me, um, is there a function in the contract to exempt specific addresses from tax? I don't see merchants customers opting to use an 8% fee network as opposed to a fraction of 1% or even more. Uh, yes, there is a function in the contract to exempt uh, specific addresses from tax and there's a different function to assign different taxes to merchants. Oh, that's so sweet. 
+This is actually V1, correct, since it forked, FJB dead, PBY version 1. Yes. FJB is still alive though.
 
-Thank you. Um, with the new contract not being multi-sig, yes, we could not put multi-sig on a proxy. Who holds the keys? Uh, that hasn't changed.
+Will you please post instructions for using Polygonmatic for those in TrustWallet? Yes, absolutely. We'll likely post written instructions and a screen recording.
 
-(48:07 - 49:08)
+We just can't do the screen recording until the pairing's done, LP's in there, to have it be as accurate as possible. What are we needing for gas so we can be ready for the 24-hour blitz? Matic, Matic, Matic, Matic.
+
+I thought in the days of Velo, we were told the gas in the Smart Wallet would be taken care of automatically. Did you just confirm that? Yes.
+
+The Smart Wallet idea is to have the wallet take care of gas. For example, if you have PBY in there and you go sell it for USDT, and generally for USDT, say you want to then transfer that out, you're going to need Ethereum and the Smart Wallet, what it does is it allows you to do that by taking the little bit of that USDT you have to pay for that gas. Basically, a wallet in the background pays it for you and then you pay it back out of your transaction.
+
+[Speaker 2]
+What else?
+
+[Speaker 1]
+Sorry, I'm trying to go through. Where will instructional information be posted? Will you post those videos and dedicated channels as files so that we can forward them easily?
+
+Yes, we can also post them on the website as long as Dogbone lets us. Oh yeah, where is Turok? Turok, where are you?
+
+That's what my African Grey says. Where are you? Flute, what is wrong with you?
+
+Why are you guys always- you and Egg are always trying to make me throw up, I think. When moving FJBPPY from one wallet to another, will we then still have to pay sales tax or will this bug be fixed? That's not a bug and no, you will still need to pay tax, so I encourage leaving your coins in the wallets.
+
+Ew, oh my gosh, what is wrong with you? Why do you guys do this? Why do you guys do that to me?
+
+Oh, Turok, oh yeah, I'll have to check. I know he was a baby FJB fan. He's a good guy, like most of you all are, until you have a crazy day.
+
+What else? I know a few of you are still waiting on Transac accounts. They've been busy with our other tasks at hand, so I did ping them a few times in the past few days.
+
+Uh, we do have somebody on that and we'll likely have a new internal. Uh, excuse me, um, is there a function in the contract to exempt specific addresses from tax? I don't see merchants customers opting to use an 8% fee network as opposed to a fraction of 1% or even more.
+
+Uh, yes, there is a function in the contract to exempt uh, specific addresses from tax and there's a different function to assign different taxes to merchants. Oh, that's so sweet. Thank you.
+
+Um, with the new contract not being multi-sig, yes, we could not put multi-sig on a proxy. Who holds the keys? Uh, that hasn't changed.
+
 Yep, that person will need security. I'm looking to, uh, I'm looking to move and I keep, uh, bringing my, like, weather app up. So we have Missouri, Arkansas, and Tennessee.
 
-(49:20 - 50:46)
-So we'll just move in the middle there. I think that should be secure, right? Uh, wherever the, like, nicest people are out of those few. Huh, okay. 
+So we'll just move in the middle there. I think that should be secure, right? Uh, wherever the, like, nicest people are out of those few.
 
-Jeez, you guys killed me? What is wrong with you? Of course the robot's just morbid. Oh, can they hear me? That's weird. Does somebody mute me? Hello? Hello? Hello? Thanks, Flute. 
+Huh, okay. Jeez, you guys killed me? What is wrong with you?
 
-Flute, you're like the, the angriest pothead. Endless morbid. Weird, I don't know if somebody muted me.
+Of course the robot's just morbid. Oh, can they hear me? That's weird.
 
-(50:53 - 52:36)
-Seems like y'all can hear me. Sorry, guys, I'm still here. Hmm, any word on staking or reflections? Um, no. 
+Does somebody mute me? Hello? Hello?
+
+Hello? Thanks, Flute. Flute, you're like the, the angriest pothead.
+
+Endless morbid. Weird, I don't know if somebody muted me. Seems like y'all can hear me.
+
+Sorry, guys, I'm still here. Hmm, any word on staking or reflections? Um, no.
 
 So with all the additions we added to the app, we had to decide, um, and we decided to go with, uh, basically just with the way we wanted it to be. So we decided to go with a percentage to LP, um, for multiple reasons. Um, so the team decided on a percentage to LP, which is a percentage to LP of all the functions which is a percentage of your transaction taxes going to LP, which would benefit the coin and the holders in the long term, we feel, um, with more benefits than staking or reflections.
 
-(52:42 - 54:15)
-Southern border is only like three hours away, too. Okay. Is baby FJB getting an assist? What does that mean? Sorry, a little, a little slow here today. 
+Southern border is only like three hours away, too. Okay. Is baby FJB getting an assist?
 
-I'm gonna need clarification. I'm a noob, can you, I'm a noob, I'm assuming, can you describe how 1% to LP helps holders? Uh, so that's going to be a percentage of each, excuse me, um, sale, any sale, any buy, any transfer, um, is going to go to the LP, uh, which will help, I mean, a higher LP is, I'm not sure if I can say deflationary, um, but that's the idea. Um, so even if somebody is selling, we're going to have a percentage of that tax on the LP, which is the liquidity in the coin.
+What does that mean? Sorry, a little, a little slow here today. I'm gonna need clarification.
 
-(54:16 - 55:24)
-Um, this helps, um, I don't want to say increase the price of the coin, but increasing liquidity should definitely help stabilize at least the charts. Generally, when somebody buys, there's a percentage of that going into the LP, right? So now we're making sure a percentage of each transaction's going there. Oh, I apologize for, uh, the sniffles.
+I'm a noob, can you, I'm a noob, I'm assuming, can you describe how 1% to LP helps holders? Uh, so that's going to be a percentage of each, excuse me, um, sale, any sale, any buy, any transfer, um, is going to go to the LP, uh, which will help, I mean, a higher LP is, I'm not sure if I can say deflationary, um, but that's the idea. Um, so even if somebody is selling, we're going to have a percentage of that tax on the LP, which is the liquidity in the coin.
 
-(55:47 - 56:09)
-What else? Merry Christmas, Russ. Russell Big Guns. We all know how Steve feels about inflation.
+Um, this helps, um, I don't want to say increase the price of the coin, but increasing liquidity should definitely help stabilize at least the charts. Generally, when somebody buys, there's a percentage of that going into the LP, right? So now we're making sure a percentage of each transaction's going there.
 
-(56:33 - 57:56)
-Anything else? Let me check an email to see if, uh, I know I've gotten several emails, probably you guys as friends, I imagine, not regular, asking why the price is low. Of course, you all know that answer. The liquidity has been pulled from FJB. 
+Oh, I apologize for, uh, the sniffles. What else? Merry Christmas, Russ.
 
-We are forking into PPY. As soon as that liquidity is back in there and paired, we should be a lot closer to the price we were just a few days ago before LP was pulled. Yes, yes, yes. 
+Russell Big Guns. We all know how Steve feels about inflation. Anything else?
 
-Merry Christmas. I've still not bought one gift, um, that was supposed to happen this week, but that has not happened yet. Uh, anything else? I don't have anything in my emails.
+Let me check an email to see if, uh, I know I've gotten several emails, probably you guys as friends, I imagine, not regular, asking why the price is low. Of course, you all know that answer. The liquidity has been pulled from FJB.
 
-(58:07 - 59:26)
-Uh, I know there was somebody with a similar name and avatar in Telegram today asking people if they, uh, can send them some funds, so please watch out for that. Remember that me and the will never DM you first and we definitely won't ask you to send us money or ask for your seed phrase or give you links to click on or links to type into your browser, so please just be careful right now would not be a good time for that to happen. Again, I will keep you updated as everything moves along. 
+We are forking into PPY. As soon as that liquidity is back in there and paired, we should be a lot closer to the price we were just a few days ago before LP was pulled. Yes, yes, yes.
 
-Please remember that our priority still is that we get everything done correctly and for the best interest of you all and the coin, so the time getting it done as quickly as possible is not top priority, although of course we do try to get everything done as, you know, as quickly as we possibly can, but again that's definitely not the priority. So please keep that in mind. I will keep you updated as soon as I have updates.
+Merry Christmas. I've still not bought one gift, um, that was supposed to happen this week, but that has not happened yet. Uh, anything else?
 
-(59:27 - 1:00:32)
-Uh, everything so far is going so well and as expected, but we'll see here how testing goes in the next, uh, well, this weekend really. Uh, I should be good all day tomorrow and then Sunday. I don't think we're, I don't think we're passing out food at the church. 
+I don't have anything in my emails. Uh, I know there was somebody with a similar name and avatar in Telegram today asking people if they, uh, can send them some funds, so please watch out for that. Remember that me and the will never DM you first and we definitely won't ask you to send us money or ask for your seed phrase or give you links to click on or links to type into your browser, so please just be careful right now would not be a good time for that to happen.
 
-I still need to pick up and make church boxes for everybody that attends that church, but I think we'll make a post that we're not doing that on Christmas Eve, so it should be done fairly quickly there and back to testing here. Um, other than that, all your friends who did not move their coins off LBANK or XT, um, again, I'm really sorry, but we've given you months of a heads up, so I would suggest if it were me, and in my opinion, I would move my coins to a trust wallet and sell them there and just have those funds ready and transferred into MATIC to buy PPY. That is just what I would do.
+Again, I will keep you updated as everything moves along. Please remember that our priority still is that we get everything done correctly and for the best interest of you all and the coin, so the time getting it done as quickly as possible is not top priority, although of course we do try to get everything done as, you know, as quickly as we possibly can, but again that's definitely not the priority. So please keep that in mind.
 
-(1:00:33 - 1:01:28)
-Alternatively, you can keep those coins in, uh, FJB. The coin's not dead. It will be alive for pretty much forever. 
+I will keep you updated as soon as I have updates. Uh, everything so far is going so well and as expected, but we'll see here how testing goes in the next, uh, well, this weekend really. Uh, I should be good all day tomorrow and then Sunday.
 
-Uh, Steve does love FJB, um, so you never know. Uh, as far as you asking if you can sell your coins before you receive your PPY, that is totally up to you. Not something I would recommend, um, and again, keep in mind that that's all I'll say. 
+I don't think we're, I don't think we're passing out food at the church. I still need to pick up and make church boxes for everybody that attends that church, but I think we'll make a post that we're not doing that on Christmas Eve, so it should be done fairly quickly there and back to testing here. Um, other than that, all your friends who did not move their coins off LBANK or XT, um, again, I'm really sorry, but we've given you months of a heads up, so I would suggest if it were me, and in my opinion, I would move my coins to a trust wallet and sell them there and just have those funds ready and transferred into MATIC to buy PPY.
 
-That Steve, Steve, uh, really, really, really likes FJB coin, um, so that's all I'll say about that right there. Uh, yeah, I'll make sure to keep you updated and give you plenty of notice, so don't worry about that there. Uh, yeah, I think that's everything.
+That is just what I would do. Alternatively, you can keep those coins in, uh, FJB. The coin's not dead.
 
-(1:01:31 - 1:02:12)
-Uh, will the price hold for the 24-hour period or will it fluctuate normally? Um, so I'm assuming you're talking during testing with as low of a transaction maximum as we're setting. Uh, price should not move much. Hehehe, hang on. 
+It will be alive for pretty much forever. Uh, Steve does love FJB, um, so you never know. Uh, as far as you asking if you can sell your coins before you receive your PPY, that is totally up to you.
 
-So Steve definitely, uh, pulled a hehehehe hang on, on me this last week. I should have recorded it. Hehehehe, it was good.
+Not something I would recommend, um, and again, keep in mind that that's all I'll say. That Steve, Steve, uh, really, really, really likes FJB coin, um, so that's all I'll say about that right there. Uh, yeah, I'll make sure to keep you updated and give you plenty of notice, so don't worry about that there.
 
-(1:02:14 - 1:02:19)
-Happy holidays, if you celebrate. I do. Merry Christmas to you all.
+Uh, yeah, I think that's everything. Uh, will the price hold for the 24-hour period or will it fluctuate normally? Um, so I'm assuming you're talking during testing with as low of a transaction maximum as we're setting.
 
-(1:02:22 - 1:02:59)
-Hanukkah, what else is there? Christmas, Hanukkah, is that all there is right now? Is Kwanzaa around this time too? You're very welcome. Um, okay, I think that's everything. I did record this. 
+Uh, price should not move much. Hehehe, hang on. So Steve definitely, uh, pulled a hehehehe hang on, on me this last week.
 
-Let me make sure. Yep, um, so maybe I'll use Nolan's nifty transcript service that you all seem to love, so Nolan doesn't have to do it. Um, and then I will get this posted for you all.
+I should have recorded it. Hehehehe, it was good. Happy holidays, if you celebrate.
 
-(1:03:00 - 1:03:47)
-Let me know if you need anything else. In the meantime, uh, tag me, uh, DM, email, you guys know the drill. Text, call if you need to. 
+I do. Merry Christmas to you all. Hanukkah, what else is there?
 
-Um, somebody must have shared my number because I've gotten a lot of texts lately. Legitimate texts, I will say. No, no, like, nothing crazy, but I imagine somebody probably shared my number, I think, because I haven't had that many people ask for it. 
+Christmas, Hanukkah, is that all there is right now? Is Kwanzaa around this time too? You're very welcome.
 
-Um, but yeah, anything works. Whatever makes it easier for you guys, feel free to reach out, and I will talk to you soon. I will update you in the next 24 hours with some updates. 
+Um, okay, I think that's everything. I did record this. Let me make sure.
 
-Uh, you all have a great night. Uh, please be safe out there.
+Yep, um, so maybe I'll use Nolan's nifty transcript service that you all seem to love, so Nolan doesn't have to do it. Um, and then I will get this posted for you all. Let me know if you need anything else.
+
+In the meantime, uh, tag me, uh, DM, email, you guys know the drill. Text, call if you need to. Um, somebody must have shared my number because I've gotten a lot of texts lately.
+
+Legitimate texts, I will say. No, no, like, nothing crazy, but I imagine somebody probably shared my number, I think, because I haven't had that many people ask for it. Um, but yeah, anything works.
+
+Whatever makes it easier for you guys, feel free to reach out, and I will talk to you soon. I will update you in the next 24 hours with some updates. Uh, you all have a great night.
+
+Uh, please be safe out there.

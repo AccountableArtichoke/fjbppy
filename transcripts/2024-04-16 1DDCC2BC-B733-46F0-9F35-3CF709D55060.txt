@@ -1,146 +1,141 @@
-(0:03 - 0:44)
+[Speaker 1]
 Hello, happy Tuesday, hope everybody had a great weekend. I was actually going to postpone this, but decided to jump on anyway in case you guys have any other questions, I'll record and post. However, we are waiting for a big meeting tomorrow morning, 10am my time, so I'm hoping to have an update then after that meeting.
 
-(0:45 - 1:44)
 I don't think I've received any questions in DMs. Let me see, looks like Matic is still down. Whoops, sorry, can you hear me on Telegram? Sorry, I was muted on Telegram.
 
-(1:45 - 1:59)
 Happy Tuesday, we've got the reporter going. Thanks, that's what happens when I don't check. Hope everybody had a good weekend.
 
-(2:01 - 2:26)
 I was actually going to postpone this voice call until tomorrow because we have a big meeting tomorrow morning, my time at 10am, but decided to jump on anyway in case you all had any questions, that way I could post and record. I haven't received any questions in DMs, or pretty sure, or emails. I checked just a bit ago, but let me check just in case.
 
-(2:29 - 3:18)
 We are all, so I think last voice chat I did share with you that the double tax issue on the PPY was fixed, and then shortly after that we got the stablecoin issue fixed. There's still a little bug, but it's not a big deal for us to just continue and go ahead and get you all to transfer your funds, add up your smart wallets if you have them. We just gotta wait on the dev for something, and again, I should have a better update tomorrow after that 10am dev meeting.
 
-(3:20 - 3:57)
-Doesn't look like I have anything in emails either, actually. Yep, I got nothing there. We will have Steve's and Boris' wallets by the end of the week.
+[Speaker 2]
+Doesn't look like I have anything in emails either, actually. Yep, I got nothing there.
 
-(3:58 - 4:52)
-So those funds will be transferred to their new wallets by the end of this week. What the heck is going on in Discord, gee. Okay, is the team preparing for a voice chat with SKB or Boris pre-launch? Yes, Boris is a little busy right now, but Steve should be.
+[Speaker 1]
+We will have Steve's and Boris' wallets by the end of the week. So those funds will be transferred to their new wallets by the end of this week. What the heck is going on in Discord, gee.
 
-(4:54 - 5:28)
-Okay, after Steve and Boris have their wallets, will the remaining burn happen immediately? No, because our main holdup is for partners we're partnering with who we will give PPY to. Let's do some burn though. You guys are here.
+Okay, is the team preparing for a voice chat with SKB or Boris pre-launch? Yes, Boris is a little busy right now, but Steve should be. Okay, after Steve and Boris have their wallets, will the remaining burn happen immediately?
 
-(5:34 - 6:21)
+No, because our main holdup is for partners we're partnering with who we will give PPY to. Let's do some burn though. You guys are here.
+
 Gee, the last few voice chats, I feel like I get all the updates while I'm with you guys. You guys have been pretty quiet. I've seen Nolan and Mike, I saw those pop up all day.
 
-(6:45 - 8:26)
-Where's that? Oh, sweet, Steve's about to get his wallet, yes. Steve and Boris. No, you don't need to send me your wallet addresses to send their funds there.
+[Speaker 2]
+Where's that?
 
-(8:27 - 9:19)
-I've gotten a few very generously off of that. Forgot to reply to that. Has the Twitter not posting? Social media in general.
+[Speaker 1]
+Oh, sweet, Steve's about to get his wallet, yes. Steve and Boris. No, you don't need to send me your wallet addresses to send their funds there.
 
-(9:20 - 9:57)
-We have some changes happening on the back end. But all social media will be active again as soon as our app is ready. We are still very much answering support tickets on all socials.
+I've gotten a few very generously off of that.
 
-(9:59 - 10:51)
-That's our priority on socials until we have everything working as intended. Russ says he's pretty social. What did I miss in the cooking channel? Apparently something.
+[Speaker 2]
+Forgot to reply to that.
 
-(11:18 - 11:42)
-Will social media post about the coin wallet or only news? It'll be a mix. The issue with posting about only the coin or wallet is generally any business that's where people will not follow you. Because at that point it's just a bunch of marketing you're doing.
+[Speaker 1]
+Has the Twitter not posting? Social media in general. We have some changes happening on the back end.
 
-(11:45 - 12:05)
-When we had influencers on our socials, for example Instagram, we had a lot of growth from there. I'd say most of our support tickets are still there. You don't see them because they're mainly in DMs.
+But all social media will be active again as soon as our app is ready. We are still very much answering support tickets on all socials. That's our priority on socials until we have everything working as intended.
 
-(12:09 - 12:29)
-But I'd say the most growth we had was from Instagram. That may have changed since it's been a few years. It seems like there's more conservatives on Twitter now.
+Russ says he's pretty social. What did I miss in the cooking channel? Apparently something.
 
-(12:29 - 12:41)
+Will social media post about the coin wallet or only news? It'll be a mix. The issue with posting about only the coin or wallet is generally any business that's where people will not follow you.
+
+Because at that point it's just a bunch of marketing you're doing. When we had influencers on our socials, for example Instagram, we had a lot of growth from there. I'd say most of our support tickets are still there.
+
+You don't see them because they're mainly in DMs. But I'd say the most growth we had was from Instagram. That may have changed since it's been a few years. It seems like there's more conservatives on Twitter now.
+
 Or maybe they're just not being silenced as much. Truth wasn't a thing at the time. So yeah.
 
-(12:41 - 13:14)
-But I think it'll be different when accounts bigger than ours are pushing the app and the token. Late or revive yet? No, I was actually going to postpone this. But I know some of you don't like when I do that.
+But I think it'll be different when accounts bigger than ours are pushing the app and the token. Late or revive yet? No, I was actually going to postpone this.
 
-(13:14 - 13:29)
-I have a meeting at 10 a.m. tomorrow morning. I should have an update for you all. Because we have everything done for you all to move your funds out.
+But I know some of you don't like when I do that. I have a meeting at 10 a.m. tomorrow morning. I should have an update for you all.
 
-(13:31 - 13:46)
-Minor bug, but work for you all to get your funds out. And we won't stay on Ethereum. It's just to get everybody out of there and then shouldn't be an issue after that.
+Because we have everything done for you all to move your funds out. Minor bug, but work for you all to get your funds out. And we won't stay on Ethereum.
 
-(13:50 - 14:48)
-Sorry, Voodoo. If only I were a dev. Will you tell us the update after the meeting tomorrow? No, I'll update you as soon as I have an update.
+It's just to get everybody out of there and then shouldn't be an issue after that. Sorry, Voodoo.
 
-(14:49 - 15:07)
-And we won't need to wait until Friday to push that app update through. I will let you know as soon as I have that update. Voodoo wants an update before I know the update.
+[Speaker 2]
+If only I were a dev.
 
-(15:07 - 15:17)
-I already know the update. It's not just the details. The final detail is to share with you all.
+[Speaker 1]
+Will you tell us the update after the meeting tomorrow? No, I'll update you as soon as I have an update. And we won't need to wait until Friday to push that app update through.
 
-(15:26 - 16:04)
-But the update is ready for you all to transfer your funds. Once you transfer your funds, hopefully pretty quickly, when you can remove the address, that will be the update after wallet update. And get the new wallet count generation update on and deployed to you all.
+I will let you know as soon as I have that update. Voodoo wants an update before I know the update. I already know the update.
 
-(16:05 - 16:16)
-So you can test that. Hopefully, again, that's pretty straightforward. We've tested it, went fine, hopefully no issues there.
+It's not just the details. The final detail is to share with you all. But the update is ready for you all to transfer your funds.
 
-(16:16 - 16:42)
-Oh, is it so loud? And then I actually have the other headphones in my hands. And then after that update, again, will be our new onRamper update. So we'll have you test.
+Once you transfer your funds, hopefully pretty quickly, when you can remove the address, that will be the update after wallet update. And get the new wallet count generation update on and deployed to you all. So you can test that.
 
-(16:42 - 16:59)
-Hopefully, you won't need more than a day or two to make your accounts on there. Should be pretty straightforward. And then... Yeah, then we have the onRamper update after that.
+Hopefully, again, that's pretty straightforward. We've tested it, went fine, hopefully no issues there. Oh, is it so loud?
 
-(17:02 - 17:22)
-And then we'll just continue with the updates from there. Really, as long as we have the... That's the most important thing we need right now, is to give you guys the new wallet account creation and to get the new onRamper and have you test the heck out of those. So we can fix any bugs.
+And then I actually have the other headphones in my hands. And then after that update, again, will be our new onRamper update. So we'll have you test.
 
-(17:22 - 17:44)
-We'll probably have you do... Once the onRamper is on, that's when we'll probably have you do a ton of... Specifically, probably smart wallet and expert, but majorly smart wallet. That's where we have the most issues or we've had the most issues before. We just want to work out any bugs that we can before any marketing.
+Hopefully, you won't need more than a day or two to make your accounts on there. Should be pretty straightforward. And then...
 
-(17:45 - 18:03)
-We don't want your grandma or parents or your friends or coworkers getting on and not being able to figure it out. Very simple. Pretty easy.
+Yeah, then we have the onRamper update after that. And then we'll just continue with the updates from there. Really, as long as we have the...
 
-(18:06 - 18:23)
-We'll just see what kind of modifications we need. And if there's anything we need to change to make it more user-friendly. Or if there are any bugs that you all experience across different devices, etc.
+That's the most important thing we need right now, is to give you guys the new wallet account creation and to get the new onRamper and have you test the heck out of those. So we can fix any bugs. We'll probably have you do...
 
-(18:26 - 18:54)
-But it should be pretty straightforward. If Russ gets a new wallet, can I have his old one? Russ is a generous guy. He may just give you his wallet.
+Once the onRamper is on, that's when we'll probably have you do a ton of... Specifically, probably smart wallet and expert, but majorly smart wallet. That's where we have the most issues or we've had the most issues before.
 
-(19:08 - 19:25)
-Or ask one of the contest winners. Who made out with like the 500 coins. Maybe he'll sell them to you for a discount.
+We just want to work out any bugs that we can before any marketing. We don't want your grandma or parents or your friends or coworkers getting on and not being able to figure it out. Very simple.
 
-(19:30 - 19:58)
-I'm sorry Russ, but I had to get to Starbucks today and try their new spicy coffee. It is like the least full coffee place around here though. Russ' wallet said turn off iMessages.
+Pretty easy. We'll just see what kind of modifications we need. And if there's anything we need to change to make it more user-friendly.
 
-(20:00 - 20:34)
-What the heck? Just probably pin back. Just in case. Hopefully nobody gets... Scammed with that, I'll have to read it.
+Or if there are any bugs that you all experience across different devices, etc. But it should be pretty straightforward. If Russ gets a new wallet, can I have his old one?
 
-(20:39 - 20:52)
+Russ is a generous guy. He may just give you his wallet. Or ask one of the contest winners.
+
+Who made out with like the 500 coins. Maybe he'll sell them to you for a discount. I'm sorry Russ, but I had to get to Starbucks today and try their new spicy coffee.
+
+It is like the least full coffee place around here though. Russ' wallet said turn off iMessages.
+
+[Speaker 2]
+What the heck?
+
+[Speaker 3]
+Just probably pin back. Just in case. Hopefully nobody gets...
+
+Scammed with that, I'll have to read it.
+
+[Speaker 1]
 iPhone users. I do miss the clipboard on my Android. Credible information.
 
-(21:09 - 22:00)
-Interesting, where's that? Information there. Here's the post. What? Are you serious? To be fair, there's only a few people I use iMessages app with.
+Interesting, where's that? Information there. Here's the post.
 
-(22:00 - 22:20)
+What? Are you serious? To be fair, there's only a few people I use iMessages app with.
+
 Everybody else, I'm on Signal. Which apparently is not the safest either. Learned that in the last convention.
 
-(22:24 - 22:36)
 Turn that off. Now I won't know if people have an Android or an iPhone when they message me on my app. Guess we'll turn it off just to get that fixed.
 
-(22:36 - 22:40)
 Oh, that's super, that's recent. Yesterday. Hmm.
 
-(22:42 - 23:01)
 So I wonder what it says, I don't see anywhere. Please note, this risk is not only to TrustWallet users. Due to the post getting a lot of reviews and comments, we thought we'd elaborate further for the community.
 
-(23:04 - 23:21)
-Hmm. How did we come by? TrustWallet constantly monitoring. Hacker claimed to have the ability to exploit the iMessages zero-day vulnerabilities.
+Hmm. How did we come by? TrustWallet constantly monitoring.
 
-(23:21 - 23:34)
-Asking for $2 million on the dark web. Huh. I guess if you have iMessages, turn them off.
+Hacker claimed to have the ability to exploit the iMessages zero-day vulnerabilities. Asking for $2 million on the dark web. Huh.
 
-(23:54 - 24:24)
-Wow, Nolan, what's the lightning? Oh, level 4. I was going to ask what that is by your name, but here it is. Hmm. Okay.
+I guess if you have iMessages, turn them off. Wow, Nolan, what's the lightning? Oh, level 4.
 
-(24:25 - 25:00)
-Anything else? I will update you guys with... After tomorrow's meeting, again. Let me see. Other than that, reach out if you need anything else.
+I was going to ask what that is by your name, but here it is.
 
-(25:05 - 25:28)
-I will convert this right now and post it with... A few notes. And then I'll update you guys as soon as I do send the funds... To Steve and Boris' new wallets. But you all have a good night.
+[Speaker 4]
+Hmm.
 
-(25:28 - 25:45)
-Don't share your information with anybody. Remember, if you need support or anything, you're probably not here right now. But just remember that somebody might be pretending to be me or another admin... And ask you for your private info.
+[Speaker 1]
+Okay. Anything else? I will update you guys with...
 
-(25:45 - 25:51)
+After tomorrow's meeting, again. Let me see. Other than that, reach out if you need anything else.
+
+I will convert this right now and post it with... A few notes. And then I'll update you guys as soon as I do send the funds...
+
+To Steve and Boris' new wallets. But you all have a good night. Don't share your information with anybody.
+
+Remember, if you need support or anything, you're probably not here right now. But just remember that somebody might be pretending to be me or another admin... And ask you for your private info.
+
 Never share that. Never click on any weird links. And then enter your information or download any weird apps.
 
-(25:53 - 25:58)
 I will post this. Let me know if you need anything else. In the meantime, you guys have a good night.

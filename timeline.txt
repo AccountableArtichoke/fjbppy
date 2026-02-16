@@ -1,5 +1,5 @@
 contact fjbvoicetranscripts@proton.me with updates/suggestions
-contact fjbvoicetranscripts@proton.me with to full copy of audio files and/or transcripts
+contact fjbvoicetranscripts@proton.me to request full copy of audio files and/or transcripts
 
 `TIMELINE`
 
@@ -72,7 +72,7 @@ Summary: The November 19, 2021 transcript reveals the project leader discussing 
 UUID: 14816370-95CD-409A-B16C-41CC7CC9540D
 Type: VOICE UPDATE
 Date: 2021-11-20-1
-Speakers: Greant Tragni
+Speakers: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-20-1%2014816370-95CD-409A-B16C-41CC7CC9540D.txt
@@ -167,7 +167,7 @@ Old Role: Project Owner
 New Role: [INCOMPLETE]
 Reference: 90A06E60-329F-41B2-A190-64AD5B57C0AB
 
-UUID: 
+UUID: 8E40849F-98AA-43DD-AFF3-EBA62E69EAE8
 Type: ROLE CHANGE
 Date: 2021-12-02
 Name: Stephen Bannon
@@ -175,7 +175,7 @@ Old Role: NONE
 New Role: [INCOMPLETE]
 Reference: 90A06E60-329F-41B2-A190-64AD5B57C0AB
 
-UUID: 
+UUID: D887C5C4-C2EF-4DD8-80C1-B4C25CB13DC3
 Type: ROLE CHANGE
 Date: 2021-12-02
 Name: Boris Epshteyn
@@ -210,7 +210,7 @@ Summary: The project distributed 800,000 FJB tokens total to four community memb
 UUID: 98EFACDA-CF47-4949-8E91-6032BFF55876
 Type: DONATION
 Date: 2021-12-08
-Sender: Grant Tragnia, FJBCoin
+Sender: Grant Tragni, FJBCoin
 Recipient: Bob24, Sundevil28, Discord, Pokey
 Amount: 200,000 FJB x 4 = 800,000 FJB
 Evidence: 2021-12-08%205ED7084C-52D0-4EAF-B546-157E46802AF3
@@ -218,10 +218,10 @@ Evidence: 2021-12-08%205ED7084C-52D0-4EAF-B546-157E46802AF3
 UUID: 205CA41F6E-7BF7-45FA-AEBB-AAAAE122F5D3
 Type: IMAGE
 Date: 2021-12-12
-Summary: Screenshot taken 2026-02-14 of the ICANN Lookup Tool for fjbcoin.org domain name showing created: 2021-12-12
 Source: https://lookup.icann.org/en/lookup
 WebArchive: https://archive.org/details/screenshot-20260214-180124
-LocalArchive: images/2021-12-12%205CA41F6E-7BF7-45FA-AEBB-AAAAE122F5D3.png
+LocalArchive: PublicEvidenceProcessed/2021-12-12%205CA41F6E-7BF7-45FA-AEBB-AAAAE122F5D3.png
+Summary: Screenshot taken 2026-02-14 of the ICANN Lookup Tool for fjbcoin.org domain name showing created: 2021-12-12
 
 UUID: 7E23A915-6E76-42CC-B4BC-B41EEA1905C4
 Type: VOICE UPDATE
@@ -260,8 +260,8 @@ Summary: The speaker announces a $5,600 donation to Semper Fi charity on day 56 
 UUID: A3596A6C-02BD-459C-9FE6-D73C2DDA4CED
 Type: DONATION
 Date: 2021-12-17
-Sender: Grant Tragni, FKBCoin
-Recipient Semper Fi Charity
+Sender: Grant Tragni, FJBCoin
+Recipient: Semper Fi Charity
 Amount: $5,600
 Evidence: C5DB218A-3638-4317-83E6-FC27E1961582 No direct evidence just him saying he donated money
 
@@ -311,7 +311,7 @@ Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-06%2045629FB3-091D-40F3-974E-CFC45AB13FDC.txt
-Summary: Steve Bannon and Boris Epstein announced their partnership with FJB coin on January 6th, stating their goal to establish it as the official currency of the MAGA movement with major retailers accepting it by end of 2022. Bannon emphasized building FJB as an alternative to fiat currency that cannot be controlled by the current administration, while committing to develop a payment gateway and blockchain media utility exclusive to coin holders.
+Summary: Steve Bannon and Boris Epshteyn announced their partnership with FJB coin on January 6th, stating their goal to establish it as the official currency of the MAGA movement with major retailers accepting it by end of 2022. Bannon emphasized building FJB as an alternative to fiat currency that cannot be controlled by the current administration, while committing to develop a payment gateway and blockchain media utility exclusive to coin holders.
 
 UUID: B716D2A0-1AAE-4465-A112-EFE8E1954168
 Type: OWNERSHIP CHANGE
@@ -371,6 +371,7 @@ Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-20%20B92DFBC6-99D8-4F63-8161-0319D909E23C.txt
 Summary: The speaker addresses a Mother Jones article criticizing Steve Bannon's involvement with FJB coin (91F910C8-69E9-41DF-B07B-A992D691AA54), stating the outlet never contacted him for comment despite claiming he declined and that a rebuttal has been submitted. He announces the NFT drop has been postponed to Saturday due to technical difficulties and that Eric Finman will make a major announcement on Monday's War Room that will excite the entire crypto community.
+Reference: 91F910C8-69E9-41DF-B07B-A992D691AA54 This is the Mother Jones article that Grant Tragni is referencing.
 
 UUID: B564F5E9-6F3B-434E-866C-190EFBE573D7
 Type: VOICE UPDATE
@@ -457,7 +458,7 @@ UUID: 5192A8E7-0C25-4A0A-A968-7D2CCEBEA493
 Type: DONATION
 Date: 2022-02-07
 Sender: ?FJB Coin
-Recipient ?Canadian Freedom Convoy
+Recipient: ?Canadian Freedom Convoy
 Amount: 10,000,000 FJB
 Evidence: [INCOMPLETE]
 
@@ -486,7 +487,7 @@ Speakers: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-21%204F85A53E-E11D-4C8A-9BC5-9BA06D5FA916.txt
-Summary: The speaker previewed beta screenshots of the FJB cryptocurrency app, announcing a revised launch date of March 16th instead of March 7th to ensure proper testing and security through their custom token bridge that will allow instant purchases using credit/debit cards or bank accounts. The app will simplify the buying process from potentially days to approximately two minutes by automatically routing USD through BUSD and PancakeSwap on the Binance Smart Chain, while the team, including Trump administration officials Boris Epstein and Steve Bannon, prepares for a major marketing campaign to make the FJB app a "household name."
+Summary: The speaker previewed beta screenshots of the FJB cryptocurrency app, announcing a revised launch date of March 16th instead of March 7th to ensure proper testing and security through their custom token bridge that will allow instant purchases using credit/debit cards or bank accounts. The app will simplify the buying process from potentially days to approximately two minutes by automatically routing USD through BUSD and PancakeSwap on the Binance Smart Chain, while the team, including Trump administration officials Boris Epshteyn and Steve Bannon, prepares for a major marketing campaign to make the FJB app a "household name."
 
 ~~~~~~~~~~~~~~
 2022 MARCH
@@ -609,8 +610,9 @@ SEPTEMBER
 UUID: FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4
 Type: AUDIO
 Date: 2022-09-27
-Transcript: 
-Summary: Episode of the 'John Solomon Reports' podcast where FJBCoin is mentioned at [INCOMPLETE] timestamp.
+Audio File: publicevidenceprocessed/2022-09-27%20FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4.mp3
+Transcript: publications/2022-09-27%20FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4.txt
+Summary: Episode of the 'John Solomon Reports' podcast where FJBCoin is mentioned at (00:52:26 - 00:54:49)
 
 ~~~~~~~~~~~~~~
 2022 OCTOBER
@@ -622,8 +624,8 @@ Date: 2022-10-24
 Speakers: Sarah Abdul
 Platform: Telegram
 Audio File: 
-Transcript: [INCOMPLETE]
-Summary: [INCOMPLETE]
+Transcript: transcripts/2022-10-24%20D317EDDD-4491-4062-BFC3-1A9689A4E884
+Summary: The liquidity pool for FJB is scheduled to unlock on November 18 but will be immediately relocked thereafter to maintain project stability. Major updates are underway, including new contracts to address meme coin functions, team member replacements, merchandise rollout with a new vendor pending simple graphic designs, and a targeted app launch before Thanksgiving, contingent on today's leadership call outcomes.
 
 ~~~~~~~~~~~~~~
 2022 NOVEMBER
@@ -653,8 +655,8 @@ Date: 2022-11-10
 Speakers: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
-Transcript: [INCOMPLETE]
-Summary: [INCOMPLETE]
+Transcript: transcripts/2022-11-10%20424116D3-EA3F-4522-8B82-B5C5BE3F5722
+Summary: The FJB project has uncovered tens of thousands of dollars in missing marketing and charity funds, along with overdue bills, prompting an internal investigation and legal action by founders B&B to recover assets while emphasizing community restraint to avoid jeopardizing proceedings. Under new management, a revised tax structure will incorporate at least one holder-benefiting mechanism such as burns, reflections, or LP additions, coupled with commitments to public announcements of expenditures, bi-monthly community-voted donations, and transparent financial tracking to rebuild trust.
 
 UUID: 97903B33-0E8B-4D32-AD10-43881F45F13C
 Type: VOICE UPDATE
@@ -662,8 +664,8 @@ Date: 2022-11-18
 Speakers: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
-Transcript: [INCOMPLETE]
-Summary: [INCOMPLETE]
+Transcript: transcripts/2022-11-18%2097903B33-0E8B-4D32-AD10-43881F45F13C
+Summary: The project is ahead of schedule on phase 4, expected to wrap by Monday instead of Thanksgiving, enabling community testing soon, while the revamped app faces minor API delays but is targeted for deployment and testing this week. Users must immediately withdraw their coins from LBank and XT exchanges due to imminent delisting and low volume, with no significant fees expected during the process, and the team remains on track for a November go-live on key tasks ahead of the planned TPUSA event in mid-December.
 
 UUID: 9D55B54A-6A63-4B8F-B9E0-958F23998FC0
 Type: VOICE UPDATE
@@ -671,8 +673,8 @@ Date: 2022-11-22
 Speakers: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
-Transcript: [INCOMPLETE]
-Summary: [INCOMPLETE]
+Transcript: transcripts/2022-11-22%209D55B54A-6A63-4B8F-B9E0-958F23998FC0
+Summary: The FJB project is addressing a $20,000 debt through imminent launches of a merchandise store featuring items like t-shirts, ornaments, and stickers, alongside FJB gift card integration expected to generate holiday-season revenue. App enhancements, including a smart wallet to eliminate gas fee issues via volunteer audits and community testing, are prioritized for deployment soon, while the liquidity pool remains unlocked in a new secure dev wallet pending a reliable third-party relock.
 
 ~~~~~~~~~~~~~~
 2022 DECEMBER
@@ -1536,8 +1538,8 @@ Date: 2024-10-28
 Speakers: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
-Transcript: [INCOMPLETE]
-Summary: [INCOMPLETE]
+Transcript: transcripts/2024-10-28%20374B7E0B-7B73-4685-8B36-5536611A30B4
+Summary: The FJB team is prioritizing long-term development over short-term midterm election marketing pushes, with Bannon and Boris currently focused on midterms and viewing the project as extended rather than immediate, delaying major War Room appearances. Behind-the-scenes progress includes proposed structural changes and a potential new community channel for broader involvement, while key prior influencers and team members like Ryan remain committed for future full marketing efforts once the app and related features are finalized.
 
 ~~~~~~~~~~~~~~
 2024 NOVEMBER
@@ -1690,7 +1692,7 @@ UUID: 5548AAF5-7CCB-4F4D-B768-FAC1591090D5
 Type: Publication
 Date: 2026-02-13
 Source: https://www.reuters.com/legal/government/bannon-epshtyn-hit-with-investor-class-action-over-patriot-pay-cryptocurrency-2026-02-13/
-WebArchive: [INCOMPLETE]
+WebArchive: Web archive unavailable due to site restrictions
 LocalArchive: publications/2026-02-13%205548AAF5-7CCB-4F4D-B768-FAC1591090D5
 Publisher: Reuters
 Author: Mike Scarcella

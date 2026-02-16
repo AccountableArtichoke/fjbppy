@@ -1,259 +1,294 @@
-(0:00 - 0:20)
+[Speaker 1]
 Weekend was pretty slow here, but yesterday and today have been pretty eventful in PatriotPay world. I did ping TrustWallet again. They've not gotten back to me as of this morning.
 
-(0:21 - 0:34)
 ChangeNow did get back to me as of this morning. There's not really anything for us to do. They're still working on it, so I will keep you updated as far as that goes.
 
-(0:35 - 1:19)
 Apple's verification system completed everything they were supposed to. After several hours on the phone today, everything is complete and should show up on your end in the Apple App Store within the next 24 hours from about noon today. I already see some updates have already taken place in the listing in the App Store.
 
-(1:22 - 2:33)
-Hoping the rest of them go ahead and update within the next 24 hours as they quoted. That's great. That was a huge part of the puzzle to start marketing. 
+Hoping the rest of them go ahead and update within the next 24 hours as they quoted. That's great. That was a huge part of the puzzle to start marketing.
 
-We needed the PatriotPay app listings in both the Apple Store and the Android so that when you search PatriotPay, that's what pops up. That's a huge step as far as that goes. So far, they've been on time with everything else. 
+We needed the PatriotPay app listings in both the Apple Store and the Android so that when you search PatriotPay, that's what pops up. That's a huge step as far as that goes. So far, they've been on time with everything else.
 
-I'm hoping the last gentleman I was on the phone with for quite a few hours is correct and everything updates there in the next 24 hours. I will update you as soon as I notice that update, although you guys generally, I think, notice those ones sooner than I do. Yeah, that's it. 
+I'm hoping the last gentleman I was on the phone with for quite a few hours is correct and everything updates there in the next 24 hours. I will update you as soon as I notice that update, although you guys generally, I think, notice those ones sooner than I do. Yeah, that's it.
 
 Our dev spoke to him earlier today. It's been a few hours. Everything's still going well there.
 
-(2:39 - 3:14)
-Let's see. What else? Our trademark is complete. So I will let you know as soon as that's approved. 
+Let's see. What else? Our trademark is complete.
 
-I know they're several months behind, but on our end, I think they're still processing June, I think. June and July of 2023, last time I checked. But we're good with everything from our end, so that also feels great.
+So I will let you know as soon as that's approved. I know they're several months behind, but on our end, I think they're still processing June, I think. June and July of 2023, last time I checked.
 
-(3:19 - 3:51)
-What else? Education videos. I got some voiceovers to do tonight, and then I'm hoping by the end of this week that our Patriot Pay bank account, we're opening a new account with a Patriot Bank. I'm hoping that will be complete by the end of the week.
+But we're good with everything from our end, so that also feels great. What else? Education videos.
 
-(3:55 - 5:30)
-I think that's everything. We will try to be at the RNA, NRA, I'm sorry, convention. I'm trying to think of where it was. 
+I got some voiceovers to do tonight, and then I'm hoping by the end of this week that our Patriot Pay bank account, we're opening a new account with a Patriot Bank. I'm hoping that will be complete by the end of the week. I think that's everything.
 
-I think it's in Dallas. I do have a surgery, so I'm waiting on that. I'm hoping I can still swing that. 
+We will try to be at the RNA, NRA, I'm sorry, convention. I'm trying to think of where it was. I think it's in Dallas.
 
-If any of you are close or will be there, as long as that doesn't run into my surgery time, which I'm still waiting to get scheduled, that will be our next, I guess, presence. We'll be there. Yeah, but our biggest weight right now, I think for me, and you guys would probably agree, is the ChangeNow API issue. 
+I do have a surgery, so I'm waiting on that. I'm hoping I can still swing that. If any of you are close or will be there, as long as that doesn't run into my surgery time, which I'm still waiting to get scheduled, that will be our next, I guess, presence.
 
-It's strange because, again, it's working on their site and everything. There's just something in the specific API that we're using for the app. We're waiting on our dev, actually, to reply. 
+We'll be there. Yeah, but our biggest weight right now, I think for me, and you guys would probably agree, is the ChangeNow API issue. It's strange because, again, it's working on their site and everything.
 
-We do have a different API that includes ChangeNow, but we have our app built for ChangeNow. We really like ChangeNow for many, many, many reasons. I don't want to remove that, but I will keep you guys updated on that right now.
+There's just something in the specific API that we're using for the app. We're waiting on our dev, actually, to reply. We do have a different API that includes ChangeNow, but we have our app built for ChangeNow.
 
-(5:30 - 9:16)
-That is our biggest weight. I know TrustWallet is super annoying with CMC not being able to see the price there, although I did actually ping CMC today, too, because, again, I have a feeling from what TrustWallet is saying it's not their issue. I did ping them a little bit ago. 
+We really like ChangeNow for many, many, many reasons. I don't want to remove that, but I will keep you guys updated on that right now. That is our biggest weight.
 
-I haven't heard back yet, but I think that's as annoying as that issue is. I think the issue with ChangeNow is how much we just need that, especially if Apple keeps to their word and updates the Apple listing and updates that name to PatriotPay, then we'll be all good there as soon as the apps go, and then we just need that ChangeNow as soon as that happens. Hopefully, that will be the only error because there's not really a way for a dev to test that. 
+I know TrustWallet is super annoying with CMC not being able to see the price there, although I did actually ping CMC today, too, because, again, I have a feeling from what TrustWallet is saying it's not their issue. I did ping them a little bit ago. I haven't heard back yet, but I think that's as annoying as that issue is.
 
-That error needs to be fixed before he can test it again and see if there's another error, some other bugs, but assuming that that fixes everything, we can go ahead. We will test it on our end, and then we'll start deploying, or I'm sorry, before we deploy, actually, the next app update, which is the new login and wallet generation. We will ask you all to transfer your funds out of your SmartWallets, so that gives you very clear instructions on how to do that. 
+I think the issue with ChangeNow is how much we just need that, especially if Apple keeps to their word and updates the Apple listing and updates that name to PatriotPay, then we'll be all good there as soon as the apps go, and then we just need that ChangeNow as soon as that happens. Hopefully, that will be the only error because there's not really a way for a dev to test that. That error needs to be fixed before he can test it again and see if there's another error, some other bugs, but assuming that that fixes everything, we can go ahead.
 
-Transfer them from your SmartWallet to your ExpertWallet to your TrustWallet, wherever you'd like to, and then after that happens, we'll give you a few days to do that. Again, it'll be very quick if, you know, you know anybody that has the app, let them know. We will have other ways to do that after the fact, after those few days, but we are trying to move as soon as possible, as soon as we get that go from ChangeNow and move to our new login service. 
+We will test it on our end, and then we'll start deploying, or I'm sorry, before we deploy, actually, the next app update, which is the new login and wallet generation. We will ask you all to transfer your funds out of your SmartWallets, so that gives you very clear instructions on how to do that. Transfer them from your SmartWallet to your ExpertWallet to your TrustWallet, wherever you'd like to, and then after that happens, we'll give you a few days to do that.
 
-Again, the next deployment after that will be the new login service, which I'm sure, confident, you all will love. There is nothing hard, difficult, remotely hard to understand about this. Every one of you can do it. 
+Again, it'll be very quick if, you know, you know anybody that has the app, let them know. We will have other ways to do that after the fact, after those few days, but we are trying to move as soon as possible, as soon as we get that go from ChangeNow and move to our new login service. Again, the next deployment after that will be the new login service, which I'm sure, confident, you all will love.
 
-My grandma can do this, seriously. After we do that, we just, we have the contract ready. They just need us to put a date on there, because it's a pretty pricey service, so until we are ready to go is when we will start paying for it, and that's when the contract will be complete. 
+There is nothing hard, difficult, remotely hard to understand about this. Every one of you can do it. My grandma can do this, seriously.
 
-Again, all the contract needs is a date and our signature, so as soon as that happens, then we can, we already have the API and everything plugged in there. We will deploy that. You all will start testing it and let you test that. 
+After we do that, we just, we have the contract ready. They just need us to put a date on there, because it's a pretty pricey service, so until we are ready to go is when we will start paying for it, and that's when the contract will be complete. Again, all the contract needs is a date and our signature, so as soon as that happens, then we can, we already have the API and everything plugged in there.
 
-Hopefully, everything goes as smooth as possible. If not, Dev will work on whatever needs to be taken care of, but it's a pretty straightforward update. After that is our deployment. 
+We will deploy that. You all will start testing it and let you test that. Hopefully, everything goes as smooth as possible.
 
-After that is the new ARM Ramper. Again, we'll do the same thing, and in the time being, while we do all that, you all will still have a link in the app to log in through your VESS in case you need to, to transfer your funds from your Smart Wallet to your other wallets, but we do want you to do that ASAP, so please just keep that in mind. In case you know anybody, that old co-worker, that person you told to buy, don't pull an XTL bank thing where people are emailing me, gosh, probably close to a year after we've been delisted.
+If not, Dev will work on whatever needs to be taken care of, but it's a pretty straightforward update. After that is our deployment. After that is the new ARM Ramper.
 
-(9:18 - 9:25)
-Yeah, just keep that in mind. Try to keep that in mind in case you do know anybody. And that has an Apple account.
+Again, we'll do the same thing, and in the time being, while we do all that, you all will still have a link in the app to log in through your VESS in case you need to, to transfer your funds from your Smart Wallet to your other wallets, but we do want you to do that ASAP, so please just keep that in mind. In case you know anybody, that old co-worker, that person you told to buy, don't pull an XTL bank thing where people are emailing me, gosh, probably close to a year after we've been delisted. Yeah, just keep that in mind.
 
-(9:28 - 9:52)
-Was there anything pending? The trademark approval. We just want the trademark approval to be safe. We were just waiting on the okay to go ahead and file all that. 
+Try to keep that in mind in case you do know anybody. And that has an Apple account. Was there anything pending?
+
+The trademark approval. We just want the trademark approval to be safe. We were just waiting on the okay to go ahead and file all that.
 
 Old Glory Bank, yes. Patriot Bank, hey, that's, yeah, that's something. It's in the talks.
 
-(9:54 - 10:34)
-Tell ChangeNow, hurry the F up or we're going to need another five-figure discount. If ChangeNow takes a long, is there a point where the decision is made to use? No, we can use, we can try to use something temporarily, but the way ChangeNow is built into the app, there's truly a reason why we, you know, chose ChangeNow, why it works so well with our app. It has few benefits over the others, and they have been very, very, very good to us.
+Tell ChangeNow, hurry the F up or we're going to need another five-figure discount. If ChangeNow takes a long, is there a point where the decision is made to use? No, we can use, we can try to use something temporarily, but the way ChangeNow is built into the app, there's truly a reason why we, you know, chose ChangeNow, why it works so well with our app.
 
-(10:36 - 11:27)
-So, and we don't know what the, they haven't really told us the details of why it's not working. They know why it's not working, the API, but we're not sure why, so we don't know if it's, you know, they said it's something that their devs fixed, so we don't know if this would be an issue with something else, and I'm saying that, like, for example, is this an issue to do with our contract and the way it is written? I'm not sure. Everyone we told to buy doesn't talk to us anymore. 
+It has few benefits over the others, and they have been very, very, very good to us. So, and we don't know what the, they haven't really told us the details of why it's not working. They know why it's not working, the API, but we're not sure why, so we don't know if it's, you know, they said it's something that their devs fixed, so we don't know if this would be an issue with something else, and I'm saying that, like, for example, is this an issue to do with our contract and the way it is written?
 
-Same. Although my sister did import her PatriotPay coins the other day. I told her, I gave her the video, and I said, if you don't, if you have any issues, let me know, and she didn't, and I asked her later if she did, and she said, yeah, it was easy, so I'm like, okay.
+I'm not sure. Everyone we told to buy doesn't talk to us anymore. Same.
 
-(11:30 - 11:40)
-Can we pay change now to Expedite? I have tried. The answer is no. We are still working on it.
+Although my sister did import her PatriotPay coins the other day. I told her, I gave her the video, and I said, if you don't, if you have any issues, let me know, and she didn't, and I asked her later if she did, and she said, yeah, it was easy, so I'm like, okay. Can we pay change now to Expedite?
 
-(11:41 - 14:43)
-I've also asked if our devs can help with anything, but it doesn't seem like it. It's crazy that so many of these companies, I don't know, in my head, they think are, like, so huge, really just have a few employees on the back end. It's crazy, because even the ones I email, like CMC and TrustWallet, it's, like, the same one or two names that are always emailing me back through, like, dozens of emails. 
+I have tried. The answer is no. We are still working on it.
 
-That's wild. Want to convert Bitcoin from TrustWallet to PPY, what's the best way? Follow. You should be able to. 
+I've also asked if our devs can help with anything, but it doesn't seem like it. It's crazy that so many of these companies, I don't know, in my head, they think are, like, so huge, really just have a few employees on the back end. It's crazy, because even the ones I email, like CMC and TrustWallet, it's, like, the same one or two names that are always emailing me back through, like, dozens of emails.
 
-You can do it several ways, but the cheapest way is probably just to get on QuickSwap. If we found out someone we had told... Wait, what? If we found out someone we had told to buy coins a year ago called and asked for an update and has them on Oval of ProBit, what do they do? Oh, so if they have their coins on ProBit, I'm not sure if you can even still sell on ProBit, but I would recommend selling your coins on there. I'm not sure if they still have... No, they don't have PPY in there. 
+That's wild. Want to convert Bitcoin from TrustWallet to PPY, what's the best way? Follow.
 
-No, they're not listed on any centralized exchanges, so there is no PPY there, but depending on where it is, they could probably still be able to sell their FJB, and then they'd have to buy PatriotPay on a decentralized, so that's not going to be on ProBit. You can no longer get PatriotPay for your FJB coins. Unfortunately, that option's been gone for many, many, many months ago.
+You should be able to. You can do it several ways, but the cheapest way is probably just to get on QuickSwap. If we found out someone we had told...
 
-(14:44 - 15:52)
-We gave out dozens of notices, but the nice part is we are pretty cheap right now. What is... I haven't checked what's Matica. Is it possible to remove the transfer tax on buys made using the DEX aggregators, made them VIP and only buy and sell tax? No, we have a different... We have a different update that's actually ready to go, but we're waiting for change now, and that should fix all the double tax issues.
+Wait, what? If we found out someone we had told to buy coins a year ago called and asked for an update and has them on Oval of ProBit, what do they do? Oh, so if they have their coins on ProBit, I'm not sure if you can even still sell on ProBit, but I would recommend selling your coins on there.
 
-(15:55 - 16:24)
-And that's what was so wonderful about having an upgradable contract. So yeah, the upgrade's already been... I feel like it's been ready for probably like a month and a half or so. Any update on the decision to include Marketplace this quarter? Yeah, I'm actually waiting on our dev to see how far along he is on that.
+I'm not sure if they still have... No, they don't have PPY in there. No, they're not listed on any centralized exchanges, so there is no PPY there, but depending on where it is, they could probably still be able to sell their FJB, and then they'd have to buy PatriotPay on a decentralized, so that's not going to be on ProBit.
 
-(16:34 - 17:08)
-If not a removal of tax, which... Again, the issue with the double tax is for different aggregators. That's already been built. We'll just have to... That's already... We're just waiting on change now because we'll mainly be testing it on change now, but that'll be... It's all ready to update the contract with.
+You can no longer get PatriotPay for your FJB coins. Unfortunately, that option's been gone for many, many, many months ago. We gave out dozens of notices, but the nice part is we are pretty cheap right now.
 
-(17:08 - 17:41)
+[Speaker 2]
+What is... I haven't checked what's Matica.
+
+[Speaker 1]
+Is it possible to remove the transfer tax on buys made using the DEX aggregators, made them VIP and only buy and sell tax? No, we have a different... We have a different update that's actually ready to go, but we're waiting for change now, and that should fix all the double tax issues.
+
+And that's what was so wonderful about having an upgradable contract. So yeah, the upgrade's already been... I feel like it's been ready for probably like a month and a half or so.
+
+Any update on the decision to include Marketplace this quarter? Yeah, I'm actually waiting on our dev to see how far along he is on that. If not a removal of tax, which...
+
+Again, the issue with the double tax is for different aggregators. That's already been built. We'll just have to...
+
+That's already... We're just waiting on change now because we'll mainly be testing it on change now, but that'll be... It's all ready to update the contract with.
+
 Again, we've updated the contract quite a few times already actually, so that's been amazing. Very much worth the wait, and we've not needed to fork every time we've made one of those updates, and we'll continue to be able to do that, so that's nice. I know it took a very long time to add that and get the audits for that too.
 
-(17:49 - 20:25)
-It's so weird that... I don't know if on your end, the CMC logo's still showing like drunk-wise, but CMC on my end says it was approved several days ago. Oh, there's the dev. Hold on. 
+It's so weird that... I don't know if on your end, the CMC logo's still showing like drunk-wise, but CMC on my end says it was approved several days ago. Oh, there's the dev.
 
-You know what? I wonder if my VPN was the issue with the disconnect. Hopefully, I don't jinx it right now, but I just thought of that. I did turn it off before the voice call, and I haven't been disconnected yet, so now I'm thinking that was a VPN issue, so I don't know what I need to do. 
+[Speaker 3]
+Hold on.
 
-It was updated. Gee. Wow. 
+[Speaker 1]
+You know what? I wonder if my VPN was the issue with the disconnect. Hopefully, I don't jinx it right now, but I just thought of that.
 
-Who's that? What did I miss? First 20 minutes still waiting on trust wallet, still waiting on change now, both as of this morning, and Apple Store listings should be updated within the next 24 hours. I already see some updates, but that's good because Google Play Store has already been updated, which is a great piece to the puzzle because we need both app listings to be updated to Patriot Pay before we can start marketing, so now we just need our wallet to actually work before we can start form marketing, but that's pretty much what you missed. Oh, and our trademark.
+[Speaker 2]
+I did turn it off before the voice call, and I haven't been disconnected yet, so now I'm thinking that was a VPN issue, so I don't know what I need to do. It was updated.
 
-(20:30 - 23:18)
-That should be everything is good there, although they are several months behind. Summary on quarter one targets. Let's see, we have this March 30, 31 days of Canberra to Easter is already around the corner, by the way. 
+[Speaker 1]
+Gee. Wow. Who's that?
 
-Let's see, where do I have? Oh, we're going through the white paper earlier. There we go. Okay, so white paper, roadmap, wallet creation, login process. 
+What did I miss? First 20 minutes still waiting on trust wallet, still waiting on change now, both as of this morning, and Apple Store listings should be updated within the next 24 hours. I already see some updates, but that's good because Google Play Store has already been updated, which is a great piece to the puzzle because we need both app listings to be updated to Patriot Pay before we can start marketing, so now we just need our wallet to actually work before we can start form marketing, but that's pretty much what you missed.
 
-Okay, we already have that, so we're ready to go, waiting on change now. Coin burn, we will have, we can't burn all the coins yet because we really need marketing to start. BNB still have not made their new wallets before we could burn everything, but we're still going to do a burn there before the end of the month, and education phase, those are still going well. 
+Oh, and our trademark. That should be everything is good there, although they are several months behind.
 
-Patriot perks, oh, we did move those around with the marketplace, so marketplace should have final. The dev usually gives me the list on Monday, but he did not yesterday, so I'm waiting on it today. He's actually messaging me right now. 
+[Speaker 2]
+Summary on quarter one targets.
 
-So the education videos, he was speaking about those earlier, those should be good, and then, and again, I know those will be so basic, but remember who we're gearing them towards. And then again, we switched Patriot Pay perks with the marketplace, and then marketing can happen as soon as the wallet works. So then going into quarter two, hoping change now doesn't take much longer, but we will be then deploying, like I said earlier, deploying that wallet creation, login process, that update, then also deploying the road, or excuse me, the OnRamper update, and then deploying the education and marketplace.
+[Speaker 1]
+Let's see, we have this March 30, 31 days of Canberra to Easter is already around the corner, by the way. Let's see, where do I have?
 
-(23:21 - 27:11)
-Definitely the wallet creation, login process, and the OnRamper, those are the most important ones because we definitely need those to begin marketing. And then, let's see, yeah, everything else for quarter two should honestly be a piece of cake. So yeah, quarter two is, should be a piece of cake because we're just continuing the education, which should be, which actually, that means I should probably really try to get my surgery scheduled for somewhere in there. 
+[Speaker 2]
+Oh, we're going through the white paper earlier.
 
-Probably the sooner the better, but that's super easy. The education section, got the videos, beautiful. And yeah, we are, I don't know if I told you guys yet, we are trying to get the dev to give you all rewards, Patreon pay points, in the app for the videos you watch. 
+[Speaker 1]
+There we go. Okay, so white paper, roadmap, wallet creation, login process. Okay, we already have that, so we're ready to go, waiting on change now.
 
-So I'll keep you updated on how that is going. And then political donations, again, most of that is really super simple since we already have that integrated into our contract. And then if we need to make any changes with our contract, we have that too. 
+Coin burn, we will have, we can't burn all the coins yet because we really need marketing to start. BNB still have not made their new wallets before we could burn everything, but we're still going to do a burn there before the end of the month, and education phase, those are still going well. Patriot perks, oh, we did move those around with the marketplace, so marketplace should have final.
 
-Marketing, as far as marketing, actually, our marketing guy, he usually, I should probably try texting him outside of Signal. I think he doesn't use Signal as like his main source of communication, texting communication, so it usually takes him a few days on there. Maybe I'll try iMessaging. 
+The dev usually gives me the list on Monday, but he did not yesterday, so I'm waiting on it today. He's actually messaging me right now. So the education videos, he was speaking about those earlier, those should be good, and then, and again, I know those will be so basic, but remember who we're gearing them towards.
 
-But yeah, quarter two, I think should go a lot more smoothly than quarter one, because we're really depending on a lot less people, as long as everything can continue working well. Because our education videos, we have those, those are good, those are going very well. Just need to upload those, whether it's YouTube or Rumble. 
+And then again, we switched Patriot Pay perks with the marketplace, and then marketing can happen as soon as the wallet works. So then going into quarter two, hoping change now doesn't take much longer, but we will be then deploying, like I said earlier, deploying that wallet creation, login process, that update, then also deploying the road, or excuse me, the OnRamper update, and then deploying the education and marketplace. Definitely the wallet creation, login process, and the OnRamper, those are the most important ones because we definitely need those to begin marketing.
 
-We haven't decided on that part, but probably Rumble, just to be safe. Or we could do both and then just have Rumble into the app, you know. But that's, again, not really depending on anybody else.
+And then, let's see, yeah, everything else for quarter two should honestly be a piece of cake. So yeah, quarter two is, should be a piece of cake because we're just continuing the education, which should be, which actually, that means I should probably really try to get my surgery scheduled for somewhere in there. Probably the sooner the better, but that's super easy.
 
-(27:14 - 27:45)
-And then political donations, same thing, not much depending on anywhere else. We just need to make sure that you all have pop-ups and agree and the contract doesn't let you send to more than, you know, more than one time to each candidate. Will Vespal Keys be going away? Yes.
+The education section, got the videos, beautiful. And yeah, we are, I don't know if I told you guys yet, we are trying to get the dev to give you all rewards, Patreon pay points, in the app for the videos you watch. So I'll keep you updated on how that is going.
 
-(27:47 - 29:02)
-So make sure you have your seed freeze. I heard they were changing the name to Change Later. That's funny. 
+And then political donations, again, most of that is really super simple since we already have that integrated into our contract. And then if we need to make any changes with our contract, we have that too.
 
-Change when we have time. Oh boy. Is the app going to be so simple that my old boomer parents could set it all up by themselves? Yes. 
+[Speaker 2]
+Marketing, as far as marketing, actually, our marketing guy, he usually, I should probably try texting him outside of Signal.
 
-This account creation and wallet generation is really so simple. That's why some of the biggest companies use it. And still super secure. 
+[Speaker 1]
+I think he doesn't use Signal as like his main source of communication, texting communication, so it usually takes him a few days on there. Maybe I'll try iMessaging. But yeah, quarter two, I think should go a lot more smoothly than quarter one, because we're really depending on a lot less people, as long as everything can continue working well.
 
-Very excited about that. So now that Apple is complete in the next 24 hours, it's really just the stuck smart wallet issue. Yes. 
+Because our education videos, we have those, those are good, those are going very well. Just need to upload those, whether it's YouTube or Rumble. We haven't decided on that part, but probably Rumble, just to be safe.
 
-Which is waiting on change now. I'm very, very excited and I do hope, again, take that with a grain of salt because remember they did say up to 30 days. It was supposed to take 30 business days, I think it was, for the verification. 
+Or we could do both and then just have Rumble into the app, you know. But that's, again, not really depending on anybody else. And then political donations, same thing, not much depending on anywhere else.
 
-But everything was super smooth. They turned in like double the documents they asked for and double the proof of everything they asked for. It seemed to pay off.
+We just need to make sure that you all have pop-ups and agree and the contract doesn't let you send to more than, you know, more than one time to each candidate. Will Vespal Keys be going away? Yes.
 
-(29:04 - 29:29)
-And we got approved and verified, I should say, much sooner than I expected. And then again, I already see, I'm really hoping they stay Apple because now it's not. So we were dealing with their verification partner, which is a completely different company.
+So make sure you have your seed freeze. I heard they were changing the name to Change Later. That's funny.
 
-(29:30 - 29:43)
-But now it's back to Apple after they finished everything. But I was on the phone with Apple earlier today for, like I said, several hours. And yeah, they say everything should be good.
+Change when we have time. Oh boy. Is the app going to be so simple that my old boomer parents could set it all up by themselves?
 
-(29:43 - 29:53)
-I already see some updates on the App Store, at least on mine. Let's see. Type in Patriot Pay.
+Yes. This account creation and wallet generation is really so simple. That's why some of the biggest companies use it.
 
-(29:53 - 34:04)
-It still shows Freedom Jobs Business, but it does show Patriot Pay as the owner. So that's good. I see the rebranding, all that is updated. 
+And still super secure. Very excited about that. So now that Apple is complete in the next 24 hours, it's really just the stuck smart wallet issue.
 
-So that's good. I see Patriot Pay on the bottom again under developer. So that's all good news. 
+Yes. Which is waiting on change now. I'm very, very excited and I do hope, again, take that with a grain of salt because remember they did say up to 30 days.
 
-So I'm hoping that means that I see the copyright Patriot Pay LLC. So yeah, I'm hoping that the name part changes now within the 24 hours. So that's a big part of the puzzle completed, because obviously we want to market it for new community members to know what the heck they're downloading and not be confused. 
+It was supposed to take 30 business days, I think it was, for the verification. But everything was super smooth. They turned in like double the documents they asked for and double the proof of everything they asked for.
 
-Were you saying we need to move out coins out of the app when you update it? If so, will the tax be turned off for that? I will be reimbursing you tax. Yes. And yes, you will if you have a smart wallet only. 
+It seemed to pay off. And we got approved and verified, I should say, much sooner than I expected. And then again, I already see, I'm really hoping they stay Apple because now it's not.
 
-If you have funds in your smart wallet, I will ask you to transfer those out of your smart wallet to a different wallet. So that way, because that's not because we're not going to have it, we're still going to have a smart wallet, but you're going to all make new accounts with our new wallet creation service. So they don't they are working on you being able to import existing wallets into their system. 
+So we were dealing with their verification partner, which is a completely different company. But now it's back to Apple after they finished everything. But I was on the phone with Apple earlier today for, like I said, several hours.
 
-But for the time being, you cannot import an existing wallet into their system. So you will just have to make new ones. Do we have to show proof of taxes to get reimbursed? Yeah, we'll we'll see that on the we'll see it on the blockchain. 
+And yeah, they say everything should be good. I already see some updates on the App Store, at least on mine. Let's see.
 
-We got we got the proof for you. How do I know if I have a smart wallet or regular wallet? So when you sign in, let me see if this hates me. If you sign into your app, let's see if mine will let me on here if I need to get on my desktop. 
+Type in Patriot Pay. It still shows Freedom Jobs Business, but it does show Patriot Pay as the owner. So that's good.
 
-Holy smokes, it's like I need to go shut my windows. On the bottom, you'll have Yeah, my app on my phone doesn't work. Let me log in. 
+I see the rebranding, all that is updated. So that's good. I see Patriot Pay on the bottom again under developer.
 
-But on the bottom, you'll see a little toggle. You'll want to switch that toggle so that it's switched to smart wallet. And then if you have any funds in there, you'll know. 
+So that's all good news. So I'm hoping that means that I see the copyright Patriot Pay LLC. So yeah, I'm hoping that the name part changes now within the 24 hours.
 
-You'll you'll see totals in the wallets. But I will I will let you know, I'll write it very, very detailed for you all to share with anybody, you know, and to do it yourself. Thank you, Stacey. 
+So that's a big part of the puzzle completed, because obviously we want to market it for new community members to know what the heck they're downloading and not be confused. Were you saying we need to move out coins out of the app when you update it? If so, will the tax be turned off for that?
 
-If we just used expert mode on the app, we should not have a smart wallet account, right? Correct. You still have a smart wallet account, but there's not any coins in there. So you're good. 
+I will be reimbursing you tax. Yes. And yes, you will if you have a smart wallet only.
+
+If you have funds in your smart wallet, I will ask you to transfer those out of your smart wallet to a different wallet. So that way, because that's not because we're not going to have it, we're still going to have a smart wallet, but you're going to all make new accounts with our new wallet creation service. So they don't they are working on you being able to import existing wallets into their system.
+
+But for the time being, you cannot import an existing wallet into their system. So you will just have to make new ones. Do we have to show proof of taxes to get reimbursed?
+
+Yeah, we'll we'll see that on the we'll see it on the blockchain. We got we got the proof for you. How do I know if I have a smart wallet or regular wallet?
+
+So when you sign in, let me see if this hates me. If you sign into your app, let's see if mine will let me on here if I need to get on my desktop. Holy smokes, it's like I need to go shut my windows.
+
+On the bottom, you'll have Yeah, my app on my phone doesn't work. Let me log in. But on the bottom, you'll see a little toggle.
+
+You'll want to switch that toggle so that it's switched to smart wallet. And then if you have any funds in there, you'll know. You'll you'll see totals in the wallets.
+
+But I will I will let you know, I'll write it very, very detailed for you all to share with anybody, you know, and to do it yourself. Thank you, Stacey. If we just used expert mode on the app, we should not have a smart wallet account, right?
+
+Correct. You still have a smart wallet account, but there's not any coins in there. So you're good.
 
 And then you can access that wallet from Trust Wallet or MetaMask or any other decentralized wallet. So you're good there. Once we do deploy the new login, you will make a new account and have a new wallet.
 
-(34:07 - 36:22)
-Excuse me, my ketosis today. Thank God, because this storm would have me not feeling great. Only one more piece to the puzzle to go. 
+[Speaker 2]
+Excuse me, my ketosis today. Thank God, because this storm would have me not feeling great.
 
-Yes. Very, very excited for that. I know it'll feel great once it finally happens. 
+[Speaker 1]
+Only one more piece to the puzzle to go. Yes. Very, very excited for that.
 
-And again, everything, all the changes we're making with the upgradable contract that we're constantly adding to the contract to better fit what we need and just, you know, the ever changing landscape of crypto. I think that definitely helps keep my patience a little because that was a very long fork. And it took very long to create that contract from scratch. 
+I know it'll feel great once it finally happens. And again, everything, all the changes we're making with the upgradable contract that we're constantly adding to the contract to better fit what we need and just, you know, the ever changing landscape of crypto. I think that definitely helps keep my patience a little because that was a very long fork.
 
-But it's been very, very, very well worth it. And we haven't really even started yet. And we've made some great holy smokes. 
+And it took very long to create that contract from scratch. But it's been very, very, very well worth it. And we haven't really even started yet.
 
-And we've already made some great wallet or excuse me, contract modifications. And we already have a few more in the works. So it's been great. 
+And we've made some great holy smokes. And we've already made some great wallet or excuse me, contract modifications. And we already have a few more in the works.
 
-It's awesome to be able to make those changes and not have to fork each time and not have you guys go through all that mess. I just checked I have nothing in smart wallets that will perfect. Only on expert. 
+So it's been great. It's awesome to be able to make those changes and not have to fork each time and not have you guys go through all that mess. I just checked I have nothing in smart wallets that will perfect.
 
-Awesome. So you can you can just keep that there. You can, if you'd like, enter that seed phrase that you have into Trust Wallet or MetaMask or whatever decentralized wallet you choose and still see your funds in there. 
+Only on expert. Awesome. So you can you can just keep that there.
 
-Be careful with transferring funds though. So you don't get taxed. I think that happened to somebody a few days ago in here.
+You can, if you'd like, enter that seed phrase that you have into Trust Wallet or MetaMask or whatever decentralized wallet you choose and still see your funds in there. Be careful with transferring funds though. So you don't get taxed.
 
-(36:28 - 37:45)
-What is legacy balance? Legacy balance is our very first version of the app. I believe this was this may have been before wire. It's been so long now. 
+[Speaker 2]
+I think that happened to somebody a few days ago in here.
 
-But it was our very, very first version of the app. So you likely already claimed it. I think a few people are just having that pop back up into their app. 
+[Speaker 1]
+What is legacy balance? Legacy balance is our very first version of the app. I believe this was this may have been before wire.
 
-But if you haven't, you can go ahead and claim it. That just means you've been here for a very long time. Me too. 
+It's been so long now. But it was our very, very first version of the app. So you likely already claimed it.
 
-Can we fork back to the Oh, how's BNB? Let's see. I haven't checked. How are they doing? Okay. 
+I think a few people are just having that pop back up into their app. But if you haven't, you can go ahead and claim it. That just means you've been here for a very long time.
 
-584. Gee. I think that's what probably doubled.
+Me too. Can we fork back to the Oh, how's BNB?
 
-(38:05 - 39:32)
-Old boy coming out with a crypto training academy from what I hear. Who's that? Who's old boy? When is the big FJD burn? Let's see. I don't know how big are the FJD wallets. 
+[Speaker 2]
+Let's see. I haven't checked. How are they doing?
 
-People still playing with the LP so should be good. Oh darn, you still can't see. Let's see. 
+Okay. 584.
 
-What is FJD worth now? Oh, that's it worth. Let's see. 700 million. 
+[Speaker 1]
+Gee. I think that's what probably doubled.
 
-Gee, let's see. Maybe that's the only thing CoinMarketCap is good for now. For me to look at FJD.
+[Speaker 2]
+Old boy coming out with a crypto training academy from what I hear. Who's that? Who's old boy?
 
-(39:58 - 41:29)
-Russ says FJD is alive in his heart. I have two accounts with the app. One expert and one smart wallet to test them both out. 
+[Speaker 1]
+When is the big FJD burn? Let's see. I don't know how big are the FJD wallets.
 
-Only the smart wallet has the claim legacy balance button. Will anything happen if I click on the claim or no? I only ask because it's been repeatedly stated not to use the app. Yeah, I would just wait. 
+People still playing with the LP so should be good. Oh darn, you still can't see. Let's see.
 
-Did you have a balance before that showed up or have you just not used it in a long time? That's everything. Thankfully nobody's been scammed in a while so that's good news. Please keep that in mind.
+What is FJD worth now?
 
-(41:30 - 42:18)
-Don't share your seed phrase or anything like that because you guys will come in, ask for help. That's when a fake admin will message you and give you a scam link. Or ask for your seed phrase or something like that. 
+[Speaker 3]
+Oh, that's it worth.
 
-So just be very wary of that, please. We haven't had anybody. I feel like now it's been several weeks, which is awesome, but please keep that in mind. 
+[Speaker 1]
+Let's see. 700 million. Gee, let's see.
 
-We will never ask you for your personal information like that. If ever in doubt, please share the screenshot in the general chat and I'm sure somebody will be around to let you know if it's a scammer. Other than that, that's all I got this week.
+[Speaker 2]
+Maybe that's the only thing CoinMarketCap is good for now. For me to look at FJD.
 
-(42:18 - 43:50)
-I'm really hoping my top, top, I'm dreaming about change now, letting us know that everything is complete on their end so that the dev can test the API and hopefully clear out those errors on his end. Because as soon as that happens, we'll be able to boom, boom, boom, deploy everything else, have you guys test, have you move your funds, have our onRamper put the date on our contracts so I could sign it, turn that in, and have our wallet creation do the same. So both of those waiting for payments for as soon as, yeah, start. 
+[Speaker 1]
+Russ says FJD is alive in his heart. I have two accounts with the app. One expert and one smart wallet to test them both out.
 
-I'm really hoping that Apple keeps to their word and updates within the next 24 hours because that's a huge part of the puzzle that we were going to be waiting 30 business days for. So hopefully that still continues to go quicker than expected because we can't do start marketing without that. And then I'll let you guys know, give you an update about our marketing guy, update you about our trademark. 
+Only the smart wallet has the claim legacy balance button. Will anything happen if I click on the claim or no? I only ask because it's been repeatedly stated not to use the app.
 
-I think we should be hearing back pretty soon even though they're months backed up. I think we should still hear some sort of confirmation. Let's see what else.
+Yeah, I would just wait. Did you have a balance before that showed up or have you just not used it in a long time? That's everything.
 
-(43:50 - 44:32)
-Oh, I was waiting on a call from our attorney but he must have gotten busy today so it's weird because I called in super early too. Keep you updated on that. Yeah, that's it. 
+Thankfully nobody's been scammed in a while so that's good news. Please keep that in mind. Don't share your seed phrase or anything like that because you guys will come in, ask for help.
 
+That's when a fake admin will message you and give you a scam link. Or ask for your seed phrase or something like that. So just be very wary of that, please.
+
+We haven't had anybody. I feel like now it's been several weeks, which is awesome, but please keep that in mind. We will never ask you for your personal information like that.
+
+If ever in doubt, please share the screenshot in the general chat and I'm sure somebody will be around to let you know if it's a scammer. Other than that, that's all I got this week. I'm really hoping my top, top, I'm dreaming about change now, letting us know that everything is complete on their end so that the dev can test the API and hopefully clear out those errors on his end.
+
+Because as soon as that happens, we'll be able to boom, boom, boom, deploy everything else, have you guys test, have you move your funds, have our onRamper put the date on our contracts so I could sign it, turn that in, and have our wallet creation do the same. So both of those waiting for payments for as soon as, yeah, start. I'm really hoping that Apple keeps to their word and updates within the next 24 hours because that's a huge part of the puzzle that we were going to be waiting 30 business days for.
+
+So hopefully that still continues to go quicker than expected because we can't do start marketing without that. And then I'll let you guys know, give you an update about our marketing guy, update you about our trademark. I think we should be hearing back pretty soon even though they're months backed up.
+
+I think we should still hear some sort of confirmation. Let's see what else. Oh, I was waiting on a call from our attorney but he must have gotten busy today so it's weird because I called in super early too.
+
+[Speaker 2]
+Keep you updated on that. Yeah, that's it.
+
+[Speaker 1]
 That's all I got. So whoever the trophy winner is, you haven't contacted me yet. And then I still have a few people to send some nice funds to and then we'll see I think we'll do a contest tomorrow since we didn't do one tonight.
 
-(44:37 - 45:05)
-Yeah, I think that's everything. Oh, do we have a plan B and C? I'm assuming for change now. So yes and no because we have to have change now. 
+Yeah, I think that's everything. Oh, do we have a plan B and C? I'm assuming for change now.
 
-We need change now. There's certain functions that change now has above all the rest. So we really need them even if we have a plan B and C. So yeah.
+So yes and no because we have to have change now. We need change now. There's certain functions that change now has above all the rest.
 
-(45:08 - 45:19)
-But I will keep you guys updated. Thank you very much. Appreciate it.
+So we really need them even if we have a plan B and C. So yeah. But I will keep you guys updated.
 
-(45:19 - 46:02)
-I do need all the prayers we can get. Whatever happened to that angry dude who had moderator in their bio? Oh yeah. That was weird. 
+Thank you very much. Appreciate it. I do need all the prayers we can get.
 
-I feel like Discord has been like a little bit more wild lately. Okay, I think that's everything. I will get this recording up right now. 
+Whatever happened to that angry dude who had moderator in their bio? Oh yeah. That was weird.
+
+I feel like Discord has been like a little bit more wild lately. Okay, I think that's everything. I will get this recording up right now.
 
 Let me just convert it and write some notes. In the meantime, let me know if you guys need anything else. Call, text, DM, email.
 
-(46:04 - 46:24)
 And I'm hoping the rest of the week is as eventful as it's started anyway. So because it's been it's been a good eventful for the most part. But you guys have a great night and I'll see you in general chat.

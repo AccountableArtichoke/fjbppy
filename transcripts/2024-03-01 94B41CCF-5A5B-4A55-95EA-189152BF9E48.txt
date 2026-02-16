@@ -1,346 +1,460 @@
-(0:00 - 0:13)
-What are you doing? Hi. Hi. Okay, and then I see some VESS issues.
+[Speaker 1]
+What are you doing? Hi. Hi.
 
-(0:14 - 3:24)
-Okay, so if you have your seed phrase, you can still log in to the app using your seed phrase. There's a few of you frustrated with the signing on to the app. Again, if you need to have your seed phrase or your VESS key, especially if you got a new device. 
+Okay, and then I see some VESS issues. Okay, so if you have your seed phrase, you can still log in to the app using your seed phrase. There's a few of you frustrated with the signing on to the app.
 
-I understand it's frustrating. This is why we are adding other login options. However, for any wallet, you should have your seed phrase or before we had the seed phrase, it was the VESS key. 
+Again, if you need to have your seed phrase or your VESS key, especially if you got a new device. I understand it's frustrating. This is why we are adding other login options.
 
-So I'm sorry, but there's not much I could do there for you if you don't have that information and decided to get a new device and didn't get that old information off the old device. It seems like maybe it's just the time of year where you all get new devices. I feel like a lot more people get the new phones around this time of year than the summers. 
+However, for any wallet, you should have your seed phrase or before we had the seed phrase, it was the VESS key. So I'm sorry, but there's not much I could do there for you if you don't have that information and decided to get a new device and didn't get that old information off the old device. It seems like maybe it's just the time of year where you all get new devices.
 
-Also, sorry, give me a second here. If you do have Android, you should see the Patriot Pay app in the Google Play Store now versus the Freedom Jobs business. If you have left a review and mentioned the FJB app, if you'd like mentioned the name of that in your review, you can edit it if you'd like to Patriot Pay. 
+I feel like a lot more people get the new phones around this time of year than the summers.
 
-Not sure if that helps with the search functions, but just an FYI, you know, if you're feeling up to it. And again, if you mentioned the reviews did transfer over there, you know, we can choose to have them transfer over or not. So we chose to keep the reviews.
+[Speaker 3]
+Also, sorry, give me a second here.
 
-(3:25 - 4:17)
-From the Freedom Jobs business app. But if you did mention FJB or Freedom Jobs business in your review and actually, you know, mentioned it by name, you could go in there and edit your review to mention Patriot Pay instead. Okay. 
+[Speaker 1]
+If you do have Android, you should see the Patriot Pay app in the Google Play Store now versus the Freedom Jobs business. If you have left a review and mentioned the FJB app, if you'd like mentioned the name of that in your review, you can edit it if you'd like to Patriot Pay. Not sure if that helps with the search functions, but just an FYI, you know, if you're feeling up to it.
 
+And again, if you mentioned the reviews did transfer over there, you know, we can choose to have them transfer over or not. So we chose to keep the reviews. From the Freedom Jobs business app.
+
+But if you did mention FJB or Freedom Jobs business in your review and actually, you know, mentioned it by name, you could go in there and edit your review to mention Patriot Pay instead.
+
+[Speaker 2]
+Okay.
+
+[Speaker 1]
 Able to sign in with my seed phrase. Able to sign in with my seed phrase. A few of those.
 
-(4:42 - 7:09)
-We're still working on the Smart Wallet. Will the app work like before? Will there need to be big buys to refill it once it gets emptied? Or will they come from like a marketing wallet or something? No, there won't be like a pool, like the Transact pool was before. For the time being, we will have it so you can purchase Matic directly and then swap it on the same page into Patriot Pay. 
+We're still working on the Smart Wallet. Will the app work like before? Will there need to be big buys to refill it once it gets emptied?
 
-Excuse me. While we, and there's several dozens of on-rampers for you to do that with. While we integrate a direct listing to PPY, direct on-ramper. 
+Or will they come from like a marketing wallet or something? No, there won't be like a pool, like the Transact pool was before. For the time being, we will have it so you can purchase Matic directly and then swap it on the same page into Patriot Pay.
 
-If you're not sure, you forgot the E there on the your. If you're not sure if you ever did a seed phrase, but have your vest key, should you set up a seed phrase or do you automatically have one if you have? If you have a wallet, then you automatically have a seed phrase. You'll go up to the cog wheel at the top of your screen in the app. 
+Excuse me. While we, and there's several dozens of on-rampers for you to do that with. While we integrate a direct listing to PPY, direct on-ramper.
 
-You'll click that and then you'll go to, hold on, let me log in with you because it doesn't say seed phrase in there again. This is changing. But, hi Larry, what you doing? I think my dog broke his tail. 
+If you're not sure, you forgot the E there on the your. If you're not sure if you ever did a seed phrase, but have your vest key, should you set up a seed phrase or do you automatically have one if you have? If you have a wallet, then you automatically have a seed phrase.
 
-Not broke, but like, I don't know, fractured maybe. He's been getting the good drugs. Okay, so once you hit that cog wheel, it'll, you'll click on show recovery phrase.
+You'll go up to the cog wheel at the top of your screen in the app. You'll click that and then you'll go to, hold on, let me log in with you because it doesn't say seed phrase in there again. This is changing.
 
-(7:11 - 8:39)
-And then you'll enter your pin. And wallet recovery will show up right there. You will only see your master wallet. 
+But, hi Larry, what you doing? I think my dog broke his tail. Not broke, but like, I don't know, fractured maybe.
 
-Some of you that have like mysteriously lost your wallets, if you've ever changed this name, when you hit that cog wheel in your app and change that, it comes automatically as master is what it's called. But if you've changed that name, that created a new wallet, which means a new seed phrase and a new vest key. And I know from looking at our app records, some of you have changed that name. 
+[Speaker 2]
+He's been getting the good drugs.
 
-So if you did lose your funds that way, and you're wondering how the heck you lost them and your wallet addresses don't match up, we'll get that. Once we get everything back and working, we'll reset that so you can enter another name if you made different wallet names. And if you had different wallets, if you don't know what I'm talking about, disregard. 
+[Speaker 1]
+Okay, so once you hit that cog wheel, it'll, you'll click on show recovery phrase. And then you'll enter your pin. And wallet recovery will show up right there.
 
-But if you did change that name, then that's for you. And DM me if you have any issues there. What if I just say F Joe Biden by PJ Paye? Sure.
+You will only see your master wallet. Some of you that have like mysteriously lost your wallets, if you've ever changed this name, when you hit that cog wheel in your app and change that, it comes automatically as master is what it's called. But if you've changed that name, that created a new wallet, which means a new seed phrase and a new vest key.
 
-(8:43 - 9:32)
-Why shouldn't share his seat? Does wag have a seed phrase? I don't know. I don't know. What kind of testing are we doing on the weekend? So this actually will be fairly trying to catch any bugs for us. 
+And I know from looking at our app records, some of you have changed that name. So if you did lose your funds that way, and you're wondering how the heck you lost them and your wallet addresses don't match up, we'll get that. Once we get everything back and working, we'll reset that so you can enter another name if you made different wallet names.
 
-That's what it'll be. Any bugs? Not smart wallet related. We're not deploying the on ramp or anything like that yet. 
+And if you had different wallets, if you don't know what I'm talking about, disregard. But if you did change that name, then that's for you. And DM me if you have any issues there.
 
-For those of you who can still sign in for us. It'll be the Patriot Pay integration into the app with Matic. Instead of the FJB on the Binance Smart Chain.
+[Speaker 2]
+What if I just say F Joe Biden by PJ Paye?
 
-(9:34 - 9:43)
-Are you feeling 100? Yeah, I'm pretty close. I think I'm good. Thank you.
+[Speaker 1]
+Sure. Why shouldn't share his seat? Does wag have a seed phrase?
 
-(9:48 - 10:00)
+I don't know. I don't know. What kind of testing are we doing on the weekend?
+
+So this actually will be fairly trying to catch any bugs for us. That's what it'll be. Any bugs?
+
+Not smart wallet related. We're not deploying the on ramp or anything like that yet. For those of you who can still sign in for us.
+
+It'll be the Patriot Pay integration into the app with Matic. Instead of the FJB on the Binance Smart Chain. Are you feeling 100?
+
+[Speaker 2]
+Yeah, I'm pretty close. I think I'm good. Thank you.
+
+[Speaker 1]
 I keep getting like, from that time I got sick, I feel like I keep getting that like, I haven't gotten rid of that yet. I should probably get back in the gym. That might help.
 
-(10:01 - 10:39)
-But it's like a cycle because I'm so fatigued. And then I don't. I'm sure that I'm eating like crap. 
+But it's like a cycle because I'm so fatigued. And then I don't. I'm sure that I'm eating like crap.
 
-I'm not. I haven't been into ketosis. No, Sam doesn't join the voice chats. 
+I'm not. I haven't been into ketosis. No, Sam doesn't join the voice chats.
 
 He's usually trying to make sure his kids don't drown. Russ says to get them drunk so they can sleep. That's how I feel with my dog sometimes.
 
-(10:41 - 11:17)
-My like nightmare one. He's a Shih Tzu. But then he is like, I think it was an eighth Terrier. 
+My like nightmare one. He's a Shih Tzu. But then he is like, I think it was an eighth Terrier.
 
-And I do regret that one eighth. I didn't think it'd make a difference. Definitely makes a difference. 
+And I do regret that one eighth. I didn't think it'd make a difference. Definitely makes a difference.
 
-MP is that MP? Did he get kicked out? This is the want list. Ppy price on TrustWallet. I know I've gotten all your DMs.
+MP is that MP? Did he get kicked out? This is the want list.
 
-(11:18 - 11:35)
-TrustWallet is working on that. I've been bugging them very politely. But they are. 
+Ppy price on TrustWallet. I know I've gotten all your DMs. TrustWallet is working on that. I've been bugging them very politely.
 
-They have assured me they have not forgot about me. And they actually have some excellent customer service. I'm quite impressed.
+But they are. They have assured me they have not forgot about me. And they actually have some excellent customer service.
 
-(11:38 - 12:46)
-I love that. Definitely stands out. There's like few companies like Epic, if any of you need to ever web host Epic, EPIK. 
+I'm quite impressed. I love that. Definitely stands out.
 
-Excellent customer service there. Just above and beyond. Amex, of course. 
+There's like few companies like Epic, if any of you need to ever web host Epic, EPIK. Excellent customer service there. Just above and beyond.
 
-I know even though most businesses hate it. But yeah, that's like TrustWallet is like on that level that I put with Epic, Amex. App finished. 
+Amex, of course. I know even though most businesses hate it. But yeah, that's like TrustWallet is like on that level that I put with Epic, Amex.
 
-Yeah, we have several deployments to roll, which again, I'd much rather it be this way actually than you guys like waiting. I'd much rather us have stuff ready to roll out and just waiting for specific reasons, whether that's legal or devs or legal and devs. We're waiting to push them out. 
+App finished. Yeah, we have several deployments to roll, which again, I'd much rather it be this way actually than you guys like waiting. I'd much rather us have stuff ready to roll out and just waiting for specific reasons, whether that's legal or devs or legal and devs.
 
-I think that's much better than the other way around where we're all waiting for the devs to be done. It feels really good to have it this way. Coins burned and BNB wallets.
+We're waiting to push them out. I think that's much better than the other way around where we're all waiting for the devs to be done. It feels really good to have it this way.
 
-(12:49 - 13:01)
-Oh, Ed says I had it in my review earlier on both Android and Apple. I don't think I've reviewed the apps. Maybe I should.
+Coins burned and BNB wallets.
 
-(13:14 - 14:50)
-Let's see. Discord. Hold on, guys. 
+[Speaker 2]
+Oh, Ed says I had it in my review earlier on both Android and Apple.
 
-Just gotta hook us up on cache. How long and what are we waiting on to test vise before? Mainly what we're waiting for right now to deploy some changes is we're just waiting on some technical or rather administrative or legal. I'm trying to word this. 
+[Speaker 1]
+I don't think I've reviewed the apps. Maybe I should.
 
-Just some legal things with devs or with a partner. A partner that includes some devs. That's the step we're waiting on. 
+[Speaker 4]
+Let's see. Discord.
 
-Once that's done, we can deploy that, which is the PPI integration with the Matic. Once that's done, thinking off the top of my head, even though I have all my paperwork here. Once that's done, it'll be the new auth service and wallet generation and account.
+[Speaker 2]
+Hold on, guys.
 
-(14:54 - 15:36)
-Basically, the new account, how you guys will set up your account process, which that's awesome. Again, that's 100% complete. It's been complete for actually a few weeks. 
+[Speaker 1]
+Just gotta hook us up on cache. How long and what are we waiting on to test vise before? Mainly what we're waiting for right now to deploy some changes is we're just waiting on some technical or rather administrative or legal.
 
-After that, we'll be, and I'm speaking of the major ones, too. After that will be the onRamper, which will be available, should be available in every state, minus you guys in New York, Louisiana, I think. I don't think you guys have nothing that works in those states.
+I'm trying to word this. Just some legal things with devs or with a partner. A partner that includes some devs.
 
-(15:41 - 16:10)
-Will tax be cheaper in the app? Nope. Tax will be the same. App and everywhere else. 
+That's the step we're waiting on. Once that's done, we can deploy that, which is the PPI integration with the Matic. Once that's done, thinking off the top of my head, even though I have all my paperwork here.
 
+Once that's done, it'll be the new auth service and wallet generation and account. Basically, the new account, how you guys will set up your account process, which that's awesome. Again, that's 100% complete.
+
+It's been complete for actually a few weeks. After that, we'll be, and I'm speaking of the major ones, too. After that will be the onRamper, which will be available, should be available in every state, minus you guys in New York, Louisiana, I think.
+
+I don't think you guys have nothing that works in those states. Will tax be cheaper in the app? Nope.
+
+Tax will be the same.
+
+[Speaker 2]
+App and everywhere else.
+
+[Speaker 1]
 Every other dex. We will not be getting on any centralized exchanges. It's not in the plan for anytime soon.
 
-(16:15 - 17:20)
-Does somebody want the contest? That's nice. Let's look at that. Let's check out who this winner is. 
+Does somebody want the contest?
 
-I feel like you guys are tracking wallets. Let's search. Okay. 
+[Speaker 2]
+That's nice. Let's look at that. Let's check out who this winner is.
 
-Wow. Wow. Interesting. 
+I feel like you guys are tracking wallets. Let's search. Okay.
 
+Wow. Wow.
+
+[Speaker 4]
+Interesting.
+
+[Speaker 1]
 No crying. No crying. Hey.
 
-(17:36 - 18:46)
-Let's see. Okay. Nice. 
+Let's see.
 
-Oh, yeah. Did he get it? Did he get the new Eagle yet? Let's tip. Now that we have tips working, let's tip a few.
+[Speaker 3]
+Okay. Nice.
 
-(19:08 - 21:19)
-Ah. Comma did it, huh? Tip ultra sweet since he's been pretty much playing customer service along with Ed. And then Ed for setting up our bots. 
+[Speaker 1]
+Oh, yeah. Did he get it? Did he get the new Eagle yet?
 
-Thank you. And then let's see. What else? I hope that's JB. 
+[Speaker 4]
+Let's tip. Now that we have tips working, let's tip a few.
 
-Is that JB? Easy money. Because I know you guys have all been doing my job. We're playing customer service here. 
+[Speaker 5]
+Ah.
+
+[Speaker 2]
+Comma did it, huh?
+
+[Speaker 1]
+Tip ultra sweet since he's been pretty much playing customer service along with Ed. And then Ed for setting up our bots. Thank you.
+
+And then let's see.
+
+[Speaker 4]
+What else?
+
+[Speaker 3]
+I hope that's JB. Is that JB?
+
+[Speaker 2]
+Easy money. Because I know you guys have all been doing my job. We're playing customer service here.
 
 So thank you. Thank you. Thank you.
 
-(21:26 - 23:10)
-Okay. Can you tip me some ramen money? Okay. Here you go. 
+Okay. Can you tip me some ramen money? Okay.
 
-There's some ramen. What else? Can you tell us any more of this reflection coin option coming in the future at some point? Yes. Reflection coin will be basically to have an official reflection coin. 
+Here you go.
 
-That way we don't get another like before any of you that were familiar when we had a FJB had, you know, somebody create a baby FJB coin and try to capitalize on that. And then just lots of headaches and unnecessary. I think things going on there. 
+[Speaker 1]
+There's some ramen.
+
+[Speaker 3]
+What else?
+
+[Speaker 1]
+Can you tell us any more of this reflection coin option coming in the future at some point? Yes. Reflection coin will be basically to have an official reflection coin.
+
+That way we don't get another like before any of you that were familiar when we had a FJB had, you know, somebody create a baby FJB coin and try to capitalize on that. And then just lots of headaches and unnecessary. I think things going on there.
 
 So this way we have an official reflection coin. So when we when we made the Patriot Pay contract from scratch, we actually. There's many, many technicalities, but we couldn't get all the functions we wanted.
 
-(23:11 - 25:33)
-And I mean, it took a lot longer than it was supposed to, because we still I mean, the devs worked their butts off along with our team to get the functions we did that we do have now. However, we couldn't get a percentage to the LP and a percentage and reflections. We couldn't get those because of like a Uniswap version issue, you know, whatever, some technicalities that there was really we had to choose which one. 
+And I mean, it took a lot longer than it was supposed to, because we still I mean, the devs worked their butts off along with our team to get the functions we did that we do have now. However, we couldn't get a percentage to the LP and a percentage and reflections. We couldn't get those because of like a Uniswap version issue, you know, whatever, some technicalities that there was really we had to choose which one.
 
-So this way we decided we'd keep that a percentage of our taxes can go to the LP. We can always turn that off. We can always put it to zero for, you know, done with that and have zero percent go to LP. 
+So this way we decided we'd keep that a percentage of our taxes can go to the LP. We can always turn that off. We can always put it to zero for, you know, done with that and have zero percent go to LP.
 
-But we chose to keep that in the contract because for reflection and also tax wise, it works out better for you guys. And that way we can have a different coin where you can get reflections of P.P.Y. But it would be up to you whether you want to purchase that coin and whether you want to deal with that tax wise and you know, all that stuff. But I'll get you details on that as soon as everything is finalized there and everybody will get a fair chance if they want to purchase that coin to purchase it. 
+But we chose to keep that in the contract because for reflection and also tax wise, it works out better for you guys. And that way we can have a different coin where you can get reflections of P.P.Y. But it would be up to you whether you want to purchase that coin and whether you want to deal with that tax wise and you know, all that stuff. But I'll get you details on that as soon as everything is finalized there and everybody will get a fair chance if they want to purchase that coin to purchase it.
 
-And again, as always, we'll keep the best interest of the organization, the best interest of the holders and future holders top priority. Ed. Yeah, accidentally. 
+And again, as always, we'll keep the best interest of the organization, the best interest of the holders and future holders top priority. Ed. Yeah, accidentally.
 
-Yeah, that's what I was thinking Wolverine. Wolverine typed it much before I saw it. Amish Ninja should have specified what is a pot? What does a pack of ramen cost? I don't even know.
+Yeah, that's what I was thinking Wolverine. Wolverine typed it much before I saw it. Amish Ninja should have specified what is a pot?
 
-(25:33 - 25:47)
-Why are you eating that crap? Honestly, can we not? What does a pack of ramen cost? I don't know. Let's Google this. I'm very curious now.
+What does a pack of ramen cost? I don't even know. Why are you eating that crap?
 
-(25:48 - 28:41)
-Didn't this used to be like 10 cents? Very curious what inflation did to them. Holy smokes. They're 30 cents now. 
+Honestly, can we not? What does a pack of ramen cost? I don't know.
 
-Fifty six cents. Oh, my gosh. What? I could have sworn those used to be like pennies, like a dime. 
+Let's Google this. I'm very curious now. Didn't this used to be like 10 cents?
 
-Am I reading this right? I mean, I don't know. That's what Google says. Let's see. 
+Very curious what inflation did to them. Holy smokes. They're 30 cents now.
 
-Sixty nine cents. Oh, my gosh. Holy smokes. 
+Fifty six cents. Oh, my gosh. What?
 
-Ten dollars for a 12 pack. Those are a dollar. The ones you get in like the little cup that you put in the microwave for more radiation in case ramen is not bad enough for you. 
+I could have sworn those used to be like pennies, like a dime. Am I reading this right? I mean, I don't know.
 
-Wow. Oh, boy. Yeah, that's what I was. 
+That's what Google says. Let's see.
 
-Yeah. The cup of noodles. Yeah. 
+[Speaker 2]
+Sixty nine cents.
 
-That way you have the noodles plus radiation. It's amazing. Oh, my goodness. 
+[Speaker 1]
+Oh, my gosh. Holy smokes. Ten dollars for a 12 pack.
 
-Well, there you go. There's a whole pack. You're welcome. 
+Those are a dollar. The ones you get in like the little cup that you put in the microwave for more radiation in case ramen is not bad enough for you. Wow.
 
-I'm a bit lost. Did we figure this out with Naomi? Nice. We had 22 buys for the contest. 
+[Speaker 3]
+Oh, boy.
 
-You know what? We'll start doing that contest. Every voice chat, twice a week at least. Did we figure out Naomi's issue? What option do I select? I'm not seeing anything to add.
+[Speaker 1]
+Yeah, that's what I was. Yeah. The cup of noodles.
 
-(29:07 - 30:02)
-Looks like she got taken care of. Yeah. I'm a little bit behind apparently and two minutes behind. 
+Yeah. That way you have the noodles plus radiation. It's amazing.
 
-Two minutes and 26 seconds. Naomi, you said you see the coins in there, just not the total, right? Oh, she hasn't added it yet. Are we close to launch and marketing? Yes, this month. 
+Oh, my goodness. Well, there you go.
 
-So, happy March, by the way. I can't believe it's March. I thought March was yesterday.
+[Speaker 2]
+There's a whole pack.
 
-(30:02 - 31:43)
-I was delighted to hear that it was a leap year, but March will be definitely deploying all the app changes we have this far, which is the new login account and wallet generation, which you guys will absolutely love. We will have a little bit of a transition. We will walk you through it. 
+[Speaker 1]
+You're welcome.
 
-Don't stress out. Again, everything will be written out and detailed for you to follow instructions and I'll be around to help you all through everything. Everything that we have waiting to be deployed will be deployed in March, plus adding the marketplace and the education portion. 
+[Speaker 2]
+I'm a bit lost. Did we figure this out with Naomi?
 
-The education portion will be definitely added before we start marketing. We're after CPAC. We have some amazing things happening as far as marketing and partnerships that we hope to have wrapped up within the first quarter, but I am not holding my breath just because a lot of the partnerships are with larger partners than us, I think.
+[Speaker 1]
+Nice. We had 22 buys for the contest. You know what?
 
-(31:45 - 32:00)
-So you guys know how that goes and contracts back and forth and legalities and all that. Would be wonderful to have that wrapped up within this quarter. I think that would be amazing.
+We'll start doing that contest. Every voice chat, twice a week at least. Did we figure out Naomi's issue?
 
-(32:02 - 33:04)
-Also have another, I think I already shared that with you guys, another concentrated convention in a week or so. That should also be really, really great for us. ETA on Apple updating the name. 
+What option do I select? I'm not seeing anything to add.
 
-We have no clue. So Apple is making us create a yet another Google developer account and reviewing our new LLC. Whoa, tipsy. 
+[Speaker 2]
+Looks like she got taken care of. Yeah. I'm a little bit behind apparently and two minutes behind.
 
-For some reason, the first time I read that, I thought you meant like drinking. I'm like, no, I'm actually not. Haven't been feeling well, so no drinking during the voice chats.
+Two minutes and 26 seconds.
 
-(33:07 - 33:42)
-No alcohol drinking, I should say. I do have my, I warmed up some raw milk with vanilla and spice, like, I guess, almost like a pumpkin spice. Spices. 
+[Speaker 1]
+Naomi, you said you see the coins in there, just not the total, right?
 
-It's pretty good. Weekend shill, pushing PPY on Polly swap. All for his glory, blessing us with her presence.
+[Speaker 2]
+Oh, she hasn't added it yet.
 
-(33:45 - 35:56)
-I'd need some tip help. Naomi looks like needs to add her PPY. Gen X and Steve drinking. 
+[Speaker 1]
+Are we close to launch and marketing? Yes, this month. So, happy March, by the way.
 
-What are you guys drinking? Yeah, let's not drive. Who's bendy boy is that? Is Naomi listening? I feel like this would be a lot easier to walk her through it. Oh, yeah, you are. 
+I can't believe it's March. I thought March was yesterday. I was delighted to hear that it was a leap year, but March will be definitely deploying all the app changes we have this far, which is the new login account and wallet generation, which you guys will absolutely love.
 
-Naomi, did you go in, go in and do once you get into Trust Wallet or include a screenshot so we can know what step you're on. But on the bottom of your list, you should see Manage Crypto. Once you're in that, then plus, press the plus sign in the top right of your screen. 
+We will have a little bit of a transition. We will walk you through it. Don't stress out.
 
-It's gonna be on the very top right. Let me check my email. I checked it just a little bit ago.
+Again, everything will be written out and detailed for you to follow instructions and I'll be around to help you all through everything. Everything that we have waiting to be deployed will be deployed in March, plus adding the marketplace and the education portion. The education portion will be definitely added before we start marketing.
 
-(36:23 - 36:40)
-I don't think for a voice chat, anyway. They need to come out with a gluten free beer. For all the celiacs.
+We're after CPAC. We have some amazing things happening as far as marketing and partnerships that we hope to have wrapped up within the first quarter, but I am not holding my breath just because a lot of the partnerships are with larger partners than us, I think. So you guys know how that goes and contracts back and forth and legalities and all that.
 
-(36:43 - 37:45)
-Okay, now click that plus sign on the top right. I don't remember a bendy boy. Love you too. 
+Would be wonderful to have that wrapped up within this quarter. I think that would be amazing. Also have another, I think I already shared that with you guys, another concentrated convention in a week or so.
 
-What was your old screen name? Are you a brother by any chance? Let me know Naomi when you do that. After you hit that plus sign, you should see Polygon. And just polygon. 
+That should also be really, really great for us. ETA on Apple updating the name. We have no clue.
 
-There's another one that's a polygon. Zero knowledge. You're not doing that.
+So Apple is making us create a yet another Google developer account and reviewing our new LLC. Whoa, tipsy. For some reason, the first time I read that, I thought you meant like drinking.
 
-(37:45 - 38:46)
-You're just gonna select polygon should be should see on the first screen or so depending on how larger screen is. What? How do I miss this? I don't know. I don't believe you. 
+I'm like, no, I'm actually not. Haven't been feeling well, so no drinking during the voice chats. No alcohol drinking, I should say.
 
-How have I missed a bendy boy? Which by the way, reminds me of what's the character? What's the like green? The green bendy character. This is how bad I am with pop culture. Who am I talking? Gumby. 
+I do have my, I warmed up some raw milk with vanilla and spice, like, I guess, almost like a pumpkin spice. Spices. It's pretty good.
 
-Your name reminds me of Gumby. I have to google that. Oh, you guys already answered it. 
+[Speaker 3]
+Weekend shill, pushing PPY on Polly swap.
 
-I didn't even need to google it. Awesome. So in the networks field, Naomi, click on that.
+[Speaker 1]
+All for his glory, blessing us with her presence. I'd need some tip help. Naomi looks like needs to add her PPY.
 
-(38:47 - 38:57)
-Where it says Ethereum, and you're going to select polygon. Just polygon. Because there'll be another option that says polygon.
+Gen X and Steve drinking. What are you guys drinking? Yeah, let's not drive.
 
-(38:58 - 39:14)
-Zero knowledge. But you're not selecting that one. And then you'll copy and paste that address that Sam just had the system.
+Who's bendy boy is that?
 
-(39:16 - 39:25)
-Spit back. Put that in the contract field. Once you do that, everything else should auto populate.
+[Speaker 2]
+Is Naomi listening? I feel like this would be a lot easier to walk her through it.
 
-(39:28 - 39:36)
-Make sure you only copy the app. Yeah, right there. Be careful though.
+[Speaker 1]
+Oh, yeah, you are. Naomi, did you go in, go in and do once you get into Trust Wallet or include a screenshot so we can know what step you're on. But on the bottom of your list, you should see Manage Crypto.
 
-(39:38 - 41:27)
-Yeah, be careful to not like copy weird ones from untrusted sources. But yeah, everything's been good. I feel like I've been MIA in the chats, but I have been here just working on stuff on the back end. 
+Once you're in that, then plus, press the plus sign in the top right of your screen. It's gonna be on the very top right.
 
-That's super exciting. I feel like I'm usually in the chats if I'm less busy. Let's see. 
+[Speaker 2]
+Let me check my email. I checked it just a little bit ago. I don't think for a voice chat, anyway.
 
-Perfect. That's auto populated now for you, Naomi. Just import. 
+[Speaker 1]
+They need to come out with a gluten free beer. For all the celiacs. Okay, now click that plus sign on the top right.
 
-Once you hit import, you should see your total same total number of PPY that you had of FJB at the time of snapshot, which was December 16th at around 2 a.m. I have it down to the seconds and screenshotted and recorded somewhere, but I should probably memorize it. My time. So about 4 a.m-ish Eastern.
+I don't remember a bendy boy. Love you too. What was your old screen name?
 
-(41:29 - 42:03)
-You'll be able to see your coins there that you had at that time in FJB. Also, a lot of you still messaging me about, not a lot of you, I should say, but I mean, I feel like it's a lot because there's still some stragglers. If you happen to sell your coins a few weeks before the fork, and then you decided to buy right after the snapshot, I hate to be the person to tell you, but I'm sorry, you do not receive an airdrop.
+Are you a brother by any chance?
 
-(42:03 - 44:58)
-It's very unfortunate, I know, but still a pretty low price to buy, I think right now. Yes, that's correct. So you will see the PPY amount in the coins, the amount that is 100% right for every single person. 
+[Speaker 2]
+Let me know Naomi when you do that.
 
-There's not been one mistake because we used a very amazing service, but you won't see a dollar amount yet until TrustWallet updates our listing. We are waiting on that. The last update was as of yesterday morning. 
+[Speaker 1]
+After you hit that plus sign, you should see Polygon. And just polygon. There's another one that's a polygon.
 
-They have not forgot about us. They're still working on it. Apparently, they just have a very high volume, but yeah. 
+Zero knowledge. You're not doing that. You're just gonna select polygon should be should see on the first screen or so depending on how larger screen is.
 
-What I'll do also is give you this, Naomi. You can check the price at this link here and you can always manually. Alternatively, you can always get your MetaMask, download MetaMask app on your phone or browser and enter your seed phrase. 
+What? How do I miss this? I don't know.
 
-Just make sure it is the correct MetaMask app and browser because there are some scammer ones and MetaMask is showing the price correctly. We got a new stock market topic in Telegram. Tim wanted that to share his.
+I don't believe you. How have I missed a bendy boy? Which by the way, reminds me of what's the character?
 
-(45:06 - 46:10)
-Let's see what they have in there. SMCI. I don't see any target calls. 
+What's the like green? The green bendy character. This is how bad I am with pop culture.
 
-Target call. SMCI. Shares of that instead of. 
+Who am I talking? Gumby. Your name reminds me of Gumby.
 
-I don't know if that's what Tim. Was that Tim? Yeah. She shares.
+I have to google that. Oh, you guys already answered it. I didn't even need to google it.
 
-(46:27 - 48:29)
-Russ is going to go get another drink, I think. What link are you talking about? Phoenix. Oh, you know who else? Oh, that's who I need to tip. 
+Awesome. So in the networks field, Naomi, click on that. Where it says Ethereum, and you're going to select polygon.
 
-I need to tip. Shoot. I always forget his Discord handle. 
+Just polygon. Because there'll be another option that says polygon. Zero knowledge.
 
-What is Andy's Discord handle? Anybody know? Oh, I think I know it. Yes, there it is. From Mr. Andy Smith.
+But you're not selecting that one. And then you'll copy and paste that address that Sam just had the system. Spit back.
 
-(48:40 - 50:14)
-Bye, Sean. Have a good night. Say hi to the wifey and the kids and the bird. 
+Put that in the contract field. Once you do that, everything else should auto populate. Make sure you only copy the app.
 
-Didn't I have an African Grey? What's the correct MetaMask link? Hold on. Should be this, which is MetaMask.io. I have the app on my phone, but I don't ever use it. Well, I think that's everything that I got here.
+Yeah, right there. Be careful though. Yeah, be careful to not like copy weird ones from untrusted sources.
 
-(50:18 - 51:04)
-Yeah, I'm excited for March. I think we'll wrap up our quarter strong. I am excited for the convention. 
+But yeah, everything's been good. I feel like I've been MIA in the chats, but I have been here just working on stuff on the back end. That's super exciting.
 
-I'm 90% sure we'll be there. The convention in about a week. Yeah, I think that's all I got. 
+I feel like I'm usually in the chats if I'm less busy. Let's see. Perfect.
 
-Do be careful, please, with sharing your info. I think it's been what, a week now since the last person got scammed? I know I'm always repeating it, but I feel like it'll happen on your off day that you guys don't feel well or something like that. Please don't share your information with anybody and don't click on any strange links.
+That's auto populated now for you, Naomi. Just import. Once you hit import, you should see your total same total number of PPY that you had of FJB at the time of snapshot, which was December 16th at around 2 a.m. I have it down to the seconds and screenshotted and recorded somewhere, but I should probably memorize it. My time. So about 4 a.m-ish Eastern. You'll be able to see your coins there that you had at that time in FJB.
 
-(51:04 - 51:53)
-I think that's how the last few happened. I'm not sure if that's how it's going to be this November. Nobody will call you. 
+Also, a lot of you still messaging me about, not a lot of you, I should say, but I mean, I feel like it's a lot because there's still some stragglers. If you happen to sell your coins a few weeks before the fork, and then you decided to buy right after the snapshot, I hate to be the person to tell you, but I'm sorry, you do not receive an airdrop. It's very unfortunate, I know, but still a pretty low price to buy, I think right now.
 
-Me, the admins won't ask for your info or none of us will call you. That's for sure. If anybody calls you claiming to be me or a dev or an admin, you shouldn't be giving that information to anybody anyway, but it's not us. 
+Yes, that's correct. So you will see the PPY amount in the coins, the amount that is 100% right for every single person. There's not been one mistake because we used a very amazing service, but you won't see a dollar amount yet until TrustWallet updates our listing.
 
-If you're ever in doubt, please ask in the general chats. I hate that we can't really do much for you when you do get scammed, so please just protect your assets. If you all need anything else, please let me know. 
+We are waiting on that. The last update was as of yesterday morning. They have not forgot about us.
 
-Email, call, text, DM, tag me. Tag me if you DM. I am behind on DMs.
+They're still working on it. Apparently, they just have a very high volume, but yeah. What I'll do also is give you this, Naomi.
 
-(51:55 - 56:11)
-Actually, I need to catch up on, I think, some of yesterday's DMs. I think I got to most of those this morning, but I do need to catch up on DMs. Whoa, decent tip. 
+You can check the price at this link here and you can always manually. Alternatively, you can always get your MetaMask, download MetaMask app on your phone or browser and enter your seed phrase. Just make sure it is the correct MetaMask app and browser because there are some scammer ones and MetaMask is showing the price correctly.
 
-Actually, that tip to Andy Smith was, he's the one, he's in my local investing group, and he's actually the one who posted about FTB coin. Not sure if that's a negative or a positive, but I appreciate that. Thank you for that. 
+We got a new stock market topic in Telegram. Tim wanted that to share his.
 
-I guess we may or may not be here without you, Andy. I think we'll also get him to wrap a vehicle for us in this coming year, a Patriot Pay vehicle, so I think that'll be fun. Oh, that actually reminds me. 
+[Speaker 2]
+Let's see what they have in there. SMCI.
 
-I saw a question. I think it was while I was helping Naomi, maybe, and then I forgot to answer it. Somebody asked, Telegram, who was it? Somebody asked to pass Patriot Pay gift cards. 
+[Speaker 3]
+I don't see any target calls. Target call. SMCI.
 
-It's something along the lines of how did people react or how did people accept them, but yes, we did. I handed out the gift cards randomly to people I met afterwards, people I met while, you know, during drinks and dinner or whatever, but also mostly during the War Room segments when War Room would pass out the either mugs or sweatshirts, t-shirts. I would also pass out the gift cards, and people were very excited about them, so looking forward to those users hopping on. 
+Shares of that instead of.
 
-I know a lot of people are still kind of recovering from CPAC. It was a lot of week, a lot, a long week, and I feel like you're like running on adrenaline, and then, you know, you get home, and it's like, okay, I could finally sleep, so I have no doubt those users will come around, but very excited about that. Forget what led to that now, but yeah, I think that's everything. 
+[Speaker 1]
+I don't know if that's what Tim. Was that Tim? Yeah.
 
-Again, was the post office, oh yeah, the Canada, so it's weird. The post office charges me something different every time I've gone in, but those of you who are getting your stickers later, I really think it's because the person had me use sticker, like not stamps, not like printed stamps, but just regular stamps, and put them on there. I asked them about it last week when I, or yeah, this week earlier when I went in, and I said that shouldn't be an issue, but I'm wondering if he just had me use the wrong postage. 
+[Speaker 2]
+She shares. Russ is going to go get another drink, I think.
 
-I'm not sure, but anyway, this time they charged me again something else. They've usually been charging me $1.60 and up per like letter, and for the three stickers, this time it's like 90 cents a piece, so I don't know. I don't know what, I'm not a post office employee, so I'm not sure how that all works, but yes, your Canada one was only like, I want to say under four dollars. 
+[Speaker 1]
+What link are you talking about?
 
-I have the receipt here somewhere, but yeah, it wasn't the 16 or 20 you were talking about. Okay, Sam, for some reason I thought it was dog bone or somebody else, but yeah, it's, no, I've not, I've not received any of them back, but it seems like some, some people are just now receiving them, which is very strange, because I sent out, that was the largest batch I sent out, but it was the batch they had me, the guy just gave me. He metered one of them and said, okay, well here, just put these two stamps on each one.
+[Speaker 3]
+Phoenix. Oh, you know who else? Oh, that's who I need to tip.
 
-(56:12 - 56:54)
-They're like Valentine's Day stamps he had me put on there too, but hopefully this last batch makes it to you guys quicker. Again, if you don't receive it, please let me know and I'll go ahead and resend. I'm not sure why that one batch has taken the longest. 
+I need to tip. Shoot.
 
-Give me an excuse to wash and update. Oh yeah, so that's what, actually, that's what I need to ask Andy about, is wrapping a vehicle. That'll be, that'll be awesome.
+[Speaker 1]
+I always forget his Discord handle.
 
-(56:54 - 1:00:25)
-Get to college campuses and pass out PPY. Also, actually, speaking of that, we will have some TPUSA college marketing too. I'm very excited about that, so I'll update you as all comes about. 
+[Speaker 2]
+What is Andy's Discord handle?
 
-We just need the app completely ready and working smoothly and you and new users being very easily able to create your accounts and your wallets and able to easily transact in there. That's the whole point, right? As soon as we get that working flawlessly, I think marketing will be a breeze. I'm very excited. 
+[Speaker 3]
+Anybody know? Oh, I think I know it. Yes, there it is.
 
-We've really, yeah, I think we're really coming at a great time with elections, with the way the economy is going, with working towards a patriot economy, with the bull market. I think many, many things. I really think everything has been meant to be the way everything has worked. 
+[Speaker 1]
+From Mr. Andy Smith. Bye, Sean. Have a good night.
 
-I'm very excited for that and yeah, good always wins. Good always wins. I am positive of that and I think this will be more proof of that and a testament of that. 
+Say hi to the wifey and the kids and the bird. Didn't I have an African Grey? What's the correct MetaMask link?
 
-Hi! I'd also like one true three-post from President Trump. I think that would make me the happiest. I know we've made it win. 
+Hold on. Should be this, which is MetaMask.io. I have the app on my phone, but I don't ever use it.
 
-Thank you, Russ. Have a good night. Okay, well, I think I'll post this recording. 
+[Speaker 3]
+Well, I think that's everything that I got here.
 
-I actually forgot to record. Like I said, I'm just, I'm not connecting from my usual spot. So, I will post a recording, but I missed a tiny bit at the beginning. 
+[Speaker 1]
+Yeah, I'm excited for March. I think we'll wrap up our quarter strong. I am excited for the convention.
 
-Let's see. It says I missed 60, about the first 12 minutes, but I think we, I think those same questions got asked a few times over like usual, but either way, if you have any questions after, feel free to ask them. Tag me. 
+I'm 90% sure we'll be there. The convention in about a week. Yeah, I think that's all I got.
 
-I will get caught up on my DMs tonight. I am feeling a lot better. I will be back home tomorrow in time to do my community service stuff and then, yeah, I think that's it. 
+Do be careful, please, with sharing your info. I think it's been what, a week now since the last person got scammed? I know I'm always repeating it, but I feel like it'll happen on your off day that you guys don't feel well or something like that.
 
-That's all I got. Yeah, thank you all so much. I will see you in the general chat. 
+Please don't share your information with anybody and don't click on any strange links. I think that's how the last few happened. I'm not sure if that's how it's going to be this November.
 
-I'll get this converted right now. Give me a second just to grab some dinner, probably.
+Nobody will call you. Me, the admins won't ask for your info or none of us will call you. That's for sure.
+
+If anybody calls you claiming to be me or a dev or an admin, you shouldn't be giving that information to anybody anyway, but it's not us. If you're ever in doubt, please ask in the general chats. I hate that we can't really do much for you when you do get scammed, so please just protect your assets.
+
+If you all need anything else, please let me know. Email, call, text, DM, tag me. Tag me if you DM.
+
+I am behind on DMs. Actually, I need to catch up on, I think, some of yesterday's DMs. I think I got to most of those this morning, but I do need to catch up on DMs. Whoa, decent tip. Actually, that tip to Andy Smith was, he's the one, he's in my local investing group, and he's actually the one who posted about FTB coin. Not sure if that's a negative or a positive, but I appreciate that.
+
+Thank you for that. I guess we may or may not be here without you, Andy. I think we'll also get him to wrap a vehicle for us in this coming year, a Patriot Pay vehicle, so I think that'll be fun.
+
+Oh, that actually reminds me. I saw a question. I think it was while I was helping Naomi, maybe, and then I forgot to answer it.
+
+Somebody asked, Telegram, who was it? Somebody asked to pass Patriot Pay gift cards. It's something along the lines of how did people react or how did people accept them, but yes, we did.
+
+I handed out the gift cards randomly to people I met afterwards, people I met while, you know, during drinks and dinner or whatever, but also mostly during the War Room segments when War Room would pass out the either mugs or sweatshirts, t-shirts. I would also pass out the gift cards, and people were very excited about them, so looking forward to those users hopping on. I know a lot of people are still kind of recovering from CPAC.
+
+It was a lot of week, a lot, a long week, and I feel like you're like running on adrenaline, and then, you know, you get home, and it's like, okay, I could finally sleep, so I have no doubt those users will come around, but very excited about that. Forget what led to that now, but yeah, I think that's everything. Again, was the post office, oh yeah, the Canada, so it's weird.
+
+The post office charges me something different every time I've gone in, but those of you who are getting your stickers later, I really think it's because the person had me use sticker, like not stamps, not like printed stamps, but just regular stamps, and put them on there. I asked them about it last week when I, or yeah, this week earlier when I went in, and I said that shouldn't be an issue, but I'm wondering if he just had me use the wrong postage. I'm not sure, but anyway, this time they charged me again something else.
+
+They've usually been charging me $1.60 and up per like letter, and for the three stickers, this time it's like 90 cents a piece, so I don't know. I don't know what, I'm not a post office employee, so I'm not sure how that all works, but yes, your Canada one was only like, I want to say under four dollars. I have the receipt here somewhere, but yeah, it wasn't the 16 or 20 you were talking about.
+
+Okay, Sam, for some reason I thought it was dog bone or somebody else, but yeah, it's, no, I've not, I've not received any of them back, but it seems like some, some people are just now receiving them, which is very strange, because I sent out, that was the largest batch I sent out, but it was the batch they had me, the guy just gave me. He metered one of them and said, okay, well here, just put these two stamps on each one. They're like Valentine's Day stamps he had me put on there too, but hopefully this last batch makes it to you guys quicker.
+
+Again, if you don't receive it, please let me know and I'll go ahead and resend. I'm not sure why that one batch has taken the longest. Give me an excuse to wash and update.
+
+Oh yeah, so that's what, actually, that's what I need to ask Andy about, is wrapping a vehicle. That'll be, that'll be awesome. Get to college campuses and pass out PPY.
+
+Also, actually, speaking of that, we will have some TPUSA college marketing too. I'm very excited about that, so I'll update you as all comes about. We just need the app completely ready and working smoothly and you and new users being very easily able to create your accounts and your wallets and able to easily transact in there.
+
+That's the whole point, right? As soon as we get that working flawlessly, I think marketing will be a breeze. I'm very excited.
+
+We've really, yeah, I think we're really coming at a great time with elections, with the way the economy is going, with working towards a patriot economy, with the bull market. I think many, many things. I really think everything has been meant to be the way everything has worked.
+
+I'm very excited for that and yeah, good always wins. Good always wins. I am positive of that and I think this will be more proof of that and a testament of that.
+
+Hi! I'd also like one true three-post from President Trump. I think that would make me the happiest.
+
+I know we've made it win. Thank you, Russ. Have a good night.
+
+Okay, well, I think I'll post this recording. I actually forgot to record. Like I said, I'm just, I'm not connecting from my usual spot.
+
+So, I will post a recording, but I missed a tiny bit at the beginning. Let's see. It says I missed 60, about the first 12 minutes, but I think we, I think those same questions got asked a few times over like usual, but either way, if you have any questions after, feel free to ask them.
+
+Tag me. I will get caught up on my DMs tonight. I am feeling a lot better.
+
+I will be back home tomorrow in time to do my community service stuff and then, yeah, I think that's it. That's all I got. Yeah, thank you all so much.
+
+I will see you in the general chat. I'll get this converted right now. Give me a second just to grab some dinner, probably.

@@ -1,197 +1,228 @@
-(0:08 - 4:29)
-Alright, so, the devs are working on some bugs still, mainly some bugs with our contract and the way it's working in the app. That was, our smart contract is different than it was with FJB. So, some of the features on there are impacting some of your swaps and some of the errors. 
+[Speaker 1]
+Alright, so, the devs are working on some bugs still, mainly some bugs with our contract and the way it's working in the app. That was, our smart contract is different than it was with FJB. So, some of the features on there are impacting some of your swaps and some of the errors.
 
-Some of the errors we get sometimes, but not happening all the times. So, I know All for His Glory was one of the first to experience one of the errors, I think, while we were still on the call. A lot of times, if you try the transaction again, it actually will go through. 
+Some of the errors we get sometimes, but not happening all the times. So, I know All for His Glory was one of the first to experience one of the errors, I think, while we were still on the call. A lot of times, if you try the transaction again, it actually will go through.
 
-But, it's depending on when some other swaps are happening within the contract. Other than that, some of you have seen that we have pushed the update with our new OnRamper, also called OnRamper, on the app. So, if you go into the app here and hit example on PatriotPay, if you go to buy, you'll see some options there. 
+But, it's depending on when some other swaps are happening within the contract. Other than that, some of you have seen that we have pushed the update with our new OnRamper, also called OnRamper, on the app. So, if you go into the app here and hit example on PatriotPay, if you go to buy, you'll see some options there.
 
-We won't be able to test everything there quite yet, because of some changes the devs have on Polygon. So, right now, though, the priority is getting the error that some of you are experiencing when you try to swap Matic into PatriotPay. Other than that, hopefully you signed up for the website to be on the mailing list. 
+We won't be able to test everything there quite yet, because of some changes the devs have on Polygon. So, right now, though, the priority is getting the error that some of you are experiencing when you try to swap Matic into PatriotPay. Other than that, hopefully you signed up for the website to be on the mailing list.
 
-I imagine that doesn't apply to most of you that get your updates here, because that will likely be quicker. You'll probably get most updates here before you get them through email. But, if you know, have any family, friends, other people that don't come in here often, or at all, I would definitely ask them to add themselves to that mailing list and help get some information quicker to them. 
+I imagine that doesn't apply to most of you that get your updates here, because that will likely be quicker. You'll probably get most updates here before you get them through email. But, if you know, have any family, friends, other people that don't come in here often, or at all, I would definitely ask them to add themselves to that mailing list and help get some information quicker to them.
 
-I know there's quite a few of you now coming out and saying you did not save your seed phrase. So, if you have no access to your old PatriotPay wallet, and it's not letting you sign in with the information I've given you, and you don't have a seed phrase, and you possibly don't even have your wallet address, unfortunately, there's not much I can do for you. This is why you gave weeks, months of notice. 
+I know there's quite a few of you now coming out and saying you did not save your seed phrase. So, if you have no access to your old PatriotPay wallet, and it's not letting you sign in with the information I've given you, and you don't have a seed phrase, and you possibly don't even have your wallet address, unfortunately, there's not much I can do for you. This is why you gave weeks, months of notice.
 
 For years, we've been saying to write down your seed phrase from the app. This has been available since day one of the app. Seed phrase was always available there for you to write down.
 
-(4:31 - 4:50)
 I really wish there was more I could do. I feel awful about it, but there's truly nothing I can do there. That's, you know, the downside of a non-custodial wallet that only you can access.
 
-(4:50 - 7:24)
-There is nothing that either I or Vess can do. There is no way for us to access your seed phrase, or access your account if you can't access it. That's also what makes non-custodial wallets so secure. 
+There is nothing that either I or Vess can do. There is no way for us to access your seed phrase, or access your account if you can't access it. That's also what makes non-custodial wallets so secure.
 
-So, while I do feel awful for that, unfortunately, there's nothing I could do about that. So, all to say, make sure you have your seed phrases, phrases, if you have multiple wallets, written somewhere safe, fire safe, and somewhere you won't lose. The new wallet in Magic right now, you don't have access to your keys yet. 
+So, while I do feel awful for that, unfortunately, there's nothing I could do about that. So, all to say, make sure you have your seed phrases, phrases, if you have multiple wallets, written somewhere safe, fire safe, and somewhere you won't lose. The new wallet in Magic right now, you don't have access to your keys yet.
 
-I will update you as soon as you do, but it should be very, very easy. It should be very easy for you to access that account. Make sure your email is secure so that not anybody can get on and walk in and access your funds. 
+I will update you as soon as you do, but it should be very, very easy. It should be very easy for you to access that account. Make sure your email is secure so that not anybody can get on and walk in and access your funds.
 
-Let's see. Yeah, they are still working on that All for His Glory, and if I remember correctly, you're still finding this in your Smart Wallet, correct? Okay, yeah, because if they were expert, I'd say try leaving some, well, you still actually are, I see that now, leaving some balance in there for the guests, but yeah, they are, they have been working on it. They'll continue and we'll keep you all updated.
+[Speaker 2]
+Let's see.
 
-(7:27 - 8:30)
-Does the team come across these bugs when we test before we push them to the computer? Yes, as previously stated. Yes, yes, the devs are working on it. Do you have to buy Polygon to buy PatriotPay, or can we buy PatriotPay directly from me or down the road? Yes, for the time being, you will buy Matic to convert it into PatriotPay. 
+[Speaker 1]
+Yeah, they are still working on that All for His Glory, and if I remember correctly, you're still finding this in your Smart Wallet, correct? Okay, yeah, because if they were expert, I'd say try leaving some, well, you still actually are, I see that now, leaving some balance in there for the guests, but yeah, they are, they have been working on it. They'll continue and we'll keep you all updated.
 
-We are working on a direct listing. Discord's quiet. I'm drowning myself in peppermint oil here.
+Does the team come across these bugs when we test before we push them to the computer? Yes, as previously stated.
 
-(8:51 - 10:06)
-What is planned for the next seven days? On you guys' end, we'll be waiting for the devs. And to solve some bugs before we can continue testing. Estimate time on direct listing? No, time frame is correct.
+[Speaker 2]
+Yes, yes, the devs are working on it.
 
-(10:11 - 10:41)
-Definitely not giving you guys a time frame there. Detailed testing instructions as soon as the bugs are fixed. I can't give you guys instructions when there's no way for you to complete them.
+[Speaker 1]
+Do you have to buy Polygon to buy PatriotPay, or can we buy PatriotPay directly from me or down the road? Yes, for the time being, you will buy Matic to convert it into PatriotPay. We are working on a direct listing.
 
-(10:52 - 11:43)
-When do we see the donation UI treatment? Donations are the top priority as soon as everything that's been deployed to you guys right now is working as it should, and that doesn't include the education or the marketplace, so donations will be taken priority over that. We'll just go ahead and hide education and marketplace and launch donations instead. When I say as soon as everything that's been deployed works as it should, I just mean more of the transaction side.
+[Speaker 2]
+Discord's quiet.
 
-(11:52 - 13:01)
-I see a few of you have already successfully used OnRamper. When is the next burn happening? I'm just sad, guys. We're done burning until we pay off some partners. 
+[Speaker 1]
+I'm drowning myself in peppermint oil here.
 
-I will keep you updated, though. Will PPY be marketed on War Room before the election? That really depends on how well everything's working. In order to be on War Room, we need to have everything functioning as it should 100%, and we also need to be ready for that volume.
+[Speaker 2]
+What is planned for the next seven days?
 
-(13:04 - 13:41)
-I hope that makes sense. Basically, not only does everything need to be functioning as it should, but also we need to be stress-tested enough that we could be confident that War Room isn't going to break the app. So, all to say we'd slowly have to be ramping up volume through other marketing efforts and fixing bugs that way.
+[Speaker 1]
+On you guys' end, we'll be waiting for the devs. And to solve some bugs before we can continue testing. Estimate time on direct listing?
 
-(13:44 - 14:10)
-We're not going from 100 active users a day to War Room's 1,500 users an hour. Are we able to buy Polygon right now? If so, what's the limit? You should be able to. On the app, you should be able to buy Matic.
+No, time frame is correct. Definitely not giving you guys a time frame there. Detailed testing instructions as soon as the bugs are fixed.
 
-(14:10 - 14:54)
+I can't give you guys instructions when there's no way for you to complete them. When do we see the donation UI treatment? Donations are the top priority as soon as everything that's been deployed to you guys right now is working as it should, and that doesn't include the education or the marketplace, so donations will be taken priority over that.
+
+We'll just go ahead and hide education and marketplace and launch donations instead. When I say as soon as everything that's been deployed works as it should, I just mean more of the transaction side. I see a few of you have already successfully used OnRamper.
+
+When is the next burn happening? I'm just sad, guys. We're done burning until we pay off some partners.
+
+I will keep you updated, though. Will PPY be marketed on War Room before the election? That really depends on how well everything's working.
+
+In order to be on War Room, we need to have everything functioning as it should 100%, and we also need to be ready for that volume. I hope that makes sense. Basically, not only does everything need to be functioning as it should, but also we need to be stress-tested enough that we could be confident that War Room isn't going to break the app.
+
+So, all to say we'd slowly have to be ramping up volume through other marketing efforts and fixing bugs that way. We're not going from 100 active users a day to War Room's 1,500 users an hour. Are we able to buy Polygon right now?
+
+If so, what's the limit? You should be able to. On the app, you should be able to buy Matic.
+
 The limit is going to depend. So, what's really awesome about OnRamper is it should really have the highest chance of success to cover or be able to service as many of you as possible in all parts of the world. So, the limits are going to depend on a few factors.
 
-(14:58 - 15:18)
 And because OnRamper covers so many, OnRamper is an awesome company. But yes, you should be able to buy Matic right now. Definitely keep me updated if you do, or let me know of any errors you run into.
 
-(15:24 - 17:25)
-It's worked for me several times, and a few others. By the way, thank you for the people who open tickets in Discord. Oh, and I'm not out of Telegram Jail. 
+It's worked for me several times, and a few others. By the way, thank you for the people who open tickets in Discord. Oh, and I'm not out of Telegram Jail.
 
-I thought I was, but I think the people who messaged me had to have added me as a contact, because I tried to message Nolan last night, or maybe it was this morning, and it wouldn't let me. So, I'm still in Telegram Jail, and I turned in another form. We'll see if they answer any other questions.
+I thought I was, but I think the people who messaged me had to have added me as a contact, because I tried to message Nolan last night, or maybe it was this morning, and it wouldn't let me. So, I'm still in Telegram Jail, and I turned in another form.
 
-(17:54 - 18:23)
-Oh, did everybody, for those of you that signed up and subscribed to the mailing list on the PatriotPay website, do keep in mind you're then going to get a confirmation email, and you have to click on that to confirm. Did everybody receive two welcome emails? I'm receiving mixed reviews. Just want to make sure how many, about how many of you received a double welcome email.
+[Speaker 2]
+We'll see if they answer any other questions.
 
-(18:24 - 21:08)
-Oh, shoot. Okay, win-eat hot dog. My dogs enjoy organic, uncured hot dogs. 
+[Speaker 1]
+Oh, did everybody, for those of you that signed up and subscribed to the mailing list on the PatriotPay website, do keep in mind you're then going to get a confirmation email, and you have to click on that to confirm. Did everybody receive two welcome emails? I'm receiving mixed reviews.
 
-Actually, I don't think I've given them any this week. Usually, if I'm in ketosis, I'll slice up a few with some butter, cheese, mustard, and onions. These are like nine, I think they're like, they have nine fat, and I want to say like six protein. 
+Just want to make sure how many, about how many of you received a double welcome email.
 
-Pretty perfect if you want to stay in ketosis, if you can find a half-decent one. Okay, that's weird. It went to my spam box, so Matt, would I suggest if it went to your spam box, just if you have like a not spam button or something like that on that original message, I've noticed if you move that to your inbox and mark it as not spam, it'll send your future ones, your future emails from us to your inbox, but that's another reason that that should get better with time. 
+[Speaker 2]
+Oh, shoot.
 
-That's another reason we decided to do the confirmation email for you guys. That way, it'll help us as time goes on, basically legitimize our email from what I'm told. Do you have price predictions? I don't know, you guys tell me. 
+[Speaker 1]
+Okay, win-eat hot dog. My dogs enjoy organic, uncured hot dogs. Actually, I don't think I've given them any this week.
 
-What are your price predictions? Yeah, I did. Okay, yeah, because I, it's weird, because I've been testing out on different email addresses. A few of them went to spam, but a few of them didn't, but I did notice when I marked it as not spam.
+Usually, if I'm in ketosis, I'll slice up a few with some butter, cheese, mustard, and onions. These are like nine, I think they're like, they have nine fat, and I want to say like six protein. Pretty perfect if you want to stay in ketosis, if you can find a half-decent one.
 
-(21:27 - 22:39)
-When Trump, maybe that's what we need to do, is we need to do like a shill, shill to Trump, maybe on like truth. Let me do it at once, if you guys are up to it. I have to make a graphic for that. 
+Okay, that's weird. It went to my spam box, so Matt, would I suggest if it went to your spam box, just if you have like a not spam button or something like that on that original message, I've noticed if you move that to your inbox and mark it as not spam, it'll send your future ones, your future emails from us to your inbox, but that's another reason that that should get better with time. That's another reason we decided to do the confirmation email for you guys.
 
-I received two not spam emails that were sending on memory part. Okay, so strange. I don't know why it's sending a double to some of you, but we'll get that figured out.
+That way, it'll help us as time goes on, basically legitimize our email from what I'm told. Do you have price predictions? I don't know, you guys tell me.
 
-(22:43 - 23:02)
-Hopefully you guys liked the welcome email. I did. And I think he did a great job on that.
+What are your price predictions? Yeah, I did. Okay, yeah, because I, it's weird, because I've been testing out on different email addresses.
 
-(24:26 - 25:19)
-How are the fees with OnRampers? So that's, they have so many providers, but that's gonna depend on who you go with, but I didn't think they were bad at all. I couldn't go, so I'm pretty sure I'm on some list, because the first few OnRampers I tried said after having me go through the steps, they wouldn't allow me to go in. I think the first one that worked for me was, I think so, but I don't think there was much difference, if at all, than when we use like TrustWallet.
+A few of them went to spam, but a few of them didn't, but I did notice when I marked it as not spam. When Trump, maybe that's what we need to do, is we need to do like a shill, shill to Trump, maybe on like truth. Let me do it at once, if you guys are up to it.
 
-(25:19 - 26:12)
-I have plenty of options to choose from. Plenty. This way too, you guys shouldn't run into the same issue that you had with Transac, where if they suspended your account because you were on some list, you bought at Cabela's or something like that.
+I have to make a graphic for that. I received two not spam emails that were sending on memory part. Okay, so strange.
 
-(26:17 - 37:33)
-So that's nice too. UltimateCrypto is a good way to see them. Keep me updated though on what issues you guys are testing before the official testing of any issues you run into, but you should have plenty of options. 
+I don't know why it's sending a double to some of you, but we'll get that figured out. Hopefully you guys liked the welcome email. I did.
 
-The rates should be good with, again, so many options. Let me know though. Let me know what you like, what you don't like. 
+And I think he did a great job on that. How are the fees with OnRampers? So that's, they have so many providers, but that's gonna depend on who you go with, but I didn't think they were bad at all.
 
-MJ, I want your life. I feel like you're always out. Like I don't want to be out. 
+I couldn't go, so I'm pretty sure I'm on some list, because the first few OnRampers I tried said after having me go through the steps, they wouldn't allow me to go in. I think the first one that worked for me was, I think so, but I don't think there was much difference, if at all, than when we use like TrustWallet. I have plenty of options to choose from.
 
-I don't want to leave my house. I'm tripped up here. Give permission to ID. 
+Plenty. This way too, you guys shouldn't run into the same issue that you had with Transac, where if they suspended your account because you were on some list, you bought at Cabela's or something like that. So that's nice too.
 
-Yeah, I imagine it's just giving permission for your camera. Is it making you take a picture of yourself or your ID? Yeah, you'll have to go through KYC. So basically, I don't know if you ever went through Transac's KYC, but I believe they also had, I can't remember now if they had me take a picture of either passport or driver's license. 
+UltimateCrypto is a good way to see them. Keep me updated though on what issues you guys are testing before the official testing of any issues you run into, but you should have plenty of options. The rates should be good with, again, so many options.
 
-I may have taken a picture of me to match it. I'm not sure it's been so long, but yes, you should be fine as long as you're accessing it straight from the app. Oh, okay. 
+Let me know though. Let me know what you like, what you don't like. MJ, I want your life.
 
-Sorry. I misunderstood. I don't understand where to give permission. 
+I feel like you're always out. Like I don't want to be out. I don't want to leave my house.
 
-I wonder if there's something, if there's supposed to be something on the corner of your screen there that's not fitting properly. If it's a mistake on the R end or something that needs to be adjusted, is that, can you move your screen at all? Can you adjust it? Tap the icon in the top right corner. So then I would try the steps below by going to settings. 
+I'm tripped up here. Give permission to ID. Yeah, I imagine it's just giving permission for your camera.
 
-Screen does not work. I wonder, I'll write that down here in case there's something on R end, but for the time being, I'd follow the instructions at the bottom where it tells you to go into settings in the Chrome. And then, yeah, I wonder if you'd have to give it manual permission. 
+Is it making you take a picture of yourself or your ID? Yeah, you'll have to go through KYC. So basically, I don't know if you ever went through Transac's KYC, but I believe they also had, I can't remember now if they had me take a picture of either passport or driver's license.
 
-Our app, I'm not sure if you're in a browser or in the app, what happens if you go down, what did those instructions say, where it says in that screenshot? If that didn't work, try these steps for changing app permissions. Which app, I wonder if that tells you that, because it said, I see where it says Chrome. So I'm assuming you actually need to change those permissions in Chrome, but it could be in the app, because I know it opens up browser in there too. 
+I may have taken a picture of me to match it. I'm not sure it's been so long, but yes, you should be fine as long as you're accessing it straight from the app. Oh, okay.
 
-I'm sorry, there can't be more help from seeing that, but let me know. If you're in the browser, what it looks like, then I would give the browser the permissions. Flagstar declined my Matic purchase. 
+Sorry. I misunderstood. I don't understand where to give permission.
 
-Did they give you a reason? I wonder if it's the same reason I got. Chase went through though. Wait, what do you mean? So that same transaction cleared your bank, but then it was declined on the upside? Or are those two different attempts? Oh, I don't know, because Chase has never worked for me. 
+I wonder if there's something, if there's supposed to be something on the corner of your screen there that's not fitting properly. If it's a mistake on the R end or something that needs to be adjusted, is that, can you move your screen at all? Can you adjust it?
 
-Multiple accounts, multiple cards, debit cards, credit cards. I think I've tried like seven different accounts actually, to be exact. There. 
+Tap the icon in the top right corner. So then I would try the steps below by going to settings. Screen does not work.
 
-Huh. Who knew? Which on-ramper did you use, Matt? Okay. Okay. 
+I wonder, I'll write that down here in case there's something on R end, but for the time being, I'd follow the instructions at the bottom where it tells you to go into settings in the Chrome. And then, yeah, I wonder if you'd have to give it manual permission. Our app, I'm not sure if you're in a browser or in the app, what happens if you go down, what did those instructions say, where it says in that screenshot?
 
-So then when you click on changing app permissions, what app does that tell you? I'm wondering, I'm assuming it's the Chrome app permissions. Yeah, outpay. I actually think that may have worked before, or Chase works, if you go through Apple Pay. 
+If that didn't work, try these steps for changing app permissions. Which app, I wonder if that tells you that, because it said, I see where it says Chrome. So I'm assuming you actually need to change those permissions in Chrome, but it could be in the app, because I know it opens up browser in there too.
 
-I'm pretty sure I remember that. I don't know, because I've been here for 84 years. Sorry. 
+I'm sorry, there can't be more help from seeing that, but let me know. If you're in the browser, what it looks like, then I would give the browser the permissions. Flagstar declined my Matic purchase.
 
-Check notes. What was Nolan's name last night? Like 25 months or 24 months? I enjoyed myself. Oh, wow. 
+Did they give you a reason? I wonder if it's the same reason I got. Chase went through though.
 
-Bummer. Okay. So I wonder if that's why your phone is, hopefully once you're off the voice call, it'll just let you go through, so it's not a pain in the butt for you. 
+Wait, what do you mean? So that same transaction cleared your bank, but then it was declined on the upside? Or are those two different attempts?
 
-Yeah, definitely keeping it updated. I've used Apple Pay before and it worked on other on-rampers. Yeah. 
+Oh, I don't know, because Chase has never worked for me. Multiple accounts, multiple cards, debit cards, credit cards. I think I've tried like seven different accounts actually, to be exact.
 
-I think that's when I've heard that Chase will work if it's through Apple Pay. I was hoping after that other info came in the news that maybe they changed their rules, but it sounds like no. Apple Pay didn't work for me. 
+There. Huh. Who knew?
 
-Changed it to debit card and went through. Nice. Yeah, you can't quit Chase, huh? At least we know about Android.
+Which on-ramper did you use, Matt? Okay. Okay.
 
-(37:36 - 38:01)
-I guess so, huh? Okay. Well, if you guys don't have any other questions, that's all I have. I will keep you guys updated.
+So then when you click on changing app permissions, what app does that tell you? I'm wondering, I'm assuming it's the Chrome app permissions. Yeah, outpay.
 
-(38:01 - 40:39)
-Okay. Again, really there's one main bug that once they get this worked out, and again, the reason it's taken so long, it is related to our smart contract and some functions we didn't have before, but as soon as that's worked out, we will start testing with some detailed instructions for all of you who want to test. For the time being, if you're up to it, continue testing. 
+I actually think that may have worked before, or Chase works, if you go through Apple Pay. I'm pretty sure I remember that. I don't know, because I've been here for 84 years.
 
-There's not any security risks, added security risks right now to testing. Example before when we were with Vess, I asked you guys to please not touch the app because you could risk losing your funds. You don't have that issue right now. 
+Sorry. Check notes. What was Nolan's name last night?
 
-You shouldn't run into anything like that. There is not any increased risk if you do choose to test right now. Again, just make sure that you are signing up with, well, the only way you can sign up with your email, but make sure that your email is secure. 
+Like 25 months or 24 months? I enjoyed myself. Oh, wow.
 
-If you put 2FA on there, it's probably the most simple secure way to do that, but yeah, just make sure that your email is secure. There is no added risk if you do feel like testing anything in the app right now. Everything the devs are working on has nothing to do with losing your account or losing your funds or anything like that, but do keep me updated if you do choose to start testing right now on anything you do run into. 
+Bummer. Okay. So I wonder if that's why your phone is, hopefully once you're off the voice call, it'll just let you go through, so it's not a pain in the butt for you.
 
-I will keep you updated on the devs' progress and we'll go from there. I do have on my list to get a graphic made, though, that we can maybe spam. I did get sucked into a few posts on Instagram earlier this morning, though.
+Yeah, definitely keeping it updated. I've used Apple Pay before and it worked on other on-rampers. Yeah.
 
-(40:42 - 41:15)
-I woke up to Amber Rose endorsing Trump and then you go into a few of those threads and, oh my gosh, part of me hopes those are bots, but I don't think they are. Some of the stuff people are saying on there, oh my gosh. Last winner was, I want to say it was 51.
+I think that's when I've heard that Chase will work if it's through Apple Pay. I was hoping after that other info came in the news that maybe they changed their rules, but it sounds like no. Apple Pay didn't work for me.
 
-(41:18 - 41:51)
-I think it says 51, maybe 52. I'm pretty sure it was 51, though. Oh, here it is. 
+Changed it to debit card and went through. Nice.
 
-I left it up. Okay, so I did a random number. It was 12279 and the number it generated was 51.
+[Speaker 2]
+Yeah, you can't quit Chase, huh?
 
-(41:51 - 45:11)
-Um, poor Stacy had to put all these entries in. The wallet ends in 4747. Oh, oh wait, did we have two winners for that one? I just thought about that. 
+[Speaker 1]
+At least we know about Android. I guess so, huh? Okay.
 
-Let me do the generator again. 192. 192. 
+Well, if you guys don't have any other questions, that's all I have. I will keep you guys updated. Okay.
 
-Oh, shoot. I think that's, hold on. Is that the same winner? Is that the same winner? 192. 
+Again, really there's one main bug that once they get this worked out, and again, the reason it's taken so long, it is related to our smart contract and some functions we didn't have before, but as soon as that's worked out, we will start testing with some detailed instructions for all of you who want to test. For the time being, if you're up to it, continue testing. There's not any security risks, added security risks right now to testing.
 
-Yeah. Okay. Well, that's easy. 
+Example before when we were with Vess, I asked you guys to please not touch the app because you could risk losing your funds. You don't have that issue right now. You shouldn't run into anything like that.
 
-Let me write it. Who is that? Which one of you? Oh, all right. I'm noting myself here. 
+There is not any increased risk if you do choose to test right now. Again, just make sure that you are signing up with, well, the only way you can sign up with your email, but make sure that your email is secure. If you put 2FA on there, it's probably the most simple secure way to do that, but yeah, just make sure that your email is secure.
 
-I will, um, send you that. I'll just send it as one prize. Who was that? Which one of you just won a million? Yeah. 
+There is no added risk if you do feel like testing anything in the app right now. Everything the devs are working on has nothing to do with losing your account or losing your funds or anything like that, but do keep me updated if you do choose to start testing right now on anything you do run into. I will keep you updated on the devs' progress and we'll go from there.
 
-Mike. Oh, yeah. I see that. 
+I do have on my list to get a graphic made, though, that we can maybe spam. I did get sucked into a few posts on Instagram earlier this morning, though. I woke up to Amber Rose endorsing Trump and then you go into a few of those threads and, oh my gosh, part of me hopes those are bots, but I don't think they are.
 
-I also thought that as you said it, the team winners. Um, okay. We'll do, actually, what was the contest I thought of yesterday? No, we'll wait until the app is at least functioning. 
+Some of the stuff people are saying on there, oh my gosh. Last winner was, I want to say it was 51.
 
-Um, okay. Let's do another bike contest. Uh, we'll do the same thing again. 
+[Speaker 2]
+I think it says 51, maybe 52.
 
-Uh, so a hundred thousand PPY buy. Uh, get to an entry. We'll do one winner. 
+[Speaker 1]
+I'm pretty sure it was 51, though. Oh, here it is. I left it up.
 
-500, uh, PPY. 500k PPY. Okay. 
+Okay, so I did a random number. It was 12279 and the number it generated was 51. Um, poor Stacy had to put all these entries in.
 
-And we'll run it. Um, what's wrong? Let's run this one till Friday. What the heck? Till Friday's voice chat.
+The wallet ends in 4747. Oh, oh wait, did we have two winners for that one? I just thought about that.
 
-(45:24 - 45:34)
+Let me do the generator again. 192. 192.
+
+Oh, shoot. I think that's, hold on. Is that the same winner?
+
+Is that the same winner? 192. Yeah.
+
+Okay. Well, that's easy. Let me write it.
+
+Who is that? Which one of you? Oh, all right.
+
+I'm noting myself here. I will, um, send you that. I'll just send it as one prize.
+
+Who was that? Which one of you just won a million? Yeah.
+
+Mike. Oh, yeah. I see that.
+
+I also thought that as you said it, the team winners. Um, okay. We'll do, actually, what was the contest I thought of yesterday?
+
+No, we'll wait until the app is at least functioning. Um, okay. Let's do another bike contest.
+
+Uh, we'll do the same thing again. Uh, so a hundred thousand PPY buy. Uh, get to an entry.
+
+We'll do one winner. 500, uh, PPY. 500k PPY.
+
+Okay. And we'll run it. Um, what's wrong?
+
+Let's run this one till Friday. What the heck? Till Friday's voice chat.
+
 Cool. Awesome. We'll run the, this contest until Friday, 8 30 PM Eastern then.
 
-(45:34 - 46:36)
-And then we'll pick one, uh, random winner. I think that's all I got then. Um, I will keep you all updated again of any updates. 
+And then we'll pick one, uh, random winner. I think that's all I got then. Um, I will keep you all updated again of any updates.
 
-Let me know if you need anything in the meantime. Um, do add me as a contact if you are contacting me on Telegram. Um, because I did find out I am still in Telegram jail. 
+Let me know if you need anything in the meantime. Um, do add me as a contact if you are contacting me on Telegram. Um, because I did find out I am still in Telegram jail.
 
 Um, of course, no one's not on. Um, so yeah, I think that's everything. Steady.
 
-(46:39 - 46:57)
-Very steady. Very happy with everything. Uh, we'll keep going. 
+Very steady. Very happy with everything. Uh, we'll keep going.
 
-You all have a wonderful night. Uh, give me a second. Give me a few minutes and then I'll get this, um, uploaded with some notes. 
+You all have a wonderful night. Uh, give me a second. Give me a few minutes and then I'll get this, um, uploaded with some notes.
 
 You all have a great night. Thank you.

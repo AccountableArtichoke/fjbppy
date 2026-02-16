@@ -1,300 +1,212 @@
-(0:31 - 11:38)
-I'm going to use the logo and get some apparel done myself, unfortunately not, I'm so sorry. Okay, alright, so I think that wraps up everything as far as the on-ramper goes, again, no timeline on that, but I do have a timeline, I will share it once it's a lot closer with you guys, it's definitely not six months, which is great, great, great news, and we will keep that along with on-ramper, which will give you more coverage if you're having issues on the many on-rampers, on and off ramps, you'll have another option, and vice versa, which will be great, essentially we just want to be available, you know, the more places we're available at, the more accessible we are, the more people generally are going to buy in, right, that's really what it comes down to, the easier we make it for people to get PPY, so we'll do that, I will keep you guys updated on the bugs issues, again, the biggest issues right now with the bugs is the logout issue, just due to security, we definitely want you to be able to logout, that spinning circle, for some of you, that's taking a while for you to log in, I think once code is, reconfiguration is complete, we should be good on that, you saw that you have the new login screen, you can now save your email, which is really cool, so that'll just, just making it as easy as possible for you all to easily get on the app, yeah, once this dev is done working on these bugs, he'll continue on to the next task, I'll keep you updated on that, again, the other dev who's working on, he finished up the marketplace feature, which is really cool, that we'll roll out to you guys, he did add the direct contact from the app, we'll also roll that out either this weekend or early next week, and then now he's working on the support, live support and a bot, but that way you have a bot in case nobody's online to help, and in cases of very common, you know, where's my, how do I find my receiving address, how to find my wallet address, once he's done with that, he will be adding the admin feature, which will give me the capabilities to go in and edit, add, remove businesses and political candidates, again, this will help us long term, because this will help the devs focus on the more important stuff than, you know, just adding merchants or adding political candidates, this will give me, give me the capabilities to do that, and we'll continue adding to that just to make everything run smooth and help keep the devs focused on the more important things. Yeah, other than that, I think we are still good to start soft marketing again this week, or I'm sorry, this month, which, what, nine days, give or take, so I'll keep you updated on that, that will depend, again, on the bugs, we definitely want those worked out, and Bannon loves his beef livers, you know what, I was actually thinking about that, because my fridge, I think I told you guys, my fridge broke this weekend, it was either Saturday or Sunday, I don't know, I don't know, no, I think it was Sunday, actually, because it was on, yeah, it was on Father's Day, I realized it Sunday, I heard all the weird noises on Saturday, or maybe even Friday, I should have paid attention, now I'm mixing up, no, it was Saturday, because we, I did Father's Day on Saturday, yes, so anyway, I think that's the reason I'm, like, feeling under the weather, is I didn't have my beef liver for all those days, because I have it in the freezer, and I could have put it in a different fridge, but I just got lazy, and there was so much going on, but I do think that's the case, also my skin's freaking out, which is, your skin's gonna do that if your liver's not working so well, but, and I do have, like, liver pills, but I was just so over it, I wasn't taking anything. 
+[Speaker 1]
+I'm going to use the logo and get some apparel done myself, unfortunately not, I'm so sorry. Okay, alright, so I think that wraps up everything as far as the on-ramper goes, again, no timeline on that, but I do have a timeline, I will share it once it's a lot closer with you guys, it's definitely not six months, which is great, great, great news, and we will keep that along with on-ramper, which will give you more coverage if you're having issues on the many on-rampers, on and off ramps, you'll have another option, and vice versa, which will be great, essentially we just want to be available, you know, the more places we're available at, the more accessible we are, the more people generally are going to buy in, right, that's really what it comes down to, the easier we make it for people to get PPY, so we'll do that, I will keep you guys updated on the bugs issues, again, the biggest issues right now with the bugs is the logout issue, just due to security, we definitely want you to be able to logout, that spinning circle, for some of you, that's taking a while for you to log in, I think once code is, reconfiguration is complete, we should be good on that, you saw that you have the new login screen, you can now save your email, which is really cool, so that'll just, just making it as easy as possible for you all to easily get on the app, yeah, once this dev is done working on these bugs, he'll continue on to the next task, I'll keep you updated on that, again, the other dev who's working on, he finished up the marketplace feature, which is really cool, that we'll roll out to you guys, he did add the direct contact from the app, we'll also roll that out either this weekend or early next week, and then now he's working on the support, live support and a bot, but that way you have a bot in case nobody's online to help, and in cases of very common, you know, where's my, how do I find my receiving address, how to find my wallet address, once he's done with that, he will be adding the admin feature, which will give me the capabilities to go in and edit, add, remove businesses and political candidates, again, this will help us long term, because this will help the devs focus on the more important stuff than, you know, just adding merchants or adding political candidates, this will give me, give me the capabilities to do that, and we'll continue adding to that just to make everything run smooth and help keep the devs focused on the more important things. Yeah, other than that, I think we are still good to start soft marketing again this week, or I'm sorry, this month, which, what, nine days, give or take, so I'll keep you updated on that, that will depend, again, on the bugs, we definitely want those worked out, and Bannon loves his beef livers, you know what, I was actually thinking about that, because my fridge, I think I told you guys, my fridge broke this weekend, it was either Saturday or Sunday, I don't know, I don't know, no, I think it was Sunday, actually, because it was on, yeah, it was on Father's Day, I realized it Sunday, I heard all the weird noises on Saturday, or maybe even Friday, I should have paid attention, now I'm mixing up, no, it was Saturday, because we, I did Father's Day on Saturday, yes, so anyway, I think that's the reason I'm, like, feeling under the weather, is I didn't have my beef liver for all those days, because I have it in the freezer, and I could have put it in a different fridge, but I just got lazy, and there was so much going on, but I do think that's the case, also my skin's freaking out, which is, your skin's gonna do that if your liver's not working so well, but, and I do have, like, liver pills, but I was just so over it, I wasn't taking anything. Did I understand you to say we will not really fully ramp this up until the end of the year? No, I did not say that, we will, if I did say that, I didn't mean to say that, we will start soft marketing, we're still good to start soft marketing this month, we're just trying to get the dev to go ahead and fix a few of the critical bugs, like the logout issue, and then also the spinning circle, that sometimes takes a while for you all to log in, we did change that login screen again, now you can save your email, but also that should have fixed the issue of, some of you were experiencing before, when you log into your app, and then you leave your app to go do something else, and you don't sign out, and don't close it, well then when you go back to your app, you're experiencing an issue of either a white blank screen, or a spinning circle, you should not be experiencing that anymore, so please keep that in mind, and let me know if this happens, but it absolutely should not be happening anymore, that was the main reason we moved to the new login screen, it was nice too, because of the save email issue there, that we couldn't do previously on the, using the magic SDK, didn't have that capability yet, so it was nice, because we got the two-in-one, oh is that when I was stalking, stalking Steve, keeping control of the quality of the products on the app is important, yes absolutely, that's why we're not making it, there's some other marketplaces I've looked at, where it seems everybody's just you know, able to get on and sell their product, and we definitely, definitely want to keep a decent quality, it doesn't need to be the most expensive product, but somewhere in the middle would be good, that way it's still affordable to most people, but also not a junk quality, careful with birch gold, definitely be careful there, do your research, I was actually looking into gold and silver coins, not sure if that's something you guys would be interested in, like Patriot pay ones, we definitely have a connection for that. Sacred human, I don't remember what brand the ones are, I also have some pills somewhere, but they actually are a mix, I think it's like liver, kidneys, a few more organs, but I try to just have the real stuff, and I don't mind it, I just eat it raw, liver and onions, has to be in a cast iron, I actually haven't had cooked liver in a long time, what I do is just buy it, cube it, and then throw it in a freezer in like a few ziplocs, by a few I mean like, I do like try to do like a dozen livers at a time, so a lot more than a few ziplocs, but basically so it just lasts in the fridge for a few days, but my dogs also get it too, so it's a lot more convenient that way, otherwise I get lazy.
 
-Did I understand you to say we will not really fully ramp this up until the end of the year? No, I did not say that, we will, if I did say that, I didn't mean to say that, we will start soft marketing, we're still good to start soft marketing this month, we're just trying to get the dev to go ahead and fix a few of the critical bugs, like the logout issue, and then also the spinning circle, that sometimes takes a while for you all to log in, we did change that login screen again, now you can save your email, but also that should have fixed the issue of, some of you were experiencing before, when you log into your app, and then you leave your app to go do something else, and you don't sign out, and don't close it, well then when you go back to your app, you're experiencing an issue of either a white blank screen, or a spinning circle, you should not be experiencing that anymore, so please keep that in mind, and let me know if this happens, but it absolutely should not be happening anymore, that was the main reason we moved to the new login screen, it was nice too, because of the save email issue there, that we couldn't do previously on the, using the magic SDK, didn't have that capability yet, so it was nice, because we got the two-in-one, oh is that when I was stalking, stalking Steve, keeping control of the quality of the products on the app is important, yes absolutely, that's why we're not making it, there's some other marketplaces I've looked at, where it seems everybody's just you know, able to get on and sell their product, and we definitely, definitely want to keep a decent quality, it doesn't need to be the most expensive product, but somewhere in the middle would be good, that way it's still affordable to most people, but also not a junk quality, careful with birch gold, definitely be careful there, do your research, I was actually looking into gold and silver coins, not sure if that's something you guys would be interested in, like Patriot pay ones, we definitely have a connection for that. Sacred human, I don't remember what brand the ones are, I also have some pills somewhere, but they actually are a mix, I think it's like liver, kidneys, a few more organs, but I try to just have the real stuff, and I don't mind it, I just eat it raw, liver and onions, has to be in a cast iron, I actually haven't had cooked liver in a long time, what I do is just buy it, cube it, and then throw it in a freezer in like a few ziplocs, by a few I mean like, I do like try to do like a dozen livers at a time, so a lot more than a few ziplocs, but basically so it just lasts in the fridge for a few days, but my dogs also get it too, so it's a lot more convenient that way, otherwise I get lazy. Put the website logo on them, great for gifts. 
+Put the website logo on them, great for gifts. That's a good idea. Okay, I gotta, let's email our connection ASAP, I wonder what their minimums like, look at the price and see if, see which one would fit better, I guess I also depend on their minimums.
 
-That's a good idea. Okay, I gotta, let's email our connection ASAP, I wonder what their minimums like, look at the price and see if, see which one would fit better, I guess I also depend on their minimums. Add that to my list.
+Add that to my list. I have a mint right down the street in Idaho, not one, but there is one. A few more organs.
 
-(11:47 - 12:06)
-I have a mint right down the street in Idaho, not one, but there is one. A few more organs. What? Come look it up if you're interested.
+What? Come look it up if you're interested. Don't know the brand.
 
-(12:07 - 12:17)
-Don't know the brand. I know it's like a New Zealand, something, apparently they have the best farming practices here. Australia too.
+I know it's like a New Zealand, something, apparently they have the best farming practices here. Australia too. Pretty sure we probably have the worst.
 
-(12:20 - 12:34)
-Pretty sure we probably have the worst. Yeah, so. I guess I'll have to wait, I'm sorry.
+Yeah, so. I guess I'll have to wait, I'm sorry. Just had issues in the past.
 
-(12:35 - 12:45)
-Just had issues in the past. Yeah. Excuse me.
+Yeah. Excuse me. Time for my ivermectin for this cough.
 
-(12:46 - 13:06)
-Time for my ivermectin for this cough. So yeah, I think that's, I think that covers everything. Again, very, very excited about everything we've been working on the back end, finally, slowly coming to the front end where you all can see it.
+So yeah, I think that's, I think that covers everything. Again, very, very excited about everything we've been working on the back end, finally, slowly coming to the front end where you all can see it. But again, now just waiting mainly on the dev with the bugs.
 
-(13:07 - 13:24)
-But again, now just waiting mainly on the dev with the bugs. Of course, we also actually want to get those the other dev that's working on the support. I think that'll be really cool for you guys to have the support access straight from the app and not.
+Of course, we also actually want to get those the other dev that's working on the support. I think that'll be really cool for you guys to have the support access straight from the app and not. I mean, probably not even you guys, but new users to not have to jump out of the app.
 
-(13:25 - 13:36)
-I mean, probably not even you guys, but new users to not have to jump out of the app. Look for a website, look for support to email us. I think that'll be really, really cool.
+Look for a website, look for support to email us. I think that'll be really, really cool. Again, education videos have moved.
 
-(13:38 - 13:48)
-Again, education videos have moved. And if you guys do remember, we did move some things around on the road map. I think political donations.
+And if you guys do remember, we did move some things around on the road map. I think political donations. Marketplace, I think we did move up a few things up front and we added a few features that we really didn't even have on there initially.
 
-(13:51 - 14:28)
-Marketplace, I think we did move up a few things up front and we added a few features that we really didn't even have on there initially. But I think made the app a lot more user friendly. So, yeah, definitely let me know if any of you know anybody that that sells anything, anything to a related.
+But I think made the app a lot more user friendly. So, yeah, definitely let me know if any of you know anybody that that sells anything, anything to a related. I think that would be really cool.
 
-(14:29 - 14:44)
-I think that would be really cool. We have been looking for one. Gold backed P.P.Y. would send us to the moon like gold ETF.
+We have been looking for one. Gold backed P.P.Y. would send us to the moon like gold ETF. I'm sure Steve realized that we're actually where was it?
 
-(14:44 - 15:12)
-I'm sure Steve realized that we're actually where was it? We're. Who did I discuss? I discuss this with a company in the reform, the platform convention in Vegas. And yeah, there we actually need touch base about that.
+We're. Who did I discuss? I discuss this with a company in the reform, the platform convention in Vegas.
 
-(15:12 - 15:25)
-But that'll be something good to touch base on along with the gold and silver coins, too, because that's also something they do. Oh, cool. Thank you, Bobby.
+And yeah, there we actually need touch base about that. But that'll be something good to touch base on along with the gold and silver coins, too, because that's also something they do. Oh, cool.
 
-(15:26 - 15:39)
-Bob. Bobby, I hear your name many times a day because my bird is crazy. Cool.
+Thank you, Bobby. Bob. Bobby, I hear your name many times a day because my bird is crazy.
 
-(15:40 - 15:47)
-Awesome. I will look into this and definitely contact them. That'd be really cool.
+Cool. Awesome. I will look into this and definitely contact them.
 
-(16:19 - 16:44)
-Oh, yeah, the Web site, too. Oh, I need to actually. The dog bone has been working on the Web site.
+That'd be really cool. Oh, yeah, the Web site, too. Oh, I need to actually.
 
-(16:46 - 17:03)
-And it's looking amazing. Not that it didn't look amazing before, but we're definitely working on just simplifying it. So simplifying it for somebody that's, again, just sees us on social media posts or something.
+The dog bone has been working on the Web site. And it's looking amazing. Not that it didn't look amazing before, but we're definitely working on just simplifying it.
 
-(17:03 - 17:12)
-First thing they're probably going to go do is check out the Web site. Excuse me. So the Web site is looking amazing.
+So simplifying it for somebody that's, again, just sees us on social media posts or something. First thing they're probably going to go do is check out the Web site. Excuse me.
 
-(17:13 - 17:31)
-We're just trying to clean it up and trying basically not to overwhelm people just to make it super, super simple. Tell them exactly what we're about. We are still working on a few things that I actually need to work on.
+So the Web site is looking amazing. We're just trying to clean it up and trying basically not to overwhelm people just to make it super, super simple. Tell them exactly what we're about.
 
-(17:32 - 17:41)
-So still in progress, but it is looking beautiful. Really amazing. So thank you for that.
+We are still working on a few things that I actually need to work on. So still in progress, but it is looking beautiful. Really amazing.
 
-(17:43 - 17:54)
-And we will be adding the white paper on there, too. Yeah. Because a lot going on, I think, in the next.
+So thank you for that. And we will be adding the white paper on there, too. Yeah.
 
-(17:57 - 18:12)
-But nine days here trying to get a ton. Done, and then it kind of worked out really well, actually, with me receiving. My final visa, because I'll try.
+Because a lot going on, I think, in the next. But nine days here trying to get a ton. Done, and then it kind of worked out really well, actually, with me receiving.
 
-(18:13 - 18:28)
-I haven't talked to the doctor yet, but I'm going to try to get the surgery done very early July, so hopefully that'll that'll work. That'll work all right. Versus having it wait after we ramp up.
+My final visa, because I'll try. I haven't talked to the doctor yet, but I'm going to try to get the surgery done very early July, so hopefully that'll that'll work. That'll work all right.
 
-(18:28 - 18:38)
-I think that'll work well with everything we have going on. Especially if we have some bugs come up or not. Yeah.
+Versus having it wait after we ramp up. I think that'll work well with everything we have going on. Especially if we have some bugs come up or not.
 
-(18:38 - 18:53)
-That way, if I need to be out for, like, eight, nine days. And, of course, I'll be fine after, like, one or two days. But again, I can't exactly be on meetings and things like that.
+Yeah. That way, if I need to be out for, like, eight, nine days. And, of course, I'll be fine after, like, one or two days.
 
-(18:55 - 19:05)
-Really, the biggest issue being overseas. So we'll definitely. Yeah, we'll definitely keep you all updated.
+But again, I can't exactly be on meetings and things like that. Really, the biggest issue being overseas. So we'll definitely.
 
-(19:05 - 19:25)
-But the next days will be a lot of work going on to just get everything ready to push out. I'll keep you updated on everything again. And we won't expect a huge influx with the way we are starting the marketing.
+Yeah, we'll definitely keep you all updated. But the next days will be a lot of work going on to just get everything ready to push out. I'll keep you updated on everything again.
 
-(19:25 - 19:47)
-Again, just think of it as a few more of you coming in to help us with bugs. But that's exactly what we need. Before we do the huge influencers, huge shows, huge podcasts, huge mailing lists.
+And we won't expect a huge influx with the way we are starting the marketing. Again, just think of it as a few more of you coming in to help us with bugs. But that's exactly what we need.
 
-(19:48 - 20:14)
-Everybody I've spoken to as far as the pros that do this day in, day out. We're talking VPs of advertising companies. Everybody else is recommending after we do the Instagram micro influencers, which, you know, that's really important because a lot of these people.
+Before we do the huge influencers, huge shows, huge podcasts, huge mailing lists. Everybody I've spoken to as far as the pros that do this day in, day out. We're talking VPs of advertising companies.
 
-(20:15 - 20:39)
-I'm not sure how big you guys are on social media, but if you're following an influencer, you know, they're like your friend and you generally really trust what they're saying. So that's why that's really important. And then usually micro influencers have a more loyal following than the influencers who have the millions of following numbers wise.
+Everybody else is recommending after we do the Instagram micro influencers, which, you know, that's really important because a lot of these people. I'm not sure how big you guys are on social media, but if you're following an influencer, you know, they're like your friend and you generally really trust what they're saying. So that's why that's really important.
 
-(20:41 - 21:04)
-So where was I going with that? Oh, so what's next on that will be the mailing lists. And this is what, again, multiple professionals, advertising professionals are recommending to us. And for, you know, for what kind of company we are is we start out with those.
+And then usually micro influencers have a more loyal following than the influencers who have the millions of following numbers wise. So where was I going with that? Oh, so what's next on that will be the mailing lists.
 
-(21:04 - 21:23)
-And again, we have mailing lists that total out to millions of specifically our demographic. So that's wonderful. And then with those, we get to put an exact number on it.
+And this is what, again, multiple professionals, advertising professionals are recommending to us. And for, you know, for what kind of company we are is we start out with those. And again, we have mailing lists that total out to millions of specifically our demographic.
 
-(21:23 - 21:44)
-So that's great, too. And a great way to, you know, pick we're going to send out, you know, this mailing list and we're going to send out exactly five hundred thousand emails. And that will be really nice, too, because we'll know exactly what clicks we get from where, how many downloads, how many buys.
+So that's wonderful. And then with those, we get to put an exact number on it. So that's great, too.
 
-(21:44 - 22:05)
-And we can better analyze that to help us make future decisions on how we continue on. And, of course, while all helping us fix any bugs or anything like that that comes up. So after we do the mailing list is then when we'll get on these shows and podcasts that we have lined up.
+And a great way to, you know, pick we're going to send out, you know, this mailing list and we're going to send out exactly five hundred thousand emails. And that will be really nice, too, because we'll know exactly what clicks we get from where, how many downloads, how many buys. And we can better analyze that to help us make future decisions on how we continue on.
 
-(22:06 - 22:31)
-And then that at that point, we have to make sure that our app can definitely handle that volume. So, yeah, super, super exciting. I think super exciting to continue bringing stuff that we've been working on on the back end to you all on the front end and making sure feels great to have everything.
+And, of course, while all helping us fix any bugs or anything like that that comes up. So after we do the mailing list is then when we'll get on these shows and podcasts that we have lined up. And then that at that point, we have to make sure that our app can definitely handle that volume.
 
-(22:32 - 23:04)
-I think for so long, like even on the back end, we're working just so, so much to make things to do things the right way, which isn't always easy because sometimes just, you know, you want to take that shortcut and you want to put that bandaid on and just have it work for now. And then once we get there, we'll deal with it again. So I think it feels great to finally have that be paying off.
+So, yeah, super, super exciting. I think super exciting to continue bringing stuff that we've been working on on the back end to you all on the front end and making sure feels great to have everything. I think for so long, like even on the back end, we're working just so, so much to make things to do things the right way, which isn't always easy because sometimes just, you know, you want to take that shortcut and you want to put that bandaid on and just have it work for now.
 
-(23:06 - 23:31)
-Yeah, I think that would be really great. Silver taught him right. It's a girl.
+And then once we get there, we'll deal with it again. So I think it feels great to finally have that be paying off. Yeah, I think that would be really great.
 
-(23:32 - 23:41)
-Her name is Jasmine, Bobby and bear. But I can't I can't figure out a bear. She does talk in like an accent.
+Silver taught him right. It's a girl. Her name is Jasmine, Bobby and bear.
 
-(23:41 - 23:51)
-Sometimes is like a dog named a bear or is a lady's name bear? I don't know. Simplify. Yes.
+But I can't I can't figure out a bear. She does talk in like an accent. Sometimes is like a dog named a bear or is a lady's name bear?
 
-(23:51 - 24:12)
-Thank you for all the work. Dog bone. Do you think we'll be able to buy a coffee and shark tank product with PPI at the end of the month? The coffee is not completely ready, and I haven't even gotten the stickers for those.
+I don't know. Simplify. Yes.
 
-(24:12 - 24:29)
-So probably not the shark tank product. Definitely, because. Yeah, definitely there, because, again, that's a business that's already set up and they're ready to ship out right away.
+Thank you for all the work. Dog bone. Do you think we'll be able to buy a coffee and shark tank product with PPI at the end of the month?
 
-(24:31 - 24:49)
-So that's actually very exciting. Why have the burns on Twitter or social media stopped for so long? I've only answered that like 100 times. We're not doing social media right now until we go back to marketing.
+The coffee is not completely ready, and I haven't even gotten the stickers for those. So probably not the shark tank product. Definitely, because.
 
-(24:52 - 25:20)
-And the burns will be stopped until we're completely done. Giving out all the coins we need to give out for everybody marketing for us. At some point in the future, when we start to move up, the remaining burn coins in the float could be used to buy gold to back the actual or current tradable coins.
+Yeah, definitely there, because, again, that's a business that's already set up and they're ready to ship out right away. So that's actually very exciting. Why have the burns on Twitter or social media stopped for so long?
 
-(25:22 - 26:53)
-We definitely have several ideas for gold and LP kind of decisions. Tucker endorsed Public Square as a place to buy. I hope the final phase of marketing will be Tucker on the show. 
+I've only answered that like 100 times. We're not doing social media right now until we go back to marketing. And the burns will be stopped until we're completely done.
 
-That'll be one hell of a day. That's cool. Has anybody used Public Square? I imagine some of you have. 
+Giving out all the coins we need to give out for everybody marketing for us. At some point in the future, when we start to move up, the remaining burn coins in the float could be used to buy gold to back the actual or current tradable coins. We definitely have several ideas for gold and LP kind of decisions.
 
-I haven't used it yet, to be completely honest. What's that about gold? We actually have discussed very casually with the first gold company to ever be licensed in the U.S. That is a complete, legit, does everything by the book. Again, has been in the U.S. longer than any other gold company.
+Tucker endorsed Public Square as a place to buy. I hope the final phase of marketing will be Tucker on the show. That'll be one hell of a day.
 
-(26:55 - 27:46)
-We have discussed with them having actual gold and silver coins, like PatriotPay coins. And also backing, actually a few different ways, but one of them backing PPY with gold, but also having some other options. It's been a few months with that, though. 
+That's cool. Has anybody used Public Square? I imagine some of you have.
 
-Definitely something we need to revisit, and I just added to my list. So I think that would be really cool. But somebody in Telegram asked about putting some of the coins meant for burn and having them backed by gold or purchased gold, which we have thought about that.
+I haven't used it yet, to be completely honest. What's that about gold? We actually have discussed very casually with the first gold company to ever be licensed in the U.S. That is a complete, legit, does everything by the book. Again, has been in the U.S. longer than any other gold company. We have discussed with them having actual gold and silver coins, like PatriotPay coins. And also backing, actually a few different ways, but one of them backing PPY with gold, but also having some other options.
 
-(27:46 - 28:09)
-It's nice having that upgradable contract because we can make those changes without having to fork you guys again and go through all that. Because I can't imagine having to do that with a ton more holders. Still have holders coming out asking for help, which actually brings me to probably my last point.
+It's been a few months with that, though. Definitely something we need to revisit, and I just added to my list. So I think that would be really cool.
 
-(28:09 - 28:34)
-Make sure that if you know anybody that had the app or had any coins to get on, because we are definitely getting to the last point of having that vest version of the app available. So that's very, very important. Just think, try to think of anybody, that coworker, that family member from Thanksgiving, Christmas, whatever.
+But somebody in Telegram asked about putting some of the coins meant for burn and having them backed by gold or purchased gold, which we have thought about that. It's nice having that upgradable contract because we can make those changes without having to fork you guys again and go through all that. Because I can't imagine having to do that with a ton more holders.
 
-(28:34 - 28:53)
-Anybody that you know, even if you think they're on top of it, even if you think they sold it all. Just check in with them and make sure they get on that to move their funds if they still have funds there. There's no way for us to check for a lot of the wallets, otherwise we would.
+Still have holders coming out asking for help, which actually brings me to probably my last point. Make sure that if you know anybody that had the app or had any coins to get on, because we are definitely getting to the last point of having that vest version of the app available. So that's very, very important.
 
-(28:54 - 29:10)
-And then also make sure you add your email to subscribe on our website. That way we can send you important information there. I know you guys are in here, but say we woke up one day and Discord deleted our server.
+Just think, try to think of anybody, that coworker, that family member from Thanksgiving, Christmas, whatever. Anybody that you know, even if you think they're on top of it, even if you think they sold it all. Just check in with them and make sure they get on that to move their funds if they still have funds there.
 
-(29:10 - 29:25)
-Or say we woke up one day and Telegram deleted our server. Just make sure you have that on there because that's going to be our number one easiest way to contact you all. So please make sure you do that.
+There's no way for us to check for a lot of the wallets, otherwise we would. And then also make sure you add your email to subscribe on our website. That way we can send you important information there.
 
-(29:25 - 29:39)
-Again, we're not spamming you, we're not sending or we're not selling your email to anybody else. We're not sharing it with anybody. That is strictly for us to send you important messages.
+I know you guys are in here, but say we woke up one day and Discord deleted our server. Or say we woke up one day and Telegram deleted our server. Just make sure you have that on there because that's going to be our number one easiest way to contact you all.
 
-(29:40 - 29:52)
-We're not going to be, you know, we'll start eventually, of course, sending promotional messages. But we're never going to be like spamming you, sending you a message a day or anything like that. And of course, you can always unsubscribe.
+So please make sure you do that. Again, we're not spamming you, we're not sending or we're not selling your email to anybody else. We're not sharing it with anybody.
 
-(29:53 - 30:01)
-But please make sure you subscribe to that. And then if you know anybody that holds, definitely have them go ahead and subscribe. Because I imagine they're probably not in these chats.
+That is strictly for us to send you important messages. We're not going to be, you know, we'll start eventually, of course, sending promotional messages. But we're never going to be like spamming you, sending you a message a day or anything like that.
 
-(30:01 - 30:16)
-So that's even more important for those people, especially for future changes we have. You know, if we have anything come up like we did the fork or the vest or any of that. Then we have people show up six months later asking where their coins went.
+And of course, you can always unsubscribe. But please make sure you subscribe to that. And then if you know anybody that holds, definitely have them go ahead and subscribe.
 
-(30:28 - 30:36)
-Ppy backed by gold. Yeah, we've actually we've discussed this several times. We just got to find with gold.
+Because I imagine they're probably not in these chats. So that's even more important for those people, especially for future changes we have. You know, if we have anything come up like we did the fork or the vest or any of that.
 
-(30:36 - 30:48)
-You have to find a very legit company. So just got to do that. But I think it would be really cool.
+Then we have people show up six months later asking where their coins went. Ppy backed by gold. Yeah, we've actually we've discussed this several times.
 
-(30:52 - 31:00)
-There's somebody here like several months ago that was trying to shill something like that. I wonder what happened to that. Probably look in my inbox.
+We just got to find with gold. You have to find a very legit company. So just got to do that.
 
-(31:05 - 31:09)
-Public square is awesome. I have public square. Really? Okay.
+But I think it would be really cool. There's somebody here like several months ago that was trying to shill something like that. I wonder what happened to that.
 
-(31:13 - 31:16)
-That's really cool. We'll definitely look into that. Yes.
+Probably look in my inbox. Public square is awesome. I have public square.
 
-(31:16 - 31:28)
-So the backing Ppy with gold is definitely something that's been seriously considered. And it wasn't. It wasn't shot down.
+Really? Okay. That's really cool.
 
-(31:28 - 31:39)
-It wasn't. It was every pretty much everything was really good about it. We have just been focusing on getting it out because similar to what happened with the fork.
+We'll definitely look into that. Yes. So the backing Ppy with gold is definitely something that's been seriously considered.
 
-(31:39 - 31:52)
-I think we get all these amazing ideas and then we want to do them all. But if we don't launch then we're going to be building forever. So we definitely need to launch as soon as we get these few bugs figured out.
+And it wasn't. It wasn't shot down. It wasn't.
 
-(31:52 - 32:12)
-And then we can continue doing essentially everything and anything we want to make the coin and app. And to everything we want. But we definitely need it to launch.
+It was every pretty much everything was really good about it. We have just been focusing on getting it out because similar to what happened with the fork. I think we get all these amazing ideas and then we want to do them all.
 
-(32:12 - 32:24)
-We need it to launch. Not only to obviously fund the coin. But that way we can start with volume decreasing the tax.
+But if we don't launch then we're going to be building forever. So we definitely need to launch as soon as we get these few bugs figured out. And then we can continue doing essentially everything and anything we want to make the coin and app.
 
-(32:26 - 32:38)
-And just of course the more we do that make it more accessible. The easier we make it. The more volume we have and the higher priority we have as an organization to these larger companies.
+And to everything we want. But we definitely need it to launch. We need it to launch.
 
-(32:39 - 33:01)
-Whether it's exchanges or on off Rambers banks, etc. So yeah. But having PPY backed by gold or somehow having gold integrated is definitely something that has been discussed.
+Not only to obviously fund the coin. But that way we can start with volume decreasing the tax. And just of course the more we do that make it more accessible.
 
-(33:01 - 33:12)
-And again everything really we've discussed about it. It's been good. The most important part is finding a legit gold company.
+The easier we make it. The more volume we have and the higher priority we have as an organization to these larger companies. Whether it's exchanges or on off Rambers banks, etc.
 
-(33:13 - 33:31)
-And I think we have a good one. Again the first one ever in the U.S. The first licensed gold company in the U.S. that does everything by the book. So we'll definitely keep you updated on that.
+So yeah. But having PPY backed by gold or somehow having gold integrated is definitely something that has been discussed. And again everything really we've discussed about it.
 
-(33:32 - 33:46)
-Just trying to get launched. Oh. What is this? I haven't heard about this.
+It's been good. The most important part is finding a legit gold company. And I think we have a good one.
 
-(33:57 - 34:04)
+Again the first one ever in the U.S. The first licensed gold company in the U.S. that does everything by the book. So we'll definitely keep you updated on that. Just trying to get launched.
+
+Oh. What is this? I haven't heard about this.
+
 Let's see this. This is the first time I've heard about it. I'll have to see what the details are.
 
-(34:06 - 34:23)
-Parallel Economy Summit. So is it just I wonder is it like just a public square event or is it just hosted or sponsored by them? I wonder if that's like close to the Vegas platform. OK.
+Parallel Economy Summit. So is it just I wonder is it like just a public square event or is it just hosted or sponsored by them? I wonder if that's like close to the Vegas platform.
 
-(34:33 - 34:56)
+[Speaker 2]
+OK.
+
+[Speaker 1]
 And then that's another reason we're actually trying to get the bugs fixed as I need. I need Boris and Steve to get on there but I don't dare get them on while we're still working through bugs. So we'll see what we can get them on here when we can do that.
 
-(34:58 - 35:14)
 OK. Well I think that's all I have. Again a really really really important bug that should be fixed now with a new login screen.
 
-(35:14 - 35:33)
 But please if you do experience this bug let me know. And it's it would happen if you log into your app and don't close the app and don't log out. So you just you know you're in your app you leave it you go to a different app to check your email or text or what have you.
 
-(35:34 - 35:52)
 And then you go back say an hour two hours later the next day into the app again that you hadn't closed. And it gives you a spinning circle or a white screen. This is really important that if this does happen that you let me know please.
 
-(35:53 - 36:05)
 Try to take a screenshot of it too if you don't mind. But let me know either way if this still happens again this should be fixed with the new login screen. That's the main reason the devs had to build that new login screen.
 
-(36:07 - 36:41)
 But yeah other than that I will keep you updated on everything else. And I'll also also keep you updated on my surgery dates just as an FYI because during that time we won't be doing much again should be under 10 days. But yeah I'll keep you updated as soon as that's booked and schedule just so you have a mental prep of that.
 
-(36:43 - 36:56)
 Yeah I think that's everything I got though. Let me know if you all have anything need anything. As always please don't share your private key with anybody.
 
-(36:57 - 37:11)
 Again we will add this to the bot questions when somebody asks where their private key is. We'll make sure to tell them that the first thing is hey you know this is private. Don't share it with anybody.
 
-(37:11 - 37:23)
 We won't ask you. Of course also be careful if anybody is messaging you pretending to be me or the other admins or a dev. None of us are going to message you first or call you.
 
-(37:23 - 37:35)
 So be very wary of that. If ever in doubt go ahead and ask the chat. I'd much rather you guys ask in the public room there so you don't lose your coins.
 
-(37:36 - 37:50)
 That being said I've seen a few of you screenshot this and I'm realizing you are screenshotting it after you enter it. But I don't want you to get into that habit. Do not screenshot or share the email to code that the app gives you.
 
-(37:51 - 37:58)
 I don't want you to get in the habit of that. Just because you are essentially giving somebody your seed phrase. Right.
 
-(37:58 - 38:20)
 So we did add. We added like we added something in the app. So if somebody comes in from a new device or IP address it should send you a confirmation to your email and you have to confirm that for it to actually allow that device first.
 
-(38:21 - 38:32)
 For this reason. But again I don't want you to get in the habit of that. So please be very careful screenshotting or giving anybody that code that's emailed to you is essentially you giving them your seed phrase.
 
-(38:34 - 38:39)
 So our private keys. Same thing. So just be very very careful of that.
 
-(38:41 - 38:47)
 Definitely don't want. I think we've had like a few scams. Few people get scammed out of coins this month.
 
-(38:47 - 39:01)
 So we don't want that to continue. Please just return to the app after opening at beginning of voice chat login screen appeared prefilled with email then got spinning circle had to pull down a refresh and get login screen. OK.
 
-(39:03 - 39:26)
 Thank you much. This is important. Thank you for that.
 
-(39:29 - 39:35)
 Oh thank you. That means a lot. Contest.
 
-(39:37 - 39:50)
 Let me. Let me get a contest set up and post it as soon as I post the voice chat. I think we did the reviews last week.
 
-(39:50 - 39:59)
 But I don't know if anybody even did those. I'll have to check and then we'll go from there. Did not sign out just went to other thing.
 
-(40:00 - 40:04)
 Perfect. That is exactly what I need. Thank you.
 
-(40:04 - 40:19)
 I appreciate it. Seems like at least you didn't get like a spinning circle right away. But that's that's one of the bugs that we're still trying to get fixed there.
 
-(40:21 - 40:28)
 OK. I think that's everything that I have. You all have a wonderful night.
 
-(40:28 - 40:41)
 Give me a bit. Don't try to go get some supplements first and then I'll get back to convert these files and post them. You all have a wonderful night.
 
-(40:42 - 40:46)
 Safe weekend. I'll get everything posted tonight again with that contest.

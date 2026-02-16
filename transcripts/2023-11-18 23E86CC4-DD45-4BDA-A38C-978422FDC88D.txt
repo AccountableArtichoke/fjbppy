@@ -1,253 +1,194 @@
-(0:00 - 0:20)
-How's the recorder going? Can you hear me okay? Okay, awesome. Ahmed, who's Ahmed? Hey, you good? Okay. Alright.
+[Speaker 1]
+How's the recorder going? Can you hear me okay? Okay, awesome.
 
-(0:21 - 0:39)
-So, thank you for joining me on Saturday instead of last night. We had a few, well I had the big meeting last night that went really, really well. It actually went better, much better than expected, even, so that's really cool.
+Ahmed, who's Ahmed? Hey, you good? Okay.
 
-(0:39 - 1:06)
-I just need to finish writing a few more changes for them, but I think you guys will love it. And that was the phase that was supposed to be completed by Thanksgiving, so we're actually ahead of schedule and they are now thinking we'll wrap that up Monday. And as soon as that is wrapped up, you'll all be able to test it, so that's really cool.
+Alright. So, thank you for joining me on Saturday instead of last night. We had a few, well I had the big meeting last night that went really, really well.
 
-(1:07 - 1:37)
-The same goes for the app. The app changes that, so the devs were planning to get that deployed yesterday for you all to start testing, but we have some API issues, so they are still working on that right now. They are thinking today we should definitely be able to deploy that and begin testing, but I will keep you updated just in case you know how it goes in the FJB world.
+It actually went better, much better than expected, even, so that's really cool. I just need to finish writing a few more changes for them, but I think you guys will love it. And that was the phase that was supposed to be completed by Thanksgiving, so we're actually ahead of schedule and they are now thinking we'll wrap that up Monday.
 
-(1:37 - 1:49)
-But I'll keep you updated on that. They're doing everything they can. They've been working on that since this morning, my time, and it's 10.30 now, my time.
+And as soon as that is wrapped up, you'll all be able to test it, so that's really cool. The same goes for the app. The app changes that, so the devs were planning to get that deployed yesterday for you all to start testing, but we have some API issues, so they are still working on that right now.
 
-(1:49 - 3:21)
-So that's wonderful. Yeah, everything's just going great, and I'm hoping you guys can start taking this all for a test drive. As far as tasks, we are scheduling everybody because everybody working on this needs to meet up at one time for us to go live, so we are pretty close, I'd say, asking everybody on a time that works for them to get this all wrapped up, so I think that's great news. 
+They are thinking today we should definitely be able to deploy that and begin testing, but I will keep you updated just in case you know how it goes in the FJB world. But I'll keep you updated on that. They're doing everything they can.
 
-Oh, get your coins off XT, get your coins off LBank, because our volume on LBank has been very low, so they are actually about to drop us the same way XT did, and unfortunately we're not wanting to pay the $65,000 to even begin the process to stay on there. So again, I know the usual, you guys are probably tired of hearing me tell you to get your coins off XT, but also get your coins off LBank. I know there's quite a few of you, last time I checked was probably about a month ago, who still have coins on there, so please get those off at your soonest convenient.
+They've been working on that since this morning, my time, and it's 10.30 now, my time. So that's wonderful. Yeah, everything's just going great, and I'm hoping you guys can start taking this all for a test drive.
 
-(3:22 - 4:18)
-Go ahead and transfer them, I don't know, Trust Wallet, or I don't know if you'll be able to transfer them to the app this week, but get those out of there. Same goes for Wire, you have, what, give or take 10 days to do that, a little bit, two weeks maybe, to get that done. So just get your coins off the exchanges. 
+As far as tasks, we are scheduling everybody because everybody working on this needs to meet up at one time for us to go live, so we are pretty close, I'd say, asking everybody on a time that works for them to get this all wrapped up, so I think that's great news. Oh, get your coins off XT, get your coins off LBank, because our volume on LBank has been very low, so they are actually about to drop us the same way XT did, and unfortunately we're not wanting to pay the $65,000 to even begin the process to stay on there. So again, I know the usual, you guys are probably tired of hearing me tell you to get your coins off XT, but also get your coins off LBank.
 
-I will post that in announcements to make sure you are getting your coins off LBank too, and again, we'll send a final email if you're on the email list on our website. Let me see, I think I dropped the screenshot yesterday of the app, let me see if there's anything else I can share with you guys. Everything's beautiful.
+I know there's quite a few of you, last time I checked was probably about a month ago, who still have coins on there, so please get those off at your soonest convenient. Go ahead and transfer them, I don't know, Trust Wallet, or I don't know if you'll be able to transfer them to the app this week, but get those out of there. Same goes for Wire, you have, what, give or take 10 days to do that, a little bit, two weeks maybe, to get that done.
 
-(4:18 - 4:44)
-So, I'll get on a call in a little bit again with the devs to just make sure it's all perfect and ready for you all to test drive. I don't think I got any questions actually in my DMs at all. I know there's a few of you still messaging about your app not working, again, we are working on that.
+So just get your coins off the exchanges. I will post that in announcements to make sure you are getting your coins off LBank too, and again, we'll send a final email if you're on the email list on our website. Let me see, I think I dropped the screenshot yesterday of the app, let me see if there's anything else I can share with you guys.
 
-(4:46 - 5:05)
-That should be fixed once we roll everything out. Which, right now, the app is scheduled to deploy to you all for testing this week. We'll see from there if we have any other issues of course.
+Everything's beautiful. So, I'll get on a call in a little bit again with the devs to just make sure it's all perfect and ready for you all to test drive. I don't think I got any questions actually in my DMs at all.
 
-(5:06 - 6:05)
-I'll go ahead and work on those. I don't see any... Yeah, I don't see any questions. Alright, I got nothing. 
+I know there's a few of you still messaging about your app not working, again, we are working on that. That should be fixed once we roll everything out. Which, right now, the app is scheduled to deploy to you all for testing this week.
 
-Cool. What's the schedule looking like for the task? I will update you. We are closer than we were on the last call.
+We'll see from there if we have any other issues of course. I'll go ahead and work on those. I don't see any...
 
-(6:05 - 6:17)
+Yeah, I don't see any questions. Alright, I got nothing. Cool.
+
+What's the schedule looking like for the task? I will update you. We are closer than we were on the last call.
+
 But you'll know. Yeah. We'll definitely schedule a call and do all to be very aware.
 
-(6:19 - 6:29)
 We're still on good for November for the task, yes. If that does change, I will let you guys know. But yes, we are still good for that.
 
-(6:31 - 6:59)
-Just crossing my fingers that everything keeps going how it's been going. Will the introduction video you spoke of in the beta of the revamped app be out to the public before Tuesday? Yes, absolutely. Everything will first be out to you guys, I mean, and anybody else really, the public, who wants to test it out.
+Just crossing my fingers that everything keeps going how it's been going. Will the introduction video you spoke of in the beta of the revamped app be out to the public before Tuesday? Yes, absolutely.
 
-(7:00 - 7:15)
-And then, yeah, if we want to work out any bugs, I'm sure we will run into before TPUSA. Absolutely. And the same goes with the video.
+Everything will first be out to you guys, I mean, and anybody else really, the public, who wants to test it out. And then, yeah, if we want to work out any bugs, I'm sure we will run into before TPUSA. Absolutely.
 
-(7:17 - 7:37)
-We're basically just down for all the devs to schedule a date. A nice little date that works for everybody. But yes, so far still November.
+And the same goes with the video. We're basically just down for all the devs to schedule a date. A nice little date that works for everybody.
 
-(7:38 - 8:22)
-I know we're getting close. Second half of November now. I'm just doing the easy work.
+But yes, so far still November. I know we're getting close. Second half of November now.
 
-(8:23 - 8:52)
-Everybody else does the hard stuff. I got the easy part. On our video, let's see how that's going.
+I'm just doing the easy work. Everybody else does the hard stuff. I got the easy part.
 
-(9:15 - 9:35)
-Again, I can't stress enough to please get your coins off XT and LBank. If you have funds in wire still, I know there's a few people who've said they have a few hundred dollars on there. Not sure if you guys got those off, but get those off too.
+On our video, let's see how that's going. Again, I can't stress enough to please get your coins off XT and LBank. If you have funds in wire still, I know there's a few people who've said they have a few hundred dollars on there.
 
-(9:36 - 9:48)
-Let me know if you need help too with LBank too. Do it now probably. I would suggest doing it now while you can get your funds off there without having to contact anybody.
+Not sure if you guys got those off, but get those off too. Let me know if you need help too with LBank too. Do it now probably.
 
-(9:54 - 10:19)
-What day is TPUSA scheduled for? We have not committed on that because we are still working on everything on the back end, but that is December 16th to 19th. Super, super excited. So far they have above 15,000 attendees registered I believe.
+I would suggest doing it now while you can get your funds off there without having to contact anybody. What day is TPUSA scheduled for? We have not committed on that because we are still working on everything on the back end, but that is December 16th to 19th.
 
-(10:23 - 10:40)
-And I was looking at speakers this morning too. Off the top of my head, I'm trying to think of the number of vendors this year. It's already quite a bit more than the vendors last year.
+Super, super excited. So far they have above 15,000 attendees registered I believe. And I was looking at speakers this morning too.
 
-(10:43 - 11:18)
-But if we do do the TPUSA booth and not just the press pass, we will definitely be doing the stage video which they actually were all booked for, but a little special treatment. So I'm hoping we can wrap everything up to get that done in time. But I think we all know by now not to try to force it but I think that would be amazing for us.
+Off the top of my head, I'm trying to think of the number of vendors this year. It's already quite a bit more than the vendors last year. But if we do do the TPUSA booth and not just the press pass, we will definitely be doing the stage video which they actually were all booked for, but a little special treatment.
 
-(11:26 - 11:46)
-Will a war room the TPUSA? I don't know what the rest of it is, but I'm just assuming it's the what you're asking is will a war room appearance happen before or after the TPUSA. I'm honestly not sure about that. That has not been scheduled.
+So I'm hoping we can wrap everything up to get that done in time. But I think we all know by now not to try to force it but I think that would be amazing for us. Will a war room the TPUSA?
 
-(11:53 - 12:01)
+I don't know what the rest of it is, but I'm just assuming it's the what you're asking is will a war room appearance happen before or after the TPUSA. I'm honestly not sure about that. That has not been scheduled.
+
 It's only 1030 here so I have to make another coffee. I just got back from the food bank and I first woke up at 330. So I had my coffee then.
 
-(12:02 - 12:17)
 Time for another one. It's kind of weird having a voice chat at this time, but it is super gloomy outside. It's been raining for a day straight.
 
-(12:18 - 12:33)
 So it's not super warm. I am excited for you all to test drive this KB. It is really cool.
 
-(12:33 - 13:00)
 Obviously I've known everything we've been working on for so long, but seeing it all actually come live and having really the last little tiny details is a lot different. It's crazy. So I hope you guys are excited about it as much as I am because I'm super excited about it and I know what we've been working on this whole time, but it's still really cool to see it.
 
-(13:02 - 13:32)
-Actually see it. Super, super neat. I will... So we have another working meeting today with the devs as far as the app and deployment goes, and then Monday I should have a meeting later in the day to wrap up a different phase with the other team of devs that's also working on something app related that's really, really cool that I think you all will love.
+Actually see it. Super, super neat. I will...
 
-(13:33 - 13:57)
-And definitely will definitely help us grow the community. Yeah. When deploy... Oh wait, it was just in here a few weeks ago.
+So we have another working meeting today with the devs as far as the app and deployment goes, and then Monday I should have a meeting later in the day to wrap up a different phase with the other team of devs that's also working on something app related that's really, really cool that I think you all will love. And definitely will definitely help us grow the community. Yeah.
 
-(13:57 - 14:04)
-Or maybe, I don't know, a few weeks, days. My days all mesh together now. Asking if we are awake yet.
+When deploy... Oh wait, it was just in here a few weeks ago. Or maybe, I don't know, a few weeks, days.
 
-(14:04 - 14:29)
-I think we'll get to test out the revamped app before Thanksgiving so I can show my lefty fam the future. Oh my gosh. You haven't converted them? Have you converted anybody? I am hoping we can at least get the app deployed before Thanksgiving.
+My days all mesh together now. Asking if we are awake yet. I think we'll get to test out the revamped app before Thanksgiving so I can show my lefty fam the future.
 
-(14:30 - 14:42)
-Yes. So only one of our dev teams celebrates Thanksgiving, so that's great. So it shouldn't have too much of an impact on everything.
+Oh my gosh. You haven't converted them? Have you converted anybody?
 
-(14:43 - 14:51)
-But yes, that would be phenomenal. I definitely want you guys to at least start testing it, test driving it. That'll give us some time to work out some bugs.
+I am hoping we can at least get the app deployed before Thanksgiving. Yes. So only one of our dev teams celebrates Thanksgiving, so that's great.
 
-(14:54 - 15:08)
-Super excited. Looks super slick. It's weird seeing the app, how it was, or how it still is how you guys are seeing it.
+So it shouldn't have too much of an impact on everything. But yes, that would be phenomenal. I definitely want you guys to at least start testing it, test driving it.
 
-(15:08 - 15:31)
-Just seems like it's ancient now. Seems like it's a few decades old. Been testing everything last night for a different portion of the app.
+That'll give us some time to work out some bugs. Super excited. Looks super slick.
 
-(15:31 - 15:57)
-It was super cool too. Super, super easy. Easy enough for my grandma to do it. 
+It's weird seeing the app, how it was, or how it still is how you guys are seeing it. Just seems like it's ancient now. Seems like it's a few decades old.
 
-Truly easy enough for my grandma to do it. I don't feel like that was the case before these updates. What if my grandma can use Facebook? I think she can use the new app.
+Been testing everything last night for a different portion of the app. It was super cool too. Super, super easy.
 
-(16:07 - 16:32)
-I heard one Thanksgiving last night. I made a really awesome dessert that I really highly recommend you guys make. It's like a mix of a cheesecake and a pumpkin pie and a pecan pie and it's the best thing ever.
+Easy enough for my grandma to do it. Truly easy enough for my grandma to do it. I don't feel like that was the case before these updates.
 
-(16:35 - 17:14)
-Especially if you have celiacs in your family. Doesn't taste gluten-free but it is. When fan not make fun of us anymore during holidays. 
+What if my grandma can use Facebook? I think she can use the new app. I heard one Thanksgiving last night.
 
-You guys? Is that what my family and friends ask every time they see me? Are you still doing that Bitcoin stuff? Yes, yes. I'm still getting harassed by Diesel. Oh my gosh.
+I made a really awesome dessert that I really highly recommend you guys make. It's like a mix of a cheesecake and a pumpkin pie and a pecan pie and it's the best thing ever. Especially if you have celiacs in your family.
 
-(17:16 - 17:25)
-If they only knew my life. Keep them thinking I'm doing that Bitcoin stuff. I think that's probably a lot better.
+Doesn't taste gluten-free but it is. When fan not make fun of us anymore during holidays. You guys?
 
-(17:29 - 17:34)
-But yes, I am. I'm really hoping. Let's check on the devs actually.
+Is that what my family and friends ask every time they see me? Are you still doing that Bitcoin stuff? Yes, yes.
 
-(17:34 - 18:26)
-I haven't since I was at the food bank. Any other questions? So this week we should definitely have an app phase that's not with these current upgrades of the screenshot I shared last night. But a different app.
+I'm still getting harassed by Diesel. Oh my gosh. If they only knew my life.
 
-(18:27 - 18:40)
+Keep them thinking I'm doing that Bitcoin stuff. I think that's probably a lot better. But yes, I am.
+
+I'm really hoping. Let's check on the devs actually. I haven't since I was at the food bank.
+
+Any other questions? So this week we should definitely have an app phase that's not with these current upgrades of the screenshot I shared last night. But a different app.
+
 Oh, beautiful. That's so pretty. Let's share this.
 
-(18:45 - 19:31)
-You guys want to see it? It's just little details. By Monday Here we go. And sweet.
+You guys want to see it? It's just little details. By Monday Here we go.
 
-(19:32 - 20:08)
-So, Monday we should have our phase 4 essentially. Phase 4 that was due to be completed by Thanksgiving. We should be wrapping up early. 
+And sweet. So, Monday we should have our phase 4 essentially. Phase 4 that was due to be completed by Thanksgiving.
 
-That should be completed by Monday, which I'm very excited for. I just need to finish wrapping up the changes for that. Today we're hoping to get this app deployed to you all to start testing.
+We should be wrapping up early. That should be completed by Monday, which I'm very excited for. I just need to finish wrapping up the changes for that.
 
-(20:09 - 20:29)
-So app, Monday is also app. And then that leaves a task. And we're hoping if we get that completed, that will give us a solid commitment to TPUSA.
+Today we're hoping to get this app deployed to you all to start testing. So app, Monday is also app. And then that leaves a task.
 
-(20:29 - 20:37)
-For the most part. We still need to make some changes to the app. Obviously with bugs and you all test driving it.
+And we're hoping if we get that completed, that will give us a solid commitment to TPUSA. For the most part. We still need to make some changes to the app.
 
-(20:38 - 21:02)
-But, also we'll need to make some other changes. So, but that will definitely give us a better idea and commitment before dropping those five figures for TPUSA. Got some legal things to wrap up.
+Obviously with bugs and you all test driving it. But, also we'll need to make some other changes. So, but that will definitely give us a better idea and commitment before dropping those five figures for TPUSA.
 
-(21:03 - 21:15)
-That should also happen this week. It's hard because it's a short week for everything here, but again, thankfully not for our devs. Or third parties.
+Got some legal things to wrap up. That should also happen this week. It's hard because it's a short week for everything here, but again, thankfully not for our devs.
 
-(21:16 - 21:36)
-For the most part. Got expert smart wallet switch. Looks like it still needs a little bit of tweaking, but I think that will be much easier.
+Or third parties. For the most part. Got expert smart wallet switch.
 
-(22:04 - 22:17)
-Gift and a curse. Yeah, that needs to be tweaked a tiny bit. As I'm zooming in.
+Looks like it still needs a little bit of tweaking, but I think that will be much easier. Gift and a curse. Yeah, that needs to be tweaked a tiny bit.
 
-(22:24 - 22:33)
-It says much better, easier to tell what mode you're in. Yes. There will actually be something else added on there too.
+As I'm zooming in. It says much better, easier to tell what mode you're in. Yes.
 
-(22:33 - 22:51)
-So I'll let you guys know if I get a screenshot of that really quick. Or I could just wait until call's done and go in to test it myself and get a screenshot for you. But yes, that'll make it a lot easier.
+There will actually be something else added on there too. So I'll let you guys know if I get a screenshot of that really quick. Or I could just wait until call's done and go in to test it myself and get a screenshot for you.
 
-(22:55 - 23:09)
-Will there be a prompt to agree to smart wallet and whatever that means? No. Smart wallet is the default on our app. It has been the default for more than actually for more than a year now.
+But yes, that'll make it a lot easier. Will there be a prompt to agree to smart wallet and whatever that means? No.
 
-(23:10 - 23:56)
-Quite a bit. I think the last few thousand users looks like an eye test at the eye doctors. Yes.
+Smart wallet is the default on our app. It has been the default for more than actually for more than a year now. Quite a bit.
 
-(23:58 - 24:21)
-But I zoomed in and I'm like wait, wait a minute. My main job here is to be like the annoying female for the devs. That was me last night too.
+I think the last few thousand users looks like an eye test at the eye doctors. Yes. But I zoomed in and I'm like wait, wait a minute.
 
-(24:21 - 24:26)
-Like no, more simple. No, we need it easier. No, more simple than that.
+My main job here is to be like the annoying female for the devs. That was me last night too. Like no, more simple.
 
-(24:27 - 24:43)
-I think I apologized at one point. Let's keep going. More simple than that. 
+No, we need it easier. No, more simple than that. I think I apologized at one point.
 
-And they give me an answer. I'm like nope, like this. As simple as simple gets.
+Let's keep going. More simple than that. And they give me an answer.
 
-(24:47 - 24:55)
-So fixed. So yeah. No, there's no prompt for agreeing to smart wallet.
+I'm like nope, like this. As simple as simple gets. So fixed.
 
-(24:57 - 25:08)
-Because that is default. If you want to go into expert mode, you can. But that confuses a lot of people, especially people who are not crypto savvy.
+So yeah. No, there's no prompt for agreeing to smart wallet. Because that is default.
 
-(25:24 - 25:29)
-So simple. Brandon can do it. Yeah, exactly.
+If you want to go into expert mode, you can. But that confuses a lot of people, especially people who are not crypto savvy. So simple.
 
-(25:29 - 25:45)
-I don't think it's so simple right now. But it has taken in our defense, has taken a lot of work. Again, I know it seems so simple on the front end to make something so simple.
+Brandon can do it. Yeah, exactly. I don't think it's so simple right now.
 
-(25:45 - 25:57)
-And I get it, because I used to think that too. But seeing every little detail. I give our devs and our advisor and our team all the credit.
+But it has taken in our defense, has taken a lot of work. Again, I know it seems so simple on the front end to make something so simple. And I get it, because I used to think that too.
 
-(25:58 - 26:19)
-Because it really has been so much work. And we want to create something long term rather than duct taping it all together to get it done as quickly as possible. Just can't wait for you all to test drive it so we can figure out some more bugs I'm sure will come up.
+But seeing every little detail. I give our devs and our advisor and our team all the credit. Because it really has been so much work.
 
-(26:19 - 26:44)
-With obviously more volume and more of you testing it. Actually, this is what I need to ask you guys for a favor for one of our partners. It might appeal to anybody, but specifically any business owners or anybody with any kind of data to encrypt.
+And we want to create something long term rather than duct taping it all together to get it done as quickly as possible. Just can't wait for you all to test drive it so we can figure out some more bugs I'm sure will come up. With obviously more volume and more of you testing it.
 
-(26:46 - 27:07)
-Let me see, I think it's on my other notepad. But I need you all, anybody willing to test a service. It's usually a paid service, but you'll be actually testing it for obviously no charge.
+Actually, this is what I need to ask you guys for a favor for one of our partners. It might appeal to anybody, but specifically any business owners or anybody with any kind of data to encrypt. Let me see, I think it's on my other notepad.
 
-(27:09 - 27:24)
-To just do one of our partners a favor because they've done so much for us. So they're just looking for more testers to test this encryption service. If anybody's interested in that, please DM me.
+But I need you all, anybody willing to test a service. It's usually a paid service, but you'll be actually testing it for obviously no charge. To just do one of our partners a favor because they've done so much for us.
 
-(27:25 - 27:38)
-I'll include it in the post later too. But it's really cool. I can't believe he's still alive.
+So they're just looking for more testers to test this encryption service. If anybody's interested in that, please DM me. I'll include it in the post later too.
 
-(27:39 - 27:55)
-Barely, but gosh. Let me check DMs in case anything came in. I feel like when I don't check, I'm all good.
+But it's really cool. I can't believe he's still alive. Barely, but gosh.
 
-(28:08 - 29:29)
-All right. Anything else? I have to eat breakfast, which actually I think I'm going to eat some of that pie I made last night, which you all need to make for Thanksgiving. Actually, if you're getting yelled at by family egg, I think you should make that and then your family's going to be all happy again.
+Let me check DMs in case anything came in. I feel like when I don't check, I'm all good.
 
-(29:31 - 29:38)
+[Speaker 2]
+All right.
+
+[Speaker 1]
+Anything else? I have to eat breakfast, which actually I think I'm going to eat some of that pie I made last night, which you all need to make for Thanksgiving. Actually, if you're getting yelled at by family egg, I think you should make that and then your family's going to be all happy again.
+
 And then I'm going to eat breakfast. I need to get ready. I got to go to lunch with family.
 
-(29:39 - 29:48)
 I have family from out of town. That's kind of why I added a little bourbon to this coffee. Brown sugar bourbon.
 
-(29:49 - 30:00)
 And then I have a funeral. And then I have a meeting. No, the meeting's between lunch and the funeral.
 
-(30:01 - 30:15)
-And then I have a funeral. I found some things for lunch. I should be home by like 6 p.m. maybe.
+And then I have a funeral. I found some things for lunch. I should be home by like 6 p.m. maybe. Hopefully. Do please don't forget to get your coins off XT, off LBank. If you know anybody or you guys are any other you know, I know you have your Telegram side chats and whatever.
 
-(30:16 - 30:32)
-Hopefully. Do please don't forget to get your coins off XT, off LBank. If you know anybody or you guys are any other you know, I know you have your Telegram side chats and whatever.
-
-(30:33 - 31:27)
-If you have friends that don't come on here, coworkers that don't come on here, please make sure they get their coins off of LBank, off of XT. Be the easiest time for me to get it off LBank right now before you need to contact customer service before they actually delist us. But they are in the process of delisting us, so I would get your coins off there ASAP, transfer them. 
+If you have friends that don't come on here, coworkers that don't come on here, please make sure they get their coins off of LBank, off of XT. Be the easiest time for me to get it off LBank right now before you need to contact customer service before they actually delist us. But they are in the process of delisting us, so I would get your coins off there ASAP, transfer them.
 
 Again, just like XT, you will not be charged the 8%, so don't worry about that. You'll be charged a very minimal, I don't remember if LBank actually is the same fee with the 8,000 and some change of coins to transfer your coins off there, but please do that. If you need any help with that, please DM or tag me or email me, text me, call me, whatever works so I can help you get that taken care of.
 
-(31:28 - 32:04)
 So please do that ASAP and let anybody you know who may have any FJB, because you don't know, maybe they have someone at LBank you don't know about, get that transferred off ASAP. If they delist us, I'm sure they'll give you some time to get it off, but again, we cannot do anything about that if they say they can't help you, so I would do that sooner than later. I know some of you like trading on there, but definitely highly suggest doing that.
 
-(32:11 - 32:36)
-Anything else? Alright, I don't see anybody typing. Tag, DM me, email, again, I don't know, text me, call me, some of you do that. Let me know if you need anything else in the meantime.
+Anything else? Alright, I don't see anybody typing. Tag, DM me, email, again, I don't know, text me, call me, some of you do that.
 
-(32:38 - 33:16)
-But yeah, let's see if we can get this wrapped up for you all to start testing today at least, that would be awesome. I will post this along with the notes and let me know if you need anything else in the meantime. You all have a wonderful rest of your day, and just be safe. 
+Let me know if you need anything else in the meantime. But yeah, let's see if we can get this wrapped up for you all to start testing today at least, that would be awesome. I will post this along with the notes and let me know if you need anything else in the meantime.
 
-Make that pie. The pictures are in the Telegram recipe channel. It's so good. 
+You all have a wonderful rest of your day, and just be safe. Make that pie. The pictures are in the Telegram recipe channel.
 
-You guys need to make it. Alright, I'll talk to you later. Bye.
+It's so good. You guys need to make it. Alright, I'll talk to you later.
+
+Bye.

@@ -1,148 +1,154 @@
-(0:00 - 1:37)
-All right, we have that going. I'm gonna start off with some questions in my, excuse me, in my inbox. I'm gonna try to get through this as quickly as I can. 
+[Speaker 1]
+All right, we have that going. I'm gonna start off with some questions in my, excuse me, in my inbox. I'm gonna try to get through this as quickly as I can.
 
-So I have, is the contract finalized? No, the contract will be finalized after we are done testing. So we have been testing a copy of, exact copy of the contract, but you just never know. So we'd like to actually test the the actual contract before we finalize it. 
+So I have, is the contract finalized? No, the contract will be finalized after we are done testing. So we have been testing a copy of, exact copy of the contract, but you just never know.
 
-Excuse me. When will it be formally released? Again, after testing. Then we have what testing's been done so far? What testing still required? Okay, I think all these questions kind of fall into the same umbrella. 
+So we'd like to actually test the the actual contract before we finalize it. Excuse me. When will it be formally released?
 
-We still have to test the contract. We have been waiting on Velo for something app related from him because we need to test this using our app, right? And oops, there we go. Sorry, just now unmuted.
+Again, after testing. Then we have what testing's been done so far? What testing still required?
 
-(1:38 - 5:19)
-Discord. Okay, so we've been waiting on Velo for something. We've not heard back from him. 
+Okay, I think all these questions kind of fall into the same umbrella. We still have to test the contract. We have been waiting on Velo for something app related from him because we need to test this using our app, right?
 
-He's gone MIA since we, since he told us he could provide that. So anyway, we are moving forward. Our advisor will take care of it. 
+And oops, there we go. Sorry, just now unmuted. Discord.
 
-As soon as our advisor completes that, we will begin team testing on our end. And that is testing using the app and the new contract. Once everything is going smoothly, if everything is testing and working as intended, that should, we estimate two to three days. 
+Okay, so we've been waiting on Velo for something. We've not heard back from him. He's gone MIA since we, since he told us he could provide that.
 
-If everything goes as expected, which again, it should considering we've been testing the contract. We've been testing contract that is the exact copy of our current contract that we moved the LP to. But I will keep you updated as far as that goes. 
+So anyway, we are moving forward. Our advisor will take care of it. As soon as our advisor completes that, we will begin team testing on our end.
 
-Again, number one priority is making sure everything is done correctly. Even if that does take a little bit of time and also making sure that security of course is a top priority. But I will keep you updated on how that goes. 
+And that is testing using the app and the new contract. Once everything is going smoothly, if everything is testing and working as intended, that should, we estimate two to three days. If everything goes as expected, which again, it should considering we've been testing the contract.
 
-Again, testing should take two to three days of us and everything again should go but you guys know how testing goes. So after we are done testing, we will have you all begin testing on the app. You will need an app account to test. 
+We've been testing contract that is the exact copy of our current contract that we moved the LP to. But I will keep you updated as far as that goes. Again, number one priority is making sure everything is done correctly.
 
-So if you've not created an app account, I highly suggest you create one. You will need an app account to test. If you don't have one, we'll have some other ways for you to test but ideally we'd like you to have an account on the app to be able to test everything as intended. 
+Even if that does take a little bit of time and also making sure that security of course is a top priority. But I will keep you updated on how that goes. Again, testing should take two to three days of us and everything again should go but you guys know how testing goes.
 
-And that will also go on for a few days hoping everything goes as planned and everything functions as intended. How much will team need to review testing outcomes and findings? I think I answered that. Airdrop is planned to occur after testing is complete. 
+So after we are done testing, we will have you all begin testing on the app. You will need an app account to test. So if you've not created an app account, I highly suggest you create one.
 
-We don't want to deal with a mess. If testing does not go as intended, we will need to make changes and we don't want to do that if we've already airdropped. So right now airdrops are scheduled to occur after all testing is complete and contract is finalized. 
+You will need an app account to test. If you don't have one, we'll have some other ways for you to test but ideally we'd like you to have an account on the app to be able to test everything as intended. And that will also go on for a few days hoping everything goes as planned and everything functions as intended.
 
-Can the airdrop happen during testing phase? No, not right now. If that changes, I'll definitely let you know. What needs to happen before trading is turned on? When is this scheduled? I think I answered that.
+How much will team need to review testing outcomes and findings? I think I answered that. Airdrop is planned to occur after testing is complete.
 
-(5:23 - 5:30)
+We don't want to deal with a mess. If testing does not go as intended, we will need to make changes and we don't want to do that if we've already airdropped. So right now airdrops are scheduled to occur after all testing is complete and contract is finalized.
+
+Can the airdrop happen during testing phase? No, not right now. If that changes, I'll definitely let you know.
+
+What needs to happen before trading is turned on? When is this scheduled? I think I answered that.
+
 Okay, so I think that's everything here. Let me see. Looks like I have somebody on some discord.
 
-(5:33 - 5:54)
-I'm a bit confused. Our FJB in the Patriot Pay app now says PPY. Will our FJB disappear or will we be able to just store it next to my row? Uh, yeah, so the Patriot Pay app will change to where you will see Patriot Pay instead of FJB.
+I'm a bit confused. Our FJB in the Patriot Pay app now says PPY. Will our FJB disappear or will we be able to just store it next to my row?
 
-(5:57 - 7:05)
-If that changes in the future, we will let you know. Sorry, give me just a second. Okay, has the change now integration been completed? Yes, that's been a few days, several days actually, I think by now. 
+Uh, yeah, so the Patriot Pay app will change to where you will see Patriot Pay instead of FJB. If that changes in the future, we will let you know. Sorry, give me just a second.
 
-Do you think airdrop will happen this year? Let me see. 27, 28, 29, 30, 31. Still have four days, so if testing, depending on when testing goes, or when testing begins, and how testing goes, I would say that's still possible depending on when we can get this wrapped up.
+Okay, has the change now integration been completed? Yes, that's been a few days, several days actually, I think by now. Do you think airdrop will happen this year?
 
-(7:07 - 7:44)
-I'm hoping we can begin testing tomorrow, team testing. Robert needs to get into the chat. What else? Let me check the email in case we have any.
+Let me see. 27, 28, 29, 30, 31. Still have four days, so if testing, depending on when testing goes, or when testing begins, and how testing goes, I would say that's still possible depending on when we can get this wrapped up.
 
-(7:44 - 9:57)
-Okay, I think all the email questions have all been pretty much the same. A few folks not very familiar with forks, wondering why their coin value dropped immediately. Again, just hold tight. 
+I'm hoping we can begin testing tomorrow, team testing. Robert needs to get into the chat. What else?
 
-We will walk you through everything and everything you need to do as soon as we have instructions for you. Right now there is nothing you need to do. Team testing of the actual contract, or is the team testing of the, no, we are, we've been testing the copy quite a bit a while ago. 
+Let me check the email in case we have any. Okay, I think all the email questions have all been pretty much the same. A few folks not very familiar with forks, wondering why their coin value dropped immediately.
 
-This is testing the actual contract. Is testing via the app by the community the last step, or are there other steps before launch? I'm not sure what you're meaning. No, that'll be, we have to test it, the team will test it, and then the community will test it, and then that's the schedule right now. 
+Again, just hold tight. We will walk you through everything and everything you need to do as soon as we have instructions for you. Right now there is nothing you need to do.
 
-If that changes, I will let you know. Obviously, if we need to make changes to the contract, that will happen before airdrop and after community testing, so if there's changes, we're going to have to make changes, whether that means to the current contract, which we can do that now without, depending on what changes are needed, but again, we've been testing the copy of the contract. We don't expect there to be any crazy changes, but if there are changes to be made, we'll have to make those changes and then retest.
+Team testing of the actual contract, or is the team testing of the, no, we are, we've been testing the copy quite a bit a while ago. This is testing the actual contract. Is testing via the app by the community the last step, or are there other steps before launch?
 
-(9:58 - 10:35)
-Of course, that remains the number one priority is, again, making sure that everything is just working as it should. Has Arizomatic affected anything on the teams? I would say that's positively affected everything, like 30%. That's not bad, huh? Has the team confirmed how many coins will be burnt? No.
+I'm not sure what you're meaning. No, that'll be, we have to test it, the team will test it, and then the community will test it, and then that's the schedule right now. If that changes, I will let you know.
 
-(10:37 - 11:03)
-We're pretty close, though. We were already pretty close just to be finalized. Oh, a lemon drop, yeah. 
+Obviously, if we need to make changes to the contract, that will happen before airdrop and after community testing, so if there's changes, we're going to have to make changes, whether that means to the current contract, which we can do that now without, depending on what changes are needed, but again, we've been testing the copy of the contract. We don't expect there to be any crazy changes, but if there are changes to be made, we'll have to make those changes and then retest. Of course, that remains the number one priority is, again, making sure that everything is just working as it should.
 
-That would probably be nice. I've been on my water. I probably do need a lemon water, though.
+Has Arizomatic affected anything on the teams? I would say that's positively affected everything, like 30%. That's not bad, huh?
 
-(11:10 - 12:51)
-Do you have an estimated go live date for either a new iOS app or an update for the current one, assuming for the name on there? We just have some Xcode updates. That's what we're waiting on. Where will the instructions be posted after the AR drop? The instructions will be posted here in Discord and Telegram. 
+Has the team confirmed how many coins will be burnt? No. We're pretty close, though.
 
-We will also email all subscribers. If you're subscribed to the website newsletter, we'll make sure to send them. Sarah, what's your corporate title and PPY? Janitor.
+We were already pretty close just to be finalized. Oh, a lemon drop, yeah. That would probably be nice.
 
-(12:57 - 13:31)
-Oh, sorry. Excuse me. I don't know. 
+I've been on my water. I probably do need a lemon water, though. Do you have an estimated go live date for either a new iOS app or an update for the current one, assuming for the name on there?
 
-Does that answer your question, TC Peterson? The instructions will be posted on here in announcements and on Telegram. If you're subscribed on the website, you'll also receive an email with instructions on there. The instructions will be super simple.
+We just have some Xcode updates. That's what we're waiting on. Where will the instructions be posted after the AR drop?
 
-(13:51 - 14:33)
-Thanks. What's the website again? I'll type it here for you. Patriotpay.org. When do you think we will see the video that has been made? I know. 
+The instructions will be posted here in Discord and Telegram. We will also email all subscribers. If you're subscribed to the website newsletter, we'll make sure to send them.
+
+Sarah, what's your corporate title and PPY? Janitor. Oh, sorry.
+
+Excuse me. I don't know. Does that answer your question, TC Peterson?
+
+The instructions will be posted on here in announcements and on Telegram. If you're subscribed on the website, you'll also receive an email with instructions on there. The instructions will be super simple.
+
+Thanks. What's the website again? I'll type it here for you.
+
+Patriotpay.org. When do you think we will see the video that has been made? I know.
 
 That's just like, I feel like now it's just not going to be very exciting. This will be after testing is complete. Probably as we go live with a few other items.
 
-(14:35 - 17:10)
-A few other fun things, I think. Okay. So recap, because I missed half of this. 
+A few other fun things, I think. Okay. So recap, because I missed half of this.
 
-When airdrop, when can we buy? Airdrop will be as soon as testing is complete and trading will be enabled right after that too. Any update on taxes applied if you add liquidity to the pool? No, however, I don't have an update on that yet. However, I do have an update on, I know a few of you have asked for our advisor to come on voice chat. 
+When airdrop, when can we buy? Airdrop will be as soon as testing is complete and trading will be enabled right after that too. Any update on taxes applied if you add liquidity to the pool?
 
-What he'd actually prefer is I get questions from you all and he'll type me up the answers and I will get those back to you guys on a voice chat. I could also, you know, copy and paste them in writing too. So what I can do is either, I can probably start a topic here in telegram and then probably a channel and discord for any questions you have for our advisor and we'll do it that way. 
+No, however, I don't have an update on that yet. However, I do have an update on, I know a few of you have asked for our advisor to come on voice chat. What he'd actually prefer is I get questions from you all and he'll type me up the answers and I will get those back to you guys on a voice chat.
 
-And then I'll have the answers for you guys at launch or before launch. I know a few of you had questions. So we just need an app account to test. 
+I could also, you know, copy and paste them in writing too. So what I can do is either, I can probably start a topic here in telegram and then probably a channel and discord for any questions you have for our advisor and we'll do it that way. And then I'll have the answers for you guys at launch or before launch.
 
-Yes. And I'll give you, I'll still give you that 24 hour notice of everything you need with instructions of everything you need so that if you would like to test, you are ready and have 24 hours to get whatever you need ready to do that. Um, sounds like we now push into January, uh, possibly.
+I know a few of you had questions. So we just need an app account to test. Yes.
 
-(17:12 - 17:32)
-We've been waiting on something for three days, I think now that we're supposed to have. And, uh, we just have to take a detour now and do it ourselves. But, uh, again, it's a must to do everything right and keep your security a top priority.
+And I'll give you, I'll still give you that 24 hour notice of everything you need with instructions of everything you need so that if you would like to test, you are ready and have 24 hours to get whatever you need ready to do that. Um, sounds like we now push into January, uh, possibly. We've been waiting on something for three days, I think now that we're supposed to have.
 
-(17:38 - 20:26)
-Ooh, that looks good. Old fashioned, huh? And then you come on with the voice screen. That'll be nice, huh? Will anti-bot function be working on our testing? Yes, absolutely. 
+And, uh, we just have to take a detour now and do it ourselves. But, uh, again, it's a must to do everything right and keep your security a top priority. Ooh, that looks good.
 
-We need to test all functions, including the anti-bot, of course. Is there any amount we should stay under for how much we buy during testing? Uh, we will. So what's really cool about the contract is, um, we have thought about everything and we will actually set that limit for you. 
+Old fashioned, huh? And then you come on with the voice screen. That'll be nice, huh?
 
-Um, I believe right now it'll be about $1,500. We'll see how testing goes with about $1,500 PPY, um, something around there. I think minimum for change now is $8,000. 
+Will anti-bot function be working on our testing? Yes, absolutely. We need to test all functions, including the anti-bot, of course.
 
-Or, I'm sorry, $15,000 I'm thinking. Um, for change now I believe the minimum is $8,000. So, shit. 
+Is there any amount we should stay under for how much we buy during testing? Uh, we will. So what's really cool about the contract is, um, we have thought about everything and we will actually set that limit for you.
 
-Why is shit? Makes me think of, uh, my bird. Her new favorite word right now is shit. Oh, shit. 
+Um, I believe right now it'll be about $1,500. We'll see how testing goes with about $1,500 PPY, um, something around there. I think minimum for change now is $8,000.
 
-And will Finn be coming back? No. No, Finn is not coming back. I talk to Finn probably on a weekly basis. 
+Or, I'm sorry, $15,000 I'm thinking. Um, for change now I believe the minimum is $8,000. So, shit.
 
-He's doing very well, but he is not coming back to FJV or Patriot Pay. If he ever does, I will make sure to let you all be the first to know. Uh, rumor has it that President Trump is our secret advisor. 
+Why is shit? Makes me think of, uh, my bird. Her new favorite word right now is shit.
 
-Can you confirm I started the rumor? I don't know if, uh, I don't, you know, I love, I love him, but I'm not sure he that's one of the few things I'm not sure I would trust him with, is to be our advisor. I'm not sure crypto, you know, is his forte. Um, I'm like trying to whisper because I feel like if I like really talk is when my cough starts.
+Oh, shit. And will Finn be coming back? No.
 
-(20:26 - 21:35)
-So, I'm like trying to talk like, I don't know, not through my throat, I guess. If I talk through my throat, that's like when I start coughing. We don't need Trump to know anything about crypto. 
+No, Finn is not coming back. I talk to Finn probably on a weekly basis. He's doing very well, but he is not coming back to FJV or Patriot Pay.
 
-We just need him to start over at Patriot. As it stands, who is who? Are you talking about our advisor? What is wrong with you, Jay Rock? Are you drunk? Is testing a buy option for us? Uh, yes, we will be able to test buys and sells and transfers and should be able to test everything. We want to see how everything works and how everything's calculated and I hope everything works as intended.
+If he ever does, I will make sure to let you all be the first to know. Uh, rumor has it that President Trump is our secret advisor. Can you confirm I started the rumor?
 
-(21:53 - 22:15)
-So, we're waiting on the app stores. We are waiting on our API, actually. Um, that needs to also be completed before testing.
+I don't know if, uh, I don't, you know, I love, I love him, but I'm not sure he that's one of the few things I'm not sure I would trust him with, is to be our advisor. I'm not sure crypto, you know, is his forte. Um, I'm like trying to whisper because I feel like if I like really talk is when my cough starts.
 
-(22:39 - 24:13)
-Oh, should be good. Will the app store logos be updated this year? Um, I couldn't tell you honestly. You guys will probably know before we do. 
+So, I'm like trying to talk like, I don't know, not through my throat, I guess. If I talk through my throat, that's like when I start coughing. We don't need Trump to know anything about crypto.
+
+We just need him to start over at Patriot. As it stands, who is who? Are you talking about our advisor?
+
+What is wrong with you, Jay Rock? Are you drunk? Is testing a buy option for us?
+
+Uh, yes, we will be able to test buys and sells and transfers and should be able to test everything. We want to see how everything works and how everything's calculated and I hope everything works as intended. So, we're waiting on the app stores.
+
+We are waiting on our API, actually. Um, that needs to also be completed before testing. Oh, should be good.
+
+Will the app store logos be updated this year? Um, I couldn't tell you honestly. You guys will probably know before we do.
 
 We're also, um, working on integrating the login for the app, so that should be that should be a very cool feature coming on, but I'll keep you updated on that, too. Okay, oh no. All right, I think that's everything.
 
-(24:14 - 24:59)
-Um, let me know if you all have any questions. Uh, I will go through DMs, although it doesn't seem like I have a ton in there anyway. Uh, but I will post this recording and, um, let me know if you guys have any questions. 
+Um, let me know if you all have any questions. Uh, I will go through DMs, although it doesn't seem like I have a ton in there anyway. Uh, but I will post this recording and, um, let me know if you guys have any questions.
 
 Try not to spread any misinformation. But, yeah, I will update you as soon as ready. Right now, we're just waiting for our advisor to take care of something for us to begin testing, for the team to begin testing on the app.
 
-(25:00 - 25:19)
 Once that is complete and everything is working as intended, I will let you guys know and give you instructions to start testing if you would like. Again, I'll give you a 24-hour notice. Don't worry about that.
 
-(25:22 - 26:44)
-But I think that's, I think that's everything. Right now, we are still, depending on when our advisor can, um, get this completed, uh, we can still be in to the new year. Again, depending completely on how testing goes. 
+But I think that's, I think that's everything. Right now, we are still, depending on when our advisor can, um, get this completed, uh, we can still be in to the new year. Again, depending completely on how testing goes.
 
-You all know how that goes and the purpose of testing, right? Um, but either way, I think we're good. Um, up 30-ish percent. That's not, that's not bad. 
+You all know how that goes and the purpose of testing, right? Um, but either way, I think we're good. Um, up 30-ish percent.
 
-Um, I think that's more than B&B is up still, actually. So, still doing better than B&B than when we pulled the LP from B&B. So, I think we're still doing well there. 
+That's not, that's not bad. Um, I think that's more than B&B is up still, actually. So, still doing better than B&B than when we pulled the LP from B&B.
 
-Um, but yeah, DM me if you need anything in the meantime. Um, and then I will see you all later if I need, let's see, what's 28th, 29th. So, Friday is still the 29th. 
+So, I think we're still doing well there. Um, but yeah, DM me if you need anything in the meantime. Um, and then I will see you all later if I need, let's see, what's 28th, 29th.
 
-Okay. So, uh, I'll see you on the 29th. Uh, if we need a voice chat before that, I will, uh, come on as usual.
+So, Friday is still the 29th. Okay. So, uh, I'll see you on the 29th.
 
-(26:46 - 27:22)
-Um, most importantly, will we have a Stockwits chart after fork? Yes. Uh, I'm not sure where they pull from, but most, most pulled from, uh, CMC or, uh, CoinGecko. But our, our API should be live here any day from, uh, our API provider too on the app.
+Uh, if we need a voice chat before that, I will, uh, come on as usual. Um, most importantly, will we have a Stockwits chart after fork? Yes.
 
-(27:23 - 27:59)
-Uh, will price be fixed during testing? Um, I'm not sure what you mean. Swiggity, yeah. Boy, yeah, the guys on Stockwits haven't been there. 
+Uh, I'm not sure where they pull from, but most, most pulled from, uh, CMC or, uh, CoinGecko. But our, our API should be live here any day from, uh, our API provider too on the app. Uh, will price be fixed during testing?
 
-Any updates, any updates for those guys? Hey, we'll, uh, continue doing what we do and, uh, continue doing good. You all have a great night. Uh, let me know if you have any questions. 
+Um, I'm not sure what you mean. Swiggity, yeah. Boy, yeah, the guys on Stockwits haven't been there.
 
-I'll talk to you guys later.
+Any updates, any updates for those guys? Hey, we'll, uh, continue doing what we do and, uh, continue doing good. You all have a great night.
+
+Uh, let me know if you have any questions. I'll talk to you guys later.

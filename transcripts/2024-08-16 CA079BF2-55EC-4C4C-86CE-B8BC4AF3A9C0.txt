@@ -1,239 +1,170 @@
-(0:02 - 1:27)
-Yeah, thank you for your patience, I just got home, it's been a long day, so let's get right to it. The auto-populate bugs for OnRamper should be all fixed now, so if you all run into any issues where OnRamper, when you try to buy, gives you space to enter your wallet address and asks you basically to manually enter your wallet address instead of it auto-populating and automatically doing it, please let me know. It's very important that you do let me know if you're running into this because, like I've kind of explained before, it's not just the headache of putting in your wallet address and it being inconvenient, it's that we're having people new to the app that then go ahead and copy the wrong address, enter it in there, and now they have Matic stuck that we are working to still get out of these wallets because they sent it to the wrong wallet.
+[Speaker 1]
+Yeah, thank you for your patience, I just got home, it's been a long day, so let's get right to it. The auto-populate bugs for OnRamper should be all fixed now, so if you all run into any issues where OnRamper, when you try to buy, gives you space to enter your wallet address and asks you basically to manually enter your wallet address instead of it auto-populating and automatically doing it, please let me know. It's very important that you do let me know if you're running into this because, like I've kind of explained before, it's not just the headache of putting in your wallet address and it being inconvenient, it's that we're having people new to the app that then go ahead and copy the wrong address, enter it in there, and now they have Matic stuck that we are working to still get out of these wallets because they sent it to the wrong wallet. So it is very important, again, if you try to, you don't even need to buy to test this, you can just go through the OnRamper steps to see if it doesn't go through the first steps and manually asking you to enter your wallet address, then please screenshot that and send it to me. But everybody we know that was running into that issue, it's been fixed now with both OnRamper and Magic, so that's great news.
 
-(1:28 - 2:24)
-So it is very important, again, if you try to, you don't even need to buy to test this, you can just go through the OnRamper steps to see if it doesn't go through the first steps and manually asking you to enter your wallet address, then please screenshot that and send it to me. But everybody we know that was running into that issue, it's been fixed now with both OnRamper and Magic, so that's great news. Gift cards, as far as we can test them, I say that because Matic's been having some issues on the network as they make their changes, so there's some things we're not able to test like we'd like, which is why I haven't sent you all the points of what we want you to test.
+Gift cards, as far as we can test them, I say that because Matic's been having some issues on the network as they make their changes, so there's some things we're not able to test like we'd like, which is why I haven't sent you all the points of what we want you to test. We're hoping that that resolves this weekend, it's just been last, I think last week when that happened as we were trying to test, it was working after a few days. So as soon as that's working, I've been testing it several times a day to see if it's working, still not, as soon as that network, I don't even want to say bug because they're just actively working on it.
 
-(2:25 - 2:59)
-We're hoping that that resolves this weekend, it's just been last, I think last week when that happened as we were trying to test, it was working after a few days. So as soon as that's working, I've been testing it several times a day to see if it's working, still not, as soon as that network, I don't even want to say bug because they're just actively working on it. As soon as that works on the network, I will get that list out to you so you all can test it.
+As soon as that works on the network, I will get that list out to you so you all can test it. But there's up to as much as we can test, everything's working as it should, so devs are done with that also. Coffee, picked up the coffee today, so that's awesome.
 
-(2:59 - 3:23)
-But there's up to as much as we can test, everything's working as it should, so devs are done with that also. Coffee, picked up the coffee today, so that's awesome. We just gotta get the sales and shipping now, I'll ship that all to you.
+We just gotta get the sales and shipping now, I'll ship that all to you. So very excited about that, I'll post a real bad picture here as soon as I get it. Still waiting on the dog treat packages, I'll let you guys know as soon as that is available.
 
-(3:23 - 4:05)
-So very excited about that, I'll post a real bad picture here as soon as I get it. Still waiting on the dog treat packages, I'll let you guys know as soon as that is available. So that's as far as we've gotten with that stuff, the devs are still working on adding a function for the few of you who are sending funds to the wrong wallet address.
+So that's as far as we've gotten with that stuff, the devs are still working on adding a function for the few of you who are sending funds to the wrong wallet address. Please do make sure that when you send funds, make sure you are sending the correct funds on the correct network to the right address. This is an issue that is not just with us, this is with any platform, even I think Coinbase just recently added a fix for that.
 
-(4:06 - 4:30)
-Please do make sure that when you send funds, make sure you are sending the correct funds on the correct network to the right address. This is an issue that is not just with us, this is with any platform, even I think Coinbase just recently added a fix for that. I think before if you sent funds to the wrong network you were just kind of SOL.
+I think before if you sent funds to the wrong network you were just kind of SOL. So devs are still working on that, it's proving to be a lot more challenging, just because that's how that works. So they are still working on that.
 
-(4:32 - 4:55)
-So devs are still working on that, it's proving to be a lot more challenging, just because that's how that works. So they are still working on that. They have fixed the bugs that some of you actually had real bugs to report to me on the bug reporting function.
+They have fixed the bugs that some of you actually had real bugs to report to me on the bug reporting function. We have fixed all those bugs. The only person I haven't heard back from was somebody in Discord who said they didn't get a response back and I sent responses to all of you who submitted real bugs and not just testing it.
 
-(4:55 - 5:20)
-We have fixed all those bugs. The only person I haven't heard back from was somebody in Discord who said they didn't get a response back and I sent responses to all of you who submitted real bugs and not just testing it. Looks like Robert308, I thought that was a troll but maybe I'm mixing that Robert up with another Robert.
+Looks like Robert308, I thought that was a troll but maybe I'm mixing that Robert up with another Robert. Either way, if you do have an actual bug you are running into and it hasn't been fixed then please do write me. If you've already written me then I have not received that email so definitely DM or email me or text, call, whatever to let me know.
 
-(5:21 - 5:49)
-Either way, if you do have an actual bug you are running into and it hasn't been fixed then please do write me. If you've already written me then I have not received that email so definitely DM or email me or text, call, whatever to let me know. But again, all the bugs that have been reported have been fixed immediately so very happy about that and very happy the function works.
+But again, all the bugs that have been reported have been fixed immediately so very happy about that and very happy the function works. It's actually awesome, especially since it tells us everything we need to know about the environment you're in and auto-populates that so you guys don't need to do any of that. So hopefully that's easy and you guys make use of that and others do too.
 
-(5:49 - 6:06)
-It's actually awesome, especially since it tells us everything we need to know about the environment you're in and auto-populates that so you guys don't need to do any of that. So hopefully that's easy and you guys make use of that and others do too. Very easy way for us to work out the bugs on the app that way.
+Very easy way for us to work out the bugs on the app that way. Let's see, what else? Patriot Perks, our one dev is still working on those.
 
-(6:09 - 6:25)
-Let's see, what else? Patriot Perks, our one dev is still working on those. Working out beautifully, we are very excited about that. We'll continue adding functions to each level, I think that will be really, really cool.
+Working out beautifully, we are very excited about that. We'll continue adding functions to each level, I think that will be really, really cool. And then the other dev, which is our main, main dev, is working on a few things.
 
-(6:27 - 6:52)
-And then the other dev, which is our main, main dev, is working on a few things. Your orders page, we're working to improve that to have every transaction and every amount just so it's a little bit easier. We had a few new users get confused about that.
+Your orders page, we're working to improve that to have every transaction and every amount just so it's a little bit easier. We had a few new users get confused about that. And also still working on that function to get you all your funds in case you send them to the wrong wallet address that's in your app.
 
-(6:53 - 7:17)
-And also still working on that function to get you all your funds in case you send them to the wrong wallet address that's in your app. Send the wrong coins to the wrong wallet address. I will keep you updated on that, again that's taken longer than expected because of issues we're running into.
+Send the wrong coins to the wrong wallet address. I will keep you updated on that, again that's taken longer than expected because of issues we're running into. Oh, our bank stuff, we finally got approved through jumping all those hoops, so feel great about that.
 
-(7:24 - 7:55)
-Oh, our bank stuff, we finally got approved through jumping all those hoops, so feel great about that. And I'm happy they did all that legwork in the beginning instead of just giving us that account and then cancelling our accounts out of nowhere. So that'll be nice to have that.
+And I'm happy they did all that legwork in the beginning instead of just giving us that account and then cancelling our accounts out of nowhere. So that'll be nice to have that. So that was, I think, two of the meetings this week.
 
-(7:58 - 8:29)
-So that was, I think, two of the meetings this week. Our marketing meetings, we are just waiting to test this little bug we're running into as far as the network goes. Because we just basically, again, as soon as that's solved, that's when I'll make the list for you all to test everything, make sure everything is working as it should.
+Our marketing meetings, we are just waiting to test this little bug we're running into as far as the network goes. Because we just basically, again, as soon as that's solved, that's when I'll make the list for you all to test everything, make sure everything is working as it should. What we'll do is make it like an hourly kind of test.
 
-(8:29 - 8:54)
-What we'll do is make it like an hourly kind of test. We'll do windows, I'll post in the beginning of the day and that way we do them in spurts to stress test the app that way. And then, we should definitely have, as it stands right now, we should definitely have the marketing list.
+We'll do windows, I'll post in the beginning of the day and that way we do them in spurts to stress test the app that way. And then, we should definitely have, as it stands right now, we should definitely have the marketing list. So if the marketing through the email list goes well, these are pretty well known, email lists and podcasts, we'll start with those because we can control how many are sent out just because we don't want to go from zero to a hundred.
 
-(8:54 - 9:46)
-So if the marketing through the email list goes well, these are pretty well known, email lists and podcasts, we'll start with those because we can control how many are sent out just because we don't want to go from zero to a hundred. So if that all goes well there, and right now we're very comfortably into August, then we can move on to the bigger marketing, which I'm really hoping we can make the rally at the end of the month. That would be an awesome advertisement.
+So if that all goes well there, and right now we're very comfortably into August, then we can move on to the bigger marketing, which I'm really hoping we can make the rally at the end of the month. That would be an awesome advertisement. But again, we'll see how that goes after the email and podcasts go.
 
-(9:47 - 10:15)
-But again, we'll see how that goes after the email and podcasts go. And again, now that we have the auto-populate wallet address, that was very, very important. Now just need Matt again, if it's like last week, we should hopefully have it working now any minute to have you all test that.
+And again, now that we have the auto-populate wallet address, that was very, very important. Now just need Matt again, if it's like last week, we should hopefully have it working now any minute to have you all test that. So that's pretty sure all the updates I have.
 
-(10:18 - 10:44)
-So that's pretty sure all the updates I have. Let me see, let's go to questions. Oh, actually, I did look, I had to look at Matic for something, I forget what that was.
+Let me see, let's go to questions. Oh, actually, I did look, I had to look at Matic for something, I forget what that was. I just jumped on, what's not working?
 
-(11:19 - 11:40)
-I just jumped on, what's not working? Was it, sorry, I should have been reading these ads. Maybe the Matic polygon transactions that we need to work. I'm thinking that's what you're talking about.
+Was it, sorry, I should have been reading these ads. Maybe the Matic polygon transactions that we need to work. I'm thinking that's what you're talking about.
 
-(11:42 - 12:04)
-Unless it's your bug reporting, if you guys are sending real bugs and have not gotten a response back, then DM or email me directly. But I think that should be working. Now the auto-populate is fixed, what's still required to start? We just got a stress test, that should take a day or two, that is it.
+Unless it's your bug reporting, if you guys are sending real bugs and have not gotten a response back, then DM or email me directly. But I think that should be working. Now the auto-populate is fixed, what's still required to start?
 
-(12:04 - 12:39)
-Just want to make sure everything, as you all know, a lot of the times adding functions, removing functions, changing functions will break other stuff. So basically it'll be a test similar to what we had you all do, gosh, it's been several weeks now, just to test everything. Especially since we've changed bit query we've removed, we've removed live watch, we've replaced that for the price quotes and the charts.
+We just got a stress test, that should take a day or two, that is it. Just want to make sure everything, as you all know, a lot of the times adding functions, removing functions, changing functions will break other stuff. So basically it'll be a test similar to what we had you all do, gosh, it's been several weeks now, just to test everything.
 
-(12:40 - 13:00)
-I mean, you guys can go through all the list of the changes we've made. So we just basically will go back, it'll be pretty close to the testing that we currently have in, where was it? I think we had a testing channel, so I didn't want to delete that. Or maybe it's in the ad bug reports, but it'll be similar to that.
+Especially since we've changed bit query we've removed, we've removed live watch, we've replaced that for the price quotes and the charts. I mean, you guys can go through all the list of the changes we've made. So we just basically will go back, it'll be pretty close to the testing that we currently have in, where was it?
 
-(13:00 - 13:39)
-We just want to make sure that everything works and that'll be pretty quick. Dex update, yeah, that'll be as soon as the dev who's also working on the address, once he's done with the address, goodness, and the orders page. That should be done, I think in this weekend or Monday.
+I think we had a testing channel, so I didn't want to delete that. Or maybe it's in the ad bug reports, but it'll be similar to that. We just want to make sure that everything works and that'll be pretty quick.
 
-(13:44 - 14:07)
-The, once the orders page is done, the Dex update will take priority, that just, we needed the orders page updated for some of the onRamper stuff. Basically the onRamper bug with the wallet. Yeah, it was just easier to reprioritize things that way.
+Dex update, yeah, that'll be as soon as the dev who's also working on the address, once he's done with the address, goodness, and the orders page. That should be done, I think in this weekend or Monday. The, once the orders page is done, the Dex update will take priority, that just, we needed the orders page updated for some of the onRamper stuff.
 
-(14:08 - 14:22)
-But that'll be, it'll be awesome once that happens. The change now bug, I think I shared that with you guys Tuesday, because that was fixed through the weekend. That was a pretty quick one.
+Basically the onRamper bug with the wallet. Yeah, it was just easier to reprioritize things that way. But that'll be, it'll be awesome once that happens.
 
-(14:23 - 14:58)
-Direct onRamper, so they have, there's a slight bug they're working on there. As soon as that's fixed, we will be making that payment. We're still very comfortably within our timeline with the direct onRamper, but we definitely want the company to fix anything that needs to be fixed before we make that payment.
+The change now bug, I think I shared that with you guys Tuesday, because that was fixed through the weekend. That was a pretty quick one. Direct onRamper, so they have, there's a slight bug they're working on there.
 
-(14:59 - 15:25)
-Just because of other, because of things we ran into with other onRampers in the past. We definitely don't want to spend that hard-earned money to be in not the greatest place. So they're working beautifully with us, and yeah, very grateful for them doing everything they can.
+As soon as that's fixed, we will be making that payment. We're still very comfortably within our timeline with the direct onRamper, but we definitely want the company to fix anything that needs to be fixed before we make that payment. Just because of other, because of things we ran into with other onRampers in the past.
 
-(15:25 - 15:59)
-That way we can make it as easy as possible for our users. Has the direct onRamp payment been made yet? No. Are we waiting for all those things you have just spoken about to be perfect before there's a marketing progress? If it's the app working, then yes, definitely.
+We definitely don't want to spend that hard-earned money to be in not the greatest place. So they're working beautifully with us, and yeah, very grateful for them doing everything they can. That way we can make it as easy as possible for our users.
 
-(15:59 - 16:38)
-Because that would just be a waste of money to spend the marketing money, and then people get on, and it's a crap show. And people are pissed, and then now we're paying people to not be pissed, and you know how that goes. Now they have a bad idea, and that's also why we went like 20 steps back now with the educational videos, which has been, it's actually been, it's been fun to make even like super, super, super basic videos.
+Has the direct onRamp payment been made yet? No. Are we waiting for all those things you have just spoken about to be perfect before there's a marketing progress?
 
-(16:41 - 17:00)
-So yeah, we'll see. I'll give you guys here these, I'll give you some of those here as soon as I have them, as soon as they're ready. What has Boris said? Boris is good.
+If it's the app working, then yes, definitely. Because that would just be a waste of money to spend the marketing money, and then people get on, and it's a crap show. And people are pissed, and then now we're paying people to not be pissed, and you know how that goes.
 
-(17:01 - 17:25)
-Talk to him, I think it was earlier this week. Hmm, so you now have the coffee, yes I do. Will that be put in the marketplace this weekend? Yes, we are, yeah.
+Now they have a bad idea, and that's also why we went like 20 steps back now with the educational videos, which has been, it's actually been, it's been fun to make even like super, super, super basic videos. So yeah, we'll see. I'll give you guys here these, I'll give you some of those here as soon as I have them, as soon as they're ready.
 
-(17:36 - 17:52)
-Are you able to specify the decks the community is looking at? Oh yeah, that'll just be quick swap. Pretty, pretty basic. That's what we'll incorporate in the app.
+What has Boris said? Boris is good. Talk to him, I think it was earlier this week.
 
-(18:00 - 18:21)
-What was the change now bug? So we were having two issues with change now. One was actually with the gift cards, and another was with the Macs, where users were getting a Macs error. Error.
+Hmm, so you now have the coffee, yes I do. Will that be put in the marketplace this weekend? Yes, we are, yeah.
 
-(18:22 - 18:42)
-Oh, and the image error for both the classifieds and the bug is, that's actually also being worked on. I missed that. That's also being worked on just because it'll be, I think there's like 10 hours left on that.
+Are you able to specify the decks the community is looking at? Oh yeah, that'll just be quick swap. Pretty, pretty basic.
 
-(18:43 - 19:15)
-Just making sure everything is secure when you all send it, and that we're not exposing the private keys. I just got to go around that because Vercel has a limit that we can't up, even with our pro service. You probably know a lot more about that than I do, but that's all I can tell you about it for this.
+That's what we'll incorporate in the app. What was the change now bug? So we were having two issues with change now.
 
-(19:19 - 19:37)
-Oh, I'm steaming. Hold on, let's put this fan on. I don't know if anybody else goes into deep ketosis, and then you finally like carb up, and then it's whoo.
+One was actually with the gift cards, and another was with the Macs, where users were getting a Macs error. Error. Oh, and the image error for both the classifieds and the bug is, that's actually also being worked on.
 
-(19:38 - 20:03)
-Also, I'm in like triple digits desert. When will the videos be uploaded? As soon as they're complete. We have an estimate of about a week left, but that's one of those things that we get, and then we need another edit, and we need another edit, and we're not gonna release them or share them here.
+I missed that. That's also being worked on just because it'll be, I think there's like 10 hours left on that. Just making sure everything is secure when you all send it, and that we're not exposing the private keys.
 
-(20:04 - 20:59)
+I just got to go around that because Vercel has a limit that we can't up, even with our pro service. You probably know a lot more about that than I do, but that's all I can tell you about it for this. Oh, I'm steaming.
+
+Hold on, let's put this fan on. I don't know if anybody else goes into deep ketosis, and then you finally like carb up, and then it's whoo. Also, I'm in like triple digits desert.
+
+When will the videos be uploaded? As soon as they're complete. We have an estimate of about a week left, but that's one of those things that we get, and then we need another edit, and we need another edit, and we're not gonna release them or share them here.
+
 Obviously, if they look sloppy, or if there's anything wrong with those videos. They're going back all the way though to, we're taking it like way back to basic misconceptions that a lot of, to be honest, majorly conservatives are probably, I mean, probably just even your random person off the streets, to be honest, but a lot of the ones we've gotten like on social media, and I think the first one was, I wanna say misconception. I think the first one was like, because basically because it's digital currency, and I think a lot of conservatives, especially are having, it's like a stigma with the digital part of just even that word.
 
-(21:01 - 21:59)
 So the first, yeah, I'm pretty positive that was the first one, is explaining to them that digital does not mean the government can shut it off, and actually the government can shut off your debit card a lot quicker, so it'll go back to that. Although still keeping it very brief and simple just because we kind of wanna stay in our lane and keep liability low. If we integrate quick swap, yes, when we do, we're definitely integrating quick swap.
 
-(22:00 - 22:22)
-I swear I did not have any drinks at dinner. I do have my water here, though. So when we integrate quick swap, unless we run into something insane, I guess, will that open a quick swap window in the app like Trust Wallet does? I'm honestly not sure about that.
+I swear I did not have any drinks at dinner. I do have my water here, though. So when we integrate quick swap, unless we run into something insane, I guess, will that open a quick swap window in the app like Trust Wallet does?
 
-(22:23 - 22:55)
-I could not tell you. I can definitely ask our devs and our advisor and get back to you on that, but if I gave you an answer, I'd be lying. Going through you guys' emails.
+I'm honestly not sure about that. I could not tell you. I can definitely ask our devs and our advisor and get back to you on that, but if I gave you an answer, I'd be lying.
 
-(23:22 - 23:53)
-Discord, oh, nice. Nobody's, I think nobody's emailed, but let's see. CPAC emails, TrumpForce47.
+Going through you guys' emails. Discord, oh, nice. Nobody's, I think nobody's emailed, but let's see.
 
-(23:53 - 24:07)
-I need to look at that. This is gonna be here, but I think it's virtual. Coffee invoice paid, yes, I need that.
+CPAC emails, TrumpForce47. I need to look at that. This is gonna be here, but I think it's virtual.
 
-(24:17 - 25:15)
-Trust Wallet has shown an error of syncing wallets with quick swap balanced on a show and have to clear. Yeah, it's, Trust Wallet is, I think, going a lot of, through a lot of updates, but for me, the past few days have been, I know others have had issues with it, like last week, the week before, and I had some issues with it then, but the last few days, I'm having serious issues, so I'm gonna need to use something else. And actually, I have to do it tonight because I'm gonna make some payments, and I can't even do that, and I don't wanna, a few of us, too, so yeah, just, we'll see.
+Coffee invoice paid, yes, I need that. Trust Wallet has shown an error of syncing wallets with quick swap balanced on a show and have to clear. Yeah, it's, Trust Wallet is, I think, going a lot of, through a lot of updates, but for me, the past few days have been, I know others have had issues with it, like last week, the week before, and I had some issues with it then, but the last few days, I'm having serious issues, so I'm gonna need to use something else.
 
-(25:16 - 25:58)
-Definitely need to get some payments sent out, but I'll, and again, the list for you guys, oh, let me see, where is that? Oh, it is, oh, wait, oh, where'd it go? Oh, here it is, PPY testing. I didn't realize that was, oh, I don't remember ever using that emoji for it. What the heck? So yeah, it'll be very similar to these where it will have you do all these at once.
+And actually, I have to do it tonight because I'm gonna make some payments, and I can't even do that, and I don't wanna, a few of us, too, so yeah, just, we'll see. Definitely need to get some payments sent out, but I'll, and again, the list for you guys, oh, let me see, where is that? Oh, it is, oh, wait, oh, where'd it go?
 
-(26:22 - 27:19)
-Will the app have an ability to clear cache? If we get that, yeah, I'm sure, depending on what route the devs and our advisor have planned, as you guys know, they'll do everything. I know we take, we take a bit longer to do everything, but we do have everything working near perfect when we do have it done, and I don't think our dev or advisor get enough credit for that. I think a lot of things, yeah, they've done great when there's been lots of room for F-ups, and they've not taken the shortcuts at all.
+Oh, here it is, PPY testing. I didn't realize that was, oh, I don't remember ever using that emoji for it. What the heck?
 
-(27:19 - 29:02)
-They actually, if anything, they definitely take the longer route that's gonna be a long-term and be less of a pain for everybody. Even if it does take longer and cost more and be one hell of a headache. You can just call the QuickSwap pair contract directly, no need to Web3 Connect through a UI.
+So yeah, it'll be very similar to these where it will have you do all these at once. Will the app have an ability to clear cache? If we get that, yeah, I'm sure, depending on what route the devs and our advisor have planned, as you guys know, they'll do everything.
 
-(29:03 - 29:15)
-Yeah, I have no clue. As soon as I find out, though, I can share with you guys. I can add it on my list of questions for the devs.
+I know we take, we take a bit longer to do everything, but we do have everything working near perfect when we do have it done, and I don't think our dev or advisor get enough credit for that. I think a lot of things, yeah, they've done great when there's been lots of room for F-ups, and they've not taken the shortcuts at all. They actually, if anything, they definitely take the longer route that's gonna be a long-term and be less of a pain for everybody.
 
-(29:32 - 29:45)
-We'll let you guys know. I'm sure they'll figure the most solid way and probably the longest. Just kidding.
+Even if it does take longer and cost more and be one hell of a headache. You can just call the QuickSwap pair contract directly, no need to Web3 Connect through a UI. Yeah, I have no clue.
 
-(29:50 - 30:05)
-To close, can we have a seven-day rundown, please? Yeah, let's see. Tonight, I have some coffee work to do. I have, shoot.
+As soon as I find out, though, I can share with you guys. I can add it on my list of questions for the devs. We'll let you guys know.
 
-(30:05 - 30:20)
+I'm sure they'll figure the most solid way and probably the longest. Just kidding. To close, can we have a seven-day rundown, please?
+
+Yeah, let's see. Tonight, I have some coffee work to do. I have, shoot.
+
 I think I left my clipboard in my other room. We got my coffee work to do. I have a few voiceovers to do.
 
-(30:23 - 30:57)
 A few marketing emails to send and also business emails. Again, if you all know anybody who owns a small business, even if it's something like a brick and mortar, like even if it is a restaurant or a bar, we can totally do that and just give them a wallet address. So definitely let me know if you have any business owners or if your wife bakes sourdough bread or something.
 
-(30:57 - 31:13)
 I don't know. Definitely reach out. And then I gotta order some stuff, but I need to check with our designer first.
 
-(31:14 - 31:33)
 I also gotta check on our video guy. I think that should be it for tonight. Devs, we have the Patriot Perks should be as SME.
 
-(31:34 - 31:50)
 To be done on Tuesday, but I think there's so much in that. I honestly think that's gonna take longer, but I could be wrong. I'm not the dev just because it is a lot of work.
 
-(31:51 - 32:17)
 The orders paid should be done again this weekend. Our devs usually don't work weekends, but they have slow weekends too where they do work. So more Mondays, the estimate we've gotten, along with the images and then hoping he can get that wallet issue, the wrong wallet address.
 
-(32:17 - 32:38)
 You guys sending funds to the wrong wallet address salt. This should all be done by Monday, Tuesday-ish. Our direct on-ramp, we're hoping this can be solved this weekend so that we can finally get the payment.
 
-(32:38 - 33:08)
 As soon as we make the payment, then it will be very, very quick in my opinion. And then we are waiting for a few things to make some final decisions on the emails for August. We just need you all again to test before we have a date pinned down.
 
-(33:10 - 33:37)
 So we're hoping if I can get these tests, the sooner I can have these tests done on our end, then I'll have you guys test. We just don't want to have you test when we know, if we know certain things aren't working. So hope to have that all wrapped up by this coming week within the seven days.
 
-(33:38 - 34:09)
 I think we are still very comfortably in as far as the on-ramper, the direct on-ramper date goes. And also as far as the marketing in August, I think we're still very comfortably there. Again, just got to start with the email lists because those we can purchase in batches and decide exactly when we do that next week too.
 
-(34:10 - 34:24)
 As long as testing goes somewhat good, we'll definitely do the text messages again too. And then go from there. We've been holding off on the social media, as you guys have seen for these reasons.
 
-(34:24 - 34:50)
 We don't want any more major bugs popping up and causing people to send funds to the wrong wallets and stuff like that. Just create a big, more of a mess. But yeah, definitely hoping we can get all that done this week because we have a lot of funds going out and not a lot going in.
 
-(34:51 - 35:04)
 And I'm sure you all would appreciate the volume. Hoping Matic picks back up soon too. Checking that price was a long day.
 
-(35:14 - 35:34)
 Sorry, I muted you. So yeah, I think that's everything. Gonna try again to get this figured out with the network, everything we need on our end and then let you guys know as well.
 
-(35:35 - 35:48)
 I know usually the weekends are slow, but even a few people can test them. That would help us out. So that's everything.
 
-(35:50 - 36:05)
 Oh shoot, I actually forgot to look into this, but I just remembered it. We did have somebody recently realize they got scammed out of their coins. So please, please, please be careful with what you connect your wallet to.
 
-(36:07 - 36:50)
 Again, if you are gonna get into other tokens and stuff like that, I would create a whole new wallet, send whatever funds or gas you need to that wallet and make sure that's the one you're connecting with instead of connecting the wallet that has all your funds to all these sites and chats and apps and stuff. Just be careful because it sucks when we hear one of you got scammed. Also remember, none of us, me, admins, devs, nobody will ever DM you, call you, anything like that.
 
-(36:51 - 37:13)
 Anything like that is gonna be a scam, no matter how nice the person is. If you're ever in doubt, just ask in chat. Seven days, I'm hoping the devs will be done with what they're working on, start the new stuff.
 
-(37:16 - 37:41)
 Hoping we can get the last details on the marketing to begin as long as testing goes well. And again, that will be doing kind of how we did before the style with stress testing and doing it in hour blocks. That way, see how congestion kind of affects everything in case change now needs to make any changes or anything like that.
 
-(37:44 - 38:00)
 The social we're holding off now on, we'll definitely get the coffee added. I'm still waiting for a wallet address for the other products. And we have a few like PatriotPay things we'll add too.
 
-(38:02 - 38:11)
 Yeah, and I'll post the recording. I'll post that right now. Yeah, I think that's good.
 
-(38:11 - 38:33)
 And then our gift cards, we're just waiting to get tested. But now that we have our bank, all our bank paperwork completed, we are just waiting on the bank as soon as that is official. And we actually have like the account and login info, then we can get the gap pay.
 
-(38:33 - 38:39)
 So that'll be really cool. And then our gap pay should be really quick. They said that's under a week.
 
-(38:40 - 38:54)
 They just need all this. Obviously, all this on payroll for them, but they said they can move pretty quickly. So that'll be nice for gift cards straight on the app too.
 
-(38:54 - 39:09)
 I think that'll be useful. We'll see how the rally goes. As far as it'd be really nice to get on the advertising during the rally.
 
-(39:11 - 39:23)
 But I'll see if we can make it in person. I'll definitely keep you all updated. Let me know if you need anything else.
 
-(39:24 - 39:34)
 In the meantime, I'll be here. Actually, it'll probably be a great night tonight. Yeah, you guys know how to reach me.
 
-(39:37 - 39:46)
 I think that's all I got. You all have a great night. And I'll post a recording and notes right now.
 
-(39:47 - 39:49)
 Give me just a few minutes to convert everything over.

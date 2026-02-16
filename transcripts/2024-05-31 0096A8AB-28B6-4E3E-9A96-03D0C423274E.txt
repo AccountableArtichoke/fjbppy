@@ -1,366 +1,427 @@
-(0:02 - 2:02)
-So you all saw we started testing a bit yesterday. So we started it all on that list while the dev that's working on transactions fixes a few transactions. He did, I'm pretty sure, he just wrapped up the last of it in the last few hours here. 
+[Speaker 1]
+So you all saw we started testing a bit yesterday. So we started it all on that list while the dev that's working on transactions fixes a few transactions. He did, I'm pretty sure, he just wrapped up the last of it in the last few hours here.
 
-I need to, well he started testing it, I just need to test it before you all do. But we'll continue testing for anybody that wants to test with another dozen um swaps for you all. And the reason we're doing that again is to give you like about a dozen swaps to test at the same time. 
+I need to, well he started testing it, I just need to test it before you all do. But we'll continue testing for anybody that wants to test with another dozen um swaps for you all. And the reason we're doing that again is to give you like about a dozen swaps to test at the same time.
 
-So we can stress test a little bit of the ChangeNow also, I mean our app, but the ChangeNow API mainly and then another API that we use for that. I do know, and I know you guys have noticed, that some of the transactions are slow. So our goal is to get the transactions working without any error codes. 
+So we can stress test a little bit of the ChangeNow also, I mean our app, but the ChangeNow API mainly and then another API that we use for that. I do know, and I know you guys have noticed, that some of the transactions are slow. So our goal is to get the transactions working without any error codes.
 
 And then the dev who's working on the transactions will move on to optimize the app to get it to move quicker to keep up with the volume we expect while we grow the community. Let's see. You guys should have noticed some more bugs pushed, or bug fixes rather, pushed today too.
 
-(2:03 - 6:39)
-That should include your, let's see, verification code. I know I tried that earlier and that worked. Hopefully you know what I'm talking about. 
+That should include your, let's see, verification code. I know I tried that earlier and that worked. Hopefully you know what I'm talking about.
 
-If not you can check the app bug reports. Let's see, let me go in here on the mobile one, bug fixes from there. If you do get on a new device you will get an email in your, well sent to your email asking you to verify that new device first. 
+If not you can check the app bug reports.
 
-That's for security. Also, let me see, also there should, I believe it's about an hour. I haven't tested it myself first. 
+[Speaker 2]
+Let's see, let me go in here on the mobile one, bug fixes from there.
 
-But if you log in to the app from, with an email and the same device, you may still be logged in there for an hour. So if you go back to the app and try to log in again, it shouldn't ask you for code. Again, it is very important to keep, you know, don't sign in even though it's a lot easier to access this account from different devices. 
+[Speaker 1]
+If you do get on a new device you will get an email in your, well sent to your email asking you to verify that new device first. That's for security. Also, let me see, also there should, I believe it's about an hour.
 
-Unlike our previous login method, I still don't recommend that you just willy nilly go signing, you know, on to your account from every device you could find. Definitely I wouldn't sign into any public devices. But definitely I just wouldn't sign into anybody else's device. 
+I haven't tested it myself first. But if you log in to the app from, with an email and the same device, you may still be logged in there for an hour. So if you go back to the app and try to log in again, it shouldn't ask you for code.
 
-And definitely make sure you have a lock on your devices. But we did add that just to have it be a little bit easier for you all. So you're not having to constantly log in while keeping everything secure. 
+Again, it is very important to keep, you know, don't sign in even though it's a lot easier to access this account from different devices. Unlike our previous login method, I still don't recommend that you just willy nilly go signing, you know, on to your account from every device you could find. Definitely I wouldn't sign into any public devices.
 
-As Magic adds on, let me see. Yep, that works. Awesome. 
+But definitely I just wouldn't sign into anybody else's device. And definitely make sure you have a lock on your devices. But we did add that just to have it be a little bit easier for you all.
 
-So yeah, the little pin that you get sent when you get emailed it and your phone recognizes it. Now all you have to do is click on it and it should auto fill there. So that's beautiful. 
+So you're not having to constantly log in while keeping everything secure. As Magic adds on, let me see. Yep, that works.
 
-And then again, it will finish testing the remaining fixed transactions tonight and then update you on what you can start testing. I think it was Farkas who found one of the the errors that was sent and that was actually due to so usually you will get if you don't swap enough. So if you try to swap one magic, and that's lower than the change now minimum, you'll usually get a error message letting you know of what the minimum is. 
+Awesome. So yeah, the little pin that you get sent when you get emailed it and your phone recognizes it. Now all you have to do is click on it and it should auto fill there.
 
-And of course, that depends on how much magic is worth of the time. And but if there's an error in the API on the background of the app, then you'll get a different error message. You shouldn't get that very much now. 
+So that's beautiful. And then again, it will finish testing the remaining fixed transactions tonight and then update you on what you can start testing. I think it was Farkas who found one of the the errors that was sent and that was actually due to so usually you will get if you don't swap enough.
 
-But after this dev is done optimizing the app, which he'll do as soon as he's done working on these bugs, then that should all be good there. So let's see. Another let me see if it's I don't think it's already. 
+So if you try to swap one magic, and that's lower than the change now minimum, you'll usually get a error message letting you know of what the minimum is. And of course, that depends on how much magic is worth of the time. And but if there's an error in the API on the background of the app, then you'll get a different error message.
 
-Let's see. Okay, awesome to you'll also be able to let you know as that's updated, hoping by the end of the weekend, your email, you'll have the option to save your email so you won't have to type it in every time. I know it's a little bit different for me because I'm signing on 10s of times a day. 
+You shouldn't get that very much now. But after this dev is done optimizing the app, which he'll do as soon as he's done working on these bugs, then that should all be good there. So let's see.
 
-But it'd be nice to just be able to select your email address rather than having to type it out every single time. You'll have the option you should be have, you should have the option to, you know, choose not to add that if you want. But I know a lot of you sign into the app, probably close to how many times I do not more. 
+Another let me see if it's I don't think it's already. Let's see. Okay, awesome to you'll also be able to let you know as that's updated, hoping by the end of the weekend, your email, you'll have the option to save your email so you won't have to type it in every time.
 
-So that'll be nice to Yeah. And a few a few other things you guys might not notice. But again, hopefully those will be fixed by the end of the weekend.
+I know it's a little bit different for me because I'm signing on 10s of times a day. But it'd be nice to just be able to select your email address rather than having to type it out every single time. You'll have the option you should be have, you should have the option to, you know, choose not to add that if you want.
 
-(6:40 - 7:12)
-Other than that, we'll have you all continue testing transactions, make sure those are successful. Let me know if you have any issues with any transactions again, just, you know, just send them back and forth back and forth. Even if they aren't PPI, right. 
+But I know a lot of you sign into the app, probably close to how many times I do not more. So that'll be nice to Yeah. And a few a few other things you guys might not notice.
 
-So even if they are USD automatic and back and forth, just keep swapping it just to make sure the transaction works doesn't need to be for very much at all. As long as it's over the minimum. Let's see.
+But again, hopefully those will be fixed by the end of the weekend. Other than that, we'll have you all continue testing transactions, make sure those are successful. Let me know if you have any issues with any transactions again, just, you know, just send them back and forth back and forth.
 
-(7:23 - 8:36)
-With the bugs now fixed, is there an expected date to start social media marketing? As soon as the bugs are all fixed? Yeah, we just don't want people downloading it and dealing with a very basic bugs. And then we also will have you all stress test it once we have all the bug fixes complete. Example of that is just to all have you all, you know, go in and sign to the app at once and go in and transfer, you know, whatever at once or swap at once. 
+Even if they aren't PPI, right. So even if they are USD automatic and back and forth, just keep swapping it just to make sure the transaction works doesn't need to be for very much at all. As long as it's over the minimum.
 
-So we'll have you do a few of those to stress test the app and see if there's anything that we need to prioritize while the dev or yeah, to prior to prioritize what exactly the dev needs to optimize in the app. Is there anything that needs to get ahead of that list? Probably a good idea to sign out from the app instead of letting it time out. I found I have to close and restart when that happens.
+[Speaker 2]
+Let's see.
 
-(8:39 - 9:37)
-We have to close and find out. Oh, when it times out. Okay, so you're saying the time now? Is the time now not work? All right, there it is. 
+[Speaker 1]
+With the bugs now fixed, is there an expected date to start social media marketing? As soon as the bugs are all fixed? Yeah, we just don't want people downloading it and dealing with a very basic bugs.
 
-Let me know if there's something that isn't working for you. So that one, make sure it's a bit more user friendly, not confuse anyone. When will the next version of the contract with aggregator support be activated? I'm thinking, are you talking about the smart contract updates? We still have one more update on the smart contract, which will complete as soon as we confirm that all transactions are working as expected.
+And then we also will have you all stress test it once we have all the bug fixes complete. Example of that is just to all have you all, you know, go in and sign to the app at once and go in and transfer, you know, whatever at once or swap at once. So we'll have you do a few of those to stress test the app and see if there's anything that we need to prioritize while the dev or yeah, to prior to prioritize what exactly the dev needs to optimize in the app.
 
-(9:43 - 9:59)
-Do you think the donations button will be done Tuesday and working? That is so the dev started working on donations. Um, what day was it exactly? Let me check. Sometime this week.
+Is there anything that needs to get ahead of that list? Probably a good idea to sign out from the app instead of letting it time out. I found I have to close and restart when that happens.
 
-(10:10 - 10:41)
-We started working on it on Wednesday. And the estimate we have is Tuesday. So I'll keep you guys updated. 
+We have to close and find out. Oh, when it times out. Okay, so you're saying the time now?
 
-Have everyone doing transaction and hit the trade button at the same time. Yeah. That's a good idea. 
+Is the time now not work? All right, there it is. Let me know if there's something that isn't working for you.
+
+So that one, make sure it's a bit more user friendly, not confuse anyone. When will the next version of the contract with aggregator support be activated? I'm thinking, are you talking about the smart contract updates?
+
+We still have one more update on the smart contract, which will complete as soon as we confirm that all transactions are working as expected. Do you think the donations button will be done Tuesday and working? That is so the dev started working on donations.
+
+Um, what day was it exactly? Let me check. Sometime this week.
+
+We started working on it on Wednesday. And the estimate we have is Tuesday. So I'll keep you guys updated.
+
+Have everyone doing transaction and hit the trade button at the same time. Yeah. That's a good idea.
 
 But we definitely want to do that. Same with advice. Oh, on ramper.
 
-(10:44 - 11:58)
-Yeah, some on ramper bugs still being fixed to which that is very, very important. Because as we grow the community, we expect that users will go in and try to purchase, whether it's PPI or another token or coin. So that's a really important one to make sure that's showing up on all devices, make sure that users can KYC because I know that was the most frustrating thing for me even years ago. 
+Yeah, some on ramper bugs still being fixed to which that is very, very important. Because as we grow the community, we expect that users will go in and try to purchase, whether it's PPI or another token or coin. So that's a really important one to make sure that's showing up on all devices, make sure that users can KYC because I know that was the most frustrating thing for me even years ago.
 
-That's when everything was super, super glitchy, even trust wallet. And really, I think most crypto sites. So really don't want them to go through the frustration that many of us went through back in the day. 
+That's when everything was super, super glitchy, even trust wallet. And really, I think most crypto sites. So really don't want them to go through the frustration that many of us went through back in the day.
 
 Most of that should be fitting well into your screens. But again, it's the actual KYC steps and then changing permissions in on ramper actually. And on ramper engineers are actually working on some bugs we found for them.
 
-(11:58 - 13:03)
-So I'll keep you updated on that. When do you think Bitcoin might be moved from wrapped Bitcoin? That's going to be wrapped. Bitcoin for a while. 
+So I'll keep you updated on that. When do you think Bitcoin might be moved from wrapped Bitcoin? That's going to be wrapped.
 
-For the foreseeable future. To add to add Bitcoin in the app, though, is not a big deal. We'll continue adding. 
+Bitcoin for a while. For the foreseeable future. To add to add Bitcoin in the app, though, is not a big deal.
 
-We'll continue adding currencies to the app. Okay. How does political donations work? Will there be a drop down with the name of the politicians you want to donate to? No, there'll be a picture of the candidate along with their name, position and website.
+We'll continue adding. We'll continue adding currencies to the app. Okay.
 
-(13:10 - 14:15)
-Wouldn't the donations thing be a huge promo for this coin with everything going on? Yes, but we cannot promote something we don't have and we can't promote something that's half assed. Excuse my language. We need it to work 100%. 
+How does political donations work? Will there be a drop down with the name of the politicians you want to donate to? No, there'll be a picture of the candidate along with their name, position and website.
 
-And I told Steve it would. Wait, what? Like 11.30, 12, 12.30, etc. Since everyone's transactions take different times to process, but we can all try to hit at the same time at intervals to stress it since there's only a few. 
+Wouldn't the donations thing be a huge promo for this coin with everything going on? Yes, but we cannot promote something we don't have and we can't promote something that's half assed. Excuse my language.
 
-Oh, yeah, absolutely. That's exactly the plan, sir. How many politicians have signed up so far to be listed? We have a few.
+We need it to work 100%. And I told Steve it would. Wait, what?
 
-(14:15 - 16:37)
-It's actually funny because our dev who's working on that, I asked him to start with two and I gave him Trump as the first example and he goes, okay, so I'll do Trump and Biden as the placeholders to begin. I said, are you trying to get the community to kill me? Will donations be done in P.P.Y. dollars or both? P.P.Y. donations will give visibility to the coin. Donations will be done in P.P.Y. and we haven't decided how they'll swap out yet, but VIP wallets that we have built in the smart contract for both merchants and political donations. 
+Like 11.30, 12, 12.30, etc. Since everyone's transactions take different times to process, but we can all try to hit at the same time at intervals to stress it since there's only a few. Oh, yeah, absolutely.
 
-That's what the wallet is called in the smart contract. We have an auto swap that when you send that donation to the business or to the candidate or to the nonprofit organization, it is auto swapped to stable coin and we get to pick the coin. That's something we can turn on and off. 
+That's exactly the plan, sir. How many politicians have signed up so far to be listed? We have a few.
 
-Again, our smart contract is upgradable so we can always create a different wallet for political donations as time goes on where we can separate it and have it work. We can make modifications as we see fit so it doesn't need to be treated exactly like a merchant wallet is. Send him back to Ukraine. 
+It's actually funny because our dev who's working on that, I asked him to start with two and I gave him Trump as the first example and he goes, okay, so I'll do Trump and Biden as the placeholders to begin. I said, are you trying to get the community to kill me? Will donations be done in P.P.Y. dollars or both? P.P.Y. donations will give visibility to the coin. Donations will be done in P.P.Y. and we haven't decided how they'll swap out yet, but VIP wallets that we have built in the smart contract for both merchants and political donations. That's what the wallet is called in the smart contract.
 
-He's not from Ukraine. This is our dev that's in Canada. Gosh, it has been, I don't think you guys realize, it has been so nice not having dev as I have to wake up and in the middle of the night for her.
+We have an auto swap that when you send that donation to the business or to the candidate or to the nonprofit organization, it is auto swapped to stable coin and we get to pick the coin. That's something we can turn on and off. Again, our smart contract is upgradable so we can always create a different wallet for political donations as time goes on where we can separate it and have it work.
 
-(16:40 - 16:45)
-It's been nice. Canada's a little early, but that's fine. I wake up pretty early.
+We can make modifications as we see fit so it doesn't need to be treated exactly like a merchant wallet is. Send him back to Ukraine. He's not from Ukraine.
 
-(16:53 - 17:07)
-Are you serious? We have a Canadian doing this? Yes, absolutely. We're for patriots all over the world. We are not a U.S. exclusive crypto or app.
+This is our dev that's in Canada. Gosh, it has been, I don't think you guys realize, it has been so nice not having dev as I have to wake up and in the middle of the night for her. It's been nice.
 
-(17:08 - 18:52)
-One of our devs is in Canada just like many of our holders are in Canada and all over the world. Patriots everywhere. We even have a few liberals in here. 
+Canada's a little early, but that's fine. I wake up pretty early. Are you serious?
 
-A few libertarians. That's all right. Maybe they'll get smart one day. 
+We have a Canadian doing this? Yes, absolutely. We're for patriots all over the world.
 
-They've started. Sarah, there might be a lot of interest in this coin down here in Australia. Do you plan on having a rep down here at some point? Yes, actually. 
+We are not a U.S. exclusive crypto or app. One of our devs is in Canada just like many of our holders are in Canada and all over the world. Patriots everywhere.
 
-There's quite a bit of not only our holders, but actually a ton of MAGA, a ton of conservatives. And super nice people. Let's see. 
+We even have a few liberals in here. A few libertarians. That's all right.
 
-I did miss CPAC Australia, but there's next year. Let's see. Oh, they have another one coming up. 
+Maybe they'll get smart one day. They've started. Sarah, there might be a lot of interest in this coin down here in Australia.
 
-Oh, we'll make that one. October 5th to 6th. Hopefully we don't have anything else going on during that time.
+Do you plan on having a rep down here at some point? Yes, actually. There's quite a bit of not only our holders, but actually a ton of MAGA, a ton of conservatives.
 
-(18:53 - 19:10)
-That'd be nice. Yeah, the Australians I met at CPAC were super nice, and they know how to throw a party. Gee.
+And super nice people. Let's see. I did miss CPAC Australia, but there's next year.
 
-(19:12 - 19:43)
-That was where the after party was every almost every night for the VIPs. If so, I'd like to have a chat about possibly being more involved in spreading the word. Sure. 
+[Speaker 2]
+Let's see.
 
-Let me send me a DM. I hear there is a holder in Australia. Me too.
+[Speaker 1]
+Oh, they have another one coming up. Oh, we'll make that one. October 5th to 6th.
 
-(19:46 - 20:24)
-One. Hoping to see our artwork channel fill up with good shareable stuff. So actually, I did get an update on our video last night. 
+Hopefully we don't have anything else going on during that time. That'd be nice. Yeah, the Australians I met at CPAC were super nice, and they know how to throw a party.
 
-I actually need to work on some material for that tonight. Probably run it by our advisor. But I was actually going to ask you guys.
+Gee. That was where the after party was every almost every night for the VIPs. If so, I'd like to have a chat about possibly being more involved in spreading the word.
 
-(20:25 - 21:54)
-Well, I'll ask you after. I need to talk to our graphics guy, and then I'll post it for you guys. We'll run a contest, and then we'll go from there. 
+Sure. Let me send me a DM. I hear there is a holder in Australia.
 
-But basically, it has to do with our political donations page in the app. Any more good basic Patriot Pays shirts that highlight the new logo? Actually, that's on our graphic designers to do list. I think he's just been concentrating on the video with the stickers. 
+Me too. One. Hoping to see our artwork channel fill up with good shareable stuff.
 
-We'll definitely have a sticker. I won't say store, but like a Patriot Pays sticker merchant, I guess, in the app. But it'll be Patriot Pays. 
+So actually, I did get an update on our video last night. I actually need to work on some material for that tonight. Probably run it by our advisor.
 
-But yeah, very excited for that. If you haven't ordered stickers from the website, go ahead and order those. You can go order them from the free link on the website too. 
+But I was actually going to ask you guys. Well, I'll ask you after. I need to talk to our graphics guy, and then I'll post it for you guys.
 
-And I'll go ahead and send you some out. Has Bannon tried the app lately or Boris? No. They will try the app once it's 100% ready.
+We'll run a contest, and then we'll go from there. But basically, it has to do with our political donations page in the app. Any more good basic Patriot Pays shirts that highlight the new logo?
 
-(21:56 - 23:00)
-And I think they're going to be blown away by how easy it is. I don't think it's going to be really not even, I don't think, on the same level as our old app. I have not gotten one one. 
+Actually, that's on our graphic designers to do list. I think he's just been concentrating on the video with the stickers. We'll definitely have a sticker.
 
-I've not gotten one complaint about account creation. So this is excellent news. Now we just need people get on the app, right? What's the next thing they're going to do? They're going to go to buy, right? Easy for you guys, because most of you know, crypto, you can, you know, even swap Matic in. 
+I won't say store, but like a Patriot Pays sticker merchant, I guess, in the app. But it'll be Patriot Pays. But yeah, very excited for that.
+
+If you haven't ordered stickers from the website, go ahead and order those. You can go order them from the free link on the website too. And I'll go ahead and send you some out.
+
+Has Bannon tried the app lately or Boris? No. They will try the app once it's 100% ready.
+
+And I think they're going to be blown away by how easy it is. I don't think it's going to be really not even, I don't think, on the same level as our old app. I have not gotten one one.
+
+I've not gotten one complaint about account creation. So this is excellent news. Now we just need people get on the app, right?
+
+What's the next thing they're going to do? They're going to go to buy, right? Easy for you guys, because most of you know, crypto, you can, you know, even swap Matic in.
 
 You've gone through KYC before, but you got to think for somebody like your mom or your dad or your grandma or your uncle, who's never done this before, they want to go and click on buy. If you know their screen isn't working, like all for his glory screen wasn't working, they're going to get confused, frustrated. And we just want to make that as easy as possible.
 
-(23:00 - 24:35)
-So you can download the app, make their account by just entering their email, click buy. And very, very quickly go through those steps without having to deal with any phone or browser issues. So get in there. 
+So you can download the app, make their account by just entering their email, click buy. And very, very quickly go through those steps without having to deal with any phone or browser issues. So get in there.
 
-Oh, goodness. Do you talk to them weekly still? I've not talked to Stephen a while. And then it's probably been two weeks since I maybe a week and a half since I've talked to Boris. 
+[Speaker 4]
+Oh, goodness.
 
-With little left currently to be done, do you have an idea when the app will be considered 100% ready? I think the app will be considered 100% ready when we can get somebody that's never used the app to get on the app, make an account and buy without needing help. You know, I mean, some people might need help. I'm talking, you know, basic stuff, errors and stuff like that.
+[Speaker 1]
+Do you talk to them weekly still? I've not talked to Stephen a while. And then it's probably been two weeks since I maybe a week and a half since I've talked to Boris.
 
-(24:36 - 26:10)
-And again, making sure all of our swaps, transfers, you know, all the functions on the app work. We will be hiding, of course, the marketplace, the education section to not confuse people. But yeah, I think once everything on there minus those, the education and the marketplace hidden. 
+With little left currently to be done, do you have an idea when the app will be considered 100% ready? I think the app will be considered 100% ready when we can get somebody that's never used the app to get on the app, make an account and buy without needing help. You know, I mean, some people might need help.
 
-So everything functions correctly. No error messages. Then we're good to go. 
+I'm talking, you know, basic stuff, errors and stuff like that. And again, making sure all of our swaps, transfers, you know, all the functions on the app work. We will be hiding, of course, the marketplace, the education section to not confuse people.
 
-What month are you targeting deploying the payment system? I'm assuming you mean marketplace or donations. President Trump is not lost his voting rights in the state. So that means smart wallet. 
+But yeah, I think once everything on there minus those, the education and the marketplace hidden. So everything functions correctly. No error messages.
 
-I'm not sure what you mean by that smart wallet is functioning as it should. As is the expert wallet. There's a few less used coins that we were having issues with that should be fixed now.
+Then we're good to go. What month are you targeting deploying the payment system? I'm assuming you mean marketplace or donations.
 
-(26:11 - 26:25)
-I need to make sure to test them. Dev tested them fine, but sometimes it needs us. Um, logging in tonight was weird.
+President Trump is not lost his voting rights in the state. So that means smart wallet. I'm not sure what you mean by that smart wallet is functioning as it should.
 
-(26:27 - 27:15)
-Blue background with logo, white screen with nothing, close, reopen, same, close, reopen. Hmm. That's interesting. 
+As is the expert wallet. There's a few less used coins that we were having issues with that should be fixed now. I need to make sure to test them.
 
-Where did that happen, Mike? And when was this? 10 minutes ago. What? If you have screenshots, if you could please send them to me. If not, I understand.
+Dev tested them fine, but sometimes it needs us. Um, logging in tonight was weird. Blue background with logo, white screen with nothing, close, reopen, same, close, reopen.
 
-(27:18 - 28:21)
-But I'll forward this to myself because I've not experienced this or received any others. That's weird. And we didn't just do an update right now. 
+Hmm. That's interesting. Where did that happen, Mike?
 
-The update was a few hours ago. Hmm. Um, so we can buy without swapping now. 
+And when was this? 10 minutes ago. What?
 
-I'm assuming you're talking PPY. No, you'll buy Matic and then swap it. I saw that the blue thing too right before voice. 
+If you have screenshots, if you could please send them to me. If not, I understand.
 
-What? I think I might have seen this. Let's see. Was this on mobile or desktop for both of you? Let me try.
+[Speaker 2]
+But I'll forward this to myself because I've not experienced this or received any others.
 
-(28:25 - 28:40)
+[Speaker 1]
+That's weird. And we didn't just do an update right now. The update was a few hours ago.
+
+Hmm. Um, so we can buy without swapping now. I'm assuming you're talking PPY.
+
+No, you'll buy Matic and then swap it.
+
+[Speaker 2]
+I saw that the blue thing too right before voice.
+
+[Speaker 1]
+What? I think I might have seen this. Let's see.
+
+Was this on mobile or desktop for both of you? Let me try.
+
+[Speaker 2]
 Try here. Let's see if I get it. No, I'm not receiving it.
 
-(29:47 - 30:10)
-Oh, no, no, no, no. Mobile. Okay, thanks. 
+[Speaker 1]
+Oh, no, no, no, no. Mobile. Okay, thanks.
 
-Does a buy PPY direct have to be pushed out before socials and marketing? No, absolutely not. For the time being, that's why we have, when you go into buy PPY, it gets you to buy Matic and you can do it all on that page. Getting a direct on ramp will take some time.
+Does a buy PPY direct have to be pushed out before socials and marketing? No, absolutely not. For the time being, that's why we have, when you go into buy PPY, it gets you to buy Matic and you can do it all on that page.
 
-(30:13 - 30:29)
-And of course, that's the goal because the less steps users have to take, the better, right? And the easier for everyone. I'm not seeing it now. Okay.
+Getting a direct on ramp will take some time. And of course, that's the goal because the less steps users have to take, the better, right? And the easier for everyone.
 
-(30:47 - 33:21)
-Processing. Gosh, change now. You can't answer until mobile. 
+[Speaker 2]
+I'm not seeing it now. Okay. Processing.
 
-Okay, thanks. So weird. I need to try Rose again to remove those because it's funny. 
+Gosh, change now.
 
-We don't have some of the words blocked out that she says we do anymore. We remove them, but let's see. Like, let's try this again. 
+[Speaker 1]
+You can't answer until mobile. Okay, thanks. So weird.
 
-Like, what is feel like is engineer one. I think engineer was one, right? See, and she says, like, looks the following doesn't exist. But I'm pretty sure she'll kick somebody out if they say engineer. 
+I need to try Rose again to remove those because it's funny. We don't have some of the words blocked out that she says we do anymore. We remove them, but let's see.
 
-Let's try diet. Looks like the following block list items don't exist, but I swear she's still kicking people out if they say diet. Or was it? Maybe it was software engineer. 
+Like, let's try this again. Like, what is feel like is engineer one. I think engineer was one, right?
 
-Let's see. Nope. This one, I think she does still have. 
+See, and she says, like, looks the following doesn't exist. But I'm pretty sure she'll kick somebody out if they say engineer. Let's try diet.
 
-I will no longer block this. But yeah, the other ones, it's just like, it's some bug. I wonder. 
+Looks like the following block list items don't exist, but I swear she's still kicking people out if they say diet. Or was it? Maybe it was software engineer.
 
-You know what? I wonder if I add it and then remove it again. Maybe that'll work. Okay. 
+Let's see.
 
-Now let's see. So added it, try removing it. And then we'll see. 
+[Speaker 2]
+Nope.
 
-Maybe now it's like, maybe now it fixed it. We'll see when somebody does. Oh, look at that. 
+[Speaker 1]
+This one, I think she does still have. I will no longer block this. But yeah, the other ones, it's just like, it's some bug.
 
-It worked. Oh my gosh. That's exciting. 
+I wonder. You know what? I wonder if I add it and then remove it again.
 
-So I have to add it. Some kind of bug then. Okay, let's do the same.
+Maybe that'll work. Okay. Now let's see.
 
-(33:22 - 34:42)
-What are some other don't type the word, maybe type it with some dashes, but what's some other stuff you guys get kicked out for? There we go. Oh, was it senior software engineer? I think it was senior software engineer. Forget. 
+So added it, try removing it. And then we'll see. Maybe now it's like, maybe now it fixed it.
 
-Oh, there we go. Senior's gone. That's funny. 
+We'll see when somebody does. Oh, look at that. It worked.
 
+Oh my gosh. That's exciting. So I have to add it.
+
+Some kind of bug then. Okay, let's do the same. What are some other don't type the word, maybe type it with some dashes, but what's some other stuff you guys get kicked out for?
+
+There we go. Oh, was it senior software engineer?
+
+[Speaker 2]
+I think it was senior software engineer. Forget. Oh, there we go.
+
+Senior's gone.
+
+[Speaker 3]
+That's funny.
+
+[Speaker 1]
 I am not on my 12th espresso shot of the day. My third quad. Let me know if you guys think of any words you got kicked out for.
 
-(34:42 - 36:09)
-Looks like that worked. Adding it back to the block list because she said it's not on there. Removing it. 
+Looks like that worked. Adding it back to the block list because she said it's not on there. Removing it.
 
-Had to have been a diet or it had to have been a bug of when we remove those that something happened. I know. And then I'm like, oh, why can't I sleep? I'm pretty sure that's why. 
+Had to have been a diet or it had to have been a bug of when we remove those that something happened.
 
-I asked the girl to put like a few shots of chai in here. I think it's sugar free because it tastes kind of, well, but I don't want to hurt her feelings and tell her to remake it. I felt bad. 
+[Speaker 2]
+I know. And then I'm like, oh, why can't I sleep?
 
-She was so nice. Okay. Will donations be done and P.P.Y.? I think we answered that. 
+[Speaker 1]
+I'm pretty sure that's why. I asked the girl to put like a few shots of chai in here. I think it's sugar free because it tastes kind of, well, but I don't want to hurt her feelings and tell her to remake it.
 
-Dollars are both. Okay. Um, so P.P.Y. and there's a $50 max if you are doing it anonymous.
+[Speaker 2]
+I felt bad. She was so nice. Okay.
 
-(36:09 - 36:37)
-Otherwise you will have to K.Y.C. and then you can donate more. That is for us to stay compliant with all the legalities. So it's a nice, I think it's maximum 50. 
+[Speaker 1]
+Will donations be done and P.P.Y.? I think we answered that. Dollars are both. Okay.
 
-I think that's an annual. Not positive on that, but I'm going right off memory. I believe it was annual.
+Um, so P.P.Y. and there's a $50 max if you are doing it anonymous. Otherwise you will have to K.Y.C. and then you can donate more. That is for us to stay compliant with all the legalities.
 
-(36:39 - 37:55)
-Might be wrong on that. I'll have to double check. Um, okay. 
+So it's a nice, I think it's maximum 50. I think that's an annual. Not positive on that, but I'm going right off memory.
 
-That's the answer. Oh, there it is. Weird. 
+I believe it was annual. Might be wrong on that. I'll have to double check.
 
-Um, then a white screen behind them, this, but a black screen then close and reopen normal. Do you know if there's a message when it's syncing updates? I suspect. That's really strange though, because, um, the updates were a while ago, but thank you for the screenshot. 
+Um, okay. That's the answer. Oh, there it is.
 
-And I will find out. Okay. Let's see. 
+Weird. Um, then a white screen behind them, this, but a black screen then close and reopen normal. Do you know if there's a message when it's syncing updates?
 
-Oh, nice. Okay. Let's go back to here.
+I suspect. That's really strange though, because, um, the updates were a while ago, but thank you for the screenshot. And I will find out.
 
-(38:38 - 40:29)
-Um, okay. Uh, does the highlighted text from you mean there's a temporary discount on buying PBY through the app while we're testing? Uh, will this run until Tuesday? I need to move some money. Uh, we will be running that till testing is complete. 
+[Speaker 2]
+Okay. Let's see.
 
-Uh, I'll probably put a limit on it. Um, yeah, but yes, definitely till it's looking like it'll be totally Tuesday. You definitely want to get all errors cleaned up there. 
+[Speaker 3]
+Oh, nice.
 
-Um, so what happens when people make multiple wallets and exceed donations? Nobody would ever do that because you guys follow directions and agree to terms. Um, the update may have gone out a while ago, but does it auto update or when you open the app, like if we have background refresh, is that what that is? I'm honestly not sure, but I saved that screenshot and I will, uh, forward to the working on that update to, um, find out. I'm not getting that on my end. 
+[Speaker 2]
+Okay. Let's go back to here.
 
-Um, I didn't get that even when the update first happened. So, uh, it might, I'll double check. I think he's still working on bugs though. 
+[Speaker 1]
+Um, okay. Uh, does the highlighted text from you mean there's a temporary discount on buying PBY through the app while we're testing? Uh, will this run until Tuesday?
 
-I'm pretty sure. Yeah, he has to be. Um, but it might be, uh, happening with other stuff he's updating, um, on the front and back end just to help everything go a little bit quicker, but I'll let you know as soon as I find out, uh, what's the limit.
+I need to move some money. Uh, we will be running that till testing is complete. Uh, I'll probably put a limit on it.
 
-(40:30 - 40:36)
-I'm not sure. I'll find out and, uh, get back to you. I'll forward this to myself so I don't forget.
+Um, yeah, but yes, definitely till it's looking like it'll be totally Tuesday. You definitely want to get all errors cleaned up there. Um, so what happens when people make multiple wallets and exceed donations?
 
-(40:56 - 43:04)
-Um, are we supposed to use smart wallet? Uh, you can use either for testing. I'm assuming we want, we need both tested. So that's why I didn't specify. 
+Nobody would ever do that because you guys follow directions and agree to terms. Um, the update may have gone out a while ago, but does it auto update or when you open the app, like if we have background refresh, is that what that is? I'm honestly not sure, but I saved that screenshot and I will, uh, forward to the working on that update to, um, find out.
 
-And, um, uh, so I don't, that's why I didn't specify on what you guys need testing. Cause we do need both tested. Uh, keep in mind that Matic, BNB, uh, Ethereum, I think that's all I know. 
+I'm not getting that on my end. Um, I didn't get that even when the update first happened. So, uh, it might, I'll double check.
 
-Keep in mind that those are, uh, native coins. So they're only be in the expert wallet, but we do need you for example, uh, for Matic to PPY. Um, you can test that both in expert wallet and smart wallet, right? So you can test, uh, Matic to PPY swap in while you're in expert wallet. 
+I think he's still working on bugs though. I'm pretty sure. Yeah, he has to be.
 
-And then you can test that again while you're in smart wallet because the, even though the Matic is only an expert wallet, the PPY is different in each one of those. Um, is there a risk of anyone coming after us because people do this? What's our liability? Um, as long as we have the, uh, correct, you know, we can protect again with the, uh, disclaimers and also having KYC on there. Um, also what was I, something else? Um, what was I thinking? There's another, there's another step that will prevent that should prevent that.
+Um, but it might be, uh, happening with other stuff he's updating, um, on the front and back end just to help everything go a little bit quicker, but I'll let you know as soon as I find out, uh, what's the limit. I'm not sure. I'll find out and, uh, get back to you.
 
-(43:07 - 45:06)
-Um, and we don't, you know, there's no reason, like, you know, if you want to donate more than 50, just do the KYC. I mean, if we're, if you've already gotten your, uh, bank accounts tagged for going to Cabela's, then maybe after yesterday, they're aware that, uh, of everybody who's donated to, uh, Trump. What's the default position of the app smart wallet. 
+I'll forward this to myself so I don't forget. Um, are we supposed to use smart wallet? Uh, you can use either for testing.
 
-So the default position will depend on, well, actually, um, I was going to say, it'll depend on when you signed up, but that should be with your old, um, account creation. Um, uh, this one should have refreshed. Um, it should be smart wallet, but that's, uh, interesting that yours is on expert wallet. 
+I'm assuming we want, we need both tested. So that's why I didn't specify. And, um, uh, so I don't, that's why I didn't specify on what you guys need testing.
 
-Now is that because you switched it to expert wallet? Um, basically when you sign up for a new account, um, it should default to smart wallet. Uh, no, the up to, up to $50 or less per candidate can be anonymous. That's, uh, basically the law in the U S it's, um, you know, there's different laws per state and per, but that, that covers the general.
+Cause we do need both tested. Uh, keep in mind that Matic, BNB, uh, Ethereum, I think that's all I know. Keep in mind that those are, uh, native coins.
 
-(45:46 - 49:29)
-Gee, MJ's on a mule kick. I'm jealous. Mules in the summer. 
+So they're only be in the expert wallet, but we do need you for example, uh, for Matic to PPY. Um, you can test that both in expert wallet and smart wallet, right? So you can test, uh, Matic to PPY swap in while you're in expert wallet.
 
-Nice. That's nice. Uh, is there any way to get the seed phrase or are you just going to get the wallet key and can never access wallet other than the P P Y app? That's great for the app as there is no other option, but to use the app. 
+And then you can test that again while you're in smart wallet because the, even though the Matic is only an expert wallet, the PPY is different in each one of those. Um, is there a risk of anyone coming after us because people do this? What's our liability?
 
-Uh, no, you can, um, um, for the wallet, um, assuming you're talking, I'm assuming you're not talking about your email, right? That sandwich in the back looks good. Looks like a bacon burger, cheese, some fried onions. Can't have the onions. 
+Um, as long as we have the, uh, correct, you know, we can protect again with the, uh, disclaimers and also having KYC on there. Um, also what was I, something else? Um, what was I thinking?
 
-Can't have the bread, but everything else looks good. With that one, I'm assuming, yeah, I'm assuming you're not talking about the, like lot, like your, um, email and code, right? About the seed phrase dog bone. Um, so even though you don't get a seed phrase, you do get your private key, which is essentially the same thing. 
+There's another, there's another step that will prevent that should prevent that. Um, and we don't, you know, there's no reason, like, you know, if you want to donate more than 50, just do the KYC. I mean, if we're, if you've already gotten your, uh, bank accounts tagged for going to Cabela's, then maybe after yesterday, they're aware that, uh, of everybody who's donated to, uh, Trump.
 
-It's just a, another form of a seed phrase. And you can enter that into any third party wallet. I highly suggest you do do that and access your wallet there too, just in case, say the app is down and you still want to access your funds. 
+What's the default position of the app smart wallet. So the default position will depend on, well, actually, um, I was going to say, it'll depend on when you signed up, but that should be with your old, um, account creation. Um, uh, this one should have refreshed.
 
-Um, that way you can access your funds universally. Um, and it's also a self custody wallet. Make sure, uh, you save that in a very, very safe place too.
+Um, it should be smart wallet, but that's, uh, interesting that yours is on expert wallet. Now is that because you switched it to expert wallet? Um, basically when you sign up for a new account, um, it should default to smart wallet.
 
-(49:31 - 52:29)
-Don't do like some of you guys did and never wrote down your seed phrase a few years ago, uh, when we first introduced the app. So I need medic to send it back to our wallet. Uh, yes, you will need medic gas. 
+Uh, no, the up to, up to $50 or less per candidate can be anonymous. That's, uh, basically the law in the U S it's, um, you know, there's different laws per state and per, but that, that covers the general. Gee, MJ's on a mule kick.
 
-If you need medic, let me know. Um, contest and timeline for contest. Uh, I'm not sure. 
+I'm jealous. Mules in the summer.
 
-Maybe let's run it until Sunday. I'm not sure what the contest is yet. Um, better to wait for the kind of, uh, so, oh, I see what you're saying. 
+[Speaker 2]
+Nice. That's nice.
 
-Better to wait for the private key import function. Yeah. The private key export is functioning though. 
+[Speaker 1]
+Uh, is there any way to get the seed phrase or are you just going to get the wallet key and can never access wallet other than the P P Y app? That's great for the app as there is no other option, but to use the app. Uh, no, you can, um, um, for the wallet, um, assuming you're talking, I'm assuming you're not talking about your email, right?
 
-So go into your app settings, uh, private key, make sure you read everything and then save that private key somewhere safe. Uh, highly recommend you do not screenshot it and save it on your computer or phone. Somebody said that recently. 
+That sandwich in the back looks good. Looks like a bacon burger, cheese, some fried onions. Can't have the onions.
 
-Um, please don't do that. Another kid free day. Okay. 
+Can't have the bread, but everything else looks good. With that one, I'm assuming, yeah, I'm assuming you're not talking about the, like lot, like your, um, email and code, right? About the seed phrase dog bone.
 
-Um, I think that's everything. Um, I gotta get back to testing. Uh, let me know if you guys need anything else in the meantime.
+Um, so even though you don't get a seed phrase, you do get your private key, which is essentially the same thing. It's just a, another form of a seed phrase. And you can enter that into any third party wallet.
 
-(52:29 - 54:49)
-Uh, don't share your info with anybody. Oh yeah. There was a fake Sarah, uh, in telegram chat this week. 
+I highly suggest you do do that and access your wallet there too, just in case, say the app is down and you still want to access your funds. Um, that way you can access your funds universally. Um, and it's also a self custody wallet.
 
-Um, damning people. I'm sure if they replied, it probably, it seemed like the DMS where it's like frantically asking for help for you all to send funds. No, that, uh, me or the admins or anybody here, the devs will never call you, never DME first and definitely not ask you to share any of your information or, uh, send any funds. 
+Make sure, uh, you save that in a very, very safe place too. Don't do like some of you guys did and never wrote down your seed phrase a few years ago, uh, when we first introduced the app.
 
-Um, don't click on any weird links. Don't enter your seed phrases. Don't connect to any weird extensions. 
+[Speaker 2]
+So I need medic to send it back to our wallet.
 
-I know before there's been like a fake metamask extensions. Um, there was a fake, what was the app? Uh, quick swap. I think it was fake quick swap app. 
+[Speaker 1]
+Uh, yes, you will need medic gas. If you need medic, let me know. Um, contest and timeline for contest.
 
-Um, so don't think because it's an app that it can be, um, that it's safe. They can make like fake apps, um, through the app store. I don't know how the heck that passes because we had to jump through so many hoops. 
+Uh, I'm not sure. Maybe let's run it until Sunday. I'm not sure what the contest is yet.
 
-Um, so I don't know how the heck that gets approved, but apparently it does. Um, so please make sure to not download like, you know, the, the scammer trust wallet. Um, I don't know how, again, I don't know how that happens, but just, uh, be wary of that. 
+Um, better to wait for the kind of, uh, so, oh, I see what you're saying. Better to wait for the private key import function. Yeah.
 
-Be wary of weird browser extensions. Don't connect your wallet to like any weird ones. I'm random. 
+The private key export is functioning though. So go into your app settings, uh, private key, make sure you read everything and then save that private key somewhere safe. Uh, highly recommend you do not screenshot it and save it on your computer or phone.
 
-Um, sites, even just like some of the payments, like in services we use that ask you to connect your wallet. I'm like, Nope, I'll, I'll, I'll send you the payment. Thank you. 
+Somebody said that recently. Um, please don't do that.
 
-Um, that just, you know, scares me better to be safe than sorry. If you're ever in doubt, please reach out and ask. Um, I'd much rather you do that than lose your funds. 
+[Speaker 2]
+Another kid free day. Okay. Um, I think that's everything.
 
-Um, but other than that, I think that's all I got. DM me if you have anything else. Um, I will get another dozen swaps for you all to test tonight. 
+[Speaker 1]
+Um, I gotta get back to testing. Uh, let me know if you guys need anything else in the meantime. Uh, don't share your info with anybody.
+
+Oh yeah. There was a fake Sarah, uh, in telegram chat this week. Um, damning people.
+
+I'm sure if they replied, it probably, it seemed like the DMS where it's like frantically asking for help for you all to send funds. No, that, uh, me or the admins or anybody here, the devs will never call you, never DME first and definitely not ask you to share any of your information or, uh, send any funds. Um, don't click on any weird links.
+
+Don't enter your seed phrases. Don't connect to any weird extensions. I know before there's been like a fake metamask extensions.
+
+Um, there was a fake, what was the app? Uh, quick swap. I think it was fake quick swap app.
+
+Um, so don't think because it's an app that it can be, um, that it's safe. They can make like fake apps, um, through the app store. I don't know how the heck that passes because we had to jump through so many hoops.
+
+Um, so I don't know how the heck that gets approved, but apparently it does. Um, so please make sure to not download like, you know, the, the scammer trust wallet. Um, I don't know how, again, I don't know how that happens, but just, uh, be wary of that.
+
+Be wary of weird browser extensions. Don't connect your wallet to like any weird ones. I'm random.
+
+Um, sites, even just like some of the payments, like in services we use that ask you to connect your wallet. I'm like, Nope, I'll, I'll, I'll send you the payment. Thank you.
+
+Um, that just, you know, scares me better to be safe than sorry. If you're ever in doubt, please reach out and ask. Um, I'd much rather you do that than lose your funds.
+
+Um, but other than that, I think that's all I got. DM me if you have anything else. Um, I will get another dozen swaps for you all to test tonight.
 
 Um, please let me know if you're running into any issues. Um, again, known issues right now are, uh, how long some of the swaps takes. Now, a lot of that is change now.
 
-(54:49 - 58:53)
-Um, but change now in our app should take about five minutes. Um, so some of it is just the way our app is handling different APIs because we use other APIs other than just change now. Um, and just having the app, uh, the way it handles errors and stuff like that. 
+Um, but change now in our app should take about five minutes. Um, so some of it is just the way our app is handling different APIs because we use other APIs other than just change now. Um, and just having the app, uh, the way it handles errors and stuff like that.
 
-Um, but other than that, let me know if your swaps don't go through, uh, if your transfers don't go through, um, anything like that. So it'll help us out because I'd much rather you all catch it. Um, please don't be afraid to tell me of these, uh, errors. 
+Um, but other than that, let me know if your swaps don't go through, uh, if your transfers don't go through, um, anything like that. So it'll help us out because I'd much rather you all catch it. Um, please don't be afraid to tell me of these, uh, errors.
 
-Um, okay. So, um, um, I'm unable to send my PPI from trust wallet to my PPI wallet without any Matic in the former. Yes. 
+Um, okay. So, um, um, I'm unable to send my PPI from trust wallet to my PPI wallet without any Matic in the former. Yes.
 
-Correct. So you use Matic for gas, so you will have to have Matic. Um, it can literally be like one Matic. 
+Correct. So you use Matic for gas, so you will have to have Matic. Um, it can literally be like one Matic.
 
-Um, uh, but just realize you will be charged tax. If you do that, uh, transfers cost tax. Um, we will reimburse you for taxes in the app. 
+Um, uh, but just realize you will be charged tax. If you do that, uh, transfers cost tax. Um, we will reimburse you for taxes in the app.
 
-Um, while we test on, while we're testing, uh, if it's testing, you know, if it's a testing transfers, uh, we will have a limit on that. But, uh, again, if you're just testing PPI in the app, uh, to help us test the app, um, then we'll go ahead and reimburse you for that. So don't be, don't worry about those fees. 
+Um, while we test on, while we're testing, uh, if it's testing, you know, if it's a testing transfers, uh, we will have a limit on that. But, uh, again, if you're just testing PPI in the app, uh, to help us test the app, um, then we'll go ahead and reimburse you for that. So don't be, don't worry about those fees.
 
-Um, okay. I think that's everything. Um, yeah. 
+Um, okay. I think that's everything. Um, yeah.
 
-Let me know if you need anything else in the meantime. Um, let me check what contest we'll do. Let me see if I can get ahold of our graphics guy. 
+Let me know if you need anything else in the meantime. Um, let me check what contest we'll do. Let me see if I can get ahold of our graphics guy.
 
-Um, that way we can do a political donations contest. The one I was thinking about, um, depending on what ideas he has. Uh, okay. 
+Um, that way we can do a political donations contest. The one I was thinking about, um, depending on what ideas he has. Uh, okay.
 
-Thank you all. Thank you for helping us test and thank you for, um, really sending in all these bugs. Uh, I think the majority of them have been resolved now, which is amazing. 
+Thank you all. Thank you for helping us test and thank you for, um, really sending in all these bugs. Uh, I think the majority of them have been resolved now, which is amazing.
 
-Um, so with that, again, once the bugs are solved, uh, like I said, the dev is already working on the political donations page. I will keep you updated on that. Um, again, the estimate is Tuesday, but you all know how that works. 
+Um, so with that, again, once the bugs are solved, uh, like I said, the dev is already working on the political donations page. I will keep you updated on that. Um, again, the estimate is Tuesday, but you all know how that works.
 
-Um, so we'll, uh, I'll keep you updated on that. Hopefully Tuesday it'll be ready. Um, if not, we'll wait until that's right, but should be pretty straightforward. 
+Um, so we'll, uh, I'll keep you updated on that. Hopefully Tuesday it'll be ready. Um, if not, we'll wait until that's right, but should be pretty straightforward.
 
-Um, again, some, uh, slight third party, uh, integration we need there for the KYC to comply with the legalities of the political donations. But other than that, uh, it's no third parties that we need to depend on for that page. Um, and of course, uh, Donald J. Trump will be on the top of that page. 
+Um, again, some, uh, slight third party, uh, integration we need there for the KYC to comply with the legalities of the political donations. But other than that, uh, it's no third parties that we need to depend on for that page. Um, and of course, uh, Donald J.
 
-Not sure he needs our donations now since yesterday was a wonderful day. Um, that was bad. I read something like, what was it? 48 million, maybe 38 million off the top of my head. 
+Trump will be on the top of that page. Not sure he needs our donations now since yesterday was a wonderful day. Um, that was bad.
 
-Uh, so that was beautiful. Um, yeah, I think that's all I got. Uh, we'll also, so, uh, with the video, uh, being worked on, we'll make some website changes just to kind of clean up the website. 
+I read something like, what was it? 48 million, maybe 38 million off the top of my head. Uh, so that was beautiful.
 
-I feel like it's a little bit overwhelming right now to just make it, um, straight to the point. Um, and a little, I've been looking at a lot of websites, um, of, of other like, uh, businesses I'm reaching out to and stuff like that. And, um, some of them is just trying to find out what the hell they do is or what the hell they sell.
+Um, yeah, I think that's all I got. Uh, we'll also, so, uh, with the video, uh, being worked on, we'll make some website changes just to kind of clean up the website. I feel like it's a little bit overwhelming right now to just make it, um, straight to the point.
 
-(58:53 - 59:46)
-It's like, it's so difficult to find where I'm like, I like, I literally have searched all over your website. I still do not understand. Um, so we just, I'm like, and then it made me think like, wow, especially with crypto being new to so many of these people and the wallet being so new, definitely want to make that front center in front of your face. 
+Um, and a little, I've been looking at a lot of websites, um, of, of other like, uh, businesses I'm reaching out to and stuff like that. And, um, some of them is just trying to find out what the hell they do is or what the hell they sell. It's like, it's so difficult to find where I'm like, I like, I literally have searched all over your website.
 
-Um, so I think those are the changes, uh, coming this week. Uh, yeah, I will let you guys know if I have any updates before Tuesday and, uh, give me a few here, uh, while I get these recordings converted, posted, and then I'll post, uh, the contest also post some, um, maybe another dozen, um, swaps. Uh, you can all start testing if you like. 
+I still do not understand. Um, so we just, I'm like, and then it made me think like, wow, especially with crypto being new to so many of these people and the wallet being so new, definitely want to make that front center in front of your face. Um, so I think those are the changes, uh, coming this week.
 
-Have a wonderful night. I'll see you in general.
+Uh, yeah, I will let you guys know if I have any updates before Tuesday and, uh, give me a few here, uh, while I get these recordings converted, posted, and then I'll post, uh, the contest also post some, um, maybe another dozen, um, swaps. Uh, you can all start testing if you like. Have a wonderful night.
+
+I'll see you in general.

@@ -1,281 +1,212 @@
-(0:01 - 0:17)
+[Speaker 1]
 Okay, hope everybody had a great week. Thank you for testing. I haven't put any new tests in there because we have all known issues from our testing and yours.
 
-(0:19 - 0:41)
 And the devs are working on fixing those. Also, rebuilding a lot of the old code base while they do that to make these fixes permanent. The donations are complete.
 
-(0:43 - 1:08)
 We are just waiting on our graphic designer to make a modification to the donation pages. So far, we have, of course, Donald Trump and Carrie Lake on there. We still need to add a few more, but we have the KYC integrated and everything is beautiful.
 
-(1:13 - 1:35)
 A few of you are still emailing. Probably not a few of you here, actually, but maybe your friends or your parents or your coworkers emailing still trying to access their coins in the old app. Some of them have been successful because they saved, they still have the browser connected or they saved their seed phrase or keys.
 
-(1:36 - 2:06)
 Some, unfortunately, have not been, but if you know anybody that has a wallet and you know they had their keys or seed phrase saved, or if you help them write that down, please get in contact with them so we can get everybody's funds out of the old wallets. As you guys know, there's no way for us to access those wallets. So, that's that.
 
-(2:07 - 2:41)
 I think that's everything I have. Next on the dev list, now that donations are complete, and then once, so the bug fixes on the transactions should be fairly quick, including, I know, OnRamper. Some of the OnRamper issues are just OnRamper bugs, honestly, and those are tied to the specific OnRamping company versus OnRamper, and some of those we've sent and they're working on.
 
-(2:44 - 2:56)
 But once those, once our transaction, there's not a ton of transaction issues we're having. We're having some transaction issues. There are issues there mainly due to the app, the way it handled the auth on there.
 
-(2:57 - 3:51)
 So once that dev finishes that work, he'll be moving on to the Patriot Perks, and then the other dev that's wrapping up donations as soon as our designer gets back with that modification, he'll be moving on to work on, or integrate a really cool system, actually, that'll help us with referrals, which will work really cool for influencers. Yeah, it's a really cool one. We don't need that to launch again as soon as all transactions are functioning as they should.
 
-(3:53 - 4:13)
 We'll start that, which is the marketing. Again, please don't share your seed phrase with me ever. You shouldn't be sharing that with anybody, including me.
 
-(4:15 - 4:33)
 On that note, please be careful if you ever get calls. You won't ever get calls from me or devs or anybody sounding like me unless I specifically ask you to call me to walk you through steps. Don't accept any incoming calls.
 
-(4:33 - 4:50)
 I've never called you guys first, I never will for that reason. So just be careful, be careful with that. Just with AI and all the crazy things people are doing, be careful with ever receiving a call from me.
 
-(4:51 - 5:02)
 Again, I'll ask you to call me, but please don't email me your seed phrase. You guys keep doing that. Again, probably nobody here, but don't trust me.
 
-(5:02 - 5:07)
 Don't trust anybody with your seed phrase. Don't trust your mom with it. Don't trust your sister with it.
 
-(5:07 - 5:27)
 Don't trust anybody with your seed phrase. That's how important that is. Because if you give me your seed phrase and say I would go ahead and transfer those funds out, there is no way you're gonna be able to prove that was me, I can walk away and say, oh, you're SOL, you must have, you know, I don't know, something, it wasn't me.
 
-(5:27 - 5:43)
-And there's no way for you to prove it and your funds will be gone. And you really don't want that. What else? Let's go back into here.
+And there's no way for you to prove it and your funds will be gone. And you really don't want that. What else?
 
-(5:46 - 6:09)
-Yeah, everything happening with the trial is wild, right? Sorry, I know I was a few minutes late. I had to, I was on a call with one of you and that was, again, really hot, so I had to shower. And then I had to get all my beverages.
+Let's go back into here. Yeah, everything happening with the trial is wild, right? Sorry, I know I was a few minutes late.
 
-(6:10 - 6:32)
-I have water, I have my Vanilla Coke Zevia, and then I have my glass of Pinot, Pinot Noir. I don't know what to decide on, but the Zevia's winning because it's the coldest. You're allowed to drop the big news in this voice.
+I had to, I was on a call with one of you and that was, again, really hot, so I had to shower. And then I had to get all my beverages. I have water, I have my Vanilla Coke Zevia, and then I have my glass of Pinot, Pinot Noir.
 
-(6:32 - 6:38)
-What big news? It seems like you guys know. Oh, that's a cute kitty. I wish it wasn't allergic to cats sometimes.
+I don't know what to decide on, but the Zevia's winning because it's the coldest. You're allowed to drop the big news in this voice. What big news?
 
-(6:43 - 7:20)
-Quick question, is it still possible Bannon can mention us before July 1st? It's kind of important. You don't think it would be better from somewhere special? Do you have someone ready to start marketing for higher volume app tests? Are you in touch with them regularly? Yes, especially recently. That's why we had to tighten up the chats, but I don't think we've needed to delete anything in here or censor anything, as you all say.
+It seems like you guys know. Oh, that's a cute kitty. I wish it wasn't allergic to cats sometimes.
 
-(7:22 - 7:54)
-Everybody's been keeping it very professional. I have some, it's so hot. It's like the hottest part of the day right now.
+Quick question, is it still possible Bannon can mention us before July 1st? It's kind of important. You don't think it would be better from somewhere special?
 
-(7:54 - 8:07)
-I think I don't have any food on my fingers. The rally was amazing. The lines were nuts.
+Do you have someone ready to start marketing for higher volume app tests? Are you in touch with them regularly? Yes, especially recently.
 
-(8:10 - 8:37)
-I thought getting there early was going to beat me. No line, that was not the case. Kind of bummed though, because a lot of people I talk to locally, like see neighbors and didn't know about it, because they have to announce it, so last minute.
+That's why we had to tighten up the chats, but I don't think we've needed to delete anything in here or censor anything, as you all say. Everybody's been keeping it very professional. I have some, it's so hot.
 
-(8:39 - 8:51)
-Most of the people I spoke to didn't know about it. It was also really hot. I know the Vegas one is probably going to be hot as heck too.
+It's like the hottest part of the day right now. I think I don't have any food on my fingers. The rally was amazing.
 
-(8:54 - 9:23)
-Well, isn't Dan and I going to jail July 1st? I mean, I feel like that's somewhere special. Probably get more attention that way. How many VIP wallets are set up over the next few weeks? How many more won't get set up? The more, the merrier.
+The lines were nuts. I thought getting there early was going to beat me. No line, that was not the case.
 
-(9:27 - 9:44)
-Is Ms. Winners allowed to go with a camera crew to this underground jail? I'm not sure. We have to ask a war room team for that. I think we have, do we still have USA? Oh yeah, she was on here.
+Kind of bummed though, because a lot of people I talk to locally, like see neighbors and didn't know about it, because they have to announce it, so last minute. Most of the people I spoke to didn't know about it. It was also really hot.
 
-(9:55 - 10:19)
+I know the Vegas one is probably going to be hot as heck too. Well, isn't Dan and I going to jail July 1st? I mean, I feel like that's somewhere special.
+
+Probably get more attention that way. How many VIP wallets are set up over the next few weeks? How many more won't get set up?
+
+The more, the merrier. Is Ms. Winners allowed to go with a camera crew to this underground jail? I'm not sure.
+
+We have to ask a war room team for that. I think we have, do we still have USA? Oh yeah, she was on here.
+
 One on five, I don't even know what the weather today was, but there was like some weather advisory. But when I walked the dogs this morning, it wore something. We wrapped up around like six, where it's usually getting really sunny, and it was not, it's super overcast in June, which is insane.
 
-(10:21 - 10:48)
 Must be those contrails causing super crazy overcast in the desert in June. Never rains though, it just gets like super overcast. Today it says the high was 110.
 
-(10:49 - 11:10)
 So we got you beat, dog bone. But Vegas has the same exact like dry, dry heat. People getting other, their suit plays via email, Lord.
 
-(11:33 - 11:55)
-For soft marketing to start, what else needs to be completed? We just need the app functioning with no bugs as it is. We'll hide the marketplace and we'll hide the education. So you don't have to worry about that right now, that way it doesn't confuse people.
+For soft marketing to start, what else needs to be completed? We just need the app functioning with no bugs as it is. We'll hide the marketplace and we'll hide the education.
 
-(11:57 - 12:27)
-Our video, I had a last edit this morning. Once I get that edit, I will send it over for our advisor to see if he's okay with it. And then, so that's done.
+So you don't have to worry about that right now, that way it doesn't confuse people. Our video, I had a last edit this morning. Once I get that edit, I will send it over for our advisor to see if he's okay with it.
 
-(12:27 - 12:51)
-We're not, we're definitely not waiting on that, because I asked for a final date on that yesterday, day four, because my worry was that we'd have to wait on that, because that's what we're having the influencers post. But yeah, mainly it's just getting the app. It's a little, if you guys realize or notice, it's a little slow.
+And then, so that's done. We're not, we're definitely not waiting on that, because I asked for a final date on that yesterday, day four, because my worry was that we'd have to wait on that, because that's what we're having the influencers post. But yeah, mainly it's just getting the app.
 
-(12:53 - 13:11)
-And that's just, we've just had so many devs in and out, so it's just rebuilding some of the code base, a lot of it. Oh, sorry if the audio's bad, you know why. Let me try, it's on 18 now.
+It's a little, if you guys realize or notice, it's a little slow. And that's just, we've just had so many devs in and out, so it's just rebuilding some of the code base, a lot of it. Oh, sorry if the audio's bad, you know why.
 
-(13:11 - 13:34)
-That's because I had it on the phone for a while, and so my phone was dying. So, I have it on the charger instead of headphones, because iPhone won't let me do the same for the both. Let me see if I have an iPhone headphone in here.
+Let me try, it's on 18 now. That's because I had it on the phone for a while, and so my phone was dying. So, I have it on the charger instead of headphones, because iPhone won't let me do the same for the both.
 
-(13:43 - 13:56)
-Let's see, I'll move it here to see if you can hear better. Let me know if that's any better. I moved it.
+Let me see if I have an iPhone headphone in here. Let's see, I'll move it here to see if you can hear better. Let me know if that's any better.
 
-(13:59 - 14:07)
-So, back to soft marketing. What else needs to be done? Okay, so the video, that's almost complete. That's not gonna be what's holding us up.
+I moved it. So, back to soft marketing. What else needs to be done?
 
-(14:09 - 14:36)
-We need the, like I said, some, errors we're having are just, has to do with auth. So basically, if you guys are logged in for a little too long on the app, say, you know, forget about it, go on about your day, go back in there, your app is still open, you try to perform a transaction, sometimes that's gonna fail, but if you log out and back in, it's fine. We obviously don't want users having to deal with that.
+Okay, so the video, that's almost complete. That's not gonna be what's holding us up. We need the, like I said, some, errors we're having are just, has to do with auth.
 
-(14:37 - 15:01)
-Another one is the max button in the app if you're in Smart Wallet and you're using the native coins and you try to get a transaction to go through using that max when you're starting out with a native coin, you're also getting back an error. If you do a little bit less, you're fine. Again, things that new users, we don't want them.
+So basically, if you guys are logged in for a little too long on the app, say, you know, forget about it, go on about your day, go back in there, your app is still open, you try to perform a transaction, sometimes that's gonna fail, but if you log out and back in, it's fine. We obviously don't want users having to deal with that. Another one is the max button in the app if you're in Smart Wallet and you're using the native coins and you try to get a transaction to go through using that max when you're starting out with a native coin, you're also getting back an error.
 
-(15:02 - 15:33)
-I'm sure there's gonna be some other bugs we'll find out about with higher volume. We definitely don't wanna launch the app with known bugs and definitely not transaction bugs. So once those bugs are completed and the code just optimized so we're not, we've already fixed the API issues, so that's great, which is what we were, that was the errors we were running into before when we would get a little bit of volume with you guys testing.
+If you do a little bit less, you're fine. Again, things that new users, we don't want them. I'm sure there's gonna be some other bugs we'll find out about with higher volume.
 
-(15:35 - 16:07)
-That's been fixed as of yesterday or the day before, I think. Excuse me, so that's good. Yeah, we'll try to get the email login at the screens to where it does at least a dropdown, saves your email so you don't have to type into it, into the app, but again, I imagine if you're not logging in there a hundred times a day, it's not that big of a deal, but we'll try to get that to fit in.
+We definitely don't wanna launch the app with known bugs and definitely not transaction bugs. So once those bugs are completed and the code just optimized so we're not, we've already fixed the API issues, so that's great, which is what we were, that was the errors we were running into before when we would get a little bit of volume with you guys testing. That's been fixed as of yesterday or the day before, I think.
 
-(16:07 - 16:25)
-And that's more of a research versus time, but we're definitely not gonna be holding up the app for that. So yeah, that's good. Tested donations today, they look great.
+Excuse me, so that's good. Yeah, we'll try to get the email login at the screens to where it does at least a dropdown, saves your email so you don't have to type into it, into the app, but again, I imagine if you're not logging in there a hundred times a day, it's not that big of a deal, but we'll try to get that to fit in. And that's more of a research versus time, but we're definitely not gonna be holding up the app for that.
 
-(16:26 - 16:45)
-Again, KYC is awesome, pretty simple. You literally hit your location and then you're able to either scan your passport, driver's license, or ID, and that's it. So that should be good.
+So yeah, that's good. Tested donations today, they look great. Again, KYC is awesome, pretty simple.
 
-(16:45 - 17:14)
-You can donate $25 worth, $50 worth, or you can KYC to donate any amount you'd like. If you KYC, then you can donate, you know, 50, then go back to 25, and really whatever you want. Awesome, you're welcome.
+You literally hit your location and then you're able to either scan your passport, driver's license, or ID, and that's it. So that should be good. You can donate $25 worth, $50 worth, or you can KYC to donate any amount you'd like.
 
-(17:14 - 17:51)
-Wow, why is Donald Trump so active in the general chat all of a sudden? What's going on? What's going on there? Sorry, I'll look at that after voice. So seriously, can you address the issue if he goes to jail July 1st? He can talk about the coin and he kinda is the face of the coin for now. I don't think that'll be an issue at all.
+If you KYC, then you can donate, you know, 50, then go back to 25, and really whatever you want. Awesome, you're welcome. Wow, why is Donald Trump so active in the general chat all of a sudden?
 
-(17:56 - 18:24)
+What's going on? What's going on there? Sorry, I'll look at that after voice.
+
+So seriously, can you address the issue if he goes to jail July 1st? He can talk about the coin and he kinda is the face of the coin for now. I don't think that'll be an issue at all.
+
 It sucks because that's, you know, we don't have to pay to be on War Room and marketing gets very expensive, but I think we'll be fine. We'll be good. And literally any influencer we've asked, anybody we've asked, we have not gotten one decline.
 
-(18:25 - 18:35)
 And we've sent them all the information they're very aware of, but everybody loves Steve. And it's an amazing app. I mean, really.
 
-(18:37 - 19:10)
-Arizona is hotter, typically, yeah. I think we're closer to, are we closer to the equator than you guys are? Definitely. So what will we do or how have you addressed that all with the team? I think we'll be fine.
+Arizona is hotter, typically, yeah. I think we're closer to, are we closer to the equator than you guys are? Definitely.
 
-(19:11 - 19:33)
-There's a ton of other marketing plans. We'll be good. Marketing, or War Room anyway, was like our end of marketing once we build up all that volume because that really is the most volume out of everything else.
+So what will we do or how have you addressed that all with the team? I think we'll be fine. There's a ton of other marketing plans.
 
-(19:34 - 19:48)
-I don't know anybody we're working with that has better numbers than Steve does. Hope that makes sense. We're gonna ramp up to that.
+We'll be good. Marketing, or War Room anyway, was like our end of marketing once we build up all that volume because that really is the most volume out of everything else. I don't know anybody we're working with that has better numbers than Steve does.
 
-(19:48 - 20:16)
-I'm sure it'll be fine. And the only worry with that, and thankfully we do have the funds, the only worry with that is really doing too much marketing at once that the app breaks. And then you paid for marketing and you have people, again, like we've mentioned before, clicking on this app, oh, it doesn't work.
+Hope that makes sense. We're gonna ramp up to that. I'm sure it'll be fine.
 
-(20:17 - 20:26)
-I'm gonna forget about it. I'm not gonna check that again. Maybe till next time I see it, but why would I do that? I'm not gonna sit there, and most people are not.
+And the only worry with that, and thankfully we do have the funds, the only worry with that is really doing too much marketing at once that the app breaks. And then you paid for marketing and you have people, again, like we've mentioned before, clicking on this app, oh, it doesn't work. I'm gonna forget about it.
 
-(20:27 - 21:00)
-So that's really more of a top priority is making sure everything works the way it's supposed to. We're not leaving a bad taste in people's mouths. Any idea when they will have a direct buy for PPY without swapping Matic? Yeah, so that, we're in talks with several exchanges, that just takes a long while.
+I'm not gonna check that again. Maybe till next time I see it, but why would I do that? I'm not gonna sit there, and most people are not.
 
-(21:06 - 21:26)
-We're talking around six months is the estimates we've gotten. The more crazy it gets, the more people will want to find alternative currency options. Oh yeah, 100% for sure.
+So that's really more of a top priority is making sure everything works the way it's supposed to. We're not leaving a bad taste in people's mouths. Any idea when they will have a direct buy for PPY without swapping Matic?
 
-(21:34 - 22:00)
-Can we get the minimum BTC transfers, lowers a bit in ES? That's on the list of bugs. You know what he said, all for his glory. Don't pray for him.
+Yeah, so that, we're in talks with several exchanges, that just takes a long while. We're talking around six months is the estimates we've gotten. The more crazy it gets, the more people will want to find alternative currency options.
 
-(22:03 - 22:23)
-Have you been in touch with Thin Man? Oh, I actually haven't talked to him in a few weeks, but usually, yes, just been so busy with everything else. And last we talked, he was vacationing somewhere fancy. He's such a good kid, I love him.
+Oh yeah, 100% for sure. Can we get the minimum BTC transfers, lowers a bit in ES? That's on the list of bugs.
 
-(22:58 - 23:35)
-This has probably been addressed, but isn't the buy tax a bit high? Will you adjust it for soft marketing? Yes, this has been addressed for years. No, we're not gonna adjust it for the time being because, and you'd probably agree if you saw what everything costs. So until we get enough volume to support us to continue marketing and to continue, as we gain volume, we're gonna need more dev work.
+You know what he said, all for his glory. Don't pray for him. Have you been in touch with Thin Man?
 
-(23:36 - 23:59)
-We're gonna need more of everything. Until we have enough volume to sustain that, that's when we'll start working on that. But do remember, I know it's still 8%, but keep in mind that the percentage, like the breakdown now is different than it used to be.
+Oh, I actually haven't talked to him in a few weeks, but usually, yes, just been so busy with everything else. And last we talked, he was vacationing somewhere fancy. He's such a good kid, I love him.
 
-(24:00 - 24:25)
-We do have, I mean, that 1% alone that goes to the LP, the other 1% that goes to both building community and charities, which so far we've put that, really given that all back to the community. And there's quite a good chunk in there too. And then operations, which is where the marketing funds amongst other will come from.
+This has probably been addressed, but isn't the buy tax a bit high? Will you adjust it for soft marketing? Yes, this has been addressed for years.
 
-(24:26 - 25:12)
-Now the marketplace, so once we get coffee, dog treats, et cetera, in the marketplace, that will not be an 8%, so it will cost you less to get on, to spend your money, excuse me, to spend your, let's see, like texts. So it'll cost you less to spend your PPY on items, goods and services versus selling it. And I know that's not a huge difference, but again, as we, I mean, it actually is a huge difference if you add it up, but that'll slowly move.
+No, we're not gonna adjust it for the time being because, and you'd probably agree if you saw what everything costs. So until we get enough volume to support us to continue marketing and to continue, as we gain volume, we're gonna need more dev work. We're gonna need more of everything.
 
-(25:13 - 25:45)
-So now when you go into marketplace, that'll be a 6% instead of the 8%. So yeah, I think it's a good start. I actually like this.
+Until we have enough volume to sustain that, that's when we'll start working on that. But do remember, I know it's still 8%, but keep in mind that the percentage, like the breakdown now is different than it used to be. We do have, I mean, that 1% alone that goes to the LP, the other 1% that goes to both building community and charities, which so far we've put that, really given that all back to the community.
 
-(25:54 - 26:06)
-Bannon goes to prison. It's a huge exposure. Oh, oh, did you guys see this? Show you something.
+And there's quite a good chunk in there too. And then operations, which is where the marketing funds amongst other will come from. Now the marketplace, so once we get coffee, dog treats, et cetera, in the marketplace, that will not be an 8%, so it will cost you less to get on, to spend your money, excuse me, to spend your, let's see, like texts.
 
-(26:13 - 26:30)
+So it'll cost you less to spend your PPY on items, goods and services versus selling it. And I know that's not a huge difference, but again, as we, I mean, it actually is a huge difference if you add it up, but that'll slowly move. So now when you go into marketplace, that'll be a 6% instead of the 8%.
+
+So yeah, I think it's a good start. I actually like this. Bannon goes to prison.
+
+It's a huge exposure. Oh, oh, did you guys see this? Show you something.
+
 So sure, some of you will know who this is. I'll share the link in both Discord and Telegram, but read that. That sounds like us.
 
-(26:34 - 26:45)
 I think we fit that bill. You all have an X account. Probably wouldn't hurt to go ahead and give us a mention there.
 
-(26:45 - 27:05)
 Maybe we'll get his attention. I mean, that's a pretty knowledgeable crypto dude. One of the OGs, if you're not too familiar with him.
 
-(27:05 - 28:19)
-And that's what he's saying. To me, it sounds like we fit that bill. How do we get my pillow accepting PPY? We'll get there.
+And that's what he's saying. To me, it sounds like we fit that bill. How do we get my pillow accepting PPY?
 
-(28:24 - 28:34)
-Excuse me. Okay. I think I need actually new my pillows.
+We'll get there. Excuse me. Okay.
 
-(28:34 - 29:02)
-I just feel like they haven't been this fluffy, but maybe I just need to throw them in the dryer or something and just fluff it like a regular pillow. I don't think I've ever done that. Or maybe it's been like years, but then when I say years, then it's probably time for new pillows.
+I think I need actually new my pillows. I just feel like they haven't been this fluffy, but maybe I just need to throw them in the dryer or something and just fluff it like a regular pillow. I don't think I've ever done that.
 
-(29:20 - 29:27)
-Oh, I didn't see that. Well, merchants offer discounts for PPY holders. That's a goal.
+Or maybe it's been like years, but then when I say years, then it's probably time for new pillows. Oh, I didn't see that. Well, merchants offer discounts for PPY holders.
 
-(29:28 - 30:06)
-And we'll have, so with Patriot Perks, we'll be adding discounts on there on the app. So we'll run, whoops, is that still connected? So we'll run discounts on the app that, you know, Friday discount from this time to this time. And you'll get a little push notification for whether it's PPY or marketplace items.
+That's a goal. And we'll have, so with Patriot Perks, we'll be adding discounts on there on the app. So we'll run, whoops, is that still connected?
 
-(30:07 - 30:47)
-It's been super exciting. It's really cool seeing that come to life. Do you know for a fact if Donald has heard of PPY yet? I'm not sure, but as soon as we have our donations page ready, I'm gonna start like spamming him.
+So we'll run discounts on the app that, you know, Friday discount from this time to this time. And you'll get a little push notification for whether it's PPY or marketplace items. It's been super exciting.
 
-(30:51 - 31:04)
+It's really cool seeing that come to life. Do you know for a fact if Donald has heard of PPY yet? I'm not sure, but as soon as we have our donations page ready, I'm gonna start like spamming him.
+
 Then, then Universal Fund can really call me a stalker. Then I'll accept the title. And you guys are welcome to too.
 
-(31:05 - 31:22)
-If we all email him, just like all day. They have to eventually get one of the emails, right? No, as soon as donations are ready. We'll get Steve and Boris on the app to test that.
+If we all email him, just like all day. They have to eventually get one of the emails, right? No, as soon as donations are ready.
 
-(31:23 - 31:49)
-And then I go there as far as the donations go. I will let you guys know as soon as he does know about us. Donald Jr. has, he looked right at my comment the other day.
+We'll get Steve and Boris on the app to test that. And then I go there as far as the donations go. I will let you guys know as soon as he does know about us.
 
-(31:50 - 32:10)
-Oh, was that during the, I think I saw. Was it like a live, was that the one he posted the video of? Okay, yeah, InstaLive, that's what I was thinking. You kids, I don't know what they're all called.
+Donald Jr. has, he looked right at my comment the other day. Oh, was that during the, I think I saw. Was it like a live, was that the one he posted the video of?
 
-(32:10 - 32:16)
-I wanted to say livestream. I thought donations were ready. Donations are ready.
+Okay, yeah, InstaLive, that's what I was thinking. You kids, I don't know what they're all called. I wanted to say livestream.
 
-(32:17 - 32:27)
-Just waiting for the designer. I feel like something is like missing design-wise. I can share it with you guys.
+I thought donations were ready. Donations are ready. Just waiting for the designer.
 
-(32:31 - 32:52)
-Let's see. Take a screenshot. No, I'll wait until it's ready.
+I feel like something is like missing design-wise. I can share it with you guys. Let's see.
 
-(33:00 - 33:30)
-When is testing officially done in Contest? Today. So we'll just go through basically the number of transactions and then I'll put those in Google and then just go down the list in order. I need to figure out how to get our logos into, here, let me add that to the list.
+Take a screenshot. No, I'll wait until it's ready. When is testing officially done in Contest?
 
-(33:30 - 34:22)
+Today. So we'll just go through basically the number of transactions and then I'll put those in Google and then just go down the list in order. I need to figure out how to get our logos into, here, let me add that to the list.
+
 I love that kind of stuff. Is that really, sometimes little things like that actually make a big difference. You're not doing it, wow.
 
-(34:42 - 34:59)
 I was talking about the Contest. Testing is done for now though because we have all the known issues. So as soon as the dev pushes that update through, I'll have you all test again.
 
-(35:00 - 36:14)
-And then we'll see what other bugs we can find, hopefully not too many. New Contest, yeah, let's do, since we don't have testing, we'll do a Buy Contest. Do you guys want one winner or you wanna divide it up between a few different winners? One and done or nothing.
+And then we'll see what other bugs we can find, hopefully not too many. New Contest, yeah, let's do, since we don't have testing, we'll do a Buy Contest. Do you guys want one winner or you wanna divide it up between a few different winners?
 
-(36:15 - 36:48)
-Okay, let's do, let's do 47,000 PPY. Or here, let's make it easy. So every 50,000, we'll keep it simple.
+One and done or nothing. Okay, let's do, let's do 47,000 PPY. Or here, let's make it easy.
 
-(36:48 - 37:16)
-We'll do 50K, what is that, let's do 100K then. That's not bad, 30 something dollars. We'll do that with a 500K prize.
+So every 50,000, we'll keep it simple. We'll do 50K, what is that, let's do 100K then. That's not bad, 30 something dollars.
 
-(37:17 - 38:59)
-Sound good? Okay, oh my goodness, I'm not sure. Who is that MAGO Crypto FJB? Are you asking because it was you? Now I gotta go see what else. Okay, I think that's everything.
+We'll do that with a 500K prize. Sound good? Okay, oh my goodness, I'm not sure.
 
-(39:03 - 39:25)
-Oh my gosh, if you do that, then send it to Boris. Boris loves that name. Oh, that's a nice post.
+Who is that MAGO Crypto FJB? Are you asking because it was you? Now I gotta go see what else.
 
-(39:40 - 40:22)
-I'll do that. Okay, well that's everything I have. Looks like the dev just got back on, so I actually am gonna get my, let's see, oh, don't know why it was 10, I think it was two.
+Okay, I think that's everything. Oh my gosh, if you do that, then send it to Boris. Boris loves that name.
 
-(40:43 - 40:55)
-Okay, I think that's everything. So let me know if you guys need anything else. Again, please be very careful with scammers as they get more and more creative.
+Oh, that's a nice post. I'll do that. Okay, well that's everything I have.
 
-(40:56 - 41:12)
-Again, I will never call you, just be very careful of that. Devs will never call you, nobody from the team will ever call you. If anything, I'm gonna ask you to call me for working on solving some issues for you.
+Looks like the dev just got back on, so I actually am gonna get my, let's see, oh, don't know why it was 10, I think it was two. Okay, I think that's everything. So let me know if you guys need anything else.
 
-(41:13 - 41:28)
-And again, don't share your seed phrase, even with me. Don't trust anybody with that. Again, because I can transfer your funds out and then say it wasn't me and then you couldn't prove it was me and then your funds are gone forever.
+Again, please be very careful with scammers as they get more and more creative. Again, I will never call you, just be very careful of that. Devs will never call you, nobody from the team will ever call you.
 
-(41:29 - 41:41)
-I definitely don't want that happening, especially after this long, long wait. If you all need anything else, let me know. Let's have the contest run until Sunday night.
+If anything, I'm gonna ask you to call me for working on solving some issues for you. And again, don't share your seed phrase, even with me. Don't trust anybody with that.
 
-(41:41 - 41:51)
-I think that's good. Again, every 100k buy counts as an entry. We'll do one winner of 500.
+Again, because I can transfer your funds out and then say it wasn't me and then you couldn't prove it was me and then your funds are gone forever. I definitely don't want that happening, especially after this long, long wait. If you all need anything else, let me know.
 
-(41:52 - 42:00)
-Back in the day, that was worth like 500 bucks. It's not bad. Let me know if you guys need anything else.
+Let's have the contest run until Sunday night. I think that's good. Again, every 100k buy counts as an entry.
 
-(42:00 - 42:12)
-In the meantime, give me a few minutes because I have some stuff to take care of and then I'll get these calls up, the recordings up. Let me see, actually. Oh, okay.
+We'll do one winner of 500. Back in the day, that was worth like 500 bucks. It's not bad.
 
-(42:12 - 42:20)
-Freaked out a little bit. I thought I forgot to press record. Okay, I'll see you guys in the chat in just a bit.
+Let me know if you guys need anything else. In the meantime, give me a few minutes because I have some stuff to take care of and then I'll get these calls up, the recordings up. Let me see, actually.
 
-(42:20 - 42:21)
-Thank you much.
+Oh, okay. Freaked out a little bit. I thought I forgot to press record.
+
+Okay, I'll see you guys in the chat in just a bit. Thank you much.

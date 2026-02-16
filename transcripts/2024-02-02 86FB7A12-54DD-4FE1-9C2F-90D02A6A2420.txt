@@ -1,229 +1,232 @@
-(0:11 - 1:08)
-Can you go into more detail about the app overhaul? Yes, some major, major changes that we are paying a very pretty penny for. All changes, again, kind of like the fork was when I couldn't announce that it was a fork yet. All changes that you all have been asking for. 
+[Speaker 1]
+Can you go into more detail about the app overhaul? Yes, some major, major changes that we are paying a very pretty penny for. All changes, again, kind of like the fork was when I couldn't announce that it was a fork yet.
 
-So, you know, nothing, nothing that you all haven't complained about. And I think it will be awesome and very necessary. This is, yeah, something that the team has discussed this week. 
+All changes that you all have been asking for. So, you know, nothing, nothing that you all haven't complained about. And I think it will be awesome and very necessary.
 
-Once we're live, I'll be able to share more. Once trading is enabled on the contract, I'll be able to share all the details with that. But yeah, it'll be exciting.
+This is, yeah, something that the team has discussed this week. Once we're live, I'll be able to share more. Once trading is enabled on the contract, I'll be able to share all the details with that.
 
-(1:09 - 2:19)
-And well, the details of why it's necessary, I guess. But yeah, super exciting. And this will definitely help us grow the community. 
+But yeah, it'll be exciting. And well, the details of why it's necessary, I guess. But yeah, super exciting.
 
-Just make it easier for all of you using the app. But again, nothing that you all haven't asked for. Is the team burning coins the same day as the airdrop? No, because we're actually, so there's a few wallets that we're changing at. 
+And this will definitely help us grow the community. Just make it easier for all of you using the app. But again, nothing that you all haven't asked for.
 
-So like Steve and Boris, we are changing their wallets. They're getting new wallets. So there's a few very important people. 
+Is the team burning coins the same day as the airdrop? No, because we're actually, so there's a few wallets that we're changing at. So like Steve and Boris, we are changing their wallets.
 
-Yeah, we need to do that first. We need to send out all of the coins first, and then we'll burn. And also make sure that the airdrop goes as smoothly as we expect, because the burn will give us a chance to fix any mishaps if we need to.
+They're getting new wallets. So there's a few very important people. Yeah, we need to do that first.
 
-(2:23 - 3:34)
-But yeah, as soon as everybody has their coins and everybody's all good, then we'll be burning. Time estimate for complete app overhaul. So we are, right now we are majorly waiting on Vess, the Vess, our Vess developers. 
+We need to send out all of the coins first, and then we'll burn. And also make sure that the airdrop goes as smoothly as we expect, because the burn will give us a chance to fix any mishaps if we need to. But yeah, as soon as everybody has their coins and everybody's all good, then we'll be burning.
 
-And they are actually, they're going through like just personal, they're just, they're relocating. So it's been a crazy week for them, but we are just waiting on them to wrap up something in our app once that, as soon as that's complete, and Vess is generally very, very quick, then the app, everything that we need for the app has been completed as far as our dev work on it. That was completed now, it's been a few weeks now actually, not last week I think, the week before.
+Time estimate for complete app overhaul. So we are, right now we are majorly waiting on Vess, the Vess, our Vess developers. And they are actually, they're going through like just personal, they're just, they're relocating.
 
-(3:35 - 4:15)
-So, and the dot, we already have all the documents, the attorneys reviewed all the documents with any partners. We're just waiting to have the date set so that we can get that date and that contract and sign it. That doesn't narrow it down. 
+So it's been a crazy week for them, but we are just waiting on them to wrap up something in our app once that, as soon as that's complete, and Vess is generally very, very quick, then the app, everything that we need for the app has been completed as far as our dev work on it. That was completed now, it's been a few weeks now actually, not last week I think, the week before. So, and the dot, we already have all the documents, the attorneys reviewed all the documents with any partners.
 
-I've complained about everything. Well then. Gives us, it gives us a lot of things to improve.
+We're just waiting to have the date set so that we can get that date and that contract and sign it. That doesn't narrow it down. I've complained about everything.
 
-(4:16 - 9:35)
-Knock me off page one and I won't be happy. WPPY, okay, so will this be a thing on the roadmap and are they going to consider other swap pools? Yes, that's just, it's a little bit limited right now, but we are adding, we're adding more partners, integrations as we grow. But I think, I think you'll be pretty happy. 
+Well then. Gives us, it gives us a lot of things to improve. Knock me off page one and I won't be happy.
 
-Will we be able to buy Unlimited right after Airdrop or do we still need to wait for the app testing? Neither. So, you won't be able to buy right after Airdrop, but you also don't need to wait for the app testing. So, as soon as we Airdrop, both ChangeNow and Transac are ready to flip the switch. 
+WPPY, okay, so will this be a thing on the roadmap and are they going to consider other swap pools? Yes, that's just, it's a little bit limited right now, but we are adding, we're adding more partners, integrations as we grow. But I think, I think you'll be pretty happy.
 
-So, we'll let them know that 24-hour notice, I told you all, may, which I don't think you'll mind, may need to be shorter just because with Transac and ChangeNow, they generally need to have their main dev on that has, you know, all the master keys to do that. So, kind of, like, for example, when we were waiting for them to disable trading before we took the snapshot and removed LP, we had to, we were up pretty late, we had to wait a little bit for their main dev to get on to do that. So, the 24-hour notice may be shorter and it is, we are going into the weekend, but basically we'll Airdrop, let them know to turn, enable trading, and then as soon as they do, we'll enable trading. 
+Will we be able to buy Unlimited right after Airdrop or do we still need to wait for the app testing? Neither. So, you won't be able to buy right after Airdrop, but you also don't need to wait for the app testing.
 
-Hopefully that makes sense. That way that gives you all kind of an equal chance, at least that's what the plan is too. As you all know, sometimes we go through some unexpected stuff. 
+So, as soon as we Airdrop, both ChangeNow and Transac are ready to flip the switch. So, we'll let them know that 24-hour notice, I told you all, may, which I don't think you'll mind, may need to be shorter just because with Transac and ChangeNow, they generally need to have their main dev on that has, you know, all the master keys to do that. So, kind of, like, for example, when we were waiting for them to disable trading before we took the snapshot and removed LP, we had to, we were up pretty late, we had to wait a little bit for their main dev to get on to do that.
 
-So, if for some reason ChangeNow and Transac aren't able to do that within the weekend, we will still enable trading and you can, if you already have funds in your Trust Wallet, Minimast, you can still buy, just not through Transac or ChangeNow. But I'll keep you updated. Can you go into any more details about the App Store logos getting changed over? So, that's just the app update. 
+So, the 24-hour notice may be shorter and it is, we are going into the weekend, but basically we'll Airdrop, let them know to turn, enable trading, and then as soon as they do, we'll enable trading. Hopefully that makes sense. That way that gives you all kind of an equal chance, at least that's what the plan is too.
 
-That's something internal that we are dealing with, that one of our devs is dealing with. Sorry if I wasn't paying attention, but will anyone be able to use the app while it's being overhauled? I wouldn't. I don't know that, I mean, there's really not much you could do on the app right now, but we're not, so everything the devs, like what the dev was working on a few weeks ago, nothing has been pushed through. 
+As you all know, sometimes we go through some unexpected stuff. So, if for some reason ChangeNow and Transac aren't able to do that within the weekend, we will still enable trading and you can, if you already have funds in your Trust Wallet, Minimast, you can still buy, just not through Transac or ChangeNow. But I'll keep you updated.
 
-So, I would just do that at your own risk. I just don't want you all getting into a mess. But remember that you can, if you have your seed freeze for your app, you can just plug that into Trust Wallet or MetaMask, I guess not MetaMask. 
+Can you go into any more details about the App Store logos getting changed over? So, that's just the app update. That's something internal that we are dealing with, that one of our devs is dealing with.
 
-You can plug, well, yeah, you can. So, you can plug in, if you have an Expert Wallet in your FJB Wallet, or Patreon Pay now, you can get your seed freeze from there, go into Trust Wallet and enter your key, set it up as an existing wallet, and enter your keys, and still be able to do everything, not everything, but you know, you'd still be able to do what you want. And that way, once the app is ready, if you all want to have it in one place. 
+Sorry if I wasn't paying attention, but will anyone be able to use the app while it's being overhauled? I wouldn't. I don't know that, I mean, there's really not much you could do on the app right now, but we're not, so everything the devs, like what the dev was working on a few weeks ago, nothing has been pushed through.
 
-But DM me if you need my help. Just don't go trying to do stuff on your own, because that's how you guys are getting into messes. And then, you know, don't be afraid to ask. 
+So, I would just do that at your own risk. I just don't want you all getting into a mess. But remember that you can, if you have your seed freeze for your app, you can just plug that into Trust Wallet or MetaMask, I guess not MetaMask.
 
-Will the video book be released this weekend? Yeah, I think we'll release that right before trading is enabled. Have a ton of stuff, so what we'll do is probably release it throughout the week after trading is enabled. Not bombard you guys all at once, although I'm not sure you'd mind.
+You can plug, well, yeah, you can. So, you can plug in, if you have an Expert Wallet in your FJB Wallet, or Patreon Pay now, you can get your seed freeze from there, go into Trust Wallet and enter your key, set it up as an existing wallet, and enter your keys, and still be able to do everything, not everything, but you know, you'd still be able to do what you want. And that way, once the app is ready, if you all want to have it in one place.
 
-(9:40 - 13:34)
-So change now is close. Change now is done. Everybody's done. 
+But DM me if you need my help. Just don't go trying to do stuff on your own, because that's how you guys are getting into messes. And then, you know, don't be afraid to ask.
 
-They're just waiting on the green light. Nothing in there. Just a few minutes. 
+Will the video book be released this weekend? Yeah, I think we'll release that right before trading is enabled. Have a ton of stuff, so what we'll do is probably release it throughout the week after trading is enabled.
 
-Oh yeah, I heard you passed away. That was sad. Oh, I'm getting my daily call from Linda. 
+Not bombard you guys all at once, although I'm not sure you'd mind. So change now is close. Change now is done.
 
-Linda S. One of these days, I have to catch your call and chat with you. All right. Since we won't do War Room before app, since we won't do War Room before app, what other marketing is planned in the short term? Any other, I think, major marketing would have to wait till our app name is changed in the app store, for sure. 
+Everybody's done. They're just waiting on the green light. Nothing in there.
 
-Can you tell us if your drop is today, Saturday, or Sunday? It'll be this week. If everything goes as planned, it is scheduled for this week. I feel like I have to preface that with everything because it feels like we just have some curves. 
+Just a few minutes. Oh yeah, I heard you passed away. That was sad.
 
-But yeah, everything is nice. That's a huge relief for everything to be coming together. What else? Does this week end on Saturday or Sunday? I should have clarified that because I feel like, I don't know, the week in my head ends on Sunday, but I kept that in mind when I did make the overview. 
+Oh, I'm getting my daily call from Linda. Linda S. One of these days, I have to catch your call and chat with you.
 
-I know you guys would hold that on a Saturday. For this purpose, I would say Saturday. But generally, I think from now on, when I say this week, I will mean Sunday. 
+[Speaker 2]
+All right.
 
-Even though, again, it doesn't really mean much here because most of our partners and stuff are off on the weekends anyway. But I don't know. In my head, I feel like Sunday is the end of the week. 
+[Speaker 1]
+Since we won't do War Room before app, since we won't do War Room before app, what other marketing is planned in the short term? Any other, I think, major marketing would have to wait till our app name is changed in the app store, for sure. Can you tell us if your drop is today, Saturday, or Sunday?
 
-It's weird. It's the start of the week. Having my azebia with heavy cream. 
+It'll be this week. If everything goes as planned, it is scheduled for this week. I feel like I have to preface that with everything because it feels like we just have some curves.
 
-Let's get back into ketosis. I blame it on Patriot Paper. I'm eating, like, organic Cheetos for dinner.
+But yeah, everything is nice. That's a huge relief for everything to be coming together. What else?
 
-(13:35 - 14:02)
-I'm just losing count. Those don't run on Christian calendars. Week does start until we return.
+Does this week end on Saturday or Sunday? I should have clarified that because I feel like, I don't know, the week in my head ends on Sunday, but I kept that in mind when I did make the overview. I know you guys would hold that on a Saturday.
 
-(14:03 - 16:56)
-Oh, it doesn't start, I'm assuming. Yeah, but I don't know. Sunday's usually quiet. 
+For this purpose, I would say Saturday. But generally, I think from now on, when I say this week, I will mean Sunday. Even though, again, it doesn't really mean much here because most of our partners and stuff are off on the weekends anyway.
 
-I spend most of the day, like, volunteering. Usually, we'll go grab something to eat. That's the one day that I won't cook. 
+But I don't know. In my head, I feel like Sunday is the end of the week. It's weird.
 
-Well, Saturday, I don't really cook either, but Saturday is usually, like, leftover day. But yes, end of week for this purpose will be a Saturday. Discord. 
+It's the start of the week. Having my azebia with heavy cream. Let's get back into ketosis.
 
-I feel like we need to get our candles out in Discord. Oh, candle emoji. Oh yeah, Spite. 
+I blame it on Patriot Paper. I'm eating, like, organic Cheetos for dinner. I'm just losing count.
 
-Spite came back. Haven't seen him for a while. I forgot to add him as a mob in my PatriotPay Discord. 
+Those don't run on Christian calendars. Week does start until we return. Oh, it doesn't start, I'm assuming.
 
-It was nice to see him again. Nice to see a lot of you that we haven't seen in a while. How long does the airdrop process take to complete? A few minutes when we've tested it, and we'll test it again right before the live one. 
+Yeah, but I don't know. Sunday's usually quiet. I spend most of the day, like, volunteering.
 
-A few minutes. We use an automatic software that does it. Super simple. 
+Usually, we'll go grab something to eat. That's the one day that I won't cook. Well, Saturday, I don't really cook either, but Saturday is usually, like, leftover day.
 
-Pay a ton of money, and it does it in a few minutes. It's pretty worth it, though, I'd say, for how many airdrops we need. What do you recommend cleaning car windows? Oh, how dirty is the car? If it doesn't have any stickers on it, then Dawn. 
+But yes, end of week for this purpose will be a Saturday. Discord. I feel like we need to get our candles out in Discord.
 
-Blue Dawn is really pretty. Blue Dawn with vinegar. But then there's this stuff called Rain-X that I highly recommend, and I use that when I used to have a glass shower. 
+Oh, candle emoji. Oh yeah, Spite. Spite came back.
 
-I use it on there, too. If you guys put it on your glass shower, you'll thank me forever. But you have to clean your windows first, or if you get a brand new one.
+Haven't seen him for a while. I forgot to add him as a mob in my PatriotPay Discord. It was nice to see him again.
 
-(16:58 - 17:45)
-And it's amazing. Bobby says Rain-X works great. Oh, in the snow. 
+Nice to see a lot of you that we haven't seen in a while. How long does the airdrop process take to complete? A few minutes when we've tested it, and we'll test it again right before the live one.
 
-What does it do in the snow? Oh. I like it over here, because I just hate having uh, drops. Using byweights is really going over the calendar.
+A few minutes. We use an automatic software that does it. Super simple.
 
-(17:49 - 18:35)
-If you have someone do a hydrophobic coating, and they did it on the inside of- oh, my. Oh, no. What is it doing on the inside? Does it leave, like, a film, I wonder? It repels the snow. 
+Pay a ton of money, and it does it in a few minutes. It's pretty worth it, though, I'd say, for how many airdrops we need. What do you recommend cleaning car windows?
 
-Wow, that's pretty cool. I'm in snow probably a few times a year when we go up to pintop, which this year, actually, I haven't gone, so I haven't noticed it with the snow. I'll have to notice that next time.
+Oh, how dirty is the car? If it doesn't have any stickers on it, then Dawn. Blue Dawn is really pretty.
 
-(18:38 - 21:02)
-If you breathe at all, it's immediately fogged up. Oh, gosh. Um, I wonder if you're gonna need hmm, I would test a small area, because it depends probably on what, uh, especially if you have, like, a film on your windows, a tint. 
+Blue Dawn with vinegar. But then there's this stuff called Rain-X that I highly recommend, and I use that when I used to have a glass shower. I use it on there, too.
 
-I would test a small area, but I wonder, like, usually if I needed to get something off, alcohol or acetone really depends on what it was. But then you got to be careful not to get it on anything else either, especially if it has acetone. Oh, yeah, guys, be careful with with extensions, um, with downloading apps, extensions, anything like that, and if it asks you to enter your seed phrase, it's probably a scam. 
+If you guys put it on your glass shower, you'll thank me forever. But you have to clean your windows first, or if you get a brand new one. And it's amazing.
 
-If you do get scammed, there is really nothing we can do on our end, and I'm really sorry about that. I wish we could, but it would just kind of open a big old can of worms for us, because, you know, verifying it's your wallet, and then it just, it just, uh, it's just a lot of liability for us to do that if it ends up being somebody else's wallet. Like, I know you wouldn't do that, but, you know, like, it's the internet. 
+Bobby says Rain-X works great. Oh, in the snow. What does it do in the snow?
 
-We don't know you guys in real life, um, so it just puts a lot of liability on us, unfortunately, uh, and why we can't do that. So please be careful. Uh, if you're ever in doubt, please ask. 
+Oh. I like it over here, because I just hate having uh, drops. Using byweights is really going over the calendar.
 
-Take a screenshot, ask. There's always, almost always, somebody online in our chats, and most everybody is very, very, very helpful, so you're not going to look stupid if you ask. I, I'd even, I mean, I'd rather look stupid than lose my mind, so, but, yeah, I was always a student in class to ask questions.
+If you have someone do a hydrophobic coating, and they did it on the inside of- oh, my. Oh, no. What is it doing on the inside?
 
-(21:04 - 22:06)
-I'd never be afraid of looking dumb. I'd rather have the highest grade in the class. Yeah, sorry, I feel like I don't have a lot to share, but I am very excited. 
+Does it leave, like, a film, I wonder? It repels the snow. Wow, that's pretty cool.
 
-Um, yeah, and I, gosh, I'm so relieved. Such a good feeling, and of course, um, you know, we'll probably have some bumps in the road pop up, but that's to be expected. We'll get through it. 
+I'm in snow probably a few times a year when we go up to pintop, which this year, actually, I haven't gone, so I haven't noticed it with the snow. I'll have to notice that next time. If you breathe at all, it's immediately fogged up.
 
-Uh, just relieved we are finally getting there. Oh, Nolan says I'm a treasure. Wow, I don't think he's a robot anymore.
+Oh, gosh. Um, I wonder if you're gonna need hmm, I would test a small area, because it depends probably on what, uh, especially if you have, like, a film on your windows, a tint. I would test a small area, but I wonder, like, usually if I needed to get something off, alcohol or acetone really depends on what it was.
 
-(22:08 - 23:57)
-I've actually noticed, like, the, uh, I don't know, the changes in Nolan, but I don't know if that's because, like, we're getting to know him, or if he's changed as a person. Either way, I'm a huge fan of the changes. Um, EPA. 
+But then you got to be careful not to get it on anything else either, especially if it has acetone. Oh, yeah, guys, be careful with with extensions, um, with downloading apps, extensions, anything like that, and if it asks you to enter your seed phrase, it's probably a scam. If you do get scammed, there is really nothing we can do on our end, and I'm really sorry about that.
 
-Farkas says the answer is always no. Is there more smart contract work to come, more than token contract? Um, we have, we have a lot of plans. Um, uh, yeah, yeah, maybe. 
+I wish we could, but it would just kind of open a big old can of worms for us, because, you know, verifying it's your wallet, and then it just, it just, uh, it's just a lot of liability for us to do that if it ends up being somebody else's wallet. Like, I know you wouldn't do that, but, you know, like, it's the internet. We don't know you guys in real life, um, so it just puts a lot of liability on us, unfortunately, uh, and why we can't do that.
 
-Um, for the contract, we do have some very, well, it's not immediate, like, it's nothing that needs to be done, but, uh, nice-to-haves, uh, that are happening soon. We are having the dev focus on the app to get that wrapped up, because we know we want, we need that for War Room. Excuse me. 
+So please be careful. Uh, if you're ever in doubt, please ask. Take a screenshot, ask.
 
-Um, but yeah, I am, I'm very excited for having an upgradeable contract. Uh, it's also been very helpful to, uh, have that in conjunction with our app. Um, been really awesome, and we're hoping that it helps, uh, make everything smart wallet related a lot easier, too. 
+There's always, almost always, somebody online in our chats, and most everybody is very, very, very helpful, so you're not going to look stupid if you ask. I, I'd even, I mean, I'd rather look stupid than lose my mind, so, but, yeah, I was always a student in class to ask questions. I'd never be afraid of looking dumb.
+
+I'd rather have the highest grade in the class. Yeah, sorry, I feel like I don't have a lot to share, but I am very excited. Um, yeah, and I, gosh, I'm so relieved.
+
+Such a good feeling, and of course, um, you know, we'll probably have some bumps in the road pop up, but that's to be expected. We'll get through it. Uh, just relieved we are finally getting there.
+
+Oh, Nolan says I'm a treasure. Wow, I don't think he's a robot anymore. I've actually noticed, like, the, uh, I don't know, the changes in Nolan, but I don't know if that's because, like, we're getting to know him, or if he's changed as a person.
+
+Either way, I'm a huge fan of the changes. Um, EPA. Farkas says the answer is always no.
+
+Is there more smart contract work to come, more than token contract? Um, we have, we have a lot of plans. Um, uh, yeah, yeah, maybe.
+
+Um, for the contract, we do have some very, well, it's not immediate, like, it's nothing that needs to be done, but, uh, nice-to-haves, uh, that are happening soon. We are having the dev focus on the app to get that wrapped up, because we know we want, we need that for War Room. Excuse me.
+
+Um, but yeah, I am, I'm very excited for having an upgradeable contract. Uh, it's also been very helpful to, uh, have that in conjunction with our app. Um, been really awesome, and we're hoping that it helps, uh, make everything smart wallet related a lot easier, too.
 
 It's pretty fascinating. It's pretty cool. Still don't understand how any of you devs are not, like, deeply blind, though.
 
-(24:10 - 24:24)
 I do have a meeting tonight, actually. Well, we didn't set a time, so I just let them know I had this. So, right after this, um, it should also be pretty exciting.
 
-(24:28 - 25:07)
-Nolan JL Young says, uh, you can pay to have your windows cleaned after lunch. There are some things I would really just rather do myself. I don't know. 
+Nolan JL Young says, uh, you can pay to have your windows cleaned after lunch. There are some things I would really just rather do myself. I don't know.
 
-I'm that person, um, just because I feel like nobody does it better than I do. What else? I think that's everything. Uh, super excited are our stickers, our bumper stickers.
+I'm that person, um, just because I feel like nobody does it better than I do. What else? I think that's everything.
 
-(25:08 - 27:23)
-You guys will get those. We'll mail those out to you, uh, during launch. Oh, for, so for those, uh, at first, so we actually had a, one of our community members, uh, owns a print shop, so we ordered through them to support them, and, uh, we were going, we first put the, we already put them on our Shopify store, but actually ended up taking them off, because even though we're giving you guys a discount code to, so you can just get them for free, Shopify ends up charging us that percentage, um, so then we're paying to give you guys free stickers. 
+Uh, super excited are our stickers, our bumper stickers. You guys will get those. We'll mail those out to you, uh, during launch.
 
-Uh, so then, we change that, but it'll be, it'll be the same, I mean, we see the same information, you know, when you guys order from Shopify, we still see all the information that you would enter if you ordered straight from us, um, so you'll order it from a different link, not from Shopify, just so we don't have to pay a percentage to send you free stickers, but I am excited about these. They're, uh, really cool. Bobby Wong's, oh yeah, that's gonna be the next ones, actually. 
+Oh, for, so for those, uh, at first, so we actually had a, one of our community members, uh, owns a print shop, so we ordered through them to support them, and, uh, we were going, we first put the, we already put them on our Shopify store, but actually ended up taking them off, because even though we're giving you guys a discount code to, so you can just get them for free, Shopify ends up charging us that percentage, um, so then we're paying to give you guys free stickers.
 
-I want the next ones to be, I don't know, size-wise, I am thinking more like square, circle, where these are, you know, your typical bumper sticker, uh, as like a vinyl window sticker. Just figured we'd start with these. Eric says, anything new? Uh, airdrop by the end of the week. 
+Uh, so then, we change that, but it'll be, it'll be the same, I mean, we see the same information, you know, when you guys order from Shopify, we still see all the information that you would enter if you ordered straight from us, um, so you'll order it from a different link, not from Shopify, just so we don't have to pay a percentage to send you free stickers, but I am excited about these. They're, uh, really cool. Bobby Wong's, oh yeah, that's gonna be the next ones, actually.
 
-I know we're at the tail end, but girlfriend at the time really wanted me to do it, otherwise I would have just done what I had previously. I don't think I've seen that. I want to know what car Nolan drives.
+I want the next ones to be, I don't know, size-wise, I am thinking more like square, circle, where these are, you know, your typical bumper sticker, uh, as like a vinyl window sticker. Just figured we'd start with these. Eric says, anything new?
 
-(27:23 - 30:13)
-I feel like he wouldn't be a truck guy. Hmm, I don't think I've heard of that. Matt Madico? No, Donnie, we do not have an airdrop time yet. 
+Uh, airdrop by the end of the week. I know we're at the tail end, but girlfriend at the time really wanted me to do it, otherwise I would have just done what I had previously. I don't think I've seen that.
 
-It'll still be by end, scheduled by end of week. Cleaning vinegar, stripping it off, no problem, nice. When I clean with vinegar, it's that smell that gets me, which I'm fine when I'm doing it, but to leave and come back. 
+I want to know what car Nolan drives. I feel like he wouldn't be a truck guy. Hmm, I don't think I've heard of that.
 
-Oh, I think that's everything. Oh, yeah. Oh, yeah. 
+Matt Madico? No, Donnie, we do not have an airdrop time yet. It'll still be by end, scheduled by end of week.
 
-I will also, um, I also have a last surgery. If any of you have dealt with nerve issues or Bell's palsy, um, I will have a surgery coming up, so that'll be, you know, a few, few days. But, um, probably will not be around much, or, or it's the opposite, or I'm probably just gonna be online a ton, because what else am I gonna do? Um, but, um, I am trying to get that scheduled. 
+Cleaning vinegar, stripping it off, no problem, nice. When I clean with vinegar, it's that smell that gets me, which I'm fine when I'm doing it, but to leave and come back. Oh, I think that's everything.
 
-I previously was waiting on this since the summer, actually, but I will try to get it scheduled, uh, definitely before war room. So, just have to get my visa approved. I got it approved in December, but we were going through everything, and, you know, we were supposed to launch then, and so I didn't use it. 
+Oh, yeah. Oh, yeah. I will also, um, I also have a last surgery.
 
-Now I have to reapply. So, just, uh, just an FYI, forewarning on that, but I am trying to schedule it ASAP. Whoa, voice here and not on Discord? No, I'm in Discord too.
+If any of you have dealt with nerve issues or Bell's palsy, um, I will have a surgery coming up, so that'll be, you know, a few, few days. But, um, probably will not be around much, or, or it's the opposite, or I'm probably just gonna be online a ton, because what else am I gonna do? Um, but, um, I am trying to get that scheduled.
 
-(30:33 - 30:56)
-Marketing strategy if Bannon, oh, sorry, I was reading that. Marketing strategy if Bannon goes to work for Trump, app overhaul, is that done? Uh, so, our marketing strategy will not change. I think that'll, I think that'll be even better.
+I previously was waiting on this since the summer, actually, but I will try to get it scheduled, uh, definitely before war room. So, just have to get my visa approved. I got it approved in December, but we were going through everything, and, you know, we were supposed to launch then, and so I didn't use it.
 
-(30:58 - 32:26)
-But I don't, I don't think that's something we have to worry about. And the app overhaul, is that done? Uh, so everything, yes, uh, it's complete. Uh, we are just waiting for the smart wallet, the PPY integration with the, whenever PPY was integrated, there's a few things that just didn't transfer over correctly or were already not working as they should. 
+Now I have to reapply. So, just, uh, just an FYI, forewarning on that, but I am trying to schedule it ASAP. Whoa, voice here and not on Discord?
 
-Um, as soon as that's done, the, uh, all the new app features are already complete. We just need to sign the contract, and the only reason we already have the contract, uh, attorney's already reviewed it, we just have to get a date in the contract before it's signed, and we're good. And pay, we gotta pay. 
+No, I'm in Discord too. Marketing strategy if Bannon, oh, sorry, I was reading that. Marketing strategy if Bannon goes to work for Trump, app overhaul, is that done?
 
-Four hours, wait, four hours remaining for what? One, it's six o'clock my time, but is the end of the weekend today? Or is the end of the week today? It's like, it's not like it's in the Middle East, it's like Fridays are, uh, weekend. They only have one weekend day over there. I could still live, like, a much more relaxed life, though.
+Uh, so, our marketing strategy will not change. I think that'll, I think that'll be even better. But I don't, I don't think that's something we have to worry about.
 
-(32:29 - 33:23)
-Win Jackbox. Actually, that's on my to-do list, Donna. If you'd like, you can ask Ed to help set it up in Discord. 
+And the app overhaul, is that done? Uh, so everything, yes, uh, it's complete. Uh, we are just waiting for the smart wallet, the PPY integration with the, whenever PPY was integrated, there's a few things that just didn't transfer over correctly or were already not working as they should.
 
-We're useful for something. I'm with Bold Hickory. See, Winston likes Spraynext, too. 
+Um, as soon as that's done, the, uh, all the new app features are already complete. We just need to sign the contract, and the only reason we already have the contract, uh, attorney's already reviewed it, we just have to get a date in the contract before it's signed, and we're good. And pay, we gotta pay.
+
+Four hours, wait, four hours remaining for what? One, it's six o'clock my time, but is the end of the weekend today? Or is the end of the week today?
+
+It's like, it's not like it's in the Middle East, it's like Fridays are, uh, weekend. They only have one weekend day over there. I could still live, like, a much more relaxed life, though.
+
+Win Jackbox. Actually, that's on my to-do list, Donna. If you'd like, you can ask Ed to help set it up in Discord.
+
+We're useful for something. I'm with Bold Hickory. See, Winston likes Spraynext, too.
 
 Definitely, if you guys don't use it on your glass showers, you should. Although, I'm done with glass showers. I'm done with that, uh, this phase of my life.
 
-(33:24 - 34:00)
-I don't need, maybe if I get, like, uh, maybe if I'm rich, then I can do that, you know? I feel like if you're, like, OCD, you can't, there's certain things that you're like, nope, that's not for me. Because otherwise, you clean it, and right away, it looks awful. That other person missed out? What other person? Um, KV says in four hours, it'll be 24 hours before the end of the week, Eastern Christian Calendar.
+I don't need, maybe if I get, like, uh, maybe if I'm rich, then I can do that, you know? I feel like if you're, like, OCD, you can't, there's certain things that you're like, nope, that's not for me. Because otherwise, you clean it, and right away, it looks awful.
 
-(34:04 - 35:28)
-I told you, it might be less than 24. Or, you know, there's a lot of components, and I think that's a good thing, because that just means we are growing. But there's a ton of components, so we can either wait on, you know, if ChangeNow and Transact are both driving, both have the main dev around, and they can flip on the switch, then great. 
+That other person missed out? What other person? Um, KV says in four hours, it'll be 24 hours before the end of the week, Eastern Christian Calendar.
 
-If not, then we might just enable trading, and then, you know, you guys find out when they click on that switch, and you know, it's fine. You can trade without Transact and ChangeNow. But we'll see how it goes. 
+I told you, it might be less than 24. Or, you know, there's a lot of components, and I think that's a good thing, because that just means we are growing. But there's a ton of components, so we can either wait on, you know, if ChangeNow and Transact are both driving, both have the main dev around, and they can flip on the switch, then great.
 
-Yeah, I think that's everything. I'm very excited about my meeting tonight. I've been waiting on that for a while, which will also be really, really great for us. 
+If not, then we might just enable trading, and then, you know, you guys find out when they click on that switch, and you know, it's fine. You can trade without Transact and ChangeNow. But we'll see how it goes.
+
+Yeah, I think that's everything. I'm very excited about my meeting tonight. I've been waiting on that for a while, which will also be really, really great for us.
 
 Um, yeah. I'm okay with a five-minute wait. I think the d-money said the same thing.
 
-(35:30 - 37:52)
-I missed the mention. You saved my name for something. I said you were useful for the Discord bots. 
+I missed the mention. You saved my name for something. I said you were useful for the Discord bots.
 
-But yeah, that's all I got. Please, again, with that one holder getting scammed today, please just be very wary of that. I'm sorry, I wish we could do more, but you know, I'll tell you guys over and over and over. 
+But yeah, that's all I got. Please, again, with that one holder getting scammed today, please just be very wary of that. I'm sorry, I wish we could do more, but you know, I'll tell you guys over and over and over.
 
-If you're ever in doubt, just check in the chats, take a screenshot, and check. Okay? Better to be safe than sorry, and don't lose your coins, and end up paying double tax, and all that. But I think that's everything I got. 
+If you're ever in doubt, just check in the chats, take a screenshot, and check. Okay? Better to be safe than sorry, and don't lose your coins, and end up paying double tax, and all that.
 
-I am very excited, and I think it'll be a great week again. I'm sure we'll have some, you know, little bit of bumps in the road, but that's a part of it. We'll get through it. 
+But I think that's everything I got. I am very excited, and I think it'll be a great week again. I'm sure we'll have some, you know, little bit of bumps in the road, but that's a part of it.
 
-And then let me know if you guys need anything in the meantime. Oh, thank you, Zenny. Oh yeah, where is Ross? It's Friday night. 
+We'll get through it. And then let me know if you guys need anything in the meantime. Oh, thank you, Zenny.
 
-I haven't seen him. That's weird. Yeah, listen to Pierre. 
+Oh yeah, where is Ross? It's Friday night. I haven't seen him.
 
-Use lots of wallets. Make sure you keep track of all the seeds, though. Don't mix them all up, and don't use your big balance wallets for DeFi. 
+That's weird. Yeah, listen to Pierre. Use lots of wallets.
 
-Stay safe. Donnie's complaining that he's banned from Discord. Yeah, you have your own site.
+Make sure you keep track of all the seeds, though. Don't mix them all up, and don't use your big balance wallets for DeFi. Stay safe.
 
-(37:52 - 39:55)
-You're good there. You're like our biggest number one fan. Ross is with Jan. 
+Donnie's complaining that he's banned from Discord. Yeah, you have your own site. You're good there.
 
-With Jan? Matt says Ross is going through Friday night DeFi with Jaws. That's actually probably accurate. Not complaining, just saying you want help. 
+You're like our biggest number one fan. Ross is with Jan. With Jan?
 
-I'm banned. Yeah. Thank you, Donnie. 
+Matt says Ross is going through Friday night DeFi with Jaws. That's actually probably accurate. Not complaining, just saying you want help.
 
-We appreciate it. A round of applause for our biggest fan. Unfortunate. 
+I'm banned. Yeah. Thank you, Donnie.
 
-Very unfortunate. All right, I think that's everything. I'm gonna eat dinner really quick. 
+We appreciate it. A round of applause for our biggest fan. Unfortunate.
 
-I don't know. I've been really into making like a spinach artichoke dip and adding a ton of meat in there. Strange, I know. 
+Very unfortunate. All right, I think that's everything. I'm gonna eat dinner really quick.
 
-Can't have that for dinner, and then get back to all these numbers. But if you need anything, let me know in the meantime, and I'm sure we'll talk soon. We'll probably have a voice chat tomorrow. 
+I don't know. I've been really into making like a spinach artichoke dip and adding a ton of meat in there. Strange, I know.
+
+Can't have that for dinner, and then get back to all these numbers. But if you need anything, let me know in the meantime, and I'm sure we'll talk soon. We'll probably have a voice chat tomorrow.
 
 It'll likely be after I'm done at church, so I don't know. We'll know. Seeing how tonight goes, I'm estimating around noon my time, maybe like a midday, but I'll be sure to record either way.
 
-(39:57 - 40:10)
 But again, we'll see depending. You guys know how everything goes, so I'll keep you updated. If you need anything else in the meantime, let me or one of the mods know.
 
-(40:12 - 40:19)
 I think that's it. I'm ready for a good week weekend. Talk to you guys later.

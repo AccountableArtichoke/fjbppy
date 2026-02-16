@@ -1,256 +1,246 @@
-(0:06 - 0:13)
+[Speaker 1]
 Hello, happy Friday. I got the recorder going. Hope everybody had a wonderful week.
 
-(0:13 - 1:05)
-It's been a great week in Patriot Pay land. The smart wallet is functioning. I'm sure you all that follow the blockchain may have already seen that. 
+It's been a great week in Patriot Pay land. The smart wallet is functioning. I'm sure you all that follow the blockchain may have already seen that.
 
-I'm very excited about it. Our dev now is just working on the gas estimation to make sure that you all are not being charged double tax or, you know, any more tax than you should be. Or, excuse me, gas. 
+I'm very excited about it. Our dev now is just working on the gas estimation to make sure that you all are not being charged double tax or, you know, any more tax than you should be. Or, excuse me, gas.
 
 So gas and tax. So, huge news. I think it got fixed, was it Wednesday night, I believe.
 
-(1:06 - 1:21)
 So, super excited about that. Huge news again. We are just making some modifications to make sure that gas and tax are both charged correctly to all of you.
 
-(1:23 - 2:09)
-I don't know if that's my neighbor's car or what. It's raining here and it never, almost never rains here. So cars start beeping everywhere. 
+I don't know if that's my neighbor's car or what. It's raining here and it never, almost never rains here. So cars start beeping everywhere.
 
-It seems awfully close. Okay, it looks like it was my neighbor's. All right, sorry about that. 
+It seems awfully close. Okay, it looks like it was my neighbor's. All right, sorry about that.
 
 I'm not sure if you guys could hear that. It was super loud to me. Anyway, so that's been the highlight of my week.
 
-(2:10 - 2:28)
 Probably the highlight of Patriot Pay's week. Other than that, everything is going great. Yeah, that's just my big update for you all.
 
-(2:31 - 3:25)
-I don't ever receive any DMs. The highlight is that Smart Wallet is fixed. So if you're not following the blockchain and didn't see that, Wednesday night. 
+I don't ever receive any DMs. The highlight is that Smart Wallet is fixed. So if you're not following the blockchain and didn't see that, Wednesday night. The Smart Wallet is functioning as it should, but gas and taxes are a little bit higher for a few situations.
 
-The Smart Wallet is functioning as it should, but gas and taxes are a little bit higher for a few situations. So we are just having the dev log certain things and change certain things around so everybody can get charged the correct tax, correct gas, no double tax. And yeah, that's what I got there.
+So we are just having the dev log certain things and change certain things around so everybody can get charged the correct tax, correct gas, no double tax. And yeah, that's what I got there. That's pretty much it.
 
-(3:31 - 4:19)
-That's pretty much it. Everything else moving as it should. Let's go in here. 
+Everything else moving as it should. Let's go in here. No, do not, it's not been deployed.
 
-No, do not, it's not been deployed. So if you try to use your app, you still will run into the same errors that you did before. We've not deployed it, still testing it. 
+So if you try to use your app, you still will run into the same errors that you did before. We've not deployed it, still testing it. We will deploy it as soon as the gas and taxes are correct.
 
-We will deploy it as soon as the gas and taxes are correct. That way, I don't have to hear you guys complain about being double taxed. Not you, Russ.
+That way, I don't have to hear you guys complain about being double taxed. Not you, Russ. I don't think you would.
 
-(4:19 - 7:53)
-I don't think you would. Is there an estimate on the time the dev will take? I can't. I would be lying if I had a time frame for you just because it's a lot of just logging and playing around with stuff, adjusting. 
+Is there an estimate on the time the dev will take? I can't. I would be lying if I had a time frame for you just because it's a lot of just logging and playing around with stuff, adjusting.
 
-There's a few different things for him to adjust, also possibly adjusting the smart contract for that tax issue, but I will keep you guys updated. Very awesome. Nope, no word yet from CMC Trust Wallet. 
+There's a few different things for him to adjust, also possibly adjusting the smart contract for that tax issue, but I will keep you guys updated. Very awesome. Nope, no word yet from CMC Trust Wallet.
 
-I personally am really feeling at this point that it is a volume issue because of everything that Trust Wallet has said and everything that CMC has said. I think with our volume, that puts us in front of a lot of other people, especially with a lot of altcoins coming up, but that's just my opinion. I say that because they are very responsive when I do write them, but they're always like, thank you for your patience, and I just imagine somebody there checking our volume and being like, nope, you're waiting some more. 
+I personally am really feeling at this point that it is a volume issue because of everything that Trust Wallet has said and everything that CMC has said. I think with our volume, that puts us in front of a lot of other people, especially with a lot of altcoins coming up, but that's just my opinion. I say that because they are very responsive when I do write them, but they're always like, thank you for your patience, and I just imagine somebody there checking our volume and being like, nope, you're waiting some more.
 
-But again, that is completely just my opinion and from, again, some things they've both, CMC and Trust Wallet, have said. Pressure the dev, especially with unreasonable timelines, very likely abuse. Hey, he did. 
+But again, that is completely just my opinion and from, again, some things they've both, CMC and Trust Wallet, have said. Pressure the dev, especially with unreasonable timelines, very likely abuse. Hey, he did.
 
-Oh, actually, that reminds me of somebody was telling me that the coins they sent the dev were taxed, so I'll go ahead and I'll check those out, and then I'll take care of that difference for you guys. Okay, yes, there is more than one dev. Now that Smart Wallet is fixed. 
+Oh, actually, that reminds me of somebody was telling me that the coins they sent the dev were taxed, so I'll go ahead and I'll check those out, and then I'll take care of that difference for you guys. Okay, yes, there is more than one dev. Now that Smart Wallet is fixed.
 
-No, you cannot, the fixes have not been deployed, so if we try to move your coins, they will not be moved right now because we won't deploy the changes until we have the gas and tax correct, because right now if you tried to, if we did deploy it with the double tax and you guys got, then if you got double taxed, then you're going to be not happy about that. Yes, as soon as, so the question is when it's deployed, they can get their coins out? Yes, so as soon as it's deployed, which is once the dev is done solving that double tax issue, then we will deploy it and ask you all to get your coins out of there. On the other channels here, I will DM you back as soon as voice is over.
+No, you cannot, the fixes have not been deployed, so if we try to move your coins, they will not be moved right now because we won't deploy the changes until we have the gas and tax correct, because right now if you tried to, if we did deploy it with the double tax and you guys got, then if you got double taxed, then you're going to be not happy about that. Yes, as soon as, so the question is when it's deployed, they can get their coins out? Yes, so as soon as it's deployed, which is once the dev is done solving that double tax issue, then we will deploy it and ask you all to get your coins out of there.
 
-(7:53 - 10:08)
-Uh, so I'm, I'm in the app of the toggle on the bottom. If it's on the left, yes, if it's on the left, then it's an expert wallet. Correct, right side should be a Smart Wallet. 
+On the other channels here, I will DM you back as soon as voice is over. Uh, so I'm, I'm in the app of the toggle on the bottom. If it's on the left, yes, if it's on the left, then it's an expert wallet.
 
-I've had several of you ask that, so maybe the way it is is confusing. When I click to smart side, my coins don't show. Um, so we've not sent coins, we didn't airdrop and we airdropped, we didn't airdrop to all the Smart Wallets, um, just in case anything were to happen to the Smart Wallets, we didn't want to airdrop your coins and then not have you make different wallets and airdrop them again, if that makes sense. 
+Correct, right side should be a Smart Wallet. I've had several of you ask that, so maybe the way it is is confusing. When I click to smart side, my coins don't show.
 
-In case that, in case we had to redo the Smart Wallet, we didn't want to airdrop your coins and then you have not have access to them and have to airdrop your coins again. Um, so if you don't have coins in your Smart Wallet, that does not mean that you don't have coins. Um, it's best to check, go on PolygonScan, put your wallet address there and, uh, your balance, but we, we have a record of that too. 
+Um, so we've not sent coins, we didn't airdrop and we airdropped, we didn't airdrop to all the Smart Wallets, um, just in case anything were to happen to the Smart Wallets, we didn't want to airdrop your coins and then not have you make different wallets and airdrop them again, if that makes sense. In case that, in case we had to redo the Smart Wallet, we didn't want to airdrop your coins and then you have not have access to them and have to airdrop your coins again. Um, so if you don't have coins in your Smart Wallet, that does not mean that you don't have coins.
 
-So once Smart Wallet is working, we will airdrop to all your Smart Wallets that we didn't airdrop to, which is actually just a few wallets. Um, and then you'll be able to see those coins in your Smart Wallet. If you see your coins on the left, that means you have your coins in your Expert Wallet. 
+Um, it's best to check, go on PolygonScan, put your wallet address there and, uh, your balance, but we, we have a record of that too. So once Smart Wallet is working, we will airdrop to all your Smart Wallets that we didn't airdrop to, which is actually just a few wallets. Um, and then you'll be able to see those coins in your Smart Wallet.
 
-If you have an Expert Wallet, you actually don't need to transfer them out of there if you don't want to. Um, but you can also, if you have an Expert Wallet, you can also access your coins from Trust Wallet, um, or Metamask or any other, uh, decentralized wallet. Uh, just go to the top of your app wallet, um, click on the settings there, and then go to, I think it says, does it say my keys or my keyphrase? Um, it'll probably have you enter your PIN and then you'll see your seed phrase.
+If you see your coins on the left, that means you have your coins in your Expert Wallet. If you have an Expert Wallet, you actually don't need to transfer them out of there if you don't want to. Um, but you can also, if you have an Expert Wallet, you can also access your coins from Trust Wallet, um, or Metamask or any other, uh, decentralized wallet.
 
-(10:08 - 14:52)
-Enter that seed phrase into any decentralized wallet app, make sure it's a legit one, um, and then you'll be able to see your coins there too. So you can test that just for fun too, if you want. Just make sure that the decentralized wallet that you're getting on is a legit wallet or app because there's some, um, fake ones out there. 
+Uh, just go to the top of your app wallet, um, click on the settings there, and then go to, I think it says, does it say my keys or my keyphrase? Um, it'll probably have you enter your PIN and then you'll see your seed phrase. Enter that seed phrase into any decentralized wallet app, make sure it's a legit one, um, and then you'll be able to see your coins there too.
 
-I think there was like a fake quick swap app, so yeah. Recovery phrase, there it goes. No, you don't need to, oh, I see. 
+So you can test that just for fun too, if you want. Just make sure that the decentralized wallet that you're getting on is a legit wallet or app because there's some, um, fake ones out there. I think there was like a fake quick swap app, so yeah.
 
-So you already have a Trust Wallet, um, so you won't need to set one up. You'll just be importing an existing wallet. When you go into Trust Wallet, it'll ask you if you want to create a new wallet or import an existing one. 
+Recovery phrase, there it goes. No, you don't need to, oh, I see. So you already have a Trust Wallet, um, so you won't need to set one up.
 
-You'll do import existing and then you'll enter all the, uh, the entire seed phrase or recovery phrase from, uh, the app and that way you have access to it somewhere else. That way, when we change the login service for the app and you won't have access to your current account now, you still have access to the funds. I hope that makes sense, especially if you have Expert Wallet because we will not be reimbursing for you to move your Expert Wallet funds. 
+You'll just be importing an existing wallet. When you go into Trust Wallet, it'll ask you if you want to create a new wallet or import an existing one. You'll do import existing and then you'll enter all the, uh, the entire seed phrase or recovery phrase from, uh, the app and that way you have access to it somewhere else.
 
-We won't be, uh, reimbursing tax for that because you don't need to move funds out of there. Just enter the seed phrase into another decentralized wallet. Um, what else? Do you expect deployment in April? Yeah, I think we've been moving again. 
+That way, when we change the login service for the app and you won't have access to your current account now, you still have access to the funds. I hope that makes sense, especially if you have Expert Wallet because we will not be reimbursing for you to move your Expert Wallet funds. We won't be, uh, reimbursing tax for that because you don't need to move funds out of there.
 
-Unfortunately, I think change now took a bulk of the several week delay. If it weren't for that, in my mind, we'd still be in March. Um, but yeah, for sure. 
+Just enter the seed phrase into another decentralized wallet. Um, what else? Do you expect deployment in April?
 
-We're still, uh, moving forward with the Smart Wallet. Uh, there's nothing we need to depend on another party for right now. It's everything on our end, which is nice. 
+Yeah, I think we've been moving again. Unfortunately, I think change now took a bulk of the several week delay. If it weren't for that, in my mind, we'd still be in March.
 
-Is there an estimate time for the full burn to come? The full burn will be completed on the day that, uh, BNB, uh, make their new wallets. Is it only going to be a Smart Wallet after this? No. You will still have your choice of Expert or Smart Wallet. 
+Um, but yeah, for sure. We're still, uh, moving forward with the Smart Wallet. Uh, there's nothing we need to depend on another party for right now.
 
-Um, but since we are changing the wallet and account creation service, um, right now that service doesn't have an option for you to import a wallet that you already have. So you have to make a new wallet. Uh, they do plan to have that option by the end of the year. 
+It's everything on our end, which is nice. Is there an estimate time for the full burn to come? The full burn will be completed on the day that, uh, BNB, uh, make their new wallets.
 
-Um, but we don't really want to wait for that to get our app going. So for the time being, what we'll do is we'll ask you to move your funds out of Smart Wallet, phase out our current login, wallet creation service, um, and you make a new account on the new service once we deploy that. Why is there two wallets, Expert and Smart? So Expert Wallet is going to act like a traditional decentralized wallet and you have to have Gasp, um, to move your funds.
+Is it only going to be a Smart Wallet after this? No. You will still have your choice of Expert or Smart Wallet.
 
-(14:53 - 17:51)
-So just like in Trust Wallet or MetaMask, um, you, so you'd have to have Matic in there. Um, or if you're moving, uh, USDT on Ethereum, you have to have Ethereum in there, um, where Smart Wallet makes it easier for first time crypto users and people who don't want to deal with all of that. So you don't have to have any Gasp and users don't have to understand the Gasp concept or just to not deal with a headache. 
+Um, but since we are changing the wallet and account creation service, um, right now that service doesn't have an option for you to import a wallet that you already have. So you have to make a new wallet. Uh, they do plan to have that option by the end of the year.
 
-It just makes it a lot easier. You can do it all in one transaction. If you want to, um, move certain funds, it'll, uh, do the Gasp behind the scenes for you. 
+Um, but we don't really want to wait for that to get our app going. So for the time being, what we'll do is we'll ask you to move your funds out of Smart Wallet, phase out our current login, wallet creation service, um, and you make a new account on the new service once we deploy that. Why is there two wallets, Expert and Smart?
 
-Essentially what you're doing is, um, the Smart Contract is paying it, or the Smart Wallet, um, is paying it for you. And then you're paying it back, but it does it all behind the scenes. So you don't have to do, imagine your grandma doing it. 
+So Expert Wallet is going to act like a traditional decentralized wallet and you have to have Gasp, um, to move your funds. So just like in Trust Wallet or MetaMask, um, you, so you'd have to have Matic in there. Um, or if you're moving, uh, USDT on Ethereum, you have to have Ethereum in there, um, where Smart Wallet makes it easier for first time crypto users and people who don't want to deal with all of that.
 
-She doesn't have to deal with, um, all of that. And I know if you, several of you had issues with that, especially when you decide to get yourself in a little bit of a pickle and, uh, transfer your funds accidentally or transfer in USDT and then can't move it because you don't have Ethereum and you can't buy Ethereum because you don't, it snowballs pretty quickly, I think. If you're an expert wallet, make sure you save your recovery freeze because we will be removing your current wallet from the app, your current access to the wallet. 
+So you don't have to have any Gasp and users don't have to understand the Gasp concept or just to not deal with a headache. It just makes it a lot easier. You can do it all in one transaction.
 
-So make sure you write down your seed phrase so that you can go into any other decentralized wallet and use your seed phrase to access your funds. If you don't do that, and then we remove your ability to log into that wallet from the app, then you don't have your seed phrase saved, then you're going to be SOL. So I hope that makes sense, but let me know if it doesn't. 
+If you want to, um, move certain funds, it'll, uh, do the Gasp behind the scenes for you. Essentially what you're doing is, um, the Smart Contract is paying it, or the Smart Wallet, um, is paying it for you. And then you're paying it back, but it does it all behind the scenes.
 
-You definitely just, either way, you should have your, uh, seed phrase written down. Either way. But for your expert wallet, you don't need to transfer anything because transferring is going to cost you tax, um, especially when you're, you can just access your funds through another decentralized wallet.
+So you don't have to do, imagine your grandma doing it. She doesn't have to deal with, um, all of that. And I know if you, several of you had issues with that, especially when you decide to get yourself in a little bit of a pickle and, uh, transfer your funds accidentally or transfer in USDT and then can't move it because you don't have Ethereum and you can't buy Ethereum because you don't, it snowballs pretty quickly, I think.
 
-(17:56 - 18:30)
-When will OnRamp be available in-app? Do you guys just like asking me the same questions every few days? Um, OnRamp will be deployed after the wallet creation and login service. We're going to have you guys test that out first, work out any bugs there after we have all that nice and done. Then we will deploy the OnRamping service and then we'll have you guys all test that.
+If you're an expert wallet, make sure you save your recovery freeze because we will be removing your current wallet from the app, your current access to the wallet. So make sure you write down your seed phrase so that you can go into any other decentralized wallet and use your seed phrase to access your funds. If you don't do that, and then we remove your ability to log into that wallet from the app, then you don't have your seed phrase saved, then you're going to be SOL.
 
-(18:32 - 20:14)
-And then we'll work out those bugs. Hopefully it goes pretty smoothly. Um, like I said, it's already been built out. 
+So I hope that makes sense, but let me know if it doesn't. You definitely just, either way, you should have your, uh, seed phrase written down. Either way.
 
-We've tested it. Obviously we only have a few people back here testing, so it's a lot different when a few hundred of you, uh, test it, especially at a time. And you guys, I feel like you guys know how to find the bugs. 
+But for your expert wallet, you don't need to transfer anything because transferring is going to cost you tax, um, especially when you're, you can just access your funds through another decentralized wallet. When will OnRamp be available in-app? Do you guys just like asking me the same questions every few days?
 
-I don't know. So that'll, that'll help us. It's super helpful too. 
+Um, OnRamp will be deployed after the wallet creation and login service. We're going to have you guys test that out first, work out any bugs there after we have all that nice and done. Then we will deploy the OnRamping service and then we'll have you guys all test that.
 
-And that way we also get to see, um, like for us, it's, it's kind of easy to test it when we've pretty much set it up. Um, versus when you guys do it, it's a lot easier for us because the questions you'll ask and the issues you'll run into will help us change things around to make it easy. Weg has bugs. 
+And then we'll work out those bugs. Hopefully it goes pretty smoothly. Um, like I said, it's already been built out.
 
-Oh, probably. Probably has a lot more than that. I don't think I've seen him for a while. 
+We've tested it. Obviously we only have a few people back here testing, so it's a lot different when a few hundred of you, uh, test it, especially at a time. And you guys, I feel like you guys know how to find the bugs.
 
-Excuse me. Oh, Wex is in jail. Again. 
+I don't know. So that'll, that'll help us. It's super helpful too.
 
-Remember when you guys were trying to sell, um, t-shirts with Weg's mugshot on there, but it also had FJD on there? And I had to be the bad cop. I had to say, no, sorry. You can't do that.
+And that way we also get to see, um, like for us, it's, it's kind of easy to test it when we've pretty much set it up. Um, versus when you guys do it, it's a lot easier for us because the questions you'll ask and the issues you'll run into will help us change things around to make it easy. Weg has bugs.
 
-(20:20 - 21:24)
-It's just a good guess. No, you're probably right. It's probably good weather where he's at though. 
+Oh, probably. Probably has a lot more than that. I don't think I've seen him for a while.
 
-So he's probably out before it's freezing there again. I feel like that's what's going to happen the next several months when it's 120 here. I'm cooped up in the house and all of you guys are not on your computers because you're out enjoying the nice weather that I don't get to experience. 
+Excuse me. Oh, Wex is in jail. Again.
 
-Uh, any more info on businesses joining up? Oh, I'll keep you updated on that. Our dev will go back, our main dev will go back to working on the, uh, marketplace details. But right now I just want smart wallet working and then while you guys test all that, um, we can continue working out all the details.
+Remember when you guys were trying to sell, um, t-shirts with Weg's mugshot on there, but it also had FJD on there? And I had to be the bad cop. I had to say, no, sorry.
 
-(21:29 - 22:29)
-Will I please launch before the halving? Since the halving I'm like 420. I suspect you guys will probably still be testing then. What is it? The 5th.
+You can't do that. It's just a good guess. No, you're probably right.
 
-(23:22 - 24:34)
-You guys are busy today. Just now catching up on the other channels. I see all your messages on the app support.
+It's probably good weather where he's at though. So he's probably out before it's freezing there again. I feel like that's what's going to happen the next several months when it's 120 here.
 
-(24:41 - 25:33)
-Oh, tax wallet looking pretty fat. When does it lose some weight? Uh, so we'll probably have the dev add, um, the option for us to sell other amounts because right now if we sell the, uh, the coins that are in there it empties out the entire wallet which is unfortunate. Um, so partial selling, yeah, and that way, um, we can also keep some in PPY if we want so that we can pay some people in PPY.
+I'm cooped up in the house and all of you guys are not on your computers because you're out enjoying the nice weather that I don't get to experience. Uh, any more info on businesses joining up? Oh, I'll keep you updated on that.
 
-(25:34 - 26:40)
-Is there any other app like this? I don't know of one. I'll have to ask the, uh, crypto guys that have all the wallets. Definitely don't know any. 
+Our dev will go back, our main dev will go back to working on the, uh, marketplace details. But right now I just want smart wallet working and then while you guys test all that, um, we can continue working out all the details. Will I please launch before the halving?
+
+Since the halving I'm like 420. I suspect you guys will probably still be testing then. What is it?
+
+The 5th. You guys are busy today. Just now catching up on the other channels.
+
+I see all your messages on the app support. Oh, tax wallet looking pretty fat. When does it lose some weight?
+
+Uh, so we'll probably have the dev add, um, the option for us to sell other amounts because right now if we sell the, uh, the coins that are in there it empties out the entire wallet which is unfortunate. Um, so partial selling, yeah, and that way, um, we can also keep some in PPY if we want so that we can pay some people in PPY. Is there any other app like this?
+
+I don't know of one. I'll have to ask the, uh, crypto guys that have all the wallets. Definitely don't know any.
 
 We're definitely not copying anyone. I'll say that similar to a smart contract. Um, it was truly built from scratch so our idea of it being a, uh, patriot economy app and smart wallet and marketplace and everything else we're adding on, um, that's definitely, I know I for sure have not seen anything like it.
 
-(26:47 - 27:10)
 I don't think there's a liberal equivalent to it. Excuse me. Um, last time I spoke to Bannon was probably at CPAC and then Boris was last week.
 
-(27:33 - 31:11)
-Anything else? Any other future marketing ideas you can share with us that may be coming down? Uh, I think you guys will like it. We just gotta start out pretty small because we really don't, um, so Steve's biggest thing is it needs to be right this time. We can't, um, run into, not that it was our fault, um, but we can't run into what we ran into last time where, um, we blasted on war room, have about 1500 signups in the first hour and then we're shut down as people are trying to buy it and then everybody's bombarded with, uh, emails, social media, have everybody that's asking what the hell went on. 
+[Speaker 2]
+Anything else?
 
-Um, so our biggest, uh, our biggest thing is really making sure that we start small and gradual. So as a dev works out any bugs that pop up as we, um, notice any issues that users are running into, um, and thankfully with the way everything's been done, um, with the team, uh, dev advisor, everything's, um, even though it's taken a lot longer to get done, everything's really being done right and the way it should be rather than just getting band-aided, um, so I think, uh, that'll definitely help us in the long run and moving forward. Um, that we're not just going to have, not just going to be replacing like more duct tape with duct tape. 
+[Speaker 1]
+Any other future marketing ideas you can share with us that may be coming down? Uh, I think you guys will like it. We just gotta start out pretty small because we really don't, um, so Steve's biggest thing is it needs to be right this time.
+
+We can't, um, run into, not that it was our fault, um, but we can't run into what we ran into last time where, um, we blasted on war room, have about 1500 signups in the first hour and then we're shut down as people are trying to buy it and then everybody's bombarded with, uh, emails, social media, have everybody that's asking what the hell went on. Um, so our biggest, uh, our biggest thing is really making sure that we start small and gradual. So as a dev works out any bugs that pop up as we, um, notice any issues that users are running into, um, and thankfully with the way everything's been done, um, with the team, uh, dev advisor, everything's, um, even though it's taken a lot longer to get done, everything's really being done right and the way it should be rather than just getting band-aided, um, so I think, uh, that'll definitely help us in the long run and moving forward. Um, that we're not just going to have, not just going to be replacing like more duct tape with duct tape.
 
 Um, I think we've been building a pretty solid foundation that any bugs or issues that pop up will be, should be a lot easier to take care of, um, this time around, but we'll definitely be starting slow and, uh, ramping up from there as we make sure everything is, uh, good to go, pretty solid. We don't want, um, more angry people. We don't want people to have a negative experience with the app.
 
-(31:14 - 32:39)
-Uh, do they want to use the app to help raise funds for Republicans? We'll definitely be adding, um, political donations. The biggest issue with that is just making sure that we have enough, um, basically like pop-ups and things that you guys have to agree with to make sure that, to show that we are doing everything within our power to make sure that you all are only making one donation per candidate, um, and less than $50 to, uh, for it to be anonymous. Um, it's pretty much the biggest thing there because there's so many laws by state and federal and so that's just the biggest issue that we have to make sure that we abide by. 
+Uh, do they want to use the app to help raise funds for Republicans? We'll definitely be adding, um, political donations. The biggest issue with that is just making sure that we have enough, um, basically like pop-ups and things that you guys have to agree with to make sure that, to show that we are doing everything within our power to make sure that you all are only making one donation per candidate, um, and less than $50 to, uh, for it to be anonymous.
 
-Um, so we'll of course do, um, everything we can to make sure that we are doing that correctly and that you guys are following directions there too. Is Boris handling the legal side of PPY? No. Boris doesn't, um, practice like that.
+Um, it's pretty much the biggest thing there because there's so many laws by state and federal and so that's just the biggest issue that we have to make sure that we abide by. Um, so we'll of course do, um, everything we can to make sure that we are doing that correctly and that you guys are following directions there too. Is Boris handling the legal side of PPY?
 
-(32:43 - 33:03)
-Probably couldn't afford Boris as our main lawyer anyway. A good idea of some light marketing before banning? Yes. That's, uh, 100% what we're doing starting with, uh, social media.
+No. Boris doesn't, um, practice like that. Probably couldn't afford Boris as our main lawyer anyway.
 
-(33:06 - 33:54)
-Because, um, we definitely need some stress testing before we do another, uh, 1500 sign-ups an hour. For sure. Let me go back to Telegram. 
+A good idea of some light marketing before banning? Yes. That's, uh, 100% what we're doing starting with, uh, social media.
 
-Um, came in late. Can I get a recap? Smart wallet's working. Uh, not deployed yet, so you won't be able to test it quite yet. 
+Because, um, we definitely need some stress testing before we do another, uh, 1500 sign-ups an hour. For sure. Let me go back to Telegram.
 
-But, um, that's just working on the double tax and, uh, gas issue. So I did say you'd get it working by the end of the week. I am happy about that.
+Um, came in late. Can I get a recap? Smart wallet's working.
 
-(33:55 - 34:16)
-On Ramper, we're volume and ready for all the KYCs and purchases. Yes. Any built-in burns outside the big burn already mentioned and currently going on? Uh, we might do that as promotion, but we decided to go with a percentage to the LP instead.
+Uh, not deployed yet, so you won't be able to test it quite yet. But, um, that's just working on the double tax and, uh, gas issue. So I did say you'd get it working by the end of the week.
 
-(34:18 - 34:48)
-Something more, um, consistent and, uh, definitely better benefits than, um, burning. Um, no, we do not have a, uh, Finmin replacement for the phase of the project when they launch on War Room. Oh, that will be Steve.
+I am happy about that. On Ramper, we're volume and ready for all the KYCs and purchases. Yes.
 
-(34:55 - 35:52)
-How do candidates get donations? Do they apply to be added to the donations part of the app? Yes, they'd have to, um, they agree basically just like the vendors do. Um, set them up with a wallet and an account. We already have our first one, but I don't think that'll be, I don't think that'll be too hard. 
+Any built-in burns outside the big burn already mentioned and currently going on? Uh, we might do that as promotion, but we decided to go with a percentage to the LP instead. Something more, um, consistent and, uh, definitely better benefits than, um, burning.
 
-I don't imagine. Uh, we just have some social media things to take care of. Dan's, Dan's still our man.
+Um, no, we do not have a, uh, Finmin replacement for the phase of the project when they launch on War Room. Oh, that will be Steve. How do candidates get donations?
 
-(35:52 - 37:02)
-Uh, first politician applied for donations? Yeah, it's CPAC. He hasn't filled in an official application, but he agreed. I don't imagine too many not agreeing, maybe unless they have an issue with, like, Steve or Boris, which I doubt. 
+Do they apply to be added to the donations part of the app? Yes, they'd have to, um, they agree basically just like the vendors do. Um, set them up with a wallet and an account.
 
-Who doesn't like those two? Um, and same with the vendors. Any guidance, what kind of businesses can apply for VIP wallets? Uh, we haven't had any businesses that, I think it would have to be, um, I don't want to say controversial, but we haven't ran into any businesses so far that wouldn't fit within our app. Um, the only thing I can think of is if we are still pretty small, um, that we probably don't want to have, like, too many of the same type of vendor.
+We already have our first one, but I don't think that'll be, I don't think that'll be too hard. I don't imagine. Uh, we just have some social media things to take care of.
 
-(37:04 - 37:29)
-Um, does that make sense? You know, if we have 10 vendors, uh, we probably don't want nine, uh, I don't know, nine of them that sell, you know, MAGA t-shirts or something. But I think even competition's good. That's all I can think of, though.
+Dan's, Dan's still our man. Uh, first politician applied for donations? Yeah, it's CPAC.
 
-(37:30 - 41:12)
-I can't imagine what kind of business wouldn't fit into our app, though. Um, has there been any discussion of PPY donations being used to go on offense for lawfare against our corrupt political opponents? Um, so we've not added any charities yet, um, because for now what we'll do is actually take a per set of goal, um, once we meet that goal, donate it to, you know, X, uh, charitable organization. So I think that's definitely an option. 
+He hasn't filled in an official application, but he agreed. I don't imagine too many not agreeing, maybe unless they have an issue with, like, Steve or Boris, which I doubt. Who doesn't like those two?
 
-Um, hopefully that didn't cut out. Um, so I hope that makes sense. But I don't see why that wouldn't be an option. 
+Um, and same with the vendors. Any guidance, what kind of businesses can apply for VIP wallets? Uh, we haven't had any businesses that, I think it would have to be, um, I don't want to say controversial, but we haven't ran into any businesses so far that wouldn't fit within our app.
 
-I think that's a good one. Steve may like that idea. I think so too. 
+Um, the only thing I can think of is if we are still pretty small, um, that we probably don't want to have, like, too many of the same type of vendor. Um, does that make sense? You know, if we have 10 vendors, uh, we probably don't want nine, uh, I don't know, nine of them that sell, you know, MAGA t-shirts or something.
 
-Why not? Half being small, let's take it over all the vendors. Can you give us a seven day rundown? Well, in seven days, I definitely, um, hope to see our smart wallet fixed. Um, like I said, it is fixed. 
+But I think even competition's good. That's all I can think of, though. I can't imagine what kind of business wouldn't fit into our app, though.
 
-If you guys follow the blockchain, you'll see the successful transactions. Um, but there is a double tax somewhere. We definitely don't want you guys paying double tax and we definitely don't want to start marketing with people paying double tax. 
+Um, has there been any discussion of PPY donations being used to go on offense for lawfare against our corrupt political opponents? Um, so we've not added any charities yet, um, because for now what we'll do is actually take a per set of goal, um, once we meet that goal, donate it to, you know, X, uh, charitable organization. So I think that's definitely an option.
 
-Um, so our dev is pulling some logs, uh, to see if that's something he can fix from there or to see if we need to, uh, make a modification to our smart contract that will, um, get the correct tax charged for you all. But we already have several options and we just got to run down the list. I think in my opinion, the hardest part of the fixing the smart wallet has been done and complete and I'm very excited about that. 
+Um, hopefully that didn't cut out. Um, so I hope that makes sense. But I don't see why that wouldn't be an option.
 
-Um, yeah, hopefully, I hope to have you guys, uh, testing it in the next seven days, but I will keep you updated on that. Um, yeah, again, I just don't want to, we could easily, we can easily bandaid it. Um, but that would just, uh, continue causing issues in the long run. 
+I think that's a good one. Steve may like that idea. I think so too.
 
-So doing everything correctly, uh, does take a little bit more time, but, uh, I think it'll definitely help us in the long run. So do appreciate you guys as patients. And I think, uh, I think people will come back around.
+Why not? Half being small, let's take it over all the vendors. Can you give us a seven day rundown?
 
-(41:12 - 41:51)
-I think we've, we've seen that. And then I am very, very excited to start marketing. Um, by the way, do not use our name for anything, please. 
+Well, in seven days, I definitely, um, hope to see our smart wallet fixed. Um, like I said, it is fixed. If you guys follow the blockchain, you'll see the successful transactions.
 
-Uh, especially without permission. Um, we do have the trademark pending and yeah, don't, don't make us get into that mess. Um, so please, please keep that in mind.
+Um, but there is a double tax somewhere. We definitely don't want you guys paying double tax and we definitely don't want to start marketing with people paying double tax. Um, so our dev is pulling some logs, uh, to see if that's something he can fix from there or to see if we need to, uh, make a modification to our smart contract that will, um, get the correct tax charged for you all.
 
-(41:54 - 42:09)
-Yeah. Got, got a few DMs today. Was all the needed work in the hands of one dev? Uh, we've had several devs working on this issue.
+But we already have several options and we just got to run down the list. I think in my opinion, the hardest part of the fixing the smart wallet has been done and complete and I'm very excited about that. Um, yeah, hopefully, I hope to have you guys, uh, testing it in the next seven days, but I will keep you updated on that.
 
-(42:09 - 42:30)
+Um, yeah, again, I just don't want to, we could easily, we can easily bandaid it. Um, but that would just, uh, continue causing issues in the long run. So doing everything correctly, uh, does take a little bit more time, but, uh, I think it'll definitely help us in the long run.
+
+So do appreciate you guys as patients. And I think, uh, I think people will come back around. I think we've, we've seen that.
+
+And then I am very, very excited to start marketing. Um, by the way, do not use our name for anything, please. Uh, especially without permission.
+
+Um, we do have the trademark pending and yeah, don't, don't make us get into that mess. Um, so please, please keep that in mind. Yeah.
+
+Got, got a few DMs today. Was all the needed work in the hands of one dev? Uh, we've had several devs working on this issue.
+
 Uh, the past week it's been mainly the dev, the advisor and yeah, some, and some more help from other, others. In the world of finance, correctness trumps speed. Hey, I see what you did there.
 
-(42:34 - 43:36)
-Yeah. Um, I think, I don't think we'll regret that part. Um, I know, I know from a few years ago, um, things are definitely being done a lot differently. 
+Yeah. Um, I think, I don't think we'll regret that part. Um, I know, I know from a few years ago, um, things are definitely being done a lot differently.
 
-Um, and always thinking more long-term and doing everything the correct way versus, okay, we just need to push this out. Um, and I think it'll pay off. Oh, I feel like I need another coffee. 
+Um, and always thinking more long-term and doing everything the correct way versus, okay, we just need to push this out. Um, and I think it'll pay off. Oh, I feel like I need another coffee.
 
 I do think of Russ almost every time I grab a Starbucks now, which admittingly has been like a lot in the past several weeks because he yells at me when I get my Starbucks. It's like the least woke coffee shop around here though. When you go to other coffee shops, you're like, Oh gosh, Starbucks is mild.
 
-(43:40 - 44:40)
-Excuse me. Uh, I think that's everything I have though. Um, let me know if you guys need anything in the meantime. 
+Excuse me. Uh, I think that's everything I have though. Um, let me know if you guys need anything in the meantime.
 
-I will be here. Yeah. Other than that, definitely don't share. 
+I will be here. Yeah. Other than that, definitely don't share.
 
-Be careful, especially if you're moving those expert wallets, uh, you know, for you to access them from other decentralized wallets. Um, make sure you're entering them into the correct trust wallet, the correct MetaMask. Um, I know there has to be some scammer links and apps out there. 
+Be careful, especially if you're moving those expert wallets, uh, you know, for you to access them from other decentralized wallets. Um, make sure you're entering them into the correct trust wallet, the correct MetaMask. Um, I know there has to be some scammer links and apps out there.
 
 So just, uh, be mindful of that and always just ask in the chat. Usually people are around to let you know that it's a scam and not the real deal. Um, don't share that info with anybody else.
 
-(44:41 - 45:17)
-Don't waste your time, uh, testing the app cause nothing has been deployed. Can't check the blockchain though to see the successful transactions. Um, but yeah, I'm, I'm glad. 
+Don't waste your time, uh, testing the app cause nothing has been deployed. Can't check the blockchain though to see the successful transactions. Um, but yeah, I'm, I'm glad.
 
-Uh, I think that's it. Russ says, tell Rose to kiss our, you know, what's. Poor Rose. 
+Uh, I think that's it. Russ says, tell Rose to kiss our, you know, what's. Poor Rose.
 
 She gets abused. I think Rose did that on purpose and now he's gone for 15 minutes. Oh my gosh.
 
-(45:19 - 46:52)
-Um, Golden Rock says, is there a contest tonight? Sure. We can make contests. What do you guys want to do? Let's see. 
+Um, Golden Rock says, is there a contest tonight? Sure. We can make contests.
 
-Let's look at the price. Okay. So let's do, how about this? A hundred thousand coins. 
+What do you guys want to do? Let's see. Let's look at the price.
 
-Well, what? 37, 38 bucks. Let's say 40. Um, and we can do double that. 
+Okay. So let's do, how about this? A hundred thousand coins.
 
-How about that? So we can do by a hundred thousand for each entry and the prize, uh, the prize we could do double that. It's not good. Okay. 
+Well, what? 37, 38 bucks. Let's say 40.
 
-Let's make the price to 250. I think that's a good one. Cool.
+Um, and we can do double that. How about that? So we can do by a hundred thousand for each entry and the prize, uh, the prize we could do double that.
 
-(46:55 - 47:13)
-I thought you meant by always confuse a hundred K before, after tax. Oh, it doesn't usually account anything around that. So before is fine, I think.
+It's not good. Okay. Let's make the price to 250.
 
-(47:15 - 48:27)
-I think that's fine. Um, you're mean, Ed. All right. 
+I think that's a good one. Cool. I thought you meant by always confuse a hundred K before, after tax.
 
-So yeah, we'll do by a hundred thousand with or without tax anywhere in that area. And, uh, we'll do until midnight Eastern. Maybe we'll make a different one for the weekend. 
+Oh, it doesn't usually account anything around that. So before is fine, I think. I think that's fine.
 
-Um, uh, yeah. And then prize a 250,000 and then I'll still kind of send that actually. All right. 
+Um, you're mean, Ed. All right. So yeah, we'll do by a hundred thousand with or without tax anywhere in that area.
 
-Um, yeah, I think that's everything I got for you guys. Um, again, very, very excited, very grateful, feeling huge relief from the smart wallet being fixed. Um, our dev is amazing.
+And, uh, we'll do until midnight Eastern. Maybe we'll make a different one for the weekend. Um, uh, yeah.
 
-(48:32 - 48:55)
-I'll post our other recording. I'll convert that and post it right now. And then I'll post the contest because I think it stopped raining. 
+And then prize a 250,000 and then I'll still kind of send that actually. All right. Um, yeah, I think that's everything I got for you guys.
 
-So I gotta take the dogs for walks so they don't bug me. It's cold outside though. I don't know how you guys do it in cold states. 
+Um, again, very, very excited, very grateful, feeling huge relief from the smart wallet being fixed. Um, our dev is amazing. I'll post our other recording.
 
-Um, yeah. Let me know if you guys need anything else in the meantime. I will see you in the general chats.
+I'll convert that and post it right now. And then I'll post the contest because I think it stopped raining. So I gotta take the dogs for walks so they don't bug me.
+
+It's cold outside though. I don't know how you guys do it in cold states. Um, yeah.
+
+Let me know if you guys need anything else in the meantime. I will see you in the general chats.
