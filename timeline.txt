@@ -282,6 +282,15 @@ Recipient: [INCOMPLETE]
 Amount: 1,000,000 FJB
 Evidence: BB9BE200-AA8E-46BB-875E-C51B818AE18E The GIVEAWAY is announced in this VOICE UPDATE.
 
+UUID: 4DB9D695-520E-46C1-9228-3ECE6D7DAEAD
+Type: PUBLICATION
+Date: 2021-12-23
+Source: https://www.newsweek.com/steve-bannon-touts-alternative-cryptocurrency-fjb-trump-supporters-f-joe-biden-1662777
+WebArchive: https://web.archive.org/web/20211223214320/https://www.newsweek.com/steve-bannon-touts-alternative-cryptocurrency-fjb-trump-supporters-f-joe-biden-1662777
+LocalArchive: publications/2021-12-23%204DB9D695-520E-46C1-9228-3ECE6D7DAEAD
+Publisher: Newsweek
+Author: Jason Lemon
+
 UUID: 9A7DED94-53ED-46C2-BC8F-1A52DA8BAE0C
 Type: PUBLICATION
 Date: 2021-12-24
@@ -510,6 +519,15 @@ Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-08%20F9CF9862-8BF3-4A1D-86A4-8C64B5871088.txt
 Summary: The speaker announces "Shill Week" starting March 9th, exactly one week before the FJB app launch on March 16th, with community member Donnie organizing a prize pool of 1.65 million FJB tokens for whoever promotes the coin most aggressively across social media platforms. The speaker reflects emotionally on the journey since October, recalling early days when they slept only 55 minutes at a time to monitor Discord and Telegram, and promises to do a pizza-eating challenge before the app launches as a throwback for original community members.
+
+UUID: FD0BE8AD-43E1-46F9-8D4B-D5AD48E13316
+Type: PUBLICATION
+Date: 2022-03-14
+Source: https://kalkinemedia.com/news/cryptocurrency/what-is-freedom-jobs-business-crypto-project-its-native-fjb-coin
+WebArchive: https://web.archive.org/web/20220315161831/https://kalkinemedia.com/news/cryptocurrency/what-is-freedom-jobs-business-crypto-project-its-native-fjb-coin
+LocalArchive: publications/2022-03-14%20FD0BE8AD-43E1-46F9-8D4B-D5AD48E13316
+Publisher: Kalkine Media
+Author: Ankit Sethi
 
 UUID: CDDADCA4-D34D-401C-9E54-5322B1A9103D
 Type: VOICE UPDATE
