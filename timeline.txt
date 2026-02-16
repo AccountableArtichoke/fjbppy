@@ -4,6 +4,23 @@ contact fjbvoicetranscripts@proton.me with to full copy of audio files and/or tr
 `TIMELINE`
 
 ~~~~~~~~~~~~~~
+2021 OCTOBER
+~~~~~~~~~~~~~~
+
+UUID: 91D66566-4CDC-46A7-B226-31920153B0CA
+Type: OWNERSHIP CHANGE
+Date: 2021-10-(15/21/23/25)
+Reference: Reviewing the explicit statements made by Grant Tragni throughout 2022-11 and 2021-11 the likely founding date is mid to late 2021-11 with a preference for 2021-10-23
+Reference: 59D6D3B3-D57E-486F-B725-FA9DE4061FD9 During this VOICE UPDATE on 2021-11-15 the date of broadcast is identified as the 24th day of the project, confirms 2021-10-23
+Reference: 3F8A1B2C-4D5E-6F7A-8B9C-0D1E2F3A4B5C During this VOICE UPDATE on 2021-11-17 the date of broadcast is identified as the 26th day of the project, confirms 2021-10-23
+Reference: 75A5C35C-AEEF-4DA0-B864-1CFA47F2E85D During this VOICE UPDATE on 2021-11-17 the date of broadcast is identified as the 28th day of the project; disputes 2021-10-23, proposes 2021-10-21
+Reference: 14A9AA5F-D596-4D64-93A9-1E72197738FF During this VOICE UPDATE on 2021-11-20 the date of broadcast is identified as the 29th day of the project; confirms 2021-10-23
+Reference: 5496FB92-1925-443A-A936-E04C54452805 During this VOICE UPDATE on 2021-11-21 the date of broadcast is identified as the 30th day of the project; confirms 2021-10-23
+Reference: FAFC7B4E-7D20-46FD-A261-7A42D39B06F0 During this VOICE UPDATE on 2021-11-21 the date of broadcast is identified as the 38th day of the project; disputes 2021-10-23, proposes 2021-10-15
+Reference: EC1C3737-9FFC-4858-A8E5-9628D82677C7 During this VOICE UPDATE on 2021-12-04 the date of broadcast is identified as the 41st day of the project; disputes 2021-10-23, proposes 2021-10-25
+Reference: C5DB218A-3638-4317-83E6-FC27E1961582 During this VOICE UPDATE on 2021-12-17 the date of broadcast is identified as the 56th day of the project; confirms 2021-10-23
+
+~~~~~~~~~~~~~~
 2021 NOVEMBER
 ~~~~~~~~~~~~~~
 
@@ -263,7 +280,7 @@ Date: 2021-12-19
 Sender: Grant Tragni, FJBCoin
 Recipient: [INCOMPLETE]
 Amount: 1,000,000 FJB
-Evidence: BB9BE200-AA8E-46BB-875E-C51B818AE18E
+Evidence: BB9BE200-AA8E-46BB-875E-C51B818AE18E The GIVEAWAY is announced in this VOICE UPDATE.
 
 UUID: 9A7DED94-53ED-46C2-BC8F-1A52DA8BAE0C
 Type: PUBLICATION
@@ -300,7 +317,7 @@ UUID: B716D2A0-1AAE-4465-A112-EFE8E1954168
 Type: OWNERSHIP CHANGE
 Date: 2022-01-06
 Reference: BB9BE200-AA8E-46BB-875E-C51B818AE18E Grant Tragni states that ownership transferred on 2021-12-02
-Reference: 45629FB3-091D-40F3-974E-CFC45AB13FDC Grant Tragni, Stephen Bannon, Boris Epshteyn collectively announce a partnership with FJB Coin
+Reference: 45629FB3-091D-40F3-974E-CFC45AB13FDC Grant Tragni, Stephen Bannon, Boris Epshteyn collectively announce a partnership with FJB Coin on 2022-01-06
 
 UUID: BCC43733-F4C1-4041-A71C-7CF6F9464CE1
 Type: GOAL STATEMENT
@@ -642,6 +659,15 @@ Summary: [INCOMPLETE]
 UUID: 97903B33-0E8B-4D32-AD10-43881F45F13C
 Type: VOICE UPDATE
 Date: 2022-11-18
+Speakers: Sarah Abdul
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: [INCOMPLETE]
+Summary: [INCOMPLETE]
+
+UUID: 9D55B54A-6A63-4B8F-B9E0-958F23998FC0
+Type: VOICE UPDATE
+Date: 2022-11-22
 Speakers: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 

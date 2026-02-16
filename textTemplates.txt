@@ -94,4 +94,10 @@ Type: IMAGE
 Date: [DATE]
 Summary: [TEXT]
 
+UUID: [UUID]
+Type: AUDIO
+Date: [DATE]
+Transcript: [PATH]
+Summary: [TEXT]
+
 ##############
