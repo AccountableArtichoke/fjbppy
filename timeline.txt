@@ -88,7 +88,7 @@ Audio File:
 Transcript: transcripts/2021-11-21-2%20CF69DCDD-26E8-4479-A37D-8D1A97AD74B4.txt
 Summary: The project will sponsor a party at the Turning Point USA conference on December 19th with 1,500-2,000 young conservative attendees, featuring Bryson Gray performing and providing an opportunity for mass QR code scanning and coin adoption. Ryan Fournier confirmed he holds 5,000 coins and plans to buy another 5,000 this week, while also revealing he's a Breitbart contributor and will write an article about the project for the nation's top conservative news site.
 
-UUID: 6DE8B58E-33B9-4686-87F4-0DBDB8DA4063
+UUID: 206DE8B58E-33B9-4686-87F4-0DBDB8DA4063
 Type: VOICE UPDATE
 Date: 2021-11-22
 Speakers: Grant Tragni
@@ -586,12 +586,40 @@ Transcript: transcripts/2022-08-25%2008389890-8D4F-4226-A81A-2383A5A2E85E.txt
 Summary: Eric Finman announced he will be promoting the Freedom Jobs and Business crypto wallet app during his America's Future PAC midterms tour starting in September, which has already received 50,000 RSVPs across three events. The development team is adding major cryptocurrencies including Bitcoin, Dogecoin, Ethereum, and BNB to the wallet platform to create a comprehensive one-stop solution for cryptocurrency transactions that can compete with established platforms like Coinbase.
 
 ~~~~~~~~~~~~~~
+SEPTEMBER
+~~~~~~~~~~~~~~
+
+UUID: FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4
+Type: AUDIO
+Date: 2022-09-27
+Transcript: 
+Summary: Episode of the 'John Solomon Reports' podcast where FJBCoin is mentioned at [INCOMPLETE] timestamp.
+
+~~~~~~~~~~~~~~
 2022 OCTOBER
 ~~~~~~~~~~~~~~
+
+UUID: D317EDDD-4491-4062-BFC3-1A9689A4E884
+Type: VOICE UPDATE
+Date: 2022-10-24
+Speakers: Sarah Abdul
+Platform: Telegram
+Audio File: 
+Transcript: [INCOMPLETE]
+Summary: [INCOMPLETE]
 
 ~~~~~~~~~~~~~~
 2022 NOVEMBER
 ~~~~~~~~~~~~~~
+
+UUID: 45BCAB47-5232-49C0-8BA3-9CCCB0E1EFFF
+Type: VOICE UPDATE
+Date: 2022-11-01
+Speakers: Sarah Abdul
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: [INCOMPLETE]
+Summary: [INCOMPLETE]
 
 UUID: BC024F8E-B7E2-4A90-9288-CB27740DF402
 Type: VOICE UPDATE
@@ -601,6 +629,24 @@ Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-11-06%20BC024F8E-B7E2-4A90-9288-CB27740DF402.txt
 Summary: The speaker emphasizes that building the coin project requires patience and persistent effort rather than expecting overnight success, noting they remain passionate about the project because they share Boris and Steve's vision of it becoming a top 50 cryptocurrency. They mention having a scheduled call about the coin immediately after the Discord voice chat and reference a recent successful rally, expressing excitement about upcoming developments in the week ahead.
+
+UUID: 424116D3-EA3F-4522-8B82-B5C5BE3F5722
+Type: VOICE UPDATE
+Date: 2022-11-10
+Speakers: Sarah Abdul
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: [INCOMPLETE]
+Summary: [INCOMPLETE]
+
+UUID: 97903B33-0E8B-4D32-AD10-43881F45F13C
+Type: VOICE UPDATE
+Date: 2022-11-18
+Speakers: Sarah Abdul
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: [INCOMPLETE]
+Summary: [INCOMPLETE]
 
 ~~~~~~~~~~~~~~
 2022 DECEMBER
@@ -1457,6 +1503,15 @@ Platform:
 Audio File: 
 Transcript: transcripts/2024-10-22%203CC13739-6855-4821-B60C-1E743099585F.txt
 Summary: Patriot Pay advertisements ran at Ohio State, Penn State, and UNC events featuring Vivek Ramaswamy and Charlie Kirk as speakers, with another ad scheduled for Michigan, resulting in increased app user numbers. By the end of October, the platform expects to complete adding remaining products and finish direct on-ramp integration pending third-party cooperation.
+
+UUID: 374B7E0B-7B73-4685-8B36-5536611A30B4
+Type: VOICE UPDATE
+Date: 2024-10-28
+Speakers: Sarah Abdul
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: [INCOMPLETE]
+Summary: [INCOMPLETE]
 
 ~~~~~~~~~~~~~~
 2024 NOVEMBER
