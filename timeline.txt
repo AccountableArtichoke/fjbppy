@@ -1,5 +1,5 @@
 contact fjbvoicetranscripts@proton.me with updates/suggestions
-contact fjbvoicetranscripts@proton.me to request full copy of audio files and/or transcripts
+contact fjbvoicetranscripts@proton.me to request copy of any indexed media files
 
 `TIMELINE`
 
@@ -24,10 +24,18 @@ Reference: C5DB218A-3638-4317-83E6-FC27E1961582 During this VOICE UPDATE on 2021
 2021 NOVEMBER
 ~~~~~~~~~~~~~~
 
+UUID: 3913ED83-C2F8-4B84-867A-B52267506F64
+Type: WEBPAGE ARCHIVE
+Date: 2021-11-01
+Source: https://imgur.com/a/RkTOjf4
+WebArchive: https://web.archive.org/web/20211101151934/https://imgur.com/a/RkTOjf4
+LocalArchive: PublicEvidenceProcessed/webpages/imgur-dot-com/2021-11-01%203913ED83-C2F8-4B84-867A-B52267506F64
+Summary: This page shows a 'Thank You' notification from the Wounded Warrior Project for a $10,000 donation to the Wounded Warrior Project.
+
 UUID: 59D6D3B3-D57E-486F-B725-FA9DE4061FD9
 Type: VOICE UPDATE
 Date: 2021-11-15
-Speakers: Grant Tragni, Ryan Fournier
+Speaker: Grant Tragni, Ryan Fournier
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-15%2059D6D3B3-D57E-486F-B725-FA9DE4061FD9.txt
@@ -36,7 +44,7 @@ Summary: The November 15, 2021 transcript features Ryan Fournier, founder of Stu
 UUID: 3F8A1B2C-4D5E-6F7A-8B9C-0D1E2F3A4B5C
 Type: VOICE UPDATE
 Date: 2021-11-17
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-17%203F8A1B2C-4D5E-6F7A-8B9C-0D1E2F3A4B5C.txt
@@ -45,7 +53,7 @@ Summary: The November 17, 2021 transcript documents the project leader reporting
 UUID: B41B0003-A9BF-48E5-BF76-D83D40B81C42
 Type: VOICE UPDATE
 Date: 2021-11-18-1
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-18-2%20B41B0003-A9BF-48E5-BF76-D83D40B81C42.txt
@@ -54,7 +62,7 @@ Summary: The November 18, 2021 transcript documents the project leader confirmin
 UUID: 4D1751A0-4821-40BB-AA64-5642E4AA7496
 Type: VOICE UPDATE
 Date: 2021-11-18-2
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-18-1%204D1751A0-4821-40BB-AA64-5642E4AA7496.txt
@@ -63,7 +71,7 @@ Summary: The November 18, 2021 transcript reveals the project leader announcing 
 UUID: 75A5C35C-AEEF-4DA0-B864-1CFA47F2E85D
 Type: VOICE UPDATE
 Date: 2021-11-19
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-19%2075A5C35C-AEEF-4DA0-B864-1CFA47F2E85D.txt
@@ -72,7 +80,7 @@ Summary: The November 19, 2021 transcript reveals the project leader discussing 
 UUID: 14816370-95CD-409A-B16C-41CC7CC9540D
 Type: VOICE UPDATE
 Date: 2021-11-20-1
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-20-1%2014816370-95CD-409A-B16C-41CC7CC9540D.txt
@@ -81,7 +89,7 @@ Summary: The cryptocurrency project has donated $50,000 in 28 days to whistleblo
 UUID: 14A9AA5F-D596-4D64-93A9-1E72197738FF
 Type: VOICE UPDATE
 Date: 2021-11-20-2
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-20-2%2014A9AA5F-D596-4D64-93A9-1E72197738FF.txt
@@ -90,7 +98,7 @@ Summary: The project leader donated $500 of personal funds to Breast Cancer Port
 UUID: 5496FB92-1925-443A-A936-E04C54452805
 Type: VOICE UPDATE
 Date: 2021-11-21-1
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-21-1%205496FB92-1925-443A-A936-E04C54452805.txt
@@ -99,7 +107,7 @@ Summary: The cryptocurrency project is on day 30 with confirmed listings coming 
 UUID: CF69DCDD-26E8-4479-A37D-8D1A97AD74B4
 Type: VOICE UPDATE
 Date: 2021-11-21-2
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: 
 Audio File: 
 Transcript: transcripts/2021-11-21-2%20CF69DCDD-26E8-4479-A37D-8D1A97AD74B4.txt
@@ -108,7 +116,7 @@ Summary: The project will sponsor a party at the Turning Point USA conference on
 UUID: 206DE8B58E-33B9-4686-87F4-0DBDB8DA4063
 Type: VOICE UPDATE
 Date: 2021-11-22
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-22%206DE8B58E-33B9-4686-87F4-0DBDB8DA4063.txt
@@ -117,7 +125,7 @@ Summary: The project purchased extensive advertising through Coinzilla that will
 UUID: B007BB2C-A7EB-4A74-B084-08E6EA6DFFD2
 Type: VOICE UPDATE
 Date: 2021-11-23
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-23%20B007BB2C-A7EB-4A74-B084-08E6EA6DFFD2.txt
@@ -126,7 +134,7 @@ Summary: The project is waiting for CoinZilla advertising to deploy across 10 cr
 UUID: AB7F1B54-46B1-4370-9C84-17F5A7DD49FC
 Type: VOICE UPDATE
 Date: 2021-11-24
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-24%20AB7F1B54-46B1-4370-9C84-17F5A7DD49FC.txt
@@ -135,7 +143,7 @@ Summary: The project leader confirmed Gateway Pundit and Breitbart articles are 
 UUID: ADD9FFF1-300C-4AF3-A2C3-A1C772BC2F10
 Type: VOICE UPDATE
 Date: 2021-11-28
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-28%20ADD9FFF1-300C-4AF3-A2C3-A1C772BC2F10.txt
@@ -144,7 +152,7 @@ Summary: XT exchange listing is confirmed for Monday with access to 3 million US
 UUID: FAFC7B4E-7D20-46FD-A261-7A42D39B06F0
 Type: VOICE UPDATE
 Date: 2021-11-30
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-11-30%20FAFC7B4E-7D20-46FD-A261-7A42D39B06F0.txt
@@ -186,7 +194,7 @@ Reference: 90A06E60-329F-41B2-A190-64AD5B57C0AB
 UUID: EC1C3737-9FFC-4858-A8E5-9628D82677C7
 Type: VOICE UPDATE
 Date: 2021-12-04
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-04%20EC1C3737-9FFC-4858-A8E5-9628D82677C7.txt
@@ -201,7 +209,7 @@ Evidence: 5ED7084C-52D0-4EAF-B546-157E46802AF3 [INCOMPLETE]
 UUID: 5ED7084C-52D0-4EAF-B546-157E46802AF3
 Type: VOICE UPDATE
 Date: 2021-12-08
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-08%205ED7084C-52D0-4EAF-B546-157E46802AF3.txt
@@ -226,7 +234,7 @@ Summary: Screenshot taken 2026-02-14 of the ICANN Lookup Tool for fjbcoin.org do
 UUID: 7E23A915-6E76-42CC-B4BC-B41EEA1905C4
 Type: VOICE UPDATE
 Date: 2021-12-13
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-13%207E23A915-6E76-42CC-B4BC-B41EEA1905C4.txt
@@ -234,7 +242,7 @@ Summary: The project leader confirmed the major news deal is "done" and "signed"
 
 UUID: 363FD851-3D76-4C17-8F0F-F6704381C4A5
 Date: 2021-12-15
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-15%20363FD851-3D76-4C17-8F0F-F6704381C4A5.txt
@@ -251,7 +259,7 @@ Evidence: 363FD851-3D76-4C17-8F0F-F6704381C4A5 No direct evidence just him sayin
 UUID: C5DB218A-3638-4317-83E6-FC27E1961582
 Type: VOICE UPDATE
 Date: 2021-12-17
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-17%20C5DB218A-3638-4317-83E6-FC27E1961582.txt
@@ -268,7 +276,7 @@ Evidence: C5DB218A-3638-4317-83E6-FC27E1961582 No direct evidence just him sayin
 UUID: BB9BE200-AA8E-46BB-875E-C51B818AE18E
 Type: VOICE UPDATE
 Date: 2021-12-19
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord (FJB)
 Audio File: 
 Transcript: transcripts/2021-12-19%20BB9BE200-AA8E-46BB-875E-C51B818AE18E.txt
@@ -331,7 +339,7 @@ Author: LBK Blockchain Co. Limited
 UUID: 45629FB3-091D-40F3-974E-CFC45AB13FDC
 Type: VOICE UPDATE
 Date: 2022-01-06
-Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
+Speaker: Grant Tragni, Stephen Bannon, Boris Epshteyn
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-06%2045629FB3-091D-40F3-974E-CFC45AB13FDC.txt
@@ -356,7 +364,7 @@ Reference: 45629FB3-091D-40F3-974E-CFC45AB13FDC
 UUID: 8B720706-6219-4A3E-8CCE-7B54495A0932
 Type: VOICE UPDATE
 Date: 2022-01-18
-Speakers: Grant Tragni, Erik Finman
+Speaker: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-18%208B720706-6219-4A3E-8CCE-7B54495A0932.txt
@@ -390,7 +398,7 @@ Author: Ali Breland, David Corn
 UUID: B92DFBC6-99D8-4F63-8161-0319D909E23C
 Type: VOICE UPDATE
 Date: 2022-01-20
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-20%20B92DFBC6-99D8-4F63-8161-0319D909E23C.txt
@@ -400,7 +408,7 @@ Reference: 91F910C8-69E9-41DF-B07B-A992D691AA54 This is the Mother Jones article
 UUID: B564F5E9-6F3B-434E-866C-190EFBE573D7
 Type: VOICE UPDATE
 Date: 2022-01-23
-Speakers: Grant Tragni, Erik Finman, Ryan Fournier
+Speaker: Grant Tragni, Erik Finman, Ryan Fournier
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-23%20B564F5E9-6F3B-434E-866C-190EFBE573D7.txt
@@ -418,7 +426,7 @@ Reference: B564F5E9-6F3B-434E-866C-190EFBE573D7
 UUID: F17CFB67-E36C-4A4C-9348-746371EE3C07
 Type: VOICE UPDATE
 Date: 2022-01-23
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2022-01-23%20F17CFB67-E36C-4A4C-9348-746371EE3C07.txt
@@ -427,7 +435,7 @@ Summary: The speaker announces that Eric Finman will release major news on Monda
 UUID: 93343A01-6A7C-4F9F-A827-57C3ACE8A1EB
 Type: VOICE UPDATE
 Date: 2022-01-27
-Speakers: Grant Tragni, Stephen Bannon, Boris Epshteyn
+Speaker: Grant Tragni, Stephen Bannon, Boris Epshteyn
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-01-27%2093343A01-6A7C-4F9F-A827-57C3ACE8A1EB.txt
@@ -449,7 +457,7 @@ Reference: 93343A01-6A7C-4F9F-A827-57C3ACE8A1EB
 UUID: 34A76104-CFE9-485D-81F7-709EB19FCA44
 Type: VOICE UPDATE
 Date: 2022-02-02
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-02%2034A76104-CFE9-485D-81F7-709EB19FCA44.txt
@@ -465,7 +473,7 @@ Reference: 34A76104-CFE9-485D-81F7-709EB19FCA44
 UUID: 9B5F65D1-E589-4ADB-9F7B-89BE9FD5F1C2
 Type: VOICE UPDATE
 Date: 2022-02-07
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-07%209B5F65D1-E589-4ADB-9F7B-89BE9FD5F1C2.txt
@@ -489,7 +497,7 @@ Evidence: [INCOMPLETE]
 UUID: 6A2BEBB1-CA00-46B1-A222-D626F6F0A2E8
 Type: VOICE UPDATE
 Date: 2022-02-07
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-07%206A2BEBB1-CA00-46B1-A222-D626F6F0A2E8.txt
@@ -498,7 +506,7 @@ Summary: The transcript contains the lyrics to Bobby McFerrin's 1988 song "Don't
 UUID: EFD27C90-4F7A-47F3-8ADA-D0FABC7DE571
 Type: VOICE UPDATE
 Date: 2022-02-08
-Speakers: Grant Tragni, Erik Finman
+Speaker: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-08%20EFD27C90-4F7A-47F3-8ADA-D0FABC7DE571.txt
@@ -507,7 +515,7 @@ Summary: The speakers are developing a cryptocurrency app called FJB (standing f
 UUID: 4F85A53E-E11D-4C8A-9BC5-9BA06D5FA916
 Type: VOICE UPDATE
 Date: 2022-02-21
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-02-21%204F85A53E-E11D-4C8A-9BC5-9BA06D5FA916.txt
@@ -520,7 +528,7 @@ Summary: The speaker previewed beta screenshots of the FJB cryptocurrency app, a
 UUID: C6EA4C9D-AB5D-49A8-B9F8-103893E61FEF
 Type: VOICE UPDATE
 Date: 2022-03-04
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-04%20C6EA4C9D-AB5D-49A8-B9F8-103893E61FEF.txt
@@ -529,7 +537,7 @@ Summary: The speaker reflects on FJB's evolution since its October 22nd launch, 
 UUID: F9CF9862-8BF3-4A1D-86A4-8C64B5871088
 Type: VOICE UPDATE
 Date: 2022-03-08
-Speakers: Grant Tragni, D0nni
+Speaker: Grant Tragni, D0nni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-08%20F9CF9862-8BF3-4A1D-86A4-8C64B5871088.txt
@@ -547,7 +555,7 @@ Author: Ankit Sethi
 UUID: CDDADCA4-D34D-401C-9E54-5322B1A9103D
 Type: VOICE UPDATE
 Date: 2022-03-16
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-16%20CDDADCA4-D34D-401C-9E54-5322B1A9103D.txt
@@ -556,7 +564,7 @@ Summary: The FJB app launch scheduled for March 16th was delayed due to ongoing 
 UUID: 115D9B59-41D3-440D-99EB-2ED95CF3FAE9
 Type: VOICE UPDATE
 Date: 2022-03-29
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-03-29%20115D9B59-41D3-440D-99EB-2ED95CF3FAE9.txt
@@ -569,7 +577,7 @@ Summary: The speaker apologizes for lacking transparency and promises renewed "d
 UUID: A1D13409-81F4-4F82-A354-E82B81BDB203
 Type: VOICE UPDATE
 Date: 2022-04-18
-Speakers: Grant Tragni, Erik Finman
+Speaker: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-04-18%20A1D13409-81F4-4F82-A354-E82B81BDB203.txt
@@ -582,7 +590,7 @@ Summary: The app launch attracted 4,500 new users with projections of tens of th
 UUID: 67968051-F9C5-4C9A-A1C5-A033C5FF7BF7
 Type: VOICE UPDATE
 Date: 2022-05-09
-Speakers: Grant Tragni, Erik Finman
+Speaker: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-05-09%2067968051-F9C5-4C9A-A1C5-A033C5FF7BF7.txt
@@ -591,7 +599,7 @@ Summary: The app relaunch is targeted for later this week with the marketing cam
 UUID: 59B3D4DA-0527-4851-8C87-7B54C6872A1E
 Type: VOICE UPDATE
 Date: 2022-05-11
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-05-11%2059B3D4DA-0527-4851-8C87-7B54C6872A1E.txt
@@ -604,7 +612,7 @@ Summary: [INCOMPLETE]
 UUID: 6968AC72-BACE-4793-9FAA-BC8FB81AEAC9
 Type: VOICE UPDATE
 Date: 2022-06-01
-Speakers: Erik Finman
+Speaker: Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-06-01%206968AC72-BACE-4793-9FAA-BC8FB81AEAC9.txt
@@ -621,7 +629,7 @@ Summary: The Android app is now live on Google Play Store and the iOS app is in 
 UUID: FEB01E25-B443-4E7A-A6B5-CD3B9C89AC52
 Type: VOICE UPDATE
 Date: 2022-08-19
-Speakers: Grant Tragni, Erik Finman
+Speaker: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-08-19%20FEB01E25-B443-4E7A-A6B5-CD3B9C89AC52.txt
@@ -630,7 +638,7 @@ Summary: USD to FJB coin Transact integration is now complete, enabling direct a
 UUID: 08389890-8D4F-4226-A81A-2383A5A2E85E
 Type: VOICE UPDATE
 Date: 2022-08-25
-Speakers: Grant Tragni, Erik Finman
+Speaker: Grant Tragni, Erik Finman
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-08-25%2008389890-8D4F-4226-A81A-2383A5A2E85E.txt
@@ -643,6 +651,8 @@ Summary: Eric Finman announced he will be promoting the Freedom Jobs and Busines
 UUID: FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4
 Type: AUDIO
 Date: 2022-09-27
+Speaker: John Solomon
+Source: [INCOMPLETE]
 Audio File: publicevidenceprocessed/2022-09-27%20FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4.mp3
 Transcript: publications/2022-09-27%20FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4.txt
 Summary: Episode of the 'John Solomon Reports' podcast where FJBCoin is mentioned at (00:52:26 - 00:54:49)
@@ -654,7 +664,7 @@ Summary: Episode of the 'John Solomon Reports' podcast where FJBCoin is mentione
 UUID: D317EDDD-4491-4062-BFC3-1A9689A4E884
 Type: VOICE UPDATE
 Date: 2022-10-24
-Speakers: Sarah Abdul
+Speaker: Sarah Abdul
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2022-10-24%20D317EDDD-4491-4062-BFC3-1A9689A4E884
@@ -667,7 +677,7 @@ Summary: The liquidity pool for FJB is scheduled to unlock on November 18 but wi
 UUID: 45BCAB47-5232-49C0-8BA3-9CCCB0E1EFFF
 Type: VOICE UPDATE
 Date: 2022-11-01
-Speakers: Sarah Abdul
+Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: [INCOMPLETE]
@@ -676,7 +686,7 @@ Summary: [INCOMPLETE]
 UUID: BC024F8E-B7E2-4A90-9288-CB27740DF402
 Type: VOICE UPDATE
 Date: 2022-11-06
-Speakers: Grant Tragni
+Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-11-06%20BC024F8E-B7E2-4A90-9288-CB27740DF402.txt
@@ -685,7 +695,7 @@ Summary: The speaker emphasizes that building the coin project requires patience
 UUID: 424116D3-EA3F-4522-8B82-B5C5BE3F5722
 Type: VOICE UPDATE
 Date: 2022-11-10
-Speakers: Sarah Abdul
+Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-11-10%20424116D3-EA3F-4522-8B82-B5C5BE3F5722
@@ -694,7 +704,7 @@ Summary: The FJB project has uncovered tens of thousands of dollars in missing m
 UUID: 97903B33-0E8B-4D32-AD10-43881F45F13C
 Type: VOICE UPDATE
 Date: 2022-11-18
-Speakers: Sarah Abdul
+Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-11-18%2097903B33-0E8B-4D32-AD10-43881F45F13C
@@ -703,7 +713,7 @@ Summary: The project is ahead of schedule on phase 4, expected to wrap by Monday
 UUID: 9D55B54A-6A63-4B8F-B9E0-958F23998FC0
 Type: VOICE UPDATE
 Date: 2022-11-22
-Speakers: Sarah Abdul
+Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-11-22%209D55B54A-6A63-4B8F-B9E0-958F23998FC0
@@ -720,7 +730,7 @@ Summary: The FJB project is addressing a $20,000 debt through imminent launches 
 UUID: B8AFAACA-CDB7-4489-934F-935807871DBA
 Type: VOICE UPDATE
 Date: 2023-01-05
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-01-05%20B8AFAACA-CDB7-4489-934F-935807871DBA.txt
@@ -760,6 +770,16 @@ Author: Aaron Katersky, Soo Rin Kim, Laura Romero
 2023 MAY
 ~~~~~~~~~~~~~~
 
+UUID: 7D59E935-6CC4-4537-B92A-BB3485EB5D0C
+Type: VIDEO
+Date: 2023-05-26
+Speaker: Grace Cheong, Maureen Bannon
+Source: [INCOMPLETE]
+WebArchive: [INCOMPLETE]
+LocalArchive: PublicEvidenceProcessed/video/2023-05-26%207D59E935-6CC4-4537-B92A-BB3485EB5D0C.mp4
+Transcript: transcripts/2023-05-26%207D59E935-6CC4-4537-B92A-BB3485EB5D0C
+Summary: Grace Cheong and Maureen Bannon affirm that they are still holding [their tokens] and that they "should reach out to Boris" to share a rebranding idea proposed by a chat participant.
+
 ~~~~~~~~~~~~~~
 2023 JUNE
 ~~~~~~~~~~~~~~
@@ -783,7 +803,7 @@ Author: Aaron Katersky, Soo Rin Kim, Laura Romero
 UUID: E7EF7585-0D14-4C70-B125-1AD3064694F2
 Type: VOICE UPDATE
 Date: 2023-10-27
-Speakers: 
+Speaker: 
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-10-27%20E7EF7585-0D14-4C70-B125-1AD3064694F2.txt
@@ -792,7 +812,7 @@ Summary: The development team completed their audit review but is waiting for th
 UUID: D37AECBE-DA0B-44B2-9097-4D87E2A4881F
 Type: VOICE UPDATE
 Date: 2023-10-31
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-10-31%20D37AECBE-DA0B-44B2-9097-4D87E2A4881F.txt
@@ -805,7 +825,7 @@ Summary: Major breakthroughs were achieved on both the app and task development,
 UUID: 757907A4-36C0-412B-BC25-AA8EC368E67A
 Type: VOICE UPDATE
 Date: 2023-11-04
-Speakers: 
+Speaker: 
 Audio File: 
 Transcript: transcripts/2023-11-04%20757907A4-36C0-412B-BC25-AA8EC368E67A.txt
 Summary: The failed transaction issues in the app have been fixed but not yet deployed, with developers working on correcting gas estimation problems between user wallets and the operator wallet to prevent future transaction failures. Nine developers are currently active across multiple projects with an additional three development teams being evaluated for upcoming work, and the task reveal remains on track for November independent of the app's readiness.
@@ -813,7 +833,7 @@ Summary: The failed transaction issues in the app have been fixed but not yet de
 UUID: 18E993BD-78A0-4C13-BC6F-27537290D76C
 Type: VOICE UPDATE
 Date: 2023-11-07
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-11-07%2018E993BD-78A0-4C13-BC6F-27537290D76C.txt
@@ -822,7 +842,7 @@ Summary: Failed transactions in the app have been fixed but not yet deployed as 
 UUID: 7D460EC8-3211-47C2-A350-47A2E6619C3E
 Type: VOICE UPDATE
 Date: 2023-11-10
-Speakers: 
+Speaker: 
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-10%207D460EC8-3211-47C2-A350-47A2E6619C3E.txt
@@ -831,7 +851,7 @@ Summary: The development team is on track to complete current app functions by M
 UUID: 9EDAEB03-00F7-4FA8-A86E-E101A091D0EE
 Type: VOICE UPDATE
 Date: 2023-11-14
-Speakers: 
+Speaker: 
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-14%209EDAEB03-00F7-4FA8-A86E-E101A091D0EE.txt
@@ -840,7 +860,7 @@ Summary: Phase two of app development will be completed tonight with deployment 
 UUID: 23E86CC4-DD45-4BDA-A38C-978422FDC88D
 Type: VOICE UPDATE
 Date: 2023-11-18
-Speakers: 
+Speaker: 
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-18%2023E86CC4-DD45-4BDA-A38C-978422FDC88D.txt
@@ -849,7 +869,7 @@ Summary: The project's app deployment for testing is expected this week with API
 UUID: 8BB7B96D-2E53-4291-92A3-37F48D68AD12
 Type: VOICE UPDATE
 Date: 2023-11-21
-Speakers: 
+Speaker: 
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-11-21%208BB7B96D-2E53-4291-92A3-37F48D68AD12.txt
@@ -858,7 +878,7 @@ Summary: The team is testing a new simplified login system that allows users to 
 UUID: 21FD6A40-00DA-42D3-A698-081B7847D821
 Type: VOICE UPDATE
 Date: 2023-11-25
-Speakers: 
+Speaker: 
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-11-25%2021FD6A40-00DA-42D3-A698-081B7847D821.txt
@@ -867,7 +887,7 @@ Summary: The app's login issues have been resolved allowing users to recover acc
 UUID: B40665DC-B2CC-451B-AAAE-55AEAB39A191
 Type: VOICE UPDATE
 Date: 2023-11-29
-Speakers: 
+Speaker: 
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-11-29%20B40665DC-B2CC-451B-AAAE-55AEAB39A191.txt
@@ -880,7 +900,7 @@ Summary: The team is waiting on a third-party vendor who requested two more days
 UUID: CE4A4CF4-4199-4CB1-BB03-B32EA6790639
 Type: VOICE UPDATE
 Date: 2023-12-01
-Speakers: 
+Speaker: 
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2023-12-01%20CE4A4CF4-4199-4CB1-BB03-B32EA6790639.txt
@@ -889,7 +909,7 @@ Summary: Major technical developments were completed this morning with the annou
 UUID: 06C14CAD-D48D-4E97-A2F3-A790C6057F19
 Type: VOICE UPDATE
 Date: 2023-12-05
-Speakers: 
+Speaker: 
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-12-05%2006C14CAD-D48D-4E97-A2F3-A790C6057F19.txt
@@ -898,7 +918,7 @@ Summary: Third party vendors have reached the 24-hour notice threshold where the
 UUID: 73357664-332F-4982-AF6C-044AFAC4CD20
 Type: VOICE UPDATE
 Date: 2023-12-18
-Speakers: 
+Speaker: 
 Platform: Telegram
 Audio File: 
 Transcript: transcripts/2023-12-18%2073357664-332F-4982-AF6C-044AFAC4CD20.txt
@@ -907,7 +927,7 @@ Summary: The team is rebranding from FJB to PatriotPay (PPY) on the Polygon chai
 UUID: EC1F670E-3AEC-4306-A4D7-B7A41A59C913
 Type: VOICE UPDATE
 Date: 2023-12-22
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-12-22%20EC1F670E-3AEC-4306-A4D7-B7A41A59C913.txt
@@ -916,7 +936,7 @@ Summary: The team expects to complete liquidity pool pairing and begin internal 
 UUID: 1337C8F2-7A4A-44F6-A3F4-FFD75D0DF290
 Type: VOICE UPDATE
 Date: 2023-12-27
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-12-27%201337C8F2-7A4A-44F6-A3F4-FFD75D0DF290.txt
@@ -925,7 +945,7 @@ Summary: The team is awaiting completion of an API component from their advisor 
 UUID: 066FE4E6-57C5-4240-A9D8-CB7E3B01416F
 Type: VOICE UPDATE
 Date: 2023-12-29
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2023-12-29%20066FE4E6-57C5-4240-A9D8-CB7E3B01416F.txt
@@ -938,7 +958,7 @@ Summary: The team completed development of a new smart wallet agent contract and
 UUID: 62024F37-B3F3-4637-B898-6705D209E95E
 Type: VOICE UPDATE
 Date: 2024-01-02
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-02%2062024F37-B3F3-4637-B898-6705D209E95E.txt
@@ -947,7 +967,7 @@ Summary: Testing began Monday with the team awaiting Change Now and Transact to 
 UUID: AF6E369F-3AB8-47E4-8243-D9D7EA8CCB57
 Type: VOICE UPDATE
 Date: 2024-01-09
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-09%20AF6E369F-3AB8-47E4-8243-D9D7EA8CCB57.txt
@@ -956,7 +976,7 @@ Summary: Testing has progressed smoothly despite initial Polygon network issues,
 UUID: 3AF0682B-F9E3-4E7A-B899-C22F6F9ACC36
 Type: VOICE UPDATE
 Date: 2024-01-19
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-19%203AF0682B-F9E3-4E7A-B899-C22F6F9ACC36.txt
@@ -965,7 +985,7 @@ Summary: The Transac integration is fully complete with buttons now live, while 
 UUID: 6B22A0D1-F5F9-4F05-8B6C-C926B09078D1
 Type: VOICE UPDATE
 Date: 2024-01-23
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-23%206B22A0D1-F5F9-4F05-8B6C-C926B09078D1.txt
@@ -974,7 +994,7 @@ Summary: ChangeNow is expected to complete integration testing by Wednesday morn
 UUID: 9A327FF4-B4B3-4353-B65A-E2BFC838BF69
 Type: VOICE UPDATE
 Date: 2024-01-30
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-01-30%209A327FF4-B4B3-4353-B65A-E2BFC838BF69.txt
@@ -987,7 +1007,7 @@ Summary: The airdrop is confirmed for this week pending ChangeNow's imminent com
 UUID: 86FB7A12-54DD-4FE1-9C2F-90D02A6A2420
 Type: VOICE UPDATE
 Date: 2024-02-02
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-02%2086FB7A12-54DD-4FE1-9C2F-90D02A6A2420.txt
@@ -996,7 +1016,7 @@ Summary: ChangeNow and Transact integrations are fully complete and awaiting the
 UUID: 62FD33C7-D414-4568-9903-DA80B104060D
 Type: VOICE UPDATE
 Date: 2024-02-05
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-05%2062FD33C7-D414-4568-9903-DA80B104060D.txt
@@ -1005,7 +1025,7 @@ Summary: The airdrop has been completed with most holders receiving their Patrio
 UUID: 2CBE7FF6-74AF-4E53-B1A6-5E1673BE1CE1
 Type: VOICE UPDATE
 Date: 2024-02-09
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-09%202CBE7FF6-74AF-4E53-B1A6-5E1673BE1CE1.txt
@@ -1014,7 +1034,7 @@ Summary: The development team is working on new on-ramp integrations with an est
 UUID: F3E5E23D-53E8-4505-8D41-C9487BA36AA2
 Type: VOICE UPDATE
 Date: 2024-02-13
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-13%20F3E5E23D-53E8-4505-8D41-C9487BA36AA2.txt
@@ -1023,7 +1043,7 @@ Summary: The white paper is confirmed for release this week and includes details
 UUID: 6536A998-E43B-40B4-89A3-D22709BB41C3
 Type: VOICE UPDATE
 Date: 2024-02-16
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-16%206536A998-E43B-40B4-89A3-D22709BB41C3.txt
@@ -1032,7 +1052,7 @@ Summary: The dev working on the new on-ramp integration remains on track to comp
 UUID: 05539927-A905-4D4F-948D-8482B7AC144E
 Type: VOICE UPDATE
 Date: 2024-02-20
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-20%2005539927-A905-4D4F-948D-8482B7AC144E.txt
@@ -1041,7 +1061,7 @@ Summary: The team has multiple app deployments ready to push sequentially, start
 UUID: 0D697691-94C1-4FFE-9997-B2E3B6C2F7FC
 Type: VOICE UPDATE
 Date: 2024-02-27
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-02-27%200D697691-94C1-4FFE-9997-B2E3B6C2F7FC.txt
@@ -1054,7 +1074,7 @@ Summary: TipCC deposits and withdrawals are now fully functional on Discord, and
 UUID: 94B41CCF-5A5B-4A55-95EA-189152BF9E48
 Type: VOICE UPDATE
 Date: 2024-03-01
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-01%2094B41CCF-5A5B-4A55-95EA-189152BF9E48.txt
@@ -1063,7 +1083,7 @@ Summary: The Google Play Store now displays the app as PatriotPay with reviews t
 UUID: F1954122-CAD8-4C28-B99F-4057755A4A1F
 Type: VOICE UPDATE
 Date: 2024-03-05
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-05%20F1954122-CAD8-4C28-B99F-4057755A4A1F.txt
@@ -1072,7 +1092,7 @@ Summary: The development team has completed the on-ramp integration and has thre
 UUID: 86D6FC09-8978-4980-A82B-D7A517A19A2E
 Type: VOICE UPDATE
 Date: 2024-03-08
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-08%2086D6FC09-8978-4980-A82B-D7A517A19A2E.txt
@@ -1081,7 +1101,7 @@ Summary: Developers have committed to delivering outstanding app work by Monday,
 UUID: 9F193AC4-E84E-4FBD-B11E-968DF0BCFABE
 Type: VOICE UPDATE
 Date: 2024-03-12
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-12%209F193AC4-E84E-4FBD-B11E-968DF0BCFABE.txt
@@ -1090,7 +1110,7 @@ Summary: The Apple App Store verification is now progressing correctly after a p
 UUID: BE30C484-2E41-4A17-9EBD-EE1BAE65AB8D
 Type: VOICE UPDATE
 Date: 2024-03-15
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-15%20BE30C484-2E41-4A17-9EBD-EE1BAE65AB8D.txt
@@ -1099,7 +1119,7 @@ Summary: Significant progress has been made on the app in the past 24-48 hours, 
 UUID: 3E9AC28B-A4BA-4896-ADC8-3E7528DA1112
 Type: VOICE UPDATE
 Date: 2024-03-19
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-19%203E9AC28B-A4BA-4896-ADC8-3E7528DA1112.txt
@@ -1108,16 +1128,21 @@ Summary: The team is currently blocked by a ChangeNow API issue affecting swap f
 UUID: FE000719-E768-47F1-A545-20C0E8D0AAD2
 Type: VOICE UPDATE
 Date: 2024-03-26
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-26%20FE000719-E768-47F1-A545-20C0E8D0AAD2.txt
 Summary: Apple's verification system is complete with App Store listing updates expected within 24 hours, marking a major milestone required before marketing can begin since both Apple and Google Play stores will then show PatriotPay as searchable. The primary remaining blocker is the ChangeNow API issue, which once resolved will enable sequential deployment of the new login/wallet generation service and on-ramp integration, with users needing to transfer funds out of smart wallets (tax reimbursed) before the new authentication system goes live.
 
+UUID: 6A3B1F39-35CB-4246-B6EA-718AE74F3070
+Type: SIGNIFICANT EVENT
+Summary: Patriot Pay Service Mark Application submitted to USPTO
+Reference: 9F8FABEC-2D44-484E-BA68-29B01F4FC994 WEBPAGE ARCHIVE of the USPTO application status page
+
 UUID: 4A283810-9E31-4520-BAF4-B826064E3281
 Type: VOICE UPDATE
 Date: 2024-03-29
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-03-29%204A283810-9E31-4520-BAF4-B826064E3281.txt
@@ -1130,7 +1155,7 @@ Summary: ChangeNow fixed their API issue overnight, and the developer is now wor
 UUID: 596F7B68-7B86-4C97-93B3-9F85E973C50D
 Type: VOICE UPDATE
 Date: 2024-04-02
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-02%20596F7B68-7B86-4C97-93B3-9F85E973C50D.txt
@@ -1139,7 +1164,7 @@ Summary: Apple App Store listing is now live as PatriotPay alongside the already
 UUID: 60AAD3C6-5DCB-4347-B614-EFC313A0AA1C
 Type: VOICE UPDATE
 Date: 2024-04-05
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-05%2060AAD3C6-5DCB-4347-B614-EFC313A0AA1C.txt
@@ -1148,7 +1173,7 @@ Summary: The Smart Wallet is now functioning after being fixed Wednesday night, 
 UUID: 7634DD5E-C461-47D3-A7D3-BB2A15B03EE0
 Type: VOICE UPDATE
 Date: 2024-04-09
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-09%207634DD5E-C461-47D3-A7D3-BB2A15B03EE0.txt
@@ -1157,7 +1182,7 @@ Summary: The team must modify the smart contract to eliminate an unintended addi
 UUID: E574BFD1-C2F2-4252-A18B-253208D8BF1B
 Type: VOICE UPDATE
 Date: 2024-04-12
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-12%20E574BFD1-C2F2-4252-A18B-253208D8BF1B.txt
@@ -1166,7 +1191,7 @@ Summary: The double-tax issue in the Smart Wallet has been successfully resolved
 UUID: 1DDCC2BC-B733-46F0-9F35-3CF709D55060
 Type: VOICE UPDATE
 Date: 2024-04-16
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-16%201DDCC2BC-B733-46F0-9F35-3CF709D55060.txt
@@ -1175,7 +1200,7 @@ Summary: The double-tax and stablecoin issues in the Smart Wallet are effectivel
 UUID: 29BE78BA-FDF7-4461-8369-936723F2C9FD
 Type: VOICE UPDATE
 Date: 2024-04-19-1
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-19-1%2029BE78BA-FDF7-4461-8369-936723F2C9FD.txt
@@ -1184,7 +1209,7 @@ Summary: Users are urgently instructed to transfer all assets, including PPY and
 UUID: A20174E0-9C14-4E5D-A790-83FF16123B17
 Type: VOICE UPDATE
 Date: 2024-04-19-2
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-19-2%20A20174E0-9C14-4E5D-A790-83FF16123B17.txt
@@ -1193,7 +1218,7 @@ Summary: All users are again urged to transfer any remaining assets out of their
 UUID: 2867E0E6-8E55-4826-B91A-AEDC1F55FDDF
 Type: VOICE UPDATE
 Date: 2024-04-23
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-23%202867E0E6-8E55-4826-B91A-AEDC1F55FDDF.txt
@@ -1202,7 +1227,7 @@ Summary: All users must urgently transfer any remaining assets, including PPY an
 UUID: 2180039B-4B34-44C8-86FB-E3A09209BF5B
 Type: VOICE UPDATE
 Date: 2024-04-26
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-26%202180039B-4B34-44C8-86FB-E3A09209BF5B.txt
@@ -1211,7 +1236,7 @@ Summary: Deployment of the new login and wallet creation system is delayed due t
 UUID: F963793C-4BB7-47B4-BF95-5AF03686F452
 Type: VOICE UPDATE
 Date: 2024-04-30
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-04-30%20F963793C-4BB7-47B4-BF95-5AF03686F452.txt
@@ -1224,7 +1249,7 @@ Summary: Deployment remains delayed while developers modify the Smart Wallet tra
 UUID: 2573F1BC-1FCC-4AF1-8CA7-F2A3C4E1DD8E
 Type: VOICE UPDATE
 Date: 2024-05-03
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-03%202573F1BC-1FCC-4AF1-8CA7-F2A3C4E1DD8E.txt
@@ -1233,7 +1258,7 @@ Summary: The FJB token has been permanently replaced by PPY through the complete
 UUID: 4080CABB-9A1D-4A2F-8EC4-49F7A7964966
 Type: VOICE UPDATE
 Date: 2024-05-07
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-07%204080CABB-9A1D-4A2F-8EC4-49F7A7964966.txt
@@ -1242,7 +1267,7 @@ Summary: Smart contract upgrades have been fully implemented and the app is func
 UUID: D45BBBDE-B743-4645-A959-7D77788BF07C
 Type: VOICE UPDATE
 Date: 2024-05-10
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-10%20D45BBBDE-B743-4645-A959-7D77788BF07C.txt
@@ -1251,7 +1276,7 @@ Summary: All modifications for the new wallet creation system are complete and i
 UUID: 2B5A2241-0C14-488D-B30B-3CB14E9EDA01
 Type: VOICE UPDATE
 Date: 2024-05-14
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-14%202B5A2241-0C14-488D-B30B-3CB14E9EDA01.txt
@@ -1260,7 +1285,7 @@ Summary: The development team is finalizing the migration of stablecoins (USDT, 
 UUID: 9A47420D-6091-4F63-972D-AAA5DBABC63C
 Type: VOICE UPDATE
 Date: 2024-05-17
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-17%209A47420D-6091-4F63-972D-AAA5DBABC63C.txt
@@ -1269,7 +1294,7 @@ Summary: Community testing of the newly deployed app version has officially begu
 UUID: 6BEE01E0-D770-485B-A5DC-F00A59702AA7
 Type: VOICE UPDATE
 Date: 2024-05-21
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-21%206BEE01E0-D770-485B-A5DC-F00A59702AA7.txt
@@ -1278,7 +1303,7 @@ Summary: Developers are actively fixing a smart contract-related bug affecting c
 UUID: 24428FB9-6DA4-4349-90C8-BB77DEDBA3AB
 Type: VOICE UPDATE
 Date: 2024-05-24
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-24%2024428FB9-6DA4-4349-90C8-BB77DEDBA3AB.txt
@@ -1287,7 +1312,7 @@ Summary: The team has resolved roughly 80% of known app bugs, with most swap iss
 UUID: 3E4253B6-C28E-44A8-96E2-281D90C9A302
 Type: VOICE UPDATE
 Date: 2024-05-28
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-28%203E4253B6-C28E-44A8-96E2-281D90C9A302.txt
@@ -1296,7 +1321,7 @@ Summary: The team has pushed an update enabling users to export their new wallet
 UUID: 0096A8AB-28B6-4E3E-9A96-03D0C423274E
 Type: VOICE UPDATE
 Date: 2024-05-31
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-05-31%200096A8AB-28B6-4E3E-9A96-03D0C423274E.txt
@@ -1309,7 +1334,7 @@ Summary: The development team has resolved most transaction-related bugs and is 
 UUID: 47245CB7-C744-40FD-B521-6D72169A3CAD
 Type: VOICE UPDATE
 Date: 2024-06-04
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-04%2047245CB7-C744-40FD-B521-6D72169A3CAD.txt
@@ -1318,7 +1343,7 @@ Summary: The development team has resolved all previously identified bugs and fi
 UUID: 82DAD92B-C173-4047-A622-8FD4D42ED30A
 Type: VOICE UPDATE
 Date: 2024-06-08
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-08%2082DAD92B-C173-4047-A622-8FD4D42ED30A.txt
@@ -1327,7 +1352,7 @@ Summary: All known app bugs have been identified and are being permanently fixed
 UUID: 28424EDE-578C-4C4F-8BC8-08D13389ABA4
 Type: VOICE UPDATE
 Date: 2024-06-11
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-11%2028424EDE-578C-4C4F-8BC8-08D13389ABA4.txt
@@ -1336,7 +1361,7 @@ Summary: Current focus remains on resolving the final transaction/auth optimizat
 UUID: 7067D74F-9EB8-4DE3-B6D5-18838DDDB75C
 Type: VOICE UPDATE
 Date: 2024-06-14
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-14%207067D74F-9EB8-4DE3-B6D5-18838DDDB75C.txt
@@ -1345,7 +1370,7 @@ Summary: Development is focused on final transaction/auth optimizations and stre
 UUID: 39199C15-B037-459B-9BAA-500EB8FD947D
 Type: VOICE UPDATE
 Date: 2024-06-18
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-18%2039199C15-B037-459B-9BAA-500EB8FD947D.txt
@@ -1354,7 +1379,7 @@ Summary: All major app bugs are resolved except the Android camera permission is
 UUID: 95C75E61-2B0B-4078-8A1A-E18E5F23C727
 Type: VOICE UPDATE
 Date: 2024-06-21
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-21%2095C75E61-2B0B-4078-8A1A-E18E5F23C727.txt
@@ -1363,7 +1388,7 @@ Summary: Most app functionality is now stable, with remaining priorities focused
 UUID: 320FA4F8-D271-4555-9876-78834E8C47C8
 Type: VOICE UPDATE
 Date: 2024-06-28
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-06-28%20320FA4F8-D271-4555-9876-78834E8C47C8.txt
@@ -1376,7 +1401,7 @@ Summary: Initial soft marketing has begun with Instagram reels and targeted mass
 UUID: C667CA2A-8092-4CDA-86D2-29C3852CD9A8
 Type: VOICE UPDATE
 Date: 2024-07-04
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-04%20C667CA2A-8092-4CDA-86D2-29C3852CD9A8.txt
@@ -1385,7 +1410,7 @@ Summary: The classified marketplace section is scheduled for completion by Monda
 UUID: 9ECB8512-4F20-4EBB-B4A1-B92E9F3DACD3
 Type: VOICE UPDATE
 Date: 2024-07-16
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-16%209ECB8512-4F20-4EBB-B4A1-B92E9F3DACD3.txt
@@ -1394,7 +1419,7 @@ Summary: The app's user base has more than tripled since social media marketing 
 UUID: 0CB6610D-F780-435D-9414-1AE13784C8ED
 Type: VOICE UPDATE
 Date: 2024-07-19
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-19%200CB6610D-F780-435D-9414-1AE13784C8ED.txt
@@ -1403,7 +1428,7 @@ Summary: The app's classified section is now live allowing users to list items f
 UUID: C45AE75B-EC9B-4072-AE98-CF4EC9D7AC76
 Type: VOICE UPDATE
 Date: 2024-07-23
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-23%20C45AE75B-EC9B-4072-AE98-CF4EC9D7AC76.txt
@@ -1412,7 +1437,7 @@ Summary: The development team is implementing an escrow smart contract system fo
 UUID: 43A5A410-3CFD-4AF2-947C-85D07ECFFB6B
 Type: VOICE UPDATE
 Date: 2024-07-26
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-26%2043A5A410-3CFD-4AF2-947C-85D07ECFFB6B.txt
@@ -1421,7 +1446,7 @@ Summary: The development team is actively working on critical bug fixes includin
 UUID: 5B53E25F-6EBA-412C-970B-4451A1054E04
 Type: VOICE UPDATE
 Date: 2024-07-30
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-07-30%205B53E25F-6EBA-412C-970B-4451A1054E04.txt
@@ -1434,7 +1459,7 @@ Summary: The development team is testing the escrow function for marketplace tra
 UUID: 43FD8E75-5270-467B-9558-51C567E13DEB
 Type: VOICE UPDATE
 Date: 2024-08-02
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-02%2043FD8E75-5270-467B-9558-51C567E13DEB.txt
@@ -1443,7 +1468,7 @@ Summary: The escrow function for marketplace transactions has been completed and
 UUID: CAEAA076-3491-4369-9355-D7B43BFEFF10
 Type: VOICE UPDATE
 Date: 2024-08-06
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-06%20CAEAA076-3491-4369-9355-D7B43BFEFF10.txt
@@ -1452,7 +1477,7 @@ Summary: The OnRamper wallet address auto-populate bug has been identified as a 
 UUID: 9F5E718B-4C84-419D-9460-4C2B74F08FF7
 Type: VOICE UPDATE
 Date: 2024-08-09
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-09%209F5E718B-4C84-419D-9460-4C2B74F08FF7.txt
@@ -1461,7 +1486,7 @@ Summary: The OnRamper wallet address auto-populate bug fix has been completed an
 UUID: 36F8944E-4ABA-4183-945C-AD3552045EE7
 Type: VOICE UPDATE
 Date: 2024-08-13
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-13%2036F8944E-4ABA-4183-945C-AD3552045EE7.txt
@@ -1470,7 +1495,7 @@ Summary: The OnRamper wallet address bug has been narrowed down to occurring in 
 UUID: CA079BF2-55EC-4C4C-86CE-B8BC4AF3A9C0
 Type: VOICE UPDATE
 Date: 2024-08-16
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-16%20CA079BF2-55EC-4C4C-86CE-B8BC4AF3A9C0.txt
@@ -1479,7 +1504,7 @@ Summary: The OnRamper wallet address auto-populate bug that was causing new user
 UUID: E8FCFD5C-92A6-4795-BBD6-6039295A6277
 Type: VOICE UPDATE
 Date: 2024-08-27
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-27%20E8FCFD5C-92A6-4795-BBD6-6039295A6277.txt
@@ -1488,7 +1513,7 @@ Summary: Marketing is scheduled for August 29th at a Trump rally with graphics a
 UUID: 2397E815-C41B-42E7-8661-E956158615FB
 Type: VOICE UPDATE
 Date: 2024-08-30
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-08-30%202397E815-C41B-42E7-8661-E956158615FB.txt
@@ -1501,7 +1526,7 @@ Summary: The company confirmed two advertising slots at Candace Owens events in 
 UUID: 86A5699D-2613-418A-AD2E-F5E256462D93
 Type: VOICE UPDATE
 Date: 2024-09-03
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-03%2086A5699D-2613-418A-AD2E-F5E256462D93.txt
@@ -1510,7 +1535,7 @@ Summary: The direct on-ramp integration remains on track for September completio
 UUID: E67B0812-2B7C-4181-80D2-4FB8CDC88C8B
 Type: VOICE UPDATE
 Date: 2024-09-06
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-06%20E67B0812-2B7C-4181-80D2-4FB8CDC88C8B.txt
@@ -1583,7 +1608,7 @@ Summary: Part 8/8 of a multi-part clip archive documenting repeated Patriot Pay 
 UUID: 34DD6CE5-04B6-446F-8FE2-F01B583ED7A8
 Type: VOICE UPDATE
 Date: 2024-09-11
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-11%2034DD6CE5-04B6-446F-8FE2-F01B583ED7A8.txt
@@ -1592,7 +1617,7 @@ Summary: A marketing campaign from a weekend rally brought in approximately 200 
 UUID: 4FD7A271-1CEB-484A-8757-55DB73028147
 Type: VOICE UPDATE
 Date: 2024-09-20
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-20%204FD7A271-1CEB-484A-8757-55DB73028147.txt
@@ -1601,7 +1626,7 @@ Summary: The company is launching its first educational videos this weekend focu
 UUID: 4EF6AAE4-12EA-4430-B7D0-B0EA56A45F4E
 Type: VOICE UPDATE
 Date: 2024-09-27
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-09-27%204EF6AAE4-12EA-4430-B7D0-B0EA56A45F4E.txt
@@ -1614,7 +1639,7 @@ Summary: The company spent well into six figures on marketing over the past six 
 UUID: 24B8B8FD-244E-455D-941F-4191CC8B63E0
 Type: VOICE UPDATE
 Date: 2024-10-01
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-01%2024B8B8FD-244E-455D-941F-4191CC8B63E0.txt
@@ -1623,7 +1648,7 @@ Summary: Users are being asked to test a new $1 marketplace item by purchasing i
 UUID: 79A9DBDF-E78A-4E16-A0EB-99D642B45929
 Type: VOICE UPDATE
 Date: 2024-10-04
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-04%2079A9DBDF-E78A-4E16-A0EB-99D642B45929.txt
@@ -1632,7 +1657,7 @@ Summary: A major third-party partner is integrating a feature that will allow us
 UUID: 51CE8ED3-3A97-4680-8587-CE0FD0FC2184
 Type: VOICE UPDATE
 Date: 2024-10-15
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-15%2051CE8ED3-3A97-4680-8587-CE0FD0FC2184.txt
@@ -1641,7 +1666,7 @@ Summary: Educational videos for iPhone users in Safari are being fixed with thir
 UUID: 3CC13739-6855-4821-B60C-1E743099585F
 Type: VOICE UPDATE
 Date: 2024-10-22
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-10-22%203CC13739-6855-4821-B60C-1E743099585F.txt
@@ -1650,7 +1675,7 @@ Summary: Patriot Pay advertisements ran at Ohio State, Penn State, and UNC event
 UUID: 374B7E0B-7B73-4685-8B36-5536611A30B4
 Type: VOICE UPDATE
 Date: 2024-10-28
-Speakers: Sarah Abdul
+Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2024-10-28%20374B7E0B-7B73-4685-8B36-5536611A30B4
@@ -1663,7 +1688,7 @@ Summary: The FJB team is prioritizing long-term development over short-term midt
 UUID: BE8CC30F-C92E-4A12-89C2-7A182335576C
 Type: VOICE UPDATE
 Date: 2024-11-12
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-11-12%20BE8CC30F-C92E-4A12-89C2-7A182335576C.txt
@@ -1672,7 +1697,7 @@ Summary: The platform is experiencing issues with direct on-ramping and Change N
 UUID: 62DE3CE2-0338-42E9-8D04-78B201A11B05
 Type: VOICE UPDATE
 Date: 2024-11-22
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-11-22%2062DE3CE2-0338-42E9-8D04-78B201A11B05.txt
@@ -1685,7 +1710,7 @@ Summary: The speaker received final approval from Boris and is waiting for Steve
 UUID: BD0E6DBC-CD62-45B8-8905-A7BD135EC140
 Type: VOICE UPDATE
 Date: 2024-12-10
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-12-10%20BD0E6DBC-CD62-45B8-8905-A7BD135EC140.txt
@@ -1694,7 +1719,7 @@ Summary: The speaker is waiting for an update from Maureen and Steve and has not
 UUID: 879A7764-8F73-46DE-AC88-EDDB742DBA1E
 Type: VOICE UPDATE
 Date: 2024-12-27
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2024-12-27%20879A7764-8F73-46DE-AC88-EDDB742DBA1E.txt
@@ -1704,10 +1729,15 @@ Summary: The meeting with Maureen to schedule Patriot Pay promotion to the War R
 2025 JANUARY
 ~~~~~~~~~~~~~~
 
+UUID: C1430273-0211-4C2A-9E26-6130034653C6
+Type: SIGNIFICANT EVENT
+Summary: Patriot Pay Service Mark application classified as abandoned by USPTO
+Reference: 9F8FABEC-2D44-484E-BA68-29B01F4FC994 WEBPAGE ARCHIVE of the application status page
+
 UUID: 50CA4D79-D6AB-49F3-AE99-8A680299F6CE
 Type: VOICE UPDATE
 Date: 2025-01-31
-Speakers: 
+Speaker: 
 Platform: 
 Audio File: 
 Transcript: transcripts/2025-01-31%2050CA4D79-D6AB-49F3-AE99-8A680299F6CE.txt
@@ -1716,6 +1746,14 @@ Summary: The marketing campaign with War Room will include two weekly mentions o
 ~~~~~~~~~~~~~~
 2025 FEBRUARY
 ~~~~~~~~~~~~~~
+
+UUID: 9F8FABEC-2D44-484E-BA68-29B01F4FC994
+Type: WEBPAGE ARCHIVE
+Date: 2025-02-27
+Source: https://tsdr.uspto.gov/#caseNumber=98473360&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch
+WebArchive: [INCOMPLETE]
+LocalArchive: PublicEvidenceProcessed/webpages/uspto-dot-gov/2025-02-27%209F8FABEC-2D44-484E-BA68-29B01F4FC994
+Summary: This webpage captured using the SingleFile browser extension on 2025-02-27 shows an application filing date of 2024-03-28 for the 'Patriot Pay' Service Mark with the United States Patent and Trademark Office and that the application was "Abandoned because the applicant failed to respond or filed a late response to an Office action" on 2025-01-13.
 
 ~~~~~~~~~~~~~~
 2025 MARCH

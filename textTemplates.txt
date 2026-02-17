@@ -9,7 +9,7 @@ contact fjbvoicetranscripts@proton.me with updates/suggestions
 UUID: [UUID]
 Type: VOICE UPDATE
 Date: [DATE]
-Speakers: [1], [2], [3]
+Speaker: [1], [2], [3]
 Platform: [DISCORD], [TELEGRAM]
 Audio File: [URL]
 Transcript: [URL]
@@ -18,8 +18,8 @@ Summary: [TEXT]
 UUID: [UUID]
 Type: OWNERSHIP CHANGE
 Date: [DATE]
-Reference: [UUID][SHORT EXPLANATION]
-Reference: [UUID][SHORT EXPLANATION]
+Reference: [UUID][EXPLANATION]
+Reference: [UUID][EXPLANATION]
 
 UUID: [UUID]
 Type: ROLE CHANGE
@@ -116,6 +116,7 @@ Summary: [TEXT]
 UUID: [UUID]
 Type: AUDIO
 Date: [DATE]
+Speaker: [TEXT]
 Source: [URL]
 WebArchive: [URL]
 LocalArchive: [URL]
@@ -124,9 +125,23 @@ Summary: [TEXT]
 UUID: [UUID]
 Type: VIDEO
 Date: [DATE]
+Speaker: [TEXT]
 Source: [URL]
 WebArchive: [URL]
 LocalArchive: [URL]
 Summary: [TEXT]
+
+UUID: [UUID]
+Type: WEBPAGE ARCHIVE
+Date: [DATE]
+Source: [URL]
+WebArchive: [URL]
+LocalArchive: [URL]
+Summary: [TEXT]
+
+UUID: [UUID]
+Type: SIGNIFICANT EVENT
+Summary: [TEXT]
+Reference: [UUID][EXPLANATION]
 
 ##############
