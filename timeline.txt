@@ -1516,6 +1516,70 @@ Audio File:
 Transcript: transcripts/2024-09-06%20E67B0812-2B7C-4181-80D2-4FB8CDC88C8B.txt
 Summary: The company completed their direct on/off-ramp integration ahead of the end-of-month deadline and is finalizing app integration details including fee structures with their partner ChangeNow. Marketing efforts are intensifying with confirmed video advertisements at two Candace Owens events in late September (invoice just received), plus a rally advertisement scheduled for the following day with all contracts signed and payments completed.
 
+UUID: 741541C7-CE9C-4C95-A68E-447264FB8A6B
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/2024-09-07-1%20741541C7-CE9C-4C95-A68E-447264FB8A6B
+Summary: Part 1/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
+UUID: 74736E34-8BA7-4983-BA4F-37EC77F77852
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/video/2026-09-07-2%2074736E34-8BA7-4983-BA4F-37EC77F77852
+Summary: Part 2/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
+UUID: F2BEE294-9C08-4C76-B32C-ABB58BCD5146
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/2024-09-07-3%20F2BEE294-9C08-4C76-B32C-ABB58BCD5146
+Summary: Part 3/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
+UUID: AE09B2CC-D7A3-4F7B-ADB0-0CB620F1EF67
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/2024-09-07-4%20AE09B2CC-D7A3-4F7B-ADB0-0CB620F1EF67
+Summary: Part 4/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
+UUID: 5FAAF9B1-BC66-4261-ADD7-EA72FEB7336F
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/2024-09-07-5%205FAAF9B1-BC66-4261-ADD7-EA72FEB7336F
+Summary: Part 5/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
+UUID: 1C9909C2-8652-4AAB-B3F3-A3D5F9C20C69
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/2024-09-07-6%201C9909C2-8652-4AAB-B3F3-A3D5F9C20C69
+Summary: Part 6/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
+UUID: 68801347-A29B-40E3-AC6E-E2380F401896
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/2024-09-07-7%2068801347-A29B-40E3-AC6E-E2380F401896
+Summary: Part 7/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
+UUID: 89DF7B27-7C1A-4A18-9813-888272764440
+Type: VIDEO
+Date: 2024-09-07
+Source: https://www.youtube.com/watch?v=JIPMYzxdmVM
+WebArchive: https://web.archive.org/web/20240901000000*/https://www.youtube.com/watch?v=JIPMYzxdmVM
+LocalArchive: PublicEvidenceProcessed/2024-09-07-8%2089DF7B27-7C1A-4A18-9813-888272764440
+Summary: Part 8/8 of a multi-part clip archive documenting repeated Patriot Pay advertising at a Donald Trump campaign rally in Mosinee, WI
+
 UUID: 34DD6CE5-04B6-446F-8FE2-F01B583ED7A8
 Type: VOICE UPDATE
 Date: 2024-09-11

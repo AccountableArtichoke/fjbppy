@@ -109,14 +109,24 @@ UUID: [UUID]
 Type: IMAGE
 Date: [DATE]
 Source: [URL]
-WebArchive: [URL}
+WebArchive: [URL]
 LocalArchive: [URL]
 Summary: [TEXT]
 
 UUID: [UUID]
 Type: AUDIO
 Date: [DATE]
-Transcript: [PATH]
+Source: [URL]
+WebArchive: [URL]
+LocalArchive: [URL]
+Summary: [TEXT]
+
+UUID: [UUID]
+Type: VIDEO
+Date: [DATE]
+Source: [URL]
+WebArchive: [URL]
+LocalArchive: [URL]
 Summary: [TEXT]
 
 ##############
