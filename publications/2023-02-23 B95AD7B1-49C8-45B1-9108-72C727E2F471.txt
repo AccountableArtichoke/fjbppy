@@ -1,0 +1,175 @@
+ abcnews.com
+Internal chaos plagues Bannon-fronted $FJB cryptocurrency, critics say
+Soo Rin Kim, Laura Romero
+17–22 minutes
+
+When former Trump White House strategist Steve Bannon and Trump adviser Boris Epshteyn took control of a MAGA-branded cryptocurrency in December 2021, the venture seemed poised for success.
+
+A white-hot crypto market had set the stage for high returns. And in an industry that relies on promotion and marketing savvy, the two high-profile Trump associates quickly leveraged their enormous megaphones to attract throngs of buyers.
+
+Within weeks, the currency's value soared. Bannon and Epshteyn, two original architects of Donald Trump's political operation, promoted it relentlessly on social media and on Bannon's hit podcast, positioning it as a rejection of President Joe Biden and an alternative currency for conservatives that would support job creation and regularly donate to charities.
+
+The name of the coin itself sought to capitalize on political divisions; dubbed $FJB, the currency takes its name from the shorthand version of the vulgar MAGA expression "F--- Joe Biden."
+
+"We are now saying, 'Screw Joe Biden," Bannon said on his War Room podcast shortly after announcing his acquisition of the $FJB operation in December 2021. "It shows your total and complete independence ... you're going to very quickly have non-reliance on their financial system."
+
+But now, thirteen months on, the cryptocurrency has fallen on hard times. $FJB, now officially said to stand for Freedom Jobs Business, has lost 95% of its value, at least in part due to an industry-wide downturn. And some of those who say they bought the coin are flocking to social media with complaints about the fund's management and allegations that the coin's leadership and representatives have made false promises -- including accusations that they've failed in their commitment to continue to donate portions of the coin's proceeds to the Wounded Warriors Project and other charities.
+
+Compounding the coin's lackluster performance is a growing concern among self-identified buyers that Epshteyn and Bannon have, in effect, jumped ship.
+
+Critics say $FJB represents the latest in a string of ill-fated efforts to leverage MAGA support for financial returns -- particularly on the part of Bannon, who in September pleaded not guilty to unrelated charges that he defrauded donors with the promise of building a wall on the U.S.-Mexico border.
+
+A monthslong review by ABC News of $FJB representatives' and followers' weekly meetings and social media activity, as well as interviews with former company insiders and self-identified coin holders, details how $FJB plummeted under the weight of market trends, internal dysfunction, and allegations of unfulfilled promises.
+
+A person close to Bannon and Epshteyn told ABC News, "Steve and Boris are fully committed to the $FJB community, and are working with a proficient and dedicated team in order to continue moving forward with all of the goals and objectives of the project. There is also a full effort under way to determine and remedy any and all issues stemming from actions of the original founders of the coin. The $FJB community stands for and champions transparency, independence, and American strength. Steve and Boris will always fight for those ideals."
+'Excited to be a part of a charity coin'
+
+The $FJB project was acquired in late 2021 by Bannon and Epshteyn from original lead developer Grant Tragni. In their announcement touting the acquisition, Bannon and Epshteyn emphasized that it would be "a community of those who love America, who love freedom, and who support our veterans," and that part of the currency's proceeds would go to several charities.
+
+An announcement of the acquisition of the $FJB project by Steve Bannon and Boris Epshteyn is seen on the official $FJB website in a screengrab from February 2023.
+
+ABC News
+
+Prior to its acquisition by Bannon and Epshteyn, the original $FJB developers had already made a $10,000 donation to the nonprofit Wounded Warriors veterans' service organization -- and the two Trump allies said they would expand on that.
+
+During weekly calls beginning last summer, however, buyers began questioning the claims Bannon and Epshteyn had made about the potential of $FJB, including their commitment to make donations to charities supporting veterans and others.
+
+According to $FJB's website and source code, the donations would come from a part of the 8% transaction fee that $FJB charges every time a person purchases the crypto coin from the company.
+
+Experts ABC News spoke with said that while transaction fees are common in crypto projects, the 8% fee that $FJB is charging is significantly higher than normal.
+
+Epshteyn listed the Wounded Warriors Project, Tunnels To Towers, Semper Fi and Patriot Freedom Project as donation targets on an episode of Bannon's War Room podcast in December 2021.
+
+But according to a spokesperson of the Wounded Warriors Project, as of January this year, no donations have been made by $FJB to the organization since Bannon and Epshteyn took over in December 2021. Wounded Warriors told ABC News that they had only received the one donation from $FJB in November 2021 -- prior to Bannon and Epshteyn's involvement. Bannon and Epshteyn did not respond to a request for comment from ABC News.
+
+Over the last few months, $FJB administrators and Tragni, the coin's creator, also claimed to have made at least two charitable donations: a $500 donation to St. Jude Children's Research Hospital, and an unknown amount to an unnamed organization supporting 9/11 first responders. But the representatives haven't provided proof of those donations made by $FJB despite buyers' requests, prompting concerns among some online users who say they purchased the currency.
+
+The $FJB website is seen online, Jan. 16, 2023.
+
+ABC News
+
+"I was excited to be a part of a charity coin where transaction fees helped people," a user who claimed to have purchased $15,000 worth of $FJB coins wrote in August 2022 on the Discord messaging platform. "[But] for the past half a year, we have moved away from the original ideas of the coin we bought into. I'm still hopeful this project will help many people, but we have been met with overpromises and delays the WHOLE WAY."
+
+"At least all the millions made to charity donations.....oh wait that didn't happen," one frustrated user wrote on Discord this month.
+
+Molly White, a software engineer and outspoken critic of cryptocurrencies, and another cryptocurrency expert who asked not to be identified citing professional concerns, analyzed $FJB's digital code and said that while they found an account called "Wounded Warriors Donation address" that appears to set aside a portion of funds from the transaction fees, it wasn't clear from the code how much of the funds from the charitable account have actually been donated to charitable organizations.
+
+That's because much of the funds in those accounts get transferred to intermediary accounts that are difficult to follow, the experts said.
+
+For example, it appears that some of $FJB's charitable account money has made its way to an intermediary account that sends money to another account that makes high-risk investments in obscure coins, White told ABC News after reviewing $FJB's transactions.
+
+White said that although blockchain technology is supposed to make cryptocurrency transactions transparent to all users, that's not always the case.
+
+"Just because you can see a wallet doesn't mean you know what's happening to the money that's in it or where it's going," White said. "It's fairly straightforward for sufficiently motivated people to obfuscate the movement of money on the blockchain."
+
+And because of the largely unregulated and anonymous nature of the crypto space, except for a handful of high-profile figures like Bannon and Epshteyn, not much else is known about the rest of the $FJB community, including its buyers, holders, and even developers and staff members.
+
+Much of the $FJB's online community operates in anonymity, with even administrators who manage social media accounts, post announcements and host weekly calls only identifying themselves with their Discord and Telegram usernames instead of their full names.
+Missing funds
+
+In October 2022, lingering frustration among some apparent $FJB buyers boiled over when representatives of $FJB publicly acknowledged during one of their weekly calls that an unknown amount of money from accounts linked to the coin's 8% transaction fee had gone "missing."
+
+Despite the backlash and a deluge of concern online, representatives have not provided details about the missing funds, citing an ongoing "internal investigation" and "legal action."
+
+"We are not claiming the money has been stolen," an administrator known as Sarah who goes by the username "sundevil28" on the Discord and Telegram messaging platforms said during a weekly call on Dec. 7, 2022. "We're saying the funds are missing. They did not go to the purpose they were intended for, and that's as far as we'll speak on."
+
+Later, in response to growing frustration among online users, Sarah said during a weekly call in mid-December 2022, that "Boris [Epshteyn] is working on recovering our funds."
+
+Boris Epshteyn, legal advisor for the Trump 2020 campaign, speaks in Phoenix, Arizona, Nov. 7, 2020.
+
+Bloomberg via Getty Images, FILE
+
+Sarah did not offer any comment despite multiple requests from ABC News.
+
+White told ABC News that missing funds can be a sign of a troubled project.
+'It's just sort of downhill from there'
+
+The genesis of the $FJB cryptocurrency dates back to October 2021, when the coin was launched by Tragni, then a recent Rensselaer Polytechnic Institute graduate, and two others, according to a LinkedIn post and other accounts shared online.
+
+Popular Reads
+
+The project quickly "gained over 8,000 holders, donated $50,000 to charity, and had a market cap of $90 million, all within the first 40 days," according to Tragni's own account shared online.
+
+The coin's quick success and political messaging attracted the attention of Bannon and Epshteyn, who moved to acquire the cryptocurrency from Tragni and the other founders by December 2021.
+
+The two Trump associates have been circumspect about their exact involvement with $FJB. They have refrained from publicly claiming to own the company and have instead framed their move as a "strategic partnership" in which they have "significant control" over the project, without offering specifics.
+
+But descriptions on the official $FJB website, social media posts by Bannon and Epshteyn, and a review of $FJB's official Discord and Telegram messages from supporters and self-identified buyers suggest that the two MAGA celebrities have enormous control over the coin.
+
+ABC News also obtained a copy of a contract from December 2021 that grants Epshteyn and Bannon "control, administration, and governance of the coin." According to two cryptocurrency lawyers who were not involved in the transfer, the document shows a clear intent of transferring "full legal ... ownership" of the LLC responsible for administration and governance of $FJB to Bannon and Epshteyn's legal entities.
+
+"Bannon and Epshteyn agreed to take control of $FJB as their consideration for the deal," David B. Hoppe, a technology and media lawyer with Gamma Law in San Francisco, told ABC News.
+
+"On this one point, the agreement is clear and specific: Bannon and Epshteyn were obligated to assume control of marketing and promotion, updates to the smart contract code, guidance of the 'philosophy' of $FJB and 'other duties required to administer the coin,'" Hoppe said.
+
+After stepping down as the head of $FJB, Tragni stayed involved with the project to manage the currency's various accounts and help with community outreach, a source who was one of the developers of the coin but who did not want to be identified, told ABC News.
+
+Tragni, the coin's founder, did not respond to ABC News' requests for comment.
+
+Before long, Bannon and Epshteyn attracted other big-name Trump allies to help promote the project, including far-right commentator Jack Posobiec and former New York City Police Commissioner Bernard Kerik, according to $FJB's official website.
+
+Promoters of the $FJB project are seen on the official $FJB website in a screengrab from February 2023.
+
+ABC News
+
+MAGA supporters flocked to purchase the currency, and the coin's value quickly quadrupled.
+
+Like all cryptocurrencies, $FJB is non-regulated digital currency that users store in an online wallet through a decentralized public ledger known as a blockchain. Because the value of any cryptocurrency is derived from the amount of demand, crypto creators often use celebrities to promote their product -- in the same way that Tom Brady, Stephen Curry and Larry David hawked FTX, the now-defunct cryptocurrency exchange founded by embattled former CEO Sam Bankman-Fried.
+
+But success can be short-lived.
+
+"They launch, they get some amount of hype, and they sort of spike in price," White said. "And then it's just sort of downhill from there."
+
+For $FJB, the coin's value began a slow decline not long after Bannon and Epshteyn's initial announcement.
+
+Key figures like Posobiec and Kerik were removed from $FJB's website in the months that followed, and Bannon and Epshteyn's public promotion of the project waned, leaving the project's weekly status calls mostly to administrators, identified only with their Discord and Telegram usernames, who said they were in regular contact with the two MAGA influencers.
+'Left to flounder'
+
+As the value of $FJB entered freefall and questions arose online about the currency's management, Bannon and Epshteyn began paring back their relentless promotion of the coin online, which users said further degraded its value against the backdrop of a broader market slowdown through 2022 and early 2023 that impacted other cryptocurrencies like Ethereum and Bitcoin.
+
+To boost and renew interest, $FJB announced in early August 2022 that it was building an app for the cryptocurrency to support a "credit card, banks, all of it across the board." The plan briefly drove up the coin's value, but the excitement didn't last and the coin's value began to slide again -- with the much-anticipated app still struggling to function effectively, according to self-identified buyers.
+
+In September 2022, after weeks of pleas from self-identified buyers for Bannon to promote the coin on his War Room podcast, Bannon and Epshteyn finally appeared on $FJB's weekly status call to reassure buyers and make additional pledges about the future of the coin.
+
+Epshteyn boasted that the coin is "expanding to Europe" and Bannon reassured buyers that "it's going to be a MAGA coin."
+
+"I'm available 24/7 on this," Bannon said on a call on Sept. 17, 2022. "Boris will tell you, I'm working on this all the time. I'm proud to be part of this, proud to be part of the team."
+
+Steve Bannon, former advisor to former U.S. President Donald Trump, hosts an interview during the Conservative Political Action Conference CPAC held at the Hilton Anatole, Aug. 04, 2022 in Dallas.
+
+Brandon Bell/Getty Images, FILE
+
+After that, it appears that Bannon and Epshteyn went silent about $FJB for more than five months, ignoring pleas from supporters and coin holders asking them to publicly endorse the project and to address various questions being raised about the coin. During those months, only $FJB representatives and $FJB channel moderators on Discord and Telegram were communicating with followers and buyers, telling them that Bannon and Epshteyn were occupied with the 2022 midterms then promising that Epshteyn would join the weekly call before he ended up canceling at the last minute.
+
+"I do agree that it is very obtuse of [Bannon and Epshteyn] to put their names to this project 11 months ago and people put in thousands only to feel left to flounder," one user wrote on $FJB's Discord chat in December 2022.
+
+$FJB representatives recently told buyers during weekly calls that the project is in debt and is making back-payments to its developer and to cover other overhead -- leaving several projects on hold, including the launch of its much-anticipated app.
+
+"I lost 14 of my 16 grand," a user who claimed to have purchased $FJB wrote on Discord in December 2022. "I don't see how you can go forward before this is ironed out."
+Jumping ship?
+
+After months of silence, Bannon and Epshteyn delivered what appeared to be a death blow to $FJB holders this month when Sarah posted an announcement on Discord on Feb. 13 that the duo was walking away from the project.
+
+"Epshteyn and Bannon have accordingly decided to transfer and assign the rights and obligations of $FJB, Let's Go Brandon Coin," she wrote, adding that she had sold some of her own $FJB coins in order to "have some funds readily available."
+
+The coin again plummeted in value and buyers took to social media to air their grievances, with some lamenting the feeling of being "ripped off" by Bannon and Epshteyn.
+
+"My 15K worth $80 so it was a $14,920 lesson learned," one alleged coin holder wrote on Discord on Feb. 13, shortly after the announcement.
+
+The $FJB coin's value over time is seen in a webpage screengrab from February 2023.
+
+ABC News
+
+Shortly after Sarah posted on Discord about Bannon and Epshteyn parting with the company, she took down the post. Epshteyn took to social media that evening, reaffirming the duo's support for the coin.
+
+Then, two days after the initial announcement -- and after ABC News reached out to Bannon and Epshteyn about their involvement with $FJB -- Bannon reiterated his support for the project on his War Room podcast.
+
+"Not only am I a huge supporter of that project and the community, my wallet -- Boris and my wallet -- is public," Bannon said on Feb. 15. "I've not only never sold a coin, I've only bought coins, and that wallet is public. Everybody, check it. We are huge supporters of the $FJB project and the community." A person close to Epshteyn told ABC News that Epshteyn has also never sold an $FJB coin.
+
+Subsequently, on Feb. 17, Sarah also reiterated that she, Bannon and Epshteyn "remained committed to the coin and organization, and look forward to the future."
+
+White, the cryptocurrency critic, said it's not uncommon for cryptocurrency buyers to "hold out hope much longer than seems reasonable to the outside observer," because they want to convince other people that the token has value.
+
+"It's pretty common to see people who put money into these things, who sometimes see evidence of absolute misbehavior ... sort of willfully ignore it for a really long time just because they are financially invested in the project going well," White said.
+
+ABC News' Olivia Rubin contributed to this report.

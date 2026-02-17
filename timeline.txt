@@ -637,7 +637,7 @@ Transcript: transcripts/2022-08-25%2008389890-8D4F-4226-A81A-2383A5A2E85E.txt
 Summary: Eric Finman announced he will be promoting the Freedom Jobs and Business crypto wallet app during his America's Future PAC midterms tour starting in September, which has already received 50,000 RSVPs across three events. The development team is adding major cryptocurrencies including Bitcoin, Dogecoin, Ethereum, and BNB to the wallet platform to create a comprehensive one-stop solution for cryptocurrency transactions that can compete with established platforms like Coinbase.
 
 ~~~~~~~~~~~~~~
-SEPTEMBER
+2022 SEPTEMBER
 ~~~~~~~~~~~~~~
 
 UUID: FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4
@@ -730,9 +730,27 @@ Summary: Testing instructions for PPY will be released over the weekend with a 5
 2023 FEBRUARY
 ~~~~~~~~~~~~~~
 
+UUID: B95AD7B1-49C8-45B1-9108-72C727E2F471
+Type: PUBLICATION
+Date: 2023-02-23
+Source: https://abcnews.com/US/internal-chaos-plagues-bannon-fronted-fjb-cryptocurrency-critics/story?id=96460952
+WebArchive: https://web.archive.org/web/20260217060900/https://abcnews.com/US/internal-chaos-plagues-bannon-fronted-fjb-cryptocurrency-critics/story?id=96460952
+LocalArchive: publications/2023-02-23%20B95AD7B1-49C8-45B1-9108-72C727E2F471
+Publisher: ABC News
+Author: Soo Rin Kim, Laura Romero, Olivia Rubin
+
 ~~~~~~~~~~~~~~
 2023 MARCH
 ~~~~~~~~~~~~~~
+
+UUID: 73A75DCC-F9C7-4ECA-A986-F59236976A37
+Type: PUBLICATION
+Date: 2023-03-14
+Source: https://digital.abcaudio.com/news/federal-prosecutors-looking-bannon-backed-cryptocurrency-fjb-say-sources
+WebArchive: https://web.archive.org/web/20230315122502/https://digital.abcaudio.com/news/federal-prosecutors-looking-bannon-backed-cryptocurrency-fjb-say-sources
+LocalArchive: publications/2023-03-14%2073A75DCC-F9C7-4ECA-A986-F59236976A37
+Publisher: ABC Audio
+Author: Aaron Katersky, Soo Rin Kim, Laura Romero
 
 ~~~~~~~~~~~~~~
 2023 APRIL
@@ -1891,3 +1909,39 @@ WebArchive: Web archive unavailable due to site restrictions
 LocalArchive: publications/2026-02-13%205548AAF5-7CCB-4F4D-B768-FAC1591090D5
 Publisher: Reuters
 Author: Mike Scarcella
+
+UUID: 1264CC80-2A4A-40B4-8546-1EAC9F5B8AD8
+Type: PUBLICATION
+Date: 2026-02-14
+Source: https://gizmodo.com/trump-affiliates-bannon-and-epshteyn-named-in-lets-go-brandon-crypto-coin-lawsuit-2000722241
+WebArchive: https://web.archive.org/web/20260214215131/https://gizmodo.com/trump-affiliates-bannon-and-epshteyn-named-in-lets-go-brandon-crypto-coin-lawsuit-2000722241
+LocalArchive: publications/2026-02-14%201264CC80-2A4A-40B4-8546-1EAC9F5B8AD8
+Publisher: Gizmodo
+Author: Kyle Torpey
+
+UUID: A6FC7ADF-1AE2-42CB-9489-AC96FA456A7E
+Type: PUBLICATION
+Date: 2026-02-16
+Source: https://www.rawstory.com/steve-bannon-2675274218/
+WebArchive: https://web.archive.org/web/20260217062538/https://www.rawstory.com/steve-bannon-2675274218/
+LocalArchive: publications/2026-02-16%20A6FC7ADF-1AE2-42CB-9489-AC96FA456A7E
+Publisher: RawStory
+Author: Robert Davis
+
+UUID: 93BABC9C-4B26-44AE-98C7-7B4FA45EB433
+Type: PUBLICATION
+Date: 2026-02-16
+Source: https://financefeeds.com/lawsuit-claims-bannon-linked-crypto-project-concealed-risks-from-retail-investors/
+WebArchive: https://archive.is/kxgBC
+LocalArchive: publications/2026-02-16%2093BABC9C-4B26-44AE-98C7-7B4FA45EB433
+Publisher: FFEEDS DMCC
+Author: Abdelaziz Fathi
+
+UUID: 37F0611F-F7B7-4694-875C-A4399B9672EB
+Type: PUBLICATION
+Date: 2026-02-17
+Source: https://www.thebulwark.com/p/steve-bannon-lawsuit-memecoin-fjb
+WebArchive: https://web.archive.org/web/20260217063108/https://www.thebulwark.com/p/steve-bannon-lawsuit-memecoin-fjb
+LocalArchive: publications/2026-02-17%2037F0611F-F7B7-4694-875C-A4399B9672EB
+Publisher: The Bulwark
+Author: Will Sommer

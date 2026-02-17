@@ -1,0 +1,24 @@
+ gizmodo.com
+Trump Affiliates Bannon and Epshteyn Named in ‘Let’s Go Brandon’ Crypto Coin Lawsuit
+Kyle Torpey
+4–5 minutes
+
+According to a court document published by Bloomberg Law, Steve Bannon and Boris Epshteyn were named as defendants in a class-action lawsuit regarding Let’s Go Brandon Coin, which is a crypto token that was launched in 2021. Among other allegations, the lawsuit claims that the memecoin was promoted as stable and decentralized when, in reality, it involved a large amount of centralized control and management. It also claims the token was used by the defendants to exploit their audiences and the followers of a broader political movement.
+
+“Defendants deliberately targeted a politically aligned and deeply loyal audience—individuals who trusted Defendants’ judgment, motives, and commitment to shared values—and encouraged them to invest in the Token as a means of participating in a broader movement,” claims the court filing. “Defendants’ conduct was particularly insidious because it exploited that trust to induce purchases of an unregistered, highly speculative asset under the guise of financial independence and community membership.”
+
+Although it popped up prior to the memecoin frenzy that occurred on the Solana-based crypto platform Pump.fun in 2024 and 2025, the creators and promoters of Let’s Go Brandon Coin are facing accusations similar to those faced by the “Hawk Tuah” girl and many others in a separate lawsuit focused on a variety of coins launched on Solana and Pump.fun.
+
+That said, the class action lawsuit states that the defendants repeatedly stated that Let’s Go Brandon Coin was not a memecoin and promoted it as “a serious financial project with real-world utility, charitable purpose, and resilience against inflation, debanking, and financial censorship.”
+
+Previous reporting from Protos indicates Let’s Go Brandon Coin was originally launched on Binance Smart Chain, which is the proprietary blockchain network associated with global crypto exchange Binance, rather than Solana.
+
+The document also alleges that the defendants had centralized control over the token via its associated smart contract and the ability to freeze user funds, which reportedly did happen, despite claims that users of the token would be “uncancellable.”
+
+The documents also allege a number of securities violations took place with Let’s Go Brandon Coin. This is notable because there has been a reversal of crypto policy under the Trump administration, which both of the key defendants in this case are affiliated with in one way or another. Bannon served as chief executive of Trump’s 2016 presidential campaign and as chief strategist in his first administration, while Epshteyn acted as a senior advisor during the 2016 campaign and has continued to advise the president as a member of his inner circle since then.
+
+“The securities laws exist precisely to prevent influential insiders from exploiting trust, obscuring material facts, and shifting risk onto retail investors without transparency or registration,” claims the lawsuit. “This action seeks to make Defendants answer for their conduct, restore what was taken from investors, and deter the misuse of public platforms and personal influence.”
+
+Notably, the SEC put out guidance last year shortly after Trump took office, claiming that memecoins should not typically be regarded as securities for regulatory or legal purposes. House Democrats have written to the SEC regarding fears of corruption and pay-to-play schemes involving crypto during Trump’s second term, particularly in the cases of TRON founder Justin Sun and the pardon of Changpeng Zhao, who is the former CEO of crypto exchange Binance. On top of these corruption accusations, both President Trump and First Lady Melania Trump also launched their own memecoins, which are both down 95% or more from their all-time highs.
+
+The crypto industry is currently hoping to get further regulatory clarity and approval signed into law via the CLARITY Act, but the legislation hit a roadblock last month in the form of crypto exchange giant Coinbase pulling their support for a draft version of the bill. The prospects of the legislation getting signed into law this year are now unclear, with prediction market Kalshi currently putting the odds at 52%.
