@@ -313,6 +313,21 @@ Author: Jim Hoft
 2022 JANUARY
 ~~~~~~~~~~~~~~
 
+UUID: 2A239FA0-F13C-4FB3-A589-4C7B939A7C32
+Type: EXCHANGE LISTING
+Date: 2022-01-04
+Exchange: LBANK
+Evidence: 9614083E-8532-4EE5-82BB-7A3BA0E7633A Press release written by LBK Blockhain Co. Limited (LBANK) regarding the laugh of FJB Trading
+
+UUID: 9614083E-8532-4EE5-82BB-7A3BA0E7633A
+Type: PUBLICATION
+Date: 2022-01-04
+Source: https://maxbit.cc/fjb-coin-is-now-available-for-trading-on-lbank-exchange
+WebArchive: https://web.archive.org/web/20220105090159/https://maxbit.cc/fjb-coin-is-now-available-for-trading-on-lbank-exchange
+LocalArchive: publications/2022-01-04%209614083E-8532-4EE5-82BB-7A3BA0E7633A
+Publisher: MaxBit
+Author: LBK Blockchain Co. Limited
+
 UUID: 45629FB3-091D-40F3-974E-CFC45AB13FDC
 Type: VOICE UPDATE
 Date: 2022-01-06
@@ -1669,14 +1684,14 @@ Summary: The marketing campaign with War Room will include two weekly mentions o
 ~~~~~~~~~~~~~~
 
 UUID: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0
-Type: LEGALDOC COMPLAINT
+Type: LEGAL COMPLAINT
 Date: 2026-02-12
 Source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.289360/gov.uscourts.dcd.289360.1.0.pdf
 WebArchive: https://web.archive.org/web/20260214200421/https://storage.courtlistener.com/recap/gov.uscourts.dcd.289360/gov.uscourts.dcd.289360.1.0.pdf
 LocalArchive: filings/2026-02-12%203D8EEBE5-3173-4391-AC4D-98D61F8233D0.txt
-Court: United States District Court for the District of Columbia
-Case Number: 1:26-cv-00452
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
 Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
 Plaintiff: Andrew Barr, individually and on behalf of all others similarly situated
 Plaintiff Counsel: Eric S. Rosen, Constantine P. Economides, Yusef Al-Jarani — DYNAMIS LLP
 Defendant: Stephen K. Bannon; Boris Epshteyn; Sarah Abdul; Grant Tragni; Let's Go Brandon Coin LLC; Patriot Pay LLC; Warroom LLC; 354 Nod Hill LLC; TWinds LLC
@@ -1687,6 +1702,168 @@ Relief Sought: Class certification; rescission or rescissory damages; compensato
 Relief Sought: Punitive/exemplary damages; pre- and post-judgment interest; attorneys' fees and costs; declaratory relief
 Damages Claimed: UNSPECIFIED (named plaintiff ~$58,731; class aggregate exceeds $5,000,000)
 Filing Fee: 405
+
+UUID: 87654321-FEDC-BA98-7654-3210FEDCBA98
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamisllp.com
+Defendant: 354 Nod Hill LLC
+Defendant Address: 354 Nod Hill LLC
+Defendant Counsel: [NOT PROVIDED]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%2087654321-FEDC-BA98-7654-3210FEDCBA98
+Reference: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to 354 Nod Hill LLC
+
+UUID: 7317D5F1-058C-4BA6-AAD4-5D9B8C25264C
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamisllp.com
+Defendant: Warroom LLC
+Defendant Address: c/o United Corporate Services, Inc., 1912 Capitol Ave Ste 500, Cheyenne, WY 82001
+Defendant Counsel: [NOT PROVIDED]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%207317D5F1-058C-4BA6-AAD4-5D9B8C25264C
+Reference: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Warroom LLC
+
+UUID: AED4802B-E4E5-47BC-B4D1-B7C189E8FE3D
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamislp.com
+Defendant: Let's Go Brandon Coin LLC
+Defendant Address: [INCOMPLETE]
+Defendant Counsel: [INCOMPLETE]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%20AED4802B-E4E5-47BC-B4D1-B7C189E8FE3D
+Reference: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Let's Go Brandon Coin LLC
+
+UUID: FFCCB771-B0D6-4D8D-8E23-87A25FF7B5D5
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamislp.com
+Defendant: Sarah Abdul a/k/a Sarah Abdul Razzaq a/k/a Sarah Abdulrazzi a/k/a Sarah Abdul Williams a/k/a Sarah Abdul Elliott
+Defendant Address: [INCOMPLETE]
+Defendant Counsel: [INCOMPLETE]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%20FFCCB771-B0D6-4D8D-8E23-87A25FF7B5D5
+Reference: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Sarah Abdul a/k/a Sarah Abdul Razzaq a/k/a Sarah Abdulrazzi a/k/a Sarah Abdul Williams a/k/a Sarah Abdul Elliott
+
+UUID: 445F6F1A-693F-4A71-A38B-9E73623C276B
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamisllp.com
+Defendant: Boris Epshteyn
+Defendant Address: [INCOMPLETE]
+Defendant Counsel: [INCOMPLETE]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%20445F6F1A-693F-4A71-A38B-9E73623C276B
+Reference: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Boris Epshteyn
+
+UUID: 4AA92C04-B495-452B-B6A5-E33A0FC93390
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamislp.com
+Defendant: Patriot Pay LLC
+Defendant Address: c/o A Registered Agent, Inc., 8 The Green, Ste A, Dover, DE 19901
+Defendant Counsel: [INCOMPLETE]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%204AA92C04-B495-452B-B6A5-E33A0FC93390
+Reference: 4AA92C04-B495-452B-B6A5-E33A0FC93390 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Patriot Pay LLC
+
+UUID: 82322F20-7030-4D6D-B5C2-0C48F9BAE390
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamislp.com
+Defendant: Grant Tragni
+Defendant Address: [INCOMPLETE]
+Defendant Counsel: [INCOMPLETE]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%2082322F20-7030-4D6D-B5C2-0C48F9BAE390
+Reference: 4AA92C04-B495-452B-B6A5-E33A0FC93390 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Grant Tragni
+
+UUID: 97A7EAC7-FA2B-4BBD-A114-50B5AF2D6665
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamislp.com
+Defendant: TWinds LLC
+Defendant Address: [INCOMPLETE]
+Defendant Counsel: [INCOMPLETE]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%2097A7EAC7-FA2B-4BBD-A114-50B5AF2D6665
+Reference: 4AA92C04-B495-452B-B6A5-E33A0FC93390 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Twinds LLC
+
+UUID: D185A275-DA4E-4311-938C-681FB48F9348
+Type: LEGAL SUMMONS
+Date: 2026-02-12
+Court: UNITED STATES DISTRICT COURT for the District of Columbia
+Jurisdiction: FEDERAL
+Case Number: 1:26-cv-00452
+Plaintiff: Andrew Barr, on behalf of himself and all others similarly situated
+Plaintiff Counsel: Eric S. Rosen, 175 Federal Street, Suite 1200, Boston, Massachusetts 02110, (617) 802-9157, erosen@dynamislp.com
+Defendant: Stephen K Bannon
+Defendant Address: [INCOMPLETE]
+Defendant Counsel: [INCOMPLETE]
+Response Deadline: Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12(a)(2) or (3)
+Default Consequence: If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint
+Attached Documents: 3D8EEBE5-3173-4391-AC4D-98D61F8233D0 Complaint
+LocalArchive: filings/2026-02-12%20D185A275-DA4E-4311-938C-681FB48F9348
+Reference: 4AA92C04-B495-452B-B6A5-E33A0FC93390 Initiating LEGALDOC COMPLAINT
+Summary: Federal civil summons issued to Stephen K Bannon
 
 UUID: 52FD4379-33D5-4D51-A07D-2DF9D9E177FF
 Type: Publication
