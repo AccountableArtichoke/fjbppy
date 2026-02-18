@@ -626,6 +626,15 @@ Summary: The Android app is now live on Google Play Store and the iOS app is in 
 2022 AUGUST
 ~~~~~~~~~~~~~~
 
+UUID: B11520D0-D50D-40AF-BF6C-B1E8E1D2BAC6
+Type: VOICE UPDATE
+Date: 2022-08-07
+Speaker: Erik Finman
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2022-08-07%20B11520D0-D50D-40AF-BF6C-B1E8E1D2BAC6.txt
+Summary: [INCOMPLETE]
+
 UUID: FEB01E25-B443-4E7A-A6B5-CD3B9C89AC52
 Type: VOICE UPDATE
 Date: 2022-08-19
@@ -647,6 +656,15 @@ Summary: Eric Finman announced he will be promoting the Freedom Jobs and Busines
 ~~~~~~~~~~~~~~
 2022 SEPTEMBER
 ~~~~~~~~~~~~~~
+
+UUID: ABC4FE52-9DED-4667-A3CB-384C6EB819D7
+Type: VOICE UPDATE
+Date: 2022-09-15
+Speaker: Erik Finman
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2022-09-15%20ABC4FE52-9DED-4667-A3CB-384C6EB819D7
+Summary: [INCOMPLETE]
 
 UUID: FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4
 Type: AUDIO
@@ -670,6 +688,15 @@ Audio File:
 Transcript: transcripts/2022-10-24%20D317EDDD-4491-4062-BFC3-1A9689A4E884
 Summary: The liquidity pool for FJB is scheduled to unlock on November 18 but will be immediately relocked thereafter to maintain project stability. Major updates are underway, including new contracts to address meme coin functions, team member replacements, merchandise rollout with a new vendor pending simple graphic designs, and a targeted app launch before Thanksgiving, contingent on today's leadership call outcomes.
 
+UUID: 5B507FD4-788D-46A0-B06B-DEECB1BA734A
+Type: VOICE UPDATE
+Date: 2022-10-20
+Speaker: Sarah Abdul, Velo
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2022-10-20%205B507FD4-788D-46A0-B06B-DEECB1BA734A
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~
 2022 NOVEMBER
 ~~~~~~~~~~~~~~
@@ -680,7 +707,16 @@ Date: 2022-11-01
 Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
-Transcript: [INCOMPLETE]
+Transcript: transcript/2022-11-01%2045BCAB47-5232-49C0-8BA3-9CCCB0E1EFFF
+Summary: [INCOMPLETE]
+
+UUID: 3C95EFBF-D157-402B-B239-137972C0EF7E
+Type: VOICE UPDATE
+Date: 2022-11-04
+Speaker: [INCOMPLETE]
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2022-11-04%203C95EFBF-D157-402B-B239-137972C0EF7E
 Summary: [INCOMPLETE]
 
 UUID: BC024F8E-B7E2-4A90-9288-CB27740DF402
@@ -701,6 +737,15 @@ Audio File:
 Transcript: transcripts/2022-11-10%20424116D3-EA3F-4522-8B82-B5C5BE3F5722
 Summary: The FJB project has uncovered tens of thousands of dollars in missing marketing and charity funds, along with overdue bills, prompting an internal investigation and legal action by founders B&B to recover assets while emphasizing community restraint to avoid jeopardizing proceedings. Under new management, a revised tax structure will incorporate at least one holder-benefiting mechanism such as burns, reflections, or LP additions, coupled with commitments to public announcements of expenditures, bi-monthly community-voted donations, and transparent financial tracking to rebuild trust.
 
+UUID: FF4B6708-554C-40B3-A70C-D207BDD69D8F
+Type: VOICE UPDATE
+Date: 2022-11-11
+Speaker: [INCOMPLETE]
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2022-11-11%20FF4B6708-554C-40B3-A70C-D207BDD69D8F
+Summary: [INCOMPLETE]
+
 UUID: 97903B33-0E8B-4D32-AD10-43881F45F13C
 Type: VOICE UPDATE
 Date: 2022-11-18
@@ -719,9 +764,99 @@ Audio File:
 Transcript: transcripts/2022-11-22%209D55B54A-6A63-4B8F-B9E0-958F23998FC0
 Summary: The FJB project is addressing a $20,000 debt through imminent launches of a merchandise store featuring items like t-shirts, ornaments, and stickers, alongside FJB gift card integration expected to generate holiday-season revenue. App enhancements, including a smart wallet to eliminate gas fee issues via volunteer audits and community testing, are prioritized for deployment soon, while the liquidity pool remains unlocked in a new secure dev wallet pending a reliable third-party relock.
 
+UUID: 968BA8B9-8DF6-43CB-9E13-54CDE24413F2
+Type: VOICE UPDATE
+Date: 2022-11-29
+Speaker: [INCOMPLETE]
+Platform: [DISCORD], [TELEGRAM]
+Audio File: [INCOMPLETE]
+Transcript: transcripts/2022-11-29%20968BA8B9-8DF6-43CB-9E13-54CDE24413F2
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~
 2022 DECEMBER
 ~~~~~~~~~~~~~~
+
+UUID: 98A22492-6D88-461D-B73D-2CD1A7CE3568
+Type: VOICE UPDATE
+Date: 2022-12-02
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2022-12-02%2098A22492-6D88-461D-B73D-2CD1A7CE3568
+Summary: [INCOMPLETE]
+
+UUID: 29D2CF93-5A98-48E8-864D-7414E24F3D40
+Type: VOICE UPDATE
+Date: 2022-12-07
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2022-12-07%2029D2CF93-5A98-48E8-864D-7414E24F3D40
+Summary: [INCOMPLETE]
+
+UUID: 783E22FA-CAE8-4152-99EC-A75087AAFCE8
+Type: VOICE UPDATE
+Date: 2022-12-09
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2022-12-09%20783E22FA-CAE8-4152-99EC-A75087AAFCE8
+Summary: [INCOMPLETE]
+
+UUID: 8704D474-B795-4DCB-B77E-1FDF069D20DF
+Type: VOICE UPDATE
+Date: 2022-12-13
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2022-12-13%208704D474-B795-4DCB-B77E-1FDF069D20DF
+Summary: [INCOMPLETE]
+
+UUID: 869C3A62-1921-4B19-8EB8-3E01C7AEF980
+Type: VOICE UPDATE
+Date: 2022-12-16
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2022-12-16%20869C3A62-1921-4B19-8EB8-3E01C7AEF980
+Summary: [INCOMPLETE]
+
+UUID: FF527D24-1B17-4CF0-B3C3-02E52C2668DC
+Type: VOICE UPDATE
+Date: 2022-12-20
+Speaker: [INCOMPLETE]
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2022-12-20%20FF527D24-1B17-4CF0-B3C3-02E52C2668DC
+Summary: [INCOMPLETE]
+
+UUID: 0AC55D4F-3A3A-44B5-A4D2-5A927D04313B
+Type: VOICE UPDATE
+Date: 2022-12-23
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2022-12-23%200AC55D4F-3A3A-44B5-A4D2-5A927D04313B
+Summary: [INCOMPLETE]
+
+UUID: 6AE85765-90BE-4733-B5EC-7C118DC73432
+Type: VOICE UPDATE
+Date: 2022-12-27
+Speaker: 
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2022-12-27%206AE85765-90BE-4733-B5EC-7C118DC73432
+Summary: [INCOMPLETE]
+
+UUID: 8B9308CA-052B-4784-9A2E-1C470F9366F2
+Type: VOICE UPDATE
+Date: 2022-12-30
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2022-12-30%208B9308CA-052B-4784-9A2E-1C470F9366F2
+Summary: [INCOMPLETE]
 
 ~~~~~~~~~~~~~~
 2023 JANUARY
@@ -736,9 +871,81 @@ Audio File:
 Transcript: transcripts/2023-01-05%20B8AFAACA-CDB7-4489-934F-935807871DBA.txt
 Summary: Testing instructions for PPY will be released over the weekend with a 5,000 PPY per buy limit ($2 worth), allowing community members to test through wallets like TrustWallet and MetaMask before full trading is enabled with 24-hour notice. The anti-bot system will tax traders who sell within a customizable timeframe after buying (potentially 12-24 hours), with double the standard 8% tax rate to prevent sandwich bot attacks that previously affected FJB holders.
 
+UUID: 25613B1E-2654-4A74-AA47-301D620BA6AE
+Type: VOICE UPDATE
+Date: 2023-01-06
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-01-06%2025613B1E-2654-4A74-AA47-301D620BA6AE
+Summary: [INCOMPLETE]
+
+UUID: 6CFDA74E-8509-4DE5-B5A1-5F9E4F566971
+Type: VOICE UPDATE
+Date: 2023-01-10
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-01-10%206CFDA74E-8509-4DE5-B5A1-5F9E4F566971
+Summary: [INCOMPLETE]
+
+UUID: 6E317BD6-CAF8-4E72-9067-E679ED9B448B
+Type: VOICE UPDATE
+Date: 2023-01-13
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-01-13%206E317BD6-CAF8-4E72-9067-E679ED9B448B
+Summary: [INCOMPLETE]
+
+UUID: 787BA77B-BCDE-4FB5-8E2C-724B96176FE3
+Type: VOICE UPDATE
+Date: 2023-01-17
+Speaker: [INCOMPLETE]
+Platform: TELEGRAM
+Audio File: 
+Transcript: transcripts/2023-01-17%20787BA77B-BCDE-4FB5-8E2C-724B96176FE3
+Summary: [INCOMPLETE]
+
+UUID: DC653B41-BE80-4A68-A027-2E91B3F4C60C
+Type: VOICE UPDATE
+Date: 2023-01-24
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-01-24%20DC653B41-BE80-4A68-A027-2E91B3F4C60C
+Summary: [INCOMPLETE]
+
+UUID: D028E253-9055-4893-B62D-0337F99B5530
+Type: VOICE UPDATE
+Date: 2023-01-27
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-01-27%20D028E253-9055-4893-B62D-0337F99B5530
+Summary: [INCOMPLETE]
+
+UUID: E6408B68-7763-4934-9DDB-46FF3387637F
+Type: VOICE UPDATE
+Date: 2023-01-30
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-01-30%20E6408B68-7763-4934-9DDB-46FF3387637F
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~
 2023 FEBRUARY
 ~~~~~~~~~~~~~~
+
+UUID: 2107079B-6BCB-470A-A6E0-ED1337593A6E
+Type: VOICE UPDATE
+Date: 2023-02-07
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-02-7%202107079B-6BCB-470A-A6E0-ED1337593A6E
+Summary: [INCOMPLETE]
 
 UUID: B95AD7B1-49C8-45B1-9108-72C727E2F471
 Type: PUBLICATION
@@ -749,9 +956,54 @@ LocalArchive: publications/2023-02-23%20B95AD7B1-49C8-45B1-9108-72C727E2F471
 Publisher: ABC News
 Author: Soo Rin Kim, Laura Romero, Olivia Rubin
 
+UUID: AACE706F-F0E6-470A-8CB4-34AE9306AC9E
+Type: VOICE UPDATE
+Date: 2023-02-24
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-02-24%20AACE706F-F0E6-470A-8CB4-34AE9306AC9E
+Summary: [INCOMPLETE]
+
+UUID: FE358CE3-3B3B-451C-A062-A61949C1192A
+Type: VOICE UPDATE
+Date: 2023-02-28
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-02-28%20FE358CE3-3B3B-451C-A062-A61949C1192A
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~
 2023 MARCH
 ~~~~~~~~~~~~~~
+
+UUID: 853657DD-AEF3-48FA-97CD-175672F61469
+Type: VOICE UPDATE
+Date: 2023-03-03
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-03-03%20853657DD-AEF3-48FA-97CD-175672F61469
+Summary: [INCOMPLETE]
+
+UUID: FD08795E-3F61-453D-AC85-0C4FD77D3CF5
+Type: VOICE UPDATE
+Date: 2023-03-10
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-03-10%20FD08795E-3F61-453D-AC85-0C4FD77D3CF5
+Summary: [INCOMPLETE]
+
+UUID: 0B6831F4-BE3E-43DA-999C-352ACFEBA573
+Type: VOICE UPDATE
+Date: 2023-03-14
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-03-14%200B6831F4-BE3E-43DA-999C-352ACFEBA573
+Summary: [INCOMPLETE]
 
 UUID: 73A75DCC-F9C7-4ECA-A986-F59236976A37
 Type: PUBLICATION
@@ -762,13 +1014,76 @@ LocalArchive: publications/2023-03-14%2073A75DCC-F9C7-4ECA-A986-F59236976A37
 Publisher: ABC Audio
 Author: Aaron Katersky, Soo Rin Kim, Laura Romero
 
+UUID: 4EC7ECC7-06E6-45C1-B224-961A9C1372B8
+Type: VOICE UPDATE
+Date: 2023-03-17
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-03-17%204EC7ECC7-06E6-45C1-B224-961A9C1372B8
+Summary: [INCOMPLETE]
+
+UUID: 4EC7ECC7-06E6-45C1-B224-961A9C1372B8
+Type: VOICE UPDATE
+Date: 2023-03-17
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-03-17%204EC7ECC7-06E6-45C1-B224-961A9C1372B8
+Summary: [INCOMPLETE]
+
+UUID: 38301DFA-6D9F-4304-86B8-187AA9D53678
+Type: VOICE UPDATE
+Date: 2023-03-28
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-03-28%2038301DFA-6D9F-4304-86B8-187AA9D53678
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~
 2023 APRIL
 ~~~~~~~~~~~~~~
 
+UUID: 69F71D58-292D-44D9-A4DE-9F97F932499C
+Type: VOICE UPDATE
+Date: 2023-04-05
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-04-05%2069F71D58-292D-44D9-A4DE-9F97F932499C
+Summary: [INCOMPLETE]
+
+UUID: B35FB186-25A4-4CAA-9107-053DCE1FBB8F
+Type: VOICE UPDATE
+Date: 2023-04-18
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-04-18%20B35FB186-25A4-4CAA-9107-053DCE1FBB8F
+Summary: [INCOMPLETE]
+
+UUID: 73BB12C1-8041-4604-B6D9-547BEBFCDA2E
+Type: VOICE UPDATE
+Date: 2023-04-25
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-04-25%2073BB12C1-8041-4604-B6D9-547BEBFCDA2E
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~
 2023 MAY
 ~~~~~~~~~~~~~~
+
+UUID: 2C6A7CF3-8234-4C52-93EC-F51BE3FA0754
+Type: VOICE UPDATE
+Date: 2023-05-02
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-05-02%202C6A7CF3-8234-4C52-93EC-F51BE3FA0754
+Summary: [INCOMPLETE]
 
 UUID: 7D59E935-6CC4-4537-B92A-BB3485EB5D0C
 Type: VIDEO

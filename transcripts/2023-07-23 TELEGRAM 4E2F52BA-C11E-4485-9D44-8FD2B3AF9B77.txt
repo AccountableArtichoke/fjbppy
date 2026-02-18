@@ -1,0 +1,456 @@
+[Speaker 1]
+Happy Tuesday. Can you all hear me? Awesome, thank you.
+
+It's been, it's been a quick week. I feel like it's gone by pretty quickly. So I just wanted to get on in case anybody had any questions and also just a few reminders from the past several days, starting with the scammer situation.
+
+If you heard about that, we had a holder say that his coins got transferred. I believe he entered or his mom entered it into a sketchy link. Please just be careful of that.
+
+I always try to remind people even buying over the counter from me or letting me know in DMs of their large orders. Please do not give your seed phrase to anybody, not me, not anybody pretending to be me. You know, no kind of support, no trust wallet support, no telegram support, nobody.
+
+And that's why I say not even me, not anybody pretending to be me. Please remember that. I know the holder was pretty upset, but we can't just, you know, you can't just tell us, well, this is a scammer wallet.
+
+We can't go around locking any wallet. And we also can't reimburse you for those coins just because, you know, if we were to lock a scammer wallet, that does not mean we can reimburse you with those coins. So just a reminder for everybody, I'm really sorry, super unfortunate.
+
+You know, we don't know, say we lock a wallet, well, that could have been an over counter purchase or over counter sale, which is why we can't do that. We've been in hot water before for locking wallets. And that is why we don't do that anymore.
+
+So thank you for understanding. I'm super sorry if you or somebody you know, has gotten scammed, but unfortunately, there is nothing the team can do as far as reimbursing you or I know like the, you know, reimbursing you with floating coins or anything like that, that we've gotten DMs about. I am super, super sorry, just please don't give your seed phrase to anybody.
+
+Don't click on sketchy links either to connect your wallet. You know, if it's not right into your wallet of MetaMask extension or your trust wallet or your FJB app, don't click on a link and you know, it asks you to connect your MetaMask wallet or connect your trust wallet. Don't just connect on any website because that's where you can be giving up your seed phrase.
+
+Just wanted to go over that again, just so we're all on the same page. I really wish we could do more. But unfortunately, that's just something we cannot do.
+
+So just be careful out there. We did have an amazing meeting early this morning with what I believe to be our next developer dev team. We will keep you posted.
+
+Our friends do have an Indian holiday tonight. So they said they will get back to us ASAP. I think that should be great.
+
+I will update you as soon as I hear something, even if it is before Friday's voice. And that is all the updates I have. As far as questions, I know I received a message asking me to please read the questions that I get more loudly.
+
+So I will make sure to do that if we get any questions here. Let's see, where can I get a hold of an FJB coin gift card? I recommend I can get you a gift card right now.
+
+However, I highly recommend waiting. I think it'll be easier for you with all the new changes coming up. But if you'd still very much like one now, and it's not, you know, gift card will still be valid, all of that.
+
+I'm not saying anything crazy like that. So don't let your imagination run wild. But feel free to DM me and I can get that done for you.
+
+Seabeast.
+
+[Speaker 2]
+I feel like I haven't seen that name for a while. That's who it is. It's universal fun with two ends now.
+
+Is that the real universal? I don't know.
+
+[Speaker 1]
+All right, East Indian. Zenny asked Indian holiday East Indian or American Indian East Indian. I believe it's called I want to say he said it was Holly.
+
+And it's a like a paint, colorful kind of celebration. I googled it as he said it and it actually looked pretty awesome. I think that's where we got like all the color runs and those ideas maybe from.
+
+So yeah, I'm pretty sure that's what it's called. Well, I don't know how you pronounce that. Holly.
+
+I think maybe. But yes, going back to the FJB gift cards. Feel free to DM me if you would like a gift card.
+
+Any other questions? I was gonna just have a water but I made a margarita. It's been so hot today.
+
+So hot. Top app dev to do list? Matt is asking.
+
+We will be starting on finding out why transactions are failing should be a super simple fix. Generally before when transactions were failing, it would be because transact or change now change their limits like a, you know, on a minimum, say of a purchase. However, our last dev actually added something to the code that was really brilliant.
+
+And our team was very proud of because he did it really just on his own was that now it should be an automatic like if change now ups their limits, our app should automatically recognize that. So I don't think it would be that issue again, but I'm not sure. So we'll be starting there just to make sure that transactions are not failing and that users can complete their transactions.
+
+That will be definitely first on the list. Will the app show transaction history and correct price? Yes, absolutely.
+
+Yes, that is definitely the goal. I think we were making great progress before and I can't wait for us to continue that. I'm excited for you all to see the work.
+
+Is Boris going to do a voice chat? I do not have an answer for that currently, but as soon as we do have an answer or a time, I will definitely update you. I think Bannon and Boris getting us on War Room, shouting us out on War Room, hopefully made it clear to everybody kind of the reset button.
+
+FJB and BNB have hit. To get back on schedule, I understand everybody is getting a little bit restless and that's definitely understandable. Trust me, I don't like where we are right now as far as how everything, how long everything's taking.
+
+But I do want to remind you that, you know, we did say we're trying to figure out at the beginning of the year, something that really is more long term and more on a schedule. Whether it's, you know, this War Room mentions, voice chats, anything like that for the year. So I understand it's taking longer than we'd like it to, but we really hope that getting all this agreed upon will solve it for the future once we're on schedule and kind of smooth sailing.
+
+So we're not constantly kind of, you know, wishing and hoping for appearances and all that. How are we going to bring in new holders and or volume? I don't think that's changed from before.
+
+As far as definitely events, War Room, but this starts with getting the app functioning for everybody so that Bannon can just ask everybody to download the app or and, excuse me now, or starting with rebranding so that we're, our applications are accepted by vendors and we can actually have booths at events where we can sell gift cards. 25, 50 bucks a pop. Will there be a War Room segment devoted to FJB coin before year's end?
+
+I'm not sure about that and I do not want to give you the wrong answer or give you any false promises. So I'm sorry, I'm not trying to be secretive, but I hope you understand. That's why we'd like everything now, yeah, literally T's crossed, everything signed before we share it.
+
+Will there be marketing on TV for FJB? I think that would be amazing. I think billboards would be amazing, marketing on TV would be amazing, but I think that's where the comes back to rebranding and I know I looked into radio ads and they were completely on board until somebody realized what FJB stands for.
+
+Will there be a road map to have an idea of where we are going? Yes, that's going back to the last two voice chats or so and even, you know, in December. The reason we don't want to just put out a road map or a white paper like we have before without getting everything actually agreed upon.
+
+You know, we can easily do that and make everybody happy for a bit, but we don't want to do that until we're 100% sure that everybody involved is on board and committed to everything in the road map in the white paper before letting the community know. And while that's frustrating, I hope you can appreciate that. I hope you can appreciate the honesty and integrity in that.
+
+Oh, going back to the scammer thing too, since I don't have any questions right now, please be careful. I know everybody's familiar with having scammers on Telegram. We're very familiar with, you know, there's people that have made up like fake admins like a fake Sarah page.
+
+We've seen, I believe, other admins to fake, you know, a fake profile pretending to be me or any other admin. That's been very common this week in Discord. So please be wary of that too.
+
+I know we all have off days and I know we're all familiar or most of us are familiar with Telegram scammers doing that, but please be aware again that Discord scammers have been doing the same. I think we've had two, maybe even three profiles in the last, uh, 48 hours, less than 48 hours pretending to be me. Um, and having the same logo and either one or two of them were Sarah.
+
+One of them was Sun Devil, but like with a different S. So again, please be careful again, even with me, you should never be sending me your seed phrase. So it really doesn't matter if it's, uh, me or somebody pretending to be me.
+
+You don't want to give out any sensitive information like that. Um, if I ask you for anything, it's going to be your public wallet address. Uh, you know, if I'm trying to help you out or troubleshoot anything.
+
+So, and that's just public that's, you know, scammers and going to be able to do much with that. But again, just be careful again, it really doesn't matter if it's my real, um, profile or somebody pretending to be me. But obviously if you accidentally send it to me, I'm just going to delete it and tell you not to do that again, versus a scammer is going to go ahead and probably empty your wallet.
+
+So, uh, please be careful on Discord of the fake admin profiles in case somebody else is pretending to be me or other admins to just, just don't give your seed phrase to anybody. Don't give your seed phrase to your mom. Yeah.
+
+I would definitely not give my seed phrase, uh, or my mom's. I would not give my mom her seed phrase, honestly, definitely not. And my mom is super young too.
+
+Estimate for when everything in writing completed was hoping for last week. Yes, me too. Um, unfortunately that's taking longer than expected, which, um, again, I know is really frustrating.
+
+We appreciate your patience, but I hope you at least appreciate the transparency of why I'm not giving a date. Um, because it's not in my control and I really appreciate your patience. Um, with this morning's awesome call and, uh, yeah, with, with the awesome call this morning, I really hope it's by the end of this week.
+
+If it's not, we at least have, um, as long as we get things worked out with Adeb, we can at least get going on everything else, uh, while we wait for B&B. Yes, Zenny, please delete it and do not send it. I have had people send me their, uh, seed phrase again.
+
+Fortunately, if you send it to my real, uh, profile, I can just delete it and tell you never to share that again, but you won't be so fortunate with scammers. The only way we have massive volume is Bannon war room segment or new listing on exchanges, advertising, marketing, it's time for some serious volume. Are we going to burn, burn tokens?
+
+Uh, yes, absolutely. Can't wait to share all of that with you as soon as it's finalized. I just don't want to share anything that is not finalized because I just don't want to, uh, just make some false promises.
+
+If we're not sure as far as I go and the advisors go, everybody is super on board again, just waiting for a B&B to go ahead and get everything approved so that we know they are on board to push this through. And I don't think we'll, um, after that happens, I think a lot of us, most of us will be very, very happy. Wow.
+
+Excuse me. I was not expecting that. I have a hole in my straw.
+
+Why does it take them so long to sign off on these projects? Um, I know they're busy individuals, but I honestly believe they are. And I know who is it?
+
+Diesel or Jan diesel and Jan. I get mixed up between you guys's telegram and discord name. Pretty sure Jan and diesel are different people because they, Jan's discord name starts with a C, but, um, they are having, I'm very sure legal review everything.
+
+Um, especially with the recent events we've had, uh, and hopefully that's understandable. You've said in discord not too long ago that the project has a long, long, long way to go. Is it safe to assume we shouldn't hope for a moon until 2024 election?
+
+Um, I don't think so. I don't think that's, um, necessarily 2024 election. I think it's a bit long.
+
+Um, but yes, I do think that we have quite literally hit the reset button, I believe, um, this year. And I do think it's going take us a long time. I say that in a positive light, to be honest.
+
+Um, I'm just basically asking holders not to think it's, you know, we're, we're mooning next week. Um, I hate that phrase. Boris hates that phrase, but so, so I do now too.
+
+Um, and I try not to ever use that, but, um, yeah, it's, um, basically it's less of saying we have a long way to go to move forward. Um, versus we have so much growth to do still, if that makes sense. Um, yeah, but I think we're on a great path.
+
+And I think once we get through this little bit, um, it'll be smooth sailing from there. Yeah, I'm sure stuff will still come up, but I really think we're getting through the most, uh, difficult part of it. And I truly believe that.
+
+Is it taking long because no one is funding the activities? I'm not sure what activities you're talking about. Uh, let me see what is any, I'm pretty sure we've seen this.
+
+Uh, I'm pretty sure this is an old website. I don't know if somebody can look up how long it's been around, but this looks familiar. Yeah.
+
+I'm pretty sure this is an old, and I, I don't think we ever figured out who this website, uh, belongs to correct me if I'm wrong, but I'm pretty sure this is the one we've seen before, which is fjbcoin underscore info. Well, that's our Twitter fjbcoin.info. Yeah, I'm pretty sure that was it. Um, win something, win Lambo, roadmap app, fork, et cetera.
+
+Uh, so our app will be, uh, we start working on that as soon as we are in agreement with a dev team, uh, roadmap along with white paper, uh, as soon as B and B are on board with everything, uh, fork, et cetera. I'm not sure about that. Can not make those commitments.
+
+[Speaker 2]
+Which road to take at fork? What? What?
+
+[Speaker 1]
+I don't know. I don't know what you're asking. Which road to take at fork?
+
+I have no idea. Are Bannon and Boris involved with the dev hires? Um, they, no, they are not the directly the committee is who's on the committee.
+
+Uh, one of Boris's assistants, uh, runs, uh, those folks and their identities are, uh, anonymous. Are Bannon and Boris involved with the rebranding? Yes.
+
+That is a part of what we are waiting on. Have you selected a name for the rebranding? Uh, no, we have not.
+
+There are several ideas. A short list. I will provide a few, uh, names as soon as I can.
+
+Feel free to send me any ideas you have to, or if you guys want to vote on any of your ideas, send them over either way. Feel free to, uh, tag me or DM me. I know last time in discord, I believe you guys sent, uh, several great ideas to America first.
+
+True. Um, with everything America USA based, the issue we've had is that BNB planned to make this a worldwide app. So that's, um, something they've stayed away from in the past.
+
+Just FYI, when you're giving, uh, your suggestions. Freedom app. That's been a very popular one.
+
+Understandably. That says agreed need to be worldwide. Yeah, that's kind of, um, the issue there with anything like either USA or America kind of keeps us, uh, limited, which we're trying to get away from, right?
+
+We're trying to just be cross the board conservative, of course, but more, uh, freedom loving cross the world for, uh, all international users too. Freedom app has fin association. Does it?
+
+I don't know. Oh, you mean it's like freedom phone. Okay.
+
+I see that. I thought you were just saying like when he was around here, I'm thinking, well, probably be so much bigger that how, you know, how many people actually remember when fins here, especially in a few months and several months. I know Jan will, but not everybody else.
+
+Freedom coin, Bannon's hammer coin, Jan loves Finn. I know. It seems like it.
+
+I swear every time I'm in here, Jan's talking about Finn. Finn's a good man. Very, very good man.
+
+I will say. I think it would be cool to have a name that, I mean, not necessarily, this is just by the way, complete like opinion as just another holder. Um, I think it would be cool to have an app name that could also be used as a name for the merge.
+
+I think that'd be really cool. That's lovely. Jan's still here.
+
+Yeah. I just saw Jan. Like definitely.
+
+I think I'm pretty sure today. Any association with Himalaya coin? Um, not that I know of.
+
+No. Alamo coin? No, I don't remember that.
+
+[Speaker 3]
+Let's see. What's that?
+
+[Speaker 1]
+Take down CCP coin. With rebranding, we will have to fork, correct? Um, no.
+
+Because the original plan anyway is to rebrand the app. And basically everything else, right? So our merch, the chats, website, um, kind of go more so for what we love pro freedom, pro what have you versus FJB.
+
+Any plans to make it a place to donate to candidates? Yes, absolutely. Um, I don't know if you were the person to originally, uh, suggest that to him, but whenever this was originally, uh, suggested in like recent months, I forget if it were you or somebody else, um, that idea was taken very seriously.
+
+Freeman coin. Don't we have to in order to change logos on exchanging? Um, do you mean the, on the app stores?
+
+I believe that, um, it was decided on, or at least what we're getting from several devs, everybody, but one dev is that we should be able to change the logo in the app store and Google play store without, um, needing to do anything else like trust while it still has LGB. Oh yes. Um, I believe trust while it was, I think what, over 10,000 holders, we would get a logo was the deal at the time.
+
+I'm not sure if that's still the case, of course, exchanges, um, and while it's change their rules all the time. So I'm not sure if that's still the case, but I know before the word was that, uh, after 10,000 holders, we'd be able to update with the logo. I don't imagine that we would need to fork to have a new logo, but we can always double check that when we get there.
+
+I don't know why I made bacon as my phone call snack, because that's going to be way too crispy. Sam says we need affiliation with Himalaya. I wonder, is Bannon still on that?
+
+Does anybody know? The first Google question is, is Himalaya coin real?
+
+[Speaker 2]
+Um, two, I don't know.
+
+[Speaker 1]
+I can ask. Winston says we meet third times. Any idea what Bannon means by grow rapidly?
+
+Um, my understanding was really everything we've been talking about as far as getting out there and making our app, whatever name we decide to stick with, whether that stays as Freedom Jobs Business or we change it into a different name, um, a household name, uh, especially for conservatives. Uh, that's definitely my understanding. Uh, and I think we can definitely get there with one, Bannon, and, uh, two, just being present at events as soon as they will allow us to be.
+
+How close to agreeing on a new dev? Um, our meeting from this morning seemed to go really well. Uh, like I said, our friends in India are having a holiday tonight.
+
+Holly, I think. I'm not sure how you say that. Sorry if I'm butchering it.
+
+Um, and they'll get back to us tomorrow with a final proposal that so far seems to be the best we've, uh, best meeting we've had with devs, um, so far.
+
+[Speaker 2]
+Is Velo still helping? I believe Velo will always be a part of us. Absolutely.
+
+Uh, Nomar Newman, no.
+
+[Speaker 1]
+Unfortunately not. We're getting devs from India. Um, the agency we were interviewing, have been interviewing, is based in India.
+
+Yes. Zenny is funny tonight. There's several websites for that.
+
+We need at least war room shoutouts right now. Just say something for one minute at the end of the shows. I think Bannon's been pretty good there.
+
+Did India devs give ETA on completion of app? Um, no, because I don't know if you mean just getting the app like functional. Um, but we don't really know what's, why that's happening with the app.
+
+Last time transactions were failing, it was a super easy fix. So hopefully it's the same. Um, the reason it is taking us a bit longer this time around to find a dev is we're hoping to keep somebody long-term for maintenance.
+
+Um, somebody that's committed to be here for a while. I wouldn't say drinking a martini, maybe. I can't see if that's an orange or a lemon slice, but definitely it looks like martini glass.
+
+Are you on calls with Bannon Arboris or do you have an intermediary that you go through? Um, I've not been on the phone with Bannon for quite a while. Uh, but both.
+
+I was just on the phone with Boris, uh, probably about a week ago. And the same goes for texts. Is Boris who we are waiting on to put everything in writing or someone else?
+
+Um, we're just trying to get B&B to get on board and approve everything that we have proposed. How about ask them to do a recording and just say hey to us all? Uh, we can definitely do that.
+
+We've done that in the past, um, but that was kind of before we had a lot of changes. So. Thank you, Zinni.
+
+Have a great night. Have they verbally agreed to everything proposed? Uh, they are on, um, board for making all the changes to move forward.
+
+Um, not, they are not on board, like, as far as specific changes. And I don't mean not on board as far as like they haven't agreed to them or like, you know, they haven't disagreed with them. Um, I imagine they're still reviewing that.
+
+I know they both definitely want, um, FJB to succeed like we all do.
+
+[Speaker 2]
+And, uh, I believe they'll, uh, do what it takes to get there.
+
+[Speaker 1]
+There's Jan. When can we pump the charts? Uh, as soon as we get our app working, then, uh, I would say probably rebrand so we can be, we can stop getting denial letters, instead get acceptance letters.
+
+Um, and then go from there. I think it'll be perfect timing. Um, will the coin be used for any utility in the app?
+
+Um, I think having users, uh, or giving users the ability to donate to, uh, political candidates is a great utility. Um, I think that'll be perfect timing for the 2024 elections too. Um, but there's, uh, plenty of others, I think, from the original plan as far as making FJB or whatever we decide, um, as far as the name goes, um, a conservative currency.
+
+Sorry, I'm trying to read on. Uh, you mentioned 150 gift cards a couple of voice chats ago. Are they still wanting that?
+
+Uh, yes, as far as I know. Uh, let me look up the time for that.
+
+[Speaker 2]
+Okay, let's see when that was needed for.
+
+[Speaker 1]
+See, I don't think I actually ever got a time on that, but yes, as far as I know, um, 150 gift cards. Has changed now, got back to you about where the- no, actually they've not. Tramzak is very, very- but we can ping again.
+
+Um, but I wouldn't be worried about them, honestly, with the way that, uh, Tramzak was set up. I may be wrong, but I imagine they're both set up in the same way, where they- they're having it billed up in their, you know, wallet, um, until they- until it reaches a certain threshold for them to ask us for a wallet address for it to be transferred to. I don't believe that it is going, excuse me, anywhere right now where it's not supposed to be, um, but again, I'm just assuming with the way that Tramzak runs.
+
+Is the co- is the team looking at a stable coin being added to LP? I'm not sure about that. I know, uh, we've mentioned optimism before, um, I think right now with everything else in the works, um, that's taken priority.
+
+Um, I'm sure, I have no doubt that'll be considered. When will Tramzak move back to tax-free wallet? Um, I think that'll be discussed once the upcoming changes are approved.
+
+There is or was concern that change- now fees are going to special ed. Yeah, I don't know where, um, that rumor started. Uh, if anybody knows, feel free to let me know or DM me because, uh, because I'm- I'm not sure.
+
+When are you buying back in? Um, I will be keeping my funds in the wallet in case we need them for FJB for the time being. I think that, uh, takes priority right now and, uh, especially with all the changes we hopefully have coming up.
+
+There's a snake. Better safe than sorry. Uh, yeah, no, I- I understand you guys have your- I'm just wondering if, like, did special ed ever say that or did somebody just- was there something that could be traced or did we- did somebody just kind of start that rumor?
+
+And yeah, totally understand. I'll definitely, uh, ping them again about that. I don't imagine after what, uh, happened that anybody would be um, misplacing funds, but again, no clue, so try to think the best of people.
+
+Are they paying you yet? Uh, I'm assuming BNB? I assume that's what you're asking.
+
+Yes, uh, I have not been paid. Um, don't worry about me. Don't worry about me, um, and I say that, um, in a positive tone.
+
+I hope you guys understand. Same with, like, the me buying back in. I- they'll be- it's- it's fine.
+
+I'm good, um, and I would really like to keep those funds in case we do need them for, uh, the changes we have coming up. I was gonna say, I don't think, but I know that I've not, uh, spent a penny of that. Although I do need to pay bills tonight, actually.
+
+[Speaker 2]
+FJB bills.
+
+[Speaker 1]
+Any hands on what the tax will be after changes? Um, I promise I'm not trying to be secretive. I just would rather us, um, go ahead and get everything finalized, and then, um, of course, we'll, you know, it's not- we're not gonna have you guys wait for a roadmap and the white paper and all that.
+
+As soon as that's finalized, we'll go ahead and share it with the community, um, to let you all know. But I just don't want you guys to come back and say, oh, well, you said this, so I'd rather wait till it's all finalized in writing, um, to share everything. Because I'm sure you've seen how many changes, uh, we've gone through, even after we think stuff is finalized, and then it changes again.
+
+Ed says, Sarah says, zero tax. As Discord rams, he said, Nick was, if it's Ed or Nick, it doesn't matter, just question where tax is going. Yeah, I imagine that was talk of the old management and, uh, tax dollars back then.
+
+So, but we will revisit with change now again, and I will update you as soon as I go back. Was marketing spend covered? What will that look like?
+
+I'm not sure what that means.
+
+[Speaker 2]
+What's Forrest's cell number? Oh, my gosh.
+
+[Speaker 1]
+I had somebody else Google that. One of our friends put something on Instagram that was like, um, I'm, I'm teaching my wife stuff that she won't know, like, phrases that she'll have to Google. And I shared that with him.
+
+He's like, that sounded so innocent. I'm like, hey, I had to just Google it last week. I'm sorry.
+
+Oh, okay. What will future marketing look like? Again, we are so close, and I promise I will share all that once it is finalized.
+
+But we are hoping for, of course, War Room. Of course, really more in-person events because that's where a lot of the more mature, seasoned folks are, versus online, conservative rallies, and definitely have a more online presence too, as well as an offline presence. Billboards would be amazing.
+
+Yeah. And actually, after looking into a lot of these, including even like radio ads, a lot of them really don't cost that much in perspective. Like a lot of these billboards or radio ads, I just expect it to cost so much more than they actually did or do.
+
+Can the tax go to a burn versus adding to LP and clarity on that? Um, I think the current plan for that is something you'll be very happy with. And again, I promise I'm not trying to be secretive.
+
+We just want everything agreed upon before we share it with you all. But yes, I think that'll be great. I think everybody will be happy with the sort of reset button that's been pressed recently.
+
+Is there anyone new that has been added to the committee of late? No. Sorry.
+
+Sorry to my Discord DMs. Is there anyone new that has been added to the committee? What's the question? I have such a bad habit of that.
+
+No, it's a very small team. B&B are a very small team. Yeah.
+
+Digital airstrike incoming. I feel like we would need to bring Finn back for that. I love Finn.
+
+I wish most of you would see Finn's true personality. He really is an awesome, awesome person. I wish you all would have seen that.
+
+I know a lot of people do actually. Believe it or not, a lot of people in my DMs do are like, I really do believe Finn was a good person. I really liked him.
+
+How much merch did War Room sell at CPAC? I'm not sure. Are we going to need a separate booth table or can we share with War Room?
+
+I'm pretty sure we would need a separate booth table. But we can always double check on that. I think with the way everything is set up and the way contracts are, I wouldn't be surprised if we needed our own.
+
+Finn was the face of FJB. Any plans on a new face? Yeah, Bannon.
+
+Come on, Ed. As far as other influencers, yes. Now the downsides of that is influencers have gotten, I feel like, day by day get more expensive.
+
+It's kind of nuts. But that's why I really would like to go the in-person route. Or like, even on our website, you know, have a link where you can buy a shirt and you also receive the FJB gift card.
+
+And that's something that Bannon can easily push out. A trust wallet has multiple on-ramps. Has the team considered other on-ramps for app MoonPay?
+
+It might keep Transact competitive. Yes and no. The issue with a lot of them, well one, is cash in a lot of it.
+
+The other issue we've had when we originally, when the guys were originally building the app about a year ago, is it would look like a lot of the on-ramps, that's what he asked about, yeah, for a second I'm like, was it off-ramps? So it looked like an on-ramp would be compatible with the way our app was set up and then they'd work on it for weeks and then it wouldn't work. So that's the issue there.
+
+But I'm sure that's not a problem once we get there, honestly. Right now, just trying to get a brand new foundation set up, if you will, and make sure we have BNB's commitment to it. And I think that's number one priority there, along with really rebranding so that we are no longer just receiving all these letters of denial, basically.
+
+Ed! Look at that hair. Come on.
+
+We have missed it earlier, but what are we waiting on now? We're still waiting on approval from BNB. We did have an amazing, I did have an amazing meeting with devs this morning that I think will work really well for us.
+
+Fingers crossed. Send prayers, but I will keep you updated on that. And so with that, yes, it has progressed from last week.
+
+Does Transac have a warning about foreign transaction fee? We need to get them to add a disclaimer. No, they do not, but this issue was supposed to be solved at the end of this month, actually.
+
+Remember when they were, so their Transac is in the process of getting licensed here in the US. And I had checked with them and we confirmed that once they do get licensed here, banks would no longer, banks in the US would no longer be charging the foreign transaction fee. However, Transac is taking a bit longer than quarter one to get that off ramp and to get all that licensing completed.
+
+So to answer your question, that was in on our list, actually, of the app task list to add that to our users. And then when we figured, oh, okay, well, Transac's going to be taking care of this in quarter one, you know, was no longer a priority on our list. But yes, that's a great idea and definitely has come up before.
+
+But again, be assured once they, once Transac's licensing in the US is completed, we do have confirmation from them that banks out here will no longer be charging that foreign transaction fee. Oh, mouthful. Can we share websites?
+
+Sure. I don't have a website. Somebody said it was supposed to be live.
+
+I forget what date they said. So I'm not sure if it's live yet. I'm curious to even see their merch.
+
+Does anybody have a link or pictures? That'd be cool. Can FJB merch be listed in a war room store?
+
+We can definitely propose that. I'm not sure if he has other contracts that keep him from doing that. I know that's an issue we've had in the past, even with putting our like banner behind him, like a small banner.
+
+I believe, I'm sure somebody will correct me if I'm wrong, but I believe he did put it behind him. I know we like mailed it out and everything. And I'm not sure on that, but I believe we did.
+
+Well, I know we sent it out. I just don't remember if he actually put it behind him for a few of the shows or not, but I know he was not able to ultimately. Thank you for the call.
+
+It's time to put the plan into action and make sure we are part of the next bill cycle. We are missing out on opportunities. Waiting is time for action and right now is a great time for us to get moving.
+
+Yes, absolutely. I agree. And again, I know it's taken longer than we wanted to, but I really do believe that we are moving forward quite a bit, and especially in the last month.
+
+Yeah, even though it may not seem like it, I can promise you that. Yeah, but it's been great. Does anybody have a link to that war room store?
+
+Do we visit live? I know somebody, somebody said, let's see. Last time I looked at it and I said, maybe they said Monday.
+
+I'm not sure. I don't see it on the website now. I know they said after CPAC because it was launching at CPAC, but I don't see it.
+
+Let's see. Let's look at gather. I feel like they've posted there.
+
+Did you cover already what the devs are going to work on? First on the list would be figuring out why transactions are failing. That's definitely number one.
+
+Shoot, I guess I'm not signed in. I don't want to sign in and then log everybody else out. Okay, I don't see the link, so I imagine they don't have the war room store up yet.
+
+Okay, the guy that had his coin stolen a couple of days ago because of his mom, not worth locking those coins, so can't dump, question mark. So the issue with that, unfortunately, is we can't lock a wallet just because we're told that that was a scammer, right? Unfortunately, that's unethical.
+
+That's something we've been in hot water for before. I'm sure you've seen the articles. If you haven't, just google them.
+
+So that's, you know, unfortunately, we can't do that. That's a lot of liability on our end. Yeah, that's as simple as that, and we definitely cannot reimburse those coins, even if we were to lock the wallet.
+
+I know the holder was very frustrated and kind of wanted all that, and unfortunately, that's not something we could do to protect us, the coin, the owners, and the holders, all of you. So I hope that makes sense, but yeah. Just please be careful.
+
+Kind of goes to everybody. Again, do not share your seed phrase with anybody. I know, like Ed, I know your sister has, you know, bought over the counter a few times for me, and I told her a few days ago before this whole scammer situation.
+
+I'm like, I don't know why, but something is telling me to tell you, please don't give your seed phrase to anybody, not even me or anybody pretending to be me, you know, and she said, you actually drilled that into her. So yeah, if you have your mom's seed phrase, don't give your mom her seed phrase. I would never give my mom her seed phrase.
+
+No. She asks for it. Tell her you'll take care of it for her.
+
+So that's the issue behind that, but again, a reminder to please, please, please. I understand we all have dumb moments, and we all have bad days, and I know a few of the users here have, you know, during COVID, while they weren't feeling well, shared their seed phrase. Please just don't, and don't sign into some sketchy link, right, because sometimes it won't be somebody in a chat.
+
+It'll be somebody in a chat who gives you a link, and then the link looks legit to you. So you enter your seed phrase. Please don't do that either, because unfortunately, we will not be able to lock that wallet.
+
+We will not be able to reimburse you for those coins, or the tax fees. I'm so sorry, and I know, you know, I've heard, well, the old team did this. I'm sorry, we are not the old team.
+
+I guess I've been here since then, but you get the idea. With the incompatibility of other on-ramps with the app, was that for all coins and app, or just FJB? I am not sure about that, to be completely honest with you, but that's something we can definitely look into.
+
+Any other questions? By the way, if you have not listened to Morgan Wallen's new album, I recommend you do. I had to listen to it a few times to kind of start liking a few songs.
+
+Still good for quarter one announcement? Yes. Absolutely.
+
+Unless B&B, say no. Absolutely not. But then I think that will still give us time to go ahead and shift some things around to still have an announcement by quarter one.
+
+Or by the end of quarter one. Yes, yes, yes. I'm hoping that we get to an agreement with the devs I spoke to this morning, and I think that will get everything else going.
+
+So hopefully this Friday, we hear indie and dev company on board, and maybe everything in writing. Yes, I'm hoping on the dev company before Friday. I know they have a holiday tonight, which I think their tonight was today.
+
+So hopefully hearing from them tomorrow morning. But I will keep you updated on that, even if I hear from them before Friday. I'll definitely make an announcement.
+
+And then as far as everything in writing from B&B, definitely. Or I'll let you know if we're needing to make some changes. Reason I kept pressing on ramp issue is because the team wants to add other coins to the app, yes, definitely.
+
+We want to add every coin possible, open the highways for them for new coin holders. Oh, yeah, I get it. That's a great idea.
+
+Yeah, we'd like to get as many coins as we possibly can add it to the app. And I think I think that'll be great. I think timing will be awesome.
+
+With the 2024 elections. My wallet transaction. Yeah, there's again, no doubt that scams happen.
+
+Unfortunately, again, we cannot just go around locking wallets or reimbursing you from, you know, marketing charity wallets. So again, I'm so so sorry, guys, I really, really wish there was a way for this not to happen. I really wish there was more we could do about it.
+
+But unfortunately, due to liability to protect the coin and its holders. I'm sorry, that's the downside of, you know, crypto, I suppose. So please, please, please just don't share that seed phrase with anybody.
+
+Again, not even me, not anybody pretending to be me. And not, you know, if your mom texts you that, hey, she needs her seed phrase, you know, if you think that, hey, my mom is gonna fall for a scammer, probably speak to your mom about that. I know I definitely would not give my mom her seed phrase, you know.
+
+So yeah, again, I'm so sorry. I really wish there was more we could do. But we can't for the interest of the coin and the community.
+
+That's something we've been in hot water for before. So the FJB is sitting in a wallet that honestly has had very, very little history. So, yeah.
+
+All right. I think that seems to be all the questions. But I promise I will update you as soon as I hear back from the devs from this morning.
+
+As soon as we get everything approved from BNB, even if it's before Friday, we'll see. Maybe you'll either do a voice chat or announcement, depending on how much information I have or how little, if it could just be summed up in a quick announcement. As always, let me know if you have any questions.
+
+Just DM me or tag me. Again, please, as a reminder, do not give your seed phrase and don't put them into any shady links. I think that's what happened with the user this last weekend, is the mom, I don't know, opened some link and entered the seed phrase in there.
+
+So, again, please, as a reminder, I know we've said this over and over and over, just don't do that. Not even to me, okay? And not to your mom.
+
+Don't give your mom her seed phrase. I wouldn't give my mom her own seed phrase if she asked for it. So, wow, that's not nice, Jeff.
+
+If you do get scammed, I understand being upset, but to come in here and to let us know that we're scammers because you got scammed, not okay, you know. Sorry, I have to delete that. All right, well, thank you all so much.
+
+Have a wonderful night. DM me or tag me if you need anything. Have a great night.
+
+Hopefully, I'll have more news for you this week. If I don't, I will let you know why not and what's being worked on to change that and get it all approved. Hopefully, that makes sense.
+
+Thank you so much. Have a great night.

@@ -1,0 +1,374 @@
+[Speaker 1]
+Hello, happy Tuesday. Can you all hear me? Awesome, thank you Steve.
+
+Sorry I was just giving everybody a few minutes to get on since I didn't start it till later. Make sure we have the recorder on. Awesome, yeah thanks for waiting for me.
+
+We kind of had a last minute meeting. Boris had some more questions, so we were getting that all squared away. I think we should be done for the evening anyway.
+
+So still no final approval. I am sorry to report, but again I really do think it is a very positive sign in a way. I know that it doesn't seem like it, but I really think it is just because I have never seen BNB for the whole time I've been here and they've been here be this diligent about every little detail.
+
+And to me that shows they care about the coin and about you guys and the community and any future new holders. So I will keep you updated on that. Like I said, it's been what, the last probably 45 minutes.
+
+Just getting some more of Boris's questions answered. So I'll let you know as soon as that's squared away. As far as any other updates, I know, I think it was Ed who was pretty concerned about the kickback we get from Change Now.
+
+They actually updated the way they pay FJB coin and we don't have to wait. Remember we had that $400 to $500 kind of minimum that we have to get to before they pay us out. They did change that this week.
+
+So that was a pretty good update from them. So now we can just cash out whenever we'd like. So a little bit of an update.
+
+I know it's not huge, but it's still something. Let's see. I think I got a few DMs of questions.
+
+Okay. Does Boris have everything he needs to make a decision? Yes.
+
+However, I think he just wants to double check and kind of ask and re-ask some questions. Is Boris still seeking clarification for further information? Yes.
+
+As far as even in the last hour. Oh, and I'm sorry to read that question. Is Boris still seeking clarification or further information?
+
+What was that question? Are you confident that this project will be given the green light by Boris? Yes.
+
+100%. I have no doubt. What is Steve's role and is Steve comfortable with a strategic vision and plan?
+
+Yes. Steve, along with Boris, makes the final, final decisions on everything. A big deal was made of finding devs.
+
+Have they done any work? No, because we need this approval and then we can get going. So the devs have not started with any work.
+
+If all planning and work is frozen until Boris makes his decision, what is the timeline? I understand it's difficult to make one. However, it cannot be indefinite.
+
+Yes. Unfortunately, I've given you timeline after timeline of, you know, of the dates that I've been given and we've missed them. It's very unfortunate, but that is the downside of having, I mean, really Bannon and Boris with us, high-profile folks in this political climate.
+
+Yes. I understand that we're always going to have something going on. They're always going to have something going on, but I'm sure you see everything going on with Trump, especially, and Boris is my main contact versus Bannon.
+
+So we appreciate your patience and that's again, some of the downsides. So unfortunately, although I'd love to give you another timeline, I would be really just making one up at this point to clarify the past timelines I've given you completely were not made up. But like I said, at this point, if I did give you something, I'd be lying to you.
+
+Have the delays or changes and clarifications meant that changes will be needed to the redacted roadmap you shared? No. No, nothing has been.
+
+So Bannon and Boris have not disapproved anything that we've asked for. It's more, and that's why I say, I think this is honestly a good thing and I think this is something the community should be. Yes, I understand you're not happy about waiting.
+
+I'm not either, but I think it is a very good sign that they are being so diligent about everything. It's not that they don't like what we have planned. They just want to know everything in every little detail and have other people look at it and just go through with a fine tune.
+
+Sorry. Yeah. So no, to answer that question.
+
+Okay, I was getting pop-ups from the DMs. Yes, I will catch up on DMs tonight. I have been getting a lot of DMs, so I'm sorry if I haven't gotten yours. Okay.
+
+Are these trivial items to work through or deeper questions that are going to take some time? No, these are, if you're speaking on what questions Boris had, these are all questions that I answered to him right away. Have the third-party reviewers completed their assessment?
+
+Yes. Tell Boris I'm trying to buy a lodge in Alaska. You and I both.
+
+Also, I want to accept FJP as payment. That would look like in the future. We will have more details for you as we get moving along.
+
+I know I've seen a lot of your suggestions in the chats, not so much Discord lately, but Telegram. I do read them all. Yeah, and I do save them all, actually.
+
+So we just gotta, you know, we gotta get moving from where we're at right now. So I love all your ideas. I save every one of them.
+
+Yeah, we just gotta, you know, start small. We gotta start here first.
+
+[Speaker 2]
+I think that's all the questions I had in my DMs. I don't think we've had any Transact or ChangeNow issues.
+
+[Speaker 1]
+I think those transactions have been going through pretty smoothly. I haven't seen anybody in the chats mention anything, and nothing in my DMs, but let me know if that's not the case.
+
+[Speaker 3]
+Let's see.
+
+[Speaker 1]
+Payment, as in folks could book rooms. Yeah, I got, hey, I got you. There's actually a few business owners, not sure about Telegram, but on Discord who actually are seriously ready to start accepting FGB.
+
+Do you have an estimate on how much longer for Boris Greenlight? Ooh, I'm hoping with the movement we've had today that it is very soon, but again, I would be completely lying if I gave you an estimate at this point. That's just me being completely honest with you.
+
+Boris just wants to make sure that everything is great. How many pages in the white paper? Ooh, Ed.
+
+Okay, let's ban that person. Hello, user. How many pages in the new white paper?
+
+I don't think it's... let's see. I don't think it's much different than what we have now.
+
+Maybe a few pages, give or take. Let's see.
+
+[Speaker 2]
+I think it's this guy.
+
+[Speaker 3]
+Okay.
+
+[Speaker 1]
+Yes, while we're on that, please make sure you don't give your seed phrase to anybody, not even your mom, and don't enter your seed phrase into any sketchy links either. Never, ever, ever. Not a mod.
+
+Not Boris. Not your mom. Nobody.
+
+It breaks my heart to see that happen. Are there specific steps after approval comes? Will it take time to implement?
+
+How long? I actually contacted our devs this morning to ask them that same question, that, you know, how basically how busy they are right now and how long it's going to take for them to get started once we do one day wake up and say, you know, hey, we can get started now. I will let you know as soon as I hear back from them.
+
+I'm thinking it'll probably be tonight since they are based in India. It's only, it's not 5 yet in my time. When can we get the seed phrase for smart and regular wallet?
+
+So the reason you don't have a seed phrase for the smart wallet is because, really because of the way it works, because it's a smart wallet and because it does all that trading in the background, but we will be adding basically an education page on how all that works to help you navigate that. Perfect timing to moon for summer and enjoy watching my wallet rocket. Beer is on a golf course.
+
+[Speaker 2]
+That's so nice.
+
+[Speaker 1]
+Have we agreed on price with devs? No, because we don't, well, I should say, yes, hourly we have, but until everything's approved, we won't have an estimate of how many hours everything will take. Does that make sense?
+
+So we do have an hourly rate, yes, but we don't know how many hours everything should take. So we can't put coins into trust wallet. I've not added a smart wallet to trust wallet.
+
+I'm not sure about that, to be honest with you. Can only access an app. I'm pretty sure that's the case, but I don't want to give you a wrong answer.
+
+Is it a smart contract? Is it a smart contract common for everyone? Keeps ledger of individual funds.
+
+You're talking to FJB, right? Has FJBCoin.org decided which existing DO project to fork? Assume devs take two weeks to finish their work.
+
+How long after dev work is complete with Bannon and Alice Warbroom? Bannon and Boris have said let's get through this step first before they answer that and before they answer when they would like to do that. Bannon will come on to speak to the community.
+
+Is Warroom the first shill event or will others come before? I think Warroom would be great just because we have such easy access to that. It doesn't need much.
+
+We don't need much. So FJB app goes down for whatever reason. We can't get our coins.
+
+I mean, now you're just talking. Well, that's what happens with, you know, other websites, too, so, you know, then don't do smart wallet. Keep the expert and then do what Bobby's saying.
+
+Bobby. If app goes down, it'll be back up and running. Same day.
+
+Yeah. AZ Bobby. Not Bob 24.
+
+We have Bob 24 and AZ Bobby.
+
+[Speaker 2]
+I am looking at a few DMs. One, two, three.
+
+[Speaker 1]
+Oh, no. I know it's you, Bobby. Bobby.
+
+Because you have the same profile. Click. Other Bob is in Texas.
+
+Bob 24. Any update on the remaining second quarter updates? Sarah said Q1 is usually understood to mean end of quarter 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 32, 33, 34, 34, 35, 36, 37, 38, 39, 40, 40, 41, 42, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 52, 53, 53, 54, 55, 56, 57, 58, 59, 60, 67, 68, 69, 70, 71, 72, 71, 72, 72, 73, 73, 74, 74, 75, 75, 76, 76, 77, 77, 78, 78, 79, 79, 80, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81 I'm assuming you mean the development part of the gift cards funding the gift cards no but we do have funds to fund those and we figure what we'll do is make them something you know 25 to 50 bucks maybe And do, I don't know, depending on the volume we get, you know, 50 of them at a time, 100 of them at a time.
+
+[Speaker 2]
+You know what? I have somebody that I want. Let's see.
+
+[Speaker 1]
+Are you surprised it's taken this long for them to green light? Um, a little bit. Like I said, I really, I mean, I do just because before we would get approvals a little bit quicker.
+
+But I think after... I'm trying to read you guys' other messages. Yeah, so to finish that.
+
+My surprise has taken this long for the green light. A little bit. But I am honestly, and I hate to say this because I feel like, you know, it's not great.
+
+But I really do feel it's mostly a good thing that it has taken so long. Because they really are going through with just a fine-tooth comb. Why do I keep saying that?
+
+Fine-tooth comb. And really wanting to know everything in every little detail. Which to me, I don't know, to me that's a good thing.
+
+How's Connie Coyne doing? I don't know, have you guys checked? I think I still have a little bit.
+
+I was trying to taper off, slowly sell the rest of what I had. I should go do that. How's our chart looking?
+
+Have it looked? Any comment on CC Coyne Collapse? Where's their leader?
+
+Is he not doing the inspirational videos anymore? Oh, really? Oh man, I missed that.
+
+Probably because I'm blocked everywhere. So what is the chart? Did everybody just sell?
+
+Oh, if there was anybody left. I have always prided myself on honesty and transparency. Oh wow.
+
+I need some tea to drink while I'm reading this. Reading, reading. Alcoholic tea, Bobby says.
+
+Wow, that was a nice read. No comment. You guys trying to get me in trouble?
+
+That was a lot. Anyway. Are the new implemented approved changes going to bring in thousands of new holders?
+
+I think this will definitely help us, yes. Absolutely. It'll help us, I think, in a few different ways.
+
+I'm just, to be completely honest and transparent with you, I do feel like now the announcement is going to be watered down a little bit because it's been so stretched out. So I do feel like, I don't know, I'm a little let down by that because I feel like now once the announcement is made, I feel like everybody is going to be like, oh, you've waited for so freaking long. So, yeah, that's probably the only negative I'm feeling and that I'm bummed out about because the team was so excited to get it out to everybody and for everybody to be so excited about it and I think that's kind of like, I don't know, watered down a bit now, which just sucks when you, you know, have put so much work to make everybody happy and get everybody to be excited and make big changes.
+
+So, but it's okay. Sarah, do you get the impression you are close to getting the approval? Yeah, I mean, to be honest with you, especially after today's very last minute pings and questions, yes, I do.
+
+[Speaker 2]
+So, this dude is jumping from coin to coin.
+
+[Speaker 1]
+Oh, boy. When a door closes, God opens a window. You are correct.
+
+Happy birthday, all for his glory. Thank you for everything you do for us in the community.
+
+[Speaker 2]
+Have the team watered down the update?
+
+[Speaker 1]
+No, not at all because the update, like I said, nothing has been disproved or nothing like that. I just feel like you all have been waiting for so long that, I don't know, I feel like the community is just, I don't know. I just feel like it's kind of watered down our announcement now where it was meant to be something huge and exciting and I feel like now you guys have all been waiting so long.
+
+[Speaker 2]
+Sam's question, let's see.
+
+[Speaker 1]
+Where are you guys finding these pictures?
+
+[Speaker 2]
+Oh, my gosh.
+
+[Speaker 1]
+Hopefully there has been some agreement on freedom to operate and faster decision cycle times after the announcement. Yes, I believe so. This was just such a major one that we needed.
+
+We needed to get a little bit of approval for. We've been waiting a long time. I know, Ed, I know.
+
+Where did you guys find these pictures?
+
+[Speaker 2]
+Oh, gosh.
+
+[Speaker 1]
+We've all been waiting for so long. We just want to know that there's a path forward that is supported by the owners and that this project isn't going to fold and end up on busted crypto pile. Well, you know, yeah, I totally agree with you.
+
+We all have been waiting for so long. I do look at it, you know, when I am thinking about that, I do look at it in a way, well, we could be over. And this is not to discredit what you're saying and to discredit, you know, or this is not just trying to shove our downfalls, you know, under the rug and pretend like we've been perfect.
+
+But I think there is an upside to that. To realize that, well, when so many other coins have died, we are still here. So if that means that, you know, we have been waiting for a while or that means we have had some less than ideal things happen, the thing is, I mean, it's kind of like life, right?
+
+We are still here. So I think that is very important to know. And sometimes, you know, it's just like life.
+
+Some days, you know, if all you're doing is staying alive, then that's a good day. So I hate to be so cheesy and cliche about it, but it's kind of true. Honestly, any other coin I've been a part of, I think everything, any other coin like that I've been a part of has shut down now.
+
+So, all to say that. Announcement might be less than exciting. Everyone's ready for action, action, action.
+
+Yes, I agree. Is that Eric Finman? You know, Eric Finman is still a good man.
+
+I wish more of you saw that side of him.
+
+[Speaker 2]
+Second guest, who's the first?
+
+[Speaker 1]
+When are you scheduled to speak to Boris again? I love Finn and Grant. I'm not really scheduled.
+
+Like, today I wasn't scheduled. Just, you know, receive a call or a text and there it goes. Most of the time, that's how it goes.
+
+Lately. You are just a pup. Just getting started.
+
+All for his glory, do you still make cakes? I think it was you who made, like, amazing cakes.
+
+[Speaker 2]
+That looked delicious.
+
+[Speaker 1]
+After tonight's call, is Boris waiting on information from you? No. I answered every one of his questions right away.
+
+Did he like the answers? Yes. Absolutely.
+
+What were his questions? Questions were details about the upcoming changes. He wanted to know every little detail.
+
+Why do you think the announcement will now be seen as a letdown? I don't think it'll be seen as a letdown. I just feel like it would have just had more of an impact if it hadn't taken so long.
+
+You know, just, like, the longer we wait. But I think it will be... I think it's still a very great, great announcement.
+
+And I think this will help the coin. It'll help the community and new users. Ooh, I would not...
+
+No way. Don't compare that guy to Finn. Finn's a great man.
+
+Finn's a very, very honest man. I will say that, too. And very trustworthy.
+
+From a great family. Yes, I made my own birthday cake with white wedding cake. Ooh!
+
+And a cheesecake in the middle. Oh my gosh, that sounds amazing. My mom's been actually making gluten-free cakes for me.
+
+And they've been actually so good. Imagine having to get the project, having to get support from the owners for the project... Oh.
+
+As long as I become a millionaire overnight, I won't be disappointed, I promise. One FJB cake party. Ooh, that sounds good.
+
+I'm down for that.
+
+[Speaker 2]
+Sounds delicious.
+
+[Speaker 1]
+Guy's full of shit. Well, you know. Probably knew that before today, right?
+
+My birthday's in August. Hey, I think I know a few birthdays in August. Dallas.
+
+Dallas. But, Finn is, Finn is a very honest person. Very, very honest person.
+
+Which means a big deal. Well, I think to most people, honesty's pretty important. Ooh, see, we have several birthdays in August.
+
+[Speaker 2]
+To Alaska.
+
+[Speaker 1]
+Oh my goodness. Do you think that Boris now has all the information needed to make his decision? Uh, yeah.
+
+I think, but I... How do I say this? He has all the information, I think he just really wants to make sure.
+
+So, he has had it. Yeah. But again, today has been...
+
+Today was a pretty long meeting, so I felt great about it. When's the best time to visit Idaho? I was actually thinking of going there soon.
+
+Late May. That's perfect. I was actually looking, I'm leaving town around May.
+
+I was looking at Idaho, or where else? Uh, we decided Idaho, Hawaii, I think there was a third, oh, Tennessee. Can't put Idaho in with Hawaii.
+
+I just wanted to leave town, for like, no reason. I was just like, you know what, May might be a good month. Because I've been meaning to leave town the last, like, few months.
+
+But I've had, like, well, it's like one FJB thing after another. And not that I don't, I mean, I take my laptop and phone everywhere. But just, I didn't want anything, like, major to be happening while I wasn't home.
+
+So. But. We'll see.
+
+Tennessee, yeah, I forget, I forget where in Tennessee we are actually. What the hell is Idaho? Idaho's supposed to be very pretty.
+
+Oh, or Yellowstone. I think that was on the list, too. So, what the hell is that?
+
+I've heard it's super, super pretty there. Just be in nature. Alright, I don't see anybody typing.
+
+I will get back to the rest of DMs tonight, I promise. But, do, oh, that is so pretty. That's so pretty.
+
+I want to move really bad, so. If anybody has suggestions on where to move. That's gorgeous.
+
+Have Vess cleared up my buddy's login. Oh, let me see, actually, I think you're one of my three unanswered DMs. Let me see which login this was. Okay.
+
+So, I'm going to have to walk through with you or your friend through this. This is not something that we just do on the back end. Which is the whole point, basically, of the security, right?
+
+So if there's something we can do on the back end, that kind of defeats the purpose of the security. So yeah, we can walk through those steps. To get you or your friend squared away.
+
+Okay, I'll have to get him here. Okay, he can, I can also, if he doesn't have a Telegram or Discord, I can also send my number or email, whatever's easier for him to contact me. If he wants to text me, or a phone call, or what, I know, if people aren't on Discord or Telegram, it makes it a little bit tougher.
+
+So whatever, especially if he's older, I know sometimes that's easier. Let me know, I'd be happy to DM you my number. I've had to help a few people out that way.
+
+Actually, a ton of people here have my number.
+
+[Speaker 3]
+Okay, what else?
+
+[Speaker 2]
+That's super pretty. Don't think I could do Alaska cool, though.
+
+[Speaker 1]
+I don't know if I can go that drastic. So recap, everything ready to go, waiting on Boris. Yes, I'm sorry, I hate to disappoint you all, but I know that has been the recap.
+
+But we are getting closer, and I really do believe this is a good thing. BNB is up, FJB is up, which I think is great news. We are still very much alive, when other coins are not.
+
+Hey, if that's what it takes to stay alive, then that's fine. I do think it's good, and I can't wait to get rolling. I am dying to get rolling.
+
+I am honestly very, very, very excited. I'm getting kind of very, very bored of, you know, waiting and kind of being in this place that we're at right now. Which I understand you all can relate to.
+
+And he can call me just through regular or WhatsApp or Signal. If he prefers those apps. Signal is the main.
+
+Is Vest still a thing? Yeah, absolutely. The Vest guys are great, and it keeps our coins very secure.
+
+Which right now might not be the biggest thing, but imagine once we start gaining traction and some blue hares going after us. I think, yeah, we definitely trust Vest and the security that they are able to provide. And they are great guys.
+
+They're awesome guys. They've definitely helped us out a ton. And it is much easier now than it was when we first started.
+
+What was it? Gosh, more than a year ago now. April.
+
+With the fire. All right. Well, I'm going to get going then.
+
+I will, I gotta eat dinner, but I will upload the call right now. And just a few points. I feel like I don't have a crazy update.
+
+And then I'll get back to your DMs. I think I have three that I need to be answering tonight. But let me know if you have any other issues or need any help. I'm here.
+
+One of the other admins who have been amazing. That is so pretty. I love the desert, but I'm not looking forward to 120 degrees.
+
+Bile for his glory. Dear Lord, we ask for your graceful guidance as we build and grow this business. We put trust in your hands that you will bless this business, suppliers, customers, and employees.
+
+We pray that you protect this enterprise and the investments we've all put into it. In the mighty name of Jesus. Amen.
+
+Thank you. That was so sweet. I feel like that needs to be pinned.
+
+Now we're going to request a prayer for every call. Is that possible? I do it on the weekends when I volunteer.
+
+All right. Thank you, Wolverine. Fingers crossed, Boris Greenlight.
+
+Thank you to Ed. Yes, I will keep you all updated. You all have a great night.
+
+Thank you again.

@@ -1,0 +1,182 @@
+[Speaker 1]
+Telegram has been weird for several weeks now, but my desktop wasn't signing on. Looks like you all can hear me. I'll have a recording started in case anybody wants to listen to it later.
+
+There's been so many downloaded updates. Yeah, I saw that and mine kept saying looking for update and then it keeps freezing, so then I exited it out of there, tried to quit it. Anyway, I have to restart.
+
+And now it's working. All right, I hope you all had a great weekend. It's hot as heck.
+
+Hopefully you're somewhere cooler than I am. Our plants are dying. I'm not sure if my grapefruit tree's gonna make it.
+
+And the goats are not happy. The goats are very, very hot. But our dev is doing great.
+
+Happy to report he's not ran into any speed bumps so far. Actually, some great news. So when last week, I believe it was, we had to not really do away with one of the features, but it was no longer going to be automated.
+
+And so we were still going to have it, but we would do it manually. And exciting news, our dev thinks he found a way to get it, keep that function and have it automatic. So super excited about that.
+
+That happened, I believe, this weekend? Or was it yesterday? All my days are just blobbed together.
+
+But he said, I have good news for us. So that was great. Team's very excited about that.
+
+We're, again, so far so good. So I will update you once we are very, very close. I don't really want to put a timeline or give you guys a timeline just because I don't want to disappoint you.
+
+I don't want to disappoint myself, and I don't want anybody to be angry. The good news is we are moving forward. He has been working every single day, even through the weekends, and that's what matters.
+
+If we do hit any kind of snags, I will keep you all updated. But so far so good. And we have a testing date, actually two dates, for him to be testing.
+
+We'll see how that goes. I will update you on those developments as soon as I know from him. Again, we'll make sure you are all aware and ready of all the changes, and we will walk you through everything.
+
+So don't worry about that. Yeah, seems like somebody has emailed or messaged FJB regarding a Chinese dev. Yes, we are aware.
+
+Everybody, the entire team is aware. Welcome to the crypto world. We are nowhere in our coin.
+
+Do we claim to be American only? We're clearly not bigots or racists. We are not, you know, strictly a USA coin or anything of that sort.
+
+We are pro-freedom, and we're worldwide. So please keep that in mind. A lot of our holders are in other countries other than the US.
+
+Just remember that even when we moved our coin, you know, it's freedom, jobs, and business. The goal is to be global with that. I think that's great for everybody.
+
+So please keep that in mind. Our dev is amazing, and he does see everything you all type. I think he has a lot of fun with that, and I can't wait to get him on a voice.
+
+He's a super, super great guy. Great sense of humor, so I think you all will enjoy him too. What else?
+
+Yeah, I don't really have any other updates. Boris is excited that things are moving along. We spoke last on Saturday.
+
+Is Dev a flat earther? I am not sure. You'll have to ask him.
+
+This goes for our third parties too. As most of you know, of course, most of these third parties are stationed in other countries. This is not unique to us.
+
+There has been a rumor about the contract being locked. Someone mentioned some days ago that the contract is locked and can't change the tax rate moving forward. Do you know anything about that?
+
+Yep, that is correct. That is not new. That's been several months.
+
+Actually, I'm gonna check your DMs too because I know you usually send me questions there. Oh, no, looks we're all good. Oh, regarding Discord.
+
+Guys, I know there's side chats and obviously everybody's free to say and do whatever they feel, but I do suggest everybody just stay respectful. I think we've all been very, very lenient. Just remember to be respectful.
+
+I think that's it. That's really all the updates I have regarding the Dev's work. I will let you guys know once everything is confirmed and when everything is completed.
+
+Is that just a rumor? No. Once the contract is locked, the tax rates cannot be changed.
+
+Have the tax rates been locked? I don't know if that doesn't answer your question. Could you tell us how far the Dev is through the task percentage?
+
+I will get a percentage from him. As far as I know, not assuming that testing goes as planned. He's, I want to say, like two-thirds of the way done, but that is assuming that testing goes as planned.
+
+And as you all know from last time, testing can go sideways. That's the point of testing, right, is to test it all before we go live. So please do keep that in mind.
+
+We are hoping for the best, but again, kind of what we went through with our app when we first launched that and trying to get a an on-ramper as far as the third parties go. We had to go through that process several times because of what third parties would tell us and when you're doing something that hasn't. The LP isn't locked so can still move to fix task.
+
+The LP is independent of that and correct. The LP is not locked. And I don't think we have anything to worry about there.
+
+B&B are not going to walk away with our LP. Has the dev given an estimate on fixing the app? No, because he has not even looked at that yet.
+
+So our last dev, did no one figure out what happened with Nomen? Our last dev, you know, figured out what was wrong with it pretty easily. It was just one of the exchanges we work with.
+
+They change their minimums and maximums. This is, you know, behind the screen on their end, on the back end, and that just messes up everything else and it causes the transactions to fail. So it could be something that small or it could be something bigger, but he will get it figured out.
+
+I think the app, since we don't really have to deal with many third parties, will hopefully go a lot smoother and that's the goal, right? To be a little bit more self-sufficient. Speaking of that, let's check on change now.
+
+Will he add more coins to the app? That's definitely the goal. The first thing we need to do is get the app working.
+
+And the reason we don't, we could easily have another dev be working on that right now, correct? But we actually need the task completed first because then we'd just be paying twice. We'd have a dev fixing everything right now and then he'd have to go back and do everything again once the task is completed.
+
+So that's the reason on waiting for the dev to complete the task before we move on to working on the app. Unfortunate, but I think as long as we're moving forward. Are you confident task reveal and app fixed and launch ready in quarter three?
+
+I would hope so. That's plenty of time. I don't foresee the app taking as long as the task has taken.
+
+And again, that's just we're dealing with several third parties on the back end, and unfortunately we're doing something that's not so common. I mean, fortunately and unfortunately, so that's kind of where we're at with that. And sure, we could have, you know, done it a lot differently once and just dropped a bunch of the features.
+
+But again, at this point, really getting everything done correctly versus just getting it done quickly. Any team discussion around B&B? Yes, definitely.
+
+That's definitely something the team has discussed several times. Absolutely. It's hard though, because so many, you know, there's a reason so many coins are on B&B.
+
+If task is finished testing in time for Friday voice chat, will it be revealed on the voice chat? That depends on when the task is completed. Or I should say that depends on if that's when the dev completes his part.
+
+Once he completes his part, we just need a few more hours after that for everything else in the works before it's announced. So if he completes it early enough, then absolutely. And this goes for any day he completes, you know, if he completes it on a Tuesday or a Monday.
+
+We just need a few hours estimate after he has finished testing and successfully launched everything. I hope that makes sense. Sorry, I hate speaking in code.
+
+Just trying not to accidentally say too much. Once task is revealed, will everyone need help or guidance? I don't think everyone, no, because a lot of you, a lot of you are pretty experienced.
+
+But my guess is a good chunk of you will. And we will make that as smooth as possible for everybody. And I'll probably be glued to my phone and laptop.
+
+Which by the way, I usually am. When I see, when I see you guys's tags, I generally see them. It's usually if I'm in the meeting.
+
+I forget last week I was. I forget who I was in the meeting with. Somebody said like 30 minutes, no answer.
+
+Yep, sorry, that takes priority. So I see all your tags generally right away. Aww, that's so sweet, Ed.
+
+Yeah, well, no worry. And there's not as long, just follow directions and everybody will be fine. We will give you plenty of time and just follow directions.
+
+We'll get you all taken care of. Just, you know, takes me back to when we were getting Boris to approve everything. And, you know, he, he was a little hesitant because of the, you know, the changes, right?
+
+People, most people don't like change. And it's going to take a little bit of instructions for some people who need help. And I remember, I remember telling you guys that and why he was so hesitant.
+
+And I think a few people were saying, we don't care as long as you know, we're moving forward. And as long as you're helping us all through it. So just please keep that in mind.
+
+Because do remember, that's exactly why it took a while to get us approved. We ain't seen changes in so long. I think we will welcome that.
+
+I think so too. And again, these aren't. These aren't some crazy off the wall changes that you all have never heard of.
+
+I think these most, if not all, are changes that the community has again and again requested. So I think it'll be a great foundation. And again, I know it's taken time, but that's, that's fine.
+
+At least we don't have anybody misplacing funds. Could be worse. Egg, is egg in here?
+
+I did, I made like some keto carnivore pizza crust. I just put a ton of eggs in there. So that's what your emojis reminded me of.
+
+Do like chicken, pork rinds, ricotta, cheese and eggs. And you use it as a pizza crust. Oh, which one?
+
+Oh, I didn't get it. Pork, ha. I just saw the eggs.
+
+That's funny. Which egg are you gonna eat? So yeah, I think that's where we're at.
+
+The team has really the entire time is not one bit worried about timing. You know, those who will, those who want to sell will sell and that's totally fine. That will, I know there's a few people who are buying every time the price drops.
+
+So as long as we're moving forward again, that gives newcomers, excuse me, and I understand we're tired of hearing that because we've heard that for so long. I completely understand. I completely understand everything we've gone through.
+
+Again, everybody's upset, just upset, if not more upset than you all are, trust me. But we gotta move forward, so. And again, getting it done correctly versus just getting it done quickly is the goal.
+
+Getting it done quickly doesn't exactly mean much. Getting it done correctly to make sure we have the highest chance of growth and growing the community and hopefully leads to growing the coin and seeing that on the charts, that's the goal. Just giving us the highest chance of success.
+
+Time is definitely not the number one priority, although, just like you all are, I'm ready to move forward too. Fork, new tattoo, and go. Oh my goodness.
+
+Yeah, who was, oh it's Diesel getting the tattoo. Diesel, Diesel, Diesel. Is Diesel 3mf on here?
+
+I think it may be. Oh, I think I need to apply to him actually. That's bad, him, he wants to be added back on.
+
+No, Flute. Flute, where are you located? Are you joking when you always say good morning at like 5 p.m. my time? That's somewhere, I'm pretty sure this is Diesel. Maga, you should be good. Aw, thank you.
+
+All for his glory. Oh, all for his glory, I baked a cake for somebody at the food bank I volunteer at this weekend and I thought of you. She requested a Dolly Parton banana cream cake, so that's what I made her.
+
+But as I was frosting it, I remembered your delicious looking cakes.
+
+[Speaker 2]
+I think that's all.
+
+[Speaker 1]
+Yes, the dev made progress. The dev has given us two dates that he'll be testing. We'll let you know how that goes.
+
+As you know, like last time, testing may not go as planned, so I will keep you all updated. He is, I want to say, 60-70 percent done, three-way done, not counting testing. So keeping our fingers crossed, he reads everything you all say in here, so he's been having fun with that and can't wait to get him on a voice chat.
+
+He's a funny guy. Testing never goes as planned. Sometimes, sometimes it does.
+
+Last time it definitely didn't, but that's because again, depending on third parties, hopefully once we're all good with the app, we can depend on third parties less and more. That would be great. That would be wonderful.
+
+Thank you, MP. Oh yeah. In general.
+
+Okay, I think that's everything. Let me know if you all need anything. Feel free to DM me or tag me.
+
+Please remember, as always, don't share your seed phrase with anybody. Don't click on any weird links or what else? What's the other one?
+
+Oh, send any money. If you get any messages from me or other admins, that's definitely a scam. Don't send anybody money, please.
+
+If in doubt, please ask in the general chat. Don't DM anybody, because there likely could be a scammer that you message. So yeah, let's keep it there.
+
+I don't think we've had anybody get scammed for quite a bit, so that's super nice. Can you lick your elbow? I've never tried.
+
+Nope, I can't. It does not look like it. Decentralize is typing.
+
+Let's see if he has any questions. Huh, the National Pulse Launch is Pulse Plus. Cool, that's the first I've heard of that.
+
+I'll have to read on that. Cool, thank you for sharing. All right, you guys have a great night.
+
+I'll talk to you later.

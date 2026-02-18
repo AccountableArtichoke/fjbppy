@@ -1,0 +1,146 @@
+[Speaker 1]
+Hello, happy Tuesday. I got the recorder going. How's everybody doing?
+
+Let's see, not really any crazy updates. The devs are reviewing the code and we're hoping they get back to me shortly. Maybe definitely by the end of the week, I think.
+
+I will keep you all updated. We do have backup devs and then backup, backup devs, just in case. So that's all I really have to share.
+
+I'm super excited. It seems a little surreal. Let's see, I think, I don't think I got any questions today in chat.
+
+I know I did the last few days. Hey Sarah, any idea when LP is getting locked? That hasn't changed.
+
+After our major task is completed is when the LP is scheduled to be locked again. So we'll keep you updated on that. But yeah, as soon as this task is completed, we'll go ahead and get the LP locked.
+
+But I can promise you everything's in safe hands and B&B are not going to pull the LP. When do you expect major tasks completed? The devs are reviewing the code right now.
+
+So as soon as they are done, they will go ahead and give me a time estimate, which I will update you all on. If I had to guess, I'm definitely thinking by end of month, like by far. But again, I don't want to jinx it with Murphy's law.
+
+But yeah, I will update you as soon as I get an update from them.
+
+[Speaker 2]
+I know I didn't get any questions today. I think just an update on the devs. But I know there was a few yesterday morning more so.
+
+I know B&B taking a bit of a hit.
+
+[Speaker 1]
+When name of new app settled? I think I mentioned to you guys on the last voice we're about like 95% there. Now, now the logo.
+
+So keep you updated on that maybe. I don't know. Torn on that and getting everybody involved.
+
+Obviously the logo, we won't have an issue like the name. But I don't know. I feel like sometimes, you know, sometimes getting everybody involved kind of bites us.
+
+Can we start working on the website and get things moving forward? As soon as the name is 100% decided on. When do you think the name will be decided?
+
+Definitely by the end of the month, but I think well before that. It's pretty much settled.
+
+[Speaker 2]
+Keeps going back and forth so I'm back to trying to scroll to yesterday's.
+
+[Speaker 1]
+Oh yeah, FJB holder of the week. Why can't I find the questions from yesterday? Oh, that's why.
+
+Who makes final decision on the name? B&B. Is war room stuff planned for after all work done?
+
+B&B want to make sure everything is completed before we move forward with that. Just like them getting on voice with the community. That's what they want to do so we're rolling with it.
+
+Can we get Transac buys back on tax-free wallet or whitelist or new wallet do not tax? Yeah, we've talked to them about that. I don't know why for whatever reason they're not allowed to use their old wallet.
+
+Um, because it was compromised. I'm not sure if that name phrase or what, but yes that is uh that will be completed also. But in the meantime remember that LBANK and XT are both tax-free still.
+
+You can always do that and to transfer them if you want to do that and buy it from LBANK or XT with zero tax you can transfer it to like a trust wallet and it's a whitelisted wallet so you're not going to be charged eight percent. Yes, I know. LP lock provider already chosen, Ed is asking.
+
+Um, so we had decided on an LP lock provider months ago. Um, obviously we will revisit once that time is back to see if everybody is still on board with that. If not, we will go ahead and re-evaluate.
+
+As you guys know, uh, with the ever-changing time. Are all devs located in India? No, not.
+
+Uh, so the ones currently reviewing the code are. Our backup one also is and our second backup is not. Yeah, so our second backup is in the U.S. Our first backup is also in India. No, not, uh, Noman. Um, yeah, we have not been able to get in contact with him, so we really hope everything's okay with him. Um, but all his profiles kind of just went MIA.
+
+Um, I haven't checked for a few weeks, but literally just fell off the face of the earth, so hope he's okay. Um, tried calling him too. Um, a phone number he provided us with and that's disconnected too.
+
+Um, so yeah, I'm not sure, but definitely hope everything's okay with him. He looks great. Oh, he's not supporting.
+
+Wait, I don't know. Actually, I saw a little bit of the pop-ups that happened, but I haven't looked at it. What did he do?
+
+Let's see. Trump World to Donors. A dollar to do sentence.
+
+Maybe a donation to Biden. Wow, what happened?
+
+[Speaker 2]
+Oh, yeah, I saw the Steve Kutas.
+
+[Speaker 1]
+MP, yes, I am recording. Not any huge updates. The devs are reviewing the code, and we have backup devs and then backup backup devs.
+
+So hopefully, um, I will have an update before the end of the week for you all, and then we will, they'll let us know over time. As soon as they're done reviewing that, we'll have a time estimate on when we can expect them to be done. Yes, it's been great.
+
+It's been a good week. Fellow sterling around? Yes, he has.
+
+I haven't talked to him for a bit, but yeah, he has. B&B happy with the plan in progress? I believe so.
+
+Yeah, I think they're looking forward for us to move forward. How do you feel about the new lead dev? Honestly, not sure yet.
+
+I think we'll definitely find out this week. I know, as far as his knowledge, I know the guys checked him out and everything's good there, but they vetted him and said everything should be pretty solid there, so I'm very excited to be moving forward. Need Ed to be the time zone in the meeting?
+
+Yeah, that could probably be helpful. Oh, they're usually still up with how early I get up, but staying up late, I usually don't do too much of that. Again, it's not like they don't need a ton from me while they're doing what they're doing.
+
+Has new dev committed to a time to get back to you or could be any time? Yeah, I do not have a lot of time from them when they're supposed to get back to me, but I'll definitely keep you updated. That's kind of why we've got a backup dev and then another backup there, just kind of in case they are moving a little too slow for us, then we can just keep moving along.
+
+Next update for the Friday voice chat or will there be one earlier? I hope there's one earlier. Oh, I didn't see no one.
+
+Any ETA on CSV Explorer of app transactions? That's along with the devs, everything they're doing too. That's kind of why we got the backup devs too.
+
+Just in case these devs are moving a little slower, then we can have different devs start on the app versus the same dev working on this task and the app. Is there anything the community can do to help move forward? Not right now, I don't think.
+
+Appreciate your patience. I don't think there's really anything any of us can do right now just to help move things forward. What platform is being used for code management?
+
+I'm not sure if you're talking about Vercel. What auditing steps are being taken to quantify not fast enough? I'm really just going off the few people we have on the team that are knowledgeable on that because I am not.
+
+We use GitHub. Are you basing the dev work timeline on the timeline given by the previous devs? No.
+
+We are waiting on them to get back to us. As soon as they're done working on the code, we hope to get a timeline for them. If I recall, oh, yes.
+
+It's an agency that has different devs and that was the last the dev they assigned us to, so I'm not sure if this one will also hold about seven days. How many lines of code are there? I could not answer that.
+
+I love when Nolan asks me questions. He knows I don't know. And he asked what's the code for app integrations with other services, etc.
+
+Our app is just basically a website. Yeah, it's a web app, so we don't have to get Apple Store and Google Play Store approvals each time we need to make a change. Will they need people for testing the app before public release?
+
+We may very well need to do that again like we did last time with Neumann. Are these devs going to be the ones that make any necessary contract changes? Is the contract change planned?
+
+We're not sure about that yet. That's kind of why we have a few devs, just depending on how this week goes. I'd like to eventually fork and also change the name once we can afford that without losing the exchanges.
+
+The devs are working on recording updating the web app. Is this the task that the LP lock is based on? Yes.
+
+Once this first task is completed, the LP lock is scheduled afterwards. Hoping we get time this week. I don't know if that's a telegram glitch that happens or anybody can end it.
+
+Sorry about that, though. Once you know that, you'll have an idea of when the task will be completed. Yes, hopefully very soon.
+
+Waiting on third and fourth parties is so much fun. Yes, I know. Lots of patience.
+
+[Speaker 2]
+I'm not practicing patience. I think it should be good though. I don't know.
+
+I'm very excited. I am. I think it will be very, very good finally.
+
+[Speaker 1]
+Is the app going to expose an API? I'm not sure what that even means, but I'll send that to my saved messages. Nolan, is your profile picture actually you?
+
+In other words, can third parties use the services created by the dev team? Yeah, I'm not sure about that. Sorry.
+
+Is there any plan to move the tax wallet out of BNB and into something that is less tied to finance? Yes. There are a few things being considered regarding that, whether to leave it as is or have it into Stablecoin or to actually just have it split between Stablecoin or BNB.
+
+No, it's one of my role models.
+
+[Speaker 2]
+Okay, I figured it wasn't you, but got to go this day.
+
+[Speaker 1]
+Bye, MP. Have a good one. I hope so, too.
+
+All right, folks, I think that's all. A reminder, please don't share your seed phrase with anybody, including me or anybody pretending to be me or any admins. Also, please don't enter your seed phrase into any weird links or any kind of support.
+
+No support will ask you for that, including a trust wallet and all the other sites you may have an account or wallet on. If you have any questions or transactions, we hope to be getting functioning by the end of the week or at least being worked on. Again, that's why we have the backup devs, just in case.
+
+I'll keep you updated on that. Yeah, I think that's all I got for now. I thank you for your patience, as always.
+
+Yeah, DM me if you need anything else. Have a great night.

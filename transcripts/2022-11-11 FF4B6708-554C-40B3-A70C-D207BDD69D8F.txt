@@ -1,0 +1,226 @@
+[Speaker 1]
+Start. Okay, I just started recording that in case anybody needs it later. So somebody said, what's the story about CC coin?
+
+CC coin is just Grant's new coin. Grant was one of our original founders. He left FJB officially to start his own coin.
+
+Okay, is the app launch ready? Um, my opinion is no, there's just a little bit of tweaks that I think would really help us. I think if you've used the app, sometimes you'll get little pop-ups just telling you that the transaction failed.
+
+I think this is a little detail that can be huge, especially with the demographic we're going for, which is the less seasoned crypto buyer. That way, you know, imagine your mom or grandma going in and transaction failed, driving them nuts, instead of telling them what they need to do, whether that's to contact Transac or their bank or what have you. And I think that's what Velo is working on next.
+
+Has the War Room FJB segment been recorded? I have not seen the recordings. I have seen the scripts for those.
+
+Is the white paper imminent? An outline for the new white paper is in the works, absolutely. You provided a page of one-third of the tasks Velo wanted to complete prior to launch.
+
+It's been a month since that was presented. Can you please update the task list? Yes, we'll get Velo on voice this coming week, if his schedule permits.
+
+And I think that'll also help answer many of your questions directly. After giving you the news last night, I can finally tell you that we've been behind on payments to Velo, so that had a little bit to do with it. And we are catching up on those now.
+
+Okay, let me turn those off. What concrete steps are being taken to establish and patrol ethics, prevent embezzlement, and stop insider trading? And in general, protect the investor from the team?
+
+I think that's it. We'll make this information public to the community in the coming weeks. In the next few weeks, a few community members will be very graciously volunteering their time to help take some work off my plate, so I can concentrate on outlining a little bit more of that to kind of update you on what we've been working on.
+
+Somebody says, who has access to the FJB fiat keys to wallets and accounting other than Sarah, Boris, and to a lesser extent Velo? Velo does not have access to our wallets and never has to my knowledge. At this time, it's me and B&B who have the keys to the new marketing and charity wallets.
+
+The old original devs do have the keys to the contract, but this will change once LP unlocks in a few days. We'll transfer ownership then before relocking LP, and then we'll be using multi-sig. How can FJB help attract new buyers?
+
+What marketing steps can be taken now in the next few months? Community needs to see progress made on the marketing front. It's motivational to all of us, even if it's small steps.
+
+Absolutely, I agree, and again, I'll provide an outline for the steps we're taking this coming week and in what order we plan to move forward, just so everybody's on the same page and realizes that, you know, we're not forgetting anything. It is there. We just have to move, you know, build the foundation, then the house, and kind of go from there.
+
+We are, there's a lot to clean up first, so just working on that. Can FJB have a secret Santa giveaway? That would be fun.
+
+Yes, we can do that. I'm not sure who sent me that question, but feel free to DM me if you have any like more detailed ideas about it. Will FJB be considering any option to keep taxation to a minimum to be competitive with other major coins?
+
+Yes, right now we won't be lowering tax, I'm sorry. I'm going to be honest with you, since our goal is to get some debts paid off while we wait to recover our missing funds, but we know that won't happen overnight. So I'd love to reduce taxes in the future, but for now I think this could work very well for holders, especially if a tax or percentage of tax goes straight to LP.
+
+I think that would be great and help our charts too. So more of a long-term plan, wanting the coin to succeed. Somebody says, sorry my, I don't know what my, oh my gosh, so my puppy keeps going upstairs and getting stuck up there because he can't come down.
+
+Okay, sorry about that. Give me just a second. Brendan, can you get him?
+
+Yes, sorry about that. No, it's not Larry, it's Ozzy. It's my new puppy.
+
+Larry's like seven. Okay, next question. Let me see, I lost my place.
+
+Oh, somebody says, can coin charity be separate from the FJB coin itself? Let the community donate separately to charity or participate in sponsored charity events, but don't make this a forced requirement. I mean, there's a few days, or a few ways we can go about this, and we can also have the community vote on it.
+
+I'm recording it. You guys always joke about me starting over. So yeah, we can do that if the community would rather, and that's what I meant.
+
+I think I answered this in Telegram earlier today, because there is some legal aspect to the charity, and I will double check on that again with Boris, but keep in mind that the charity can be incorporated into marketing. So an example is like, we can hold an event that is actually a charity event, actually helping people, and have these costs public to you, the community, so you know, somebody isn't pocketing this money, it's not just disappearing, and have that, take advantage of that to also double as a marketing strategy, especially with the holidays coming up. But I will double check with Boris on the legalities of that.
+
+As always, the benefit of the coin is our number one goal. Okay, will the gift cards be available prior to Christmas? This would be a big hit this holiday for MAGA gifts.
+
+Yes, absolutely, that's my goal. We're shopping around. If you have a favorite crypto gift card company, feel free to DM me.
+
+I've honestly never used one of those personally, but I have gotten a ton of recommendations from people I've asked about. But obviously, we've been a little busier with more important things. We want FJB merchandise prior to the holidays also.
+
+First, images look great, let's get them to market. Awesome, that's an easy one. And again, this will all, once I delegate a little bit of the work I'm doing to a few community members, this will free up a little bit more of my time to do that too.
+
+Let's see. I also think it'd be funny if I give my mother-in-law like an FJB shirt. She's super liberal.
+
+She's so liberal, like we don't even speak anymore. Can we have a community poll over what should be the FJB favorite tasty beverage for Friday night by nights? Yes.
+
+I'm still drinking my wine from last night. Actually, I poured it, but I haven't really started yet. So here's a picture of mine.
+
+Here's a picture of what I'm drinking. Still, it's actually a really good one. It's my first time trying it too because we're away from home.
+
+So we went to like a super small town, like four hours away from the house. So they had different drinks than I usually get at home. One shot.
+
+I know I can go in the liquor cabinet and get a shot if everybody really wants me to. It's funny because somebody wrote me a very kind DM and they included in that like voice chat was sober. And I sat there thinking, I'm like, have I ever been like really smashed on a voice chat or something?
+
+And they're thinking to myself. Okay. What's the next question?
+
+Since the deaf wallet, which can make changes to the contract has had its private keys transferred between different owners, its security can no longer be guaranteed. What steps will be taken to change the owner of the contract to a new wallet to guarantee that no one else. Okay.
+
+So again, this goes back to the LP, which unlocks in a few days. We can transfer ownership then. And that's when we will transfer ownership, new keys, multi-sig and lock, relock LP.
+
+We'll keep you very updated on that. So you're aware of what's happening. Will the team consider a fork of the contract to address issues with the contract?
+
+Are they already working on that? I don't think so. From what I have asked, I think this would be a huge, huge pain.
+
+If you have different input, feel free to DM me. The holders should have one or more representatives elevated to the management team to provide oversight and feedback on behalf of the holders. Will this be considered?
+
+We already have that in place. This is just super confidential. A technical leader should be added from the community who fully understands crypto contracts and the blockchain to provide top shelf advisement on how to manage the coin technical details.
+
+Will this be considered? This is already taking place. Just super confidential for many reasons.
+
+I wish we had more of direct line to BNB. If we can't get a direct voice chat with them, can they put out a message confirming what she's been saying? So a direct line to BNB.
+
+I mean, people have tried emailing them and BNB have forwarded me the emails and told me to take care of them. So I'm not sure how more direct that can be. I'm definitely working on getting them on voice chats, hopefully just more like regularly.
+
+I know they've mentioned a few months ago that they're willing to get on even every week. And with new management, I think that's very awesome because they've been willing to do it as far as I've seen. And then to confirm what I'm saying is true.
+
+Yeah, to be honest with you, I don't know how to answer that. I don't know how else to confirm to you what I'm saying is true. Okay, I think that's all the questions I got in DMs. Let me see if I got any more schedules. Drew says when version three to version four true up. Big Mike. Is Big Mike still around?
+
+Okay. Okay. Anybody else?
+
+Any other questions? Thank you, Glory. I did remember to record a little bit in.
+
+Oh, wait. I think I just got a DM. Okay.
+
+I got a DM with a few questions. Somebody says, here are some questions I've gathered reading some other chats. Okay.
+
+So bear with me because I haven't read through these. So how did we go from Bar League involved on how that ended to Finn taking over and all the time he was here with a downward selling pressure? How is it possible this wasn't caught sooner?
+
+Too much change and transition for all that marketing charity money to just slip through the cracks when all old whales and wallet watchers were blowing up the whistle, blowing the whistle the entire time. Yep. I agree with you.
+
+I got many countless DMs about this. I would ask those above me and I was lied to a hundred percent. And I know other people close to my position have asked the same and never got answers.
+
+This has this is all recorded. This is all still on my laptop that I haven't wiped in three years since I got it and my phone. So that will not be a problem.
+
+If BNB were in the dark with everything and are now more fired up than ever, why do we still have outstanding debts? Why haven't they paid these off out of their own pockets? I think like anybody who's had multiple businesses, you try to get that business to take care of that debt.
+
+I think that goes deeper into taxes and I mean, it's many aspects to that. I'm not CPA by any means, but I know personally for me and any businesses I've had, that's how you go about that. Who was in charge of paying the bills previously?
+
+Who was initiating the transfer? Were the bills being paid? When did they stop being paid?
+
+How did they not notice the account they were paying bills from was low? I don't think I can legally answer a lot of those questions. When did they stop being paid?
+
+A little bit over a month ago because when I stepped in a few weeks ago. Yeah, so I believe at the beginning of October, give or take. Moving forward, when we pay the bills, who is signing the check?
+
+Who is doing the books? Who will be initiating transferred and payments? That is me now and everything is recorded.
+
+Is Velo working right now? Is he waiting to be paid? We are back to making payments to Velo.
+
+This past week we are back on track to making payments to Velo. Is he working right now? Yes, we are setting up a meeting for this coming week to get him started.
+
+I think first on our list, if I'm remembering correctly, is to get those pop-ups taken care of. Okay, let's see. Why did BNB have Solomon do a piece on our coin and then no more marketing?
+
+It doesn't make much sense. I think that has a lot to do with what we discussed last night. Plus a lot of it is they really have been super, super busy with elections.
+
+Okay, let me go back out of DMs. Donnie's causing trouble. So the arm was injured by not... No, he actually honestly was injured.
+
+It actually, the non-payment happened right after that. At least to my knowledge because that's when I found out about that too. Okay, any other questions?
+
+James says I laughed. Okay, I think that's everything. I think that's a pretty chill night after yesterday.
+
+Hi Sarah, what do you think is a reasonable estimate for War Room launch? Oh gosh, I have no idea. I'm hoping in the next few weeks we will have a better idea of that.
+
+I will say that with the numbers I've seen, there is no reason that we would have even needed War Room. And don't take this the wrong way. I'm not saying we're not getting War Room.
+
+I'm not saying I don't want War Room. There's nothing I'd want more than that. But with the money that went, funds that went missing, I think, oh my gosh, I don't know how, I don't, I can't imagine how our charts would have looked now.
+
+So I think with everything every one of you is willing to do, with our community efforts, plus our marketing funds that you know are already back to raising instead of them disappearing somewhere, I think we're more than capable of doing that. To get everything cleaned up, I would guess, a wild wild guess, I'm thinking maybe four weeks, maybe four to six weeks, give or takes, hard holidays are coming up. But I would love to start as far as rallies.
+
+I'd love to start with cards. I'd love to start with getting Turok back on to help. Gift cards, merch, I mean these are little things, even if they're not bringing much funds to the coin, just getting the word out.
+
+Even if we're just getting one, two, three new holders a day, I think that's huge. Because thinking about how much money I've spent into this coin and how much money so much of you have spent into the coin, think about how that goes if we're getting one, two, three holders a day. Okay, I think that's all the questions.
+
+Sorry, that's my dryer up here. We need to get on Qcoin. That would be cool.
+
+Let's go for 100 a day. Hey, I'm down with that. Oh, so a few updates actually for you guys.
+
+So our Google update, something went wrong with it last night. So VES is putting it through again, but when Google gets it, and I should be getting that from VES today to send it over to Google, it should only be about two to three days. So I'm hoping next week we are back in the Google Play Store.
+
+Also, I know I will put an official announcement out for this because I know it's Friday night and a lot of people probably aren't listening. I don't know how many people we have. Oh, we have 43 people.
+
+Wow. What was I? Lost my train of thought.
+
+Okay. So if you are interested in helping out, we would appreciate it. We need it desperately right now with funds being so low.
+
+Of course, I'm more than willing to help, but there's some things that I have no idea how to do. Example, updating our website. So anybody that knows how to maintain a website and willing to do that, we don't really have many updates, but it would just be somebody making sure that's maintained and if we ever need an update for them to do that.
+
+If somebody wants to help writing, anybody who's good at writing, that would be great. And these are just things off the top of my head, but please DM me if there's something you'd like to help with. And I think we can take all the help we can get right now and maybe make a new channel on Discord for that.
+
+We also use Signal for our team chat suit too. So feel free to DM me if you're willing to help with any of that. We'd appreciate all the help we can get.
+
+You would be signing an NDA with a government-issued ID. Donnie says, I still love Sarah and FJB. Oh, I love you too.
+
+Okay. I'm confused now. Is there now a change?
+
+We won't be on War Room. No, absolutely not. That is not what I'm saying.
+
+Somebody just asked for an estimate on when they think we'll be on War Room. And I honestly can't say. Okay.
+
+Lead Discord janitor. Yep. You can be the supreme moderator if you want.
+
+Okay. I think that's all the questions. Awesome.
+
+All right. I don't think I have any questions. Wait, I have DM.
+
+Nope. That's not a question. Okay.
+
+Awesome. Somebody says, when will Special Ed be back paid? I'm not sure who was ever supposed to pay him.
+
+I was not in that position. I'm new into this position. So I would have made sure to pay him something.
+
+Awesome. Well, if that's all the questions, I'll be getting off voice now. I hope everybody enjoys their Friday night.
+
+I do want to thank you again for all the grace that you've given us last night. I really appreciate it. I honestly was not expecting that.
+
+I think you'll be very, very happy. And I think it, I hope it makes a little bit more sense now with me saying in the last few weeks that this is the best place we've ever been because I believe it truly is. I think this is long overdue and something I wish I would have found out about months and months ago.
+
+Donnie says, Spesh worked a disgusting amount of hours for free. FYI. Yep.
+
+I understand. I absolutely, I think he should have been paid. I would have spoken to whoever was making the payments.
+
+I know that's not BNB. Throw that out there. Awesome.
+
+Oh, Dan says, MAGA crypto Friday night by night starting soon on telegram. Um, sorry, I'm on Arizona time. So everything is, let me see what time that starts.
+
+I don't see an announcement. Does anybody know when the MAGA crypto Friday night by night starts? He says soon.
+
+It's five o'clock here. So almost anyone, anyone, eight Eastern. So in another hour, cause right now I think Eastern should be 7.00 PM. Correct? Yes. Awesome.
+
+So the MAGA crypto Friday night by night starts in one hour, which is 8.00 PM Eastern. And Oh no. Somebody else says it starts in one minute.
+
+Okay. So 7.00 PM Eastern. My phone somehow got on vibrate.
+
+Okay. Sorry about the miscommunication. So it starts in one minute.
+
+Uh, so make sure you get on there. I think, I don't know if they still have a minimum. Last time I checked, they just try to buy at least $30, but Hey, anything lower.
+
+I think the $30 just came from that's our minimum on the app. So basically, you know, instead of, uh, buying that $5 coffee or I don't know, $10 burger or something like that. Hey, throw some money at it.
+
+Maybe I'll, I'm going to do that tonight just to join in. So if you want to do that, that'll help our charts and kind of an easy way to build up your bag. Okay.
+
+Can buy anytime you like though. Yes, you can buy anytime you like, uh, who was supposed to make payments then I would talk to a special ed. I'm not sure who was supposed to pay him.
+
+I have no idea. I know when I needed my payments, I was getting paid, uh, 2 million coins a month. I would text a grant.
+
+So I'm not sure who was supposed to pay special ed who initially paid him. I can not speak for that. I know for a fact it was not BNB making the payments orphan or me.
+
+Um, all right. Well, thank you guys. Please go join in the Mago crypto Friday night by night.
+
+Um, again, just throw a little bit, even if you have some BNB on there, go ahead and buy 10, 20 bucks. Awesome. Thank you all so much.
+
+Thank you again for last night. Have a wonderful night.

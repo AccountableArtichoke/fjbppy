@@ -1,0 +1,546 @@
+[Speaker 1]
+Had some stuff to take care of. It's been a very, very long week, but it's weird. It doesn't feel like a Friday to me.
+
+I'm very excited for it to be Friday. I have some good news I think you all will be very happy about. So we have a few things to cover.
+
+We have the answers from our advisor for some of your questions to cover and then I'll also post those in the channels too so you can have them in writing. Somebody says muffled on me. Okay, is this better at all?
+
+Hopefully this is okay. All right, so let's get to it. I'll first start with the questions that I have in my inbox.
+
+Let me see if I have any actually. I'm not sure that I do. I thought I saw something come in earlier.
+
+Oh, I see. Can you elaborate how the pay will work for PatriotPay? Will we pay through the app or connect to vendor sites like we do at PancakeSwap or some other way entirely?
+
+So you will pay through the app and you'll actually also be able to pay through any app like if you're on TrustWallet just through a transfer for now. We're also working on integrating it into some other sites so I think that'll be really cool. That's weird.
+
+Ronnie, are you messing with me or can you really not hear me? Everybody else I think can hear fine. Let's see.
+
+[Speaker 2]
+Okay, so I actually think that's the only question in my DMs for VoiceChat.
+
+[Speaker 1]
+Other than that, it's Ronnie's having a day. Okay, it seems like a lot of people I haven't seen for a while in here. Some new names.
+
+Nice of you all to join. Okay, so that's all the questions I have in my inbox. I don't know if you all have any others.
+
+What other sites are we integrating to? I'll get you more details on that, but we're actually just working on getting, we'll be connecting. The goal is to connect just like you connect your browser to MetaMask or any other wallet.
+
+We're working on something very much like that, but I will keep you updated on that. Did make a nice beverage. Did raw milk, a shot of espresso.
+
+What else was in here? Shot of like a half shot of tequila and a shot, a half shot of Kahlua. Oh, and some lavender stuff.
+
+I don't know. Syrup. Garbage that I don't need.
+
+Okay, any other questions? Is that everything?
+
+[Speaker 2]
+Okay, we can go. Let's see.
+
+[Speaker 1]
+I think first let's get some of the advisor questions and all post-season ratings for you all too. Actually, I have the question from Farkas asked on the last, I feel like a few voice chats ago. He asked, if we add to the LP, it appears it would get taxed as a sell.
+
+Any way to exempt LP contributions, likewise collecting fees from the pool would get taxed as a buy. So that would require that we whitelist the LP, which we would not be a good idea. We couldn't do that.
+
+However, our advisor thinks we'd be able to add, we'll be able to add a contract that basically does just that. And then we can whitelist the contract and we'd be able to do something like that. So definitely added to future plans.
+
+And I will keep you updated on that. What's the status with the dev and team testing? Was there any fixes or changes required after dev and team testing?
+
+Is there anything still outstanding that needs to be done, Transac and ChangeNow? No, there were no changes or fixes required with team testing. We are only waiting on ChangeNow and Transac to enable trading in the app.
+
+Transac is having some issues with pulling the price, so they're working on that with the appropriate. ChangeNow is giving us several days until their main dev is in office to be able to do that. However, we are trying to get you all to start testing.
+
+We will get you the directions to start testing this weekend. It will not be testing on the app, so if you only have an app account, you will need to wait, or you can make a different wallet outside of the app. But I think that's some pretty exciting news that you all will likely start testing this weekend.
+
+We are working on the instructions for you, and yeah, we should have you all start testing this weekend. So I hope you all are available. What?
+
+What are you doing, Ed? Will anyone be able to slap the grin off of any long-term holders' face when they go live? Does that mean we can test using TrustWallet or Metamask?
+
+Yes. Any address can test, not just one snapshotted from Binance Smart Chain? Correct.
+
+The maximum will likely be around 5,000 PPY, somewhere in that range, but it'll all be there for you in the instructions. What's the best crypto to own? I don't know.
+
+Are you asking for opinions? I'm assuming DKite, you're asking for what crypto to be buying PPY with during testing. I would do Matic.
+
+What do we need to do testing? I will give you the exact instructions on how to do everything. I've been working on those for the, I don't know, last little bit here before going.
+
+When do we find more on becoming enrolled for VIP-flagged wallets? We already have a list of folks who are interested in that. If you are, shoot me a DM.
+
+And shortly after we go live, we will send you the material. 5,000 PPY, so like $2, I think less than that. Is Transact and Change Now the last piece of the puzzle before AirDrop and going live?
+
+Gosh, still trying to kick the last of this cough. Yes, Transact and Change Now are the last piece of the puzzle before AirDrop and going live because we use them for the transactions in our app. However, so after they enable trading, we'll be team testing.
+
+Team will be testing on the app to make sure everything's working correctly. If not, we'll have the devs work on that and then have you all test to make sure everything's working correctly there. And then everything's set as far as our contract and our app.
+
+Do we get a prize for finding a way around the 5k limit? Sure. Yes.
+
+As long as you don't share that with anyone. Can you make it more like 1,500 PPY for testing?
+
+[Speaker 2]
+I don't like the 5,000.
+
+[Speaker 1]
+Get sidetracked into my DM somewhere. VIP, what is that? Those are the merchant wallets.
+
+Staking is not an option. Can PPY be mined? I don't think so.
+
+Does it need to be nativematic or ethereum wrappedmatic? That's a good question. I've only tested with native.
+
+[Speaker 2]
+But I will double check for you just in case.
+
+[Speaker 1]
+What's the prize? Hmm. Let's do...
+
+Let's do... What do we do?
+
+[Speaker 2]
+Let's calculate this.
+
+[Speaker 1]
+PPY. I don't know how much though. Would the anti-bot function if someone sells 10 times in one hour, but does not buy that day, will they get the additional tax?
+
+[Speaker 2]
+It depends on when they bought. I think that's what you're asking.
+
+[Speaker 1]
+Okay, so next steps. Change now on transact. Approve and activate.
+
+Enable trading. Dev and team testing. Use the app.
+
+Test the app. Correct. Community testing using app.
+
+Correct. If any changes need to happen, they happen before community starts testing. All going well.
+
+Then we have airdrop and contract goes live and full trading is enabled. Correct. Yes.
+
+Can you give us more details on how the anti-bot system works? Yes. So the anti-bot system, you will...
+
+So say I buy right now. So it's very customizable. So we can actually change two things on there.
+
+We can change the tax that the trader gets taxed. And mainly we're thinking this will be used for sandwich bots, trading bots. So we could change two things.
+
+We could change the amount they get taxed and we can change the timeframe. The timeframe, meaning say somebody buys at 6 p.m., we can decide how long the anti-bot function is turned on. If it's turned on for the next hour, for the next six hours, for the next 12 hours, for the next 24 hours, what have you.
+
+So we get to decide that and we get to decide what their sell tax is. So instead of the 8% tax, it could be a double tax at 16% or whatever number we put on that, that's adjustable too. So if we have 16% tax instead of the 8% tax, that's a double tax and say we have 12 hours as the time set for the anti-bot.
+
+So if you buy at 6 p.m., you have, so within the next 12 hours until 6 a.m., if you sell within that timeframe, you're going to be charged double tax on that sell. This will prevent the sandwich bots that we've had to deal with in the past with FJB where unfortunately users got screwed. So that's great.
+
+Did the advisor one star in a movie called Mighty Ducks? I'm not sure about that. I'd have to ask him.
+
+I am not sure. I could not answer that for him. How long before we might see Patriot Pay in the App Store?
+
+Our dev is having difficulties with just one thing and it's not, don't worry, it's not about getting approved. It's just one bug we have on our end. No, stop.
+
+Russ is always down to donate. That's what we have. Donate by buying coins and then you can have your taxes go to and then we can pay that.
+
+Stop trying to donate your coins. People will sell in smaller amounts to reduce slippage. I don't know what that has to do with the bot.
+
+How long is this all expected to take? So we don't have a timeline from Transact because they are encountering an error and now working with another party to get that sorted out. For change now, they expect their main dev to be back in office Tuesday and they expect it to be taken care of Tuesday.
+
+They said if they are able to get it done before that, they will definitely keep us updated. But as you all know, we need both of them for the most part, especially to test the app. What is the current time set on the anti-bot?
+
+We have not set that time for the live contract yet. So for I think for testing, I think we have it set to something very small, like 10 minutes, I believe. I might be thinking of our test wallet, test token that we're testing.
+
+But what governance process is involved in the application of these anti-bot policies to a specific wallet address? I don't even know what you're asking, Nolan. I will forward that to our advisor.
+
+I think half the questions the advisor answered were yours though. Will you post in chats when my anti-bot function is changed? Will I post what?
+
+Like when we decide on a time? Change now, better get it on. Tell him Christmas is over.
+
+I know, I think he's probably celebrating New Year's. In trust wallet, pancake swap or another exchange? It'll be another one and actually likely not quick swap.
+
+Well, you can have that as an option too, but you'll get directions for both. I like this other one a lot better, at least on like with my testing, it's been working a lot smoother for me. So you guys might like it, but we'll get you instructions for both options so you kind of see what you prefer.
+
+Am I hearing you rubbing silver coins together? Sounds like it. No, I don't think so.
+
+I do have, I should probably stop this if this is what you're hearing. I have like a hair tie in my hand.
+
+[Speaker 2]
+I will stop though, I don't realize I could do that.
+
+[Speaker 1]
+Oh yeah, the bugs for Mike. Could the issue with Transact getting data unpriced be because trading is switched off? No, it doesn't have anything to do actually with the ads.
+
+No, that's not it. They think that one of the listings is probably just not live from the other party. If there are changes, oh for the bot.
+
+Okay, so will I let you all know if the time on the anti-bot function has changed? I can. Sure, and you can always check it too, but that's not a problem.
+
+I think we share most information, relevant information like that. Is the team expectation that this project will be live trading, etc. prior to February?
+
+Yes, absolutely. Even if the app, say like ChangeNow and Transact do what they need to and say we start testing our app and we're having major issues there and dev's working on those and app, everything with the app usually takes a ton of time, we'd still go live just off the app. Not ideal, but that's what we'd do.
+
+Anti-bot is wallet specific, not for everyone? Nope, anti-bot is for everyone. Same question, but prior to the end of next week.
+
+Yes, considering testing goes well and say ChangeNow and Transact and the app are not ready, we will still go live off app. Yes, yes, yes, absolutely.
+
+[Speaker 2]
+I'm very ready for that, as I'm sure you all are. Will it be the same address as you posted on the 29th?
+
+[Speaker 1]
+I'm not sure what I posted on the 29th. I'm sorry, I post a lot. I know this week I have not.
+
+So not waiting for ChangeNow and Transact to do the airdrop? If so, that's great. Yes, as of now.
+
+Obviously, if anything changes that, if there's a reason we can't do that, I'll definitely share that with you, but that's the plan right now. Is the Natalie Winters new merch site setting up to accept PPY? We'd love to.
+
+That would be nice. Oh, maybe that's what you hear, the poker chips? Is that my eyes?
+
+Okay, I see the address I posted on the 29th. No, that's the address for our smart wallet contract. I'm kind of disappointed nobody was impressed by the 1776 at the end.
+
+I thought it was really cool.
+
+[Speaker 4]
+Mm-hmm.
+
+[Speaker 1]
+And just checking, full trading enabled on QuickSwap? The Swap site, you'll have more than just QuickSwap, but I'll share that with you this weekend, by the end of the weekend. Oh, you did notice.
+
+Cool. What about MyPillow, MyStore, PublicSquare? I think we all would love to be on there.
+
+Absolutely. Yeah, it's really cool, Stacey. Super cool.
+
+I thought it was. You're teasing me now about what? Uh, so no trade limits by next week.
+
+If testing goes well, as it has so far, then trading will, I will give you a 24-hour notice in case you all need to move funds around, as I promised, and then we will go live.
+
+[Speaker 3]
+We'll airdrop and go live.
+
+[Speaker 1]
+So, ideally, we'd love the app to work, but I think 24 hours will give you guys plenty of time. Even if you don't have a non-app account, if you have any other Dex wallet out there, I think 24 hours gives you enough time to get one. I know last time a few of you said you needed to wire funds in.
+
+I'm sure your fellow, I want to say FJB'ers, but I'm sure your fellow community members will be more than happy to, for you to Venmo them or something, and they send you some crypto. What are you tagging me in? Just finished part three of my bookkeeping EDM.
+
+What? Really? That's pretty cool.
+
+Is that what you tagged me in? Oh, I see. Didn't take me first.
+
+Didn't take me to the correct. Oh, you did know this. Awesome.
+
+Somebody did. Yeah, I thought it was super cool. I must have missed that on here.
+
+Glad somebody appreciates it. Really cool. It's the details, you know.
+
+Stacy. Stay away from the scammers, though. Yes, absolutely.
+
+Do not download the quick swap app. I'm not sure if that's actually still available, but they have it in their telegram. If you join the quick swap telegram, they have notices on there.
+
+Please just wait for directions. I'll give you very specific directions. Wait for those and follow those just so you don't accidentally lose your coins.
+
+Don't give your info to anybody, even if, you know, looks like my profile or another mod's. Don't share that with anybody. Don't type in the website unless it's a website.
+
+Well, I'm sharing with you. Please don't just click on any random websites or apps, especially if they ask you for your seat. I was stirring that drink.
+
+Yeah, I think that's what sounded like poker chips. My ice drink. It's finally, like, cooler here.
+
+Finally. My goal is to move this year, but I don't know. Cheers to you, Rust.
+
+Every time I want to move, like I've been here for so long, I feel like I'm still involved in everything to go somewhere where you don't know. I don't know about that. I wish I could just take it, like, with me in that sense.
+
+Tennessee. Yes, Tennessee is definitely on the top list. But again, every time it comes, like, really down to it, I'm like, I've been here for too long.
+
+I know too many people. Who just bought in Tennessee. That's exciting.
+
+[Speaker 2]
+Florida is also on the list. It's like, Tennessee. Yeah, there's a few.
+
+Arkansas.
+
+[Speaker 1]
+Ozarks. That would be great. That's, I know, that's very specific.
+
+The Ozarks and then Florida. It's like fourth. But I feel like I would miss everything else here.
+
+What is the direction from the Admiral? To get it right. To be competent and get it right.
+
+And that's why everything needs to be perfect. Oh, actually, I think I can finally share that stuff. Even if the app isn't live yet.
+
+Even if the app isn't live yet. Oh, yeah, guys. So, I'm a human behind this computer.
+
+So, you know, you can, I don't take any of the stuff you say personal, if you're upset, all that, if you're venting, that's fine, right? However, harassing me over and over and over and like for a year, a year and a half, there's a line that needs to be finally drawn there. So, once you get to a point that you're clearly harassing me and going out of your way to intimidate me, scare me, defame me, then I will finally take appropriate actions through the appropriate channels.
+
+I really hate to do that to anybody in the community I know or anybody period. Because that is very serious. That's going to be public records.
+
+I mean, I know I was, I went on a date with a guy a few times, and then I found out, like his girlfriend had a restraining order against him. I've never stopped talking to somebody so fast. Some of you guys have kids, you have families.
+
+So, I've really tried really hard, especially for some of you that have harassed, I know I'm preaching to the choir in a sense, but especially some of you that have done and said and said some threatening stuff in the past. And I always then cool off and say, you know, I don't want to ruin somebody's life or have these public records against them. But at some point, when you keep going and going and going and going, and it comes to a point where it's literally like scary, then I will take the appropriate actions through the appropriate channels to protect myself.
+
+And although I really don't want that to be on your public record, I will have to do that. And I will do that to protect myself. So just don't do stupid shit, please.
+
+Don't do that. I understand we all get frustrated. I understand we're like this dysfunctional, kind of normal family.
+
+I mean, in a sense, we've all been probably upset at each other or said some things. I understand that happens. But to go out of your way to do that over and over and over many times, that's a different story.
+
+So just please, don't do that. And don't make me have to file protective orders. It's a long, drawn out process between my attorney and the courts and not something I want to do.
+
+I love you guys too. War Room, War Room will be soon. For War Room, that has not changed.
+
+We have to have the app working 100%. We are adding a really, really, really cool feature to the app that will make this much, much, much easier. And I think that will help us tremendously.
+
+Russ says he's a fast learner. The problem with these guys is they don't even realize when they take shit too far. Yeah, there's a lot of guys.
+
+And again, joking about it. And you know, again, but it's like, I let a lot of it, I think, go. But I am a human and a female and I'm not trying to play like the liberal female card.
+
+But like, at the end of the day, most of you are guys and I am a female. So it's not like, no matter, even you, you know, even though, yeah, I'll stop it. Hearing, clicking, I'm sorry, I'm not clicking anything.
+
+[Speaker 2]
+I don't know what, any bad connection? What else?
+
+[Speaker 1]
+Okay, we can go through these.
+
+[Speaker 2]
+Let's go through some of these questions.
+
+[Speaker 1]
+I know you guys wanted our advisor to come on voice. But maybe one day you all can come down soon.
+
+[Speaker 2]
+You guys are wild.
+
+[Speaker 1]
+Let's see. So we have Russ asked him, what are your last three major achievements that have yielded incredible gains to your projects? Crypto advisor said, close relationships built on trust are my greatest achievements and continue to provide the most value.
+
+Bet you didn't think you were going to get some good life lessons here. Is this, Ed said, is this the first fork you've been involved with? Crypto advisor, I'm more involved with this upgrade than any other.
+
+Can attest to that. Sam said, is PPI going to be a top crypto within the next year? Crypto advisor, that's less technical and more of a question for marketing.
+
+Do you have any creative marketing ideas? That's a question back for you, Sam. I think I'll post this back in the same channel and you guys can answer some of the questions if you like.
+
+Matt says, as PPI launches soon, how important is utility in the near future of the coin compared with other app or coin goals? Crypto advisor, what specific ideas do you think should be considered? Matt has some questions to answer.
+
+Russ said, forks are typically an avoided area with the crypto investors. What are your thoughts? How will you make this project an appealing investment opportunity across numerous demographics?
+
+Crypto advisor says, Binance's chain is quite centralized. Polygon's move to incorporate zero-knowledge technology into its ecosystem makes it a great fit for the project's communities that prioritize privacy, scalability, and high throughput. Look into their proposal to upgrade Polygon into an EVM-compatible value gem, if you haven't already.
+
+Oh, I like this question. All for his glory asked, have you ever read the book of Jude? Crypto advisor said, yes, I had a life-changing encounter with God when I was younger.
+
+That I'll never be able to put into words. The Bible was the first place that I looked to try to find answers about what I experienced. I figure that'll make all for his glory.
+
+Sounds like Finman for sure. Oh boy. Chad said, if I could snap my fingers and make changes to PPY, this is what I'd do.
+
+Thoughts on viability of the following? Back PPY with gold and or other precious metals, reinstate the charity donation tax wallet, or create a burn tax. Crypto advisor said, two out of three of your ideas are viable in the short term.
+
+Oh gosh, are the rest of the questions all Nolan? Oh boy, I think so. Actually, I should have counted.
+
+I think more than half the questions are Nolan's. Oh, Nolan's. Nolan's.
+
+Okay, I'll try not to laugh. Nolan said, I'm not laughing at the question, I'm just, I'm laughing at Nolan being Nolan. What is the established benchmark required to reduce contracted imposed taxes and fees?
+
+Excuse me, contract imposed taxes and fees. Crypto advisor says, contract fees are established by management. The new contract provides several new options for management to configure reduced fees with certain conditions.
+
+Next question, also Nolan, what's the specific item on the roadmap for the Patriot Pay app that you are most excited for? Crypto advisor says, the merchant and third party integrations. Another one by Nolan, what's the specific, uh, currently planned and scheduled promotional and marketing event you're most excited for?
+
+Crypto advisor, I prefer to stay out of the marketing lane except for its impact on rate limits. Russ says, here's the good stuff. Another one from Nolan, will Patriot Pay continue to rely on centralized pricing data for assets?
+
+If no, which resilient data sources will Patriot Pay use for asset pricing data? Crypto advisor says, this is a great question and one that we've been discussing. Aggregators are typically the most accurate since they pull prices from multiple sources.
+
+Adding a fallback mechanism like a chain link data feed might offer additional resilience in the rare case of an outage. So we don't have another transact. I promise none of us know the advisor, maybe no one does.
+
+Maybe it is Nolan. Maybe this is Nolan answering his own self.
+
+[Speaker 2]
+Actually, I think the advisor is in the chat rooms. I'm pretty sure.
+
+[Speaker 1]
+He's not, he needs to be. So you can see guys' enthusiasm maybe. Another one with Nolan, is a first party data export function planned for the Patriot Pay app?
+
+If no, what third party service do you recommend as we approach tax season? Crypto advisor says, there are no plans for this at this time. Several platforms should already be able to handle this for you.
+
+ZenLedger and Coinly are popular services that come to mind. Nolan says, what steps have been taken to mitigate re-entrancy? This is more of a question for the auditor and developers.
+
+Crypto advisor says, but the use of internal functions handling state changes before external calls and custom modifiers like lock swap guard against re-entrancy. Nolan says, what methods are being used for error handling in the PPY contract code? Crypto advisor says, require statements, access control checks, state checks, etc.
+
+I think we have three more. What steps have been taken to mitigate unprotected functions of authorized users? One of those steps, who are those users?
+
+Crypto advisor says, the smart wallet contract was redeployed for this reason, so that management would have sole authorization and the ability to manage roles directly through OpenZeppelin Defender. Defender simplifies contract management with its multi-sig approval process. Nolan says, please describe the process used for redeploying and managing the contract.
+
+Is it phased? Canary. Crypto advisor, core testing has already occurred on testnet and mainnet.
+
+The plan is to implement lower max transaction phase for the final testing. And then the last question, any plans for HSM or biometric two-factor authorization authentication for login and or transacting? Crypto advisor says, this is something that we are discussing.
+
+Yes, we are. So, I'll post those into that channel for that topic. He didn't say if he was flying the Ukraine flag.
+
+[Speaker 2]
+No, I can uh assure you that he is not flying the Ukraine flag.
+
+[Speaker 1]
+Whoops, actually I'm gonna check my email in case I received anything there.
+
+[Speaker 2]
+Oops, there's one. Who is that? Um, that's more of a help, more of a support question.
+
+Okay.
+
+[Speaker 1]
+I need more ice. I don't know, there's a lot of ice in here. Let's make some jars.
+
+It's about halfway now. Is the crypto advisor a holder? He will be after airdrop and so will our dev.
+
+Our dev will be our main dev who mainly worked on the majority of the contract. I think he's very excited for the airdrop. Who else?
+
+I'm trying to think of who else asked for some of their pay in the airdrop. A few more people will get airdrops but um those are the two I think who specifically I think are very excited for it. Less than 10 pieces, best I can tell.
+
+No, I think like one, two, three, five, six, seven. I can see nine from the top so I'm sure there has to be like another few under. Is Velo gonna stick to cycling?
+
+Probably. Velo is working on a lot of AI these days. So yeah, he says that's kind of his focus now.
+
+That's what he's doing. Boris is excited for his airdrop and so is Steve. Both excited for their airdrops, okay, because you all are.
+
+Who else? Who do we have to thank for putting the team together? It's been a bumpy road but we are where we are now is a thousand percent better than even two years ago.
+
+Awesome and I'm excited to hear that. I think you all will be.
+
+[Speaker 3]
+I think you all will be very, very happy.
+
+[Speaker 1]
+Finally, I get to share the announcement video although now I haven't watched it for a few weeks. I don't want to watch it and then want to change it some more. You got distracted before but you were going to announce or show us something.
+
+I think just that testing is going to start this weekend. Sooner, sooner than later. Bye.
+
+If it's up to me, it'll be as soon as I'm done getting directions to you all. Can you drop the video this weekend? No, the video will drop as live trading.
+
+With no limits is enabled along with a few little, little, little things that I think you all may like. A little like tiny Easter eggs. SKB chief of staff going to be too busy for us.
+
+No, not not as long as we get it right and that's why it's very important for us to get it right no matter how long it takes. And I know you all are sick of waiting, trust me, but we can't have it be another fire situation. Very excited to get it right no matter how long it takes.
+
+[Speaker 2]
+Very excited for that. I think Russ is excited about this year as well. I think so too.
+
+[Speaker 1]
+The task reveal what percentage of that was the fork? What? What?
+
+What benefits are there to becoming a VIP wallet? So VIP wallets are going to be for merchants and after that, with that, how do I say this? So not just merchants, it'll also be charitable organizations and political candidates.
+
+And the benefits, well, we'll talk more about that when everything is released. I like the limits, yeah, I think we can expect this week. Even if app is not ready, I mean I hope it is, I'd like it to be ultimately, but it's okay.
+
+If it's not, we can still remove the trading limits and enable trading full throttle. Maybe we should take a contest and take guesses over where the charts will be at. Like certain times within the first 24 hours.
+
+I feel like that would be fun. SKB, DJT, and Boris. Gotta make sure the app is unbreakable for that reason, I think.
+
+I don't think so.
+
+[Speaker 2]
+Where is he? Oh boy, I called him in for a bug problem.
+
+[Speaker 1]
+No? No to the contest, Bobby? Bobby says we'll jinx it.
+
+No contest, I guess we're not allowed. Can we back PPY with catalytic converters? What?
+
+How does PPY rank in the privacy realm? Donald Trump is the advisor. I don't know if he has that much time for us.
+
+Can't you just airdrop trust wallet users directly into the app so we don't get 8% tax so we can participate in the app? I don't know what you mean. App users also get charged 8% tax.
+
+And everybody can participate as soon as the app's available. You guys are crazy.
+
+[Speaker 2]
+Maybe we'd have a buy contest. No, I don't think we should do a buy contest for the first day. You guys are gonna be crazy anyway.
+
+Maybe somewhere in the first week.
+
+[Speaker 1]
+Give us an exclusive buy weekend. I am just with very small limits. That Ed wants to be like even less limits than they are right now.
+
+Even less than the 5,000. 5k PPY per buy is the plan. Oh, 15,000.
+
+Did you mistype that earlier? Did I misread? No, it'll be 5k PPY per buy.
+
+[Speaker 2]
+Coinbase is pretty woke.
+
+[Speaker 1]
+It's going to take me hours at 5k. Ed, when are you flying? I'll make sure to coordinate the time.
+
+Okay, so we'll enable trading in two hours. Don't trip the anti-bot. I don't think Ed ever sells.
+
+He'd have to sell to trip the anti-bot. Hey, Russ said it, not me. Russ said Ed Airborne equals buy time.
+
+I'm kidding. I'll give you guys, I mean with testing, I don't think we need much of a notice. But just be sure with testing still, please don't connect your wallet to anything weird.
+
+Or maybe just make a whole new wallet just for testing, especially if you're not super, super, super crypto savvy. Maybe just make a new wallet that you're only using for this testing.
+
+[Speaker 2]
+Can't go wrong. I think that's everything.
+
+[Speaker 1]
+We need a positive bot. The more quickly we buy, the taxes reduce. Hey, so since we have the upgradable contract, we can always, I don't know about that specifically.
+
+I am not the crypto advisor, but I feel like most functions we can add. That actually sounds like a good idea. I feel like that's a cool idea.
+
+I've never heard of it. The more often you buy within a specific time, the, oh, I don't know who that was. Oh, there's the panda.
+
+Hi, Mike. I feel like I haven't seen you in the chats often, but I haven't been in there much.
+
+[Speaker 2]
+All right. Anything else? Oh, gosh, there's a lag.
+
+Time for me to go.
+
+[Speaker 1]
+Okay. So I'm a noob with trading polygon. What is the site to trade it?
+
+Okay. So yeah, there's going to be plenty of ways to do it, but I will see if I can get the directions. Yeah, it's still loading.
+
+[Speaker 2]
+Sorry, that's weird. I don't see you.
+
+[Speaker 1]
+Oh, yeah, I do. It's jrock. Sorry, I'm going to mute you.
+
+So I'll type up the finish time. I come up and just started before here. Once I type those up, I'll share those with you guys ASAP, even though we will not begin or enable trading yet.
+
+But I'll see if I can get those instructions up for you guys tonight so that you can set up your trading wallets. Again, if you're not super crypto savvy, it might be a good idea for you to create a new wallet to test on, but that's up to you. As always, just make sure you don't go to any weird sites.
+
+Make sure you follow the correct links and don't download any weird apps. I know Quickswap, there's some spam app called Quickswap. Do not download that, please.
+
+Don't enter your seed phrase in there.
+
+[Speaker 2]
+So I think that's everything.
+
+[Speaker 1]
+If you have any other questions or any other issues, you guys know where to email, DM, tag, text, call. Contact me any way that you need to and we'll go from there.
+
+[Speaker 2]
+I will keep you updated of everything.
+
+[Speaker 1]
+Again, I'll try to get those instructions up tonight. Let me get the voice chats uploaded and get the advisors questions and answers uploaded. I'm trying to get those into Discord, too, actually.
+
+Maybe that might be a good idea to start. When price go up, price is up. Price is up like 30% last time I checked.
+
+Is that not enough for you? Is 30% not enough? I have no doubt price will go up some more as soon as we enable trading.
+
+Also, with testing, I feel like Ed is hiring. He's going to hire people to sit there and just buy for him from as many wallets. He's going to do it while he flies in two hours.
+
+Rusted. Rust told me. I think that's all I got.
+
+Should be a good weekend. I'll try to get those instructions up for you tonight. I do have my normal food bank church stuff in the morning and then I actually have lunch with some friends.
+
+We'll see. Tomorrow may be a good day to start the testing if you guys are ready. If you're not, we can wait until Sunday.
+
+All right. I filled my whole mason jar with ice before I put the milk first, then the espresso, and then everything else on top. All right.
+
+Cool. Well, they're ready, so we'll see if we can get this tomorrow then. If I can get the instructions to you guys tonight, you all get your wallets ready.
+
+Move funds if you need to. I think you'll need like $2. And then we'll see if we can do that tomorrow.
+
+Ice and espresso equals water. No, I use a hyper chiller. I put the hyper chiller, I don't know if you guys, it's like a frozen, I don't know, container.
+
+And then you keep it, you store it in the freezer. And then if you're, if I want like a nice espresso, I'll put that straight under the espresso machine. So then it takes like a few seconds and your espresso is ice cold.
+
+10k pints. Oh boy. We are so advanced in the desert.
+
+You have to, the ice and water is very important out here. Otherwise we'll get dehydrated. And electrolytes.
+
+Okay. 100k buys. Save those, save those larger buys for when we enable full trading, full on trading with no limits.
+
+Again, plan is this week for that. All right. I think that's everything.
+
+Thank you all. Have a wonderful night. I will, let me just convert these files and then I'll upload them.
+
+I'm going to try to do that before 8pm here. So give me 15 minutes to do that so I can work on the instructions. All right.
+
+See you soon. Thank you.

@@ -1,0 +1,102 @@
+[Speaker 1]
+Let me start third quarter. All right, I don't have any huge updates, just wanted to get on here in case anybody had questions. We are still waiting for the third party.
+
+We're also waiting on the website graphics which should be completed by the end of the weekend. I'm told keeping it pretty clean so that should be cool and then I think Dogbone will get those uploaded. Should be pretty quickly for him to get them on the website and just get everything rebranded.
+
+I know I saw some comments of the screenshots from the website. It is under construction. The app, I did thank you to the very kind person who got me in touch with Pat again.
+
+We did just try a few things and they're still not working. So we're waiting on the devs to finish reviewing everything on the app just because we never really got a written explanation other than diagrams of how everything works. So that's just taking them a bit longer.
+
+Our dev is still doing well working on the integrations with a partner of ours. Yeah, branded, sorry. Rebranding, not rebranding.
+
+Um, what else? Transact sent us a survey to see how we feel about off-ramping. We've done that before but it's been a while.
+
+Basically just our preferences and how soon we want that to happen. So that's a gauge your interest in Transact's corporate on and off-ramping service. So I have a feeling they're getting closer too.
+
+That's nice. Uh, what else? Everything I had.
+
+I had a call with our attorney today. He's gonna go ahead and review some things and then we'll talk, he said probably Tuesday. So that'll be fun and some new developments hopefully to update you all soon on.
+
+Uh, what else? I think that's everything. Not sure if you all have any questions.
+
+The status update on the third party, they have not started yet. I am sorry to be the bearer of that news but I will update you as soon as they have begun. Unfortunately that's out of our hands um, there's not really a way for us to like pay extra and expedite it.
+
+Doesn't work that way. But I think we're good. Uh, Boris isn't our attorney.
+
+No, Boris does not really practice. That's uh, Boris's time's a lot more valuable than that. Not saying our attorney is not awesome but he's not a one of Trump's advisors.
+
+What else? I don't have any DMs. I think I still have a few, uh, actually several DMs from business owners. Um, again I will get back to you all as soon as we have everything all completed as far as uh, the promotion that'll be available to you.
+
+I think that'll be super exciting. I'm very excited for that. And actually something I probably, I might actually uh, do that too.
+
+Start accepting those payments. I'll have to set it up obviously so there's not like a, I don't know, I mean everything's so transparent on blockchain but you know.
+
+[Speaker 2]
+What else?
+
+[Speaker 1]
+Yeah, I don't think I've seen any other questions. Sometimes I won't answer question in chats because I'll want to go over them on the boys chat but I don't think I've seen any. Uh, I'm really excited for the video.
+
+So well, we have several videos but this one is geared towards the community, um, the current community. So basically somebody who is very familiar with FJB. Um, yeah basically for all you guys.
+
+So I am very, very excited for that one. This is the first one, first priority on the docket. Um, so I think it'll be really cool.
+
+Uh, we were going to make it a super brief, short one but now it's kind of, kind of slowly turned into a long, longer video. Um, which I think, I think will be cool for the community. Have they, has the third party, um, encountered any issues?
+
+Have they, or wait, I'm sorry. Oh, I thought that was the same one. Has the third party started the transition work?
+
+Um, yes. Have they encountered any issues? No, just, uh, administrative stuff still in that stage.
+
+We've turned everything that we want, that we need to turn in, um, just administrative stuff on their side. Um, yeah that's it. Uh, when will the third party be finished?
+
+They will, they gave us the estimate of 10 days. It would take them 10 days to complete everything from the day they start but they have not started yet. Um, I am not holding my breath exactly on 10 days just because of the way everything seems to work, uh, to be completely honest with you.
+
+Has the dev finished working on the app? No. The dev, we actually have the dev, um, working on integrating one of our partners with, associated with the task and we have a brand new group reviewing and he, the dev is still reviewing that but, or he was reviewing that until he, um, switched over to working on this integration with a partner of ours.
+
+Um, he's supposed to be done with that. The estimate was today but it seems like it'll be running into the end of the weekend. Um, and then the reason the other group of devs, um, again the reason it's taken them just a while to review everything is we really have no written functions of everything past a diagram and, uh, the code.
+
+How much time for reveal app finalization do you need to get this launched on War Room? Um, I couldn't tell you just because we don't know. So I tried a few things, uh, with, Pat today to try to see, he's the only person I believe who's trying to get funds out, uh, that's not working for him, um, but tried a few things that the team wanted me to try today so, uh, we tried those and they did not work, unfortunately.
+
+So, uh, and from judging from the past, uh, when this has happened and transactions have failed, uh, it's been a very simple fix. It's generally been because Transact and ChangeNow, which are both integrated into the app, is because they change the limits on their end and, um, it messes with the code. However, our last dev, um, did something really cool where it, we wouldn't ever need to do that again.
+
+It just automatically, our code would automatically do whatever it needs to do if those limits changed from Transact and ChangeNow. Um, so it shouldn't need that again, um, but it's definitely not a issue. We've moved, uh, enough gas in all the necessary wallets, um, so I will let you know.
+
+It said as far as war room, it's, uh, as soon as everything is working properly is, and that's, uh, what we've been told. As soon as we get our shh together. Obviously we don't want, uh, you guys, most of you probably remember, uh, the volume we got on the wire day.
+
+We don't want that to happen and us get stalled again and a bunch of people have their money stuck, um, again, and just a bunch of people unhappy. So we just want to make sure everything is working very smoothly, have everything testing, um, before we get that volume. Will the war room launch include FJB segment or will it be focused on Patriot Pay?
+
+Um, it should be both of them. Um, yeah. Patriot Pay.
+
+I think, um, I think there's kind of a misunderstanding when we introduced Patriot Pay. It seems just from some of the feedback I've gotten that, uh, some people might feel like we're moving away from FJB coin and into Patriot Pay. That is not, um, at all the goal.
+
+That is not at all the idea. That is all, that is not at all what is happening, um, or what we want to do. It's just, uh, to add on more features.
+
+Um, FJB will always be, FJB coin will always be the first when we open the app, um, and again be used for the donations we've discussed, um, and merchants. So I just, I do want to make that clear just because I feel that's, uh, kind of a little bit of what's, uh, you know, what some people may be thinking. Sorry for all the questions pumped out like that.
+
+Must say I'm a bit at a loss as to why they haven't even started their transition work yet. Um, it, I mean, they're, I know they are super, super busy, uh, so that's all I can, there's not, it's definitely not a personal reason and I understand where we don't have, you know, the largest volume, um, we're not the biggest of their partners, so we understand that, but, uh, it is not anything personal to us in, uh, in the way that, oh, they're reconsidering or anything like that as far as I know.
+
+[Speaker 2]
+Anything else?
+
+[Speaker 1]
+Is that everything? Any other questions? Uh, please remember to get your coins off XT if you haven't already.
+
+Um, yeah, if you have any issues, feel free to DM or email me or tag me so we can take care of you there. I think most of you have taken your coins off there, but we do still have a bit of a balance on there, so please do that. Probably go ahead and send an email to all of you who've signed up on the website too.
+
+Has an estimate been given for when they will start? Uh, we've got somewhat of an update today, uh, but we don't have a hard date on that yet. Hope to have that by the end of the weekend.
+
+And I will update you as soon as we get any sort of, um, uh, update like that. I know I'm tired of waiting probably more than you all are. Um, stressful to have, you know, unhappy people, I get it.
+
+Okay, anything else? I feel like Discord's been, uh, extra quiet since the few moved to just side chat. All right, well, I think that's everything.
+
+If you do think of anything, please feel free to tag or DM me. Um, again, please move your coins off XT, uh, probably just to a trust wallet or metamask, whatever you prefer. Um, please don't message back any admins that are probably not admins and scammers.
+
+Um, click on any weird links or share your seed phrase. Uh, if you have anything else, again, just tag, DM me. Um, if you DM me and I don't DM you back, uh, it's likely because your DM is either filtered out or buried, so please tag me, uh, so I know how to check that.
+
+Uh, but I hope you have a good Labor Day weekend for you all here. Please stay safe. Uh, we'll probably have a cooler weekend here.
+
+Cooler meaning probably like still 80s. Um, but I'll be here. I'll see you guys in general chat.
+
+I'll put up the recording right now, um, in case any of you are listening to it later. Uh, and I'll see you guys in the general chat. Have a great night.
+
+Be safe.

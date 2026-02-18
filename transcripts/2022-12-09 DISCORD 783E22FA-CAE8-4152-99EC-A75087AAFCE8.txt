@@ -1,0 +1,434 @@
+[Speaker 1]
+Hello, happy Friday. Can you all hear me all right? Awesome.
+
+Okay, well, thank you for joining me for our Friday night date. It'd be kind of awkward. Has anybody ever been stood up for a date?
+
+I've never been stood up, but I didn't go to a first date once because the guy didn't confirm with me. And he got very upset, but I thought that was a normal thing. Like, you know, we get at least a text.
+
+Um, all right, let's get right to it. I think I got one. Yes, I am recording.
+
+I started recording before I got on actually. So it's going to have a tiny bit of the music a few seconds, but that's why I was like half a minute late. Thank you.
+
+And it is still going. So next time I change my headset, I'll make sure I don't know if that automatically happened before I click something that had that stop. All right.
+
+Um, so I only got one question. And it was actually a repeat from somebody last week who said, how's the merch sale going? Awesome.
+
+And do you know the total amount of funds that went missing? Um, we do not know. And we haven't put a number out for anything like that.
+
+I don't imagine there will be a number put out for the community or anybody publicly, probably not anywhere in the near future. I don't see that happening just for, uh, legal purposes. But other than that, I didn't really get any questions.
+
+So I'll just answer them in here. Um, I do have a list of some updates of what we've been this week, what we've been up to. Sorry.
+
+I think I'm getting sick too. So I sound awful. I'm drinking some peppermint tea to try to help.
+
+And I've been overdosing on vitamin C all day. Okay. Let's see.
+
+So, uh, the smart wallet testing, that's going pretty well. We are waiting on active debugging to see there's something failing. Um, and let me pull that up.
+
+Something that's, um, like some of the passive functions are failing. So, uh, Velo is saying it must be something broken before it gets to the blockchain transaction. So I'm sure you techie people probably understand all that.
+
+I do not. Um, but working on that, um, other than that, testing is going pretty well. So we're hoping to get that, um, active debugging done ASAP to continue testing.
+
+Um, Transac is working on the, uh, KYC issue. I don't know if you guys remember, um, I know on Androids, at least there was an issue with the birthday year. Um, it like wouldn't scroll correctly and you couldn't select the year.
+
+Um, so they are working on that. And then also on the unable to access camera, um, issue. So they've been very, very helpful.
+
+And I know some of the, the testers that made new accounts to test the smart wallet, we're still having issues with these. Um, so, uh, it's very nice that Transac is, uh, working on that. They said they weren't aware of this issue.
+
+So that'll help. I think, uh, well, like, I think this is pretty major actually for boomers trying to come on, look at how frustrated we got with those issues. Now imagine somebody a little bit older and, you know, doesn't use their phone or technology as much dealing with that stuff.
+
+So pretty cool. Um, our website, I know we were supposed to launch that, but we had to work out some bugs. We were with tech, was it yesterday?
+
+I think, um, support and they worked out, uh, the issues we were having with the plugins and our amazing web developer decided we're adding some new educational pages. Um, and I can't wait for you all to see those. I think it'll be really cool.
+
+And again, uh, perfect for our demographic, the boomers. He says, get the vaccine. Um, all right, Boris, Boris is still scheduled for early next week.
+
+If we have to reschedule because things do come up, I'll definitely let you know. Um, I know I've gotten several DNS of people who like genuinely don't even think he's around either him or BNB and just want to see a screenshot to prove that I'm actually speaking to Boris and that he's actually still around. Um, again, I understand that just with everything we've had happen in the past.
+
+Um, but if we do get rescheduled again and we don't get him anything from him directly this coming week, I will get you, I'll try to get creative with Boris likes his privacy. Um, so as far as screenshots go, but I'll, I'll let him know. And I'm sure we can work out something like that.
+
+If we need to reschedule voice again. Um, Matt said, can you explain more about the missing money you just mentioned? Where is it missing from?
+
+I haven't been in a voice chat in a while. Um, our mark, well, we say marketing, our marketing funds, because I think as a community, most of us would agree basically where our 8% transaction fees go. Um, we found out several weeks ago that some of those funds are missing.
+
+So, uh, it's from again, you say, where is it missing from, from, I think as a community collectively, we put the marketing and charity wallet in our heads. That's those go together. It's that 8% Boris and Bannon are aware and they have taken action as soon as they were made aware.
+
+You're welcome. Vaccinations, more vaccinations, no mandates. Go with that.
+
+Do whatever you want. My body, my choice. Uh, let's see, we got some new, amazing graphics from our amazing volunteer.
+
+Uh, so we'll add those and post those to some new merch. I think that'll be really cool. I'm waiting, um, for my husband still to send me his order so I can order ours.
+
+Uh, he did send me a suggestion today. He said that when you go to the item page, let me see. What did he say?
+
+He said, Oh, also with the FJB store, I would take some of the product images down. It's a lot to scroll through to see all the options and colors. So I'll get that cleaned up on the pages.
+
+I know Nolan has said something like that about the business cards, but the business card page, when I do try to edit that, it actually doesn't show that many options. Um, but strangely enough, when you go to the business card page, like the Bannon, those Bannon cards that you can buy, um, it does show like many, many photos of the item. So I'll see if that's something I need to contact, uh, them to fix or fit some kind of glitch that'll work itself out.
+
+Okay. Access to America Fest. We still have not gotten access to America Fest.
+
+I'm not sure if that's, um, too late or what, but again, I know with media passes, usually it's like two days, one to two days before the event. I'm not sure if that's, um, for security reasons. So still holding out for that.
+
+I go out of town right before that, but I come back, um, early that morning or midday so that if we do get that, I'll still be going. Can we hire Yif King to make some graphics for us? I saw his work pretty good.
+
+Ooh, I'd love to see that. March photo contest. Ooh, that's a good idea.
+
+That actually, um, reminds me of the, so the buy straight from marketing wallet. We were waiting on something specific to post that. Um, but that's, uh, we don't need to worry about that anymore.
+
+So we can, um, start that tonight and we'll do, I think USDT as what was the consensus. So send that and then we'll post what address to send it to and you get FJP back without the 8% and that way marketing wallet doesn't need to sell. Shadow says I got my shot of vodka.
+
+I know I usually have my margarita while I do my calls, but this peppermint tea is pretty good. The sight of lemon. Lemon drop.
+
+Z Money still needs to tell us where he goes out so we can get him a lemon drop. Gonna have a lemon drop making contest since he said he makes me one. Awesome.
+
+Perry, I'll be waiting for those. AmFest is not confirmed. No, I don't know if it was too late, but we are still hoping to get the media passes.
+
+Parts. What parts of my life are on fire? Why'd you delete that?
+
+Ronnie said parts of my life are on fire right now. Oh, Z Money deleted it. No, I didn't delete it.
+
+I didn't delete it. Why'd you delete it, Ronnie? Actually, my life is generally pretty good, but um, I was like having a hard time, you know, after COVID closing down my business.
+
+I'm feeling like a failure, but other than that, as far as FJB, I think we're on a much, much better road. I was actually thinking that today. So I was super sick.
+
+And if you guys are ever feeling sick, you should do a magnesium baking soda soak. So I was doing that and I was thinking about, because I was receiving a few DMs about people really questioning that Bannon and Boris are still with us. Um, and I know it's crazy to say, and I'm honestly not trying to be some like motivational BS speaker, but like we truly are in a better place than we have been for many months because we finally have, we finally know what's going on.
+
+A lot of our questions finally have been answered. Um, B and B are aware of everything. So I know it, I know it sucks because we're thinking, Oh, well we're 95% down, 96, 97% down.
+
+Look at the charts. You know, how can you say we're in the best place we've been, but we truly are, we have so much going on. I mean, more than we have in a very long time, I'd say, um, towards long-term progress.
+
+So I just wish, I wish we could get on the same page of that to understand that. And again, I do understand the part of not, you know, uh, trusting me or trusting what I say because of what we've dealt with in the past. But we, I mean, we were all kind of duped.
+
+Um, even B and B had no idea. So, you know, it, it's awful. It happened.
+
+And again, they're dealing with it. They've been dealing with it as soon as they heard about it. Um, but I truly think we're really in the best place.
+
+We are our amazing volunteers, our social media, if you guys have seen it looks amazing. Um, but you know, like we said, it's going to take time because we're rebuilding and starting completely over. Um, but it's the perfect time to do it while crypto is all down and we are in a bear market.
+
+97.5% Perry says. Probably in the, uh, side chat. Shadow says Ronnie probably meant to post that in a different way.
+
+Better shape than Luna. Perry's wondering if, do you think Bannon has a picture of me on his nightstand that he kisses good night? Like I do of him.
+
+I'm sure he does. And then he has PJs with your, uh, picture on them that he sleeps in. Mike Lindell made them for him.
+
+But yeah, no, I mean, again, Ronnie, it's actually at least, you know, yeah, sure. I'm receiving DNS about, um, people wondering if Bannon and Boris are here, but before I was receiving DMS wondering where the heck our marketing money is going. Um, so I, I'm receiving a lot less messages than I was before.
+
+I'd say a lot of negative messages. So no, my, my life isn't, um, on fire right now. The least on fire that it's been in a while.
+
+We're sticking with a V3 chain, right? Yes. As of right now.
+
+That's correct. Ultimate warrior says if you aren't pissing people off, you aren't doing it right. Well, we got to do things the right way, which again is going to take time.
+
+It's um, you know, the volume is down, but that also could be a good thing too. There's nobody pumping and dumping the charts. So, you know, we gotta, it's all organic growth.
+
+I don't know, Ronnie post that one that you deleted. You can't act team Sarah now. Shadow says fire can be good.
+
+It's true. Fresh start. Any hints you can give us on the new tax structures structure coming?
+
+Um, it will be good for holders. If you're holding, you'll be rewarded. All this talk of secret clubs frightens me.
+
+What is being done to purchase? I don't know. That's not my area.
+
+Ask Greg. Greg, please answer that. All right.
+
+Oh, does anybody, uh, is anybody interested in making videos on how to buy? If you are, please DM me or, uh, let me know in the chats. No, not those kinds of videos.
+
+Appropriate videos on how to buy FJB. What is my price prediction? I don't think I'm even allowed to say that, but we can look at the past year.
+
+Think about that. That's, that was just with the money, with the, you know, every money of everybody here. So that says a lot.
+
+Oh, slinky. I saw this thing at the gym or gym is doing like auctioning off some stuff and it was a Joker. I have to find it.
+
+I took a picture for God. I was going to send it to you. Let me see if I can find it.
+
+[Speaker 2]
+Oh yeah, here it is. They were auctioning it off with a bunch of other stuff. I don't know why it's taking forever to send.
+
+Oh, there it is.
+
+[Speaker 1]
+Time to build says $1.25 this time next year. How much of the total cost of gift card implementation has been paid? We actually just received their banking information in the last hour.
+
+So we'll be sending that tonight. It's $2,000 and then another $2,000 once it's completed and functional, assuming that we don't run into anything that'll cost extra. We also have a few people, our reviews for the smart wallet.
+
+We had a few people that were reviewing it. Our reviews came in yesterday and today. So Velo is reviewing those reviews and discussing with them, doing a little bit of back and forth to get that all down.
+
+I'm actually really excited that Transac is working with us as closely as they are about like the birthday issue, about the camera issue. I think that's definitely something to be grateful for and will help a ton. Hi Egg, who did I meet with at Transac?
+
+Their CEOO, his name is, I know it started with an S, Sajid. He's a very nice gentleman. No, Siraj, I'm sorry.
+
+That was somebody else I spoke to from Siraj.
+
+[Speaker 2]
+Excuse my sniffles, I have a box of tissues right here.
+
+[Speaker 1]
+My husband keeps getting sick from the office. His office will get sick and then like days later, I'll start getting sick. It's awful.
+
+[Speaker 2]
+Any other questions?
+
+[Speaker 1]
+Oh, we did just put in an Amazon application. I know a lot of people aren't fans of Amazon, but if we can get on there for merch, we can probably have a bigger audience to sell merch to. So that's exciting.
+
+It was really giving us trouble with like a pin they have to send to your phone and like their support said they couldn't help us, but it finally worked today, so. When CoinHero on voice, I'm assuming Bannon or Boris. Boris is scheduled for early next week.
+
+I will let you know if that changes. If it does change, I do promise to- Boris does like his privacy, so I can't just screenshot his, but I'll ask him for something. But right now, as of now, we do have it scheduled early next week, but obviously stuff happens.
+
+Boris is a very busy gentleman. He has legal stuff that comes up all the time. We have a lot of legal stuff he's working on, so please don't kill me if it gets rescheduled.
+
+We did have to reschedule it a few times already. Have you switched over to ProtonMail for communications? We do have our ProtonMail address that we use for some of the more sensitive emails.
+
+We have not switched over all of our email or Gmail dashboard. I think actually Paradox was going to help with that. Will Boris take our questions?
+
+I think he's deciding on that because he might have it be recorded. That way he can edit anything out due to legal purposes. What about an eBay store?
+
+Another unpopular company, but like every boomer knows eBay. Oh, that's a good idea actually. Yeah, my mom still uses eBay.
+
+Bacon-wrapped dates are my thing. So good. Or dates stuffed with butter.
+
+That's good, too. Yeah, old people do still use Craigslist. Actually, my mom still does, too.
+
+My mom's not even old, but she does. She loves Craigslist. She collects antiques and stuff.
+
+So she always tells me.
+
+[Speaker 2]
+I'm looking on Craigslist. I found this on Craigslist. Oh my gosh.
+
+[Speaker 1]
+eBay. I didn't even think of that. So thank you.
+
+Bello is happy. You'll be paid by the end of the week. I know you usually ask that, eh?
+
+Girlfriend off Craigslist? What? Is that a beer with bacon?
+
+I've never seen that. I've seen Bloody Marys. If Boris records voice, will he take written questions beforehand?
+
+I can certainly ask. Actually, let me send a text right now. That way, before the weekend.
+
+All right, I just asked. So I'll definitely let you guys know. Five, six, seven, eight.
+
+Eight o'clock on that. In three minutes, the MAGA bind party will start. So if you want to buy some FJV.
+
+Are Boris and Bannon still involved with this project? I'm not sure, Jan. I can ask.
+
+Bacon and beer. I've never seen that.
+
+[Speaker 2]
+I'm so sorry. Excuse my sniffles.
+
+[Speaker 1]
+That would be awesome if Boris just took questions up front. Yep, I definitely just asked. So I'll definitely let you know if that's the case.
+
+We'll have some questions. To put some questions together and send those over to him. Why does JB sell?
+
+I don't think JB's ever sold. Not that I've checked his wallet, but I'm assuming from other stuff he said.
+
+[Speaker 2]
+Excuse me.
+
+[Speaker 1]
+Actually, I found some good tenants on Craigslist, too. Nowadays, I just use Zillow, though. Roommates.
+
+[Speaker 2]
+Perry has some interesting stories. Those are almost as good as Wegg's crazy stories that he tells.
+
+[Speaker 1]
+If Boris does decide to take questions from the community, what kind of questions? I wonder if the questions are already things on his talking points that he's, you know, planning to speak about. But what questions are you guys thinking about?
+
+Heath says blockchain. Do you mean moving away from BNB?
+
+[Speaker 2]
+Okay, awesome.
+
+[Speaker 1]
+Status on off-ramp. So Transact wants us to do a million dollars a month or take 1% of transactions if we want to do off-ramp sooner than later, which would still take some time. Or we can just wait till quarter one of next 2023.
+
+[Speaker 2]
+When remove racist tax.
+
+[Speaker 1]
+There's no tax on the app, on LBank, XT. Quarter one, why? That's when their off-ramp for BNB in the United States is live.
+
+That's what their plan is. So that has nothing to do with us specifically. Will we launch without off-ramp?
+
+I'm assuming you mean War Room? Would 1% apply to buy and sell? Yeah, they want 1% of all transactions of all volume or guaranteed $1 million a month in Transact volume.
+
+Yes, War Room. I personally don't think we would need that. I don't think that's a big deal because you can go from FJB to BNB and then USD.
+
+So I really don't think that's an issue. I think we have more important things to worry about before launch on War Room, like getting the app ready. Right now, like the smart wallet, the little issues with the, you know, I mean, they seem like little issues, but they're kind of big because if I imagine if one of my parents or my grandma is sitting there making an account and they, you know, the year won't scroll, they'd probably just leave it.
+
+So I think those are the bigger roadblocks for us versus the off-ramp. But that's just me personally. Still require the 1% off-ramp next year?
+
+If you're talking about Transact, no. So once their off-ramp is live for everybody, they're not requiring that 1% and the $1 million a month minimum is for their engineers to build something specific for FJB. That's if we wanted something earlier.
+
+Or we can just wait until quarter one like everybody else to get the BNB to USD. If we pony it up, what does that mean? We would be the exclusive USD off-ramp app.
+
+I'm not, I'm not sure actually. Is there other apps that do that? I only use Trust Wallet.
+
+I do have MetaMask, but I don't really like using that much. That's like my super untouched account. Trust Wallet just allowed me to use Transact to buy FJB without having to use PancakeSwap.
+
+Is that a new feature? If so, that's incredible. Wait, so Trust Wallet allowed you to use Transact.
+
+Oh, I've never used that. That's pretty awesome. So did you just go through...
+
+Okay, let's see. Let's see if I can try that. Let me go into Trust Wallet.
+
+So I'm helping Linda buy. I know we started the conversation, but I had to get on the call. Okay, so from Trust Wallet, did you go to the new dApps?
+
+[Speaker 2]
+Okay, go to FJB, buy. Oh, that's so cool. What the heck?
+
+Is that new? That's pretty cool.
+
+[Speaker 1]
+Wow, that's amazing. I wonder if it's because, well, I think Transact got added to Trust Wallet a bit ago, right? This is amazing, and this is going to be the easier way for Linda to buy, I think.
+
+Now, I wonder what states... Is it available in all states? Because I know with MoonPay and...
+
+What was the other one? I can't think of it. I know it didn't work in some states.
+
+That's so cool. Thank you for sharing. This is huge.
+
+Who knows how to make videos? Somebody make us a video, or I'm going to have to...
+
+[Speaker 2]
+That is awesome.
+
+[Speaker 1]
+Nope, we don't. We have not passed the one year BNB anniversary yet. Not to the community, anyway.
+
+When they were released to the community, I'd have to look up the date. Was it the 23rd? For some reason, I was thinking the 21st, but I was overseas during that time, so it was a blur being on a different schedule.
+
+Will BNB consider hiring an accountant to make approved payments and record keeping? Somebody from their team is helping out with that right now. People are saying VES is too complicated.
+
+Can it be simplified in some way? Maybe advise new users of minimum requirements and to ease? Well, that's strange because VES now should be very, very easy.
+
+It's nothing like it was when we first made our accounts with the VES. Are you talking about the original way we made the VES accounts? Because now it should send you an email that gives you a code, and you just plug that in.
+
+Dawn says, explain V1, V2, V3. V1, gosh, I don't even know if that was a week. The coin just needed to be forked because there were mistakes in the original contract, so they had to fork.
+
+When you do that, you have to then airdrop the coins to all the holders, and then it changes the contract address. I was version one. I had my V1 coins.
+
+I had to fill out a form. They airdropped the new coins to me. Those new coins had a different contract address, so then those old coins that I had are worthless now, and then we had to fork again.
+
+I don't remember the reasons, but I'm sure people in here probably have it documented. Then we had to repeat that again. When people mention V1, V2, V3 holder, they're just speaking of what time somebody first bought FJV.
+
+If they were V1, then they came in very, very early. V2 was really not much longer afterwards, and then V3, which is up until now. If we were to fork again, that would be V4.
+
+Turok says, only once FVS is finalized is it worth making a video tutorial. True, but there's a lot of people looking for videos right now. Excuse me.
+
+V2 was very short, LOL. Yes, it was. Anything planned?
+
+Or no, nope, those are plans for that are in the works. Same thing with 12 days of Christmas. As soon as we get word from BNB, then we will confirm that with the community.
+
+Right now, we're hoping to at least get this call scheduled next week with Boris. Ultrasuede regarding VES says, agreed, it's much better with PINs, but the actual backup and recovery options list seems a little overwhelming to first-time users. Okay, let me, if you don't mind, I'm going to go into the VES support and just copy and paste that in there.
+
+Because they're in here, so that way they can take these, they were asking for feedback. Perry says, I recommend a fork before we go live on Warren because it will wipe out chart potential buyers. Won't see that shitty chart, kind of shady, but I'm shady.
+
+So let's go. Oh boy. Okay, we are asking BNB about the BNB issue, about the Binance issue.
+
+We're asking BNB about the BNB. So we'll cross that bridge when we get there. Drew, agreed should be an option to simply retrieve, confirm your seed and bypass all other safeguards.
+
+I will speak to them about this. Thank you for the feedback. Definitely let me know if you're having any issues or if you know anybody having any issues with the VES.
+
+You could always DM me or even just put it straight into the VES support channel, which I'll link here. Because they are very helpful and they really do want their product to work and they really want to see us succeed because that would mean success for them too. I need to make a new app account tonight and then I'll go through all the steps again.
+
+I want to check on that and check again on the Trans Act too. Remove the silly taxes, racist taxes permanently. Wait, so how are we going to raise marketing funds again without the racist taxes?
+
+[Speaker 2]
+Oh, war room free marketing to Roxanne.
+
+[Speaker 1]
+True, win QCoin. Maybe when we recover our funds. Eventually, yes, we'd love to get there.
+
+We'd love to get to lower taxes, absolutely. Time to build, says wiping out chart is not a good idea. It's formed a powerful formation that any tender would love to trade.
+
+Yes, it's a one-year-old ending diagonal in Elliott Wave terminology. Most powerful formation to date. Ultra suede regarding the VES, says I saved keys and recorded seed phrase but still have to include a friend email with another VES pin before I could clear a red alert from VES backup.
+
+Okay. I hope you don't mind I'm copying and pasting in the channel just so I can, to the VES channel, so I can easily reference it. I'll definitely see if they have a loop for this and I'm sure they'd be willing to do that for us if there's no way currently.
+
+Matt said it'd be nice if VES had an option. By the way, I think actually they call it VES. So I don't know why I'm in such habit of saying VES.
+
+I'm sorry if that's super annoying. It'd be nice if VES had an option of I've done this, don't show again, instead of I'll finish this later. Oh, yeah.
+
+I did the key backup and it still reminded me every time. Oh, that's, sorry. I'll include that in channel two.
+
+This is very helpful. Thank you. Thank you.
+
+This will definitely make it easier for everybody new to come on board. So I appreciate all this input. Turok says, how about a no?
+
+Actually, I won't finish this later. I wonder if they do that just outside of liability. But I understand how annoying that is.
+
+I honestly don't log into my app frequently, but I do always do the remind me later.
+
+[Speaker 2]
+I think is what it is on there. Our social media is looking amazing.
+
+[Speaker 1]
+I was shopping for a tent today. I haven't bought one yet for our booths. Just a tiny one.
+
+Any more on Baby FJB and the donation collaboration? I believe they wanted to do a donation before the end of the year. But I will get an update on that.
+
+Wait, that means Zvez stores copies of our seed phrases. No, I think we've asked that before. Can we import Ledger other wallet yet?
+
+Not sure what you mean by that. I know I put in my, I put my vest keys, like the seed phrase into trust wallet. I like it better that way.
+
+What another $100 donation? Nope, that wasn't me. I did not make $100 donation guys.
+
+Neither did Finn.
+
+[Speaker 2]
+I know I was not happy to hear about that either. Very, very unfortunate.
+
+[Speaker 1]
+Uh, I think we... No, I think we've asked this before, Turok. So, Zvez doesn't store the seed phrase.
+
+It's like if your friend has access to it, it would be like you having access to it. I'm pretty sure. But we can ask them again for sure.
+
+Because I feel like we've asked them this before. And I know neither FJ, I know for sure FJB doesn't store that info. What else?
+
+So, we have a few, well, I guess several days until we hear from Boris. I hope that does not get rescheduled because we have been rescheduled a few times. But again, if it does, I'll make sure.
+
+I know a lot of people have asked for something as simple as a screenshot. I'll ask him for something like that if we need to get rescheduled again. Suede says it's just your Vess account that's being restored, not from your seed.
+
+Yeah, I believe that's what they said last time we asked. Because I know FJB doesn't store any of that info either. Oh, I thought we added that back on.
+
+Turok.
+
+[Speaker 2]
+I thought I did that when we finished the part. I'll try it again. Declined.
+
+[Speaker 1]
+All right, well, I think that seems like everything. Like I said, since I did get the banking info, to start to transfer that money over for the gift cards right before the call, we're going to go ahead and send that over tonight. And we'll start, I think we'll do, instead of forms, we'll just do DMs if you're interested in buying directly from the marketing wallet.
+
+And all you'll have to do is send, I'll give you the address, we can make that an announcement. And you just send straight to that, send me that receipt with the address of your FJB wallet address. But make sure you don't, I never DM first, so please make sure that you are careful.
+
+Because we've had a few scammers in the chat, and a few people have lost their funds that way. So make sure you don't send your seed phrase or click on any links from any me or any other mod that's DMing you, because that's probably a scam. I definitely don't want to get anybody scammed while they're trying to buy from the marketing wallet directly.
+
+So again, please keep that in mind. If you receive a DM from me or any other mods with links, or asking for your seed phrase, do not share that. We will never ask for that.
+
+And generally, we won't DM you first either. Feel free to ask in the chat if you are in doubt. Usually, if you put a screenshot in the chat, others will know and let you know if that was a scammer.
+
+Okay, egghead. I want to meet egg in real life. It's just like a cute little egg, not in a creepy way.
+
+It's really be like so cute, like a little puppy. All right, well, I think that's everything. So we have the marketing.
+
+We'll have another buying contest after that. We have the 12 days of Christmas starting. We have our FJB gift cards.
+
+Remember, that'll take anywhere from seven to 10 to 12 days. Roughly, that's just the estimate we've gotten. So we have that.
+
+Then we have our one year anniversary. So a lot of plans coming up. The website I'm hoping will be done by the end of this weekend and live to share with everybody.
+
+Lots of educational info on there, which I think will be awesome for new users. What else? Working with Transact to fix that year issue.
+
+Scrolling when you're going through KYC and also the camera issue and smart wallet testing. Working with that. We have somebody coming on to help Velo to this weekend.
+
+Actually, tonight or tomorrow morning starting out. So I think that's everything. As always, please feel free to send me any other ideas you have.
+
+I'll go through my DMs tonight to make sure I didn't miss anything. I think that's it. Thank you all for joining.
+
+Thank you for your patience. I apologize again for my sniffles. Hopefully, ODing on vitamin C.
+
+I'll get through this quickly. I'll see you guys in the chat. Have a good night.

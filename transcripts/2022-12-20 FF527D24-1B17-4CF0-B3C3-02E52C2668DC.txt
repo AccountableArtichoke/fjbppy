@@ -1,0 +1,220 @@
+[Speaker 1]
+Make sure my encoder is going. Thank you all for joining me. And like I said, happy Tuesday.
+
+We have a few updates today. Some really good ones, I think, have a lot happening. I think I only got one question today, actually.
+
+And it's right here. That question was, was the return of funds last week a one and done thing, or does the team expect more to come back? Also update on smart wallet and when we might get switched over to it.
+
+So there was actually no, I think this was referring to somebody said, how did our debt go from about 20k? How is it almost cut in half or more than cut in half? And I said our legal funds were or legal debt was being covered by the bosses.
+
+So there was actually no funds returned or nothing like that. It's just the bosses taking care of the legal fees. So yeah, as far as expecting anything back or there's nothing like that going on.
+
+Of course, Boris is still working on recovering our funds. I'll update you once we have any solid updates that we can share. And then smart wallet.
+
+Yeah. So we have a lot of updates there. Super excited.
+
+Let me pull that up. So we officially started smart wallet testing today because I'm sure as you all know, we were supposed to start, gosh, I think more than a week ago. And we were very surprised to find out the smart wallet, the transactions were actually failing.
+
+So we did officially start successfully start testing the smart wallet today. It is completely functional. What happened was change now changed their minimums, which leads our FJV app transactions to fail.
+
+So it took longer than expected to iron out because the dev actually built something that will prevent this from happening again. So when change or change, yeah, when change now changes the minimum again, which they do more often than we'd like, we won't need a dev to make the changes again, and the app will automatically handle it. So it's really cool.
+
+I can't explain it as well as they did for all you techies. But super fascinating to me. I will try to get Velo.
+
+He's just very, very busy with another project. So unfortunately, his hours are limited. But he said he will try to get us in.
+
+Even if it's not a Tuesday or Friday night, we usually do our voices to get him in for any questions that you all have for him so he can answer much better than I can much more technical. So also the transaction status should be showing up now for the smart wallet testers. That's huge.
+
+And the dev has now moved on to bugs. So it's super exciting. Yeah, really, really cool.
+
+The next up is our FJV gift cards. We got the paper and the envelopes for the gift cards yesterday. We had ordered them a few days ago.
+
+And I can't wait to show you. It all looks so pretty and very patriotic. So I'm working on the gift card template right now.
+
+And we'll print a copy and show you as soon as it's finalized for some feedback, because obviously we'll still be able to, you know, do any kind of tweaks. Just kind of trying to get something basic right now to run, you know, try out the printer and make sure everything works smoothly. And prints on the envelopes and the papers like it's supposed to.
+
+So super cool. We're still on track to have those ready by Christmas. Next update is Transac.
+
+So super exciting. Transac, I saw that you guys, you always find so hard to find or to hide stuff from you. Transac's testing a new partner to process payments for their U.S. user base. It's currently in its testing phase and they'll provide us more info once they enable it. This is extra awesome because this means we won't have any more international fees, which is huge. I know my bank charges, I think 40 or 45 bucks for each transaction, which is honestly why I don't use the app much.
+
+So yeah, super pumped, super excited for that. It also makes me think that maybe their quarter one might not be like end of March. Maybe we'll actually get that sooner for the off ramp.
+
+So I'll keep you updated as I get more updates from Transac. But that's really big. I know a lot of you have asked about the international transaction fees and once we start getting this out to boomers and they have no idea and then it's unexpected.
+
+So this is really, really big. Again, I'll keep you updated on any other details as Transac updates me. Our next update is donations.
+
+We did start a new donation wallet today for FJB and Baby FJB donations. I will share the address here so you all can have it in case you want to track it. Goodness, where is it?
+
+Okay. Here we go. Awesome.
+
+So that's the address. The Baby FJB owners have matched, I think more than match what was in their Baby FJB donation wallet. So they more than doubled it and sent us over three million FJB coins to donate by Christmas.
+
+We'll be making that donation by Christmas as promised. If you have any great ideas, send them my way. We don't have anything finalized.
+
+So still open to any ideas you may have. Super exciting. That's really huge.
+
+I think they're going to open to their holders also. I think they're going to open that wallet for anybody who wants to donate on their own or anything like that too. But that was very nice of them to go ahead and double that.
+
+They felt bad because volume obviously has been pretty low. So they felt bad donating so little, which I mean, I don't think it's little, but I understand where they're coming from. So they went ahead and more than matched it.
+
+Very generous. And we'll make sure that goes a long way. Again, if you have any ideas, send them my way.
+
+We're not doing like, we're not sending out a check to some big charity. We'd like to do something more hands-on. We'll get it documented, of course.
+
+So yeah, super exciting. Be awesome to help somebody out before Christmas and to help out deserving needy people. Next up, our website.
+
+So our technical page is getting close to completion. We have somebody editing it and it looks amazing. Oh my gosh.
+
+Looks beautiful. I'll definitely update you once that page is live. I believe we also started a frequently asked questions page, which will be separate than the technical page, I believe.
+
+So that's awesome. Then we have merch. So we have several, we added several non-F.
+
+Joe Biden pieces. So feel free to check those out and let me know what you like best. We're trying to still pick just three or four pieces to have for more like normies for in-person events.
+
+One so that vendors let us, you know, I think they're more accepting of stuff that's not specifically F. Joe Biden. But also I think just to give buyers of, you know, more options.
+
+So I think that's any feedback there would be appreciated. We have not ordered the shirts for the in-person sales yet for the in-person merch store, if you will. So that's awesome.
+
+Our dev working on the smart wallet with Bello has been amazing. Super, super cool. Super fascinating what they're doing with the app.
+
+And I've heard from the testers that it's super quick, super simple. Yeah. So super excited for that moving along.
+
+Our one year anniversary is quickly approaching. So I will keep you updated on anything happening there. I think we have some things planned.
+
+That'll be pretty fun. And I think that's all the updates I have right now. Again, I'll keep you updated on anything I hear, any updates I have for any of those.
+
+Any questions? You're not even allowed in here. Thomas says staking FJB, if, when?
+
+We'll have that, any information on staking will be out by the end of the year, along with the tax structure and white paper. I believe at least, at least getting everything, the roadmap ready for the white paper. Oh, I did get actually a question on Discord, but I think I answered the person.
+
+It was maybe a question for tonight, but for sure question I have, why aren't BNB getting rid of tax? Again, pretty simple. Honestly, we need the funding right now more than ever.
+
+So that's that. You can still buy on the app LBank with zero tax. So I think that's still a great option that's available there.
+
+You can also buy directly from the marketing wallet. If you want to DM me, also tax-free. Lug's asking, what are the updates?
+
+Because I don't know if he's trying to be funny or if he just came in. Rundown of the updates, wag. Let me pull up my, smart wallet testing is live.
+
+The devs have moved on to the bugs. Gift card's still going. We got the paper and envelopes.
+
+We're just working on the template. Transac has, is testing a new partner to process payments for their US, which is huge for us because we won't have the international fees anymore. Just really, really big.
+
+And then baby FJB, we have a new donation wallet, which they just donated 3 million FJB coins. They more than doubled what was in their donation wallet and we'll get that donation out by Christmas. And our website, technical page, close to completion, working on the frequently asked questions.
+
+And then we have our merch non-FJB pieces added. So let me know which ones you like best. That way we can add those to the in-person merch store, kind of pick the most popular ones that people will look out and, you know, say, I have to have that for whatever it is, 20, 25 bucks.
+
+Will all four dev keep going after smart wallet and gift cards are done or will they be on standby? Two of our devs, I mean, one of our devs has been working full-time on the smart wallet. Velo has been a little bit busy with other projects too.
+
+And the other two devs that are working on the gift cards actually have their own company and their own projects. But they said they will, yeah, they will help us out if we need anything and they can make the time for it. Sorry about that.
+
+Okay, anything else? Any other questions? I don't know if I need to put a poll in here for the few merch ones to see which ones you guys like best or which ones you would actually buy or wear.
+
+Oh, will we be transitioned to smart wallet before end of year? I'm not sure, but right now it's looking like it. Of course, things always pop up as I'm learning with the dev team.
+
+You know, just like our smart wallet was supposed to, we're supposed to start testing it, I think close to two weeks ago, actually, don't quote me on the time. And we were not expecting it to not work. So as of now, yes, we should all be transitioned to the smart wallet.
+
+They're also thinking about putting a toggle in the app where you can actually decide if you want to be on the smart wallet or not. So that would be pretty cool too. But I'll definitely keep you updated.
+
+As of now, the plan is to have us all transition to the smart wallet before the end of the year. Wegg says, so is the smart wallet not active for everyone right now just for testing? Correct.
+
+The smart wallet is not active for everyone right now. You didn't realize that Wegg? Oh my gosh, where have you been?
+
+This is why you're not allowed in Telegram. It says, warden, what brings you to this domain? Oh boy, Wegg is claiming he is getting bullied out of all people in Telegram.
+
+Would you imagine that? Has Transaq spoke about the long, I'm assuming wait times for the fills? Yes.
+
+So why transactions take so long per Transaq? Let me actually pull up. So it's going to depend on, it's going to depend on the, basically there could be multiple reasons, right?
+
+So it could be the specific account, whether they need to do a manual approval on it, if that account is flagged for any reason, which is their risk evaluation. So that could be it, or it could just be them refilling their wallet. But definitely let me know and send me a transaction ID if your transaction is taking longer than usual and we can check specifically.
+
+I think they're also actually growing very quickly and ironing out a lot of issues too. It's pretty cool to kind of grow with them. Wegg says he has a manual approval issue more often than not, and it's on the banks and not there.
+
+Yeah, that makes sense. Depending on your bank, you can get it to just let you do that from now on. I think there's two departments.
+
+You could talk to your fraud department and then another department that just approves crypto. Ah, that makes sense. So Wegg says it's actually his bank that causes a long transaction times on his transact transactions.
+
+He says Transac does not store my debit card info. I have to manually enter it again the last three weeks. I can ask about that.
+
+Yeah, I'm not sure if mine is stored, to be honest. But I stopped using the app for buys quite a bit ago, I think, just because I was getting charged that international fee, which is super annoying. But I'll definitely ask him about that.
+
+Apple Pay. Yeah, the Google Pay doesn't work on my phone. I don't know if that's just because of where I live.
+
+Other people have said it's been successful for them. What, James? James is trying to sell us CMC and CoinGecko.
+
+Good thing we already have those. All right. Let's see, Wegg is typing.
+
+I'll see if he has a question, but that seems like everything. I know with Apple Pay, you can switch between cards super easy. You just have to remember to do it before you put the transaction through.
+
+Yeah, I need to switch back to an iPhone. I should do that this month. Cool.
+
+Any other questions before I hop off of here? Go ahead, Kate. I'm definitely not trying to rush you.
+
+I just don't want to be sitting here saying nothing to you. It's already too cold to walk the dogs. By too cold, I actually don't know what it's like.
+
+All these people are probably laughing. It's 56 degrees. Pretty cold.
+
+I know on the Transact, there's CashApp and Venmo. Will we get that on the app? I'm not sure, but if that's through Juno, then I would presume so.
+
+Since Transact is in testing, a lot of what they're testing and playing around with hasn't been finalized either, so don't quote me on anything, but I would hope so. I haven't tried Juno for myself, but it looks pretty cool. 20s is awful.
+
+Wegg says, is Juno their off-ramp? I presume it is, but they want us to wait for those details. They gave us a few different details, and then some, they said, we'll let you know.
+
+So, pretty cool. You know what, Wegg? You got some answers.
+
+So, drop the attitude. Oh, okay. Okay, then you can direct it at Transact.
+
+Transact. Oh, James wants to speak. Hello, James.
+
+No, James doesn't want to speak anymore. Telegram said James wants to speak. Yes, Transact has actually been really, really awesome and very helpful with any issues we've had.
+
+Very responsive. By the way, if anybody, I know most people already have the app now, but if you try to go through KYC, through the FJB app, and have, I think it's only happening with Android, and when you pick your birth date, it won't let you scroll your year correctly, your birth year. If you run into that issue, if you can please send me a video or like screenshot video, that would be awesome.
+
+I'm trying, that happened to me when I was trying to go through the KYC way back, and I think, gosh, I don't even know what month now, and I know it's happened to people more recently, but Transact wants a video of it, and I'm not able to recreate it. So that would be very helpful. Oh, that's pretty cool.
+
+He just sent a screenshot from Transact where you can use Cash App and Venmo. I wonder if that's available for every state. I should look into mine.
+
+That's the issue. I know Pierre has mentioned a few other like change now kind of companies, like swapping companies, and we tried a ton of those back in, gosh, at the beginning of the year, and we would get so excited, and this is why we had to change the date so many times, because everything, well, they tell us everything was fine, and then it would either not work in the majority of states, or just not work at all, even though it was technically supposed to.
+
+Let me see, I wonder if I can do that. Oh, I think I have to. Oh, let me see what page gets you to that.
+
+Yeah, I'll try to see if that works, but I know a lot of them, like, didn't work, so it's unfortunate, but we'll definitely find out from them, and I'm excited for more details from Transac. Yeah, I'm not sure what it says. I wonder if that means we'll be accessible on Cash App and Venmo through Transac.
+
+That would be very, very cool. Super neat. Now I have a Venmo balance to get rid of.
+
+So there's kind of a silver lining to, you know, having to wait if even Transac is adding a lot more features that will really help us, and issues we've had kind of taken care of themselves without us having to issue a warning for transaction fees, and having boomers be upset, you know. It's 40, 45 bucks for each transaction is a lot, so definitely huge, awesome news. Yes, my bank charges, like, an international transaction fee.
+
+I think it's 40 or 45, I forget. I want to say it was 45. Yeah, that's Bank of America.
+
+Maybe that's why they're going out of business. At least here, they are. I'm not sure about in other states.
+
+Awesome. Any other questions? I'm going to see Hayden typing.
+
+I just want to make sure he doesn't have a question before getting off. If any of you want to test the Smart Wallet, please let me know, and I can add you to the Discord Smart Wallet channel, and you can start testing. Roger made a lot of green bubbles, it looks like.
+
+Totally up to you, Heath. Yeah, if you want to test it out, then definitely just let me know, and send me your email so I can enable it, and we can get you in the channel, in the Smart Wallet testing channel. Cool.
+
+That looks to be all the questions. As always, if you have any other questions, feel free to DM me or ask in chat. Again, super, super excited.
+
+I will keep you updated on anything else. Thank you to all of our volunteers who've been helping with everything. It's been a tremendous help.
+
+Everything from the website, to social media, to the testers, to what else? What am I forgetting? Oh my gosh, everything.
+
+Graphics. What else? Everybody has been so, so helpful, even to everybody else that's just answering questions in the chats.
+
+I really appreciate it. I'm sure it doesn't go unnoticed. I will make a post tonight, including that new charity address for that wallet, in case anybody wants to track that, and also put a few of these notes in writing, in case.
+
+I did record it, but I know some people just like reading it. I know I don't like watching YouTube, or looking at videos, because I just want to read a lot quicker than I've been listening. Sorry, I don't know what my dog's doing.
+
+But thank you all so much. Weg says, pizza or french fry? I don't know, those both sound good.
+
+Thank you, Thomas. Moku, same charity address for BNB? Yes.
+
+The BNB and FJB should be the same address. So, I'll definitely include that in the announcement. Yeah, if anybody wants to help me brainstorm for the gift card templates, or give me input, feel free to DM me, too.
+
+I know everybody's super busy this time of year, but that'd be helpful to kind of bounce off ideas. All right, well, I think that's all. Thank you all so much.
+
+I appreciate your patience. We are moving forward, which is what matters most, and I think we're getting to a really, really good place. Everything's kind of turning smoothly with everybody's help.
+
+So, thank you again for your patience. Thank you again for all your help. I really appreciate it, and I really believe we're in a good spot.
+
+Thank you so much. Have a good night.

@@ -1,0 +1,251 @@
+[Speaker 2]
+I'll start the recording. Can you all hear me? Perfect.
+
+[Speaker 1]
+Awesome. Thank you. Well, it's been a day.
+
+Oh my gosh. So, um, devs are on track, the dev who built everything and the devs who are working on the review. So, we'll see where that goes.
+
+We're actually all talking right now. So, I will update you on that. Uh, the devs working on the app.
+
+Oh boy.
+
+[Speaker 2]
+All right.
+
+[Speaker 1]
+The devs working on the app. We got some big news today, so that's also really well. Again, I know everything's taking longer than expected, um, just because the smart wallet is a lot more complicated than it seems on the front end.
+
+So, it seems like that happens every time we get devs to look at it, but again, Fellow has been very helpful, um, helping us with that actually pretty much like every day this week. So, that's definitely helped, and I will keep you updated on that progress, um, as soon as the dev who built everything, um, okays the review and the changes, um, they will go ahead and make those changes, um, and then we'll go from there. So, I will keep you updated if I have any changes before Tuesday.
+
+Our event is still on for tomorrow. I feel like a crazy lady because I've been, um, contacting the lady. She's really nice.
+
+Her name is Sarah too, uh, who's running it all, and she probably thinks I'm insane because I'm just like subtly texting every day. Probably not so subtly, just like, is everything okay?
+
+[Speaker 2]
+Do you need anything from us?
+
+[Speaker 1]
+It is our first show, um, so very excited for that. Um, we have all the merch from a local printer, so that should be good. We have t-shirts, um, flags, hats, uh, so that'll be cool, and then we got almost everything.
+
+So, I'm waiting on a few, not, we got everything that we absolutely need to have, like the banner table, all that stuff. Um, let's see, what else are we waiting on? Delivery yesterday.
+
+Waiting on chairs, which, I mean, I can always run out and grab a few chairs, and we're waiting on the, um, so, I think that's everything. The stickers just came in. The red tablecloth just came in.
+
+They look pretty. They kind of fit in with the theme. Um, yeah, and the stickers just came in, but instead of doing four-inch ones, they did one-inch ones, so that's, uh, concerning.
+
+We'll still be able to use them, but uh, I wanted to put them on the white bags we had, so that would have been like, you know, we got larger bags, that way they could put the rest of their stuff in them, and everybody could walk around with the Patriot Bay pay bags, but um, we'll get that sorted out, but these will work.
+
+[Speaker 2]
+Maybe the kids want stickers anyway. They'll probably prefer the smaller ones.
+
+[Speaker 1]
+Other than that, let me see if I have any questions. Uh, we got Dogbone working on the website. Somebody in Telegram did get scammed this week.
+
+Um, guys, when you ask for help and I DM you, you will not receive a DM other than mine from, like, support or anything like that. It'll be under my handle on both Discord and Telegram. Uh, so somebody did get scammed, unfortunately, this week, so what we'll do is we're going to add a support page on the website and anybody that needs help, um, we'll direct them to that, and then from there they can email or DM me.
+
+That way, hopefully, that does away with the scammers. Uh, so we'll do that. Uh, gift cards for tomorrow.
+
+Uh, I actually had somebody from the community help me out, so that was awesome. Um, those are, I have the templates ready. All the paper and envelopes are out.
+
+I just finished transferring some coins to each one, and I just have to, I still need to actually enter, uh, all the info into each template and then print that out, but I'll do that once I get off the call. I am going to a movie tonight. I don't know what, I think it's the same guy that did the other human trafficking one.
+
+[Speaker 2]
+I don't know what it's called. I'm not the movie person here, but I figured I'll go along. Uh, that should be a good, I wonder if any of you have seen it.
+
+[Speaker 3]
+What is it?
+
+[Speaker 1]
+I can't think of a name right now. I'm definitely not a movie person, but I think this one's pretty interesting. Um, so we'll get the gift cards done tonight.
+
+Um, the square is all set up because obviously most people probably won't be paying with a Patriot Pay yet. Uh, yeah, it'll be fun. I think we'll leave for the event tomorrow right after two.
+
+Starts around five, so we'll see.
+
+[Speaker 3]
+Uh, Into the Light. That doesn't sound familiar. What was it?
+
+Angels or something like that. What's, here let me see.
+
+[Speaker 1]
+Excuse me. I drank so much coffee today, oh my gosh, and I did, I didn't quite lose my temper, but I did get, uh, you know, I think a tiny bit out of character frustrated with, um, our deaths, but I think it worked out for the best. Let's see.
+
+Gosh, why can I not, I'm not surprised, uh, I'm not finding that movie because it's not, I'm actually just texting this. But yeah, I think that's everything. Uh, I don't think I've received any DMs. Oh, we did add the topics in Telegram. I know Nolan has asked for those a while ago, so I think he was happy about that, except for what? There's a channel he didn't like, Technical Analysis. I just copied a few of the channels, or like, uh, yeah, channels that people liked from Discord over, and Nolan didn't like the Technical Analysis one apparently.
+
+Um, but I think that'll be fun. Let's see. Who's buying on this Friday?
+
+[Speaker 2]
+Oh, there's some nice buys.
+
+[Speaker 1]
+Okay, so I don't have any questions in my DMs. A few of you asking for inside info. Uh, let me check my emails really quick, and then I'll check the chat. Once in a while, I'll have somebody who emails or questions.
+
+I usually have a question list from MP, too, but I didn't get that today. We're switching our servers, so, ooh, this man just brought more packages.
+
+[Speaker 3]
+That's probably the two items I'm waiting for. Okay, doesn't look like any emails.
+
+[Speaker 1]
+All right, uh, so the audit that was going to take 18 days, including required changes, is still ongoing, or has the audit been completed? No, that's still ongoing because we were waiting on the original dev, um, this week. They did not want to make the changes without, uh, checking in with him first, but the changes, uh, they did find, um, were, let me see.
+
+How do I say this? Uh, everything they found was very expected, which gives us a lot of confidence, um, more confidence. Uh, everything was done right, and most everything they actually, well, every, I want to say actually everything they found, um, was intended, which is why it's taking a while for them, uh, to go back and forth.
+
+Sorry, I can't give more details on that just because I don't want to keep talking and give anything away.
+
+[Speaker 3]
+I'll see. I know it has a dark cover. No, it wasn't.
+
+Let me see. I asked my husband.
+
+[Speaker 1]
+I'll see if he replies. Uh, is there a current time estimate for task reveal? Uh, so, honestly, it all depends on our dev because we know the app, even though that's taken longer than expected, um, the task is not, um, at all impacted by that.
+
+Uh, so, uh, right now it all depends on the original dev. It's just with the timing, the way it worked out, this dev had another project pop up, um, so he had that. Then he had a family emergency this week, said he'd get, you know, he'd be able to, uh, look at it later in the week.
+
+Uh, he did just tell me that he is completely free next week, um, so hopefully that helps us, uh, out a little bit. Um, but I'd be lying if I gave you an actual time estimate right now. Uh, is the review taking place for eight hours a day or less frequent?
+
+No, the review has been, the review has been complete. We've been waiting on the original dev to, uh, just make some decisions for the two devs to agree. Uh, again, sorry, I'm not trying to be secretive, just don't want to keep talking to, uh, give out any info I'm not supposed to.
+
+[Speaker 4]
+Oops.
+
+[Speaker 1]
+Uh, last weekend you were 50-50 of a reveal in October. Oh, there's Mr. Bob. Hello.
+
+Oh, uh, by the way, I'm getting ducks. I have to go to the store and get ducks, and hopefully I find them for how, um, people tomorrow will, like, win, uh, gift cards from us. I'm disappointed that I didn't know of this event earlier and didn't have time to order, like, the Trump ducks.
+
+I think that would have been fun. Um, but, uh, last weekend you were 50-50 of a reveal in October, depending on what you secured over the weekend, assuming you got what you needed from Velo. Yes.
+
+Uh, will this be revealed during November? Uh, yeah, I sure hope so. Absolutely.
+
+Um, if that changes, I will definitely let you know. But really, at this point, there is not, especially with the way the review went, um, like I said, it gives us even more confidence, uh, not only in our devs, but in everything that the team has been working on. Um, so, and again, we've, the team's actually added, um, some amazing features that, which these were the ones added at the very, very end, um, that, that almost, uh, that almost work as an insurance policy, so to say.
+
+And we can talk about that after we're live. But, um, yeah. And then on my end, as far as everything for launch, um, I'm pretty much done.
+
+The only things I haven't wrapped up is really just, again, waiting for the devs. Um, it's not a hundred percent complete because I know if they make any changes, then we'll need to make a few changes on that. But, um, again, the number one priority does, um, hasn't changed, which is making sure that we have a product that is secure, keeping holders, um, obviously, and future holders, um, and their funds secure.
+
+Um, that hasn't changed as far as priority, um, and that's why really a lot of this has taken much longer than expected. Of course, the features that the team kept adding to, but I'm so glad now that they did. And again, uh, we understand, you know, people, they need to sell and move on.
+
+We totally get it. And I hundred percent think they will be back, my opinion, but I have, uh, no doubt in that. Uh, if we wanted to do, again, a pump and dump, I think, uh, the team would have not spent so much time adding so many functions, um, and making sure we have the reviews, uh, to make sure that everything is as secure as possible with the resources we have.
+
+That hasn't changed. Again, it goes back to, we don't want to skimp on something at the very end, whether, you know, due to time constraints or to make a deadline, um, and then end up in more trouble and, you know, that we're not going to be able to grow the community that way, really. So, uh, yeah, kind of learned that along the way.
+
+I am very excited for the event tomorrow just because I want to know, uh, just people's reaction, basically, like in real life reaction, you know, the normal people. Sometimes I feel like we're in our own, like, echo chamber, so that'll be, it'll be nice to get, like, the questions and the hesitancy and why, you know, just comments and obviously it's, it shouldn't be too much of a fight giving them free crypto, but it'll still be nice to see what kind of feedback we get and, uh, definitely use that. Oh, I have a very, very, very important meeting on Monday.
+
+Let me check what time. Super excited about this, actually. Uh, super, super, super excited about this.
+
+Monday at 1 p.m. LA time. Is LA time like us right now? I don't know.
+
+Let's see. Oh, there's no difference right now between LA and Phoenix. Nice.
+
+So, this Monday, October 31st. Uh, wow, Halloween's on Tuesday. That's weird.
+
+Uh, 1 to 1.30. I have a really, really, really awesome meeting I am super looking forward to. Um, yeah, I'll keep you updated on that. I'm, uh, very, very excited.
+
+I've, like, I've been waiting all week for it. Uh, yeah. So, we'll talk about that, uh, once that's finalized.
+
+What do you expect to get from the dev and audit dev over the next week? So, the dev who built everything and the dev team who's reviewing everything, um, need to agree on everything before we move on. So, uh, that's what I expect in the coming week.
+
+That they can meet in the middle, um, and make sure that everything, you know, that the reviewers are not changing anything that we, the dev and the team has built, you know, for a specific reason in a specific way. Um, we understand, uh, some, we understand some things aren't conventional or aren't, you know, typical and we're fine with that. Every organization can, you know, do what's best for itself, right?
+
+Um, but, yeah, they'll just have to meet in the middle. Uh, the app dev was saying 24 hours on Tuesday. What's the latest with them?
+
+Yes, that was not 24 hours, uh, because they ran into, um, more crap, really. Uh, but, uh, the changes they made or finalized this morning, um, after our call was, uh, something that'll definitely help us in the future. And that's, honestly, that's a lot of what we have been doing.
+
+And I feel like a lot, why a lot of things have been taking longer than expected is because the devs give us like a temporary cheap, um, option that'll work, uh, but here and until here, and then you'll have to do this. And we are always, for the most part, as far as I can think of, we've always gone with no, the, uh, options that's going to take the most time, the option that's going to really be the most difficult, um, and the option that's going to cost the most, uh, but the option that's going to do us well in the long run. Um, and I think that's a huge difference, um, from what we have done FJB in the past.
+
+Um, so again, I understand the frustration, trust me, my morning, like, um, I, I totally understand. I have my moments or hours, uh, but, um, in the long run, I think this will do us very well. And again, it is to ensure that we have a security, especially when we have people, um, going after us.
+
+Um, and I think as we grow, obviously being in the political space, and even though we're not going to be FJB, Freedom Jobs Business app anymore, um, you know, we're still owned by Steve and Boris, very, very clearly, uh, conservative and political. Um, and I think more people will come out of the woodwork as we grow to try to do what they can do. Uh, and we're making sure everything the devs, the team has been doing is to make sure that everything we think of, uh, with the resources we have is really the best it can be.
+
+And I'm sure, as our resources grow, I'm sure we'll have more additions there too. Um, and obviously, you know, as far as code and everything goes, that kind of stuff changes all the time too. Um, but I will say at the end of the day, it does feel good, um, to know that we are taking the safest, most permanent option that costs the most really in most instances.
+
+Um, although I understand, you know, I'm the one that gets the flack from everybody because we haven't been hitting timelines, but, um, yeah.
+
+[Speaker 3]
+October 30th is Monday, I know.
+
+[Speaker 1]
+Oh, yeah, right. I'm gonna be like, I'm looking forward, you don't understand. Like, yeah.
+
+The event in December, what date in December is that? I'll let you know. I will let you know.
+
+But we are, uh, spending a very pretty penny on events. And I think, um, I think this will be great. So, the professional audit team, whose job is to make recommendations based on security and efficiency, which is based on their expertise or having to negotiate with the dev who wrote, designed, whatever the task is.
+
+Um, I think it's, it's less negotiate and two and more, um, them understand, uh, one, what the team asked for. And yeah, that's, that's really it. Um, yeah, that's all I can say there.
+
+So, yeah, it's not, um, negotiate, uh, as much as it is understand each other because obviously the dev developed everything, did it with the instructions of the team. Uh, if you guys remember, I mean, he had to jump through so many hoops to make so many of the features work. Um, so, which is, uh, wonderful.
+
+We're very, very, very happy with that. If it's the big one, really hope we don't miss it. I hope so too.
+
+And I was, um, so I was planning my, I have one more surgery left and I was planning that it's supposed to be this summer, but then we were waiting for task and task. It's been pushed out and pushed out. And then, um, this is, uh, overseas by the way.
+
+And last time I went overseas was a few years ago and I got, I don't know. Oh, some of you actually might remember. Um, I got stranded cause that's when all the airlines or yeah, all the airline workers were, um, uh, well, they're just refusing to go to work.
+
+Um, because of the whole vaccine mandates and all that. So anyway, um, yeah. So now I'm like, great.
+
+I could go and get my surgery done in like seven to nine days, but I'm afraid that I would get stranded. And then I do not need that to be the next reason we don't go live. Um, so I am sacrificing, sacrificing for you all.
+
+Um, but trying to work that in, I just want to wait till after task is live. But, uh, and I also for the big event in December, I don't want to miss that. I don't want to be stranded somewhere overseas and have to miss that.
+
+So we'll see, except for my visa that I got approved for is only, uh, ends in December two at the end of December. So lots of decisions all for FJB. Um, yeah, but no, we will not miss the event in December.
+
+That will not happen. And I think that's partially, uh, why I got so frustrated today earlier, but everything's good. I'll let it drop off.
+
+All best for tomorrow. Oh, for the event. Yes.
+
+Thank you. Have a wonderful night.
+
+[Speaker 2]
+These table covers remind me of Trump. They're like that perfect red color, almost like the color of the sky. Oh, I should probably actually unpack these so they don't have a crease mark.
+
+[Speaker 1]
+All right. Anything else? Uh, guys, be careful with scammers.
+
+I got so sad this week because one of our holders got scammed. It's been a while and every week I'm like, oh, I'm so glad. And then I make sure I say something to you guys because I know generally when it's been a while is when somebody gets scammed.
+
+Um, so please be careful if you ever need help. Generally, uh, when I reply to you, uh, sorry, messing with the stickers. Oh, when I reply to you, I'm not gonna DM you from a another handle.
+
+Like it's usually just going to be me. I'm only going to DM you from my screen name. I'm not then gonna DM you from an additional different, you know, support page or anything like that.
+
+And even if that is the case, if it's me or anybody else, we will never ask for your seed phrase. So me or the other admins or any other, nobody, literally nobody will be asking for your seed phrase ever. Uh, so don't ever give that away and don't ever click on links from like support, um, that, you know, I, I still haven't received.
+
+I'm waiting for the link to see what it was so I can warn you guys about it. Um, but please be very, very careful of that. That makes me so sad.
+
+Again, we will add the support page, um, on the website and that's how we'll do support from now on to help prevent more of these scammers. Um, but please be very careful. I just hate that right now would be the worst time for you to lose your coins.
+
+Um, so please do that. Again, if you have coins on XT, which quite a few of you still have coins on XT, please get them off. Uh, if you need help with that again, email, DM me, tag me so I can get you taken care of.
+
+Uh, the coins should be on your front page if they are not showing up, please, please, please, please get them off there. Uh, we'll be able to help you cause they have not given us, um, you know, definite timeframe of when they'll pull us off there, but we don't want to get to that point. We will not be able to help you once they decide that we can't transfer any coins off there.
+
+Um, so please do that. Also, funds with Wire, get your funds off there. If you do need any help, reach out to me and I will try to help with that too.
+
+Wire isn't exactly the friendliest to us, but I will do what I can to get you taken care of. Uh, but I think that's everything. If you need anything else, uh, please feel free to tag, DM, or email.
+
+Um, try to remember picture, but yes, absolutely. I will, um, get pictures and video up tomorrow. If I have time, I'll, uh, livestream it.
+
+Maybe I'll get on, I don't know, whatever you guys use, Getter, uh, Instagram. I'm, I'm the most familiar with Instagram, but I'm not sure where most of you do your social medias. Um, so yeah, if I have time, I'll even livestream it, but I will definitely have, uh, photos and videos.
+
+Um, that'll be very exciting. Um, actually, uh, my husband asked his coworker who lives around where the event is, and he's like, oh, we're doing something there this weekend. Have you guys heard of it?
+
+And the guy's like, oh yeah, that's the thing. We're going. We go every year.
+
+So apparently it's a really huge thing. Um, so very excited about that. Um, yeah, I think that's all.
+
+I hope you had, guys, have a great night. Um, let me see. I don't think I got, no, I still did not get the name of that video.
+
+I hope you guys have a great night. Let me know if you need anything. Um, I will keep you updated as far as I'm actually, um, chatting with the devs right now.
+
+Um, we might do a call to try to get that done quicker. Um, but as always, if I do get any big updates before Tuesday, I will let you know. I will start posting the voice chats and announcement for them now for the next, you know, until we're live.
+
+Um, just because I don't want to just do it once we're live. Um, but yeah, that is all. If you're local, uh, come over or DM me.
+
+Uh, also if you are interested in TPUSA, uh, event, we got our press passes for December. Uh, so if you're interested, um, let me know. Um, DM me, uh, sooner than later.
+
+I need to have those numbers, uh, pretty soon. So let me know if you'd be interested. Um, I think that would be really cool.
+
+All right, you all have a wonderful night. I'll, uh, get this recording and some notes up and I'll see you guys in the general chat. Have a great night.
+
+[Speaker 3]
+What you doing, Larry?

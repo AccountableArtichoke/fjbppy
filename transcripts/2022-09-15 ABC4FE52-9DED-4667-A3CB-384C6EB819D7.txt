@@ -1,0 +1,205 @@
+[Speaker 1]
+Hello, everybody. How is your wonderful Thursday evening going? Thank you for joining me this wonderful night.
+
+How is everyone enjoying FJB Week so far? How is everybody? Please say in the chat how much everyone is enjoying FJB Week so far.
+
+I'm seeing some gifs here, I'm seeing some gifs here. I like it, I like it, I like it. How did everyone enjoy Boris coming on yesterday?
+
+Wasn't it pretty good? Wasn't it pretty great? I love to see Boris.
+
+I love to see Boris in here. And we have a special guest later this week. We have a wonderful special guest.
+
+I'm just doing this call, I'm here to check in with everybody. I'm just here to tell everyone how excited I've been, what, pardon me, what our developer has done with Velo, our developer Velo, has done probably the impossible, which is in a non-custodial wallet, right? Use Coinbase, you know, they factor in the price of fees and gas, you know, right in the price of buying a coin, right, but they hold onto your money.
+
+You know, not your keys, not your crypto, but our amazing, talented 10 out of 10, no, 20 out of 10 developer, he did something. I mean, I don't even know, like, he wrote that announcement. Like, I have no idea, like, the dark magic he has called upon, actually, the bright magic, actually, the light magic that he's called upon to fucking get that done, because that was unbelievable.
+
+That makes it super easy for people to buy FJB coin. I mean, that's the whole purpose of this wallet, right? It's to make it really easy to buy FJB coin.
+
+And, you know, to check out other cryptos, too, but the main purpose of this is to buy FJB coin and, you know, be able to accept and receive it. And that's the whole point of this, you know, because the main market of this coin are conservatives. You know, the main people in this discord are people that know crypto well, but the main market, you know, outside of this discord are, you know, people that, you know, are new to crypto, right?
+
+Conservatives, right-leaning people that are new to crypto. So we've done the impossible. That was an incredible technical announcement this week.
+
+And now, with the ability to off-ramp, on-ramp and off-ramp in all of Europe, all of the United Kingdom can now buy FJB coin really easily. That's the whole purpose, folks. That's the whole purpose.
+
+They can now buy FJB coin really easily across hundreds of millions of people in all of Europe. It's pretty, it's incredible stuff. I mean, I'm really proud of the work that we've done.
+
+And, you know, I've been texting with Steve. You know, I've been texting with Steve. He's pumped.
+
+He's at the TPUSA conference right now. He told me, he texted me in the chat. He said, here, I'm going to post it in the Freedom Jobs and Business chat here.
+
+Can I post it? Let me see. Is there any private information here?
+
+You know, actually, there's some private information here. So I'm not going to text a screenshot here, but, you know, he was texting me. He's at the TPUSA conference, and he told me, he said, Eric, this is the market.
+
+This is the market, you know, young people, young conservatives, you know, trying to get into crypto for the first time. So this is a good plan. So Boris even texted me here.
+
+I can probably text you this screenshot, you know. I want to be able to text you screenshots. He had such a good time.
+
+I sent him every, all your messages, I send them. I send him a big folder of all the messages that you send, you know, as long as they're appropriate, you know. I send him a big folder.
+
+You know, so I texted him. I said, you know, this is the response, you know, from your voice call. You know, let me send this.
+
+Let me crop this. If you don't mind, give me some patience. Give me some grace here.
+
+Let's see. This is in the Freedom Jobs and Business app chat.
+
+[Speaker 2]
+You know, look, whoops, actually, not supposed to send that one.
+
+[Speaker 1]
+It's a fine thing though. It's fine. Here we go.
+
+This is the chat. This is the chat. I just texted Boris.
+
+I said, this is from your voice call. And he's like, really? He said, yep.
+
+And he said, we can do these every couple days. So, you know, that's pretty cool, you know. So that's awesome.
+
+So yeah, when I was texting Steve earlier, it was just talking points for him. You know, he's like, I need an update on everything, talking points. So, you know, if you got a screenshot of that, you know, then that's what it said, you know.
+
+Can you give me legally approved talking points for, you know, when I need to talk about it? So if you didn't get a screenshot of it, even better, because that was a private conversation. But top secret, top secret stuff, folks.
+
+Top secret stuff. I do need to charge my phone. But so anyways, this is good news.
+
+It is a good FTB week. Still much more to come. Still much more to come this week.
+
+And the week doesn't end on Friday, folks. The week is, the week ends on Sunday. So, you know, because people in this chat seem to think, you know, it's like business days.
+
+I say week. It's like, no, the week ends this week, folks. Week is seven days.
+
+So I'm so pumped. I'm so excited. More to come this week.
+
+It's, someone just said crypto is 24 seven. It is a, I agree it is 24 seven. So it is, that is exactly my point.
+
+So we've got the, we've got much more to come this week. So today I'm announcing a donation to the 9-11. This is the week after the anniversary of 9-11.
+
+Today I'm announcing a donation to the 9-11 first responders. We're donating a good amount of coins here. You know, we gotta be careful.
+
+You know, we gotta do follow up on our charity donations, but make sure that stuff is, you know, invested properly. So we're gonna do a good size donation to the 9-11 first responders. And I'll have Sarah put out more information on that.
+
+So that's exciting. And, you know, this helps get the word out, you know, this helps get the word out about this coin and our wallet. So it's a really good move and it's really smart and it helps us market it to that crowd.
+
+Plus do, you know, most of all do a really good thing. So now folks, I will take your questions. Excuse me, sorry.
+
+[Speaker 2]
+I will take your questions. I will take your questions, folks.
+
+[Speaker 1]
+Did the massive Discord influx happen yet? We did, we went out, I did a small push on the Discord stuff. We got a thousand new people from that push.
+
+We went from 7,000 now almost 8,000. But no, I have not done a massive Discord push at this point. The second question is any chance of wire and ECH on ramp?
+
+No, we're just kind of doing cards just for now. Another question is when USD off ramp? So as I said, as we said yesterday, we've done a, we have a USD on ramp.
+
+We have a Euro on ramp. We have a pound on ramp and we just have a Euro and pound off ramp. So right now Trendzak has in beta a USD off ramp but that is not available to the mass public.
+
+So even great API users such as us. So when we're ready, we'll integrate that. And in the meantime, what we're going to be doing is we're going to be adding a simple sell the USDT.
+
+So we're going to add USDT and we're going to have a simple sell the USDT on every coin. We're going to still have USDC, but we're going to make, if you go in the card UI, the top card is currently USDC, that will become USDT. And then, so, you know, that way you can sell quickly into USDT stable coin.
+
+And then right now you can go from USDT to Euro and pounds. And then, so, you know, you'll be able to go, like, let's say FJB coin, you'll have a sell to USDT button that'll go to your USDT holdings. And then you can very quickly be able to go from Euros to pounds, you can do now.
+
+And then once Transact makes it available for everybody, you'll be able to go into USDT. So, you know, I don't want to give a date because I get in trouble, you know, with the pump and dumpers. We don't like giving dates anymore.
+
+If anything, I shouldn't, you know, I just shouldn't give any dates. But just cause the pump and dumpers, they buy the rumor, they sell the news and we don't like that folks. So anyway, so that is, so that will be coming, you know, in the early to medium term, that's on Transact schedule.
+
+And as soon as they allow us, we'll turn it on within 24 hours. But that's kind of where it is. So you'll at least have a USDT, and of course you can always take your USDT to another wallet.
+
+Obviously we want to make it so you don't leave this wallet, but you know, you can always take that USDT. If you're dealing with dollars, which 99% of people here are, you know, you'll at least be able to take that off to another off-ramp through ChangeNow, right? You know, so that's how it's going to be focused and we'll post live when that's ready, that simple sell the USDT on every crypto coin, which will be swapping, instant swap in the USDT and, you know, be able to go from USDT quickly, you know, click, one click, one, two clicks, you know, sell your bank account.
+
+[Speaker 2]
+Okay, more questions, more questions. Bitcoin soon, yes, we talked earlier about adding Bitcoin.
+
+[Speaker 1]
+That is in the works. So when we're done with this USDT thing, that is literally right after that is adding Bitcoin and Dogecoin.
+
+[Speaker 2]
+Let's see here, let's see, let's see here.
+
+[Speaker 1]
+I'm taking some more questions, I'm taking some more questions. Someone said, great job with the app and how it has evolved. Yes, thank you so much.
+
+Yeah, I mean, it's getting better every single day, you know, it is getting better every single day and the whole point of this wallet is to be good enough for the, to make the coin go viral. Like, you know, let's say it's the FJB coins, the FJB app. And, you know, if you want to buy the FJB coin easily, download the FJB app, it's the first, the biggest card.
+
+And I think someone asked, you know, could you address for us who keep buying how eventually we can get the price more sustainable? I think that's the purpose of this app is to make it sustainable. Like, right, like an 80 year old is, you know, it's doable, but it's tough for them to figure out, you know, how to buy BNB in order to buy FJB and continually have, you know, a good amount of gas in BNB or a good amount of gas in Ethereum, you know, in ETH to be able to buy that stuff.
+
+And we really did magical, Velo's, you know, shout out to Velo in the chat, you know, the ability to buy it without, you know, buying gas, with Gas Autobot, you know, it's amazing. And we're currently creating all new accounts that exist. So if you create a new account and do it, it works just fine.
+
+And then we're certain, and we're creating a way for you to, basically, you're going to have expert mode and you're going to have simple mode. And expert mode, you can choose to buy your own gas because auto buying gas, it's just ever so slightly expensive just the way that we have to do it. So I have an expert mode.
+
+So if you know to work crypto, you know, you'll be buying gas, you know, be paying for gas at the bare minimum price in order to buy crypto. And then, you know, and then you'll be doing it that way. And then we're creating a transition system right now.
+
+So if you do want to do the auto buy of gas, super simple, super easy, it becomes easy for you just to move over.
+
+[Speaker 2]
+So lots of big developments with this app.
+
+[Speaker 1]
+And, you know, the whole point of the app is to, the whole point of this app is to make it easy to buy the coin. You know, I hear some like FUD in this chat. Yeah, I mean, we hear this FUD, yeah, in this chat about, oh, what are, you know, the wallet has nothing to do with the coin, so what are you talking about?
+
+Like, you know, look at Let's Go Brandon coin. They built nothing, they built no utility, and it crashed, and it got rubbed. And that's the point with this app, with this wallet, it's to make it so it has actually, and it does, it has actual utility, it has absolute real substance.
+
+And it's not just, you know, some coin that, you know, it'd be one thing if this coin didn't appeal, if it appealed to really complicated, highly technical crypto people, then you wouldn't need this app. But this crypto coin appeals to the war room audience and conservatives that are getting to crypto for the first time. So, you know, that's the whole point of this, is to make it as seamless and easy as to buy the app.
+
+So here we get a ton of questions about when, you know, from this big cannon person, when staking? Right now we're not super, you know, staking will be a long-term thing, that's not a immediate term thing. So, you know, that's the point.
+
+But our whole goal here is to make FJB coin, you know, Bitcoin has been oftentimes the first cryptocurrency you buy. The goal of this is to make FJB coin the first cryptocurrency that, you know, conservatives have bought.
+
+[Speaker 2]
+That's the whole point. I will take a couple more questions, folks. I will take a couple more questions.
+
+[Speaker 1]
+I will take a couple more questions. I like this term, someone said, FJB is poppin' crypto cherries since 2022. I like that, you know, that's the point, is you wanna have a good experience when your crypto virginity is taken, you get into it for the first time.
+
+[Speaker 2]
+Because once you get into it, you can never give up on it. Okay, I will take one more question, folks. I will take one more question.
+
+Let's make it a good one, send me some good questions.
+
+[Speaker 1]
+Someone asked War Room, so I will take two more questions.
+
+[Speaker 2]
+On the War Room, you shall see. You shall see soon enough. You shall see soon enough on War Room.
+
+Okay, I will take one more question because that was an easy question.
+
+[Speaker 1]
+Okay, this is, Strict Vegetarian is asking some great questions. Shout out to Strict Vegetarian for asking some fantastic questions. How do we, he asked, how do we incorporate this with candidates?
+
+That's the thing, so after this, you know, it'll be on the roadmap to make it really easy for you to integrate into a website. So that'll be, you know, after the website is kind of focused and the wallet is in a good state, that is the next step on the technical roadmap. On the technical roadmap, after all that stuff is done, is to make it easy for you to accept it on your website, whether you're a candidate, whether you're a candidate, or whether you're a business, et cetera.
+
+So that is in the roadmap, and I appreciate you asking and bringing that up. So thank you, folks. Thank you, folks.
+
+I appreciate it. Thank you, everybody. Enjoy, enjoy keeping FJB Week.
+
+Enjoy keep watching. Keep an eye out in the announcements channel. Like I said, in summarizing, what have we done in FJB Week so far?
+
+We've got an incredible viral video of Steve talking about it. You know, we got, this was earlier than FJB Week. I mentioned, I went on Fox Business, there was some FUD here that we weren't going to get on Fox.
+
+They said, this is why all the FUDers are wrong all the time. They said, sir, you're not going to get on Fox. I hinted at it.
+
+You know, I posted the Fox emojis. And, you know, people said, you're not going to do it. You're not going to be able to do it.
+
+And look what, I went on Charles Payne. I went on Fox Business. And we got a whole, you know, a whole section.
+
+You know, dedicated to the freedom jobs and business project. So, to the FJB project. So, you know, people said I couldn't do it.
+
+The FUDers said I couldn't do it. But I did it. And, you know, that got a lot of reach and that got a lot of views.
+
+And, you know, like I said, FJB Week, we got a viral tweet. Check out that tweet. We got Change Now shouting us out.
+
+We got Transact shouting us out. We've got incredible technical innovations, the auto-purchase of gas fees for all new accounts that make it easy. Like an 80-year-old's not going to figure out how to buy gas in order to buy FJB coin.
+
+That's what this whole wallet is about, folks. Make it easy to buy FJB coin. We had Boris come in here yesterday and, you know, had a long call on how we expand it to Europe.
+
+That's hundreds of millions of people off, on-ramp, off-ramp to Europe. And that a USD off-ramp is coming soon. That's what Transact is telling us.
+
+It's coming soon. And I am so happy. I am so excited.
+
+And enjoy the rest of FJB Week, folks. It's a fun time. It's a fun time.
+
+Enjoy FJB Week.
+
+[Speaker 3]
+The week is still young. The week is still young.

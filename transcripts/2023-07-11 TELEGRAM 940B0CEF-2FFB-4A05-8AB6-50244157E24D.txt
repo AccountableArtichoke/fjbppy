@@ -1,0 +1,110 @@
+[Speaker 1]
+Hello, happy Tuesday! I feel like I haven't talked to you all in forever, but I think it's just so hot here that time is moving so slowly. So I don't have any updates per se, but I want to jump on in case anybody had any questions that I can answer.
+
+And to update you, well, I guess very little update, is that we are still going back and forth with the first third party in China. I now forwarded to, as of this morning, um, let me see actually what time it was. I usually stop hearing from them like right before noon, um, with the time difference.
+
+So last I heard from them, um, was 6 a.m. my time. 621 my time. Um, and I'm told now it's going to be forwarded to another department.
+
+Um, the silver lining in this is we're not settling for the answer they're giving us. The reason behind that is we just, they've told us this before. Um, you know, they've told us, oh, yeah, that's compatible, that'll work, and then the dev's done all the work, and then it's changed.
+
+Um, so we're not, we're really, we're waiting for somebody who knows exactly what they're talking about and knows exactly what we're talking about. Because this is not a common, what we're doing is not, clearly not common, um, and specifically not something they deal with often. Um, so that's what's behind that.
+
+We just don't want to take a, yes, that's compatible, everything's good, have the dev go, uh, what he's estimating right now, about 40 hours of work, give or take, give or take. Again, that, you know, doesn't mean that issues won't come up. That'll, um, cause that 40 hours to be changed to 45, 50, what have you.
+
+But, um, we want to make sure that we speak to somebody who knows exactly what we're talking about and can confirm 100% before the dev starts on this very specific part that this will work with their platform. Um, we've also dealt with this before, um, when we had Velo and we were working on the app. Uh, we dealt with this before we found Transac.
+
+I want to say we went to at least three or four, um, on-ramp, uh, uh, goodness, I want to say platforms, not the right word, but, uh, just different companies that said, oh yeah, it'll work. And then, uh, Velo would do all the work and we'd get to testing and what do you know, it's not compatible in most of our states, uh, not compatible in the U.S. period. And then we're out, uh, that time and money.
+
+That's one of the reasons the app took so, so long. Um, so like I said, that's the last I heard from them. Um, they'll likely get, uh, back to me again probably, I want to say 6 or 7 p.m. tonight, my time, um, when they'll start replying again, with their time zone, because they are in China. Uh, let me see if there's any questions. Is there a sound? Oh yeah, seems like.
+
+Sorry, I haven't been checking if people can hear me here, so I just kind of assumed. Can you tell us a bit more on what part the China third party is playing? Um, I can't really say much on that right now because it would just give everything away, but you know, we are in the crypto world and whether we like it or not, that's where a lot of the big players are.
+
+Um, so this is not, yeah, this is, you know, the largest crypto players are there. So, uh, for the time being, that's who, you know, that's what our choices are. Um, hopefully eventually that will change and we won't need any of these third parties, and that's what we're, uh, that's, that's a lot of our goal, right, is to become self-sufficient and be able to do everything ourselves, but that's going to take time, and I think that comes with being so, uh, young in the crypto world, um, and that'll come with time.
+
+That's definitely the goal. Oh, does Dev know how long it'll take if he gets a green light? Uh, so he asked, I think I already answered that.
+
+Um, he's estimating about 40 hours. Again, that doesn't mean he won't run into any snags. Why is my phone going off?
+
+That's really strange.
+
+[Speaker 2]
+Is that what I did? That was all I had to say.
+
+[Speaker 1]
+Um, are you confident that the task will be completed with all the functions that have been worked on? Um, that, so that's what we're waiting on this third party to 100% confirm. We don't want, what the heck is going on?
+
+Um, so that's, um, oh my gosh, no it isn't. Uh, so we don't want, we can't, we'll have to make some compromises if this does not, if this is not compatible with this third party. Um, we will have to make some compromises.
+
+We're hoping that's not the case, uh, because yeah, there'll just be some, like I said, there's already a plan B, um, but we really are trying our hardest and want to make sure that if there is a way to do what the team has planned out, that we do get it done. If there's not, then obviously we have to move on. But, and, and, you know, things, uh, in the crypto world, being so young, things change all the times and platforms change all the times and compatibilities change all the time.
+
+Um, so that's not something, that's not saying that's something we can't do in the future, but really we'd like to do that right now would be the ideal time to add all this in, um, and build the foundation on. That's why the team is really insisting on this and if there is a way, we want to get it right. If the third party issues get fixed shortly, the dev estimate 40 hours, is that pretty much a rebuild from start again?
+
+No, not at all. No, that is not a rebuild from start again. That is using, um, pretty much everything he's already worked on, all the functions, um, this is just the work around to have this work, everything that he's already built, to have it work and be compatible with these third parties, a few of them, several of them.
+
+Um, so that's not saying that everything he's worked on is going to go to waste. Um, you know, some of what he's worked on has because of current events with crypto and some changes after that, that the team then decided to add. And this is all, like, I understand, you know, nobody wants to be waiting.
+
+I'm, I hate this waiting probably more than any of you do. Um, so trust me, I understand. But again, if there's a way to do it correctly and with everything, with the current events, well, now not so current, but, um, the events that happened in the last few months now, um, the team really wants to do everything we can to just make the most out of this change.
+
+That way we're not, um, it's just, it's just the perfect time. The team has decided this is a perfect time to add all this on and to build the foundation on, um, get our stuff together, start growing the community and with all these new creatures. Uh, does plan B involve a third party or is plan B removing tasks that involve third parties?
+
+Um, um, there will still be third parties involved just because it is, it's still a pretty, it's still going to be the majority of everything, um, but some functions we will have to do without. It is a pretty big change, I think. What's the plan for XT?
+
+Uh, so XT, our last interaction, uh, regarding, hold on, extending that, uh, because I am pretty sure I told you all they want us to pay them in the tens of thousands of dollars to continue listing with them because of our low volume. Um, however, we are still negotiating with them as of 9.06 a.m. this morning, um, um, to extend that July 23rd date, um, and give us time because as most of you know, we paid a pretty penny for that listing, um, and although we understand they need the volume, you know, it's business, um, also hoping that they understand what we've been through. Guessing we won't have a presence at TPUSA this weekend.
+
+Correct. Is Eric Finran? Eddie Finran alone.
+
+He's doing pretty well though. Have we contacted the third party? Uh, it will involve the same third parties, so they're the same people we're speaking to.
+
+And, uh, for those listening to the recording, he asked, have we contacted the third parties in plan B scenario to make sure our plans would work with them? Is there a timed estimate with plan B? Um, no.
+
+That's, we're, so we'll discuss that with them if they confirm that this is, that plan A is not going to be compatible with them, but it's the same third parties. Is it reasonable to expect task completion prior to end of July? I honestly couldn't tell you because we are, um, we, like, now I'm down to the third department.
+
+I'm messaging, um, the, their team members privately in their group chat, hounding them every day, um, to get an answer. Again, we don't want to just roll with it and be stuck, have the dev working and waste that time, uh, and funds, and then be told, no, it's not actually compatible. Um, do we still have two devs?
+
+We, well, we don't have any, like, the devs only working on basically just the workaround. I want to say studying that, but we don't have two devs doing work right now. Do they know about our plan B yet?
+
+Yes, they, they, they know exactly everything we're trying to do. We're just trying to find somebody who actually understands every little detail and the depth instead of, yeah, that's compatible, um, because we've ran into that a few times now through the last several weeks. And, you know, um, it's just, I mean, that's, again, that's what we've had to deal with before, too, with the app and other, uh, listings.
+
+Um, it's just, I mean, they really, you know, you're dealing with employees on the other end, too. And at the end of the day, they don't have much to lose, um, because we'll have a dev work on it for another 40 hours. And then if it's not compatible, they're going to be like, oh, sorry.
+
+So that's kind of why we're, uh, pressing on that and doing our due diligence, because at the end of the day, they don't have much to lose, but we do. While these issues with third parties are getting sorted, is there anything else the dev team working on? Website ads, etc.
+
+Um, no, the devs, oh, are you talking about the web dev, maybe? No, we're actually, um, something's going on with the website, so we're waiting on their, uh, probably get on chat with them again tonight, on them to get back to us. Um, I want to say Dan, um, but our website dev got sort of locked out.
+
+And then ads, um, we are, we're speaking to some pretty big names in the conservative world. But I will update you on that when we have actual updates. How many weeks of waiting for compatibility confirmation becomes too long?
+
+Um, like I said, honestly, we're just trying to find somebody on their team. Um, again, we don't, we don't have a set of, you know, when it becomes too long. We've been hounding them.
+
+I've been hounding them the last, gosh, uh, it's been more than a week now, but specifically the last few days. Is there going to be a fork? We'd like to eventually do a fork once we can afford relisting fees.
+
+Um, as of now, XT wants to even delist us for our current volume, so they may want, uh, tens of thousands of dollars to even keep us on there. So once we can afford the relisting fees, uh, that's something the team definitely wants to do.
+
+[Speaker 2]
+Yes.
+
+[Speaker 1]
+All right. Well, I hope you all have a wonderful night. I will put the recording up in case anybody wants to listen to that.
+
+Um, I know sometimes readers like the updates, even if it's not huge updates, and some people don't, so I'll just post it for those who want to listen to it. Um, yeah.
+
+[Speaker 2]
+Got excited. I thought we would then text me back, but that's not the case.
+
+[Speaker 1]
+Uh, oh, there was some scammers in Discord. I'm sure there's some in Telegram, too, but I believe, like, two nights ago, there was somebody in there when, oh gosh. Oh, Turok.
+
+Oh my goodness. Um, sorry, I went to Discord to find it, but, uh, there was somebody with the Sun Devil name, I'm assuming they also had, uh, my avatar, uh, asking people for, I'm not sure actually what they were asking for, but a scammer. So please be on the lookout.
+
+Know that. Look out. Me, uh, I won't ask you to send me money.
+
+I won't ask you for your keys, and neither will any other admins. Um, you know, if your mom asks for them, don't give it to your mom. So please just be weary of that.
+
+Don't send any money to me or any other admins, and definitely don't give us your keys or click on any weird links and then enter your keys either. Uh, just be wary of that. There's always scammers in here pretending to be admins.
+
+Um, I know we haven't had anybody scammed for a while, I don't think, so we just want to keep that stretch going. Um, yeah, as always, if you have a doubt, ask anybody in the general chats instead of DMing anybody. That way you're not DMing a scammer, and then we'll be more than happy to help you out.
+
+Uh, if you have any other questions, either DM me or tag me or any of the other awesome admins. Uh, yeah, I really can't wait. Can't wait.
+
+I think everything's, uh, calmed down a little bit, but once everything calms down is when, um, the big stuff starts happening. So I think that'll be, yeah, I think that's all I have to say. Uh, you all have a wonderful night.
+
+Okay, making sure I got the recording. I'll see you guys in the chats!

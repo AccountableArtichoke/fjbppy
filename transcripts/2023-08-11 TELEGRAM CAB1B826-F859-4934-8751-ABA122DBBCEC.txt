@@ -1,0 +1,274 @@
+[Speaker 1]
+All right, happy Friday. I hope you've all had a great week. I feel like my week went by really quickly.
+
+So, I don't have any major updates. The, yeah, TGIF, seriously. Yep, I'm recording ahead.
+
+So, I don't have any major updates. However, we are still testing. As you all know, the dev completed testing several days ago now.
+
+We've been testing everything. I think we forgot exactly how many features we added on. So, we just want to double check and triple check that everything is working as it should.
+
+It's absolutely amazing, and I can't wait for you all to use everything. Super, super cool. I've been up pretty late because I'm like an old lady usually.
+
+I'm in bed by like eight or nine, but I've been up a lot later. Getting that all, making sure it's working how it's supposed to from our end. Let's see.
+
+Boris was very happy to see the charts today. One of y'all emailed him about CoinGecko. We have messaged them about that.
+
+Just waiting on them to get back to us. Think it's something on their end. Let's see.
+
+That's really it. That's all I got. Got somebody made a pretty big purchase yesterday.
+
+It's not who I thought it was. I'm not sure who the buyer is. Not sure if any of you have figured it out, but it seems to be a wallet that was last active like a year ago.
+
+I'm definitely feeling so much relief. At one point it just felt like it was never going to happen. It's really cool being able to test everything and see everything actually just working the way it's supposed to.
+
+Super, super cool. I'm glad that we took the time to not rush it and not just drop those features and actually worked with everything we possibly could to make it happen. I'm stoked.
+
+Hey Sarah, can you please comment on the smart wallet fix if you have a chance to see how that could be implemented? Yes, so as soon as who was the big buyer, I have no idea. Yeah, it's not who I thought it was, but it is like I said a wallet that was last active about a year ago.
+
+I know it's somebody that's been here for a while. If you all have any idea, let us know. Okay, regarding SurferDude, regarding the smart wallet.
+
+So Dev, he's been working on the task. As soon as that is live and announced, he will go ahead and start working on the wallet. He is ready.
+
+We just can't have him start working on that because there is really just no point to that. He would have to start most of it all over as soon as he's done with task again and that would be a waste of everybody's time. So as soon as the task is live, the dev will start working on the smart wallet.
+
+Again, hopefully, I don't think it'll be anything huge if history has been any indicator with the smart wallet. It's just with having the integration with TransZack and ChangeNow, kind of just a lot of variables going on there. So hopefully, that's something he'll get squared away and working fairly quickly to at least, I don't know why my Siri's up, but to get everything working, just at least minimum functionality for you to be able to swap coins.
+
+We'll make sure that's the first thing on there that he's working on. We're not trying to keep your coins hostage or anything like that, but he will start working on that as soon as it's live. Oh yeah, absolutely.
+
+Yes, everything in our app, don't worry about that. Your coins aren't gone. Yeah, we'll make it right.
+
+We'll do whatever it takes to get that right. So don't worry about that. Current estimate for going live on the task?
+
+I don't have an estimate for you. I know we were estimating that team would be done with reviewing and testing by the end of this week, but it truly is a lot of testing and now I definitely see why it took the dev so long. We want to make sure that everything is working right, there's no glitches, nothing like that.
+
+We may ask a few of you to test the functions too, just to be really sure. And kind of, yeah, just to be really sure. So we'll get that squared away and make a decision this weekend.
+
+Yeah. Are you going to buy back in? If so, when?
+
+So my plan is to buy back in as soon as I know we have enough funds to fund the project. Otherwise I'd rather have those funds there in case we need them to fund everything, because I really don't want that to be a reason that we don't move forward. And I'm sure many of you, I know I've gotten several DMs of holders more than happy to put up cash to help fund everything, so definitely appreciate that, but I would use my funds before I did that.
+
+Again, I just don't want that to be a variable again that really, really sucked. And it's been great now that we don't have the marketing wallet, you know, just sending funds on a timer to just some mysterious wallet. Has a team found any bugs while they tested?
+
+No! No, we've not, and it's been so amazing. It's really so, so cool.
+
+Prior end of August? Oh, I really, I really still, in my opinion, think we should be live before August. At this point, everything's completed.
+
+Minus, again, the third parties, but really we just want to test every single function over and over and over to make sure it's functioning like it should. Super excited about that. Have the negative people do the testing?
+
+What do you mean? Is there a strategy to sell use the marketing and charity wallets? As far as, I don't know if you mean like future funding or...
+
+We've not sold in quite a while. We probably, probably will this coming week or two, for sure. You say live before August?
+
+As of right now, that's very, very, very doable. We're only in August 11th, but that's also, keep in mind, we have not found any bugs. Everything so far, everything we're testing is just working beautifully.
+
+So as long as that continues, and keeping in mind that third parties, again, remember what the times they gave us, keeping in mind that they stay within the timelines they gave us, then we should be very comfortably done in August. But again, that can change if all of a sudden we have some bugs, you know, if some functions aren't working like they're supposed to, if we get a few of you guys to test the functions and we find some bugs, that's going to change things. So far, there's one change we did notice, but it's not exactly a bug.
+
+It's not a bug, actually. But yeah, we'll see. We might even keep it with the way it is, but he might need to change that.
+
+But we're talking an hour of work less than that. But if that does change, then of course that changes the timeline. And then again, if third parties, you know, we're still very, very comfortably within the times they gave us, but if they end up taking much longer than expected, which does happen, I will for sure keep you updated.
+
+Mysterious wallet owned by a hot dog vendor in New York. I'm not sure the old team has any wallets left. I think the last I saw any transactions, they sold like a little bit of LP.
+
+I want to say it was like a version two, was it? And it was, I mean, it was something like lunch money. It was so very little, I'm surprised they even sold it.
+
+Not to say there's not other wallets out there, but I kind of doubt that. I haven't heard anything from the old crew, as you can imagine. Before the end of August, yes.
+
+I mean, how will we use those coins and funds? Oh, you'll have to wait and see. I think the, I think the roadmap is a pretty good indication of that.
+
+We got to get the word out. We got to grow the community. But first, we need to finish the task, build a better foundations, foundation, excuse me, and get the app working.
+
+We need that to just be super, super user-friendly. I think that'll be great along with the education. Can you address my wire transfer comment?
+
+I didn't see that. I must have, where's that? Okay, no AMX today.
+
+Transac wants to charge me $37.41 for a wire transfer of $1,500. Yeah, my bank will charge $30 to the wire. Crypto.com is happy to receive the wired money for no fee. In both cases, the money arrives in my account at their U.S. bank. What the hell? Yeah, I mean, I used to use Coinbase for my wire transfers, and I don't think, I don't remember them charging me either for that.
+
+But yeah, Transac, my bank charges me a ton every time I purchase through Transac. I want to say, if I remember correctly, I haven't purchased for quite a while, but I want to say it was like $40 or $45. I got charged an international fee.
+
+But I think each company kind of, and I might be wrong, I'm sure somebody will correct me, but each company kind of decides how much they want to charge you. And Transac isn't based here, so I wonder if that's got anything to do with it. Uh, I'll test the app for 10 million FGB.
+
+Is Mohammed, no, Mohammed somebody's alt from Discord that just can't get up, get enough of you guys. Don't you guys feel loved? I need a bot.
+
+If somebody finds a bot that can detect all the alts, I will pay you. I will pay you for that bot. Uh, will we be familiar with the third parties?
+
+Yes, definitely. Oh, I hate them bugs. Yeah, surprisingly no mosquitoes here yet.
+
+It's been hot as heck. I did make my first pumpkin spice latte today. It's on ice right now, actually, I'm drinking it.
+
+It's like 110 degrees out, and I thought it'd be a good day to make a first one. Celebration. When roadmap, uh, that will be released right after the task.
+
+And the white paper shortly after. I'm very, very excited for that. By the way, with the, um, how many of you all remember the white paper?
+
+Uh, would you all prefer something shorter, or do we kind of want to keep it pretty lengthy? Mohammed is having a party on his yacht. Yacht, I don't know why I said yacht.
+
+Um, not AMAX, double wire transfer fee, Transac. Yeah, Transac, um, last I spoke to them regarding their, uh, what was it, the off ramp and on ramp. So, would their, had, had they completed that on time, um, that would have done away with those, uh, fees.
+
+But I think it was definitely, uh, more than they were expecting it to be. So, uh, they didn't seem super optimistic about it last time we discussed it. And they, they didn't really have a timeline for me either.
+
+So I'm not sure if that's, uh, just cost based on their end, or, you know, simply all the legalities that go with that. I think it's officially beer o'clock. Yeah, that sounds great.
+
+Haven't had a beer in, uh, very long. I'm meaning to try the Celiac gluten-free beers, but every time I am looking at them, I'm not, like, in a drinking mood, and I look at the ingredients, I'm like, ugh, I don't want all that crap. My heart is broken if Muhammad isn't real.
+
+Oh, he's real. His name's just like Jack from Discord. Can you send the old white paper?
+
+Um, yes. I'm sure, I'm sure I haven't. So then I have a edited copy for sure, but I don't want to give you guys that one.
+
+Um, I'm sure I have. Let's see if this is it. This is the unedited version.
+
+[Speaker 2]
+Let me see.
+
+[Speaker 1]
+I think so. I think it's still on the website, too. Let me check.
+
+I just don't want to accidentally give you one that's been... It's kind of like when I had the road map with the redacted tasks, and last minute I was like, oh, I should probably do that. Remove it.
+
+And sure enough, you guys all went to see if it was still behind the red square. Let's see. Yeah, I found it.
+
+Is this it? Yep. Cool.
+
+Let me know if that works for you. I think it should. Appreciate you taking the time to address my comments.
+
+Of course. Sorry, I did not see it earlier. I think when I saw Amex, I skipped over it.
+
+I didn't think it was for me. Get Universal Fun. Oh, boy.
+
+So we'll have Universal Fun, Flute, and Donnie do the testing. Okay, you guys can vote on that. Let me know.
+
+Oh, that's true. Everybody knows how to say pozo, too. Oh, come on.
+
+You love them. Where did I? Oh, I saw this one.
+
+Some new graphics for the white paper. No copy paste. So let's force his master plan.
+
+I think his master plan is getting Trump to win. I think that's number one. Let's test the mute function.
+
+Oh, boy. Not very hard to spend 50k in Scottsdale. A drink is like 30 something dollars.
+
+They're actually opening a bottled blonde here in Gilbert. And I don't know if that's a change. Or if that's just a local.
+
+But anyway, here, they wear, the girls wear like lingerie, like actual lingerie to serve you. And so Gilbert residents are very angry about it. The mayor had to like send some letter saying that, you know, that's nothing she can, nothing she could do about it.
+
+And it's funny because when they announced it in some article, they said like an Italian eatery, which I don't know why they thought that'd be a good idea because it's definitely a nightclub with females and lingerie serving you. What will happen to Let's Go Brandon? Nothing.
+
+We're gonna see how, so L Bank is definitely, I think I spoke to you guys about that, still trying to delist us like XT does. By the way, if you have any coins on XT, don't forget to transfer those out. If you, if it won't let you, just contact their customer service and they should take care of you.
+
+But if you have any issues, don't forget to contact them. If you have any issues, please DM me and I will get you taken care of pretty quickly. Same, of course, that goes with anything with Transact.
+
+Change now if your transactions are ever just sitting there. Definitely DM me with a transaction number or a link. Either or works.
+
+Even a screenshot works. And they're usually very, very good about that. No, L Bank.
+
+Yeah, I know. So they want, well, first they want tens of thousands of dollars and then to a lot more volume. So that just may be on the horizon to lose them, which is fine.
+
+We're, you know, I think if we get the education part down, the crypto education on the app, and we get our app very user friendly, I don't think we'll have an issue. I mean, that was always the main goal, or at least since the app came about. Total balance.
+
+Yeah. Nice. That's from crypto.com, I'm assuming. It's okay. We're listed on PancakeSwap. Professor Nolan.
+
+Where is Nolan? I haven't seen him. Change now.
+
+Worked pretty well this week for us. Awesome. Yeah, I think there was a lot of one transaction.
+
+Oh, that large one yesterday. That took quite a bit, but as soon as I contacted them, I think within an hour they had it all done. So that was great.
+
+50% up is a good week. Yep, Boris is happy to see that. Fun.
+
+But again, I'm not worried about it, I think, in the long term. I have no doubt there won't be a problem. Yeah.
+
+Let me see. I don't think I have any DMs. By the way, I don't know why Telegram does this, but they filter out so many of my DMs. So if I don't reply to your DM, it's probably buried somewhere, so feel free to either tag me or just message me again so it goes to the top. I need to go through and just clear out my inbox.
+
+Oh my gosh, Ross. Did I tell you Sam got a girlfriend? And then last weekend or the weekend before, he told me they broke up because he wouldn't hang out with her.
+
+He was hanging out with his friends. How about moving from BNB chain to base blockchain? Very few coins there would easily be a top 10 coin on Coinbase's new blockchain.
+
+Do we want to be on Coinbase? I'm not sure about that. Ask Nolan.
+
+Also, ask Nolan where the heck Noman is. Did he find him yet? I'm still very sad about Noman.
+
+I'm not serious. Or, I'm not kidding. If anybody ever, you know, finds out anything, keep me updated.
+
+Can you see 22 billion coins being the circulating amount? It's been a very long time since we visited that. Why do you ask?
+
+Is that not, are you saying that's not the case? Let's see. Oh, burn.
+
+No. We have some amazing functions. I think you guys will love them.
+
+Oh, yeah. How's, actually, I asked somebody kind of recently how Paradox was. Will the community be told of the live date before going live?
+
+Uh, I want to say no. We kept going back and forth on that. But yeah, that's, I guess, undecided.
+
+Keep going back and forth on that. But either way, it'll be, it'll be great. And I have, I have surgery in September.
+
+So we've got to get this, okay. We got to get this taken care of. And I've, I've postponed my surgery because I was waiting for this to just, you know, kept thinking, oh, it'll be this week, it'll be this week.
+
+Does going live mean task revealed? Yes, that's exactly what it'll mean. Or what it does mean.
+
+Do you have any idea on when third parties get the go-ahead? As soon as we're done testing. Like I said, testing has gone really so beautifully.
+
+So beautifully. It's amazing. So, so good.
+
+But task reveal means app development phase starts, correct? Yes, exactly. And I'm very excited about that.
+
+Because seeing all these cool features, and then we're going to integrate that with the app, and then have the app actually be user-friendly. It's, it's gonna be beautiful. Can you drop a golden egg in Discord and Telegram before the next War Room so we know?
+
+Sure, I can do that. The only thing with that is, so when we've been on War Room, before, literally every time we've been on there, it has been, the time has been changed so many times. Just because Steve's schedule is moved around like a few dozen times a day.
+
+No exaggeration. The segments and everything. So that's, that's the thing with announcing War Room and actually giving you guys like a, you know, a top of the hour, or is it really every time?
+
+It's changed so many times. So I can only imagine to tell you all, and then it gets changed, and changed again, and changed again. Will the dev come on voice?
+
+Yes, very excited for that. He is brilliant. Yesterday was his birthday.
+
+Was the dev's birthday. Oh my gosh, Tucker, could you imagine? That would be so cool.
+
+I don't know if we could even like ever afford him to type like a letter for us, but who knows? Maybe. How much more testing does the team think they need?
+
+I don't have an estimate for you there. It seems to have been going for weeks and weeks now. Absolutely, yes.
+
+The dev testing took way longer than expected, because there truly are so many functions, and we want to make sure we get it right. I'm actually gonna forward these to him. I'm sure he'll read them.
+
+Happy birthday, dev. Get back to work. Fix the dumb smart wallet seed phrase issue.
+
+Yes, yes. There are, there are many great ideas for the app, but obviously getting it functional is the first step, just because that way if you want to sell, if you want to transfer, if you want to do whatever you want to do with your coins, you all can do that, and then the dev will move on to other functions and features. Are you building a new platform, software, interface, or contract?
+
+None of the above. Don't break a leg or arm or a shoulder. Is that a shoulder?
+
+Don't do that. Ooh, Mexican sounds good. Have a margarita, Russ.
+
+Or Dos Equis. I miss Dos Equis. Some salt.
+
+Dev just saw those. That's very sweet. Yeah, so that's everything.
+
+I am feeling so relieved. It's, everything's been amazing, and I really think, in my opinion, you'll all love the features. I'm blocking anybody who acts unimpressed.
+
+I've already decided, because the features are so cool. Yeah, I'm so excited for everybody to get to finally see everything that's been happening in the background that's not made up. Where is Universal Fun?
+
+Is he excited about the charts today? I don't think I've seen it. Well, wait, I think I saw him yesterday.
+
+Oh, he's so sweet. Matt, it's only up 80%. I love you, too.
+
+Wonder if the old-school guys like Fuego will come back in. Yeah, he's probably here under an alt, of course. Goodness.
+
+Yeah, it'll be, it'll be great. I'm super excited. Even getting to see even me, who I've seen, you know, this list of functions, we helped get put it all together, really, for what, months now?
+
+Just seeing it and using it all myself is like, oh my gosh, that's so cool. So yeah, I am very, very excited for that and already feel a huge relief. And again, this is not to say we won't have, by definition, some hiccups, but we'll go ahead and take care of everybody.
+
+We'll make sure to walk you through everything. Don't stress. There's nothing, you know, just follow directions.
+
+You'll be fine. We're not the first or the last people to do this. Probably the first with all the really cool functions, though.
+
+The dev says, please send my greetings to everybody. So yeah, yes, yes, yes. I think that's everything.
+
+Again, please remember, there's been quite a bit of scammers in here and Discord, so just please keep in mind. I know I keep saying that, but I just feel like right when I stop is when somebody will get scammed. Just don't send any money or don't give anybody your seed phrase or click on any weird links, either.
+
+Just be very careful of that and yeah, we'll get you all taken care of. We'll, yeah, so far, again, to reiterate, wow, we are still on track to comfortably finish by the end of August, but if that does change it or we do have any bugs come up, then I will keep you guys updated. So far, so good, though.
+
+So far, so good and so beautiful and just amazing. We just don't want to go live and then have you all find some major bugs or anything like that. So obviously, we want it to be worth the wait and we've waited this long, so we're not trying to brush the most important part, if you will, with testing everything.
+
+All right. Aw, thank you. All right.
+
+DM me, as always, or tag me, because in Discord, most of my DMs don't get filtered, but in Telegram, they do. I'll have to go into my settings again and check why they, most of them, go into my archive chats, but anyway, you guys know to tag me and I'll definitely see it. But you all have a great night.
+
+Be safe. I'm gonna go and continue testing. So cool.
+
+Yeah, let me know if you need anything. I hope you have a great, safe weekend. I will see you guys in Gen.

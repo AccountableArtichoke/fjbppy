@@ -1,0 +1,246 @@
+[Speaker 4]
+Hello.
+
+[Speaker 2]
+Can you all hear me. Okay, I'm setting up this time because every time I was putting at least three minutes in. So, I got that started.
+
+[Speaker 1]
+Okay, awesome. Right in. Thank you for joining us for joining me.
+
+I really appreciate your patience, as always. I hope you're having a great week. Hope everybody had a great weekend.
+
+I really don't take for granted that you all are still here. I really do appreciate each and every one of you so I just wanted to say that first. Thank you.
+
+Now I'm going to go and answer some questions you won't hear hopefully you won't hear any of my animals today. I left the house, but I'm close. Let me see, there's an echo.
+
+I wonder if that happened as soon as I put the recorder on. Let me turn it off and see. Is that still echoing.
+
+[Speaker 4]
+See, I am using headphones.
+
+[Speaker 3]
+I promise I am. I can get different ones. Let me try unplugging.
+
+Is that better.
+
+[Speaker 1]
+Yes, I was recording but I shut it off.
+
+[Speaker 3]
+No, I don't have another audio.
+
+[Speaker 2]
+Okay, so that's probably why. Let me mute him. Okay, is that better now.
+
+[Speaker 1]
+Okay, so it was the man, because he wasn't muted but I muted him so that's better now Winston saying it's better now.
+
+[Speaker 3]
+Okay, yeah. No one said he needed them to. Okay, I'll put the recorder back on.
+
+Just in case.
+
+[Speaker 1]
+Okay. Okay. Okay, sorry about that.
+
+Okay, so I'm going to go in and dive into some questions let me know if that echoes again sorry I know that's super annoying. So I'm just gonna go through them. I did when I got repeat ones.
+
+I obviously didn't include those so it may be worded differently if it's not your exact question that was answered. Okay, let's just go through the list. What reasoning was given by Google when the Android app was removed from the Play Store.
+
+It's actually really super simple. It's the login credentials for the app for app or up for app review, and this has to do with a VS login. So they need some sort of login that bypasses the VS.
+
+I'm told it's fairly simple, and I have a zoom meeting with VS tomorrow to get this taken care of. It shouldn't be a problem it's not us getting canceled or anything crazy like that. It's just through the transition.
+
+It got lost. While we were transitioning over and all the accounts over got lost in one of the emails. So that's why that happened.
+
+And then when we were removed from the app store. We started going through those emails and found that was not having special ed on team, something that caused that no. They just regularly need certain documents from us.
+
+So that just happened to get lost while we were transitioning everything from the old team. Okay, next question. What steps are the team taken to restore the app to the place where I think I just update or answer that I will update you as soon as I have an update to promise.
+
+When will the latest app changes be rolled out to the production site. I'm not sure anyone knows, to be honest, mainly because we've shifted our focus a bit. And by that I don't mean we're not working on the app.
+
+By any means, but we're working on a lot more of the foundational changes, I feel like It's all major things that you all have been asking for, which I believe you'll be very, very happy about. This was will help us out in the long run. And I think help stabilize the coin and solidify the whole project.
+
+We're just working on a lot of these things that, in my opinion, should have been taken care of a long time ago. And I can't wait to share that all with you. We did get approved for all of them.
+
+So now it's just to get it all done and then we'll share with you as soon as it's all done. Update on Transact's compliance situation and estimate for rollout. If you've sent me your email address, you should have received an email from Transact.
+
+If you still haven't received that email from them, please resend me your email address and let me know. I don't ever delete my messages. So unless you've deleted them, I should see it.
+
+That you've already sent me your email address, just so I can double check with them. Transact will ask you for something like a self fee of you holding your bank card. And then they should reinstate your account shortly after.
+
+I know several accounts have already been reinstated. So if you're having trouble, again, just DM me your email so I can get that taken care of. Who's handling the App Store communications now?
+
+That's Velo and I. As usual, Velo will add more devs as he sees fit, but right now I think we've gotten it taken care of. Update on off-ramp timeline.
+
+So actually we're working on it with the middleman between Transact and us. It's a company contracted with Transact. So I hope this means we're moving along and we're one step further.
+
+I will update you as soon as I have an update from them. We are supposed to have a meeting later in the week. So I'll definitely post an update as soon as I have that.
+
+Could we get a pre-recorded voice chat from BNB? Maybe a strategy from them moving forward? Yeah, absolutely.
+
+We can definitely do that. As you know, they're beyond busy with the midterms, some legal stuff going on, but I can definitely ask. If they don't, I can give you a strategy update.
+
+We're working through that right now and I should have that one relatively shortly. I will be asking for the community's help for some of it. So I would appreciate any of your input.
+
+I would like that to be a little bit more organized than just in the general chat or DMs. So, I don't know. I'm not sure if, I know a lot of people are against the Google Docs, so I'm not sure if ProtonMail has something similar or anybody has a different suggestion. But if we can have a running list, I know in Discord it'll be easier to do in there, but maybe we can create one for Telegram too and that way it can all be on one sheet.
+
+And I will be asking for the community's help for that shortly. I'm sure you guys have great ideas. So, that's for a part of it.
+
+But if they don't, I'll definitely ask if they don't have time, I can give you a strategy update. And like I said, that will be, that should be very, very shortly, relatively. Yeah, I know I'm not as cool as B&BR, but I hope that will do just until they free up a little bit.
+
+Next question, update on Velo's work list regarding FJB logo on App Store. Okay, so with the logo, if we update the logo and push an actual update through the App Store, the VES authentication will be deleted on everyone's phone. We don't want to do that because we don't want anybody to lose that and don't want people to lose their coins.
+
+So the only way around this, I'm told, is hours and hours of testing beforehand. So, unfortunately, unfortunately and fortunately, that's not a high priority item right now. If you are someone that's capable of this and willing to help with that testing, then feel free to shoot me a DM.
+
+But that's, that's all what's behind the logo. And I'm hoping my meeting with VES will answer a lot of these questions and hopefully help move us a step forward. But I'll definitely update you on that too.
+
+Okay, I think that's all the questions. Let me know if you have any questions, if there are ones I can answer in voice chat. Any discussion on a white paper?
+
+Yes, absolutely. B&B did approve that. So I'm not sure if we'll be going with the old white paper.
+
+I am not sure, to be honest with you, why that was ever nuked. I'm not sure if that was Finn's idea or somebody else. But we will either get back on track there or start a new one.
+
+We can also, you know, change things on that one. We'll see whatever we need to do. But yes, that's been discussed as part of the proposal that we got pretty much actually everything approved on.
+
+I think you all will be very, very happy with everything. I know it's a little bit upsetting and disappointing because this is all stuff you've been asking for for a very, very long time. But I think we're the best place right now, FJB is, that we have been for a while.
+
+And I think you will be very happy with a lot of the decisions being made that should have been made a long time ago, I think. So I think that'll be best for everybody and best for everybody's investment. Any other questions before I head off?
+
+Will B&B launch on War Room without transect off ramp after midterms? I believe so. I know they don't want to do that because they don't want, I think, the left claiming that we're running some sort of scam.
+
+But again, I think, I mean, personally, I think that we're fine without the off ramp, but I understand why they would want that. I don't see that being a problem. I do think some other things we're working on, more foundational items, like I said, that should have been taken care of a long time ago, in my personal opinion, I do think those should be done first before they launch on War Room.
+
+But like I said, in the meantime, I think everybody will be very happy with the changes that will be coming. I can't wait to be able to share those with you. I think everybody will be very, very happy.
+
+I think it will be great. There was a lot of interviews, marketing, digital airstrike stuff lined up for the 2nd of August, big cost, time, recordings, etc. What happened to all of that?
+
+That is not something I'm, I don't know if allowed is the word, but really allowed to speak on. I think a lot of that had to do with Finn and the whole team and everybody who's left. So I know that's super disappointing.
+
+I'm just as disappointed, if not more disappointed than you are. And that's why I say I know it's disappointing because a lot of this stuff should have been taken care of a long time ago, but I am glad it is being taken care of now. And I think you will be very happy with the outcome.
+
+Will BNB get a website to buy, sell, trade? You mean like they did for Himalaya coin? Like an exchange?
+
+Or I'm not sure if that's what you mean. Sorry. What are those foundational items?
+
+I will share with you as soon as I'm allowed to. What I can tell you is these were items that were proposed for the benefit of the coin and the community. Nearly every one of them got approved.
+
+And we are moving forward. It's just, as you know, takes a lot of time, third parties, but these are all things the community has. I think every single one of them are things that community has been asking for over and over and over again.
+
+I don't think any of them will be surprising to you all. Probably. Yeah, I'm not sure to be honest with you.
+
+I'd be lying if I answered that question as far as will BNB get a whole website to buy, sell, trade as far as like Himalaya coin. I am not sure about that. I can actually add that to list and see.
+
+And I can let you know once I get an answer. Like I said, I know they're super busy right now. So my questions like that probably don't have a super high priority on their list, but I will let you know once they answer.
+
+Will the tax go away with the release of the app, even if it's not complete with off ramps? I'm not sure about that. I'm not sure that's a good idea right now.
+
+I do believe that changing the tax structure to benefit holders and to benefit the community and to benefit. Well, yeah, holders community onlookers looking to, you know, looking into the coin to see if this is a something good to put their money in beneficial or not and give back charity. To me, I think that would be best rather than getting rid of tax completely as I would say, until we see some growth.
+
+I think right now, we're so small that I think that would be beneficial. And I think the community will be happy with a new tax structure. Little hint.
+
+Not harping or not harping on or complaining just want to know bottom line. All the marketing digital airstrike money costs etc is gone full stop. Is that correct?
+
+I'm not sure. I will check on that. To my knowledge, some of the things paid for are still there for us to use.
+
+But I will make sure. No, you're not. I don't think you're harping or complaining.
+
+I just truly don't know. I try to answer everything that I can answer that I'm allowed to answer. But yeah, I truly don't know.
+
+Like I said, I think a lot of that when Finn left and the rest of the team left. A lot of a lot of that went out of the window. And I know it's super upsetting.
+
+I'm down so much money. I've put in so much time into this. But rather than just being super upset about it.
+
+I am encouraging the team to make these changes. Lots of changes ASAP to get moving. And again, I do think the community will be very, very happy with these changes.
+
+Not because I'm, you know, not because I'm so creative or because I have this innovative ideas. These are all your ideas that I think you all will be very, very happy with. Will the Himalayan coin people have influence with FJB Direction as Offramp gets working?
+
+Will they be involved? I'm not sure. I will write that down.
+
+I'm not I've not heard of anything like that. But I will check on that. Was mentioned that B&B already recorded war room segments.
+
+Is that known to be true? Yes. That's what I've been told by multiple people and seeing the script for it.
+
+If you're revisiting the white paper, will you create a space for contributions or suggestions? Yeah, definitely. Always.
+
+As always, my dams are always open to like I said, I will be asking the communities help very, very soon on a few things. We can pretty much deal with anything as long as we know the score truth bottom line. I appreciate that.
+
+And that is the goal. We are bringing and coming back to transparency. I have been I've been trying to be as transparent as I can with you.
+
+Again, it's pretty bare bones team now as far as it being B&B, somebody else from their team from war room, me, PR and marketing. So I've tried to do that the best I can. Feel free to DM me.
+
+Let me know in general chat. If I'm not, call me out. But that is the goal here.
+
+And like I said, I really don't take for granted, every one of you still being here. I know you can very easily sell and get out. I do appreciate every one of you being here through everything we've gone through.
+
+Stuff is not gone, as many of us would have liked it to. But I truly, truly believe we're in the best place we've been in a very, very long time. And I truly say that from the bottom of my heart, like I really, really do not try to be dramatic.
+
+But it truly, truly is. I wouldn't be here if it weren't. And I wouldn't be saying that if it wasn't true.
+
+I'll try to get you updated as soon as I can. Again, I'm not trying to be secretive or anything like that. We just want to wait until these things have actually been done, completed, to share them with you.
+
+And again, these are things that I think should have been taken care of a long time ago. So we're not expecting you to give us a pat on the back or anything like that. This is your money, your coin, your community.
+
+So I understand that. Time frame for those. So right now, time really is just...
+
+Gosh. Some things I would say less than a week. And other things, about a month or so.
+
+So I'd say, yeah, a week to a few. But a few things behind the scenes. Like I said, one of the things we did get done that we were able to announce was the Transact issue.
+
+That's huge, in my opinion, was a huge win. We had a lot of people getting their accounts disabled, which we know now how to take care of that. Actually ended up being a super, super simple fix.
+
+Awesome. I'm glad. Trucker said his account was restored.
+
+Huge deal. Awesome. I know James earlier said he bought for the first time using the app too and it was a lot cheaper for him than usual.
+
+So that's great. I know a lot of what we're doing on the back end right now, you can't see. And I understand you've heard that for the past year.
+
+But I do hope you trust me when I do say stuff is getting done. I'm literally getting this stuff done myself. So I can say that.
+
+And again, we'll share it as soon as we can. Can we start getting excited for things really ramping up after midterms or should I just OD on Spice at Christmas? As far as War Room, I will definitely let you know.
+
+I'm honestly trying to get an actual date, even if that's like 12 months away, just out of respect for you, the community. So I will as soon as I hear back on that, we will update you. But we do have a plan, which is great.
+
+And hey, men's pies are great. Is Transact going to be the sole on ramp going forward? Or is it possible that Moonpay or others will be added?
+
+I'm not sure about that. I'll actually add that to my list of questions for Velo. Most of the tech DeFi side is not my area.
+
+So I'm trying to learn that but I'll add that to the list here and see if I can get that answered.
+
+[Speaker 3]
+Cool. I think that's all the questions.
+
+[Speaker 1]
+Yeah, I think that's everything. If you did DM me something you didn't answer, then I'm sorry, I must have missed it. Definitely let me know.
+
+Is there a reason BNB are not on the website? No, I don't think so. I know they were taken off right before we did app approvals.
+
+I think they were just never put back on after that. But we're still on their websites and their social media and all that. Somebody says feel like we're hyper focused on the app.
+
+Is everything really waiting on that? A lot of it? Yes, absolutely.
+
+It's because our number one demographic are boomers and the app is our selling point. We're also looking into gift cards. I think that'll be super fun too.
+
+Oh boy. Okay, I think for information which is complete and consists of individual files, folders, pending release, please. Okay, I will look into that.
+
+Proof of existence. I'll have to look at that because I'm not sure what that is. Yes, gift cards would be awesome.
+
+I think that would be great and also helps us with events we want to start running across the country. Could we address change now slow processing? Oh, how long is it taking you to process?
+
+I know they have a few outages a day. Really, I get their outage notifications. So I'm not sure how long it's taking but let me know.
+
+I wrote that adding that to my list I could reach out to them and see if that's just FGB related or if that's just the change now issue with the outages they have.
+
+[Speaker 2]
+Sorry.
+
+[Speaker 1]
+Okay, I think that's all the questions. Feel free to DM me, as always, if you have any other questions that I can answer. As always, I appreciate your time.
+
+I hope you guys have a great week. Hopefully you weren't able to hear any of my animals today. Hopefully the sound is okay.
+
+But I think that's all we'll do our discord voice chat at the end of the week for any of those questions. And again, I will update you as soon as I hear about the VS, I will update you about any of our list of tasks being completed as far as the team goes, and the Google app. I think that's everything I can think of for now.
+
+Thank you all so much. Again, I really appreciate it. I do not take you all for granted.
+
+And I hope we can bring back the momentum and the transparency. Appreciate you guys have a great night.

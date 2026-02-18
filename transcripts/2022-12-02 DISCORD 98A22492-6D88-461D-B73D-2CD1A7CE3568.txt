@@ -1,0 +1,727 @@
+[Speaker 1]
+That's all started in case anybody needs it. Lauren says I'm finally on time. Awesome, well, happy Friday.
+
+Thank you for joining me. I feel like this week went by really slow and really fast at the same time. So, I only got a few questions because I think I've gotten a ton of questions during the week.
+
+So, I'm assuming that's why. Let's see. Also, I think we kind of have the same questions on and off.
+
+Let me see. Yes, I am recording. Okay, let's get right to it.
+
+So, this is the list of questions I got. First one, did we ever get who our debts were paid to and how much? How has since paid off and what's remaining, etc.?
+
+Yes, we have started paying Velo and all of our bills are up to date. We still have a balance of... I'm trying to count in my head.
+
+I want to say right over 16K or so. 17, maybe 18K. But we have started Velo's on payments.
+
+So, that's great. Next question. Has the team looked into other off ramps for the app?
+
+I know we have Transact coming, but could we look into having multiple or do we have an exclusive contract with Transact? Yes. So, the issue there is just the development time and cost to integrate it into the FJB app, to integrate another off ramp.
+
+That's kind of our biggest hurdle right now. So, that's where we're at. But Transact, their off ramp should be ready in the first quarter of this coming year, 2023.
+
+And we're hoping that Fireblocks can get us on sooner. I did get a new rep. We'll find out if this rep is going to get back to me quicker than the last one did.
+
+I'll find out definitely by the start of next week. So, I'll be able to update you on the Tuesday chat. Has the Ethereum app issue been fixed?
+
+If not, how many more days? I'm assuming this is in reference to the Smart Wallet. The Smart Wallet is being tested as we speak.
+
+And we're getting testers from the community added on. And they will be starting this weekend, depending on Velo's schedule. As soon as the testing goes well, we'll start slowly moving people over, which will be super exciting, I think.
+
+Velo's list, which has not been discussed properly for over a month now, and must-haves with estimated hours to complete each task. Can we have an update on these must-have tasks? Yes, absolutely.
+
+I have touched on this before. That list has since changed, since we've had some events come to light and the missing funds and all of that. So, I want to be clear that that list has changed.
+
+And we have moved the Ethereum gas issue as the number one must-have. And then our FGB gift cards. But I can definitely get a list together for some of the smaller issues and bugs for the app for you.
+
+I can do that by the next call, probably. As long as Velo's time allows. Somebody else says you have said that you will get Velo on a voice chat.
+
+When will that occur? Yes, we've gotten Velo before. I think it's been, gosh, probably more than a few weeks now.
+
+Lately, it's just prioritizing between do we want to use him to help develop the app or do we want him on a voice. So that's really the only reason we haven't had him on. I do realize it's been more than a few weeks since he's been on voice.
+
+So we can definitely try for that. Just kind of going for priorities. Let's see.
+
+I think that's all the questions I had. I've gotten a few, well, several DMs this week regarding are Boris and Bannon still on? Apparently, there's rumors about me taking over the project as far as ownership.
+
+That is absolutely 100% false. I've probably not text Boris ever as much as I have this week. I'm actually pretty sure on that.
+
+I can say I'm sure on that without even counting. We will have him on voice or at least recording as soon as we possibly can. He wants to make sure that everything legally is good before he comes on voice.
+
+But B&B are in no way, shape, or form walking away from the project. If that was the case, I probably wouldn't be here. And I am in no way taking over the ownership of the project.
+
+This is absolutely false and not true. I got some questions of are Bannon and Boris kind of trying to distance themselves or walk away from the project due to these legal issues and the missing funds? And no, this is, again, you guys got to realize this stuff happens all the time.
+
+I'm sure this is not the first time and not the last time Boris or Bannon deal with any missing funds or anything like that in their projects. So, yeah, I think that kind of sums it up. I understand why you feel that way, absolutely.
+
+But, and I know how hard it is to trust what I'm saying. But I am literally telling you there is nobody, there are no other group chats outside of all the group chats that I have with Boris. And there's nobody else acting as messenger between us or anything like that.
+
+So although I know and I completely understand why it would be hard to trust anything that I'm saying. Again, this has been me directly and just directly with Boris and Boris' team and everybody working on this. But they are here to stay.
+
+They realize that all of crypto is down right now. And they just, I would say, they just don't understand, you know, there's a little bit disconnect of the whole community-wise, which we're trying to drip, excuse me, bridge that gap between the community and BNB. So they realize how bad you all want the voices and how bad you all want to hear from them.
+
+But we are trying to make that happen very, very soon. I told Boris this week how much you guys all love him and just want to hear from him and want to make sure that he's still there and he's not walking away. And like I said, we'll get him on.
+
+He obviously has been very, very busy with the midterms. That's an understatement. But again, he will, you know, he just, to them, it's like, well, crypto is down right now, so what's the rush on it?
+
+But please don't think they are walking away from the project or distancing themselves from the project because of the missing funds. That is absolutely not true. Boris is absolutely fired up and ready to take all avenues to recover our missing funds.
+
+Sorry, that's my washer. My office is like right by my laundry room. So I think that covers that.
+
+I'm trying to answer. I feel like most of the week that's kind of the questions or just of the questions I got. Trader Swan says it's Sarah paying FJB invoices out of her own personal funds.
+
+Again, like I said in the last voice, which I knew that some of that got taken out of context. It was just I am paying them through my card because our bank account and our other accounts like Coinbase, we've had a really difficult time getting access to. So that's the only reason that it's being paid from my personal bank account.
+
+And then I'll get reimbursed. So please understand that we do have funds in the marketing wallet. And that'll be taken care of as far.
+
+Actually, that brings me to another point with our smart wallet. So we did get excuse me, our FJB cards, not our smart wallet, our smart wallet. While we're on that, we're community members are starting testing this weekend.
+
+If Velo's schedule allows, this will be great. We're getting all the emails right now to set all the community members up so we can make sure that's all good. As far as the FJB gift cards, we also got a quote for that.
+
+It's looking to be a general quote. We're still working out the details, but it should be around. So still maybe a little bit more than this, depending on the details we're working out.
+
+But it should be around four thousand dollars. Two thousand dollars will be due at the start and then give or take a week to twelve days. So seven, roughly seven to twelve days.
+
+And again, this is going to depend on developers and what we decide on, you know, the absolute details and you know how that goes. Bugs and what have you that come up. But after that, seven or twelve days is up and it's completed and one hundred percent running on the app.
+
+Another two thousand dollars will be due. It's an absolute bummer because this is you know, we've had plenty of funds come in. We shouldn't have a problem paying that.
+
+We do have those funds in the marketing wallet. We do not want to sell. We don't want to bring the charts down lower than they already are.
+
+So we are trying to raise some funds through the merch store. It would really help us out if you guys share that. I know everybody's looking for Christmas gifts.
+
+I'll be adding more items and graphics to the store this weekend to more FJB rather than just FJB coin stuff. That'll make for great Christmas gifts. So we're hoping that helps, too.
+
+And then we'll try to do some other contest or over the counter sales to straight from the marketing wallet in case anybody wants to buy that way. Save on taxes and help us out again. I know that's very unfortunate considering how much money we've had come in.
+
+But this is kind of the hand we're dealt and we're doing the best we can with it. The quicker we can get the FJB gift cards and the quicker we can get the FJB smart wallet running, the quicker we can work on volume. Whether that's grassroots and in person or online shills or what have you until we can get on war room and big projects like that.
+
+If you know anybody that has a good following and would like to shill partner up with us with the merch, we're happy to do some sort of discount code where their followers can enter their name Elon Musk and they earn a percentage of that. So feel free to tag me or DM me if you know anybody with a larger following and we'll be working on that, too. Let me see.
+
+What other questions? When did Grant stop paying you an FJB? Are you referring to what I got paid for social media?
+
+He says yes. I will have to check. I believe the last time I was paid was in July or August.
+
+Don't quote me on that. But that is the last time I got paid and I have always been paid by Grant. Is war room a guarantee?
+
+Yeah, absolutely. I would say so and to my knowledge, 100%. Just with the crypto market down right now and our app not 100% ready and the off ramp, there's a lot of other factors right there.
+
+But yes, absolutely. Bannon still has the FJBCoin.org in his bio. We're going to try to get him some swag to sign and send back to us.
+
+We can auction that off. I think that'll be really exciting. And then we also sent Boris a new banner for his website.
+
+I know I've gotten a few DMs regarding his FJB banner. If you scroll to the bottom of his website, on the right side is an older one with XT. So they asked for a new banner, sent them one, they wanted to edit it.
+
+We edited it and got it sent right back. So we're hoping that that's up very soon and updated the banner for them. That just tells people to download our app instead of the XT, which has been a long time.
+
+Sam Bankman. Okay, awesome.
+
+[Speaker 3]
+I'm going to write that down so I don't lose it here. Stu Peters.
+
+[Speaker 1]
+Cool. Anybody know where we can find two guys who have millions to cover expenses for the project? Lauren says three pens for Bannon.
+
+Ooh, that's actually a good idea. I'm going to write that. We're also going to send Grace some stuff.
+
+Hopefully she can add to her lives. That would be nice. All right.
+
+Let me see. Any other questions? It's kind of nice.
+
+My husband's still at work. He had a holiday work party or something. I was like, yes, I'm going to have a single night.
+
+He gets so upset when I say that. It's not single. It's called an alone night.
+
+Nope, single night. Enjoy my drink. How many apps downloaded?
+
+I will get a total for you. Last time I checked with VES was around 10,000. And they said there was about 20 to 50 downloads a day.
+
+Lauren says, considering we have Christmas March, any chance of some marketing before the holidays? You mean as far as War Room? Or as far as War Room, I honestly don't think so.
+
+Before the holidays, I think that's really, really pushing it. Somebody told me that War Room was coming out with their own merch, but I haven't confirmed that. How is the coin buyback and burn going or has it started?
+
+No, we have not started the burn. We will be announcing the new tax structure before the end of the year. I think that'll be huge in itself.
+
+Get Ryan F to autograph merch. Yes, absolutely. He's on the list too.
+
+He's a super, super nice guy. If he'd be willing to do that, that would be amazing. The only thing is a lot of these guys already have other contracts.
+
+So sometimes they have another contract that prevents them. From doing anything else. For example, if they have a merch contract, they might be unable to join someone else.
+
+So yeah, that's what Flute said too. But we can always try. It doesn't hurt.
+
+Unless they have an exclusivity clause or something like that. By the way, have you guys been following Elon Musk? I stopped when I started the call, but it's been amazing.
+
+[Speaker 3]
+I gotta reload the page to see if they updated. Oh, they have. They're still updating.
+
+[Speaker 1]
+Oh my gosh, I've missed like 10 points. I've missed like 10 tweets because they're numbering him. He's on 36 now.
+
+When FJB CBD oil. Oh, you know what's funny about that? Actually, that would be amazing.
+
+When COVID closed my restaurant down, I was already in the works of starting a CBD business. But then the restaurant, they shut us down here. So we weren't allowed to have customers in real life.
+
+So it was to go only. And where we were, we were in a lunch heavy area. So it was all the employees in the area, which now all worked from home.
+
+And we had like a hospital, the busiest hospital in the state. With walking distance and 75% of the workers at the hospital got laid off. So it really hit us hard for being a lunch place, you know, with just the employees.
+
+And everybody was working from home or laid off. So we had to do like deliveries just to try to stay up and running for several months, actually, until it wasn't working anymore. And after that, I just kind of shut that off after shutting the restaurant.
+
+I was super heartbroken about that. So the CBD thing fell through, but I still have all the contacts. I think that would be a great idea.
+
+My dogs use it and it helps them a ton. Will the new tax info be in the white paper? So new white paper out before the end of the year.
+
+The tax structure, the goal is to get that out before the end of the year. The white paper, I'm not sure that will be out by the end of the year. Because there is a lot of things we're deciding whether to keep the same or change.
+
+Feel free to send me any suggestions though. Any input. FJB oil slicker than Joe and Wynn Stockwitz collaborated shill to Kale Swig.
+
+Oh boy, I'm still salty. I know. What does it take to get him banned?
+
+Does he help though? It might. I mean, all his comments might actually help us trend.
+
+Coin holder says I'm just spit long ideas. No, I really think CBD oil is, I think it's the future. I think a lot of people, you have to use it though.
+
+And you have to use a quality kind. I think, I don't remember the numbers now, but it was pretty high percentage are really not that great. But the real CBD quality CBD oil works for a ton of things.
+
+Attempts to clean up buying history in app. Yes. There are, there's a lot of information that needs to be added on the transaction info part of the app.
+
+Absolutely. That's why we have more devs coming on to help with that. How is the website makeover coming along?
+
+Awesome. Last update I got was that the contact us area was getting a revamp because as most of you know, Eric Finman had paid for the previous list that was included for his other businesses. So that list went with him.
+
+So we're getting a new one incorporated in there. I believe that was yesterday, but it's, I think you'll be very happy with it. It looks so slick and so cool.
+
+And the reason, as far as the transaction info for the app, of course we could do that now, but I feel like it would be better to get those gift cards and the smart wallet started first to, cause that's going to help us bring in funds once Trump starts his rallies again. I'm sure once the new year starts and all that, you know, all kinds of concerts and all these events to be at. I think those are two really, really, really important things.
+
+And that way, while we're helping build up funds again, then we can work on the rest of the app. I do want to clarify on the white paper. I'm not saying that it's not for sure going to be done by the end of the year.
+
+We've had many volunteers come up to help write. I just don't want to completely promise that. I think at this point we can even release a, like to the community, an idea of what we have, an outline, anything like that.
+
+One FJB partner would take a ticket master. Yeah, that would be amazing. I think selling crypto gift cards for fiat is pretty cool.
+
+Much more user friendly for boomers. Yeah, I think it'll be amazing. Especially, I mean, if you're, think about it.
+
+Well, I don't know where everybody lives, but at least in Phoenix, we have a ton of events here that the majority of people there would be conservatives. If you have a table there, I mean, people are spending, you know, 15 bucks on a beer at these events. So if you sell gift cards for 25 or 50 bucks, there you go.
+
+I feel like people would really buy it just because it's FJB. You know, if like, if nothing else. Any chance we can sell the gift cards online, like in the merch store?
+
+Yes, absolutely. Those are some of the details being discussed, even if it needs to be through Shopify still, and be like, oh, you purchase this, you know, T-shirt and you get a free gift card where you purchase the T-shirt for 50 bucks, but you're going to get the T-shirt and a $25 gift card. Absolutely.
+
+New roadmap. Good. Yeah, the roadmap, I think, should be out before the end of the year.
+
+I think that'll be ready before the white paper does take a lot less writing. You mentioned there was someone we may all know you were in discussion with. What's the latest there?
+
+He did move up or yeah, up that meet. I guess not up. He moved that meeting to next week.
+
+So we did not get to meet this week, unfortunately. But I am still very excited about that. We had another meeting that went very well and we got the paperwork for everything.
+
+We should be discussing that this weekend. I'll be expecting a call from him either Saturday or Sunday. Haven't decided on that yet, but I told him I was available both days.
+
+Getting back to Lauren mentioning the pens. Can we find out the brand of pens Steve uses and see if a vendor would inscribe the FJB coin War Room logo on them and sell them as a three pack in the store? Yes, absolutely.
+
+I know how that is because I am very particular about my pens. It's ridiculous.
+
+[Speaker 3]
+About on there. Add that to my list. We can definitely do that.
+
+[Speaker 1]
+Flag shirt company on site to accept FJB. Yeah, you mean the FJB shirts? From the merch store?
+
+Because we'll be selling those at the booths too. FJB annual calendar. I actually thought about that, but I wish we had like a...
+
+I thought about doing an FJB calendar because I figured it would be perfect timing. I just couldn't decide on like what 12 photos we would decide on for the 12 months. Yeah, that's exactly what I thought about Flute.
+
+I was like, well, if we had more of those, if we had more selfies like that, I think that would be pretty funny. We'd have Weg sign them too. Mug shots.
+
+Two of Weg's mug shots and then his tattoo. I think there's a tax note on transfers. Will that go away soon?
+
+I know that was eventually the plan. The issue with doing it right now is the downside of that is you don't want everybody to start selling and buying over the counter. And then we're out those funds.
+
+But I believe that is the ultimate goal, especially once businesses start using and accepting FJB. FJB can holders. Yeah, we already have those in the store.
+
+We have the Koozies and like the harder ones that are kind of like the, what are they? The Swells and can't think of the other company. FJB Golf Balls.
+
+We have those too. Have you talked to any businesses? A few of the members here, the holders who have businesses have reached out to us.
+
+We have reached out to a few businesses, but not heard back yet. This week, I have been getting in touch with Bannon's people to try to give us some of their contacts, also to help us with events. Flag shirt company sells the US flag shirts.
+
+Are we negotiating for them? Oh, no, that's news to me. I will.
+
+Are we negotiating for them to accept FJB Patriot coin? Sorry, sometimes I forget to finish the question, but I know when people listen, then they ask and then I have no clue. Thank you.
+
+I'll definitely added that to my list. The army green jacket Bannon always wears would look fire with FJB on it.
+
+[Speaker 4]
+He does look nice. I love old men, though. They're so cute.
+
+[Speaker 1]
+Will you sell tents for the FJB homeless? What are the FJB homeless? Costco has cheap tents.
+
+Those are like the pop-up ones. I've never used those because I haven't needed a new tent and I don't do camping, but I've heard they're pretty cool.
+
+[Speaker 3]
+I'll wait for that answer because I'm not sure what the FJB homeless is.
+
+[Speaker 1]
+I think I have an idea, but I don't want to assume. This drink I have is supposed to be a watermelon. I don't really like watermelon-flavored stuff, to be honest, but it came in a pack.
+
+It doesn't really taste like anything. Covering Twitter files. Are they still going?
+
+Oh my gosh, I'm going to have so much to catch up on. Are you guys following that? Let's see, what number are they on?
+
+Oh, 36. So it seems like 36 is where he ended. So I'll have like 10, I think like 10 or 12 to catch up on.
+
+Those were nice. They included screenshots. That'd be really nice.
+
+Nice investigation. That's like the fun stuff. I don't watch much TV, but documentaries and crime documentaries, I'm very much into that.
+
+Oh, so the FJB homeless are the ones that over-invested. Aw, no. Not selling tents, but we are adding the FJB gift cards and the FJB smart wallet and starting to do grassroots marketing, which will be amazing.
+
+It's heartbreaking because I know this is stuff we would have done a long time ago, and imagine if we had all this going and the merch going with the momentum we had. Because I understand, psychologically, everybody or most everybody is down. That's a part of investing.
+
+I'm not sure if any of you are into the greed and fear index. It's like greed and fear, fear and, here, let me look it up. Or fear and greed index.
+
+But, you know, it's a real thing. And you always, the right time to buy is what this fear and greed, yeah, fear and greed, I had it backwards. And what it says is that when everybody is afraid to buy and price is low is ideally when you should be buying.
+
+And when greed is high and price is high and everybody is loading up because they have great feelings is when you should be selling. So I understand that's a part of the emotions that comes with investing and buying crypto and money and all of that with stocks and crypto. But I think we are definitely working in the right directions.
+
+Our funds are 100% safe. And I think it'll be great. Are we going to put the black SKB shirt for Patriot Auction for Christmas and we donate the proceeds?
+
+Are you talking? Oh, just the one he's wearing? Heath says, did you talk about the merch competition?
+
+No, thank you. If you didn't see the announcement in Discord and Telegram, we have a merch competition. Everybody who already bought merch will automatically be entered.
+
+You don't have to purchase. So with a no purchase necessary option, all you have to do is shill the FJB merch with the link that I've included in the announcements and you'll get an entry that way. Just go ahead and email or DM me the proof.
+
+You can also, with a $50 purchase from the merch store, go ahead and send me that and you'll be entered that way. Then you can enter another five times on social media. Just sharing that with your friends, if you have a private one, a public one, anything like that.
+
+Winner will get one million FJB, so give or take, I think it's about $130 right now. I understand that's not a ton, but hey, I think at all time highs, that was huge. Also, to spend $50 or even just post that on your social media and be entered to win $130 is not a bad deal, I think.
+
+We'll definitely start doing more of these. I think we'll do a buy competition too after this one is over. Yes, time to buy and build is in bear market.
+
+So if Boris says, oh well, we're in bear market, doesn't sit well, should be pushing for us. Yes, Boris is definitely work. We will try to have him on voice very, very soon and he will share everything he is allowed to share legally.
+
+But he is 100% pushing for us. They just, again, just know that crypto is down. He's by no means, you know, by no means walking away, by no means brushing anything under the rug or anything like that.
+
+Not at all, that is not Boris's personality whatsoever. Without stepping on Steve's toes, do you think Mike Lindell would give us our own FJB promo code to help fund our marketing? Yes, we're actually in the middle of applying for that right now.
+
+I think that would be very, very cool. Is Ryan Fournier still with us? He's promoting FJB merch for other companies.
+
+Yes, he is still with us. Somebody else just said he's promoting FJB merch, so we can ask him. He might have, you know, some kind of clause where he's not allowed to promote anybody else, but we'll sure try.
+
+He's a super, super helpful, nice guy. So I have no doubt that if he is able to, that he would help us. Somebody's saying, how about a lock of Bannon's hair?
+
+A little creepy. Have they shared their vision for the project? Yes, I believe they have.
+
+I don't think that has changed as far as them making this the local currency. And I forget what they wanted it to be, a top, I want to say top 50 coin if I'm remembering correctly. But none of that has changed whatsoever.
+
+What do you mean legal things before Boris can speak? I think just making sure or reviewing what is he legally and allowed to say and not allowed to say. Just with especially discussing our missing funds, I believe.
+
+That is, that's my opinion. FJB hardware wallet. Yeah, I've actually gotten that idea before.
+
+I think that would be super cool. Somebody says, why stop, Bob says, why stop at 50 top 10 or bust? I don't think we'd have a problem with that, with this way the country is going and the political climate.
+
+I don't think we'd have a problem at all. How many again, I mean, imagine if like you, any event, I feel like people would buy, you know, 25, 50 bucks, just, even if it were just something that said FJB on it, let alone just the novelty of it. And I really, really do believe that.
+
+And that won't take many people to buy that at $25, $50 a pop. And I think that's why the gift card idea is so, so important and high priority. Along with the smart wallet.
+
+Because again, please remember how big of an issue we had. People come in all the time saying, I got transaction failed. What's going on?
+
+How many events have you applied to? Ooh, I'd have to count, to be honest with you. I don't have a number off the top of my head.
+
+Also, could we incorporate our products into my Glendale's and my store to get even more exposure and potentially use the platform to eliminate our Shopify fees? Not sure if my Glendale has fees to belong to his store. I'm not sure.
+
+I assume he does. I mean, it's a business. We haven't reached out to them, but I will add this to the list.
+
+We did reach out to, let me find it. And actually, they haven't responded to me yet. It's like a conservative, they're trying to be a conservative Amazon, so to say.
+
+And let me see if I can find, yeah, I think I emailed them. Trying to figure out if I emailed them or if it was a form on their website. But let me look at the emails.
+
+I'm pretty sure I emailed them. I'm trying to find the company's name. It was from a member's suggestion too, so I'm not sure if you guys heard of it.
+
+I honestly never heard of it before this. Okay, so it's called Noble US. I'm assuming that's, so N-O, like Nancy, O-B-L-E, Noble US, like unitedstates.com.
+
+So I'm not sure if anybody's familiar with this. Looks like an email from seven days ago and I still haven't heard from anyone. I know a lot of people are still catching up from Thanksgiving, but I feel like now it's kind of been a week, so hopefully, let's see.
+
+Yeah, still haven't gotten anything back from them. I could send a follow-up email and see what we get from them. Do we have any events locked in yet?
+
+We do not. Nope. It's crazy, so many of these events you have to apply months ahead of time and then they don't let you know till like a month to two months beforehand.
+
+Sarah's smarter than all of us. Nope, hardly. Everything I'm saying is everything that's sent to me from all of you.
+
+So these are like not my ideas, these are all of your ideas and I just know how to go into my inbox and search it and look at who contacted me with the idea. But I wish I could take credit. Somebody also mentioned coffee earlier this week and I've actually been looking at like a good organic private label coffee.
+
+There used to be somebody in here that came with Finman. I think he was, I'm trying to forget, I forget where his location was, but I was trying to find his screen name because I'm pretty sure it had coffee in his screen name, but I couldn't find it. If anybody remembers who that is, let me know.
+
+When will we sell FJB Franks? Never. I never want to hear that word ever and I never want to have a Frank ever again, like ever.
+
+We have FJB socks, crock. What the heck? This tells me you haven't even looked at the merch store and I'm kind of hurt by that.
+
+[Speaker 3]
+My coffee and my pillow. I do have a ton of my pillows at my house.
+
+[Speaker 1]
+Ooh, that would be great. He says maybe we could put my store on our app and my store put ours on theirs. That would be a dream.
+
+That's kind of the thing with startup. It's the first few companies that really give you that chance and take the chance on you like VES has. Then it just snowballs from there because the next company, once they see that so-and-so gave you a chance, then it's a big deal.
+
+Then they want to add you and so on. No one has ever reached out to Mike Lindell's My Store. If I have, I don't remember.
+
+I'd have to check the emails. At least not recently. Friendly Links.
+
+Thank you, Golden Rock. Friendly Links on our new website. Yes, I believe Dog is doing a great job.
+
+I think you guys will be amazed at how everything looks and how smooth everything looks. It's so crazy how you change a few things and it just looks so slick. It looks like a completely different site.
+
+It reminds me of paint and flooring in a house. I don't know if you guys have seen. Social Media is fired all back up.
+
+Looks great. Under Shill Links, you can like, comment, and share those. We have two amazing people on social media now, so it's been huge.
+
+It's going to be amazing. Grace got Bannon to call her on Get Her Live, and he said he wanted to drop in like that more often. Maybe when she gets, wears that merch, she can get him on and we can all tune in and show him some love.
+
+Yes, absolutely. That would be amazing.
+
+[Speaker 2]
+Kind of embarrassing, but announcements are spelled wrong on the store site. Are you talking about Shopify? Let me see, to be honest, that was a pre-built store.
+
+Let me check. I didn't even know there was announcements, unless I'm thinking.
+
+[Speaker 4]
+Okay, let me see.
+
+[Speaker 2]
+Where do you see announcements?
+
+[Speaker 1]
+I see Freedom Drops, Business, Home, Contact, and Merch. Ah, I see it. I actually can change that.
+
+I know I'm the queen of typos, but I promise that was not us.
+
+[Speaker 2]
+This store was pre-built a very long time ago. But, I can change that right now, as we speak.
+
+[Speaker 1]
+It was kind of nice though, having that pre-built, because everything was done as far as logos and the Welcome Patriots, and all I had to do was delete the old items and add the new ones, which was really, really helpful. So I am thankful for that. But let's change it while we're sitting here.
+
+One order to fill. Ooh, we got a new order! Let's fill that order.
+
+That's exciting! Thank you, whoever that was. How exciting.
+
+A hoodie, a trucker hat, and a short-sleeved tee. Very exciting, thank you. That's like a few entries right there.
+
+Let me go to make sure that went through on Printify. See, I went in to change the announcements, and now it took me something completely different, because I want to make sure your orders are sent to production. Awesome.
+
+[Speaker 2]
+That order is already out. Oh, somebody just made that too. Cool.
+
+Now let's go back to changing the store. The announcements that... Ooh, what's that?
+
+Diesel. Aww, those puppies are being stretched. Let's see, what else?
+
+Trying to think of what other updates we have.
+
+[Speaker 1]
+Right now, getting testers onboarded. We're really excited for that, and I think we got, between Telegram and Discord, I think we got all the testers we wanted. So if everybody that DM'd me goes through with it, then I won't need any more, but if I do, I'll definitely let you guys know.
+
+Super excited. And we're shooting for Boris to get on a voice or recording very, very soon. I was trying to make it happen this week, and we scheduled it for this week, but due to some legalities, it had to be moved.
+
+So I know I don't want to give a date until it's set in stone, because schedules and everything, and little details change all the time. And I know how awful we've been at dates. So I'm not trying to be secretive with you.
+
+I just don't want to promise anything if something ends up changing. As far as my time, everybody on the team knows I am very, very, very flexible. So I think the only time I've been available is if we're driving up north.
+
+We'll usually drive through the mountains, so it'll be very spotty. But other than that, I'm pretty much here. Tots.
+
+I don't know who that is, by the way. Who are you? You have to be somebody old.
+
+An old member. How flexible. My time is very flexible.
+
+No kids. My husband works a ton, too. It's amazing.
+
+I do get bothered when he works from home, though. Like, this is my space. It's like, I'm not even in the same room as you.
+
+I'm like, yeah. But still, it's my space. Go drive to your office.
+
+I don't know if I believe you, Tater Tot. You seem a little too outgoing to be new. And yeah, I did see you just joined.
+
+That's why I asked who you really were. Lauren says, is Hubby involved in the chats or anything at all? I'm pretty sure.
+
+I'm pretty sure I've given him the... I know for sure he's on Telegram, but I don't know if he has a Discord. I know I've given him the link.
+
+So I'm not sure if he's on it. But he's not, like... He doesn't get the whole...
+
+He says, I don't get you internet people. Because when my restaurant closed is when I started day trading, and like, full time. And so then I started spending a lot of time on the computer.
+
+But he was still working. They just sent them home, so he'd still be like in meetings all day and stuff like that. So yeah, he doesn't understand it.
+
+[Speaker 2]
+And he doesn't understand like the crypto and everything. It's nice. Gives me my...
+
+me time.
+
+[Speaker 1]
+What kind of restaurant did you have? I had like a Mediterranean Chipotle, Chipotle style, where they like stand in a line and build their own. Build their own like pita, or salad, or plate.
+
+It's very sad. I put everything into that and we were open for like a year before COVID hit. And then stayed open for another gosh, I want to say like six months.
+
+We tried really hard to stay open but our landlord wasn't budging and our rent was almost like 5k because we were in a pretty hot lunch area. And it was... crap.
+
+Finally, finally over that though.
+
+[Speaker 2]
+Though it might not sound like it. Took me a long time to get over that heartbreak. Do I have an FJV tat?
+
+No. Does Tater tot? Weg does.
+
+I'm not Weg.
+
+[Speaker 1]
+Weg's too cool. I'll see you over the next few weeks. Awesome, I like that.
+
+The testing with the smart wallet should be live in the next few days. Again, the volunteers seem like everybody's ready and everybody who has come up to test it is a regular. So I have no doubt in that.
+
+So that'll just be depending on Velo's time. So testing will for sure be taking place. Our FJV gift cards.
+
+So right now we need to make the first payment to get started. So I'm thinking it would be smart to get that paid and get started and take that leap and figure out how in 7 to 12 days we can pay the other 2k without selling from the marketing wallet and tanking the charts. Because at this rate, say it would take the full 12 days.
+
+Or say that even it goes over the time estimate and it takes 15 days because we've learned that happens a lot with dev stuff and really just everything in general. You're depending on many different components. So say 15 days, that still puts us at December 17th.
+
+So I think I'm personally thinking that would be a great idea to pay that 2k to get started. And then that still puts us at the 17th where that's still what a week little bit less than a week before Christmas. And I think a ton of people that wait that long a lot of those people end up getting gift cards, which I think people would still buy.
+
+I'm not sure. I don't know how many people in here would at least buy like a gift card. So that's something getting the FJV wallet gift cards in the next few weeks and everything else.
+
+We're still in talks with everybody else. So that kind of just really depends on everybody that we're discussing different proposals with. Aim Fest.
+
+Do we have anybody in Phoenix? Yes, me. We are trying very, very hard to get a booth at that.
+
+I'm not sure. Honestly, if it's just too. I don't know if it's just too late, but I've tried sending several emails and then we've gone to war rooms team to see who may have an in with us.
+
+And our next guy to contact will be Ryan to see if he has any connections. But I'm really afraid that it's a bit too late. Worse comes to worse.
+
+We also applied to to am fest for the media passes. So worse comes to worse. We can still get the media if we get the media passes, because those usually will come back last minute, at least for I've never gone to an TPUSA event.
+
+But I know other conservative events we have here. Usually you don't get the media pass until like a few days at the soonest before the I don't know if they do that for security reasons or what. And if that's and if this is how they do it everywhere else.
+
+But this is how everyone I've been to in Phoenix at least and actually other even other cities outside of Phoenix, but in Arizona. So all to say, I'm not sure if that's a standard thing or just here. But if we do get at least the media passes to TPUSA, that would be great because I can still get business cards and pamphlets to pass around.
+
+Which I think would still be pretty great.
+
+[Speaker 2]
+Oh, yeah, that's what Time to Build said too.
+
+[Speaker 1]
+Can Steve get us into AmFest? That's what we're working on. Yep.
+
+Is Chirac still working on board to get us on the streets too? Yes. Chirac just wanted a list of places he can go to and do and I believe a microphone too.
+
+And we're working on that. I know I told Chirac, I don't think I forgot about you. We just have a lot.
+
+Lots of catching up. We had a lot of cleaning up to do, a lot of catching up to do. What are we all doing here on a Friday night?
+
+Well, I have a single night. So and to be honest, before this, I was on Twitter following the Elon Musk thing, but I'm always on my computer. So I imagine you're not asking me.
+
+Can Boris voice or tweet us by the end of the week? He's not too busy to do that. You just have to have passion that I want to.
+
+I can guarantee you he definitely wants to. The only thing stopping him from a voice is the legal. He's getting time freed up now.
+
+It's almost like our FJB time slot where he works on all the FJB calls. So yes, absolutely. Even if I have him, just send me a text text.
+
+I can screenshot to you. Boris likes his privacy. So generally, those are not screenshots or screenshots I take of his texts, but I can even ask him, but I can promise you that he is not leaving the project by any means.
+
+I am not taking ownership of the project and the whole missing funds deal is definitely, definitely not having him walk away. I can tell you if anything, it's done. The only thing stopping opposite of that, the absolute opposite.
+
+He's working for DJT. I don't think you're wrong, but that's just my opinion.
+
+[Speaker 2]
+Tell him to just record himself saying, chill the fuck out and fuck Joe Biden.
+
+[Speaker 1]
+Oh yeah. I mean, you guys can. Right.
+
+Imagine if you went to Boris's website and sent him that in an email. Yeah. Yeah.
+
+[Speaker 2]
+Oh, I was supposed to have this up. I want to work.
+
+[Speaker 1]
+I want to fix the announcements before I forget. I added it to my list in case, but while I'm here, you guys are still typing questions.
+
+[Speaker 2]
+Let's see. Actually, I'm wondering where that goes to. I don't think that's a Finman's list.
+
+[Speaker 1]
+We have to double check on that. Are the devs working for FJB full time? No, they are not.
+
+Velo is back on a payment schedule. I think I mentioned that, so that's good. But no, we do not have a dev working for FJB full time right now.
+
+[Speaker 2]
+Yeah. Where is wag? I don't know.
+
+We should ask him. I'm sure his girlfriend would be okay with it. She seems like a very nice girl, although she doesn't like us because he spends too much time with us, I think.
+
+Let me see. Online store. Oh, there we go.
+
+Let's go to our pages. Oh, there's our contact page, I think. Nope, that's not it.
+
+Where is our announcement?
+
+[Speaker 1]
+I don't understand why we don't have them full time. We don't have our devs full time right now because we cannot afford it. That is the honest truth.
+
+I know that's not good, but that's exactly why we're trying to fix that gas issue and the gift card capabilities to help with bringing revenue in. So wag says he's already started an OnlyFans for his tattoo, his FJV tattoo. He's raising money, it sounds like.
+
+[Speaker 2]
+Sorry, I don't know what my dog is doing, if you hear him.
+
+[Speaker 3]
+Oh, there we go. Announcements.
+
+[Speaker 1]
+Now, you know when you are changing something that's spelled wrong and you're like, wait, now I don't even know how to spell announcements. Is that how to spell it?
+
+[Speaker 3]
+All right, let's save this.
+
+[Speaker 2]
+Okay, that should be uploaded. Let's see if it works. What if I have to delete my catch?
+
+[Speaker 1]
+Nope. Awesome, I'll update it on the store. Thank you for that.
+
+If you ever see anything like that, please let me know and I will either edit it or get it edited because I don't know anything or how to do anything on our FJV website. This is really, really easy so I can do it, but have the way smarter guys do the rest of it. Is there no way we can organize a business loan for FJV LLC?
+
+So it's twins LLC. But yes, I understand what you're saying. Don't mean to harp, though it doesn't make sense to drip feed the work on the app, which delays the whole project.
+
+Yes, absolutely. I agree. I hope our funds are recovered very quickly.
+
+It's more so taking advantage of all of crypto being way down and having that. And I don't want to say it's having that luxury because I understand where we're all at. And some of us are 95, you know, 95, 96% down.
+
+I understand that and seems like going lower by the day. But that is something we'll look into if everything we're doing right now doesn't bring results. But my opinion is there was a lot done to make sure.
+
+How do I want to say this? I think there's a lot that could be. I don't think it will take much for us to continue going in the right direction because of the political climate we're in.
+
+Because again, people just wanting, I feel like people would buy it just even as a novelty and to join the movement of FJB that everybody is saying right now. Businesses, you know, even people in the community with businesses already want to use it. But I think if that everything grassroots doesn't work until we're ready for a war room, then we can definitely start looking at other options.
+
+But I don't think you're harping. I understand why everybody feels the way they do. Just please keep in mind of what you're doing.
+
+Is it, you know, helping or hurting the project? That's all that I would like from you guys. Feel free to DM me.
+
+You know, I can take any of that. I understand why you feel that way. I'm also upset.
+
+But I get so upset and it's like this is not constructive. So all I'm going to do is keep, you know, doing what we can control. I've said that several times where I was like, oh, we got to laugh so we don't cry about everything we've gone through.
+
+Because it is, it is very sad. On top of all the money I've put in, I've put in a ton of time, a ton of time, heart and soul into this. And I know I'm preaching to the choir, but I mean, there are days when I was overseas and stranded that I literally slept a few hours a day.
+
+And I'd have to take like naps because I was on a completely different time schedule. So trust me, I understand. It's just not very constructive for us to, you know, just keep mad-mouthing the project or, you know, I think we can use that energy for a more positive...
+
+[Speaker 2]
+Yeah. Let me try this announcement.
+
+[Speaker 1]
+Well, yeah, I was like, at first I took the M and I was like, I think it's an extra M and I look at it and I'm like, that doesn't look right, you know, and everything just starts not looking right. But I'm pretty sure I spelled announcements correctly.
+
+[Speaker 2]
+I should go through the rest of it now and see if everything else is spelled correctly. Looks nice though. I think some of these things need to be moved.
+
+[Speaker 1]
+I tried to change some of the picture, like the can cooler sleeve so people can see that there's like a back to it and then it would be maybe more apt to go to the picture and look at the back. P, I'm not sure who P is, but I feel like it's somebody we have to know, says, thanks, understand the need for positivity. Thank you.
+
+I appreciate that and again, it's not for, I'm not asking you all to just be cheerleaders and blindly, you know, it's just that it's, you know, just hurts our wallet so let's focus on doing something more positive that helps all of us in our wallets and this is not denying anything bad has happened. This is not shoving anything bad under the rug. It will be dealt with, I promise you that and I think it'll be awesome once we can update everybody on that and Bannon and Boris have, as soon as they heard about any wrongdoing, they have taken action.
+
+I know I've seen a few people say, oh, we've, you know, got all these missing funds and they don't even care. No, they have, they have literally started as soon as they learned of any wrongdoing, missing funds, they have been on it and I'm sure you'll be updated on that. Whatever happened to the guy that was making FJB Snapchat filters and games?
+
+I think that was Apple, right? Let me see if he's still in here.
+
+[Speaker 2]
+No? When I type in Apple, it's Apple in pairs that comes up. Yeah, it was Apple.
+
+Pretty sure it was Apple, was his name. Mmm, don't think it's Apple123. I know last, it's been a while since I spoke to him but I know last time I spoke to him he just said he's kind of been laying low.
+
+Let me see. Do I have him? No, that's not him.
+
+Hmm. I'm trying to search my inbox to see if I can find him but yeah, it's been a while since I've seen him.
+
+[Speaker 1]
+Diesel says, trust the damn plan. I mean, we know there is one now. Hmm.
+
+No, it's not apples and pears though because that's like, that's a newer person or somebody's alt or something. Hmm.
+
+[Speaker 2]
+hmm, hmm. What else? What other ideas?
+
+Oh, we're, oh, I told you guys about the merch percentage in case there's anybody out there. I think, I mean, there's some people already selling FJB merch but I think especially if we add some pretty cool pieces. Hmm, hmm.
+
+What else? My emails have been pretty slow today. Yeah, I don't have any emails.
+
+I think that's everything. Let's see if there's any questions. Awesome.
+
+[Speaker 1]
+So, to wrap up, we're, or summarize, we're going to start the testing with the community for the smart wallet this weekend. I'm getting everybody onboarded tonight. I think most everybody has sent me their info.
+
+Then we'll hopefully get a closer estimate. I know we got the $4,000 on the FJB gift cards, but that is not set in stone because we are waiting for a few questions to be answered, little details, technicalities there. And then I should have a meeting either tomorrow or Sunday with a potential partner that will help us with staking.
+
+So we'll see how that goes.
+
+[Speaker 2]
+And then you guys gave me some to-dos. So we'll reach out. We have the, let's see, we have a few people to reach out for the merch who might be interested in promoting that.
+
+[Speaker 1]
+We have Steve's Pens, the Flagshirt Company, Lindell's Store, and I think that's it as far as that goes.
+
+[Speaker 2]
+FJB Christmas Cookie Bake Sale.
+
+[Speaker 1]
+Actually, I'm not a huge cookie person. Like, I don't make the greatest cookies, I'll be honest.
+
+[Speaker 2]
+But I do make some amazing baklava, so I'd be down to making those and donating them for FJB funds for the marketing wallet. If anybody wants them, send me your address, I'll make some for you. No need for FJB donations though.
+
+Alright, is that everything? Any other questions before I hop off?
+
+[Speaker 1]
+Remember the merch contest is going on. You don't need to purchase anything. If you want to just share our merch, you can go ahead and send me that.
+
+And that'll count for one entry. If you do want to buy some stuff from the merch store, and do a, you know, two birds, one stone, or what is it?
+
+[Speaker 2]
+Yeah, two birds, wait. What is it? Two birds, one stone?
+
+Then please do that.
+
+[Speaker 1]
+That'll be really cool. There's all kinds of stuff on there, so even if it's wrapping paper, if you know somebody that despises Biden, which is probably most everybody you know, even if it's just some wrapping paper to help with that, anything will help. We'll do a FJB buy contest.
+
+I think that'll be awesome too. Maybe do another one or two million winner. And maybe we'll do some, I don't know, would anybody buy some over the counter from Marketing Wallet with zero tax?
+
+If those were funds that were going to fund the FJB gift card development. I'm not sure if many people would be interested. I know it was, the idea was brought on by a member, or actually two different members.
+
+And so I figured, well, maybe we can always try it.
+
+[Speaker 2]
+I don't, you know, we have nothing to lose, but if you guys aren't interested in doing it then, Moku says yes.
+
+[Speaker 1]
+Diesel said you're probably a poison mine. What kind of person do you think I am?
+
+[Speaker 2]
+Maybe we'll try that again. If, you know, if anybody's up to buying any over the counter coins, they're welcome to.
+
+[Speaker 1]
+We have, you know, we've been selling very, very slowly from the Marketing Wallet to pay for bills.
+
+[Speaker 2]
+So any update on the Elon Musk thing? Where did they stop? Let's see, I have to refresh this.
+
+It's getting really good. Oh, there's more. Oh, I'm going to have a lot to catch up on.
+
+[Speaker 1]
+Awesome, cool. Well, I think that's everything. I don't see any more questions.
+
+So thank you all for joining me on a Friday night. I will keep you updated. Again, I will try to get Boris in here as soon as possible.
+
+We were getting him in at the end of this week and that changed due to some legal stuff. So I will let you know as soon as that's scheduled. And this time we'll see.
+
+Hopefully it's more set in stone and hopefully everything else he was wrapping up is done so that he's okay to come on. I will definitely let him know that you all miss him and want to hear from him. All right.
+
+[Speaker 2]
+I will see you guys in chat. Have a wonderful night.

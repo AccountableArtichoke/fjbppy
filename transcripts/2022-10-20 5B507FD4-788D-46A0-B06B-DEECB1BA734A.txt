@@ -1,0 +1,297 @@
+[Speaker 4]
+Hello, Vilo, are you on? Yes, I'm here.
+
+[Speaker 3]
+Awesome.
+
+[Speaker 2]
+Thank you for joining us. Yeah, my pleasure.
+
+[Speaker 1]
+Perfect. I didn't tell anybody, so it's a nice little surprise. We really appreciate it.
+
+I sent over a few questions for you, and then I'm sure everybody can type in some questions in the chat if you have some time to answer those. I know you have another call in less than 15 minutes, so we'll try to make it quick for you. So hopefully you could do these more often with us.
+
+[Speaker 2]
+Sure. Yeah, do you want me to address the questions that I've got right now in front of me?
+
+[Speaker 3]
+Sure, go ahead.
+
+[Speaker 2]
+Yeah, I guess get right into it, right? So let's see. First question, I see, how updates are pushed to the app?
+
+Is the app basically a web browser where updates are in real time, not requiring Apple approval? Right, so we're using a wrapper. So basically, the wrapper is an Apple-approved thing, but the wrapper loads basically the web app, and that doesn't need approval.
+
+I think as long as the app doesn't have any fundamental changes as far as how users have a login, some really basic things like that, that Apple pays attention to, I think there's no need for approval. So far, like every time there's an update to the logic in the app, it's just a simple push to basically a web server, and then the app knows how to load that web server. That's the same thing that you would see if you were to bring up the website in a non-mobile phone browser context.
+
+You'd get the same experience. So yeah, so far, no, we don't need to wait for Apple approval, but who knows? I can't really speak for Apple as far as the future.
+
+[Speaker 3]
+Awesome.
+
+[Speaker 2]
+So let's see. Next question here is, would contract need to be modified for wallet-to-wallet transfer tax to be cut, changed? Right, so I guess it's important to distinguish between the actual FJB coin, which is basically a token smart contract that runs on-chain, and the app, which is independent, but works with the FJB coin.
+
+So all the controls for tax, things like that, are actually via the owner-admin of the token, which is similar to how any other kind of on-chain token would work. So as far as contracts, I'm trying to parse this question here. I had been working on Smart Wallet, which is a smart contract.
+
+And in certain situations, what we can do is add some things to a whitelist so that—and they do this on the coin side, in the coin contract. And then that's useful so that people don't get taxed twice if it's going through a series of related transactions to perform one basic movement of funds or something. But both of those, the tax and the whitelisting and stuff like that, that's all controlled by the FJB coin side of things.
+
+So no, I guess the best answer here is no. The contract, in terms of the Smart Wallet, does not need to be modified for that. That's actually a separate issue.
+
+But on the other hand, if you're talking about the FJB coin as a smart contract, you know, derived from Ethereum, ERC-20, BEP-20-type contract, then the contract doesn't need to be modified, but the admins would have to execute a smart contract call against that in order to make those kinds of changes. So I hope that answers that. It's a little technically—you know, there's a lot of technical details there, but I think that's all that can be said about that one.
+
+Let's see. Next question was, has a better option than VES vault been identified? So yeah, there's some—I know there's some usability issues with VES vault, but the primary reason why that's being used is to lay the foundation for protection of funds, because what we've observed in the wild is that people don't have a tendency to back up their own data.
+
+And so the VES vault solution allows you to have a social backup. And it was really an answer to this custodial versus non-custodial decision, since the app and everyone behind the coin, they don't want to get into the business of actually taking custody of anyone's funds. And because of this, there's really no way for the team, the developers, or anybody to restore lost funds in case someone loses keys.
+
+So we really wanted to have something that would add a lot of protection. We still feel that that's a pretty strong solution, and we also recognize that we can make some improvements to the user experience, and we've been working with that team to get those done. So we should expect to see some incremental improvements there.
+
+Also, totally open to hear about any issues that people have had with that specific things. We're going to be making some changes in the app itself to kind of—not really hide, but to sort of better integrate that so it's not as confusing. Let's see.
+
+Another question here. Is management cool with developers making decisions about tools used? Yeah.
+
+In fact, everything that I've touched, I basically use whatever we think is the best tool. So it's not—I don't think there's any restrictions about what tools to use from management. Let's see.
+
+Next question here. Finn told us off-ramp was done, but Transact's legal team had to do a compliance check. Did that change off-ramp?
+
+Okay. So to the best of my knowledge, Transact has been working on this off-ramp and taking the path of least resistance. They've got working with some other—what is it?
+
+The British Pround and Euro, I think. And I believe USD was coming soon, maybe even this month or next. I think the last time I saw an update from them was maybe a couple of weeks ago.
+
+I'm not 100% sure on that, but I think their timing was around the current timeframe. Once they've got that running or approved or whatever compliance they need and they actually have the USD in the off-ramp, then there's a little bit of development work on our side to support that. Not too much.
+
+So as soon as they're ready, we'd basically be ready within probably the same week or so. Let's see. Another question here.
+
+Size of developer team, who are the developers? Basically, it's kind of a moving target. We've had different needs at different times.
+
+Let's see. Since I've been involved, we've had at least two developers. There was a consulting group that we were using for a little bit to help with some things.
+
+There's been a couple of people kind of bridging the gap between technical development stuff and I guess what you would call management. Also, I'm sure as many people know, special ed has also been contributing greatly to visuals and consistency of look and feel. It's a relatively small team, but it's kind of a simple app.
+
+I think there's another question about would we consider adding more developers? Sure. I think the main thing right now is I think stabilizing the app in its basic format.
+
+I know there's a lot of other ideas that were in the original white paper that I think we're going to get to as soon as we finish the current basic app. I know Eric Finman's vision was to have something very simple, easy to use, the easiest wallet that you can use, one that doesn't require the use of intermediate funds in order to move things around and whatnot. That's when we came up with the smart wallet solution.
+
+We're kind of in the middle of deploying that. The code is done. It's been tested.
+
+It's actually part of the app, but we haven't completed migration of existing users. Then once we've done that and we take care of some of these other issues, then I think we're ready to start thinking about what's the next major step. I think those are all the questions that I had beforehand.
+
+Let's see. Sarah, I don't know. Let's see.
+
+Where do I find?
+
+[Speaker 3]
+So in general chat, I can either read them for you or if you go in there. Okay.
+
+[Speaker 4]
+Let's see here. Okay.
+
+[Speaker 2]
+I see the one functions behind a feature flag. Do they require Apple deployment? Okay.
+
+I already spoke to that one. Wallet text be dropped to zero. So I don't know the answer to that because I'm just working on the development side.
+
+[Speaker 4]
+That's a question for somebody else.
+
+[Speaker 3]
+All right. Let's see. Any other questions for Vilo?
+
+How do you say your name, by the way? Is it Vilo?
+
+[Speaker 2]
+Yeah, it's just a nickname. Velo. So that's basically for bicycle.
+
+[Speaker 3]
+Awesome. Any other questions for Velo? Doesn't it seem like it?
+
+[Speaker 1]
+I think you did a great job. Thank you so much for joining us on such short notice. I'm sorry for throwing you right in.
+
+I just wanted to make the best use of your time.
+
+[Speaker 2]
+It's probably best to throw me right in because that way I don't have time to think about these things. I should answer them in the most straightforward manner. I'd be happy to do this again.
+
+Unfortunately, I got this thing I got to hop on.
+
+[Speaker 1]
+Yes. Awesome. Thank you so much.
+
+Thank you for joining us. And I know I speak for everybody for saying thank you for being so approachable and always just there for us with any questions or answers to our questions. So we'll let you go.
+
+I know you have another call.
+
+[Speaker 2]
+Sure.
+
+[Speaker 1]
+And we'll do this again.
+
+[Speaker 2]
+All right.
+
+[Speaker 1]
+Sure.
+
+[Speaker 2]
+My whole thing with this, I think it's cool. I like building cool stuff. So we're just going to keep doing that and take this as far as we can on the technical side.
+
+[Speaker 3]
+All right. Thank you.
+
+[Speaker 2]
+See you all. Have a great night.
+
+[Speaker 4]
+We'll talk to you later. Bye.
+
+[Speaker 3]
+It's a shih tzu. Thank you.
+
+[Speaker 1]
+No, he's like five pounds. He'd be a steak for a day. All right.
+
+Well, thank you all for joining us. And thank you for your patience with not only FJB, but with me personally. I think sorry, like most people, I don't really like speaking to groups.
+
+So hopefully give me a little bit of grace. But I felt a voice was needed. So we have some questions to answer.
+
+First thing I want to address some things going around. Just false rumors. And first, I hate to break it to you, but I'm not Grant's mom.
+
+Apparently, there's some serious rumors going around that I'm Grant's mom or stepmom. It started as a joke, but I am not piggybacking on that. I haven't been involved in Grant's new coin.
+
+And I wasn't actually aware of it until the day it was launched. I was aware of other community members starting coins. But this definitely was not one of them.
+
+I'm not and never have been an admin in Grant's new project, nor have I been a team member there. So just clearing that up. I have no reason to lie about this.
+
+So please don't believe everything you hear, especially when all this stuff is easily disproven. Next thing is there's some more rumors about BNB selling the FJB project. This is 100%.
+
+Again, not true. Some other rumors about them starting a new coin. Again, not true, guys.
+
+They were just here on voice. You heard them. They're still very active in the FJB team chats.
+
+So this isn't true. It's 100% false. I know the lack of communication and quiet from the FJB team.
+
+I know we've had a lot of changes, but none of this is true. So just thought I'd clear that up. I keep getting a lot of DMs about that.
+
+Bannon still has the FJBCoin.org in his bio. Again, he was just here. Emma and Boris for the team, their teams are still in the FJB chats.
+
+They've just been so busy with the midterms and also everything that's going to go on tomorrow in court that they're waiting for. So I'm just going to answer. Yep, I got you, MJ.
+
+I'm going to answer some questions. I'll answer the questions that I could get answers to. Some of them I could not get answers to.
+
+So once I do get those answers, I'll get back to you, whether it's personally or doing another one of these voices or announcements even. So we had a lot of people ask, why did Finn leave? Was he asked to leave by BNB?
+
+Was it a mutual decision? Why would he leave before App was ready? So App is complete as far as ready to market.
+
+I know there's a lot of nice-to-have things that we want added on there that will be added on there, and that's the plan. However, once that was completed, Finn felt it was his time to go. Personally, I do think a lot of pressure from the community and not realizing that Finn's a messenger, just like I am, in a lot of the ways.
+
+Although he had a lot more, obviously, a lot more say in the App. I had no say in the App. He did.
+
+That was his job. He did leave voluntarily. He was not asked to leave.
+
+He was not fired. Same thing with Grant. Got the same question for Grant.
+
+Same thing. Grant was not asked to leave. He was not fired.
+
+Grant has literally been just a member of the community since December. I know he was helping out volunteering-wise with everything, but he had no title. I don't believe he was getting paid for any of the voices or anything like that he was doing.
+
+He finally decided it was time to move on to his other projects that he wanted to move on to. Again, was not fired or anything like that. Everybody is still on good terms, as far as I know.
+
+Any plans to have a face of the coin like Grant and Finn in the future? At this time, I really think that's Bannon and Boris. I don't think there's anybody bigger or better for that with their whole war room pose.
+
+We'll definitely let you know if that changes, and you'll be the first to know. What are B&B's thoughts on Price and people, including mods, jumping ship? Mods, again, were just regular of the chat room.
+
+They weren't being paid. They weren't fired or anything crazy like that. I think just people getting impatient and burnt out, which is totally understandable.
+
+I don't think they have much to say about this, because this is a long-term project for them. We're just a drop in the bucket. I hate saying that, because I don't want you to feel that it's not that we're not important.
+
+I just think we are just so small compared to how big the project is going to be in their plan for the project. What happens if Bannon gets locked up? Who's in charge of the coin, and what steps will be taken to move the ball forward?
+
+We're praying this doesn't happen, but Bannon's team would take over. A few of them are already active in the FJB team chats. Let's move on to some marketing stuff.
+
+Is there a drop dead date for launch, or is it all dependent on off-ramp? Not at this time. There's really not a date as soon as we get one.
+
+I'll be sure to share that with you. Who's in charge of marketing? B&B and the marketing team.
+
+It appeared we missed the window on the FJB movement, as it isn't really a thing anymore. Any talk of changing the name? Well, I think this is a big reason that the name was changed to Freedom Jobs Business.
+
+I think we'll remember what FJB initially meant for. I think this was a very big reason they changed it to Freedom Jobs Business in the very beginning. Why lesbian lady quit?
+
+I'm not sure who that is. Everybody wants to know, why is a million dollars gone from the marketing wallet? I don't have an exact number on this yet.
+
+I am compiling this list, but I have some very, very, very rough numbers just from my knowledge. I can share that. Again, keep in mind that these are very rough numbers just from my knowledge, super paper napkin math.
+
+I know we started out with 65k in donations to charity. L Bank was around 60k. Whitebit, another 60k.
+
+Probit was 35k. XT, another 50k. We have another, it's like the marketing and social company, that's 120k.
+
+Another PR and marketing company, 20k. Let's see, going down my list. Again, these are just very, very rough estimates.
+
+Lawyer fees, these are just around 10k. That's what's been paid. I know there's still quite a big balance still left there to be paid.
+
+App development, I think we're going for just the non-volunteer developers, I want to say around 120k. For ads, banner ads, all that kind of stuff, we're around 50k. Social media boosts and ads, another 20k.
+
+Press releases, around 10k. Wire, about, I'm not sure, that was between 25 and 50. Again, these are totally just estimates out there from what I remember.
+
+So that added, and again, this is just going off the top, this doesn't include any miscellaneous stuff or others who get paid. Sherlock, are you Asian? I thought Sherlock was Indian.
+
+Somebody said he was Indian, or like East Asian. So those are the numbers I have, just very roughly. I know that doesn't include things that were written in the contract to Bannon and Boris, but I will get this figured out a little bit, because I know a lot of people are asking about it, and I've gotten a ton of DMs about it.
+
+I think it would make everybody feel better. Please address what was or was not donated for 9-11. I am not sure what got donated.
+
+I will get back to this one with a few other questions. I will find out and get back to you. Again, the reason this wasn't announced is Finn felt it would either be too much or too little, and people would complain either way, and I think he didn't want just that in general.
+
+He just didn't want that energy and didn't want to deal with it, and that's why that was never announced. I can say that that donation was made, 100%. That donation was made.
+
+I do not know the amount, but I'll get back to you on that. All right, some app questions. What's the status of the off-ramp, the latest from Transact?
+
+Okay, so we got a few weeks from Transact. It's obviously been longer than that. They're now telling us soon, so I'm not sure if that's going to be longer than a few weeks or shorter, but I do know they're actively working on it, and we'll update you guys as soon as we hear something soon.
+
+Has Velo's list been completed? No, it's not been completed. Is the app, other than off-ramp, ready for launch?
+
+The app is ready for marketing. Like if B&B were to start marketing it today, I think it's mostly in working order, but there are still some features that would be nice to have, and those are still in the works. What are the primary roadblocks tech-wise that are holding up B&B from the app?
+
+So I think everybody kind of needs to understand that I know we're all very frustrated, and we're getting fatigued, but this isn't Grant's fault. This isn't Finn's fault. This isn't my fault, and I realize communication hasn't been the best, but Bannon and Boris, and this is completely just my opinion, so take this with a grain of salt, but I think we all need to understand what one, what legal, like what they're trying to protect FJB from legally, and their strategy with that, and I think that's a lot of why we haven't been allowed to, you know, set up a table at a Trump rally or, I don't know, start, like there's a lot of things that people mention over there that are ideas that we've already pitched to Bannon and Boris throughout the months many, many times, and I know it's easy because I've been speaking for a lot of that, or Finn has, or Grant has. I know it's easy to target one of us as the reason, but I hope that everybody understands that we are just the messengers, and they are telling us they have a plan, a strategy, and that's what they want to go with, and with high-profile folks, hey Sherlock, I said folks, I think we need to understand a lot of this, and just everybody being, you know, out to get Bannon in general, or the right in general, that a lot of this is due to legalities, and I think that's something big to understand, because it's not that we haven't had these ideas, you know, to post on True Social or set up a table at a Trump rally. These are ideas we've all pitched time and time again, but they are telling us to wait, so we are trusting that, and I wish people would do that and understand that this isn't up to me, this isn't me being lazy, this isn't Finn being lazy, and this isn't Grant being lazy, or anybody else.
+
+We'd love nothing more to do that. I'd much rather do that than get all these DMs from you guys, really, you know, mad at me, or telling me to do all these things that I should be doing. This would be a lot easier for us to set up a table, or social media, or do that.
+
+Everything is by their instruction, and I really, really wish everybody would understand that. So, I think that's all. I think that's all the questions.
+
+If I didn't get to your question, it's because I honestly don't know, and then I did try to get in touch with Bannon and Boris today to answer some of those questions, but they are so busy, they let me know that they would get to me by the end of the day, and they did get to me at the end of the day, and said, you know what, we're sorry, but we've got so caught up with everything going on tomorrow, but they did ask for everybody's prayers for tomorrow, and said they'd get back to me on those questions.
+
+So, we'll try to do these more often if everybody wants to, and get some more of those questions answered. I think that's all. Yeah, I don't know.
+
+No, that's my puppy. He's like 12 weeks. Little shih tzu.
+
+He's not leaving me alone. So, I think that's all. Again, I really appreciate your patience.
+
+Please understand that everything has been very strategic, and Bannon and Boris like everything in a very certain way, and they are behind every little thing that does or does not happen. So, please understand that this isn't, again, I can't stress this enough, that this isn't anybody else on the team. It is purely up to them, and we would want nothing more than to do this.
+
+Just like you all, I am down plenty of money. I do not like the stress of everybody being unhappy. I don't like, you know, banning people and doing stuff like that.
+
+So, please understand that. I'd love if everybody understood that.
+
+[Speaker 3]
+I think that's all. Anything else?
+
+[Speaker 4]
+Stop it.
+
+[Speaker 3]
+Yeah, it probably is Jig's fault, though, to be honest.
+
+[Speaker 1]
+I don't see any other questions. Oh, I am not Grant's mom, and I know rumor. People are saying they have confirmation.
+
+I am his stepmom. I am not. Sorry.
+
+I love Grant, but no, unfortunately not. All right, I think that's it. We'll do more of these, if everybody likes, with any updates I get.
+
+Again, I was hoping on some updates from Bannon's team, but unfortunately they just asked for our prayers because they were so busy. I know we need him. Our country needs him.
+
+So, thank you very much. Love you guys. I'm going to go watch the Cardinals lose now.
+
+[Speaker 4]
+Good night.

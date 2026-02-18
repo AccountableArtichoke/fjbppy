@@ -1,0 +1,118 @@
+[Speaker 1]
+Okay Started a recording for anybody who wants it for later Time to build is asking. Can we please set a list of projects in progress and planned as follows? Yes, so the issue with that is just then we have timelines and then people are upset because those timelines Aren't met Example we started smart wallet to smart wallet testing this weekend and And unexpectedly Pretty much all the functions of the smart wallet.
+
+We're not working Which is something completely unexpected. The dev has been working on them. I think today's Their maybe fourth day actually Okay Actually
+
+[Speaker 2]
+The smart wallets done, let's see
+
+[Speaker 1]
+I'll see what he says So that's just like a perfect example right is we were supposed to start testing testing wasn't working or something completely unexpected So he's just been working on getting that smart wallet to function as intended so that we can start testing And now we're already Now it's Friday I believe fourth day of the dev working on this on something that should have been already working But that's just what happens. So that's the only issue as far as that goes um We're still arguing a little bit, you know All in good fun, I hope Egghead says let's fight All right, cool. Well, happy Friday Thank you again.
+
+Once again for joining me I didn't get a ton of questions today, but let's go through those first We got Questions regarding reaching out to Elon Musk. I mean feel free to reach out to whoever on social media, right? Just make sure it's respectful and not, you know, super spammy, but absolutely we can also always reach out to them from our social media accounts to I Know they you know, Elon Musk one may come across one of our tweets or replies something like that As far as decision-making Somebody says what decision do B&B make on a weekly basis regarding FJB coin?
+
+I'm trying to get idea an idea of who's calling the shots and what exactly their involvement is B&B chose somebody from their side Who is the leader Of these decisions and then there is a team behind him That's who's making all the important decisions that are ultimately Approved by B&B B&B no-shows Of course I got a few DMS about this we're still not being here I completely understand We are Still working on that. I I hope Hope that's made that clear In the meantime, we're working on everything that we have more control of again Boris has his daily Monday through Friday time slot of FJB and he's been working on other more critical Tasks and He's telling me that He'll get On a voice with us soon, so I know I'm sorry I know it's been a while, especially since the You know missing funds and all that came about But I will definitely keep you updated on that again.
+
+I'm very very sorry in the meantime. We are working a ton volunteers are putting a ton of hours and getting everything as Ready as it can be I vote on no gift card link. Somebody said we spoke about gift cards putting like the gift cards for Bitcoin Other coins like that on our website and our app somebody suggested that we asked in the last or I asked in the last voice what people thought about that and this person say they That's their vote is a no so That's that let's go to the next set of questions Do we have goals and a roadmap Since it's the end of the year. Somebody else is wondering Yes, that will be out.
+
+Our goal is by the end of the year to get that out Right now priority is a smart wallet getting that all wrapped up and getting the app Glitches all worked out and the bugs and the FJB gift cards, which was That began a few days ago now So that's where we are as far as that goes But we're shooting for the end of the year Let me see Okay So the dev today I can post this later The list of tasks he got done today All right, so we have something still unsuccessful With the smart wallet and this is another example of timelines I know people in software probably understand this a bit more but today We the dev predicted in the first two hours two hours of the day that the smart wallet would be Completed but clearly it's taken longer than expected. So it's kind of what we have to roll with, you know And I hope again I know Anderson I've heard it from a lot of software people that this is just normal and happens all the time and Hopefully we will get there.
+
+We are getting there. We're working on it, and I have no doubt We will get this all done in due time. We're still moving forward I Had same few questions From somebody who's asked me.
+
+I have not ignored you again, I think I've answered this on voice a few times who's Asking about you know, how much funds are missing? They want a dollar amount Details of that as soon as we can share that we will Unfortunately, that's not information I'm able to share right now Any details regarding that I will keep you updated on I promise Somebody else asked does Boris still love us when boards voice when Bannon voice when lawsuit filed How much debt is left? Okay, so Yes, Boris loves us Bannon and Boris voice I'm really hoping they get in here at least by the one-year mark I know having some legal Issues on the horizon Has impacted that but I hope we can get that before the end of the year at the one-year anniversary How much debt is left we are under 10k So that's nice.
+
+I believe I want to say exactly around nine Around 9k to be a little bit more precise Why won't Bannon promote FJV merch on war room or socials? I'm not sure that we've Pushed the war room or socials We are discussing With Boris to see if Dan and Bannon's team to see if there he has any other contracts that would prevent him From doing that. Sometimes if he has another contract that will prevent him from shilling something like that We are adding new pieces to the merch store I mean we have been every week every few days I think we need a few more solid items on there that are not particularly FJV related To also help with that Kind of give a little bit more incentive there So, I think that's all the questions I got in there Let's see Moon says true who got demoted now a bunch of people just wanted to be Nobody did anything wrong. Actually probably wag is the one who's done anything wrong and he's still here FJV grips for handguns, that'd be nice.
+
+All right, so, um our smart wallet like I mentioned earlier We were scheduled and we did start testing this weekend, but unfortunately functions were just Failing so we got our new dev on to help out and he's been working on that We're hoping to be done by the end of the weekend now to get that all figured out the devs for the FJV gift cards started a few days ago, so that's Looking amazing Let me see so far I'll pull up that So far they have like a gift card generator created which is Amazing and has a QR code or a link that somebody would either, you know scan on their phone or type in the link And enter their gift card info. So that's where they're at We did order the envelopes and the paper Patriotic paper and envelopes will print our logos on for that. That should be here Monday, I believe And we're working now on the gift card template so I'll definitely Get your input on that too Hopefully, it's you know, we're trying we're trying we're shooting for like a very sharp very easy to the point not a ton of Not a ton of fine print and details and crypto lingo for that gift card.
+
+So that's super exciting Also working on some graphics for t-shirts for the in-person booths Just to make it a little bit more economical Than the online ones because if we need like a hundred or two hundred shirts at the booth, it doesn't make sense for us to Get them ordered from our store to ship here and pay shipping on it by that point The cost is probably a little too high to make any profit on so That's that
+
+[Speaker 2]
+Yeah, that's All the updates I have
+
+[Speaker 1]
+Skelter says when I buy coins on the app the order history does not show any details only order number Is that going to be fixed in? Yep, that is actually on the top of the to-do list after the smart wallet is functioning correctly also the We already well I say we the dev already Fixed the pop-ups when you get the transaction failed pop-ups those now Will be more detailed and they look amazing.
+
+So I can't wait till that goes live But after the smart wallet is working. Yes, we want all the transaction info to Show up to make it easier And it also showed like a progress to I think So when it's in progress and it's completed I have the actual Yeah, so it'll show pending complete and so on And then For when it used to say so before when you'd go to swap and you didn't meet the minimum Because there's a minimum for swapping that would just say transaction failed now.
+
+It'll say minimum requirement not met. Please select at least X number of FTP, so I think that'll be a lot more user-friendly Not just for us but especially for boomers Let's see Will you be at America fest not so far No Very bummed out about that. I understand we asked pretty late in the game With the way everything has happened, but I am very bummed about that Coin kicking in the coin purse Oh Our Actually, let's post this How could I forget?
+
+We've been working on it for days our 12 days of Christmas contest Let's see if we can get this So for the 12 days of Christmas, we have a contest running every day and I Believe we're beginning tonight. I'm asking I'm asking the social media bosses of mine That's MAGA and paradox so Every 24 hours will start a new contest What you do is make a post with whatever the contest is asking for so for the first one Let me go back The first one it's going to be post a photo of your ugliest Christmas sweater. So you'll post it on Whatever platform you prefer and then just tag us with the contest hashtags and every 24 hours will pick one winner randomly and The one winner will receive $25 to use on our FJB store, so I think that's pretty cool At least something fun to do while we wait Check to see if Kerry Lake will be there.
+
+Yes. Kerry Lake supposed to be at America Fest. Absolutely Post a Bannon or Boris text message, please I Post a text message.
+
+[Speaker 2]
+Let me see.
+
+[Speaker 1]
+Let me see if there's anything Especially lately with the talk Like anything that I would be allowed to tap like Text like it would be something like Boris said to Sarah because he was Editing something So anything that I would be Okay to post Really wouldn't help anything Yeah, I'll see if well I'll see when I'll definitely update you when Bannon or Boris can Wait, oh I get it I Somebody said I was supposed to be Kerry Lake. I wish wow. She's amazing.
+
+She's such an amazing speaker actually. I mean granted she's done it for how many years but still $650 buy is that real who did that Wow Holy smokes $650 got you how many coins? Oh my gosh got them over almost 7 million coins So it sounds like you didn't ask Boris about posting a proof of any kind of a timestamp contract Oh timestamp contact I did Boris did not want to do that When McNifty shout out by Trump McNifty's rebranding Is what I am being told they're being they're completely switching it up and Starting something completely new to What happened with all the McNifty stuff I'm not sure what you mean. I Think just like any of the NFT Oh the big deal went silent Yeah, I think NFTs just going down and then the naked Biden ones. I think Bannon wasn't a huge fan of But I mean everything right now is kind of bear market and everybody's just waiting The McNifty team abandoned the discord.
+
+Oh, really? I haven't been in there for a while. I See John McNaughton art So we do have the donation coming up we still haven't decided on one idea We're thinking definitely before the end of the new year
+
+[Speaker 2]
+That'll be exciting I'm sure we will go ahead and post this now Contest before maybe you guys get a head start before it's posted on social media Sorry, you're all gonna get notification
+
+[Speaker 1]
+It's Already posted Ronnie and you can do that on any platform. We're on so
+
+[Speaker 2]
+Oh
+
+[Speaker 1]
+Transact is so there's actually Transact is Very good at dealing with little Glitches we run into We had a user in telegram who got the wrong amount of coins and the way they The way transact calculated that was from a coin gecko so It was good that this user and this is why it's actually really good for you all to Let us know when you run into issues on the app or through transact Because otherwise we have no idea so we reached out to transact They let us know eventually we found out it's because they went off the chart off coin gecko So they're working on that because obviously that's not an issue. We want to happen when we have thousands of people buying FGB at a time and Yeah, they were very nice and willing so they said they'll get back to me checked in on it a few times, but it looks like Something there that's gonna take them a few days. Maybe That way they are pulling the correct price for FJB when someone goes to buy so that's actually a Pretty big point, but please do let me know if you're having any issues like that or if you got the wrong amount of coins So we can see what's wrong or anything else again going on with the app The dev is aware of the blue circle I asked Yeah, somebody in app support if they were still having that I don't think they've gotten back to me yet But let me know please with any issues you have like that you'd be Helping us out a ton so we can take care of that while we're at it right now Oh
+
+[Speaker 2]
+Gosh what I miss that
+
+[Speaker 1]
+Going all right our website still Let me know if you're if you'd like to edit or good at everything and would like to help out We have a lot of material writing material that could use some editing I Can edit but I'm not like I'm not a writer.
+
+[Speaker 2]
+I'm an awful writer, so I'm kind of bummed we were supposed to go up north and I wasn't able to because it was snowing Still pretty cold though today was I think Maybe a little 40s. No, I think it's like 38 degrees. I
+
+[Speaker 1]
+Think baby FJB will be making an announcement to I think so far They bought they did the calculation They bought over 50 million FJB 51 million FJB and some change 51.3 point four So that's pretty awesome If they want to keep buying FJB from us, I think they'll also have the roadmap
+
+[Speaker 2]
+Tonight announced I think with a little bit more details
+
+[Speaker 1]
+Sorry, my husband's giving the dogs baths so any barking you hear Whoo-hoo the contest is up on our social media
+
+[Speaker 2]
+Awesome
+
+[Speaker 1]
+I'll post the links under the announcement too if you all want to go straight to them to post Keith says website is looking good. Yes, doesn't it look so awesome and The educational Info being added on there a few educational pages.
+
+I think are Really really nice Go to the market price Super slick. I love how clean it looks
+
+[Speaker 2]
+Russ says dog bone equals boom-boom
+
+[Speaker 1]
+Yeah, I love it looks super super awesome Everybody All the volunteers have been putting so many hours And we really couldn't have been doing everything we're doing right now without them including Dog bone on the social media Paradox and MAGA on Excuse me on the website and then paradox and MAGA on the social media and And Graphics we have our other volunteer doing graphics which has been super helpful, especially to add things to the merch store So I really appreciate it and then all the mods Doing all the work there and answering all the questions there and all of you And It does not go unnoticed and we definitely don't take it for granted Ovi Vess Trying to get out of the habit of calling them V E S because Vess with our app. I did Get your feedback to them and they are working on some options for us, so Hopefully, they'll be back to us soon regarding that they just wanted to let everybody know that Security is the top priority. So although sometimes it might be annoying or overwhelming With what the Vess prompts pop that pop up in the FGB app Obviously security is the number one priority, right?
+
+So they did let me know that and to keep that in mind, of course But they are thinking of some other options that would help Everything be a little bit less overwhelming on the app I'm hearing some rumors very recently right before the call Again of Bannon and Boris are selling the project. Is any of this true? I've not heard Anything like this if I did you would be the first no Yeah, I've had No Confirmation no information about this.
+
+Absolutely whatsoever So, I'm not sure if there's somebody that's claiming they're buying the project please have them step up Awesome
+
+[Speaker 2]
+Awesome, that would be great
+
+[Speaker 1]
+By moon daddy, I did DM you regarding us and editing if you're up to helping us, we'd greatly appreciate it We had actually somebody who stepped up but I think he's been very busy and hasn't been on discord I'm assuming so I haven't heard from him for a few days Is moon daddy doing I think so I'm assuming Else Is there a way you can copy seed words into the app to a store wallet? Here he says you can help Way you can copy seed words into the app To be honest, I don't understand what you're saying You want to copy them from Where are you just talking about entering maybe Okay, so you're downloading say the FJB app on a new device maybe and then you're you want to enter your FJB app seed phrase in there Or are you talking about putting a trust wallet seed phrase in there?
+
+[Speaker 2]
+Oh take wallet from trust wallet and put it into the app I've never tried that But I want to now, let's see Let's try it Spesh was really good This side Let's see Let's find out Am I making a new account? Yeah, I don't know I don't know if anybody else in here knows I haven't gotten my confirmation verification code yet I'm making a new Oh there it goes Patience As I Okay Somebody says no Uh oh Don't tell me I'm getting I thought I was going to get the blue circle of death Alright So That's my master account I'm in the recovery phase I don't see a spot I don't see a spot where I can do that Now what happens if I delete account Does that delete my wallet? Alright well I guess that doesn't
+
+[Speaker 1]
+So it doesn't look like it because I see the show recovery phrase Delete account and then the master account name I wonder if that's a feature we can add I can ask about that too
+
+[Speaker 2]
+Alright I think that's it I don't know it doesn't seem like we have any other questions I think we got all caught up
+
+[Speaker 1]
+Smart wallet Most of the functions are working now they just have not been deployed So he's waiting on a few more functions Once they work correctly as intended he will go ahead and get that started or pushed out so that the testers can start testing it Alright I think that's it I don't see anybody typing either If you want please go to our social media and enter the contest that would be awesome and you can win $25 to the FJB merch store so something I know it's not a ton but we have some pretty cool things on there, some pretty cool shirts and hats and stickers so that's super exciting and yeah that's it we're waiting, we should have the gift cards before Christmas so that'll be really awesome for the rallies and booths we'll be at physically Thank you all so much for joining let me know if you have any questions as always DMs are open and the general chat too you have a great weekend I'll see you guys in the chat

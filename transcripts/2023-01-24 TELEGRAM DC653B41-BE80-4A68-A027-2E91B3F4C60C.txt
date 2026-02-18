@@ -1,0 +1,340 @@
+[Speaker 1]
+Hello, happy Tuesday evening. I know I'm late because you guys are a little bit late now. Um, can you all hear me?
+
+[Speaker 2]
+Hello, hello.
+
+[Speaker 1]
+2241, who are you? Are you new? Can you hear me alright?
+
+Okay, looks like it. Awesome, recording in case anybody else wants to listen to it. Although, I honestly don't have any updates.
+
+My last phone call with the team was last Tuesday. I think I told you all about that. Waiting on an update from that.
+
+The team did have a few questions for me yesterday. And then, yeah, just waiting on that. Kind of everything's really being held by that.
+
+I haven't gotten, oh no, I actually did. I got on Discord. Somebody asked, why hasn't the LP been locked?
+
+Because a loan against the LP is being considered by the team. And I'm waiting on them for that. What have Bannon and Boris said about what's going on?
+
+Missing funds, LP lock, and coin value? As far as coin value, they realize that the entire market's down. Stocks, crypto, everything else.
+
+So I know they're not worried about that. As far as the LP lock, we are waiting on, first, excuse me. That's what I get for drinking a soda.
+
+We're waiting on to see how Bannon, if he was going to keep going for Binance, to see if we needed to bridge to something else before locking LP. More recently, though, it's been considering the loan against the LP. And as far as the missing funds, Boris wanted everybody to know that they have been taking care of it as soon as it came to their attention.
+
+Those were his exact words. Are there other owners besides BNB? No.
+
+That still remains a no. Obviously, all of us, right? So I think those are all the questions from Discord.
+
+And then from Telegram, I got, the app and its readiness, or what is still required to make it launch-ready. I know there are people having issues with the app right now. We are not sure what they are, unfortunately, because we have nobody directly working on our app right now.
+
+We have the devs working on the gift card aspect, just until we decide what to do with the LP and all of that, as far as funding goes. We don't really have much funds coming in. So yeah, that's a pause, as I mentioned on the last few voice chats.
+
+The app and its readiness. We were, so after we deployed the smart wallet for everybody, and you can see that with the toggle at the bottom of your app, as Velo had mentioned, we basically just need to gradually add users to kind of work out any bugs that do come up, right? Because the devs won't know until we get to that point.
+
+We don't want a huge influx at one point, because we don't want the app to crash, versus a few users having issues at a time, and basically the devs being able to fix those in a timely manner as they happen, versus thousands of users trying to use the app at one time. Transact testing, I'm assuming you're talking about Juno. I actually asked for an update from them yesterday or this morning.
+
+All my days kind of go together. Let me see. At 3.46 a.m. this morning, because that's how early I've been getting up, I have not heard back from them. I know there's a bit of a time difference there, so I hope to hear back from them by tomorrow, so we could see how that's going, as far as their testing. I know a few toggles, a few people have said they're trying to purchase through Zelle. That's not working.
+
+I know they did say they will let us know as soon as everything is working, and they have not let us know that everything is working yet, so my assumption is that they are still testing, but we'll wait to see what they say. And then the last question was, what February looks like in term of progress? I did get an update as far as the gift cards today.
+
+The development and testing are essentially complete, and that's a quote. So that's, I believe, very, very close. Again, I'm not a developer, so in terms of in dev world, that could be a little bit longer than we expect, but yeah, that was as of four hours ago, so pretty recent.
+
+Other than that, it really depends on our funding, but the gift cards, I've said for, gosh, since we got rolling on the gift cards actually before, that we will start doing events as soon as we have those, and that way we can sell FJB to anybody within, just very easily within a few minutes without having them get on their phone and perform KYC and call their phone, excuse me, bank, without having to do any of that.
+
+So yeah, it really is depending on that. I know everybody's been asking about the LP lock. Again, that loan against LP is still being considered, and I will let you know as soon as I hear from B&B.
+
+Trust me, I don't want to, I'm not trying to hold out on this. I'm not enjoying being bombarded by this, and I share your frustration. So that's that.
+
+I do appreciate everybody's patience, as always, so please don't take that the wrong way, just because I'm as frustrated or more frustrated than you are does not mean that I don't think your frustration is valid. Yeah, absolutely. Actually, the opposite.
+
+But I hope you understand, you know, I just kind of needed to step away a little bit for my own, you know, mental health too. But I am still reading everything. Yeah, I know, I think somebody, I think Heath said the prices weren't showing up in the app.
+
+That's because our API bill comes from, we usually pay that using coins, and the wallets are on a pause, so to say, right now. But we will get that taken care of by the end of the week. Again, something we're waiting on the team for those few important decisions.
+
+But if I don't hear back about those in the next few days, then we'll go ahead and take care of it a different way. When Venus Protocol make FJV coin great again? Yes, I know.
+
+I know you're very passionate about those loans against the LP. We're trying to find a way to do that without, I mean, yes, I understand the pros of Venus, well, kind of. But as far as not impacting the coin's price, but depending on a third party, I think it's kind of a downside too.
+
+So, I don't know, we'll see how that goes. Can we please block Diesel, Bull, and Mark Anthony? Yeah, I think, is Bull Fuego?
+
+And then who's Swiggity? I need to run a contest for somebody to find out who Swiggity is. I think he got blocked on Stockwoods again a few days ago.
+
+Or maybe it was yesterday. They banned him again. But I'm trying to figure out who it is.
+
+He's pretty articulate. By the last message I saw before he got banned. I think he has a crush on Lauren.
+
+So which one of you is it? Which one of you is it? I think it's one of the Discord members is what somebody said.
+
+But yes, I understand your frustration. And trust me, as soon as I have any updates, I will let you know. I do not enjoy having zero updates for you.
+
+Just as, if not more frustrated than you are. Thankfully, we have, you know, being in a bear market, we have plenty of time. So don't get me wrong there.
+
+I think that's definitely a pro. And we do have time to build everything. And I think time is on our side, which is great.
+
+But I realize that's not an excuse. Oh, Bull is John Anthony? I didn't realize that.
+
+John Anthony Stocks, where are you? Oh yeah, I remember that conversation. Yikes.
+
+Yeah, I'm not somebody who's, those don't do me well as a baby. So I can't, I can't be for that. I'm sorry.
+
+Sorry, John Anthony. And most of my family's in the medical field. So I'm not like anti-medicine.
+
+What do B&B say when you'll ask if they'll do a voice? Well, we have one scheduled that was rescheduled several times. And the reason for that was that Boris was still figuring out some legal stuff.
+
+And then we were going to record one. That way, you know, that way we can better edit it out. Anything that we didn't want to say.
+
+Then that got rescheduled because he said it didn't work with the schedule. And honestly, since that, I've not gotten anything scheduled with them. It's with them being busy is the reason.
+
+And lately, as far as last week, being figuring out more legal stuff. I wish I had a better answer for you, but that's the truth.
+
+[Speaker 2]
+What else? What's everybody up to? I definitely miss you guys.
+
+[Speaker 1]
+Drinking my Zevia. I don't know if anybody else drinks those. Healthier sodas.
+
+No, that soda's healthy, but it's a ginger ale. I didn't have time to make a hot tea. It's like 30 degrees here.
+
+Freeze warnings during the night.
+
+[Speaker 2]
+I had to bring all my succulents inside. So they wouldn't freeze and die.
+
+[Speaker 1]
+Velo, what are you typing? Like a novel? I feel like Velo's been typing forever.
+
+You're typing a code. Are you fixing the app? But yeah, as far as if we get, well, either or, I imagine.
+
+I mean, gosh, what's the date today? 24th, more than a week, I hope. If the gift cards are ready.
+
+The plan for February is to definitely be out at events. At political events, non-political events, at colleges and universities. I think that would be really awesome.
+
+And we can get that, I mean, as soon as we have that ready, we start signing up for that, pay the fees, and go. So I think that will be awesome. With the gift cards and merch.
+
+Maybe Velo's about to give me financial advice. Liked what the price was on, though. B&B.
+
+B&B doing us well. I got a DM. What exactly is legal stuff?
+
+Boris is trying to figure out. Legal stuff surrounding our missing funds. I'll just say that.
+
+That legal stuff. Which, actually, I'm personally getting on. That'll be fun.
+
+Keep you updated. We'll keep you updated. A little bit of a plan for that.
+
+We'll keep you updated as soon as I can share. What are those, Jan? That's cool, but I don't know what that is.
+
+[Speaker 2]
+Eyeballing. Jack.
+
+[Speaker 1]
+I don't know who this is. Who is Jack, and why did we ban him? Oh, thank you, MP.
+
+Velo, what are you? I appreciate that. Appreciate that, MP.
+
+Trust me. If I had more info for you, I'd be the first to share it with you, good or bad. I am not holding anything out on you.
+
+And definitely am not enjoying having no updates for you. Maybe Velo will tell us. I must have missed those.
+
+Was that right before I got on voice? That makes sense now. I didn't realize you had questions.
+
+Velo is pretty good at that. He answers with a laugh.
+
+[Speaker 2]
+That's funny.
+
+[Speaker 1]
+What? Why? Awesome.
+
+I'm glad. This fall, restore. Uploaded to an Apple wallet.
+
+Went smoothly. Perfect. Yeah, I make sure I put that into Trust Wallet, too.
+
+Just to be safe. Oh, what does your cat do with your phone? Do they chew phones?
+
+I love hot tubs. I love baths, too. I thought I was going to change my shower into a double shower.
+
+But I don't think I'm going to do that. But now I'm trying to find a bath that's already all ripped out. And I'm trying to find a bathtub that will fit into that space without taking over the shower part.
+
+Because the old ones, like the built-in ones, I don't know. They have a better way of fitting those.
+
+[Speaker 2]
+So I'm having a problem finding a smaller, so it doesn't take over the area. Smaller tub. Hmm.
+
+[Speaker 1]
+That's interesting. Yeah, that does actually sound familiar. Let's see if we can get this person back in.
+
+Jack. Let's see. Getting Jack back in.
+
+[Speaker 2]
+Sorry, I'm just trying to get this number back in.
+
+[Speaker 1]
+Oh, that's probably where your name looks familiar from. And your names might be touching on that list.
+
+[Speaker 2]
+Alice.
+
+[Speaker 1]
+I don't know, does Vela have a cat? Vela's pretty thorough, though, when you ask him questions. So I didn't see what Sam asked him.
+
+But if you asked him a few questions, if anyone's going to answer them, Vela will. And very thoroughly. Well, gee, Perry.
+
+[Speaker 2]
+Vela has a cat. I don't know what else everybody's been up to.
+
+[Speaker 1]
+What the heck? Is this real? Scientists warn eggs are causing thousands of people to suddenly form blood clots.
+
+That has to be a joke, right? Let's see, is this a real article? Oh.
+
+What? He didn't tell you? I ran ads on Pukon for a few days.
+
+I heard a few people told me about that. Why? Could it possibly be because the LP isn't locked?
+
+I wonder. I wonder if it's something legally with their contracts or with their advertising. Because if they don't have it in their agreement, possibly.
+
+Gee. Wow, I'm sorry, that sucks. I really do wonder if it's because of the LP.
+
+But then you've got to think about how many coins are on Pukon and how many rug pulls are on Pukon. I mean, I'm curious. Especially since I believe we've done ads with them before.
+
+Or I was told we were. I'm not sure if they're liberals, but I probably assume so. Yeah, the suspense is building for Bella's answer.
+
+I think Sam said he asked some questions. So what do you mean, did it not show up as many times as they said? Or...
+
+Because I've never personally ran an ad on there.
+
+[Speaker 2]
+Poor Bella. We do not deserve him.
+
+[Speaker 1]
+Oh, naughty list spot. Instead of, like, on top? Is that what you mean?
+
+Like an overhead banner? I don't know.
+
+[Speaker 2]
+That's awful. Gee. I'm sorry, that sucks, Perry.
+
+[Speaker 1]
+I'm sure we have, as soon as we start funds going, I'm sure we can afford much better advertising spots and Pukon can go F themselves. Along with fire. I haven't read to see where they're at from what we last heard.
+
+Yeah, that's true.
+
+[Speaker 2]
+Let's degenerates go. Yes, definitely long term.
+
+[Speaker 1]
+Dallas says I might have missed it, but did we get any new influencers on board? No, we have not. We did get a few different PR guys that we are using now.
+
+We've just not, we're waiting on them and waiting on funding. But we've not picked anybody or gotten anybody on board for the app, coin, or merchandise. Miss the pump and dumpers?
+
+Hey, I'm sure if you ask for that, be careful what you wish for. I'm sure if anybody sees you asking for that, they'll start doing it. Get a few K and start pumping and dumping.
+
+A few guys have DM'd me asking me to lower the tax so that they can start trading. Oh, that's a great idea. To post advertising opportunities and let the community vote and fund the best ones.
+
+Obviously, I think it would be helpful to have some stats on that. Because although getting the community involved is amazing, I don't think that always translates into the best interest of the coin. Just because, as you know, a lot of things aren't what they seem.
+
+Maybe an advertisement that the majority thinks would be worth it, wouldn't translate numbers-wise and vice versa. But I think that's a great idea.
+
+[Speaker 2]
+I did love that game. What was it, like Chuck E. Cheese, Peter Piper?
+
+[Speaker 1]
+Oh, that kind of looks like my puppy. Oh, did somebody sell or is that B&B?
+
+[Speaker 2]
+Let's see. Let's find out. Looks like mostly B&B, huh?
+
+What's it down to? Ah, 297.94. Who's that? Who was it?
+
+[Speaker 1]
+It's so weird. Rose does that when trade has been off our list for so long.
+
+[Speaker 2]
+I didn't have to say it. Thanks, Dallas. Thank you.
+
+Just curious.
+
+[Speaker 1]
+I've actually always wondered that, because sometimes I've started typing and then had to leave for something, and I was always wondering if it would keep saying you're typing. But see, now he's not typing anymore. Now you guys scared him away.
+
+[Speaker 2]
+Dello, come back. That actually looks like my other puppy, too. I don't know if it's cats.
+
+He does. Yes, he does. Alrighty.
+
+Well, if there are no other questions, I'm going to get off.
+
+[Speaker 1]
+Dogbone says, Quick shout out to the FJB community. We've got some great holders that are relentless fighters. Proud to be a part.
+
+Oh, awesome. Thank you for everything you do. JB, that's what I said earlier.
+
+Oh, Dello's back to typing. Oh, okay. Fine.
+
+I'll stay. Dello, we're waiting on you. Since the anticipation, now it's just, you know, got everybody.
+
+[Speaker 2]
+Actually. Take bets on why Dello's typing. Oh, gee.
+
+What the heck?
+
+[Speaker 1]
+I can't look at that. That's making me dizzy. That's better.
+
+That one's not making me dizzy.
+
+[Speaker 2]
+Dello keeps going in and out with the typing.
+
+[Speaker 1]
+What's the pulse on Boris and Bannon these days? Last call I had was last Tuesday. And then yesterday they asked me for some information.
+
+So I'm not sure. That's basically my little update. Have not gotten an answer on the LP.
+
+Trying to get the loan funded via LP. Really trying to find any way to fund the app and get this rolling.
+
+[Speaker 2]
+Any time.
+
+[Speaker 1]
+Ask for us to be a bigger shareholder of FJB. That's what we've been wondering, Dogbone. Russ is the man.
+
+Actually, I still owe Russ something I was supposed to send over.
+
+[Speaker 2]
+I need to do that. And I need to send my neighbor a thank you card. I need to do that tonight.
+
+I'm so bad at this stuff. It takes me forever. That's actually funny.
+
+Bello. What is going on?
+
+[Speaker 1]
+Maybe we need to just spam tag Bello. Bello. Bello.
+
+Start spam tagging him. Probably distracting him. That's probably why it's taking so long.
+
+That's gross. Oh my goodness. What?
+
+This is a... Okay, so it is investment advice. Is that what you're saying?
+
+[Speaker 3]
+I see.
+
+[Speaker 1]
+Is everybody else reading this, too? I feel like Rose should be reading this out loud. Reminder, none of this is investment advice or financial advice.
+
+Not investment advice, not financial advice of any kind. Reminder, I think three times Bello said not investment advice. Fourth, none of this is investment advice.
+
+Alright. Well, I hope everybody has fun reading that. If there are no other questions, though, I think I will get off and join you guys on chat.
+
+Awesome. Well, thank you all again. I think the wait for Bello was worth it.
+
+That was a lot of typing. Yeah, let me know if you guys have any questions. Feel free to DM me or ask in the chats.
+
+I hope to have some real updates very, very soon. We will get through this. Not sure how long that's going to take, but we will for sure get through this.
+
+Thank you all so much for everything. I'll post the recording actually right now before I get up so I don't forget and before everyone starts looking for it. Alright.
+
+See you next time. Have a good night.
