@@ -826,6 +826,7 @@ UUID: 757907A4-36C0-412B-BC25-AA8EC368E67A
 Type: VOICE UPDATE
 Date: 2023-11-04
 Speaker: 
+Platform: 
 Audio File: 
 Transcript: transcripts/2023-11-04%20757907A4-36C0-412B-BC25-AA8EC368E67A.txt
 Summary: The failed transaction issues in the app have been fixed but not yet deployed, with developers working on correcting gas estimation problems between user wallets and the operator wallet to prevent future transaction failures. Nine developers are currently active across multiple projects with an additional three development teams being evaluated for upcoming work, and the task reveal remains on track for November independent of the app's readiness.
