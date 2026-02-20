@@ -221,7 +221,7 @@ Date: 2021-12-08
 Sender: Grant Tragni, FJBCoin
 Recipient: Bob24, Sundevil28, Discord, Pokey
 Amount: 200,000 FJB x 4 = 800,000 FJB
-Evidence: 2021-12-08%205ED7084C-52D0-4EAF-B546-157E46802AF3
+Evidence: 5ED7084C-52D0-4EAF-B546-157E46802AF3
 
 UUID: 205CA41F6E-7BF7-45FA-AEBB-AAAAE122F5D3
 Type: IMAGE
@@ -271,7 +271,7 @@ Date: 2021-12-17
 Sender: Grant Tragni, FJBCoin
 Recipient: Semper Fi Charity
 Amount: $5,600
-Evidence: C5DB218A-3638-4317-83E6-FC27E1961582 No direct evidence just him saying he donated money
+Evidence: C5DB218A-3638-4317-83E6-FC27E1961582 No direct evidence just Grant Tragni saying he donated money
 
 UUID: BB9BE200-AA8E-46BB-875E-C51B818AE18E
 Type: VOICE UPDATE
@@ -603,7 +603,7 @@ Speaker: Grant Tragni
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-05-11%2059B3D4DA-0527-4851-8C87-7B54C6872A1E.txt
-Summary: [INCOMPLETE]
+Summary: The speaker remains highly committed to FJB despite past setbacks including platform cancellations and market downturns, emphasizing ongoing development efforts focused on securing a final legal letter from Transak to enable a secure relaunch. The project retains strong community support with around 6,500–7,000 Discord members and active high-profile involvement from Eric Finman and Steve Bannon, with marketing plans hinting at major media appearances such as Fox Business and Politico articles timed around the upcoming midterms to capitalize on political dissatisfaction.
 
 ~~~~~~~~~~~~~~
 2022 JUNE
@@ -633,7 +633,7 @@ Speaker: Erik Finman
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-08-07%20B11520D0-D50D-40AF-BF6C-B1E8E1D2BAC6.txt
-Summary: [INCOMPLETE]
+Summary: The speaker reports that 12 interviews with major television networks have been completed or are scheduled, with recordings and live appearances set to roll out during the upcoming week alongside additional articles and media coverage to expand visibility for the FJB project. Despite ongoing delays with the Transak legal and regulatory requirements, the team continues intensive work to perfect the product, while the speaker commits to greater transparency through frequent updates and daily community engagement starting this week.
 
 UUID: FEB01E25-B443-4E7A-A6B5-CD3B9C89AC52
 Type: VOICE UPDATE
@@ -664,7 +664,7 @@ Speaker: Erik Finman
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-09-15%20ABC4FE52-9DED-4667-A3CB-384C6EB819D7
-Summary: [INCOMPLETE]
+Summary: The FJB project's non-custodial wallet now enables simple on- and off-ramping in Europe and the UK with automatic gas fee handling, making FJB coin purchases far easier for conservative crypto newcomers. FJB Week has featured media hits including Fox Business appearances, a viral Steve Bannon video, Boris's community call, a 9/11 first responders donation announcement, and upcoming additions like USDT sell options, Bitcoin support, and candidate/business payment integration.
 
 UUID: FCA4E71B-1AE5-4B51-9C45-4E4C8FDE1FF4
 Type: AUDIO
@@ -679,6 +679,15 @@ Summary: Episode of the 'John Solomon Reports' podcast where FJBCoin is mentione
 2022 OCTOBER
 ~~~~~~~~~~~~~~
 
+UUID: 5B507FD4-788D-46A0-B06B-DEECB1BA734A
+Type: VOICE UPDATE
+Date: 2022-10-20
+Speaker: Sarah Abdul, Velo
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2022-10-20%205B507FD4-788D-46A0-B06B-DEECB1BA734A
+Summary: The FJB app utilizes a web wrapper for real-time updates without requiring Apple approval, with the off-ramp for USD expected soon from Transak following compliance checks, while the developer team remains small but open to expansion for future features like smart wallet migration. Key figures Finn and Grant departed voluntarily without being fired, with project delays attributed to strategic legal protections directed by Bannon and Boris, who serve as the primary faces of the coin amid rough marketing wallet expenditures estimated at over $600,000 on listings, ads, and development.
+
 UUID: D317EDDD-4491-4062-BFC3-1A9689A4E884
 Type: VOICE UPDATE
 Date: 2022-10-24
@@ -687,15 +696,6 @@ Platform: Telegram
 Audio File: 
 Transcript: transcripts/2022-10-24%20D317EDDD-4491-4062-BFC3-1A9689A4E884
 Summary: The liquidity pool for FJB is scheduled to unlock on November 18 but will be immediately relocked thereafter to maintain project stability. Major updates are underway, including new contracts to address meme coin functions, team member replacements, merchandise rollout with a new vendor pending simple graphic designs, and a targeted app launch before Thanksgiving, contingent on today's leadership call outcomes.
-
-UUID: 5B507FD4-788D-46A0-B06B-DEECB1BA734A
-Type: VOICE UPDATE
-Date: 2022-10-20
-Speaker: Sarah Abdul, Velo
-Platform: [INCOMPLETE]
-Audio File: 
-Transcript: transcripts/2022-10-20%205B507FD4-788D-46A0-B06B-DEECB1BA734A
-Summary: [INCOMPLETE]
 
 ~~~~~~~~~~~~~~
 2022 NOVEMBER
@@ -708,7 +708,7 @@ Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcript/2022-11-01%2045BCAB47-5232-49C0-8BA3-9CCCB0E1EFFF
-Summary: [INCOMPLETE]
+Summary: The FJB Android app was removed from Google Play due to missing VES login credentials for review, with a meeting scheduled tomorrow to resolve it and restore availability. The project is shifting focus to approved foundational changes for long-term stability, including revisiting the white paper, potential tax structure adjustments, and community input on strategy, while off-ramp progress continues via a Transact middleman with a meeting later this week.
 
 UUID: 3C95EFBF-D157-402B-B239-137972C0EF7E
 Type: VOICE UPDATE
@@ -717,7 +717,7 @@ Speaker: [INCOMPLETE]
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-11-04%203C95EFBF-D157-402B-B239-137972C0EF7E
-Summary: [INCOMPLETE]
+Summary: The FJB project remains under the active involvement of Bannon and Boris with a streamlined team of four core members, focusing on backend reorganizations during transition to address long-standing issues and implement community-favored changes like a revised tax structure beneficial to holders. Delays persist due to disorganized handovers from departed team members, with no firm timelines provided, but upcoming plans include staking discussions, white paper revisions, Dogecoin integration, and community input on marketing strategies post-midterms.
 
 UUID: BC024F8E-B7E2-4A90-9288-CB27740DF402
 Type: VOICE UPDATE
@@ -744,7 +744,7 @@ Speaker: [INCOMPLETE]
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-11-11%20FF4B6708-554C-40B3-A70C-D207BDD69D8F
-Summary: [INCOMPLETE]
+Summary: The FJB project has been delayed by overdue payments to developer Velo, which are now being addressed to resume app tweaks like improved error messaging for better user experience targeting less seasoned crypto buyers. Liquidity pool unlocks in a few days, enabling transfer of contract ownership from original developers to implement multi-signature security before relocking, alongside plans for a revised white paper, maintained taxes to settle debts, and community-voted charity separation.
 
 UUID: 97903B33-0E8B-4D32-AD10-43881F45F13C
 Type: VOICE UPDATE
@@ -771,7 +771,7 @@ Speaker: [INCOMPLETE]
 Platform: [DISCORD], [TELEGRAM]
 Audio File: [INCOMPLETE]
 Transcript: transcripts/2022-11-29%20968BA8B9-8DF6-43CB-9E13-54CDE24413F2
-Summary: [INCOMPLETE]
+Summary: The ongoing legal investigation into missing funds involves an entire team and has yielded positive updates, though no official documents have been filed yet. Development priorities focus on resolving the Ethereum gas issue and implementing the smart wallet, with additional developers being added to expedite testing and progress.
 
 ~~~~~~~~~~~~~~
 2022 DECEMBER
@@ -784,7 +784,7 @@ Speaker: [INCOMPLETE]
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-12-02%2098A22492-6D88-461D-B73D-2CD1A7CE3568
-Summary: [INCOMPLETE]
+Summary: The FJB project has begun payments to developer Velo, bringing all bills up to date with a remaining balance of approximately 16,000 to 18,000 USD. Testing for the Smart Wallet is underway with community testers being onboarded this weekend, prioritizing resolution of the Ethereum gas issue following recent changes due to missing funds.
 
 UUID: 29D2CF93-5A98-48E8-864D-7414E24F3D40
 Type: VOICE UPDATE
