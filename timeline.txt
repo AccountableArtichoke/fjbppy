@@ -1085,6 +1085,69 @@ Audio File:
 Transcript: transcripts/2023-05-02%202C6A7CF3-8234-4C52-93EC-F51BE3FA0754
 Summary: [INCOMPLETE]
 
+UUID: 18F30974-46D7-4AE8-BE50-DB097DF0BAD3
+Type: VOICE UPDATE
+Date: 2023-05-05
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-05-05%2018F30974-46D7-4AE8-BE50-DB097DF0BAD3
+Summary: [INCOMPLETE]
+
+UUID: 76D6CB22-1C46-4586-818C-52E80BBCC9E9
+Type: VOICE UPDATE
+Date: 2023-05-09
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-05-09%2076D6CB22-1C46-4586-818C-52E80BBCC9E9
+Summary: [INCOMPLETE]
+
+UUID: 54EFA6AF-4499-4611-BE05-514BDADA8800
+Type: VOICE UPDATE
+Date: 2023-05-12
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: [URL]
+Transcript: transcripts/2023-05-12%2054EFA6AF-4499-4611-BE05-514BDADA8800
+Summary: [INCOMPLETE]
+
+UUID: 6D1B9494-7A43-4DEE-873A-40BE80FFB18A
+Type: VOICE UPDATE
+Date: 2023-05-16
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-05-16%206D1B9494-7A43-4DEE-873A-40BE80FFB18A
+Summary: [INCOMPLETE]
+
+UUID: A0F333FB-ECF9-4289-BFB3-29292B6F393E
+Type: VOICE UPDATE
+Date: 2023-05-19
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-05-19%20A0F333FB-ECF9-4289-BFB3-29292B6F393E
+Summary: [INCOMPLETE]
+
+UUID: 3CF82AB6-1DF0-4BE7-856A-D1AD1B091224
+Type: VOICE UPDATE
+Date: 2023-05-24
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: trancripts/2023-05-24%203CF82AB6-1DF0-4BE7-856A-D1AD1B091224
+Summary: [INCOMPLETE]
+
+UUID: 0BDE7123-D4B8-444A-A9D2-E49FC3BA993B
+Type: VOICE UPDATE
+Date: 2023-05-30
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-05-30%200BDE7123-D4B8-444A-A9D2-E49FC3BA993B
+Summary: [INCOMPLETE]
+
 UUID: 7D59E935-6CC4-4537-B92A-BB3485EB5D0C
 Type: VIDEO
 Date: 2023-05-26
@@ -1099,21 +1162,309 @@ Summary: Grace Cheong and Maureen Bannon affirm that they are still holding [the
 2023 JUNE
 ~~~~~~~~~~~~~~
 
+UUID: 0BDE7123-D4B8-444A-A9D2-E49FC3BA993B
+Type: VOICE UPDATE
+Date: 2023-06-13
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-06-13%200BDE7123-D4B8-444A-A9D2-E49FC3BA993B
+Summary: [INCOMPLETE]
+
+UUID: 5C6CAD6D-7399-4FCF-A24D-8D2875BA26AC
+Type: VOICE UPDATE
+Date: 2023-06-20
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-06-20%205C6CAD6D-7399-4FCF-A24D-8D2875BA26AC
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~
 2023 JULY
 ~~~~~~~~~~~~~~
+
+UUID: 5C6CAD6D-7399-4FCF-A24D-8D2875BA26AC
+Type: VOICE UPDATE
+Date: 2023-07-11
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-07-11%205C6CAD6D-7399-4FCF-A24D-8D2875BA26AC
+Summary: [INCOMPLETE]
+
+UUID: 0260E5EF-D4AA-4B9B-AFF2-93041B2405F0
+Type: VOICE UPDATE
+Date: 2023-07-18
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-07-18%200260E5EF-D4AA-4B9B-AFF2-93041B2405F0
+Summary: [INCOMPLETE]
+
+UUID: 6D6A108D-043D-40C1-A723-9C59056015F9
+Type: VOICE UPDATE
+Date: 2023-07-21
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-07-21%206D6A108D-043D-40C1-A723-9C59056015F9
+Summary: [INCOMPLETE]
+
+UUID: 4E2F52BA-C11E-4485-9D44-8FD2B3AF9B77
+Type: VOICE UPDATE
+Date: 2023-07-23
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-07-23%204E2F52BA-C11E-4485-9D44-8FD2B3AF9B77
+Summary: [INCOMPLETE]
+
+UUID: BD0F40EA-1396-4EED-A32B-0385919A0295
+Type: VOICE UPDATE
+Date: 2023-07-25
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-07-25%20BD0F40EA-1396-4EED-A32B-0385919A0295
+Summary: [INCOMPLETE]
+
+UUID: 6221C66D-BEFE-455B-B57B-06C271720AD9
+Type: VOICE UPDATE
+Date: 2023-07-28
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-07-28%206221C66D-BEFE-455B-B57B-06C271720AD9
+Summary: [INCOMPLETE]
 
 ~~~~~~~~~~~~~~
 2023 AUGUST
 ~~~~~~~~~~~~~~
 
+UUID: CFD3D791-8B5C-4877-848E-8D8BD850A699
+Type: VOICE UPDATE
+Date: 2023-08-01
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-08-01%20CFD3D791-8B5C-4877-848E-8D8BD850A699
+Summary: [INCOMPLETE]
+
+UUID: C90E8CFA-5A6A-4B39-B6F0-E08146FE0264
+Type: VOICE UPDATE
+Date: 2023-08-04
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-08-04%20C90E8CFA-5A6A-4B39-B6F0-E08146FE0264
+Summary: [INCOMPLETE]
+
+UUID: 3E9D7B08-3DBF-45F3-A4A2-E7CEEC3954D0
+Type: VOICE UPDATE
+Date: 2023-08-08
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-08-08%203E9D7B08-3DBF-45F3-A4A2-E7CEEC3954D0
+Summary: [INCOMPLETE]
+
+UUID: 98F6E26F-2DCD-4BB7-A3C8-43D13DFAE79B
+Type: VOICE UPDATE
+Date: 2023-08-11-1
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-08-11-1%2098F6E26F-2DCD-4BB7-A3C8-43D13DFAE79B
+Summary: [INCOMPLETE]
+
+UUID: CAB1B826-F859-4934-8751-ABA122DBBCEC
+Type: VOICE UPDATE
+Date: 2023-08-11-2
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-01-11-2%20CAB1B826-F859-4934-8751-ABA122DBBCEC
+Summary: [INCOMPLETE]
+
+UUID: DFFFC86D-8E41-41CD-9FF8-5C9EFB871149
+Type: VOICE UPDATE
+Date: 2023-08-18
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-08-18%20DFFFC86D-8E41-41CD-9FF8-5C9EFB871149
+Summary: [INCOMPLETE]
+
+UUID: 93877E8B-BB3A-47BF-A8FA-815F370C74E6
+Type: VOICE UPDATE
+Date: 2023-08-22
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-08-22%2093877E8B-BB3A-47BF-A8FA-815F370C74E6
+Summary: [INCOMPLETE]
+
+UUID: 49B09AEA-0A01-4553-B612-6C3E593BEC1B
+Type: VOICE UPDATE
+Date: 2023-08-25
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-08-25%2049B09AEA-0A01-4553-B612-6C3E593BEC1B
+Summary: [INCOMPLETE]
+
+UUID: ED493D04-9681-49EB-AA65-91A3622181A8
+Type: VOICE UPDATE
+Date: 2023-08-29
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-08-29%20ED493D04-9681-49EB-AA65-91A3622181A8
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~~
 2023 SEPTEMBER
 ~~~~~~~~~~~~~~~
 
+UUID: 9116D456-46B3-4896-8548-C7378F3F19D1
+Type: VOICE UPDATE
+Date: 2023-09-01
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-09-01%209116D456-46B3-4896-8548-C7378F3F19D1
+Summary: [INCOMPLETE]
+
+UUID: EE83E1B2-4ACC-4389-8720-50BDFCB1C88F
+Type: VOICE UPDATE
+Date: 2023-09-5
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-09-05%20EE83E1B2-4ACC-4389-8720-50BDFCB1C88F
+Summary: [INCOMPLETE]
+
+UUID: E2D523D6-22C9-4393-B402-D4E7BF27A4F6
+Type: VOICE UPDATE
+Date: 2023-09-08
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-09-08%20E2D523D6-22C9-4393-B402-D4E7BF27A4F6
+Summary: [INCOMPLETE]
+
+UUID: 58319FB8-5525-48CE-91AE-0D0D876F4BFC
+Type: VOICE UPDATE
+Date: 2023-09-15
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-09-15%2058319FB8-5525-48CE-91AE-0D0D876F4BFC
+Summary: [INCOMPLETE]
+
+UUID: A459024C-4C50-4DEF-8001-3232F18CDDAC
+Type: VOICE UPDATE
+Date: 2023-09-23
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-09-23%20A459024C-4C50-4DEF-8001-3232F18CDDAC
+Summary: [INCOMPLETE]
+
+UUID: 4FDD1422-6582-45AB-B4B5-985AC933860E
+Type: VOICE UPDATE
+Date: 2023-09-26
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-09-26%204FDD1422-6582-45AB-B4B5-985AC933860E
+Summary: [INCOMPLETE]
+
+UUID: 4FDD1422-6582-45AB-B4B5-985AC933860E
+Type: VOICE UPDATE
+Date: 2023-09-26
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-09-26%204FDD1422-6582-45AB-B4B5-985AC933860E
+Summary: [INCOMPLETE]
+
+UUID: 60ECF40C-2E22-4047-B36C-1E888C234C26
+Type: VOICE UPDATE
+Date: 2023-09-29
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-09-29%2060ECF40C-2E22-4047-B36C-1E888C234C26
+Summary: [INCOMPLETE]
+
 ~~~~~~~~~~~~~~~
 2023 OCTOBER
 ~~~~~~~~~~~~~~~
+
+UUID: 1B802822-FB34-483B-AEA0-E9E9F9CFDCE1
+Type: VOICE UPDATE
+Date: 2023-10-03
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-10-03%201B802822-FB34-483B-AEA0-E9E9F9CFDCE1
+Summary: [INCOMPLETE]
+
+UUID: 864F6F30-E8DA-4BB9-95E0-F5CBEF77EBA2
+Type: VOICE UPDATE
+Date: 2023-10-06
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-10-06%20864F6F30-E8DA-4BB9-95E0-F5CBEF77EBA2
+Summary: [INCOMPLETE]
+
+UUID: 1495B651-C010-469F-9476-752E3EA9104D
+Type: VOICE UPDATE
+Date: 2023-10-10
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-10-10%201495B651-C010-469F-9476-752E3EA9104D
+Summary: [INCOMPLETE]
+
+UUID: 40FB120D-89A8-4A62-A41B-CDBA71F02B46
+Type: VOICE UPDATE
+Date: 2023-10-13
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-10-13%2040FB120D-89A8-4A62-A41B-CDBA71F02B46
+Summary: [INCOMPLETE]
+
+UUID: 1063D26E-DFAE-4E32-B521-7B5A2650F69C
+Type: VOICE UPDATE
+Date: 2023-10-17
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-10-17%201063D26E-DFAE-4E32-B521-7B5A2650F69C
+Summary: [INCOMPLETE]
+
+UUID: 64891823-DD31-41BC-A23B-5DB20E5D6E0B
+Type: VOICE UPDATE
+Date: 2023-10-20
+Speaker: [INCOMPLETE]
+Platform: Discord
+Audio File: 
+Transcript: transcripts/2023-10-20%2064891823-DD31-41BC-A23B-5DB20E5D6E0B
+Summary: [INCOMPLETE]
+
+UUID: A25FBD90-D804-4BB7-B6C2-EDE82CF1BBEB
+Type: VOICE UPDATE
+Date: 2023-10-24
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-10-24%20A25FBD90-D804-4BB7-B6C2-EDE82CF1BBEB
+Summary: [INCOMPLETE]
 
 UUID: E7EF7585-0D14-4C70-B125-1AD3064694F2
 Type: VOICE UPDATE
@@ -1240,6 +1591,15 @@ Audio File:
 Transcript: transcripts/2023-12-18%2073357664-332F-4982-AF6C-044AFAC4CD20.txt
 Summary: The team is rebranding from FJB to PatriotPay (PPY) on the Polygon chain with a 1:1 token fork, waiting for ChangeNow integration and app store name changes before going live this week. The new contract includes advanced features like LP sync and political donation capabilities, with the team deciding between burning tokens versus funding liquidity to balance holder value with marketing needs for growth.
 
+UUID: 93F1649E-E061-44FC-9697-89664CBAD66B
+Type: VOICE UPDATE
+Date: 2023-12-19
+Speaker: [INCOMPLETE]
+Platform: Telegram
+Audio File: 
+Transcript: transcripts/2023-12-19%2093F1649E-E061-44FC-9697-89664CBAD66B
+Summary: [INCOMPLETE]
+
 UUID: EC1F670E-3AEC-4306-A4D7-B7A41A59C913
 Type: VOICE UPDATE
 Date: 2023-12-22
@@ -1280,6 +1640,15 @@ Audio File:
 Transcript: transcripts/2024-01-02%2062024F37-B3F3-4637-B898-6705D209E95E.txt
 Summary: Testing began Monday with the team awaiting Change Now and Transact to enable trading for full app integration testing, with community testing to follow within 24 hours if successful, after which trading will open with no limits and airdrops will be distributed. The primary development focus is simplifying app account creation to prevent user errors before War Room marketing launch, particularly addressing issues with users accessing wallets on new devices, with Steve planning extensive marketing once the app is sufficiently user-friendly.
 
+UUID: E4092712-222D-40C9-9A11-F1F4E930969B
+Type: VOICE UPDATE
+Date: 2024-01-05
+Speaker: [INCOMPLETE]
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2024-01-05%20E4092712-222D-40C9-9A11-F1F4E930969B
+Summary: [INCOMPLETE]
+
 UUID: AF6E369F-3AB8-47E4-8243-D9D7EA8CCB57
 Type: VOICE UPDATE
 Date: 2024-01-09
@@ -1288,6 +1657,15 @@ Platform:
 Audio File: 
 Transcript: transcripts/2024-01-09%20AF6E369F-3AB8-47E4-8243-D9D7EA8CCB57.txt
 Summary: Testing has progressed smoothly despite initial Polygon network issues, with Change Now expected to be ready within 12 hours and Transak awaiting final approval to enable trading, after which team testing of the app integration will begin before community testing opens. Once testing confirms no contract changes are needed, airdrops will be distributed and full trading will be enabled without the current $1,000 limit, followed by the release of the launch video and implementation of merchant onboarding guidelines.
+
+UUID: 2EFBEAAE-B446-4A02-9473-4017EA6CCEC9
+Type: VOICE UPDATE
+Date: 2024-01-14
+Speaker: Sarah Abdul, 
+Platform: [INCOMPLETE]
+Audio File: 
+Transcript: transcripts/2024-01-14%202EFBEAAE-B446-4A02-9473-4017EA6CCEC9
+Summary: [INCOMPLETE]
 
 UUID: 3AF0682B-F9E3-4E7A-B899-C22F6F9ACC36
 Type: VOICE UPDATE

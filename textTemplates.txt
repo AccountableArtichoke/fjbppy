@@ -6,14 +6,14 @@ contact fjbvoicetranscripts@proton.me with updates/suggestions
 
 ~~~~~~~~~~~~~~
 
-UUID: [UUID]
+UUID: 
 Type: VOICE UPDATE
-Date: [DATE]
-Speaker: [1], [2], [3]
-Platform: [DISCORD], [TELEGRAM]
-Audio File: [URL]
-Transcript: [URL]
-Summary: [TEXT]
+Date: 
+Speaker: [INCOMPLETE]
+Platform: 
+Audio File: 
+Transcript: transcripts/
+Summary: [INCOMPLETE]
 
 UUID: [UUID]
 Type: OWNERSHIP CHANGE
