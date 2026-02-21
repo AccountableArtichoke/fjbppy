@@ -713,7 +713,7 @@ Summary: The FJB Android app was removed from Google Play due to missing VES log
 UUID: 3C95EFBF-D157-402B-B239-137972C0EF7E
 Type: VOICE UPDATE
 Date: 2022-11-04
-Speaker: [INCOMPLETE]
+Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-11-04%203C95EFBF-D157-402B-B239-137972C0EF7E
@@ -740,11 +740,12 @@ Summary: The FJB project has uncovered tens of thousands of dollars in missing m
 UUID: FF4B6708-554C-40B3-A70C-D207BDD69D8F
 Type: VOICE UPDATE
 Date: 2022-11-11
-Speaker: [INCOMPLETE]
+Speaker: Sarah Abdul
 Platform: [INCOMPLETE]
 Audio File: 
 Transcript: transcripts/2022-11-11%20FF4B6708-554C-40B3-A70C-D207BDD69D8F
 Summary: The FJB project has been delayed by overdue payments to developer Velo, which are now being addressed to resume app tweaks like improved error messaging for better user experience targeting less seasoned crypto buyers. Liquidity pool unlocks in a few days, enabling transfer of contract ownership from original developers to implement multi-signature security before relocking, alongside plans for a revised white paper, maintained taxes to settle debts, and community-voted charity separation.
+Timestamp: 00:13:09 - 00:14:16 Sarah Abdul states, in response to a question from chat, that she has a record of her communications with her superiors on her phone and laptop. She characterizes the responses she received from her superiors as lies. She states that she has not wiped the laptop for three years, showing that she does not have a regular data deletion practice. She states that she received many questions from members of the community notifying her of various concerns. She states that she knows of others 'near her position' who asked the same questions and received the same answers.
 
 UUID: 97903B33-0E8B-4D32-AD10-43881F45F13C
 Type: VOICE UPDATE
@@ -767,8 +768,8 @@ Summary: The FJB project is addressing a $20,000 debt through imminent launches 
 UUID: 968BA8B9-8DF6-43CB-9E13-54CDE24413F2
 Type: VOICE UPDATE
 Date: 2022-11-29
-Speaker: [INCOMPLETE]
-Platform: [DISCORD], [TELEGRAM]
+Speaker: Sarah Abdul
+Platform: Telegram
 Audio File: [INCOMPLETE]
 Transcript: transcripts/2022-11-29%20968BA8B9-8DF6-43CB-9E13-54CDE24413F2
 Summary: The ongoing legal investigation into missing funds involves an entire team and has yielded positive updates, though no official documents have been filed yet. Development priorities focus on resolving the Ethereum gas issue and implementing the smart wallet, with additional developers being added to expedite testing and progress.
@@ -780,7 +781,7 @@ Summary: The ongoing legal investigation into missing funds involves an entire t
 UUID: 98A22492-6D88-461D-B73D-2CD1A7CE3568
 Type: VOICE UPDATE
 Date: 2022-12-02
-Speaker: [INCOMPLETE]
+Speaker: Sarah Abdul
 Platform: Discord
 Audio File: 
 Transcript: transcripts/2022-12-02%2098A22492-6D88-461D-B73D-2CD1A7CE3568
